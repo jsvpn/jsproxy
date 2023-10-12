@@ -10,24 +10,24 @@
 <li><a href="/baitai/20231012/1945840.md">求死无门！两次咬舌自杀未果 贵州前政法委副书记刘文新被捕后供出多人</a></li>
 <li><a href="/cbnews/20231012/1945872.md">中以关系蒙受重大打击，以色列对华政策将转向</a></li>
 <li><a href="/sohnews/20231012/1945960.md">邓小平隔代“托孤”，关门弟子汪洋玩“出格”；“娃娃市长”曾掏粪拉车，辍学顶班；和薄熙来争“蛋糕”，“腾笼换鸟”对垒“唱红打黑”; 宦海茫茫，汪洋风头不再</a></li>
+<li><a href="/topimagenews/20231012/1945957.md">中共很多政治规矩被打破 三中全会到底还开不开？</a></li>
 <li><a href="/sohnews/20231012/1946051.md">习近平的大秘直通哈马斯，北极鲶鱼的叔叔正是钟绍军，彭立发勇士近况。《老灯开讲第404期》</a></li>
 <li><a href="/sohnews/20231012/1945833.md">4国极端组织宣布参战；猪队友？真主党威胁美航母秀中共导弹；以色列被惹毛？解除所有作战限制</a></li>
-<li><a href="/topimagenews/20231012/1945957.md">中共很多政治规矩被打破 三中全会到底还开不开？</a></li>
-<li><a href="/sohnews/20231012/1946153.md">陈破空：李晓鹏遭双开！李鹏家族吓坏了？欧盟副主席访中，质问秦刚下落。中央党校副校长：全党工作中心，从发展经济转变为保政权！美东时间10月12日早8点45、即中港台10月12日晚8点45</a></li>
 <li><a href="/cnnews/20231012/1946005.md">销量暴跌70%,停产传闻不断 人民神车正在被抛弃</a></li>
+<li><a href="/sohnews/20231012/1946153.md">陈破空：李晓鹏遭双开！李鹏家族吓坏了？欧盟副主席访中，质问秦刚下落。中央党校副校长：全党工作中心，从发展经济转变为保政权！美东时间10月12日早8点45、即中港台10月12日晚8点45</a></li>
 <li><a href="/topimagenews/20231012/1945860.md">从内卷到“躺平”…“松弛”成了中国年轻人的人生观</a></li>
 <li><a href="/cbnews/20231012/1946001.md">与习会谈后，舒默在京发表声明：中国必须负责</a></li>
 <li><a href="/topimagenews/20231012/1946074.md">哈玛斯突袭前,埃及曾警告以色列?内塔尼亚胡怒了</a></li>
 <li><a href="/cbnews/20231012/1945966.md">前央视主播成蕾涉间谍案获释 最新照曝光很苍老</a></li>
 <li><a href="/cbnews/20231012/1945970.md">〖兲朝浮世绘〗中共的长臂管辖 专整海外华人</a></li>
 <li><a href="/lifebaike/20231012/1946003.md">广东姑娘晒出极繁主义的家 网友：太有勇气了</a></li>
-<li><a href="/ssgc/20231012/1945921.md">〖微博谈〗中共“促和”是假象</a></li>
 <li><a href="/baitai/20231012/1946123.md">自杀？59岁海南高官严朝君突然离世 李希剑指国企大佬</a></li>
+<li><a href="/ssgc/20231012/1945921.md">〖微博谈〗中共“促和”是假象</a></li>
 <li><a href="/topimagenews/20231012/1946165.md">330多枚火箭狂轰以色列! 黎巴嫩真主党挺哈玛斯 击毙以军副旅长</a></li>
 <li><a href="/comments/20231012/1945914.md">哈马斯要凉了</a></li>
 <li><a href="/sohnews/20231012/1946121.md">文睿：终于，公务员罢工，来了，一尊，这次坐到火山口上了</a></li>
+<li><a href="/comments/20231012/1946156.md">光大集团前董事长李晓鹏被捕</a></li>
 <li><a href="/health/20231012/1945910.md">凌晨3、4点总会突然醒来？第一个原因很多人有，但是都没检查出来</a></li>
-<li><a href="/baitai/20231012/1946031.md">四国向以宣战 以成立战时联合政府 中东大战一触即发？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
 <li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
 
 </ul>
 </div>
