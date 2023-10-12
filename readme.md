@@ -7,7 +7,6 @@
 
 <li><a href="/topimagenews/20231011/1945382.md">习家军内斗严重 这二人开始互殴</a></li>
 <li><a href="/sohnews/20231011/1945538.md">习近平到景德镇干了件大事，李鸿忠公开说习是如来佛，以色列报复中共向台湾转移核技术。《老灯开讲第403期》</a></li>
-<li><a href="/baitai/20231011/1945352.md">许家印倒下 中国两大银行爆挤兑 中共距政权危机还有多远？</a></li>
 <li><a href="/topimagenews/20231011/1945603.md">1万亿元的刺激计划来了！中国经济将反弹？</a></li>
 <li><a href="/worldnews/20231011/1945388.md">华尔街日报：以色列犯了大错</a></li>
 <li><a href="/topimagenews/20231011/1945628.md">中国真实失业率 除震惊找不到任何形容词；中国富豪恐慌，地下钱庄遍布全国</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/comments/20231011/1945677.md">【秦鹏观察】中共国安爆超大黑幕：习近平座上宾泰国落马</a></li>
 <li><a href="/topimagenews/20231011/1945419.md">英通灵预言家帕克：以色列即将袭击伊朗 台湾危险 中美紧张</a></li>
 <li><a href="/ssgc/20231011/1945357.md">〖微博谈〗为人民服务真香</a></li>
+<li><a href="/cnnews/20231011/1945566.md">瑞士打脸着实有点疼 打到北京七寸上</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20231012/1945872.md" target="_blank">中以关系蒙受重大打击，以色列对华政策将转向</a></li>
+<li><a href="/cbnews/20231012/1945871.md" target="_blank">突发：四川高中操场突然塌陷，多名学生掉粪坑…</a></li>
 <li><a href="/comments/20231012/1945866.md" target="_blank">巴以战争会走向何方？美国能同时应对三线作战吗？哈佛学生支持哈马斯让美国人震惊｜唐靖远 Jason David 赵兰健 方菲｜围炉夜话 10/11</a></li>
 <li><a href="/comments/20231012/1945855.md" target="_blank">中共给恐怖份子运了一船武器，结果被美国抓着..</a></li>
 <li><a href="/cbnews/20231012/1945819.md" target="_blank">美国思想领袖：【精彩片段】「你动台海 我动以色列」 中共趁乱放风引关注 习近平放低姿态会舒默 为拜习会做铺垫？- #新闻大家谈</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20231011/1945220.md" target="_blank">江峰：迷笛音乐节：自由与独裁的对抗 #迷笛音乐节</a></li>
 <li><a href="/cbnews/20231011/1945219.md" target="_blank">江峰：华为遥遥领先的技术：手机里装了习思想 #华为 #习近平</a></li>
 <li><a href="/cbnews/20231010/1945083.md" target="_blank">台湾军方这样吸取俄乌战争经验</a></li>
-<li><a href="/cbnews/20231010/1944992.md" target="_blank">多大的心，能把4岁女儿一个人扔在海滩上？</a></li>
-<li><a href="/cbnews/20231010/1944966.md" target="_blank">洪水发生一个月后，我在涿州拍下这些照片</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231012/1945877.md" target="_blank">张平：阿以冲突——你不可不知道的十个基本事实</a></li>
+<li><a href="/comments/20231012/1945876.md" target="_blank">蓝弋丰:“老兵八字轻”的以色列忽视了“穷鼠反噬”</a></li>
+<li><a href="/comments/20231012/1945870.md" target="_blank">文昭：加沙是陷阱？反美「三大战役」两个已打响，还有一个在这&#8230;老大哥笑了</a></li>
 <li><a href="/comments/20231012/1945866.md" target="_blank">巴以战争会走向何方？美国能同时应对三线作战吗？哈佛学生支持哈马斯让美国人震惊｜唐靖远 Jason David 赵兰健 方菲｜围炉夜话 10/11</a></li>
 <li><a href="/comments/20231012/1945855.md" target="_blank">中共给恐怖份子运了一船武器，结果被美国抓着..</a></li>
 <li><a href="/comments/20231012/1945847.md" target="_blank">吴惠林：第二十章 政府型独占，利民？害民？</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20231011/1945620.md" target="_blank">伦敦卢顿机场停车场大火！1200辆汽车烧毁 航班全面停飞</a></li>
 <li><a href="/comments/20231011/1945619.md" target="_blank">陶杰：巴勒斯坦“自古以来”都属于犹太人</a></li>
 <li><a href="/comments/20231011/1945551.md" target="_blank">“大中东战争”一触即发 奇特的“双重代理战争”</a></li>
-<li><a href="/comments/20231011/1945539.md" target="_blank">吴祚来：彭丽媛热议习近平文化思想</a></li>
-<li><a href="/comments/20231011/1945497.md" target="_blank">英国通灵大师恐怖预言：以巴战争升级，台海开战！整个阿拉伯世界被哈马斯拉下水，台湾危险</a></li>
-<li><a href="/comments/20231011/1945492.md" target="_blank">犀牛大会召开，看看他们都有谁？小罗伯特以独立候选人参选，究竟是帮川普还是拜登？#小罗伯特 #拜登 #川普</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
 
 </ul>
 </div>
