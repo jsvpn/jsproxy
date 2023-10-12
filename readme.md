@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/comments/20231012/1945855.md">中共给恐怖份子运了一船武器，结果被美国抓着..</a></li>
 <li><a href="/cnnews/20231012/1946099.md">习近平面临相当大的难题！网传消息：中共工作中心变了！【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20231012/1945872.md">中以关系蒙受重大打击，以色列对华政策将转向</a></li>
 <li><a href="/sohnews/20231012/1945960.md">邓小平隔代“托孤”，关门弟子汪洋玩“出格”；“娃娃市长”曾掏粪拉车，辍学顶班；和薄熙来争“蛋糕”，“腾笼换鸟”对垒“唱红打黑”; 宦海茫茫，汪洋风头不再</a></li>
@@ -17,17 +16,18 @@
 <li><a href="/topimagenews/20231012/1945860.md">从内卷到“躺平”…“松弛”成了中国年轻人的人生观</a></li>
 <li><a href="/cbnews/20231012/1945966.md">前央视主播成蕾涉间谍案获释 最新照曝光很苍老</a></li>
 <li><a href="/cbnews/20231012/1945970.md">〖兲朝浮世绘〗中共的长臂管辖 专整海外华人</a></li>
-<li><a href="/topimagenews/20231012/1946074.md">哈玛斯突袭前,埃及曾警告以色列?内塔尼亚胡怒了</a></li>
 <li><a href="/sohnews/20231012/1946215.md">地方政府接到“特殊”任务，中国年轻人坐等大事发生……</a></li>
+<li><a href="/topimagenews/20231012/1946074.md">哈玛斯突袭前,埃及曾警告以色列?内塔尼亚胡怒了</a></li>
 <li><a href="/topimagenews/20231012/1946165.md">330多枚火箭狂轰以色列! 黎巴嫩真主党挺哈玛斯 击毙以军副旅长</a></li>
-<li><a href="/lifebaike/20231012/1946003.md">广东姑娘晒出极繁主义的家 网友：太有勇气了</a></li>
 <li><a href="/baitai/20231012/1946123.md">自杀？59岁海南高官严朝君突然离世 李希剑指国企大佬</a></li>
 <li><a href="/headline/20231012/1946263.md">李尚福被解职 刘振里将军上位</a></li>
+<li><a href="/lifebaike/20231012/1946003.md">广东姑娘晒出极繁主义的家 网友：太有勇气了</a></li>
 <li><a href="/ssgc/20231012/1945921.md">〖微博谈〗中共“促和”是假象</a></li>
 <li><a href="/topimagenews/20231012/1946230.md">以色列网红英勇女大兵“返国参战” 1人救全队却头部中枪亡</a></li>
 <li><a href="/comments/20231012/1946156.md">光大集团前董事长李晓鹏被捕</a></li>
 <li><a href="/comments/20231012/1945914.md">哈马斯要凉了</a></li>
 <li><a href="/sohnews/20231012/1946121.md">文睿：终于，公务员罢工，来了，一尊，这次坐到火山口上了</a></li>
+<li><a href="/topimagenews/20231012/1946196.md">以色列开战叙利亚 轰炸2大国际机场 瘫痪空中交通</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,8 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20231013/1946361.md" target="_blank">以哈战争 以色列首次突空袭叙利亚两座机场 阻止伊朗送武器</a></li>
+<li><a href="/topimagenews/20231013/1946360.md" target="_blank">明日“阿克萨洪水星期五”？哈马斯的几个没想到</a></li>
 <li><a href="/topimagenews/20231013/1946353.md" target="_blank">高喊战略机遇期来了 北京能否抓住</a></li>
 <li><a href="/topimagenews/20231013/1946344.md" target="_blank">惊爆：巴勒斯坦活动家这样定性哈马斯 不看真想不到</a></li>
 <li><a href="/topimagenews/20231012/1946230.md" target="_blank">以色列网红英勇女大兵“返国参战” 1人救全队却头部中枪亡</a></li>
@@ -89,14 +91,13 @@
 <li><a href="/topimagenews/20231011/1945604.md" target="_blank">大陆芯片又传噩耗？拜登给“小弟”生路 反害1大厂送死</a></li>
 <li><a href="/topimagenews/20231011/1945603.md" target="_blank">1万亿元的刺激计划来了！中国经济将反弹？</a></li>
 <li><a href="/topimagenews/20231011/1945602.md" target="_blank">一个破碎了24年的家庭——公民记者 维权人士方斌的故事</a></li>
-<li><a href="/topimagenews/20231011/1945560.md" target="_blank">25岁的她，带领居民击杀25名哈马斯武装分子</a></li>
-<li><a href="/topimagenews/20231011/1945548.md" target="_blank">哈玛斯报复以色列！警告居民“限时内离开” 狂射百枚火箭弹画面曝光</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231013/1946359.md" target="_blank">文昭：中共突放低身段，配合中东下大棋？</a></li>
 <li><a href="/comments/20231013/1946304.md" target="_blank">Scalise赢下共和党议长提名，下面会怎样？【方伟时间-20231012】</a></li>
 <li><a href="/comments/20231012/1946271.md" target="_blank">时事大家谈：专访平可夫：以哈危机刚刚开始 恐酿新中东战争&#160;</a></li>
 <li><a href="/comments/20231012/1946256.md" target="_blank">《建民论推墙》博主、著名时政评论家吴建民先生悉尼公开演讲会</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20231012/1945944.md" target="_blank">木蹊说：“北极鲶鱼”的局长爷爷被开了！细节过于滑稽</a></li>
 <li><a href="/comments/20231012/1945939.md" target="_blank">天亮时分：哈马斯直通习办？中共站错队的代价；以色列的战士和哈马斯的懦夫；美国众议院议长难产（政论天下第1132集 20231011）天亮时分</a></li>
 <li><a href="/comments/20231012/1945935.md" target="_blank">朱昌俊:中学生表演“刺杀安倍”，仇恨教育让人担忧</a></li>
-<li><a href="/comments/20231012/1945934.md" target="_blank">勿言勿问: 132比1，日本核废水事件尘埃落定</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
 <li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
 
 </ul>
 </div>
