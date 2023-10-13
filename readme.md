@@ -10,24 +10,24 @@
 <li><a href="/cnnews/20231012/1946005.md">销量暴跌70%,停产传闻不断 人民神车正在被抛弃</a></li>
 <li><a href="/sohnews/20231012/1946153.md">陈破空：李晓鹏遭双开！李鹏家族吓坏了？欧盟副主席访中，质问秦刚下落。中央党校副校长：全党工作中心，从发展经济转变为保政权！美东时间10月12日早8点45、即中港台10月12日晚8点45</a></li>
 <li><a href="/cbnews/20231012/1946001.md">与习会谈后，舒默在京发表声明：中国必须负责</a></li>
-<li><a href="/cbnews/20231012/1945966.md">前央视主播成蕾涉间谍案获释 最新照曝光很苍老</a></li>
 <li><a href="/sohnews/20231012/1946215.md">地方政府接到“特殊”任务，中国年轻人坐等大事发生……</a></li>
-<li><a href="/cbnews/20231012/1945970.md">〖兲朝浮世绘〗中共的长臂管辖 专整海外华人</a></li>
 <li><a href="/topimagenews/20231012/1946074.md">哈玛斯突袭前,埃及曾警告以色列?内塔尼亚胡怒了</a></li>
 <li><a href="/headline/20231012/1946263.md">李尚福被解职 刘振里将军上位</a></li>
 <li><a href="/topimagenews/20231012/1946165.md">330多枚火箭狂轰以色列! 黎巴嫩真主党挺哈玛斯 击毙以军副旅长</a></li>
 <li><a href="/lifebaike/20231012/1946003.md">广东姑娘晒出极繁主义的家 网友：太有勇气了</a></li>
 <li><a href="/baitai/20231012/1946123.md">自杀？59岁海南高官严朝君突然离世 李希剑指国企大佬</a></li>
+<li><a href="/topimagenews/20231013/1946344.md">惊爆：巴勒斯坦活动家这样定性哈马斯 不看真想不到</a></li>
 <li><a href="/comments/20231012/1946156.md">光大集团前董事长李晓鹏被捕</a></li>
 <li><a href="/topimagenews/20231012/1946230.md">以色列网红英勇女大兵“返国参战” 1人救全队却头部中枪亡</a></li>
-<li><a href="/topimagenews/20231013/1946344.md">惊爆：巴勒斯坦活动家这样定性哈马斯 不看真想不到</a></li>
 <li><a href="/sohnews/20231012/1946121.md">文睿：终于，公务员罢工，来了，一尊，这次坐到火山口上了</a></li>
 <li><a href="/topimagenews/20231012/1946196.md">以色列开战叙利亚 轰炸2大国际机场 瘫痪空中交通</a></li>
 <li><a href="/baitai/20231012/1946168.md">北京首认有中国人死伤 混血女再受关注 阎梦丽惊爆中共与哈马斯关系</a></li>
-<li><a href="/cbnews/20231012/1945976.md">惹恼以色列，中国“斡旋人”形象破灭</a></li>
 <li><a href="/sohnews/20231013/1946343.md">以军空袭叙利亚，要5线开战？下24小时最后通牒，加沙大战在即！美情报称伊朗不知情，另有黑手？哈马斯吁全球恐袭，明天最重要！</a></li>
+<li><a href="/cbnews/20231012/1945976.md">惹恼以色列，中国“斡旋人”形象破灭</a></li>
 <li><a href="/topimagenews/20231012/1946213.md">中国掀起消费降级潮 经济低迷连打价格战都高度内卷</a></li>
 <li><a href="/cnnews/20231012/1946266.md">哈佛学生缩了! 联名挺巴勒斯坦后 遭美CEO们批永不录用 5社团撤回连署</a></li>
+<li><a href="/cnnews/20231012/1946217.md">以巴激战！最怕这大国出手 惊爆恐怖后果：全球都惨了</a></li>
+<li><a href="/baitai/20231012/1946031.md">四国向以宣战 以成立战时联合政府 中东大战一触即发？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20231013/1946500.md" target="_blank">逃离以色列！她求助中国大使馆被回：自己想办法 文章秒遭删除</a></li>
 <li><a href="/topimagenews/20231013/1946492.md" target="_blank">【微博精粹】习总再吹“一千个理由” 不当真男儿了</a></li>
 <li><a href="/topimagenews/20231013/1946428.md" target="_blank">消息人士：伊朗不知道哈马斯突袭内幕 在为中俄大怪招背锅？</a></li>
 <li><a href="/topimagenews/20231013/1946396.md" target="_blank">军事作战般五地联动 中共大规模遣返“脱北者”</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20231012/1945776.md" target="_blank">背后金援 各国都有办公室！哈马斯在土国、阿拉伯投资房产</a></li>
 <li><a href="/topimagenews/20231012/1945741.md" target="_blank">中富豪往外“润” 托地下钱庄转移资产 今年将达1500亿美元</a></li>
 <li><a href="/topimagenews/20231011/1945712.md" target="_blank">泽伦斯基：以巴冲突恐分散对乌克兰战争注意力</a></li>
-<li><a href="/topimagenews/20231011/1945628.md" target="_blank">中国真实失业率 除震惊找不到任何形容词；中国富豪恐慌，地下钱庄遍布全国</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
 <li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
 
 </ul>
 </div>
