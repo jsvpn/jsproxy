@@ -6,14 +6,13 @@
 <ul>
 
 <li><a href="/cnnews/20231012/1946099.md">习近平面临相当大的难题！网传消息：中共工作中心变了！【阿波罗网报道】</a></li>
-<li><a href="/sohnews/20231012/1946051.md">习近平的大秘直通哈马斯，北极鲶鱼的叔叔正是钟绍军，彭立发勇士近况。《老灯开讲第404期》</a></li>
 <li><a href="/sohnews/20231012/1946153.md">陈破空：李晓鹏遭双开！李鹏家族吓坏了？欧盟副主席访中，质问秦刚下落。中央党校副校长：全党工作中心，从发展经济转变为保政权！美东时间10月12日早8点45、即中港台10月12日晚8点45</a></li>
 <li><a href="/sohnews/20231012/1946215.md">地方政府接到“特殊”任务，中国年轻人坐等大事发生……</a></li>
 <li><a href="/headline/20231012/1946263.md">李尚福被解职 刘振里将军上位</a></li>
 <li><a href="/topimagenews/20231012/1946074.md">哈玛斯突袭前,埃及曾警告以色列?内塔尼亚胡怒了</a></li>
 <li><a href="/topimagenews/20231012/1946165.md">330多枚火箭狂轰以色列! 黎巴嫩真主党挺哈玛斯 击毙以军副旅长</a></li>
-<li><a href="/topimagenews/20231013/1946344.md">惊爆：巴勒斯坦活动家这样定性哈马斯 不看真想不到</a></li>
 <li><a href="/lifebaike/20231013/1946421.md">女生将50cm仙女管塞入体内，遭1.7亿人围观：病态欲望正在蔓延</a></li>
+<li><a href="/topimagenews/20231013/1946344.md">惊爆：巴勒斯坦活动家这样定性哈马斯 不看真想不到</a></li>
 <li><a href="/baitai/20231012/1946123.md">自杀？59岁海南高官严朝君突然离世 李希剑指国企大佬</a></li>
 <li><a href="/comments/20231012/1946156.md">光大集团前董事长李晓鹏被捕</a></li>
 <li><a href="/topimagenews/20231012/1946230.md">以色列网红英勇女大兵“返国参战” 1人救全队却头部中枪亡</a></li>
@@ -22,12 +21,13 @@
 <li><a href="/sohnews/20231012/1946121.md">文睿：终于，公务员罢工，来了，一尊，这次坐到火山口上了</a></li>
 <li><a href="/topimagenews/20231012/1946196.md">以色列开战叙利亚 轰炸2大国际机场 瘫痪空中交通</a></li>
 <li><a href="/baitai/20231012/1946168.md">北京首认有中国人死伤 混血女再受关注 阎梦丽惊爆中共与哈马斯关系</a></li>
-<li><a href="/topimagenews/20231013/1946360.md">明日“阿克萨洪水星期五”？哈马斯的几个没想到</a></li>
-<li><a href="/topimagenews/20231012/1946213.md">中国掀起消费降级潮 经济低迷连打价格战都高度内卷</a></li>
 <li><a href="/ssgc/20231013/1946405.md">〖微博谈〗保皇才是真的</a></li>
+<li><a href="/topimagenews/20231012/1946213.md">中国掀起消费降级潮 经济低迷连打价格战都高度内卷</a></li>
+<li><a href="/topimagenews/20231013/1946360.md">明日“阿克萨洪水星期五”？哈马斯的几个没想到</a></li>
 <li><a href="/cnnews/20231012/1946266.md">哈佛学生缩了! 联名挺巴勒斯坦后 遭美CEO们批永不录用 5社团撤回连署</a></li>
 <li><a href="/worldnews/20231013/1946302.md">伯恩斯大使：“无上限友谊”让中共付出沉重代价</a></li>
 <li><a href="/cnnews/20231012/1946217.md">以巴激战！最怕这大国出手 惊爆恐怖后果：全球都惨了</a></li>
+<li><a href="/yule/20231013/1946442.md">47岁林心如老到认不出 网友：素颜似大妈</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
 <li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
 
 </ul>
 </div>
