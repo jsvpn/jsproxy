@@ -11,20 +11,20 @@
 <li><a href="/comments/20231014/1946894.md">与哈马斯突袭高度一致！习近平恐要按捺不住</a></li>
 <li><a href="/topimagenews/20231014/1946942.md">以军本次还击最大特点：灭门式击毙哈马斯领袖</a></li>
 <li><a href="/finance/20231014/1947141.md">将裁员40万人！中国这两个行业遭遇寒冬</a></li>
-<li><a href="/cnnews/20231014/1946883.md">傅晓田——搅乱红都的“红燕子”</a></li>
 <li><a href="/lifebaike/20231014/1947041.md">出现8种情况，请立马关掉手机，可能你被“监听”了</a></li>
+<li><a href="/cnnews/20231014/1946883.md">傅晓田——搅乱红都的“红燕子”</a></li>
 <li><a href="/topimagenews/20231014/1947147.md">在中国这些银行的存款快点取出来，晚了就来不及；资金疯狂外逃！北京突然宣布…</a></li>
 <li><a href="/topimagenews/20231014/1947026.md">突发：以色列防长指控 一切都是由伊朗指挥的【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20231014/1946938.md">江峰：习近平搅局失败，以色列成立战时政府，中东战争打不起来了；中以混血哈玛斯掳走粉红狂欢，粉红愿做巴勒斯坦人还是以色列人；江峰踏上美国建国之旅，福吉谷祈祷现神蹟【江峰漫谈20231013第748期】</a></li>
 <li><a href="/cnnews/20231014/1946898.md">以色列扫荡加沙前 网络热传惊人一幕【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20231014/1946873.md">美国思想领袖：【精彩片段】 习近平身边的隐匿谋逆者究竟是谁？中共刮代理人夺权风暴 - #新闻大家谈</a></li>
+<li><a href="/topimagenews/20231014/1947214.md">以外交官北京遇刺 中共故意的？后果有多严重？【阿波罗网报道】</a></li>
 <li><a href="/comments/20231014/1947159.md">绝非危言耸听！袭击以色列只是预演，美国才是重头戏！乔丹重获议长提名，改变策略曝光犀牛。川普首次评价罢免麦卡锡，赞扬了盖茨。#众议院议长 #乔丹 #麦卡锡</a></li>
 <li><a href="/cbnews/20231014/1946847.md">恋爱3年公务员男友偷偷结婚 正宫“被小三”气炸一招让他吞恶果</a></li>
-<li><a href="/topimagenews/20231014/1947214.md">以外交官北京遇刺 中共故意的？后果有多严重？【阿波罗网报道】</a></li>
-<li><a href="/ssgc/20231014/1946977.md">〖微博谈〗问题出在前三排</a></li>
 <li><a href="/topimagenews/20231014/1947161.md">包这么紧都被认出来？ 以击杀“轰1杀1人质”发言人 再毁地下飞弹基地</a></li>
-<li><a href="/sohnews/20231014/1947080.md">北京意外！如何跟以色列交代？两个原因，让以色列对中共情有独钟；养肥两头白眼狼，以色列自食其果？｜薇羽看世间 第761期 20231013</a></li>
+<li><a href="/ssgc/20231014/1946977.md">〖微博谈〗问题出在前三排</a></li>
 <li><a href="/ccpdope/20231014/1947174.md">朝野上下失信心 谁是习近平最大敌人</a></li>
+<li><a href="/sohnews/20231014/1947080.md">北京意外！如何跟以色列交代？两个原因，让以色列对中共情有独钟；养肥两头白眼狼，以色列自食其果？｜薇羽看世间 第761期 20231013</a></li>
 <li><a href="/lifebaike/20231014/1947057.md">哈马斯“死亡隧道”揭秘：以军诱敌躲进隧道，陆海空狂炸全歼</a></li>
 <li><a href="/cbnews/20231014/1947110.md">中国最新肥胖地图：不少北方人看哭了</a></li>
 <li><a href="/sports/20231014/1946924.md">中国体操名将杨威自曝 要终身佩戴呼吸机</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
 
 </ul>
 </div>
