@@ -8,8 +8,8 @@
 <li><a href="/baitai/20231014/1946886.md">惊爆！火箭军参谋长孙金明、副司令李传广在会议室被带走 另有4名高级将领被抓</a></li>
 <li><a href="/topimagenews/20231014/1946889.md">英伟达创办人之女遭哈玛斯枪杀</a></li>
 <li><a href="/cnnews/20231014/1947144.md">骂声一片！王毅再公开表态 网友大骂：丧尽天良地转移话题混账逻辑【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20231014/1946942.md">以军本次还击最大特点：灭门式击毙哈马斯领袖</a></li>
 <li><a href="/comments/20231014/1946894.md">与哈马斯突袭高度一致！习近平恐要按捺不住</a></li>
+<li><a href="/topimagenews/20231014/1946942.md">以军本次还击最大特点：灭门式击毙哈马斯领袖</a></li>
 <li><a href="/finance/20231014/1947141.md">将裁员40万人！中国这两个行业遭遇寒冬</a></li>
 <li><a href="/cnnews/20231014/1946883.md">傅晓田——搅乱红都的“红燕子”</a></li>
 <li><a href="/lifebaike/20231014/1947041.md">出现8种情况，请立马关掉手机，可能你被“监听”了</a></li>
@@ -18,16 +18,16 @@
 <li><a href="/cnnews/20231014/1946898.md">以色列扫荡加沙前 网络热传惊人一幕【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20231014/1946938.md">江峰：习近平搅局失败，以色列成立战时政府，中东战争打不起来了；中以混血哈玛斯掳走粉红狂欢，粉红愿做巴勒斯坦人还是以色列人；江峰踏上美国建国之旅，福吉谷祈祷现神蹟【江峰漫谈20231013第748期】</a></li>
 <li><a href="/cbnews/20231014/1946873.md">美国思想领袖：【精彩片段】 习近平身边的隐匿谋逆者究竟是谁？中共刮代理人夺权风暴 - #新闻大家谈</a></li>
-<li><a href="/cbnews/20231014/1946847.md">恋爱3年公务员男友偷偷结婚 正宫“被小三”气炸一招让他吞恶果</a></li>
-<li><a href="/ssgc/20231014/1946977.md">〖微博谈〗问题出在前三排</a></li>
 <li><a href="/comments/20231014/1947159.md">绝非危言耸听！袭击以色列只是预演，美国才是重头戏！乔丹重获议长提名，改变策略曝光犀牛。川普首次评价罢免麦卡锡，赞扬了盖茨。#众议院议长 #乔丹 #麦卡锡</a></li>
-<li><a href="/sohnews/20231014/1947080.md">北京意外！如何跟以色列交代？两个原因，让以色列对中共情有独钟；养肥两头白眼狼，以色列自食其果？｜薇羽看世间 第761期 20231013</a></li>
+<li><a href="/cbnews/20231014/1946847.md">恋爱3年公务员男友偷偷结婚 正宫“被小三”气炸一招让他吞恶果</a></li>
 <li><a href="/topimagenews/20231014/1947161.md">包这么紧都被认出来？ 以击杀“轰1杀1人质”发言人 再毁地下飞弹基地</a></li>
-<li><a href="/lifebaike/20231014/1947057.md">哈马斯“死亡隧道”揭秘：以军诱敌躲进隧道，陆海空狂炸全歼</a></li>
+<li><a href="/ssgc/20231014/1946977.md">〖微博谈〗问题出在前三排</a></li>
+<li><a href="/sohnews/20231014/1947080.md">北京意外！如何跟以色列交代？两个原因，让以色列对中共情有独钟；养肥两头白眼狼，以色列自食其果？｜薇羽看世间 第761期 20231013</a></li>
 <li><a href="/topimagenews/20231014/1947214.md">以外交官北京遇刺 中共故意的？后果有多严重？【阿波罗网报道】</a></li>
+<li><a href="/lifebaike/20231014/1947057.md">哈马斯“死亡隧道”揭秘：以军诱敌躲进隧道，陆海空狂炸全歼</a></li>
+<li><a href="/ccpdope/20231014/1947174.md">朝野上下失信心 谁是习近平最大敌人</a></li>
 <li><a href="/sports/20231014/1946924.md">中国体操名将杨威自曝 要终身佩戴呼吸机</a></li>
 <li><a href="/comments/20231014/1946957.md">以哈打到第七天，这三件事让人倒吸一口凉气</a></li>
-<li><a href="/cbnews/20231014/1947110.md">中国最新肥胖地图：不少北方人看哭了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20231015/1947262.md" target="_blank">江峰：摩萨德失手？背後金主有高招</a></li>
 <li><a href="/comments/20231014/1947159.md" target="_blank">绝非危言耸听！袭击以色列只是预演，美国才是重头戏！乔丹重获议长提名，改变策略曝光犀牛。川普首次评价罢免麦卡锡，赞扬了盖茨。#众议院议长 #乔丹 #麦卡锡</a></li>
 <li><a href="/cbnews/20231014/1947110.md" target="_blank">中国最新肥胖地图：不少北方人看哭了</a></li>
 <li><a href="/cbnews/20231014/1946979.md" target="_blank">美国思想领袖：【精彩片段】中共政权被突然倒台的风险有多大？ 唐靖远：习近平身边最大危险也许来自蔡奇这类人 &#8211; #新闻大家谈</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20231013/1946311.md" target="_blank">原驻澳洲副领事夫人因信仰遭中共非法判刑</a></li>
 <li><a href="/comments/20231013/1946304.md" target="_blank">Scalise赢下共和党议长提名，下面会怎样？【方伟时间-20231012】</a></li>
 <li><a href="/cbnews/20231012/1946232.md" target="_blank">美福特号航母驰援以色列“非当和事佬”？惊人目的曝光</a></li>
-<li><a href="/cbnews/20231012/1946231.md" target="_blank">台湾造潜舰搭美制Mk-48重型鱼雷 美媒：共军新梦魇</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
 
 </ul>
 </div>
