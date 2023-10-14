@@ -7,7 +7,6 @@
 
 <li><a href="/cnnews/20231013/1946633.md">资金疯狂外逃！北京突然宣布…</a></li>
 <li><a href="/topimagenews/20231013/1946646.md">在中国这些银行存款的快点取出来，晚就来不及了【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20231013/1946609.md">不装了！中共对哈马斯恐袭以色列公开表态！【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20231013/1946678.md">突发：以色列外交官在北京遇刺</a></li>
 <li><a href="/comments/20231013/1946692.md">以色列重大宣布：对华关系转向，轰炸习近平好友阿萨德，哈马斯S定了！以感谢台湾总统</a></li>
 <li><a href="/headline/20231013/1946704.md">中国网传刘强东被抓 京东报警</a></li>
@@ -16,18 +15,19 @@
 <li><a href="/topimagenews/20231014/1946889.md">英伟达创办人之女遭哈玛斯枪杀</a></li>
 <li><a href="/baitai/20231014/1946886.md">惊爆！火箭军参谋长孙金明、副司令李传广在会议室被带走 另有4名高级将领被抓</a></li>
 <li><a href="/baitai/20231013/1946735.md">突发！以色列驻华使馆人员在北京遇刺杀画面曝光</a></li>
-<li><a href="/worldnews/20231013/1946612.md">哈玛斯疑似持朝鲜武器袭击以色列 平壤发声了</a></li>
 <li><a href="/topimagenews/20231014/1946942.md">以军本次还击最大特点：灭门式击毙哈马斯领袖</a></li>
 <li><a href="/baitai/20231013/1946699.md">新加坡辱骂护士后果很严重 中国女网红吓坏了</a></li>
-<li><a href="/sohnews/20231013/1946685.md">最新预言！ 10月28日很关键！ 10月-11月，这些地区将陷入战乱和天灾…</a></li>
 <li><a href="/topimagenews/20231014/1947026.md">突发：以色列防长指控 一切都是由伊朗指挥的【阿波罗网报道】</a></li>
+<li><a href="/sohnews/20231013/1946685.md">最新预言！ 10月28日很关键！ 10月-11月，这些地区将陷入战乱和天灾…</a></li>
 <li><a href="/cbnews/20231014/1946938.md">江峰：习近平搅局失败，以色列成立战时政府，中东战争打不起来了；中以混血哈玛斯掳走粉红狂欢，粉红愿做巴勒斯坦人还是以色列人；江峰踏上美国建国之旅，福吉谷祈祷现神蹟【江峰漫谈20231013第748期】</a></li>
 <li><a href="/cnnews/20231014/1946898.md">以色列扫荡加沙前 网络热传惊人一幕【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20231014/1946883.md">傅晓田——搅乱红都的“红燕子”</a></li>
-<li><a href="/cbnews/20231014/1946873.md">美国思想领袖：【精彩片段】 习近平身边的隐匿谋逆者究竟是谁？中共刮代理人夺权风暴 - #新闻大家谈</a></li>
 <li><a href="/comments/20231014/1946894.md">与哈马斯突袭高度一致！习近平恐要按捺不住</a></li>
+<li><a href="/cbnews/20231014/1946873.md">美国思想领袖：【精彩片段】 习近平身边的隐匿谋逆者究竟是谁？中共刮代理人夺权风暴 - #新闻大家谈</a></li>
 <li><a href="/cbnews/20231014/1946847.md">恋爱3年公务员男友偷偷结婚 正宫“被小三”气炸一招让他吞恶果</a></li>
 <li><a href="/cbnews/20231013/1946784.md">北京警方：以色列外交人员家属遭扎伤 嫌犯已抓获</a></li>
+<li><a href="/ssgc/20231014/1946977.md">〖微博谈〗问题出在前三排</a></li>
+<li><a href="/topimagenews/20231013/1946629.md">陆著名经济学家疾呼：中国现在必须改革！1万亿刺激计划来了！中国经济将反弹？风光不再</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
 
 </ul>
 </div>
