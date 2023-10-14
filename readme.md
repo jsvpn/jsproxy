@@ -6,17 +6,13 @@
 <ul>
 
 <li><a href="/comments/20231013/1946692.md">以色列重大宣布：对华关系转向，轰炸习近平好友阿萨德，哈马斯S定了！以感谢台湾总统</a></li>
-<li><a href="/cnnews/20231013/1946678.md">突发：以色列外交官在北京遇刺</a></li>
 <li><a href="/headline/20231013/1946704.md">中国网传刘强东被抓 京东报警</a></li>
-<li><a href="/baitai/20231013/1946689.md">李强失宠？习近平将做重大政治转折 ？一连串会议异常露端倪</a></li>
-<li><a href="/comments/20231013/1946672.md">习近平江西考察 总理李强成跟班</a></li>
 <li><a href="/topimagenews/20231014/1946889.md">英伟达创办人之女遭哈玛斯枪杀</a></li>
 <li><a href="/baitai/20231014/1946886.md">惊爆！火箭军参谋长孙金明、副司令李传广在会议室被带走 另有4名高级将领被抓</a></li>
 <li><a href="/baitai/20231013/1946735.md">突发！以色列驻华使馆人员在北京遇刺杀画面曝光</a></li>
 <li><a href="/baitai/20231013/1946699.md">新加坡辱骂护士后果很严重 中国女网红吓坏了</a></li>
 <li><a href="/topimagenews/20231014/1947026.md">突发：以色列防长指控 一切都是由伊朗指挥的【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20231014/1946942.md">以军本次还击最大特点：灭门式击毙哈马斯领袖</a></li>
-<li><a href="/sohnews/20231013/1946685.md">最新预言！ 10月28日很关键！ 10月-11月，这些地区将陷入战乱和天灾…</a></li>
 <li><a href="/lifebaike/20231014/1947041.md">出现8种情况，请立马关掉手机，可能你被“监听”了</a></li>
 <li><a href="/cnnews/20231014/1946883.md">傅晓田——搅乱红都的“红燕子”</a></li>
 <li><a href="/cbnews/20231014/1946938.md">江峰：习近平搅局失败，以色列成立战时政府，中东战争打不起来了；中以混血哈玛斯掳走粉红狂欢，粉红愿做巴勒斯坦人还是以色列人；江峰踏上美国建国之旅，福吉谷祈祷现神蹟【江峰漫谈20231013第748期】</a></li>
@@ -28,6 +24,10 @@
 <li><a href="/lifebaike/20231014/1947057.md">哈马斯“死亡隧道”揭秘：以军诱敌躲进隧道，陆海空狂炸全歼</a></li>
 <li><a href="/cbnews/20231013/1946784.md">北京警方：以色列外交人员家属遭扎伤 嫌犯已抓获</a></li>
 <li><a href="/sports/20231014/1946924.md">中国体操名将杨威自曝 要终身佩戴呼吸机</a></li>
+<li><a href="/topimagenews/20231013/1946758.md">战火烧到常春藤名校！学校紧急关闭“两派示威对峙”空拍画面惊人</a></li>
+<li><a href="/topimagenews/20231013/1946744.md">哈玛斯有钱到登“富比世”！外媒曝赚钱手段太震撼</a></li>
+<li><a href="/cnnews/20231013/1946787.md">不惧哈玛斯拿人质威胁！以色列霸气扭转局势 财经网美赞：非常之民族</a></li>
+<li><a href="/sohnews/20231014/1947080.md">北京意外！如何跟以色列交代？两个原因，让以色列对中共情有独钟；养肥两头白眼狼，以色列自食其果？｜薇羽看世间 第761期 20231013</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
 <li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
 
 </ul>
 </div>
