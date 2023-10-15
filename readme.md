@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/ccpdope/20231014/1947174.md">朝野上下失信心 谁是习近平最大敌人</a></li>
 <li><a href="/topimagenews/20231014/1947214.md">以外交官北京遇刺 中共故意的？后果有多严重？【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20231014/1947208.md">习近平偏爱行宫 体制运作更低效</a></li>
 <li><a href="/topimagenews/20231015/1947327.md">烧光410亿后，他找了个借口逃亡海外</a></li>
@@ -16,17 +15,18 @@
 <li><a href="/sohnews/20231015/1947403.md">丁玉梅被全天监视，李尚福将官宣落马？20套铁穹入台？国军获强大助力；🇺🇸超强的核动力航母；配置无与伦比，后勤保障强大【新闻看点 李沐阳10.14】</a></li>
 <li><a href="/topimagenews/20231015/1947318.md">第一缕曙光：俄军遭遇单日单次最大惨败</a></li>
 <li><a href="/comments/20231015/1947280.md">【独家重磅】李燕铭：中纪委副书记刘金国异常隐身逾两周 接连缺席中纪委重大活动 610头目刘金国或染疫 难逃被清算命运 中纪委书记李希四天三大动作连释清洗信号 八名纪检内鬼被密集查处 赵乐际旧部纷纷出事 习近平连任后大清洗（105） 围剿赵乐际（22） 辽宁帮覆灭记（20）</a></li>
-<li><a href="/baitai/20231015/1947292.md">正妹分享巧遇刘德华合照 网一看全傻眼</a></li>
 <li><a href="/sohnews/20231015/1947394.md">太子党一号邓朴方销声 邓小平算计习家遭习近平复仇</a></li>
+<li><a href="/baitai/20231015/1947292.md">正妹分享巧遇刘德华合照 网一看全傻眼</a></li>
 <li><a href="/topimagenews/20231015/1947422.md">【微博精粹】哈马斯：这是中国人，杀了他</a></li>
 <li><a href="/topimagenews/20231015/1947319.md">哈玛斯情搜新高度！连以军 “最高机密”都清楚</a></li>
 <li><a href="/cnnews/20231015/1947323.md">内塔尼亚胡送儿子上前线；美国提醒以色列</a></li>
 <li><a href="/ssgc/20231015/1947428.md">〖微博谈〗出了国才知道，战狼是最大的谣言</a></li>
 <li><a href="/cnnews/20231015/1947450.md">著名的翻译家、奥斯卡获奖演员 竟是隐藏极深的中共特务</a></li>
-<li><a href="/headline/20231014/1947252.md">新加坡副总理提醒中国，运用影响力过猛会引起反弹和抵制</a></li>
 <li><a href="/comments/20231015/1947464.md">王友群：习近平的又一个决策错误</a></li>
+<li><a href="/headline/20231014/1947252.md">新加坡副总理提醒中国，运用影响力过猛会引起反弹和抵制</a></li>
 <li><a href="/topimagenews/20231015/1947435.md">变天！中共噩耗 新西兰友台政党上台</a></li>
 <li><a href="/sohnews/20231015/1947311.md">诺查丹马斯的《诸世纪》暗示：世界战乱灾祸的源头来自......</a></li>
+<li><a href="/cbnews/20231015/1947452.md">〖兲朝浮世绘〗出了国才知道，战狼是最大的谣言</a></li>
 <li><a href="/topimagenews/20231014/1947187.md">大怪招？哈马斯突然多拿2.5亿美元 深度揭秘哈玛斯建“小型军队”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20231015/1947552.md" target="_blank">以色列中国留学生群的图片在网络上流传</a></li>
 <li><a href="/cbnews/20231015/1947512.md" target="_blank">黑龙江惊传列车脱轨！“4节车厢扭曲”画面曝光 陆官媒称：无人伤亡</a></li>
 <li><a href="/cbnews/20231015/1947182.md" target="_blank">台湾企业负责人修炼法轮功的故事</a></li>
 <li><a href="/cbnews/20231015/1947462.md" target="_blank">普京将访中 专家：俄中关系发展北京占上风</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20231013/1946737.md" target="_blank">以色列驻华大使馆一名雇员在北京遭袭击</a></li>
 <li><a href="/comments/20231013/1946698.md" target="_blank">942首预言诗！诺查丹玛斯根据神谕书写《诸世纪》！还有一大半，解读不出来！通过一面另外空间的镜子，看到未来！预言宗教引发的战争，欧洲国运！｜ #未解之谜 扶摇</a></li>
 <li><a href="/comments/20231013/1946697.md" target="_blank">诺查丹玛斯的魔镜：另外空间的大师</a></li>
-<li><a href="/comments/20231013/1946696.md" target="_blank">诺查丹玛斯的魔镜：意念控制的魔镜</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231015/1947553.md" target="_blank">哈马斯敌人从未如此之凶残，以政府从未如此之昏庸，人民从未如此之伟大</a></li>
+<li><a href="/comments/20231015/1947544.md" target="_blank">多数州否决 澳洲“原住民之声”公投失败</a></li>
 <li><a href="/comments/20231015/1947538.md" target="_blank">秦晖：阿以冲突的由来</a></li>
 <li><a href="/comments/20231015/1947464.md" target="_blank">王友群：习近平的又一个决策错误</a></li>
 <li><a href="/comments/20231015/1947458.md" target="_blank">文昭：以巴恩怨，各说各理；谁的理更强？【会员样片节】</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20231015/1947368.md" target="_blank">王浩：中国发展模式的困境</a></li>
 <li><a href="/comments/20231015/1947351.md" target="_blank">中南海月底举行重要会议 习近平料换国防部长</a></li>
 <li><a href="/comments/20231015/1947342.md" target="_blank">哈以战争牵动全球格局，下一战在台海？中东战局如何影响美中关系？｜唐靖远 吴嘉隆 横河 ｜时事大聚焦 10/14</a></li>
-<li><a href="/comments/20231015/1947337.md" target="_blank">王友群:中共为什么不谴责哈马斯？</a></li>
-<li><a href="/comments/20231015/1947336.md" target="_blank">纪永添:中共国对台湾发动突袭的可能性正在升高</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
 <li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
 <li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
 
 </ul>
 </div>
