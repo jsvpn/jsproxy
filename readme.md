@@ -9,14 +9,14 @@
 <li><a href="/sohnews/20231015/1947344.md">陈破空：习胞弟高调现身！想当接班人？陕官狂捧。北京四通桥紧张，如临大敌，密布特工。彭载舟被提名诺贝尔和平奖。直播与互动：美东时间10月14日晚8点30、即中港台10月15日早8点30</a></li>
 <li><a href="/sohnews/20231015/1947285.md">“一旦开打！欧美超级移民城市纽约 伦敦 巴黎 罗马 ⋯ 随即将陷入大乱”No.02（10/14/23）</a></li>
 <li><a href="/topimagenews/20231015/1947317.md">不惜遗臭万年，北京送出一张入场券</a></li>
-<li><a href="/cnnews/20231015/1947514.md">突发！网传视频：北京发生惨烈车祸 警察：别拍了！别拍了！【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20231015/1947444.md">习清洗军队再抓六名高级将领，躲避兵变习逃离北京，阿以冲突对中国经济的巨大影响。《老灯开讲第405期》</a></li>
+<li><a href="/cnnews/20231015/1947514.md">突发！网传视频：北京发生惨烈车祸 警察：别拍了！别拍了！【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20231015/1947552.md">以色列中国留学生群的图片在网络上流传</a></li>
 <li><a href="/sohnews/20231015/1947394.md">太子党一号邓朴方销声 邓小平算计习家遭习近平复仇</a></li>
 <li><a href="/sohnews/20231015/1947403.md">丁玉梅被全天监视，李尚福将官宣落马？20套铁穹入台？国军获强大助力；🇺🇸超强的核动力航母；配置无与伦比，后勤保障强大【新闻看点 李沐阳10.14】</a></li>
+<li><a href="/topimagenews/20231015/1947518.md">不要对加沙发动地面进攻 伊朗通过联合国警告以色列 否则...</a></li>
 <li><a href="/comments/20231015/1947280.md">【独家重磅】李燕铭：中纪委副书记刘金国异常隐身逾两周 接连缺席中纪委重大活动 610头目刘金国或染疫 难逃被清算命运 中纪委书记李希四天三大动作连释清洗信号 八名纪检内鬼被密集查处 赵乐际旧部纷纷出事 习近平连任后大清洗（105） 围剿赵乐际（22） 辽宁帮覆灭记（20）</a></li>
 <li><a href="/topimagenews/20231015/1947318.md">第一缕曙光：俄军遭遇单日单次最大惨败</a></li>
-<li><a href="/topimagenews/20231015/1947518.md">不要对加沙发动地面进攻 伊朗通过联合国警告以色列 否则...</a></li>
 <li><a href="/baitai/20231015/1947292.md">正妹分享巧遇刘德华合照 网一看全傻眼</a></li>
 <li><a href="/comments/20231015/1947464.md">王友群：习近平的又一个决策错误</a></li>
 <li><a href="/topimagenews/20231015/1947486.md">川普首度披露：内塔尼亚胡做的这件事 让我们失望 永远不会忘记</a></li>
@@ -26,8 +26,8 @@
 <li><a href="/cnnews/20231015/1947450.md">著名的翻译家、奥斯卡获奖演员 竟是隐藏极深的中共特务</a></li>
 <li><a href="/topimagenews/20231015/1947319.md">哈玛斯情搜新高度！连以军 “最高机密”都清楚</a></li>
 <li><a href="/cbnews/20231015/1947452.md">〖兲朝浮世绘〗出了国才知道，战狼是最大的谣言</a></li>
-<li><a href="/ssgc/20231015/1947428.md">〖微博谈〗出了国才知道，战狼是最大的谣言</a></li>
 <li><a href="/baitai/20231015/1947550.md">子女有以下习惯，大多不会“孝顺”</a></li>
+<li><a href="/ssgc/20231015/1947428.md">〖微博谈〗出了国才知道，战狼是最大的谣言</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231016/1947621.md" target="_blank">【独家重磅】李燕铭：习近平震慑曾庆红酝酿重磅动作 中南海密集召开四次重要会议 习先行深入曾庆红虎穴现身两敏感地点 三常委跟班十个巡视组提前进驻监控 江西官场官场大清洗 逾十高官被密集查处 习近平决战江曾（141） 中南海政变与反政变（140） 习近平连任后大清洗（106） 习近平清洗江西帮围剿曾庆红（26） 习强化军权内防政变对外备战（58）</a></li>
 <li><a href="/comments/20231015/1947606.md" target="_blank">滞留以色列国人求助无援 中共大使怂了不敢接电话</a></li>
 <li><a href="/comments/20231015/1947605.md" target="_blank">【新闻拍案惊奇】美国要派兵以色列！四通桥事件周年</a></li>
 <li><a href="/comments/20231015/1947604.md" target="_blank">【秦鹏观察】揭开神秘的哈玛斯最高领导人面纱</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20231015/1947411.md" target="_blank">【杰森视角】新中东战争开打，世界进入混乱纪元！ 自由世界能出奇制胜吗？ 哈马斯对以色列人实施的“十月恐怖”是精密谋划的一部分！ 战争如何危害世界经济？ 如何在战场上常输，在谈判桌上常胜？</a></li>
 <li><a href="/comments/20231015/1947409.md" target="_blank">白丁:中国经济为什么会突然从奇迹变成危机</a></li>
 <li><a href="/comments/20231015/1947406.md" target="_blank">天亮时分：【周末大V谈】中东哈以之战的背後玄虚；美国会议长之位的旋风变幻</a></li>
-<li><a href="/comments/20231015/1947399.md" target="_blank">张平：巴勒斯坦土地问题的七大谬论</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
 <li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
 <li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
 
 </ul>
 </div>
