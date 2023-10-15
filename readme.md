@@ -19,8 +19,8 @@
 <li><a href="/cnnews/20231015/1947323.md">内塔尼亚胡送儿子上前线；美国提醒以色列</a></li>
 <li><a href="/topimagenews/20231015/1947486.md">川普首度披露：内塔尼亚胡做的这件事 让我们失望 永远不会忘记</a></li>
 <li><a href="/cbnews/20231015/1947512.md">黑龙江惊传列车脱轨！“4节车厢扭曲”画面曝光 陆官媒称：无人伤亡</a></li>
-<li><a href="/cnnews/20231015/1947450.md">著名的翻译家、奥斯卡获奖演员 竟是隐藏极深的中共特务</a></li>
 <li><a href="/topimagenews/20231015/1947422.md">【微博精粹】哈马斯：这是中国人，杀了他</a></li>
+<li><a href="/cnnews/20231015/1947450.md">著名的翻译家、奥斯卡获奖演员 竟是隐藏极深的中共特务</a></li>
 <li><a href="/cbnews/20231015/1947452.md">〖兲朝浮世绘〗出了国才知道，战狼是最大的谣言</a></li>
 <li><a href="/baitai/20231015/1947550.md">子女有以下习惯，大多不会“孝顺”</a></li>
 <li><a href="/topimagenews/20231015/1947319.md">哈玛斯情搜新高度！连以军 “最高机密”都清楚</a></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231016/1947637.md" target="_blank">民主党人拉拢临时议长，试图变相废除乔丹。川普布局，支持卡莉·莱克竞选参议员，建制派媒体挑拨是非。#麦卡锡 #莱克 #乔丹</a></li>
 <li><a href="/cbnews/20231015/1947610.md" target="_blank">卢比奥：应取消哈马斯支持者的美国签证</a></li>
 <li><a href="/cbnews/20231015/1947599.md" target="_blank">以哈战火 外国人逾百人丧命失踪或沦为人质</a></li>
 <li><a href="/cbnews/20231015/1947552.md" target="_blank">以色列中国留学生群的图片在网络上流传</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20231014/1946847.md" target="_blank">恋爱3年公务员男友偷偷结婚 正宫“被小三”气炸一招让他吞恶果</a></li>
 <li><a href="/cbnews/20231014/1946846.md" target="_blank">中国幼儿园老师逼幼童吃呕吐物 网友一看拳头硬了</a></li>
 <li><a href="/cbnews/20231013/1946784.md" target="_blank">北京警方：以色列外交人员家属遭扎伤 嫌犯已抓获</a></li>
-<li><a href="/cbnews/20231013/1946737.md" target="_blank">以色列驻华大使馆一名雇员在北京遭袭击</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231016/1947637.md" target="_blank">民主党人拉拢临时议长，试图变相废除乔丹。川普布局，支持卡莉·莱克竞选参议员，建制派媒体挑拨是非。#麦卡锡 #莱克 #乔丹</a></li>
 <li><a href="/comments/20231016/1947621.md" target="_blank">【独家重磅】李燕铭：习近平震慑曾庆红酝酿重磅动作 中南海密集召开四次重要会议 习先行深入曾庆红虎穴现身两敏感地点 三常委跟班十个巡视组提前进驻监控 江西官场官场大清洗 逾十高官被密集查处 习近平决战江曾（141） 中南海政变与反政变（140） 习近平连任后大清洗（106） 习近平清洗江西帮围剿曾庆红（26） 习强化军权内防政变对外备战（58）</a></li>
 <li><a href="/comments/20231015/1947606.md" target="_blank">滞留以色列国人求助无援 中共大使怂了不敢接电话</a></li>
 <li><a href="/comments/20231015/1947605.md" target="_blank">【新闻拍案惊奇】美国要派兵以色列！四通桥事件周年</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20231015/1947412.md" target="_blank">译丛：为什么哈马斯发动突袭，为什么以色列措手不及</a></li>
 <li><a href="/comments/20231015/1947411.md" target="_blank">【杰森视角】新中东战争开打，世界进入混乱纪元！ 自由世界能出奇制胜吗？ 哈马斯对以色列人实施的“十月恐怖”是精密谋划的一部分！ 战争如何危害世界经济？ 如何在战场上常输，在谈判桌上常胜？</a></li>
 <li><a href="/comments/20231015/1947409.md" target="_blank">白丁:中国经济为什么会突然从奇迹变成危机</a></li>
-<li><a href="/comments/20231015/1947406.md" target="_blank">天亮时分：【周末大V谈】中东哈以之战的背後玄虚；美国会议长之位的旋风变幻</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
 <li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
 
 </ul>
 </div>
