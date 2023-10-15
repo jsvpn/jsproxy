@@ -9,25 +9,25 @@
 <li><a href="/sohnews/20231015/1947344.md">陈破空：习胞弟高调现身！想当接班人？陕官狂捧。北京四通桥紧张，如临大敌，密布特工。彭载舟被提名诺贝尔和平奖。直播与互动：美东时间10月14日晚8点30、即中港台10月15日早8点30</a></li>
 <li><a href="/sohnews/20231015/1947285.md">“一旦开打！欧美超级移民城市纽约 伦敦 巴黎 罗马 ⋯ 随即将陷入大乱”No.02（10/14/23）</a></li>
 <li><a href="/topimagenews/20231015/1947317.md">不惜遗臭万年，北京送出一张入场券</a></li>
-<li><a href="/sohnews/20231015/1947444.md">习清洗军队再抓六名高级将领，躲避兵变习逃离北京，阿以冲突对中国经济的巨大影响。《老灯开讲第405期》</a></li>
 <li><a href="/cnnews/20231015/1947514.md">突发！网传视频：北京发生惨烈车祸 警察：别拍了！别拍了！【阿波罗网报道】</a></li>
+<li><a href="/sohnews/20231015/1947444.md">习清洗军队再抓六名高级将领，躲避兵变习逃离北京，阿以冲突对中国经济的巨大影响。《老灯开讲第405期》</a></li>
 <li><a href="/topimagenews/20231015/1947318.md">第一缕曙光：俄军遭遇单日单次最大惨败</a></li>
-<li><a href="/comments/20231015/1947280.md">【独家重磅】李燕铭：中纪委副书记刘金国异常隐身逾两周 接连缺席中纪委重大活动 610头目刘金国或染疫 难逃被清算命运 中纪委书记李希四天三大动作连释清洗信号 八名纪检内鬼被密集查处 赵乐际旧部纷纷出事 习近平连任后大清洗（105） 围剿赵乐际（22） 辽宁帮覆灭记（20）</a></li>
 <li><a href="/sohnews/20231015/1947403.md">丁玉梅被全天监视，李尚福将官宣落马？20套铁穹入台？国军获强大助力；🇺🇸超强的核动力航母；配置无与伦比，后勤保障强大【新闻看点 李沐阳10.14】</a></li>
-<li><a href="/comments/20231015/1947464.md">王友群：习近平的又一个决策错误</a></li>
-<li><a href="/baitai/20231015/1947292.md">正妹分享巧遇刘德华合照 网一看全傻眼</a></li>
+<li><a href="/comments/20231015/1947280.md">【独家重磅】李燕铭：中纪委副书记刘金国异常隐身逾两周 接连缺席中纪委重大活动 610头目刘金国或染疫 难逃被清算命运 中纪委书记李希四天三大动作连释清洗信号 八名纪检内鬼被密集查处 赵乐际旧部纷纷出事 习近平连任后大清洗（105） 围剿赵乐际（22） 辽宁帮覆灭记（20）</a></li>
 <li><a href="/sohnews/20231015/1947394.md">太子党一号邓朴方销声 邓小平算计习家遭习近平复仇</a></li>
-<li><a href="/cnnews/20231015/1947323.md">内塔尼亚胡送儿子上前线；美国提醒以色列</a></li>
-<li><a href="/topimagenews/20231015/1947486.md">川普首度披露：内塔尼亚胡做的这件事 让我们失望 永远不会忘记</a></li>
+<li><a href="/baitai/20231015/1947292.md">正妹分享巧遇刘德华合照 网一看全傻眼</a></li>
+<li><a href="/comments/20231015/1947464.md">王友群：习近平的又一个决策错误</a></li>
 <li><a href="/topimagenews/20231015/1947518.md">不要对加沙发动地面进攻 伊朗通过联合国警告以色列 否则...</a></li>
+<li><a href="/topimagenews/20231015/1947486.md">川普首度披露：内塔尼亚胡做的这件事 让我们失望 永远不会忘记</a></li>
+<li><a href="/cnnews/20231015/1947323.md">内塔尼亚胡送儿子上前线；美国提醒以色列</a></li>
+<li><a href="/cbnews/20231015/1947552.md">以色列中国留学生群的图片在网络上流传</a></li>
 <li><a href="/cnnews/20231015/1947450.md">著名的翻译家、奥斯卡获奖演员 竟是隐藏极深的中共特务</a></li>
 <li><a href="/topimagenews/20231015/1947422.md">【微博精粹】哈马斯：这是中国人，杀了他</a></li>
 <li><a href="/topimagenews/20231015/1947319.md">哈玛斯情搜新高度！连以军 “最高机密”都清楚</a></li>
-<li><a href="/cbnews/20231015/1947552.md">以色列中国留学生群的图片在网络上流传</a></li>
+<li><a href="/cbnews/20231015/1947512.md">黑龙江惊传列车脱轨！“4节车厢扭曲”画面曝光 陆官媒称：无人伤亡</a></li>
 <li><a href="/ssgc/20231015/1947428.md">〖微博谈〗出了国才知道，战狼是最大的谣言</a></li>
 <li><a href="/cbnews/20231015/1947452.md">〖兲朝浮世绘〗出了国才知道，战狼是最大的谣言</a></li>
 <li><a href="/headline/20231014/1947252.md">新加坡副总理提醒中国，运用影响力过猛会引起反弹和抵制</a></li>
-<li><a href="/cbnews/20231015/1947512.md">黑龙江惊传列车脱轨！“4节车厢扭曲”画面曝光 陆官媒称：无人伤亡</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231015/1947606.md" target="_blank">滞留以色列国人求助无援 中共大使怂了不敢接电话</a></li>
+<li><a href="/comments/20231015/1947605.md" target="_blank">【新闻拍案惊奇】美国要派兵以色列！四通桥事件周年</a></li>
+<li><a href="/comments/20231015/1947604.md" target="_blank">【秦鹏观察】揭开神秘的哈玛斯最高领导人面纱</a></li>
 <li><a href="/comments/20231015/1947569.md" target="_blank">美媒：以色列军原定地面进攻加萨因气候原因“延后数日”</a></li>
 <li><a href="/comments/20231015/1947568.md" target="_blank">美媒：中国成为禁地 越来越多外企避之唯恐不及</a></li>
 <li><a href="/comments/20231015/1947554.md" target="_blank">以巴冲突中国人4死6伤2失联 中共封锁评论 （附：各国最新伤亡、失踪整理）</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20231015/1947409.md" target="_blank">白丁:中国经济为什么会突然从奇迹变成危机</a></li>
 <li><a href="/comments/20231015/1947406.md" target="_blank">天亮时分：【周末大V谈】中东哈以之战的背後玄虚；美国会议长之位的旋风变幻</a></li>
 <li><a href="/comments/20231015/1947399.md" target="_blank">张平：巴勒斯坦土地问题的七大谬论</a></li>
-<li><a href="/comments/20231015/1947385.md" target="_blank">中东哈以之战的背后玄虚；美国会议长之位的旋风变幻｜【周末大V谈】</a></li>
-<li><a href="/comments/20231015/1947379.md" target="_blank">身处巴以冲突地区，你会求助于哈马斯，还是以色列政府？</a></li>
-<li><a href="/comments/20231015/1947378.md" target="_blank">孙立平：相近相杀：三大火药桶被点燃了两个</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
 <li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
 
 </ul>
 </div>
