@@ -8,15 +8,15 @@
 <li><a href="/cnnews/20231016/1947658.md">成败皆因屁股！深扒恒大歌舞团，太香艳了</a></li>
 <li><a href="/sohnews/20231016/1947639.md">中共立场大变不装了！终极大BOSS出场要干嘛？加沙陡生变故推迟进攻；伊朗暗示参战“改变地图”，叙以边境军队异动；</a></li>
 <li><a href="/worldnews/20231016/1947646.md">以军发出加沙最新通知 哈马斯也急了【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20231016/1947677.md">真的很华为！网曝华为裁员通知书，粗暴无情…</a></li>
 <li><a href="/topimagenews/20231016/1947893.md">别用我爸来压我！《南方日报》纪念习仲勋 习痛斥 : 别打着红旗反红旗</a></li>
+<li><a href="/cnnews/20231016/1947677.md">真的很华为！网曝华为裁员通知书，粗暴无情…</a></li>
 <li><a href="/comments/20231016/1947621.md">【独家重磅】李燕铭：习近平震慑曾庆红酝酿重磅动作 中南海密集召开四次重要会议 习先行深入曾庆红虎穴现身两敏感地点 三常委跟班十个巡视组提前进驻监控 江西官场官场大清洗 逾十高官被密集查处 习近平决战江曾（141） 中南海政变与反政变（140） 习近平连任后大清洗（106） 习近平清洗江西帮围剿曾庆红（26） 习强化军权内防政变对外备战（58）</a></li>
 <li><a href="/topimagenews/20231016/1947651.md">中共初心：当年人民日报这样报道巴以</a></li>
 <li><a href="/finance/20231016/1947653.md">GDP负增长！中国民营经济第一城，急了</a></li>
 <li><a href="/sohnews/20231016/1947626.md">中国地下钱庄生意火爆！房企崩溃 低价求售不见效！郑州一小区楼市1.2万直降6千五 ！上海目前最奇怪的几个现象！#新闻前线</a></li>
 <li><a href="/baitai/20231016/1947917.md">惊！ 长春突然上演「大逃亡」真相让人彻底傻眼</a></li>
-<li><a href="/cbnews/20231016/1947751.md">〖兲朝浮世绘〗这样的画风原来以为只会出现在朝鲜</a></li>
 <li><a href="/sohnews/20231016/1947675.md">文睿：长春，大逃亡，财政崩盘，正式大规模拉开序幕了，大家坐稳了</a></li>
+<li><a href="/cbnews/20231016/1947751.md">〖兲朝浮世绘〗这样的画风原来以为只会出现在朝鲜</a></li>
 <li><a href="/comments/20231016/1947742.md">天亮时分：李强再被压制，大概只能任一届总理；李尚福命运10月24日决定；以色列反击，美国和伊朗释放矛盾信息；（政论天下第1134集 20231015）天亮时分</a></li>
 <li><a href="/cbnews/20231016/1947882.md">一条消息震惊在以色列留学生！中领馆下作被抓现行！【阿波罗网报道】</a></li>
 <li><a href="/finance/20231016/1947654.md">一哄而上的中国高铁新城，怎么要空了？</a></li>
@@ -24,9 +24,9 @@
 <li><a href="/finance/20231016/1947671.md">TikTok的老板张一鸣，栽了一个大跟头</a></li>
 <li><a href="/topimagenews/20231016/1947865.md">躲在地下30米也逃不了! “刀片导弹”立功 以军击杀哈玛斯南区指挥官</a></li>
 <li><a href="/cnnews/20231016/1947760.md">最新消息：伊朗怂了 抛弃哈马斯【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20231016/1947846.md">调查：中国这个男性人群 可能终身不婚</a></li>
 <li><a href="/topimagenews/20231016/1947743.md">重新占领加萨是大错 拜登首度撂重话警告以色列</a></li>
 <li><a href="/topimagenews/20231016/1947878.md">一句话看懂为何阿拉伯老大哥埃及就是不让巴勒斯坦人避难</a></li>
-<li><a href="/cbnews/20231016/1947846.md">调查：中国这个男性人群 可能终身不婚</a></li>
 <li><a href="/ssgc/20231016/1947724.md">〖微博谈〗这种高速公路只有在全过程民主国家才能修建</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231016/1948032.md" target="_blank">时事大家谈：王毅谈以巴冲突结症，中国再次与国际主流逆行？</a></li>
+<li><a href="/comments/20231016/1948031.md" target="_blank">时事大家谈：全球反犹情绪升温，以色列与哈马斯谁该受谴责？</a></li>
 <li><a href="/comments/20231016/1948019.md" target="_blank">时事大家谈：全球反犹情绪升温，以色列与哈马斯谁该受谴责？王毅谈以巴冲突结症，中国再次与国际主流逆行？</a></li>
 <li><a href="/comments/20231016/1948014.md" target="_blank">评论 &#8211; 陈光诚：从底层反观中国经济正从萧条走向兵败山倒</a></li>
 <li><a href="/comments/20231016/1948013.md" target="_blank">评论 &#8211; 唯色：《杀劫》2023年最新修订版与前两版有何不同？(六)</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20231016/1947756.md" target="_blank">吴奕军：微软与Meta陆续警告：中共近期加强对台湾资讯战</a></li>
 <li><a href="/comments/20231016/1947752.md" target="_blank">【经典电影】 《三峡好人》 Still Life 第63届威尼斯电影节金狮奖 国语中字高清1080P ENG SUB 导演&#8211;编剧-贾樟柯 主演&#8211;赵涛-韩三明</a></li>
 <li><a href="/comments/20231016/1947744.md" target="_blank">【重磅】胖冯：巴以冲突两千年的困局，得从犹大出卖耶稣说起</a></li>
-<li><a href="/comments/20231016/1947742.md" target="_blank">天亮时分：李强再被压制，大概只能任一届总理；李尚福命运10月24日决定；以色列反击，美国和伊朗释放矛盾信息；（政论天下第1134集 20231015）天亮时分</a></li>
-<li><a href="/comments/20231016/1947728.md" target="_blank">习近平亲自指挥围殴以色列？中共为转嫁压力彻底不装了，王毅借机报写检查之仇</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
+<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
 
 </ul>
 </div>
