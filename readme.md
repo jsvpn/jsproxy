@@ -25,9 +25,9 @@
 <li><a href="/health/20231015/1947488.md">一人做饭，全家致癌？有这6个做菜坏习惯，可能比外卖还不健康</a></li>
 <li><a href="/health/20231015/1947499.md">身体骗不了人！ 这10个现象代表你“老化ing”</a></li>
 <li><a href="/cnnews/20231015/1947507.md">以哈冲突延烧！中国网友想领养“巴基斯坦”小女孩…网友全笑疯</a></li>
+<li><a href="/finance/20231016/1947653.md">GDP负增长！中国民营经济第一城，急了</a></li>
 <li><a href="/ssgc/20231015/1947594.md">中共是邪恶大本营，世界进入大动荡时期</a></li>
 <li><a href="/baitai/20231015/1947482.md">以色列驻中国领馆公开哈玛斯残忍影片 细数其恶行</a></li>
-<li><a href="/sohnews/20231015/1947558.md">陈破空：吃惊，大外宣秘密反习，用英文骂他！以色列延后地面行动，预备海陆空三面进击。敌人躲进地下隧道。美东时间10月15日早8点45、即中港台10月15日晚8点45</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20231016/1947790.md" target="_blank">上海5千万豪宅“闻到隔壁炒菜”屋主怒：谁能忍</a></li>
 <li><a href="/cbnews/20231016/1947771.md" target="_blank">照片疯传：以色列总理亲自送儿子上前线？</a></li>
 <li><a href="/cbnews/20231016/1947765.md" target="_blank">UN人权会议 多机构联合谴责中共活摘器官</a></li>
 <li><a href="/cbnews/20231016/1947751.md" target="_blank">〖兲朝浮世绘〗这样的画风原来以为只会出现在朝鲜</a></li>
@@ -59,13 +60,13 @@
 <li><a href="/cbnews/20231014/1946979.md" target="_blank">美国思想领袖：【精彩片段】中共政权被突然倒台的风险有多大？ 唐靖远：习近平身边最大危险也许来自蔡奇这类人 &#8211; #新闻大家谈</a></li>
 <li><a href="/cbnews/20231014/1946956.md" target="_blank">彭立发/四通桥事件1周年 网友称大量警察在附近截查</a></li>
 <li><a href="/cbnews/20231014/1946938.md" target="_blank">江峰：习近平搅局失败，以色列成立战时政府，中东战争打不起来了；中以混血哈玛斯掳走粉红狂欢，粉红愿做巴勒斯坦人还是以色列人；江峰踏上美国建国之旅，福吉谷祈祷现神蹟【江峰漫谈20231013第748期】</a></li>
-<li><a href="/cbnews/20231014/1946881.md" target="_blank">中以混血女儿被哈马斯绑架 母恳请习救女 习怎么想？【阿波罗网报导】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20231016/1947789.md" target="_blank">秘鲁村庄遭剥脸外星人袭击 少女被割脖险死…军方急派部队调查</a></li>
 <li><a href="/topimagenews/20231016/1947770.md" target="_blank">【微博精粹】看一次笑一次的地狱笑话</a></li>
 <li><a href="/topimagenews/20231016/1947769.md" target="_blank">大陆、日本30年汇率惊人变化 谢金河揭后果：牵动国家命运</a></li>
 <li><a href="/topimagenews/20231016/1947743.md" target="_blank">重新占领加萨是大错 拜登首度撂重话警告以色列</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20231014/1947146.md" target="_blank">以哈战争 哈玛斯恐攻图曝光！下令闯学校“杀越多人越好”</a></li>
 <li><a href="/topimagenews/20231014/1947121.md" target="_blank">以军已进加沙 1天打击750目标 救了250人质【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20231014/1947026.md" target="_blank">突发：以色列防长指控 一切都是由伊朗指挥的【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20231014/1946966.md" target="_blank">以色列：地面部队过去24小时已对加萨进行突袭</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231016/1947793.md" target="_blank">以色列军队展开地面进攻，加沙群众为何不撤离？</a></li>
 <li><a href="/comments/20231016/1947779.md" target="_blank">哈马斯：靠灌输仇恨而生存</a></li>
 <li><a href="/comments/20231016/1947778.md" target="_blank">回国参战的以色列人 VS 到处抗议的巴勒斯坦人</a></li>
 <li><a href="/comments/20231016/1947757.md" target="_blank">李子柒代言习近平 老知青死磕邓小平</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20231015/1947553.md" target="_blank">哈马斯敌人从未如此之凶残，以政府从未如此之昏庸，人民从未如此之伟大</a></li>
 <li><a href="/comments/20231015/1947544.md" target="_blank">多数州否决 澳洲“原住民之声”公投失败</a></li>
 <li><a href="/comments/20231015/1947538.md" target="_blank">秦晖：阿以冲突的由来</a></li>
-<li><a href="/comments/20231015/1947464.md" target="_blank">王友群：习近平的又一个决策错误</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
 <li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
 <li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20230920/1936271.md" target="_blank">防止你的孩子不成功（5） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
 
 </ul>
 </div>
