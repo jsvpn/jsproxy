@@ -12,8 +12,8 @@
 <li><a href="/sohnews/20231015/1947403.md">丁玉梅被全天监视，李尚福将官宣落马？20套铁穹入台？国军获强大助力；🇺🇸超强的核动力航母；配置无与伦比，后勤保障强大【新闻看点 李沐阳10.14】</a></li>
 <li><a href="/topimagenews/20231015/1947518.md">不要对加沙发动地面进攻 伊朗通过联合国警告以色列 否则...</a></li>
 <li><a href="/comments/20231015/1947464.md">王友群：习近平的又一个决策错误</a></li>
-<li><a href="/topimagenews/20231015/1947486.md">川普首度披露：内塔尼亚胡做的这件事 让我们失望 永远不会忘记</a></li>
 <li><a href="/cbnews/20231015/1947512.md">黑龙江惊传列车脱轨！“4节车厢扭曲”画面曝光 陆官媒称：无人伤亡</a></li>
+<li><a href="/topimagenews/20231015/1947486.md">川普首度披露：内塔尼亚胡做的这件事 让我们失望 永远不会忘记</a></li>
 <li><a href="/topimagenews/20231015/1947422.md">【微博精粹】哈马斯：这是中国人，杀了他</a></li>
 <li><a href="/cnnews/20231015/1947450.md">著名的翻译家、奥斯卡获奖演员 竟是隐藏极深的中共特务</a></li>
 <li><a href="/cbnews/20231015/1947452.md">〖兲朝浮世绘〗出了国才知道，战狼是最大的谣言</a></li>
@@ -24,9 +24,9 @@
 <li><a href="/comments/20231015/1947553.md">哈马斯敌人从未如此之凶残，以政府从未如此之昏庸，人民从未如此之伟大</a></li>
 <li><a href="/cbnews/20231015/1947461.md">王毅不演了 声援哈玛斯 被轰像茶碗蒸</a></li>
 <li><a href="/topimagenews/20231015/1947435.md">变天！中共噩耗 新西兰友台政党上台</a></li>
-<li><a href="/health/20231015/1947374.md">俗话说：“眉毛一根长，胜过万担粮”，50岁后眉毛变长暗示了什么</a></li>
-<li><a href="/sohnews/20231015/1947387.md">李子柒突然出来为习近平上山下乡2.0背书  让人想起罗刹国一桩不堪往事 259集</a></li>
+<li><a href="/comments/20231016/1947621.md">【独家重磅】李燕铭：习近平震慑曾庆红酝酿重磅动作 中南海密集召开四次重要会议 习先行深入曾庆红虎穴现身两敏感地点 三常委跟班十个巡视组提前进驻监控 江西官场官场大清洗 逾十高官被密集查处 习近平决战江曾（141） 中南海政变与反政变（140） 习近平连任后大清洗（106） 习近平清洗江西帮围剿曾庆红（26） 习强化军权内防政变对外备战（58）</a></li>
 <li><a href="/health/20231015/1947488.md">一人做饭，全家致癌？有这6个做菜坏习惯，可能比外卖还不健康</a></li>
+<li><a href="/cnnews/20231015/1947507.md">以哈冲突延烧！中国网友想领养“巴基斯坦”小女孩…网友全笑疯</a></li>
 <li><a href="/health/20231015/1947499.md">身体骗不了人！ 这10个现象代表你“老化ing”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
 <li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
 
 </ul>
 </div>
