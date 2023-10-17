@@ -8,26 +8,26 @@
 <li><a href="/baitai/20231016/1947917.md">惊！ 长春突然上演「大逃亡」真相让人彻底傻眼</a></li>
 <li><a href="/baitai/20231016/1947945.md">北京敏感地突发奇异车祸 网民想到了他</a></li>
 <li><a href="/topimagenews/20231017/1948057.md">“勤政的亡国君”意有所指？中共下架谈“崇祯”新书</a></li>
-<li><a href="/cbnews/20231016/1947882.md">一条消息震惊在以色列留学生！中领馆下作被抓现行！【阿波罗网报道】</a></li>
 <li><a href="/comments/20231016/1947980.md">官媒纪念习仲勋冥诞 传内容惹怒习近平：别拿我爸压我</a></li>
 <li><a href="/comments/20231017/1948126.md">文昭：比恒大猛4倍的雷终於爆了！错了，也许是40倍...「爆雷经济学」得这麽算</a></li>
 <li><a href="/cbnews/20231016/1948004.md">夺冠竟被逼唱歌 中国网球女选手飙脏话“我操”</a></li>
 <li><a href="/topimagenews/20231017/1948104.md">外媒热传以色列超强新武器横空出世 习近平能得逞吗？【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20231016/1947878.md">一句话看懂为何阿拉伯老大哥埃及就是不让巴勒斯坦人避难</a></li>
 <li><a href="/baitai/20231016/1947989.md">140多个国家将出席的「一带一路」已名存实亡？ 普京将与习近平密谈</a></li>
 <li><a href="/sohnews/20231017/1948125.md">陈破空：内幕：老习气疯！亲自下令下架这本畅销书！痛斥中宣部长：谁让你发表这种文章纪念我老爹？直播与互动：美东时间10月16日晚8点30、即中港台10月17日早8点30</a></li>
 <li><a href="/sohnews/20231016/1947929.md">陈破空：突发：中南海门口发生惨烈车祸！警察不准拍摄。受困以色列，中国留学生怒了！中共无动于衷，还编出假新闻。美东时间10月15日早8点30、即中港台10月15日晚8点30</a></li>
 <li><a href="/headline/20231017/1948128.md">勤政的亡国君一书突遭下架  谁心虚了？</a></li>
 <li><a href="/comments/20231016/1947948.md">升级三战？《圣经》中早有预言：以色列着急建第三圣殿，救世主弥赛亚很快再次降临？！｜ #未解之谜 扶摇</a></li>
 <li><a href="/topimagenews/20231017/1948174.md">哈玛斯突袭 以女军官穿睡衣消灭22敌人保基地</a></li>
+<li><a href="/cnnews/20231017/1948230.md">要变天了？欧盟、乌克兰松口气</a></li>
 <li><a href="/sohnews/20231016/1947977.md">白宫突发声明！原来这才是中国人真实的态度，2014年以色列驻华使馆微博贴文又火了！美国施压以色列暂时停火……</a></li>
 <li><a href="/topimagenews/20231017/1948214.md">埃及让步！美三巨头穿梭外交立功 北京靠边站</a></li>
-<li><a href="/cnnews/20231017/1948230.md">要变天了？欧盟、乌克兰松口气</a></li>
 <li><a href="/cbnews/20231016/1947958.md">内部爆料：哈马斯用的都是中国制造武器！？还独有！？【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20231016/1947881.md">胡锡进带风向鼓动小粉红“反犹”失败遭网怒憨：中国公民谁杀害的</a></li>
-<li><a href="/worldnews/20231016/1948006.md">极其残忍：他被金正恩丢进鱼缸喂食人鱼…</a></li>
 <li><a href="/cbnews/20231017/1948238.md">北京下沉：6条地铁线已变形</a></li>
+<li><a href="/worldnews/20231016/1948006.md">极其残忍：他被金正恩丢进鱼缸喂食人鱼…</a></li>
+<li><a href="/cnnews/20231017/1948227.md">皮带哥留不住的她：恒大歌舞团前任女团长林丹丹</a></li>
 <li><a href="/ssgc/20231017/1948168.md">〖微博谈〗中共才是头号敌人</a></li>
+<li><a href="/comments/20231016/1947911.md">【新闻拍案惊奇】50万大军面临严酷“地道战”！中共彻底不装了</a></li>
+<li><a href="/baitai/20231017/1948085.md">中共正在中东下一盘大棋？ 巴勒斯坦切割哈马斯 伊朗代哈表态</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20231017/1948397.md" target="_blank">“中国超3亿人遭受慢性疼痛”登上热搜</a></li>
+<li><a href="/comments/20231017/1948396.md" target="_blank">重大变化！大佬反对者被说服，支持乔丹出任议长。法官下达部分禁言令，川普改用讲故事抨击法官和检察官，并誓言上诉。#禁言令 #乔丹 #众议院议长</a></li>
 <li><a href="/cbnews/20231017/1948372.md" target="_blank">惊！华人的软嫩食物 没想到它变成折不断 放2个月也不坏…</a></li>
 <li><a href="/cbnews/20231017/1948357.md" target="_blank">习近平对号入座震怒？中共突然全面下架“崇祯：勤政的亡国君”新书</a></li>
 <li><a href="/cbnews/20231017/1948302.md" target="_blank">〖兲朝浮世绘〗从勤政的崇祯皇帝你想到了谁？</a></li>
@@ -58,14 +60,13 @@
 <li><a href="/cbnews/20231016/1947808.md" target="_blank">河南玉米田遭500村民哄抢，政府：是捡不是抢</a></li>
 <li><a href="/cbnews/20231016/1947807.md" target="_blank">几千亩地手工收割？只因领导来视察…</a></li>
 <li><a href="/cbnews/20231016/1947790.md" target="_blank">上海5千万豪宅“闻到隔壁炒菜”屋主怒：谁能忍</a></li>
-<li><a href="/cbnews/20231016/1947771.md" target="_blank">照片疯传：以色列总理亲自送儿子上前线？</a></li>
-<li><a href="/cbnews/20231016/1947765.md" target="_blank">UN人权会议 多机构联合谴责中共活摘器官</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20231017/1948395.md" target="_blank">传碧桂园集团创始人被控制 被质疑向境外转移资金；以哈战争会怎样？彭博推演3情境</a></li>
 <li><a href="/topimagenews/20231017/1948371.md" target="_blank">中共太流氓了！公开对普京言论进行“阉割”【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20231017/1948356.md" target="_blank">最新！拜登将访以 美派2千美军随时准备支援以色列</a></li>
 <li><a href="/topimagenews/20231017/1948355.md" target="_blank">华尔街日报：以巴冲突使美国分心 中俄坐收渔利</a></li>
@@ -90,13 +91,15 @@
 <li><a href="/topimagenews/20231016/1947789.md" target="_blank">秘鲁村庄遭剥脸外星人袭击 少女被割脖险死…军方急派部队调查</a></li>
 <li><a href="/topimagenews/20231016/1947770.md" target="_blank">【微博精粹】看一次笑一次的地狱笑话</a></li>
 <li><a href="/topimagenews/20231016/1947769.md" target="_blank">大陆、日本30年汇率惊人变化 谢金河揭后果：牵动国家命运</a></li>
-<li><a href="/topimagenews/20231016/1947743.md" target="_blank">重新占领加萨是大错 拜登首度撂重话警告以色列</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231017/1948396.md" target="_blank">重大变化！大佬反对者被说服，支持乔丹出任议长。法官下达部分禁言令，川普改用讲故事抨击法官和检察官，并誓言上诉。#禁言令 #乔丹 #众议院议长</a></li>
+<li><a href="/comments/20231017/1948392.md" target="_blank">李强抵浙江 一把手消失 共军高层再传被带走</a></li>
+<li><a href="/comments/20231017/1948391.md" target="_blank">遭冤判入狱 法轮功学员王金凤被剥夺会面权</a></li>
 <li><a href="/comments/20231017/1948374.md" target="_blank">揭秘哈马斯前身是全球最大、历史最悠久、影响最大的…</a></li>
 <li><a href="/comments/20231017/1948365.md" target="_blank">中国言论管制 强制时政财经类微博大V10月底须前台实名制</a></li>
 <li><a href="/comments/20231017/1948364.md" target="_blank">【秦鹏观察】禁“崇祯：勤政的亡国君”习踏进帝国坟场</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20231017/1948148.md" target="_blank">中共不装了！公开指以色列“超越自卫范围”；习普将在北京会面，有何密谋？</a></li>
 <li><a href="/comments/20231017/1948126.md" target="_blank">文昭：比恒大猛4倍的雷终於爆了！错了，也许是40倍&#8230;「爆雷经济学」得这麽算</a></li>
 <li><a href="/comments/20231017/1948102.md" target="_blank">李燕铭：十名中共开国将军夫人密集病亡 呈现两波死亡潮 原军委副主席张震夫人马龄松病亡 原国防部长秦基伟夫人唐贤美病亡 中共开国少将金如柏夫人郑织文病亡 张海阳秦卫江金一南母亲接连病亡 中共末日之病毒亡共（41）</a></li>
-<li><a href="/comments/20231017/1948089.md" target="_blank">中以混血女孩被哈马斯绑架 母亲求助引热议</a></li>
-<li><a href="/comments/20231016/1948032.md" target="_blank">时事大家谈：王毅谈以巴冲突结症，中国再次与国际主流逆行？</a></li>
-<li><a href="/comments/20231016/1948031.md" target="_blank">时事大家谈：全球反犹情绪升温，以色列与哈马斯谁该受谴责？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
 <li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
 
 </ul>
 </div>
