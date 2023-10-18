@@ -12,12 +12,12 @@
 <li><a href="/sohnews/20231017/1948437.md">陈破空：惊！老习的下一步：要改国名？王毅表演后，遭遇微博起义！毛宁建议受困以色列的中国人这么做。美东时间10月17日早8点30、即中港台10月17日晚8点30</a></li>
 <li><a href="/sohnews/20231017/1948464.md">成蕾获释后首次接受采访，数度崩溃落泪。被捕原因曝光，竟然为了那么点小事就被关了三年</a></li>
 <li><a href="/baitai/20231017/1948494.md">习家军内斗激烈 蔡奇一手遮天？李强待遇不如丁薛祥</a></li>
-<li><a href="/topimagenews/20231018/1948629.md">重磅：美宣布对中新禁令，三招数前所未有</a></li>
-<li><a href="/headline/20231017/1948522.md">成蕾：提前曝光信息几分钟 换来3年牢狱之苦</a></li>
 <li><a href="/topimagenews/20231018/1948700.md">要散伙？习近平“大日子”，被当头浇了一盆冷水！【阿波罗网报道】</a></li>
+<li><a href="/headline/20231017/1948522.md">成蕾：提前曝光信息几分钟 换来3年牢狱之苦</a></li>
+<li><a href="/topimagenews/20231018/1948629.md">重磅：美宣布对中新禁令，三招数前所未有</a></li>
 <li><a href="/baitai/20231017/1948445.md">好尴尬！华春莹提上海曾收容近两万犹太难民 遭网民啪啪打脸</a></li>
-<li><a href="/topimagenews/20231017/1948395.md">传碧桂园集团创始人被控制 被质疑向境外转移资金；以哈战争会怎样？彭博推演3情境</a></li>
 <li><a href="/topimagenews/20231017/1948529.md">华尔街日报：不甩美国施压！中共铺红地毯欢迎普丁</a></li>
+<li><a href="/topimagenews/20231017/1948395.md">传碧桂园集团创始人被控制 被质疑向境外转移资金；以哈战争会怎样？彭博推演3情境</a></li>
 <li><a href="/cbnews/20231018/1948630.md">东北县城，触目惊心的未来预演</a></li>
 <li><a href="/topimagenews/20231017/1948501.md">全面进攻？以色列400辆军车“集结边境”卫星照太震撼</a></li>
 <li><a href="/health/20231017/1948373.md">54岁竟长得像30岁！哈佛医学院教授7大逆龄秘诀公开，每天喝1饮品抗老又防癌</a></li>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20231018/1948850.md" target="_blank">开口要价！北京为“习拜会”提出四条件</a></li>
+<li><a href="/comments/20231018/1948847.md" target="_blank">美议长难产 方伟&#038;章天亮再交锋【方伟时间-20231017】</a></li>
 <li><a href="/cbnews/20231018/1948824.md" target="_blank">砸8800万包养“小三反爱上酒吧男模” 江苏董事长被骗光…下场超悲惨</a></li>
 <li><a href="/cbnews/20231018/1948801.md" target="_blank">江峰：普京抵京会习，拜登访以：轴心对抗同盟阵营分明；中共将竭力反对以巴问题关键四国峰会，阻挠巴勒斯坦政治解决方案，望战火持续；以军准备好城市清剿和两线作战了麽？【江峰漫谈20231017第750期】</a></li>
 <li><a href="/cbnews/20231018/1948786.md" target="_blank">〖兲朝浮世绘〗习总最享受被别国元首拥簇着的傲娇感觉了</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20231017/1948238.md" target="_blank">北京下沉：6条地铁线已变形</a></li>
 <li><a href="/cbnews/20231017/1948161.md" target="_blank">军机距离只有5米！解放军越发咄咄逼人且冒险</a></li>
 <li><a href="/comments/20231017/1948148.md" target="_blank">中共不装了！公开指以色列“超越自卫范围”；习普将在北京会面，有何密谋？</a></li>
-<li><a href="/cbnews/20231017/1948141.md" target="_blank">江峰：阿萨德和哈玛斯的大媒人</a></li>
-<li><a href="/cbnews/20231017/1948116.md" target="_blank">美国思想领袖：【精彩片段】中共为何迟迟不撤侨？ “四通桥抗议人” 彭立发被提名诺贝尔和平奖候选人 &#8211; #新闻大家谈</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231018/1948847.md" target="_blank">美议长难产 方伟&#038;章天亮再交锋【方伟时间-20231017】</a></li>
 <li><a href="/comments/20231018/1948839.md" target="_blank">拜登未曾料到，北京获得新机遇</a></li>
 <li><a href="/comments/20231018/1948817.md" target="_blank">武力威摄“房间里的大象们”拜登亲赴中东要这样解开以巴冲突…</a></li>
 <li><a href="/comments/20231018/1948816.md" target="_blank">张宇韶:历史巧合!两次赎罪日战争后发制人的以色列都是先吃亏、后大胜</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20231018/1948575.md" target="_blank">预言中的以巴冲突</a></li>
 <li><a href="/comments/20231018/1948574.md" target="_blank">预言中的以巴冲突：神的住处</a></li>
 <li><a href="/comments/20231018/1948573.md" target="_blank">圣经预言</a></li>
-<li><a href="/comments/20231018/1948572.md" target="_blank">帕克预言</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
 <li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
 
 </ul>
 </div>
