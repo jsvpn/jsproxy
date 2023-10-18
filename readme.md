@@ -15,19 +15,19 @@
 <li><a href="/sohnews/20231017/1948464.md">成蕾获释后首次接受采访，数度崩溃落泪。被捕原因曝光，竟然为了那么点小事就被关了三年</a></li>
 <li><a href="/baitai/20231017/1948494.md">习家军内斗激烈 蔡奇一手遮天？李强待遇不如丁薛祥</a></li>
 <li><a href="/headline/20231017/1948522.md">成蕾：提前曝光信息几分钟 换来3年牢狱之苦</a></li>
-<li><a href="/baitai/20231017/1948445.md">好尴尬！华春莹提上海曾收容近两万犹太难民 遭网民啪啪打脸</a></li>
 <li><a href="/topimagenews/20231018/1948629.md">重磅：美宣布对中新禁令，三招数前所未有</a></li>
+<li><a href="/baitai/20231017/1948445.md">好尴尬！华春莹提上海曾收容近两万犹太难民 遭网民啪啪打脸</a></li>
+<li><a href="/topimagenews/20231018/1948700.md">要散伙？习近平“大日子”，被当头浇了一盆冷水！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20231017/1948395.md">传碧桂园集团创始人被控制 被质疑向境外转移资金；以哈战争会怎样？彭博推演3情境</a></li>
 <li><a href="/topimagenews/20231017/1948529.md">华尔街日报：不甩美国施压！中共铺红地毯欢迎普丁</a></li>
-<li><a href="/comments/20231017/1948322.md">中共不撤侨内幕流出：等真主党对以色列大轰炸！留学生怒了！普京猛夸习近平世界老大，彭丽媛挺哈码斯</a></li>
-<li><a href="/topimagenews/20231018/1948700.md">要散伙？习近平“大日子”，被当头浇了一盆冷水！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20231017/1948501.md">全面进攻？以色列400辆军车“集结边境”卫星照太震撼</a></li>
 <li><a href="/health/20231017/1948373.md">54岁竟长得像30岁！哈佛医学院教授7大逆龄秘诀公开，每天喝1饮品抗老又防癌</a></li>
+<li><a href="/cbnews/20231018/1948630.md">东北县城，触目惊心的未来预演</a></li>
 <li><a href="/ccpdope/20231018/1948601.md">中共官员罕见透露 「一带一路」已名存实亡</a></li>
 <li><a href="/sohnews/20231018/1948565.md">“迷信的习近平 遭遇‘昏招连连步步错 越是“勤政”越亡国’之雅号 域名”《今日点击》（10/17/23）</a></li>
 <li><a href="/ssgc/20231018/1948604.md">中国更严限制“公家人”境外行和国际联系</a></li>
-<li><a href="/cbnews/20231018/1948630.md">东北县城，触目惊心的未来预演</a></li>
 <li><a href="/cnnews/20231017/1948402.md">负债近2500亿 广州地产大佬面临生死大考</a></li>
+<li><a href="/topimagenews/20231017/1948500.md">惊爆巴以合作打击哈马斯很成功 美军司令突访以确保以军...</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231018/1948817.md" target="_blank">武力威摄“房间里的大象们”拜登亲赴中东要这样解开以巴冲突…</a></li>
+<li><a href="/comments/20231018/1948816.md" target="_blank">张宇韶:历史巧合!两次赎罪日战争后发制人的以色列都是先吃亏、后大胜</a></li>
 <li><a href="/comments/20231018/1948778.md" target="_blank">404：职场里的90后女性，已经开始被歧视了</a></li>
 <li><a href="/comments/20231018/1948777.md" target="_blank">老丁语云：“爱国老师”怒斥学生；奢牌腰带意外抢镜</a></li>
 <li><a href="/comments/20231018/1948776.md" target="_blank">立此存照:崇祯昏招连连步步错，越是“勤政”越亡国</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20231018/1948573.md" target="_blank">圣经预言</a></li>
 <li><a href="/comments/20231018/1948572.md" target="_blank">帕克预言</a></li>
 <li><a href="/comments/20231017/1948498.md" target="_blank">文昭：碧桂园终于也债务违约，脱困的两项大招为何都不可行</a></li>
-<li><a href="/comments/20231017/1948468.md" target="_blank">【财经拆局】「定海神针」不卖帐？国家队增持恐属「短命货仔」</a></li>
-<li><a href="/comments/20231017/1948396.md" target="_blank">重大变化！大佬反对者被说服，支持乔丹出任议长。法官下达部分禁言令，川普改用讲故事抨击法官和检察官，并誓言上诉。#禁言令 #乔丹 #众议院议长</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
 <li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
 
 </ul>
 </div>
