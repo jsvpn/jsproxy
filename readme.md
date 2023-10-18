@@ -13,17 +13,17 @@
 <li><a href="/cbnews/20231018/1948630.md">东北县城，触目惊心的未来预演</a></li>
 <li><a href="/topimagenews/20231017/1948529.md">华尔街日报：不甩美国施压！中共铺红地毯欢迎普丁</a></li>
 <li><a href="/sohnews/20231018/1948808.md">广州繁华落尽 到处败落景象！上海大量人员失业 网友称多数人心态 只要有一份工作 有一口饭吃就行了！#新闻前线</a></li>
-<li><a href="/cbnews/20231018/1948738.md">准备撕破脸？严审海外关系..新一轮开始了</a></li>
 <li><a href="/topimagenews/20231017/1948501.md">全面进攻？以色列400辆军车“集结边境”卫星照太震撼</a></li>
+<li><a href="/cbnews/20231018/1948738.md">准备撕破脸？严审海外关系..新一轮开始了</a></li>
 <li><a href="/ccpdope/20231018/1948601.md">中共官员罕见透露 「一带一路」已名存实亡</a></li>
 <li><a href="/sohnews/20231018/1948565.md">“迷信的习近平 遭遇‘昏招连连步步错 越是“勤政”越亡国’之雅号 域名”《今日点击》（10/17/23）</a></li>
-<li><a href="/topimagenews/20231018/1948802.md">迈出重大一步！只要伊朗同伙参战 美就动武</a></li>
 <li><a href="/sohnews/20231018/1948640.md">举世震惊，加沙医院惨剧超800亡，谁干的？伊朗“志愿军”参战，美以如何应对？习普再密谋，“一带一路”露出獠牙</a></li>
+<li><a href="/topimagenews/20231018/1948802.md">迈出重大一步！只要伊朗同伙参战 美就动武</a></li>
+<li><a href="/cbnews/20231018/1948850.md">开口要价！北京为“习拜会”提出四条件</a></li>
 <li><a href="/cbnews/20231018/1948824.md">砸8800万包养“小三反爱上酒吧男模” 江苏董事长被骗光…下场超悲惨</a></li>
 <li><a href="/ssgc/20231018/1948604.md">中国更严限制“公家人”境外行和国际联系</a></li>
 <li><a href="/baitai/20231018/1948806.md">习近平以奢侈国宴款待普京 评：中共想接管俄地位</a></li>
 <li><a href="/yule/20231018/1948744.md">周润发苍蝇馆子拼桌 同桌头都不抬懒理 内地人惊讶</a></li>
-<li><a href="/cbnews/20231018/1948850.md">开口要价！北京为“习拜会”提出四条件</a></li>
 <li><a href="/ssgc/20231018/1948697.md">〖微博谈〗哀莫大于心死</a></li>
 <li><a href="/cnnews/20231018/1948651.md">美媒:中国留学生名校退学率达25%!最大原因是…</a></li>
 <li><a href="/topimagenews/20231017/1948500.md">惊爆巴以合作打击哈马斯很成功 美军司令突访以确保以军...</a></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231018/1948973.md" target="_blank">【梁京评论】以哈冲突升级与全球的「家园危机」</a></li>
 <li><a href="/comments/20231018/1948891.md" target="_blank">乔丹冲关受阻，反对派拟推B计划。预言中的以哈冲突与结局，美俄中或介入，第三次大战在即？#乔丹 #议长选举 #圣经预言</a></li>
 <li><a href="/comments/20231018/1948852.md" target="_blank">以哈战争：怎么办？</a></li>
 <li><a href="/comments/20231018/1948847.md" target="_blank">美议长难产 方伟&#038;章天亮再交锋【方伟时间-20231017】</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20231018/1948646.md" target="_blank">王赫：三大谈判与中共-东盟-美国三角关系</a></li>
 <li><a href="/comments/20231018/1948645.md" target="_blank">千百度：以色列外交人员在京遇刺，中共为何遮遮掩掩？</a></li>
 <li><a href="/comments/20231018/1948643.md" target="_blank">文昭：碧桂园的财务状况比恒大好，为何爆雷后果更严重？</a></li>
-<li><a href="/comments/20231018/1948575.md" target="_blank">预言中的以巴冲突</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
 <li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
 
 </ul>
 </div>
