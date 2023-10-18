@@ -8,11 +8,10 @@
 <li><a href="/topimagenews/20231017/1948447.md">习近平开峰会 普京送上爆炸性大礼包 【阿波罗网报道】</a></li>
 <li><a href="/comments/20231017/1948392.md">李强抵浙江 一把手消失 共军高层再传被带走</a></li>
 <li><a href="/lifebaike/20231017/1948401.md">中国月薪两万的新中产 都在沉迷“这种”快乐</a></li>
-<li><a href="/topimagenews/20231017/1948371.md">中共太流氓了！公开对普京言论进行“阉割”【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20231017/1948437.md">陈破空：惊！老习的下一步：要改国名？王毅表演后，遭遇微博起义！毛宁建议受困以色列的中国人这么做。美东时间10月17日早8点30、即中港台10月17日晚8点30</a></li>
 <li><a href="/sohnews/20231017/1948464.md">成蕾获释后首次接受采访，数度崩溃落泪。被捕原因曝光，竟然为了那么点小事就被关了三年</a></li>
-<li><a href="/baitai/20231017/1948494.md">习家军内斗激烈 蔡奇一手遮天？李强待遇不如丁薛祥</a></li>
 <li><a href="/topimagenews/20231018/1948700.md">要散伙？习近平“大日子”，被当头浇了一盆冷水！【阿波罗网报道】</a></li>
+<li><a href="/baitai/20231017/1948494.md">习家军内斗激烈 蔡奇一手遮天？李强待遇不如丁薛祥</a></li>
 <li><a href="/headline/20231017/1948522.md">成蕾：提前曝光信息几分钟 换来3年牢狱之苦</a></li>
 <li><a href="/topimagenews/20231018/1948629.md">重磅：美宣布对中新禁令，三招数前所未有</a></li>
 <li><a href="/baitai/20231017/1948445.md">好尴尬！华春莹提上海曾收容近两万犹太难民 遭网民啪啪打脸</a></li>
@@ -20,12 +19,13 @@
 <li><a href="/topimagenews/20231017/1948395.md">传碧桂园集团创始人被控制 被质疑向境外转移资金；以哈战争会怎样？彭博推演3情境</a></li>
 <li><a href="/cbnews/20231018/1948630.md">东北县城，触目惊心的未来预演</a></li>
 <li><a href="/topimagenews/20231017/1948501.md">全面进攻？以色列400辆军车“集结边境”卫星照太震撼</a></li>
-<li><a href="/health/20231017/1948373.md">54岁竟长得像30岁！哈佛医学院教授7大逆龄秘诀公开，每天喝1饮品抗老又防癌</a></li>
 <li><a href="/ccpdope/20231018/1948601.md">中共官员罕见透露 「一带一路」已名存实亡</a></li>
 <li><a href="/sohnews/20231018/1948565.md">“迷信的习近平 遭遇‘昏招连连步步错 越是“勤政”越亡国’之雅号 域名”《今日点击》（10/17/23）</a></li>
 <li><a href="/sohnews/20231018/1948640.md">举世震惊，加沙医院惨剧超800亡，谁干的？伊朗“志愿军”参战，美以如何应对？习普再密谋，“一带一路”露出獠牙</a></li>
 <li><a href="/ssgc/20231018/1948604.md">中国更严限制“公家人”境外行和国际联系</a></li>
+<li><a href="/cbnews/20231018/1948738.md">准备撕破脸？严审海外关系..新一轮开始了</a></li>
 <li><a href="/cnnews/20231017/1948402.md">负债近2500亿 广州地产大佬面临生死大考</a></li>
+<li><a href="/cbnews/20231018/1948786.md">〖兲朝浮世绘〗习总最享受被别国元首拥簇着的傲娇感觉了</a></li>
 <li><a href="/headline/20231017/1948442.md">《崇祯：勤政的亡国君》一书疑影射习近平 已全面下架</a></li>
 <li><a href="/topimagenews/20231017/1948500.md">惊爆巴以合作打击哈马斯很成功 美军司令突访以确保以军...</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231018/1948852.md" target="_blank">以哈战争：怎么办？</a></li>
 <li><a href="/comments/20231018/1948847.md" target="_blank">美议长难产 方伟&#038;章天亮再交锋【方伟时间-20231017】</a></li>
 <li><a href="/comments/20231018/1948839.md" target="_blank">拜登未曾料到，北京获得新机遇</a></li>
 <li><a href="/comments/20231018/1948817.md" target="_blank">武力威摄“房间里的大象们”拜登亲赴中东要这样解开以巴冲突…</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20231018/1948643.md" target="_blank">文昭：碧桂园的财务状况比恒大好，为何爆雷后果更严重？</a></li>
 <li><a href="/comments/20231018/1948575.md" target="_blank">预言中的以巴冲突</a></li>
 <li><a href="/comments/20231018/1948574.md" target="_blank">预言中的以巴冲突：神的住处</a></li>
-<li><a href="/comments/20231018/1948573.md" target="_blank">圣经预言</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
 <li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
 <li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
 
 </ul>
 </div>
