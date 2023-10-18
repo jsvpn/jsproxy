@@ -13,21 +13,21 @@
 <li><a href="/cnnews/20231017/1948230.md">要变天了？欧盟、乌克兰松口气</a></li>
 <li><a href="/cbnews/20231017/1948302.md">〖兲朝浮世绘〗从勤政的崇祯皇帝你想到了谁？</a></li>
 <li><a href="/topimagenews/20231017/1948371.md">中共太流氓了！公开对普京言论进行“阉割”【阿波罗网报道】</a></li>
-<li><a href="/sohnews/20231017/1948437.md">陈破空：惊！老习的下一步：要改国名？王毅表演后，遭遇微博起义！毛宁建议受困以色列的中国人这么做。美东时间10月17日早8点30、即中港台10月17日晚8点30</a></li>
 <li><a href="/lifebaike/20231017/1948401.md">中国月薪两万的新中产 都在沉迷“这种”快乐</a></li>
+<li><a href="/sohnews/20231017/1948437.md">陈破空：惊！老习的下一步：要改国名？王毅表演后，遭遇微博起义！毛宁建议受困以色列的中国人这么做。美东时间10月17日早8点30、即中港台10月17日晚8点30</a></li>
 <li><a href="/cbnews/20231017/1948357.md">习近平对号入座震怒？中共突然全面下架“崇祯：勤政的亡国君”新书</a></li>
 <li><a href="/sohnews/20231017/1948464.md">成蕾获释后首次接受采访，数度崩溃落泪。被捕原因曝光，竟然为了那么点小事就被关了三年</a></li>
-<li><a href="/baitai/20231017/1948445.md">好尴尬！华春莹提上海曾收容近两万犹太难民 遭网民啪啪打脸</a></li>
 <li><a href="/headline/20231017/1948522.md">成蕾：提前曝光信息几分钟 换来3年牢狱之苦</a></li>
+<li><a href="/baitai/20231017/1948445.md">好尴尬！华春莹提上海曾收容近两万犹太难民 遭网民啪啪打脸</a></li>
 <li><a href="/baitai/20231017/1948494.md">习家军内斗激烈 蔡奇一手遮天？李强待遇不如丁薛祥</a></li>
-<li><a href="/topimagenews/20231017/1948214.md">埃及让步！美三巨头穿梭外交立功 北京靠边站</a></li>
 <li><a href="/topimagenews/20231017/1948395.md">传碧桂园集团创始人被控制 被质疑向境外转移资金；以哈战争会怎样？彭博推演3情境</a></li>
 <li><a href="/topimagenews/20231017/1948529.md">华尔街日报：不甩美国施压！中共铺红地毯欢迎普丁</a></li>
-<li><a href="/cnnews/20231017/1948293.md">惊愕全球！哈马斯首领之子公开谴责哈马斯集团罪恶</a></li>
 <li><a href="/comments/20231017/1948322.md">中共不撤侨内幕流出：等真主党对以色列大轰炸！留学生怒了！普京猛夸习近平世界老大，彭丽媛挺哈码斯</a></li>
+<li><a href="/cnnews/20231017/1948293.md">惊愕全球！哈马斯首领之子公开谴责哈马斯集团罪恶</a></li>
 <li><a href="/health/20231017/1948373.md">54岁竟长得像30岁！哈佛医学院教授7大逆龄秘诀公开，每天喝1饮品抗老又防癌</a></li>
 <li><a href="/topimagenews/20231017/1948501.md">全面进攻？以色列400辆军车“集结边境”卫星照太震撼</a></li>
 <li><a href="/sohnews/20231017/1948264.md">“声明后 ⋯⋯  习近平瞬间现眼”（10/16/23）</a></li>
+<li><a href="/sohnews/20231018/1948565.md">“迷信的习近平 遭遇‘昏招连连步步错 越是“勤政”越亡国’之雅号 域名”《今日点击》（10/17/23）</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
 <li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
 
 </ul>
 </div>
