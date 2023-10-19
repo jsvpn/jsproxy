@@ -35,6 +35,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231020/1949688.md" target="_blank">专访高光俊：在中共“刀把子”的核心秘密反共 &#8211; 前公安部刑侦人员传奇逃出中国的经历 ｜#方菲时间</a></li>
+<li><a href="/cbnews/20231020/1949680.md" target="_blank">华春莹“抖机灵”，无助解决北京以巴政策困境</a></li>
+<li><a href="/cbnews/20231020/1949679.md" target="_blank">网友秀一带一路图 习近平有如“王小二过年”</a></li>
 <li><a href="/cbnews/20231020/1949631.md" target="_blank">五角大厦：习近平授意与策划挑衅美军 危险逼近</a></li>
 <li><a href="/cbnews/20231020/1949567.md" target="_blank">“厉害国”无撤侨 在以华人更信任以国政府</a></li>
 <li><a href="/cbnews/20231019/1949546.md" target="_blank">证实中共使馆无撤侨 在以华人更信任以国政府</a></li>
@@ -57,9 +60,6 @@
 <li><a href="/cbnews/20231019/1949184.md" target="_blank">普京与习近平密谈近3小时，见面互称对方…</a></li>
 <li><a href="/cbnews/20231019/1949183.md" target="_blank">大厂员工为抢午餐提前离岗震怒高层，网络炸锅了</a></li>
 <li><a href="/cbnews/20231019/1949180.md" target="_blank">美国思想领袖：【精彩片段】「一带一路」名存实亡？普京 塔利班现峰会引关注 &#8211; #新闻大家谈</a></li>
-<li><a href="/cbnews/20231019/1949154.md" target="_blank">美国思想领袖：【精彩片段】正中习近平要害？ 《崇祯：勤政的亡国君》一书被下架 &#8211; #新闻大家谈</a></li>
-<li><a href="/cbnews/20231019/1949105.md" target="_blank">美国思想领袖：习近平亡国论 内政外交模式是崇祯模式？越是勤政越亡国？</a></li>
-<li><a href="/cbnews/20231019/1949041.md" target="_blank">中共加强管控自媒体 拥百万粉丝网红须揭露真名</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231020/1949688.md" target="_blank">专访高光俊：在中共“刀把子”的核心秘密反共 &#8211; 前公安部刑侦人员传奇逃出中国的经历 ｜#方菲时间</a></li>
+<li><a href="/comments/20231020/1949677.md" target="_blank">文昭：庆丰帝太像隋炀帝了？两人有多像，关键要看这件事&#8230;</a></li>
 <li><a href="/comments/20231020/1949663.md" target="_blank">长平: 昏招连连步步错，越是“勤政”越亡国</a></li>
 <li><a href="/comments/20231019/1949551.md" target="_blank">【独家重磅】李燕铭：陕西省原政协主席韩勇落马深度内幕 隐秘关联江泽民家族 牵连两政治局委员其中一人涉政变反习 曾获赵乐际破例跨省调职晋升正省部级 江泽民家族深度布控陕西官场内幕揭秘 习近平连任后大清洗（108） 陕西帮覆灭记（3） 新疆帮覆灭记（3）</a></li>
 <li><a href="/comments/20231019/1949550.md" target="_blank">《封神演义》第四十九回 武王失陷红沙阵</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20231019/1949319.md" target="_blank">看以哈战争，大部分人还在做梦</a></li>
 <li><a href="/comments/20231019/1949297.md" target="_blank">美国将被自己的政治正确击败</a></li>
 <li><a href="/comments/20231019/1949296.md" target="_blank">哈马斯果然得中共真传 是宣传高手</a></li>
-<li><a href="/comments/20231019/1949286.md" target="_blank">张平：恐怖分子说的话一个字也不要信</a></li>
-<li><a href="/comments/20231019/1949269.md" target="_blank">徐三郎：以色列恢复向加沙南部供水，这就是文明与恐怖的区别</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
 <li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
 
 </ul>
 </div>
