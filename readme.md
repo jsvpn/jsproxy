@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/cbnews/20231018/1948786.md">〖兲朝浮世绘〗习总最享受被别国元首拥簇着的傲娇感觉了</a></li>
 <li><a href="/sohnews/20231018/1948808.md">广州繁华落尽 到处败落景象！上海大量人员失业 网友称多数人心态 只要有一份工作 有一口饭吃就行了！#新闻前线</a></li>
 <li><a href="/cnnews/20231018/1948884.md">重大信号！中共竟然如此对待普京【阿波罗网报道】</a></li>
 <li><a href="/baitai/20231018/1948901.md">官方出动特警军人阻居民回家 北京退伍军人怒吼：消灭他们</a></li>
@@ -23,11 +22,12 @@
 <li><a href="/topimagenews/20231019/1949039.md">中共统计局喊“人口负成长但素质在提高” 网友狂骂全被删</a></li>
 <li><a href="/topimagenews/20231019/1949075.md">“网红逃难潮”来了！中共管控自媒体 拥百万粉须前台实名制</a></li>
 <li><a href="/baitai/20231019/1949079.md">罕见！五眼联盟联合爆猛料：中共进行史上规模最大盗窃知识产权活动</a></li>
-<li><a href="/ccpdope/20231019/1949085.md">中共高级军官蔡铁根为何被枪毙？</a></li>
 <li><a href="/topimagenews/20231019/1949136.md">快讯！联合国安理会要求以色列停火 美1票否决</a></li>
+<li><a href="/ccpdope/20231019/1949085.md">中共高级军官蔡铁根为何被枪毙？</a></li>
 <li><a href="/topimagenews/20231018/1948823.md">想都别想！台湾不会拱手交出…</a></li>
 <li><a href="/worldnews/20231018/1948881.md">加沙医院被炸 又和中共挂上钩 惊爆巴人伤亡1/3是恐怖组织发射火箭造成</a></li>
 <li><a href="/topimagenews/20231018/1949027.md">美国又出招抗中共 最惨受害者是“中共军队” 预言悲惨结局</a></li>
+<li><a href="/sohnews/20231018/1948904.md">拜登官方确认加沙医院是哈马斯炸的，一堆人哭晕在厕所里😭</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231019/1949297.md" target="_blank">美国将被自己的政治正确击败</a></li>
+<li><a href="/comments/20231019/1949296.md" target="_blank">哈马斯果然得中共真传 是宣传高手</a></li>
 <li><a href="/comments/20231019/1949286.md" target="_blank">张平：恐怖分子说的话一个字也不要信</a></li>
 <li><a href="/comments/20231019/1949269.md" target="_blank">徐三郎：以色列恢复向加沙南部供水，这就是文明与恐怖的区别</a></li>
 <li><a href="/comments/20231019/1949268.md" target="_blank">加沙真的是个“大型露天监狱”吗？</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20231018/1949037.md" target="_blank">时事大家谈：《崇祯：勤政的亡国君》下架 谁在对号入座？&#160;</a></li>
 <li><a href="/comments/20231018/1949036.md" target="_blank">时事大家谈：一带一路十周年“弊大于利”？招牌还能擦亮吗？</a></li>
 <li><a href="/comments/20231018/1949025.md" target="_blank">【独家重磅】李燕铭：一带一路峰会敏感期 中南海附近发生惨烈车祸 北京一周三次重大事故多人死伤 十一前后24次重大安全事故密集爆发 习近平紧急应对江曾集团另类政变 危化安监专家孙广宇履新国务院副秘书长 曾多次约谈重大安全事故省市官员 习近平决战江曾（143） 中南海政变与反政变（142） 习近平连任与中共末日（175）</a></li>
-<li><a href="/comments/20231018/1949023.md" target="_blank">专栏 &#8211; 劳工通讯：广东中山市永明电子厂因搬厂补偿持续发生劳资冲突 (十三)</a></li>
-<li><a href="/comments/20231018/1949016.md" target="_blank">“一带一路” 先封自家路！普京到北京 武警遍布 封桥封路</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
 <li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
 
 </ul>
 </div>
