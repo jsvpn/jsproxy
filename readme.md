@@ -9,25 +9,25 @@
 <li><a href="/baitai/20231018/1948901.md">官方出动特警军人阻居民回家 北京退伍军人怒吼：消灭他们</a></li>
 <li><a href="/sohnews/20231018/1948921.md">陈破空：彭丽媛准备上位？排名压倒六常委！普京硬拖习下水，公开一桩大秘密。拜登访以有政治风险。谁炸了加沙医院？美东时间10月18日早8点30、即中港台10月18日晚8点30</a></li>
 <li><a href="/cbnews/20231018/1948850.md">开口要价！北京为“习拜会”提出四条件</a></li>
-<li><a href="/cbnews/20231018/1948824.md">砸8800万包养“小三反爱上酒吧男模” 江苏董事长被骗光…下场超悲惨</a></li>
 <li><a href="/comments/20231018/1948986.md">普京在北京“一带一路”论坛致词前 多名欧洲政要离场</a></li>
-<li><a href="/topimagenews/20231018/1948896.md">中国真实失业率剖析；网络股价急跌！北京再上一具沉重枷锁 ；年轻人月薪5万舍不得打车？</a></li>
 <li><a href="/ccpdope/20231018/1948920.md">令计划之祸1 围绕车祸的争夺战</a></li>
+<li><a href="/topimagenews/20231018/1948896.md">中国真实失业率剖析；网络股价急跌！北京再上一具沉重枷锁 ；年轻人月薪5万舍不得打车？</a></li>
 <li><a href="/sohnews/20231019/1949069.md">“习氏王朝收官！‘一带一路论坛晚宴’尽现皇家气派 ⋯ 盛情招待诸多穷鬼！😂 ”《今日点击》（10/18/23）</a></li>
-<li><a href="/baitai/20231018/1948964.md">普京下战书 评论：世界大战或不可避免</a></li>
 <li><a href="/sohnews/20231018/1948991.md">普京北京采访黑了习近平；毛宁和华春莹被网民啪啪打脸；被以色列人铭记 一华人成为中国的辛德勒；拜登紧急出访以色列，航母打击群坐镇。｜ #时事金扫描 #金然</a></li>
+<li><a href="/baitai/20231018/1948964.md">普京下战书 评论：世界大战或不可避免</a></li>
 <li><a href="/topimagenews/20231019/1949136.md">快讯！联合国安理会要求以色列停火 美1票否决</a></li>
+<li><a href="/cbnews/20231019/1949185.md">普京会晤习近平，被拍到罕见一幕</a></li>
 <li><a href="/topimagenews/20231019/1949039.md">中共统计局喊“人口负成长但素质在提高” 网友狂骂全被删</a></li>
 <li><a href="/topimagenews/20231019/1949075.md">“网红逃难潮”来了！中共管控自媒体 拥百万粉须前台实名制</a></li>
 <li><a href="/baitai/20231019/1949079.md">罕见！五眼联盟联合爆猛料：中共进行史上规模最大盗窃知识产权活动</a></li>
-<li><a href="/cbnews/20231019/1949185.md">普京会晤习近平，被拍到罕见一幕</a></li>
 <li><a href="/ccpdope/20231019/1949085.md">中共高级军官蔡铁根为何被枪毙？</a></li>
 <li><a href="/yule/20231019/1949155.md">江珊现任丈夫露面：比靳东帅 还是我们熟悉的他</a></li>
 <li><a href="/topimagenews/20231019/1949182.md">铁证？以色列公布哈马斯内部秘密录音</a></li>
-<li><a href="/topimagenews/20231018/1948823.md">想都别想！台湾不会拱手交出…</a></li>
 <li><a href="/topimagenews/20231019/1949212.md">如果不是太子党，在中国炒股就是找死</a></li>
 <li><a href="/topimagenews/20231018/1949027.md">美国又出招抗中共 最惨受害者是“中共军队” 预言悲惨结局</a></li>
 <li><a href="/worldnews/20231018/1948881.md">加沙医院被炸 又和中共挂上钩 惊爆巴人伤亡1/3是恐怖组织发射火箭造成</a></li>
+<li><a href="/sohnews/20231018/1948904.md">拜登官方确认加沙医院是哈马斯炸的，一堆人哭晕在厕所里😭</a></li>
+<li><a href="/ssgc/20231019/1949163.md">〖微博谈〗人为了钱可以卑微到什么程度？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231019/1949334.md" target="_blank">深度：以巴和平，不会成为现实</a></li>
 <li><a href="/comments/20231019/1949331.md" target="_blank">一带一路大会习近平被黑惨！普京直播跪舔式笑场复仇，全球围观！毛甯又闯祸，以色列中国人舆情再起</a></li>
 <li><a href="/comments/20231019/1949319.md" target="_blank">看以哈战争，大部分人还在做梦</a></li>
 <li><a href="/comments/20231019/1949297.md" target="_blank">美国将被自己的政治正确击败</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20231019/1949139.md" target="_blank">网海拾贝:面对哈马斯的暴行，“中共国的沉默是道德败坏”</a></li>
 <li><a href="/comments/20231019/1949138.md" target="_blank">袁斌：中共为何一边声援哈马斯一边示好塔利班</a></li>
 <li><a href="/comments/20231019/1949137.md" target="_blank">丁律开：哈马斯恐袭背后的中共阴谋</a></li>
-<li><a href="/comments/20231018/1949037.md" target="_blank">时事大家谈：《崇祯：勤政的亡国君》下架 谁在对号入座？&#160;</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
-<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
 <li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
 
 </ul>
 </div>
