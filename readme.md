@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/cbnews/20231019/1949185.md">普京会晤习近平，被拍到罕见一幕</a></li>
 <li><a href="/cbnews/20231019/1949389.md">习近平和普京握手照出来了！表情大不相同【阿波罗网报道】</a></li>
 <li><a href="/comments/20231019/1949331.md">一带一路大会习近平被黑惨！普京直播跪舔式笑场复仇，全球围观！毛甯又闯祸，以色列中国人舆情再起</a></li>
 <li><a href="/cbnews/20231019/1949253.md">〖兲朝浮世绘〗帅到没朋友？与会的人越来越少了</a></li>
@@ -13,12 +12,9 @@
 <li><a href="/cbnews/20231019/1949417.md">国门正在关闭! 体制内人员被禁出国的范围扩大</a></li>
 <li><a href="/sohnews/20231019/1949386.md">第三次世界大战已经开启50%，习近平震怒下令禁止研究崇祯，何卫东兼任国防部长。《老灯开讲第408期》</a></li>
 <li><a href="/topimagenews/20231019/1949212.md">如果不是太子党，在中国炒股就是找死</a></li>
-<li><a href="/cbnews/20231019/1949184.md">普京与习近平密谈近3小时，见面互称对方…</a></li>
-<li><a href="/topimagenews/20231019/1949182.md">铁证？以色列公布哈马斯内部秘密录音</a></li>
 <li><a href="/sohnews/20231019/1949451.md">陈破空：习彭大宴宾客！四十多米长桌，极尽奢华。但三张图片说明了一切：境况一年不如一年。巴以问题复杂化，抗议者冲进美国国会大厦！鸡哈得搅局。美东时间10月19日早8点45、即中港台10月19日晚8点45</a></li>
-<li><a href="/cbnews/20231019/1949183.md">大厂员工为抢午餐提前离岗震怒高层，网络炸锅了</a></li>
-<li><a href="/comments/20231019/1949394.md">李尚福出事又添新证 北京换人接待外国防长</a></li>
 <li><a href="/cnnews/20231019/1949351.md">山东全职妈妈跳楼轻生 丈夫翻手机才知道怎么回事</a></li>
+<li><a href="/comments/20231019/1949394.md">李尚福出事又添新证 北京换人接待外国防长</a></li>
 <li><a href="/baitai/20231019/1949446.md">老板突遭手持冲锋枪特警上门逮捕 网游大佬正面死磕广州公安 火爆网络</a></li>
 <li><a href="/topimagenews/20231019/1949332.md">突发:大批反挺巴者冲进美国会大厦,300人被捕集/视频</a></li>
 <li><a href="/lifebaike/20231019/1949371.md">一个人去别人家里，带这三样，就是低情商的表现</a></li>
@@ -28,6 +24,10 @@
 <li><a href="/worldnews/20231019/1949333.md">韩国公车惊见8字中文标语 小粉红又炸锅了</a></li>
 <li><a href="/ssgc/20231019/1949456.md">成蕾言论挑战北京解释｜一通电话暴露释放真相?</a></li>
 <li><a href="/ccpdope/20231019/1949414.md">中共为何恐惧赵紫阳？</a></li>
+<li><a href="/ccpdope/20231020/1949583.md">只一人存活！网曝中共核潜舰出事全过程</a></li>
+<li><a href="/sohnews/20231019/1949480.md">搜索移民突然暴涨1156.66%❗️“全球性史诗级的经济乃至战争危机，无可避免地将在数年内爆发”鼎泰资本公告证实“谣言”❗️</a></li>
+<li><a href="/cnnews/20231019/1949346.md">跑了？网上疯传碧桂园创始人父女或已离境</a></li>
+<li><a href="/bblog/20231019/1949383.md">杨佳被警察打残了？ 是下边</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
 <li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
 
 </ul>
 </div>
