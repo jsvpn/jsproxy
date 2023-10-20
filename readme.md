@@ -16,18 +16,18 @@
 <li><a href="/baitai/20231019/1949446.md">老板突遭手持冲锋枪特警上门逮捕 网游大佬正面死磕广州公安 火爆网络</a></li>
 <li><a href="/baitai/20231020/1949618.md">习近平高调接待普京竟是这个目的？ 博明揭中共图谋</a></li>
 <li><a href="/topimagenews/20231019/1949332.md">突发:大批反挺巴者冲进美国会大厦,300人被捕集/视频</a></li>
+<li><a href="/topimagenews/20231020/1949652.md">两国元首还在北京 哈国突然官宣对俄制裁</a></li>
+<li><a href="/ccpdope/20231020/1949583.md">只一人存活！网曝中共核潜舰出事全过程</a></li>
 <li><a href="/lifebaike/20231019/1949371.md">一个人去别人家里，带这三样，就是低情商的表现</a></li>
 <li><a href="/cbnews/20231019/1949308.md">江峰：一带一路丐帮大会普京上门拜谒，习近平大块吃肉重拾信心；南航飞机餐馒头榨菜惹热议，博主认错恐“伤民族感情”。对外摆阔对内贫困，习外交思想领先西方300年之“义利观”【江峰漫谈20231018第751期】</a></li>
-<li><a href="/ccpdope/20231020/1949583.md">只一人存活！网曝中共核潜舰出事全过程</a></li>
+<li><a href="/ccpdope/20231020/1949621.md">8年来首次！共和党获重大胜利 川普重返白宫吉兆</a></li>
 <li><a href="/topimagenews/20231019/1949416.md">中国房地产惨到进入收礼时代:银行送礼求客户贷款</a></li>
 <li><a href="/ssgc/20231019/1949456.md">成蕾言论挑战北京解释｜一通电话暴露释放真相?</a></li>
 <li><a href="/worldnews/20231019/1949333.md">韩国公车惊见8字中文标语 小粉红又炸锅了</a></li>
-<li><a href="/topimagenews/20231020/1949652.md">两国元首还在北京 哈国突然官宣对俄制裁</a></li>
+<li><a href="/topimagenews/20231020/1949650.md">华尔街日报：不排除中国爆发金融危机</a></li>
 <li><a href="/ccpdope/20231019/1949414.md">中共为何恐惧赵紫阳？</a></li>
 <li><a href="/ccpdope/20231020/1949598.md">习仲勋晚年为何在深圳住了12年？</a></li>
-<li><a href="/ccpdope/20231020/1949621.md">8年来首次！共和党获重大胜利 川普重返白宫吉兆</a></li>
 <li><a href="/sohnews/20231019/1949480.md">搜索移民突然暴涨1156.66%❗️“全球性史诗级的经济乃至战争危机，无可避免地将在数年内爆发”鼎泰资本公告证实“谣言”❗️</a></li>
-<li><a href="/topimagenews/20231020/1949650.md">华尔街日报：不排除中国爆发金融危机</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20231020/1949790.md" target="_blank">【微博精粹】彻底治理加沙 只能进口墙国网格员和支付宝了</a></li>
 <li><a href="/topimagenews/20231020/1949723.md" target="_blank">乌军两陆战旅登陆左岸 美乌瞒天过海“放蜻蜓”</a></li>
 <li><a href="/topimagenews/20231020/1949722.md" target="_blank">美制裁生威！英伟达这款显卡全网断货</a></li>
 <li><a href="/topimagenews/20231020/1949652.md" target="_blank">两国元首还在北京 哈国突然官宣对俄制裁</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20231019/1949075.md" target="_blank">“网红逃难潮”来了！中共管控自媒体 拥百万粉须前台实名制</a></li>
 <li><a href="/topimagenews/20231019/1949039.md" target="_blank">中共统计局喊“人口负成长但素质在提高” 网友狂骂全被删</a></li>
 <li><a href="/topimagenews/20231018/1949027.md" target="_blank">美国又出招抗中共 最惨受害者是“中共军队” 预言悲惨结局</a></li>
-<li><a href="/topimagenews/20231018/1948903.md" target="_blank">哈玛斯攻击以色列 法新社统计至少170外国人丧命</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231020/1949789.md" target="_blank">天亮时分：以色列反击即将开始，规模前所未有；碧桂园债务违约，A股再现3000点保卫战；红杉资本遭调查，对华投资遭迎头痛击（政论天下第1138集 20231019）天亮时分</a></li>
 <li><a href="/comments/20231020/1949777.md" target="_blank">加沙医院被谁炸 变成比谁嗓门大【方伟时间-20231019】</a></li>
 <li><a href="/comments/20231020/1949770.md" target="_blank">忽悠劳工万岁 林祥谦施洋死的不值</a></li>
 <li><a href="/comments/20231020/1949769.md" target="_blank">吴奕军：中国政治形势严峻，外企也被迫学习“习思想”</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20231019/1949492.md" target="_blank">【新闻拍案惊奇】“国美家电”爆雷！中国开启“缺钱时代”？</a></li>
 <li><a href="/comments/20231019/1949491.md" target="_blank">【新闻最嘲点】关于中东问题的最详解！把恐袭做成了大生意的哈马斯</a></li>
 <li><a href="/comments/20231019/1949474.md" target="_blank">英相苏纳克抵达以色列 “英国和我与你们站在一起。”</a></li>
-<li><a href="/comments/20231019/1949471.md" target="_blank">议长选举第二轮，乔丹再失2名支持者，班农揭幕后交易。阻止乔丹当选，共和党和民主党，掀起两场风暴。#议长选举 #乔丹 #第二轮投票</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
 
 </ul>
 </div>
