@@ -8,17 +8,16 @@
 <li><a href="/cbnews/20231019/1949389.md">习近平和普京握手照出来了！表情大不相同【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20231019/1949386.md">第三次世界大战已经开启50%，习近平震怒下令禁止研究崇祯，何卫东兼任国防部长。《老灯开讲第408期》</a></li>
 <li><a href="/cbnews/20231019/1949417.md">国门正在关闭! 体制内人员被禁出国的范围扩大</a></li>
-<li><a href="/cbnews/20231019/1949362.md">只他一人存活! 网曝中共核潜舰出事全过程 先撞“海带”后全舰官兵...</a></li>
 <li><a href="/sohnews/20231019/1949451.md">陈破空：习彭大宴宾客！四十多米长桌，极尽奢华。但三张图片说明了一切：境况一年不如一年。巴以问题复杂化，抗议者冲进美国国会大厦！鸡哈得搅局。美东时间10月19日早8点45、即中港台10月19日晚8点45</a></li>
 <li><a href="/comments/20231019/1949394.md">李尚福出事又添新证 北京换人接待外国防长</a></li>
 <li><a href="/baitai/20231019/1949446.md">老板突遭手持冲锋枪特警上门逮捕 网游大佬正面死磕广州公安 火爆网络</a></li>
 <li><a href="/topimagenews/20231020/1949652.md">两国元首还在北京 哈国突然官宣对俄制裁</a></li>
 <li><a href="/topimagenews/20231020/1949650.md">华尔街日报：不排除中国爆发金融危机</a></li>
+<li><a href="/sohnews/20231020/1949783.md">许家印贿赂高官名单和金额曝光！体总副局长8000万！他有“十宗罪”？远不止，更大一宗官媒不敢提；美国会调查红杉资本，共特接触2万多英国人，发展线人；“人类命运共同体”藏邪恶企图｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/baitai/20231020/1949618.md">习近平高调接待普京竟是这个目的？ 博明揭中共图谋</a></li>
 <li><a href="/ccpdope/20231020/1949621.md">8年来首次！共和党获重大胜利 川普重返白宫吉兆</a></li>
-<li><a href="/ccpdope/20231020/1949583.md">只一人存活！网曝中共核潜舰出事全过程</a></li>
 <li><a href="/lifebaike/20231019/1949371.md">一个人去别人家里，带这三样，就是低情商的表现</a></li>
-<li><a href="/sohnews/20231020/1949783.md">许家印贿赂高官名单和金额曝光！体总副局长8000万！他有“十宗罪”？远不止，更大一宗官媒不敢提；美国会调查红杉资本，共特接触2万多英国人，发展线人；“人类命运共同体”藏邪恶企图｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/ccpdope/20231020/1949583.md">只一人存活！网曝中共核潜舰出事全过程</a></li>
 <li><a href="/ssgc/20231019/1949456.md">成蕾言论挑战北京解释｜一通电话暴露释放真相?</a></li>
 <li><a href="/topimagenews/20231019/1949416.md">中国房地产惨到进入收礼时代:银行送礼求客户贷款</a></li>
 <li><a href="/ccpdope/20231020/1949598.md">习仲勋晚年为何在深圳住了12年？</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/sohnews/20231019/1949480.md">搜索移民突然暴涨1156.66%❗️“全球性史诗级的经济乃至战争危机，无可避免地将在数年内爆发”鼎泰资本公告证实“谣言”❗️</a></li>
 <li><a href="/cbnews/20231019/1949521.md">坐拥300万粉丝！网红罗大美遭人绑架撕票“藏尸地窖” 200万存款全没了</a></li>
 <li><a href="/bblog/20231019/1949383.md">杨佳被警察打残了？ 是下边</a></li>
+<li><a href="/worldnews/20231019/1949453.md">赵兰健：大量中共军事人员进入美国</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20231020/1949856.md" target="_blank">美军开火了! 卡尼驱逐舰展神威 疑叶门首对以发射3导弹 遭拦截击落</a></li>
 <li><a href="/topimagenews/20231020/1949843.md" target="_blank">哪怕花上一年 以色列撂下狠话：要让加沙变成世界最大坟场</a></li>
 <li><a href="/topimagenews/20231020/1949842.md" target="_blank">大战来临？美国发布“全球警示”警报，英德也警告 中共六艘军舰&#8230;</a></li>
 <li><a href="/topimagenews/20231020/1949790.md" target="_blank">【微博精粹】彻底治理加沙 只能进口墙国网格员和支付宝了</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20231019/1949171.md" target="_blank">白宫拟赠$1000亿美元大礼包！军援以色列乌克兰和台湾</a></li>
 <li><a href="/topimagenews/20231019/1949170.md" target="_blank">“轰炸医院无关以色列” 但中东怒火已燎原</a></li>
 <li><a href="/topimagenews/20231019/1949136.md" target="_blank">快讯！联合国安理会要求以色列停火 美1票否决</a></li>
-<li><a href="/topimagenews/20231019/1949075.md" target="_blank">“网红逃难潮”来了！中共管控自媒体 拥百万粉须前台实名制</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
 <li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
 <li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
 
 </ul>
 </div>
