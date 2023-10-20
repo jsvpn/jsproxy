@@ -8,10 +8,9 @@
 <li><a href="/sohnews/20231020/1949783.md">许家印贿赂高官名单和金额曝光！体总副局长8000万！他有“十宗罪”？远不止，更大一宗官媒不敢提；美国会调查红杉资本，共特接触2万多英国人，发展线人；“人类命运共同体”藏邪恶企图｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/topimagenews/20231020/1949652.md">两国元首还在北京 哈国突然官宣对俄制裁</a></li>
 <li><a href="/topimagenews/20231020/1949650.md">华尔街日报：不排除中国爆发金融危机</a></li>
-<li><a href="/ccpdope/20231020/1949621.md">8年来首次！共和党获重大胜利 川普重返白宫吉兆</a></li>
 <li><a href="/ccpdope/20231020/1949849.md">最大敌人姓赵！习派胆战心惊</a></li>
-<li><a href="/topimagenews/20231020/1949894.md">王毅一番话再被骂翻！网友：“看了下评论区...甚慰!”【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20231020/1949842.md">大战来临？美国发布“全球警示”警报，英德也警告 中共六艘军舰...</a></li>
+<li><a href="/topimagenews/20231020/1949894.md">王毅一番话再被骂翻！网友：“看了下评论区...甚慰!”【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20231020/1949653.md">白宫突然180度大转弯！委内瑞拉马杜罗：迎来新时代</a></li>
 <li><a href="/baitai/20231020/1949984.md">网爆上海高校两学生自杀 陆媒噤声 啼血遗书遭当局封锁 网民怒了</a></li>
 <li><a href="/cbnews/20231020/1949802.md">〖兲朝浮世绘〗满盘皆绿 三千点保卫战即将打响</a></li>
@@ -22,12 +21,13 @@
 <li><a href="/topimagenews/20231020/1949790.md">【微博精粹】彻底治理加沙 只能进口墙国网格员和支付宝了</a></li>
 <li><a href="/health/20231020/1949736.md">40岁男子，每天坚持夜跑5公里，一年后，他得到了什么？</a></li>
 <li><a href="/topimagenews/20231020/1949843.md">哪怕花上一年 以色列撂下狠话：要让加沙变成世界最大坟场</a></li>
-<li><a href="/sohnews/20231020/1949913.md">加拿大外交部与我开会，毛似洪武习似崇祯，许家印招供巨额行贿名单。《老灯开讲第409期》</a></li>
 <li><a href="/topimagenews/20231020/1950022.md">该！以色列人被惹火了！呼吁抵制中国跨境电商Shein【阿波罗网报道】</a></li>
+<li><a href="/sohnews/20231020/1949913.md">加拿大外交部与我开会，毛似洪武习似崇祯，许家印招供巨额行贿名单。《老灯开讲第409期》</a></li>
 <li><a href="/topimagenews/20231020/1949651.md">最大规模坦克装甲突袭战 俄军惨败阿夫迪夫卡</a></li>
 <li><a href="/cnnews/20231020/1949899.md">加拿大恐随时发生9级大地震!华裔专家:准备避难所</a></li>
 <li><a href="/topimagenews/20231020/1949971.md">以巴冲突升温 台湾外交部撤侨专机仅载16人 、137人决定留以色列</a></li>
 <li><a href="/topimagenews/20231020/1949723.md">乌军两陆战旅登陆左岸 美乌瞒天过海“放蜻蜓”</a></li>
+<li><a href="/topimagenews/20231020/1949648.md">传美芯片巨头上海中心将无差别裁员</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20230920/1936271.md" target="_blank">防止你的孩子不成功（5） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
 
 </ul>
 </div>
