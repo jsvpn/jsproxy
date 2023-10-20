@@ -19,15 +19,15 @@
 <li><a href="/topimagenews/20231020/1950022.md">该！以色列人被惹火了！呼吁抵制中国跨境电商Shein【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20231020/1949843.md">哪怕花上一年 以色列撂下狠话：要让加沙变成世界最大坟场</a></li>
 <li><a href="/comments/20231020/1950035.md">【新闻拍案惊奇】许家印贿赂高官名单和金额曝光</a></li>
+<li><a href="/topimagenews/20231020/1949971.md">以巴冲突升温 台湾外交部撤侨专机仅载16人 、137人决定留以色列</a></li>
 <li><a href="/sohnews/20231020/1949913.md">加拿大外交部与我开会，毛似洪武习似崇祯，许家印招供巨额行贿名单。《老灯开讲第409期》</a></li>
 <li><a href="/cnnews/20231020/1949899.md">加拿大恐随时发生9级大地震!华裔专家:准备避难所</a></li>
-<li><a href="/topimagenews/20231020/1949971.md">以巴冲突升温 台湾外交部撤侨专机仅载16人 、137人决定留以色列</a></li>
-<li><a href="/topimagenews/20231020/1949723.md">乌军两陆战旅登陆左岸 美乌瞒天过海“放蜻蜓”</a></li>
 <li><a href="/topimagenews/20231020/1950045.md">美制裁陆芯片是在演戏？日媒惊爆一大破口：出乎意料</a></li>
+<li><a href="/topimagenews/20231020/1949723.md">乌军两陆战旅登陆左岸 美乌瞒天过海“放蜻蜓”</a></li>
 <li><a href="/comments/20231020/1949975.md">以色列！红母牛出现、约柜找到了！一切只为迎接弥赛亚！建立第三圣殿的显著征兆，都出现了⋯末日审判很快就来？！｜ #未解之谜 扶摇</a></li>
 <li><a href="/worldnews/20231020/1949865.md">反以色列就没钱钱喔! 金主撤资宾大校长辞职 宣传车晒哈佛反犹名单</a></li>
-<li><a href="/cbnews/20231020/1949679.md">网友秀一带一路图 习近平有如“王小二过年”</a></li>
-<li><a href="/comments/20231020/1949956.md">以色列闪电发力：撤回中东各国大使、敢死队回家告别、总理前线宣誓！拜登授权打击加沙，中共假撤侨？</a></li>
+<li><a href="/sohnews/20231020/1949949.md">身居高位的他们，突然间一个个“失踪”，这个名单还会继续加长⋯⋯究竟发生了什么？多少人彻夜难安？｜ #百年真相</a></li>
+<li><a href="/topimagenews/20231021/1950104.md">犯下危险错误！发拜登和美驻以色列特种部队合照“没打马” 白宫急删文</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231021/1950180.md" target="_blank">台湾前空军副司令：攻破加沙地道3步骤；以色列胜算几何？美国能否同时应对亚太第三战场？｜张延廷｜新闻烽火台 10/20</a></li>
 <li><a href="/cbnews/20231021/1950138.md" target="_blank">江峰：国宴与馒头飞机餐，天上吃什麽 #习近平</a></li>
 <li><a href="/cbnews/20231021/1950128.md" target="_blank">美国思想领袖：【精彩片段】就习近平一个人想打台湾？中共军队是否会调转枪口对准中南海？ 背负中共遗留问题 「总加速师」没有回头路 &#8211; #新闻大家谈</a></li>
 <li><a href="/cbnews/20231021/1950127.md" target="_blank">美国思想领袖：【精彩片段】调查火箭军五任参谋长 海军两员被查 李尚福前景堪忧 贪腐影响武力攻台？习恼火清洗军队 &#8211; #新闻大家谈</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20231019/1949521.md" target="_blank">坐拥300万粉丝！网红罗大美遭人绑架撕票“藏尸地窖” 200万存款全没了</a></li>
 <li><a href="/cbnews/20231019/1949484.md" target="_blank">菲军方暂未发现攻台意图 做好准备应变任何状况</a></li>
 <li><a href="/comments/20231019/1949471.md" target="_blank">议长选举第二轮，乔丹再失2名支持者，班农揭幕后交易。阻止乔丹当选，共和党和民主党，掀起两场风暴。#议长选举 #乔丹 #第二轮投票</a></li>
-<li><a href="/cbnews/20231019/1949430.md" target="_blank">普京泄中俄联合搞这里 一带一路却泄底了【阿波罗网报道】</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231021/1950180.md" target="_blank">台湾前空军副司令：攻破加沙地道3步骤；以色列胜算几何？美国能否同时应对亚太第三战场？｜张延廷｜新闻烽火台 10/20</a></li>
 <li><a href="/comments/20231021/1950167.md" target="_blank">文昭：计划经济冲冲冲，正不知不觉降临中国！你准备好「被计划」了吗？</a></li>
 <li><a href="/comments/20231021/1950157.md" target="_blank">网海拾贝:中共介入中东事务的三个目的</a></li>
 <li><a href="/comments/20231021/1950156.md" target="_blank">王友群：天要中共亡 谁能挡得住？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20231020/1949770.md" target="_blank">忽悠劳工万岁 林祥谦施洋死的不值</a></li>
 <li><a href="/comments/20231020/1949769.md" target="_blank">吴奕军：中国政治形势严峻，外企也被迫学习“习思想”</a></li>
 <li><a href="/comments/20231020/1949768.md" target="_blank">要是这个世界没有美国</a></li>
-<li><a href="/comments/20231020/1949758.md" target="_blank">斯坦福老周：为战争欢呼的人，生活中大多懦弱且猥琐</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
-<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
 <li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
 
 </ul>
 </div>
