@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/sohnews/20231020/1949783.md">许家印贿赂高官名单和金额曝光！体总副局长8000万！他有“十宗罪”？远不止，更大一宗官媒不敢提；美国会调查红杉资本，共特接触2万多英国人，发展线人；“人类命运共同体”藏邪恶企图｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/ccpdope/20231020/1949849.md">最大敌人姓赵！习派胆战心惊</a></li>
 <li><a href="/topimagenews/20231020/1949842.md">大战来临？美国发布“全球警示”警报，英德也警告 中共六艘军舰...</a></li>
 <li><a href="/topimagenews/20231020/1949894.md">王毅一番话再被骂翻！网友：“看了下评论区...甚慰!”【阿波罗网报道】</a></li>
@@ -20,12 +19,13 @@
 <li><a href="/topimagenews/20231020/1949843.md">哪怕花上一年 以色列撂下狠话：要让加沙变成世界最大坟场</a></li>
 <li><a href="/topimagenews/20231021/1950104.md">犯下危险错误！发拜登和美驻以色列特种部队合照“没打马” 白宫急删文</a></li>
 <li><a href="/sohnews/20231020/1949913.md">加拿大外交部与我开会，毛似洪武习似崇祯，许家印招供巨额行贿名单。《老灯开讲第409期》</a></li>
-<li><a href="/topimagenews/20231020/1949971.md">以巴冲突升温 台湾外交部撤侨专机仅载16人 、137人决定留以色列</a></li>
 <li><a href="/cnnews/20231020/1949899.md">加拿大恐随时发生9级大地震!华裔专家:准备避难所</a></li>
+<li><a href="/topimagenews/20231020/1949971.md">以巴冲突升温 台湾外交部撤侨专机仅载16人 、137人决定留以色列</a></li>
 <li><a href="/topimagenews/20231020/1950045.md">美制裁陆芯片是在演戏？日媒惊爆一大破口：出乎意料</a></li>
 <li><a href="/baitai/20231021/1950091.md">一人生还！ 网传习近平震怒 中共093核潜艇重大事故更多细节流出</a></li>
-<li><a href="/comments/20231020/1949975.md">以色列！红母牛出现、约柜找到了！一切只为迎接弥赛亚！建立第三圣殿的显著征兆，都出现了⋯末日审判很快就来？！｜ #未解之谜 扶摇</a></li>
 <li><a href="/sohnews/20231020/1949949.md">身居高位的他们，突然间一个个“失踪”，这个名单还会继续加长⋯⋯究竟发生了什么？多少人彻夜难安？｜ #百年真相</a></li>
+<li><a href="/comments/20231020/1949975.md">以色列！红母牛出现、约柜找到了！一切只为迎接弥赛亚！建立第三圣殿的显著征兆，都出现了⋯末日审判很快就来？！｜ #未解之谜 扶摇</a></li>
+<li><a href="/topimagenews/20231021/1950168.md">股市跌破3000点后，中纪委发了一则通报</a></li>
 <li><a href="/topimagenews/20231021/1950063.md">马斯克叹这款车“自掘坟墓” 特斯拉崩了：716亿美元一夕消失</a></li>
 <li><a href="/worldnews/20231020/1949865.md">反以色列就没钱钱喔! 金主撤资宾大校长辞职 宣传车晒哈佛反犹名单</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231021/1950266.md" target="_blank">又一位知名投资大咖示警 世界局势危险</a></li>
 <li><a href="/comments/20231021/1950241.md" target="_blank">张平：很多人为何上了主流媒体的当</a></li>
 <li><a href="/comments/20231021/1950240.md" target="_blank">分享一些投资亏钱的血泪史</a></li>
 <li><a href="/comments/20231021/1950239.md" target="_blank">404：寻瑕记：我的沉默震耳欲聋</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20231020/1950034.md" target="_blank">美众院中国委员会领袖：习近奔驰下中共是只怪兽</a></li>
 <li><a href="/comments/20231020/1950033.md" target="_blank">有效减重且保有良好代谢 医生：吃够蛋白质、进行碳水循环</a></li>
 <li><a href="/comments/20231020/1950032.md" target="_blank">《崇祯：勤政的亡国君》下架 ——纪念习仲勋诞辰110周年</a></li>
-<li><a href="/comments/20231020/1950024.md" target="_blank">时事大家谈：华盛顿面临“两场战争”棋局，美国怎么办？哈马斯恐怖攻击以色列，欧洲移民政策到了检讨关头？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
 
 </ul>
 </div>
