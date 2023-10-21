@@ -6,28 +6,28 @@
 <ul>
 
 <li><a href="/topimagenews/20231021/1950154.md">惊呆！中共海军少将当街就被士兵干掉 【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20231020/1949894.md">王毅一番话再被骂翻！网友：“看了下评论区...甚慰!”【阿波罗网报道】</a></li>
 <li><a href="/baitai/20231020/1949984.md">网爆上海高校两学生自杀 陆媒噤声 啼血遗书遭当局封锁 网民怒了</a></li>
 <li><a href="/sohnews/20231020/1949950.md">赊刀人铁口神算，谶言与台湾有关，一尊或飞机失事，或命丧阳泉</a></li>
-<li><a href="/topimagenews/20231021/1950168.md">股市跌破3000点后，中纪委发了一则通报</a></li>
 <li><a href="/comments/20231020/1950035.md">【新闻拍案惊奇】许家印贿赂高官名单和金额曝光</a></li>
+<li><a href="/topimagenews/20231021/1950168.md">股市跌破3000点后，中纪委发了一则通报</a></li>
 <li><a href="/topimagenews/20231020/1950022.md">该！以色列人被惹火了！呼吁抵制中国跨境电商Shein【阿波罗网报道】</a></li>
-<li><a href="/sohnews/20231021/1950173.md">陈破空：习近平败了！取消领导人圆桌峰会，未能发表会议公布。一带一路峰会草草收场。中国股市应声跌破3000点。直播与互动：美东时间10月20日晚8点30、即中港台10月21日早8点30</a></li>
 <li><a href="/sohnews/20231020/1949913.md">加拿大外交部与我开会，毛似洪武习似崇祯，许家印招供巨额行贿名单。《老灯开讲第409期》</a></li>
-<li><a href="/topimagenews/20231021/1950104.md">犯下危险错误！发拜登和美驻以色列特种部队合照“没打马” 白宫急删文</a></li>
+<li><a href="/sohnews/20231021/1950173.md">陈破空：习近平败了！取消领导人圆桌峰会，未能发表会议公布。一带一路峰会草草收场。中国股市应声跌破3000点。直播与互动：美东时间10月20日晚8点30、即中港台10月21日早8点30</a></li>
 <li><a href="/baitai/20231021/1950091.md">一人生还！ 网传习近平震怒 中共093核潜艇重大事故更多细节流出</a></li>
+<li><a href="/topimagenews/20231021/1950104.md">犯下危险错误！发拜登和美驻以色列特种部队合照“没打马” 白宫急删文</a></li>
 <li><a href="/cnnews/20231021/1950199.md">“一带一路”晚宴菜单曝光！8菜3酒都有啥？</a></li>
 <li><a href="/topimagenews/20231020/1950045.md">美制裁陆芯片是在演戏？日媒惊爆一大破口：出乎意料</a></li>
-<li><a href="/cnnews/20231020/1949899.md">加拿大恐随时发生9级大地震!华裔专家:准备避难所</a></li>
 <li><a href="/comments/20231020/1949975.md">以色列！红母牛出现、约柜找到了！一切只为迎接弥赛亚！建立第三圣殿的显著征兆，都出现了⋯末日审判很快就来？！｜ #未解之谜 扶摇</a></li>
 <li><a href="/topimagenews/20231020/1949971.md">以巴冲突升温 台湾外交部撤侨专机仅载16人 、137人决定留以色列</a></li>
-<li><a href="/sohnews/20231020/1949949.md">身居高位的他们，突然间一个个“失踪”，这个名单还会继续加长⋯⋯究竟发生了什么？多少人彻夜难安？｜ #百年真相</a></li>
 <li><a href="/sohnews/20231021/1950222.md">真被“海带”缠住！中共093潜艇出事更多细节，习下令保密，但很快泄露；路透细翻中国200多篇论文，发现中共攻台更多算计：继续与西方挂钩藏阴谋；白宫提出“千亿美元”援助乌、以、台｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/sohnews/20231020/1949949.md">身居高位的他们，突然间一个个“失踪”，这个名单还会继续加长⋯⋯究竟发生了什么？多少人彻夜难安？｜ #百年真相</a></li>
 <li><a href="/ssgc/20231021/1950142.md">专栏 - 夜话中南海：活该吴小晖娶了邓卓芮就敢怠慢邓家贵</a></li>
 <li><a href="/topimagenews/20231021/1950063.md">马斯克叹这款车“自掘坟墓” 特斯拉崩了：716亿美元一夕消失</a></li>
 <li><a href="/topimagenews/20231021/1950166.md">以军夜间突袭约旦河西岸！哈玛斯发言人被捕</a></li>
 <li><a href="/comments/20231020/1949956.md">以色列闪电发力：撤回中东各国大使、敢死队回家告别、总理前线宣誓！拜登授权打击加沙，中共假撤侨？</a></li>
 <li><a href="/ssgc/20231021/1950230.md">〖微博谈〗他们敢不演吗？</a></li>
+<li><a href="/baitai/20231020/1950001.md">打「虎」不停！又一名正部级高官落马 他的背景有点特殊</a></li>
+<li><a href="/lifebaike/20231020/1950023.md">面试官突问：敢吻我吗？全场吓到不敢答 直男神回“1答案”录取</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20231021/1950395.md" target="_blank">又加速了！中共再修订”保密“恶法！外资将夺路而逃【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20231021/1950376.md" target="_blank">解放军死穴：5不会、2差距、2不足和3能不能</a></li>
 <li><a href="/topimagenews/20231021/1950369.md" target="_blank">A股被定为欺诈性市场 华尔街已经“禁止”投资</a></li>
 <li><a href="/topimagenews/20231021/1950361.md" target="_blank">疫情后涨幅全数吐回 大摩：外资撤离中国A股规模前所未有</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20231020/1949905.md" target="_blank">谁是逆流的搅局者？巴勒斯坦未能建国的真相</a></li>
 <li><a href="/topimagenews/20231020/1949894.md" target="_blank">王毅一番话再被骂翻！网友：“看了下评论区&#8230;甚慰!”【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20231020/1949856.md" target="_blank">美军开火了! 卡尼驱逐舰展神威 疑叶门首对以发射3导弹 遭拦截击落</a></li>
-<li><a href="/topimagenews/20231020/1949843.md" target="_blank">哪怕花上一年 以色列撂下狠话：要让加沙变成世界最大坟场</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
-<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
 
 </ul>
 </div>
