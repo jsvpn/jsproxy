@@ -20,13 +20,13 @@
 <li><a href="/topimagenews/20231020/1949971.md">以巴冲突升温 台湾外交部撤侨专机仅载16人 、137人决定留以色列</a></li>
 <li><a href="/sohnews/20231020/1949949.md">身居高位的他们，突然间一个个“失踪”，这个名单还会继续加长⋯⋯究竟发生了什么？多少人彻夜难安？｜ #百年真相</a></li>
 <li><a href="/sohnews/20231021/1950222.md">真被“海带”缠住！中共093潜艇出事更多细节，习下令保密，但很快泄露；路透细翻中国200多篇论文，发现中共攻台更多算计：继续与西方挂钩藏阴谋；白宫提出“千亿美元”援助乌、以、台｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/topimagenews/20231021/1950339.md">1件“小事情” 中国航空产业正远离国际航空…</a></li>
 <li><a href="/ssgc/20231021/1950142.md">专栏 - 夜话中南海：活该吴小晖娶了邓卓芮就敢怠慢邓家贵</a></li>
 <li><a href="/topimagenews/20231021/1950063.md">马斯克叹这款车“自掘坟墓” 特斯拉崩了：716亿美元一夕消失</a></li>
-<li><a href="/topimagenews/20231021/1950339.md">1件“小事情” 中国航空产业正远离国际航空…</a></li>
 <li><a href="/topimagenews/20231021/1950166.md">以军夜间突袭约旦河西岸！哈玛斯发言人被捕</a></li>
 <li><a href="/ssgc/20231021/1950230.md">〖微博谈〗他们敢不演吗？</a></li>
 <li><a href="/comments/20231020/1949956.md">以色列闪电发力：撤回中东各国大使、敢死队回家告别、总理前线宣誓！拜登授权打击加沙，中共假撤侨？</a></li>
-<li><a href="/lifebaike/20231020/1950023.md">面试官突问：敢吻我吗？全场吓到不敢答 直男神回“1答案”录取</a></li>
+<li><a href="/yule/20231021/1950291.md">老公父亲去世 黄有龙赵薇均未现身 更多细节曝</a></li>
 <li><a href="/lifebaike/20231021/1950102.md">降价也卖不掉房子的中年人</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231021/1950421.md" target="_blank">袁红冰：《回归荒凉》（十九）</a></li>
 <li><a href="/comments/20231021/1950352.md" target="_blank">【独家重磅】李燕铭：广西原副主席张秀隆落马内幕 曾获曾庆红三名心腹马仔接力提拔 张秀隆与赵乐际弟赵乐秦多重隐秘关联 牵连三名副国级高官 习近平连任后大清洗（109） 围剿赵乐际（23） 习清洗广西帮围猎郭声琨（11）</a></li>
 <li><a href="/comments/20231021/1950347.md" target="_blank">川普据理力争，DC法官被迫撤销禁言令。共和党秘密投票，试图撤销乔丹竞选资格。为乔丹当选议长，盖兹甘当殉道者。#乔丹 #议长选举 #川普</a></li>
 <li><a href="/comments/20231021/1950344.md" target="_blank">哈马斯恐怖 逼着全世界选边战【方伟时间-20231020】</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20231020/1950051.md" target="_blank">战火下的以色列，何以成为“芯片王国”？</a></li>
 <li><a href="/comments/20231020/1950040.md" target="_blank">时事大家谈：哈马斯恐怖攻击以色列，欧洲移民政策到了检讨关头？</a></li>
 <li><a href="/comments/20231020/1950039.md" target="_blank">时事大家谈：华盛顿面临“两场战争”棋局，美国怎么办？</a></li>
-<li><a href="/comments/20231020/1950037.md" target="_blank">【秦鹏观察】普京装小弟，笑着出卖习近平</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
 <li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
 
 </ul>
 </div>
