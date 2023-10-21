@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/topimagenews/20231021/1950154.md">惊呆！中共海军少将当街就被士兵干掉 【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20231021/1950168.md">股市跌破3000点后，中纪委发了一则通报</a></li>
 <li><a href="/sohnews/20231021/1950387.md">李强与蔡奇内斗提出辞职，彭丽媛派人重查铁链女案，以色列向台湾提供铁穹系统。《老灯开讲第410期》</a></li>
 <li><a href="/cnnews/20231021/1950199.md">“一带一路”晚宴菜单曝光！8菜3酒都有啥？</a></li>
@@ -19,15 +18,16 @@
 <li><a href="/topimagenews/20231021/1950405.md">中国A股恐怖一幕，60个亿渣都没剩；大战来临？美英德发警报 中共六艘军舰在中东</a></li>
 <li><a href="/ccpdope/20231021/1950445.md">中共国务院秘书大洗牌 内斗新动向</a></li>
 <li><a href="/topimagenews/20231021/1950166.md">以军夜间突袭约旦河西岸！哈玛斯发言人被捕</a></li>
-<li><a href="/topimagenews/20231021/1950413.md">上课没收学生手机！浙江老师惨遭“2次锁喉”不敢还手 同学急冲上救人</a></li>
 <li><a href="/funmedia/20231021/1950282.md">女子参加前任婚礼“被塞红包” 打开竟是梳子秒懂后悔痛哭</a></li>
+<li><a href="/topimagenews/20231021/1950413.md">上课没收学生手机！浙江老师惨遭“2次锁喉”不敢还手 同学急冲上救人</a></li>
 <li><a href="/sohnews/20231021/1950416.md">中国房产泡沫刚破灭，基建大泡沫又要爆了！地产时代落幕后，中国经济滑向深渊｜政经孙老师 Mr. Sun Official</a></li>
-<li><a href="/yule/20231021/1950291.md">老公父亲去世 黄有龙赵薇均未现身 更多细节曝</a></li>
-<li><a href="/topimagenews/20231021/1950395.md">又加速了！中共再修订”保密“恶法！外资将夺路而逃【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20231021/1950414.md">网上红了！中国这自助餐“花2元就能吃饱”众人一看菜色惊呆</a></li>
+<li><a href="/topimagenews/20231021/1950395.md">又加速了！中共再修订”保密“恶法！外资将夺路而逃【阿波罗网报道】</a></li>
+<li><a href="/yule/20231021/1950291.md">老公父亲去世 黄有龙赵薇均未现身 更多细节曝</a></li>
 <li><a href="/finance/20231021/1950237.md">我身边的金融民工，很多已经出不起差了…</a></li>
-<li><a href="/cbnews/20231021/1950371.md">陆男苦读多年“考上公务员”！工作3个月就贪污 下场惨了</a></li>
 <li><a href="/topimagenews/20231021/1950376.md">解放军死穴：5不会、2差距、2不足和3能不能</a></li>
+<li><a href="/cbnews/20231021/1950371.md">陆男苦读多年“考上公务员”！工作3个月就贪污 下场惨了</a></li>
+<li><a href="/ssgc/20231021/1950438.md">预卜亡国一页书 令习近平如芒在背</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,14 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231022/1950558.md" target="_blank">苏暁康：哲人李泽厚</a></li>
+<li><a href="/comments/20231022/1950557.md" target="_blank">香港文化移植台湾的可能性</a></li>
+<li><a href="/comments/20231022/1950556.md" target="_blank">宋国诚:战争边缘的省思</a></li>
+<li><a href="/comments/20231022/1950555.md" target="_blank">卓然:预卜亡国一页书 令习近平如芒在背</a></li>
+<li><a href="/comments/20231022/1950554.md" target="_blank">张菁:中东局势危急 中共为何迟迟不撤侨？</a></li>
+<li><a href="/comments/20231022/1950553.md" target="_blank">广宇：漫谈独裁之难</a></li>
+<li><a href="/comments/20231022/1950552.md" target="_blank">沈舟：中东和印太两战线 美军部署有何异同</a></li>
+<li><a href="/comments/20231022/1950551.md" target="_blank">网海拾贝:中共为何恐惧赵紫阳？</a></li>
 <li><a href="/comments/20231022/1950543.md" target="_blank">【中南海秘闻】中共少将海军航空兵后勤技术部部长纪卓图被警卫营士兵当街殴打致命</a></li>
 <li><a href="/comments/20231021/1950481.md" target="_blank">【新闻拍案惊奇】中共093潜艇出事更多细节爆出 白宫提出“千亿美元”援助乌、以、台</a></li>
 <li><a href="/comments/20231021/1950480.md" target="_blank">【文昭谈古论今】准备好拿粮票本排队了吗？计划经济就来啦</a></li>
@@ -114,14 +122,6 @@
 <li><a href="/comments/20231021/1950240.md" target="_blank">分享一些投资亏钱的血泪史</a></li>
 <li><a href="/comments/20231021/1950239.md" target="_blank">404：寻瑕记：我的沉默震耳欲聋</a></li>
 <li><a href="/comments/20231021/1950238.md" target="_blank">走读新生:他们看见自己的官腔，也知道难看</a></li>
-<li><a href="/comments/20231021/1950234.md" target="_blank">天亮时分：拜登发表全国电视讲话，启动核试验？三战来临？中共正在组织反美轴心并自任盟主；乔丹被剥夺议长候选人资格（政论天下第1139集 20231020）天亮时分</a></li>
-<li><a href="/comments/20231021/1950225.md" target="_blank">德媒：习近平私约普京喝茶中俄关系往哪走？</a></li>
-<li><a href="/comments/20231021/1950224.md" target="_blank">磊勒阗:中共无视哈马斯恐怖袭击的背后</a></li>
-<li><a href="/comments/20231021/1950223.md" target="_blank">刘孜芹:中共备战台海新信号？中共国CNKI系统露端倪</a></li>
-<li><a href="/comments/20231021/1950216.md" target="_blank">狗可以咬美国人一次？对比中国恶狗咬幼儿</a></li>
-<li><a href="/comments/20231021/1950196.md" target="_blank">以色列铁证辟谣，为毛有人依然誓死不信？</a></li>
-<li><a href="/comments/20231021/1950195.md" target="_blank">强硬而明确！拜登周四谈话，这句话最为震撼</a></li>
-<li><a href="/comments/20231021/1950180.md" target="_blank">台湾前空军副司令：攻破加沙地道3步骤；以色列胜算几何？美国能否同时应对亚太第三战场？｜张延廷｜新闻烽火台 10/20</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
 <li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
 
 </ul>
 </div>
