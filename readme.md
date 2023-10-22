@@ -18,16 +18,16 @@
 <li><a href="/topimagenews/20231021/1950395.md">又加速了！中共再修订”保密“恶法！外资将夺路而逃【阿波罗网报道】</a></li>
 <li><a href="/yule/20231021/1950291.md">老公父亲去世 黄有龙赵薇均未现身 更多细节曝</a></li>
 <li><a href="/sohnews/20231021/1950416.md">中国房产泡沫刚破灭，基建大泡沫又要爆了！地产时代落幕后，中国经济滑向深渊｜政经孙老师 Mr. Sun Official</a></li>
-<li><a href="/finance/20231021/1950237.md">我身边的金融民工，很多已经出不起差了…</a></li>
 <li><a href="/cbnews/20231021/1950371.md">陆男苦读多年“考上公务员”！工作3个月就贪污 下场惨了</a></li>
-<li><a href="/ssgc/20231021/1950438.md">预卜亡国一页书 令习近平如芒在背</a></li>
 <li><a href="/cbnews/20231021/1950272.md">江峰：“人不够 老婆凑”，人少钱少的一带一路高峰论坛，转型为习近平牵头的反美誓师大会。轴心国框架已成【江峰漫谈20231020第752期】</a></li>
-<li><a href="/topimagenews/20231021/1950376.md">解放军死穴：5不会、2差距、2不足和3能不能</a></li>
+<li><a href="/ssgc/20231021/1950438.md">预卜亡国一页书 令习近平如芒在背</a></li>
 <li><a href="/ssgc/20231022/1950519.md">中国出口海运突现航线满仓 旺季推迟了？</a></li>
+<li><a href="/topimagenews/20231021/1950376.md">解放军死穴：5不会、2差距、2不足和3能不能</a></li>
 <li><a href="/worldnews/20231022/1950507.md">两名美国人质获释细节：与哈马斯关系密切的某国发挥了重要作用</a></li>
+<li><a href="/comments/20231022/1950543.md">【中南海秘闻】中共少将海军航空兵后勤技术部部长纪卓图被警卫营士兵当街殴打致命</a></li>
 <li><a href="/cnnews/20231021/1950330.md">贪了5.55亿的王厅长，是如何“假结婚”的</a></li>
 <li><a href="/baitai/20231021/1950368.md">王丹：習近平為什麼對拉抬經濟增長興趣不大？</a></li>
-<li><a href="/comments/20231022/1950543.md">【中南海秘闻】中共少将海军航空兵后勤技术部部长纪卓图被警卫营士兵当街殴打致命</a></li>
+<li><a href="/comments/20231021/1950329.md">华东师大毕业致辞：我能说的话越来越少…</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231022/1950628.md" target="_blank">【杰森视角】以色列大战蛤蟆丝，胜算有多少？ 以色列自己为蛤蟆丝培训了十月恐怖的主谋？美国打响介入以色列战争第一枪！ 过去20年蛤蟆丝为什么越打越强？以色列这次如何避免历史宿命？</a></li>
 <li><a href="/comments/20231022/1950583.md" target="_blank">勤政的亡国君，谁在给习近平对号入座；推特修理“纽时”，拜登想讲什么</a></li>
 <li><a href="/cbnews/20231021/1950444.md" target="_blank">〖兲朝浮世绘〗习总这是又过一把给外国人指明方向的瘾吧？</a></li>
 <li><a href="/cbnews/20231021/1950414.md" target="_blank">网上红了！中国这自助餐“花2元就能吃饱”众人一看菜色惊呆</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20231020/1949777.md" target="_blank">加沙医院被谁炸 变成比谁嗓门大【方伟时间-20231019】</a></li>
 <li><a href="/comments/20231020/1949688.md" target="_blank">专访高光俊：在中共“刀把子”的核心秘密反共 &#8211; 前公安部刑侦人员传奇逃出中国的经历 ｜#方菲时间</a></li>
 <li><a href="/cbnews/20231020/1949680.md" target="_blank">华春莹“抖机灵”，无助解决北京以巴政策困境</a></li>
-<li><a href="/cbnews/20231020/1949679.md" target="_blank">网友秀一带一路图 习近平有如“王小二过年”</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,12 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231022/1950636.md" target="_blank">王丹：习近平为什么对拉抬经济增长兴趣不大？</a></li>
+<li><a href="/comments/20231022/1950635.md" target="_blank">张彦：《星火》前言</a></li>
+<li><a href="/comments/20231022/1950634.md" target="_blank">林保华：美国面临三面作战？台湾怎么办？</a></li>
+<li><a href="/comments/20231022/1950633.md" target="_blank">一个航母战斗群，战斗力有多强？立体化攻击，足以灭一国</a></li>
+<li><a href="/comments/20231022/1950630.md" target="_blank">天亮时分：【周末大V谈】勤政的亡国君，谁在给习近平对号入座；推特修理「纽时」，拜登想讲什么</a></li>
+<li><a href="/comments/20231022/1950628.md" target="_blank">【杰森视角】以色列大战蛤蟆丝，胜算有多少？ 以色列自己为蛤蟆丝培训了十月恐怖的主谋？美国打响介入以色列战争第一枪！ 过去20年蛤蟆丝为什么越打越强？以色列这次如何避免历史宿命？</a></li>
 <li><a href="/comments/20231022/1950625.md" target="_blank">叶克飞：《辛德勒的名单》被差评围攻：他们不知道自己在反对什么</a></li>
 <li><a href="/comments/20231022/1950624.md" target="_blank">狗咬人活该，人打狗残忍？这是什么疯病…</a></li>
 <li><a href="/comments/20231022/1950621.md" target="_blank">难得一见的??画面：近距离了解一下哈马斯的宣传</a></li>
@@ -116,12 +122,6 @@
 <li><a href="/comments/20231022/1950552.md" target="_blank">沈舟：中东和印太两战线 美军部署有何异同</a></li>
 <li><a href="/comments/20231022/1950551.md" target="_blank">网海拾贝:中共为何恐惧赵紫阳？</a></li>
 <li><a href="/comments/20231022/1950543.md" target="_blank">【中南海秘闻】中共少将海军航空兵后勤技术部部长纪卓图被警卫营士兵当街殴打致命</a></li>
-<li><a href="/comments/20231021/1950481.md" target="_blank">【新闻拍案惊奇】中共093潜艇出事更多细节爆出 白宫提出“千亿美元”援助乌、以、台</a></li>
-<li><a href="/comments/20231021/1950480.md" target="_blank">【文昭谈古论今】准备好拿粮票本排队了吗？计划经济就来啦</a></li>
-<li><a href="/comments/20231021/1950479.md" target="_blank">【新闻最嘲点】揭开犹太人复国真相！哈马斯前世今生</a></li>
-<li><a href="/comments/20231021/1950478.md" target="_blank">“当马克思遇见孔夫子！“ 中国穿越剧硬捧习近平 民众揶揄“荒谬、奇葩”</a></li>
-<li><a href="/comments/20231021/1950472.md" target="_blank">文昭：再次拿粮票排队，什么时候再发生？</a></li>
-<li><a href="/comments/20231021/1950428.md" target="_blank">渖涧松：她那年十九岁（连载十一）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
 <li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
 <li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
 
 </ul>
 </div>
