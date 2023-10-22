@@ -15,7 +15,6 @@
 <li><a href="/topimagenews/20231022/1950646.md">【微博精粹】又跑了个大个的</a></li>
 <li><a href="/topimagenews/20231022/1950702.md">普京访京后竟这样打脸习近平 但实际上访团空手而回</a></li>
 <li><a href="/ssgc/20231022/1950519.md">中国出口海运突现航线满仓 旺季推迟了？</a></li>
-<li><a href="/worldnews/20231022/1950507.md">两名美国人质获释细节：与哈马斯关系密切的某国发挥了重要作用</a></li>
 <li><a href="/baitai/20231022/1950578.md">全国疫情大爆发 患者肺部现黑洞 医院超载</a></li>
 <li><a href="/cnnews/20231022/1950683.md">许家印最疯狂的不是歌舞团，而是那20个控梯员工</a></li>
 <li><a href="/topimagenews/20231022/1950782.md">中菲船舰2度“碰撞”！菲公布画面怒揭伤势</a></li>
@@ -24,10 +23,11 @@
 <li><a href="/comments/20231022/1950583.md">勤政的亡国君，谁在给习近平对号入座；推特修理“纽时”，拜登想讲什么</a></li>
 <li><a href="/ccpdope/20231022/1950700.md">外资坚决避开中国 习近平不得不做出“跪求”姿态</a></li>
 <li><a href="/sohnews/20231022/1950672.md">习近平颜面尽失！管理9万亿资产的贝莱德，A股亏13亿哭着离场；全球三场“战争”：A股最大规模？IPO圈钱，黑色产业链曝光；又有外企被查，言辞行动正相反；中东分歧，拜习会又悬了？｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/baitai/20231022/1950787.md">一个动作测测你的血管堵没堵</a></li>
 <li><a href="/health/20231022/1950599.md">肝癌发出的第一个信号，通常出现在腹部，不少人却当成小毛病</a></li>
 <li><a href="/ssgc/20231022/1950678.md">〖微博谈〗人的想象力根本不够用</a></li>
-<li><a href="/baitai/20231022/1950787.md">一个动作测测你的血管堵没堵</a></li>
 <li><a href="/topimagenews/20231022/1950582.md">俄空天军遭空前打击 南线大戏拉开序幕</a></li>
+<li><a href="/cnnews/20231022/1950697.md">护照这组字母开头有问题？上海有人机场被拦下…</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231023/1950847.md" target="_blank">【独家重磅】李燕铭：中南海高层内斗延烧台湾大选 富士康工厂遭查背后习李暗战 郭台铭致信警告习近平 大呛中南海到底谁怕谁 郭台铭与李克强隐秘关系曝光细思极恐 习近平李克强明争暗斗内幕（120） 钱袋子争夺战（68） 习近平连任与中共末日（176） 中南海政变与反政变（143） 习连任后图谋武统台湾（24）</a></li>
 <li><a href="/comments/20231023/1950844.md" target="_blank">战争现况不断更新 以军炸死哈马斯炮兵总队高级指挥官</a></li>
 <li><a href="/comments/20231022/1950784.md" target="_blank">巴勒斯坦土地问题的七大谬论-1</a></li>
 <li><a href="/comments/20231022/1950779.md" target="_blank">以色列再空投传单警告 若不撤离加沙将被视为恐怖组织同伙</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20231022/1950569.md" target="_blank">404：说句实话，你认为中国现在面临的根本问题是什么？</a></li>
 <li><a href="/comments/20231022/1950568.md" target="_blank">【推特集粹】：如何看待战争中的平民伤亡 一带一路的目的</a></li>
 <li><a href="/comments/20231022/1950564.md" target="_blank">文昭：计划经济的物价管控，如何让你风中零乱？</a></li>
-<li><a href="/comments/20231022/1950561.md" target="_blank">德媒：中巴欲深化合作 印度重申反对“一带一路”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20230920/1936271.md" target="_blank">防止你的孩子不成功（5） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
+<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
 <li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
 
 </ul>
 </div>
