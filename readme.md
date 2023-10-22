@@ -13,21 +13,21 @@
 <li><a href="/ccpdope/20231021/1950445.md">中共国务院秘书大洗牌 内斗新动向</a></li>
 <li><a href="/funmedia/20231022/1950567.md">中国唯一“永久宜居城市”，却让200多万人离开</a></li>
 <li><a href="/topimagenews/20231021/1950413.md">上课没收学生手机！浙江老师惨遭“2次锁喉”不敢还手 同学急冲上救人</a></li>
-<li><a href="/cbnews/20231021/1950414.md">网上红了！中国这自助餐“花2元就能吃饱”众人一看菜色惊呆</a></li>
 <li><a href="/topimagenews/20231022/1950566.md">《半岛电视台》采访 戳中习近平心病</a></li>
-<li><a href="/comments/20231022/1950543.md">【中南海秘闻】中共少将海军航空兵后勤技术部部长纪卓图被警卫营士兵当街殴打致命</a></li>
+<li><a href="/cbnews/20231021/1950414.md">网上红了！中国这自助餐“花2元就能吃饱”众人一看菜色惊呆</a></li>
 <li><a href="/topimagenews/20231021/1950395.md">又加速了！中共再修订”保密“恶法！外资将夺路而逃【阿波罗网报道】</a></li>
-<li><a href="/sohnews/20231021/1950416.md">中国房产泡沫刚破灭，基建大泡沫又要爆了！地产时代落幕后，中国经济滑向深渊｜政经孙老师 Mr. Sun Official</a></li>
+<li><a href="/comments/20231022/1950543.md">【中南海秘闻】中共少将海军航空兵后勤技术部部长纪卓图被警卫营士兵当街殴打致命</a></li>
 <li><a href="/sohnews/20231022/1950587.md">他是干掉张首晟的幕后主谋，马云见到他也要矮三分，他才是中国资本圈真正的大佬！江曾家族通过他转移了万亿资产，他即是风投教父也是超级白手套！‘新闻最嘲点 姜光宇’2023.1021</a></li>
+<li><a href="/sohnews/20231021/1950416.md">中国房产泡沫刚破灭，基建大泡沫又要爆了！地产时代落幕后，中国经济滑向深渊｜政经孙老师 Mr. Sun Official</a></li>
 <li><a href="/ssgc/20231022/1950519.md">中国出口海运突现航线满仓 旺季推迟了？</a></li>
 <li><a href="/cbnews/20231021/1950371.md">陆男苦读多年“考上公务员”！工作3个月就贪污 下场惨了</a></li>
 <li><a href="/worldnews/20231022/1950507.md">两名美国人质获释细节：与哈马斯关系密切的某国发挥了重要作用</a></li>
 <li><a href="/ssgc/20231021/1950438.md">预卜亡国一页书 令习近平如芒在背</a></li>
 <li><a href="/topimagenews/20231021/1950376.md">解放军死穴：5不会、2差距、2不足和3能不能</a></li>
+<li><a href="/sohnews/20231022/1950601.md">文睿：六条线，全面失控，习近平，已经开始压不住场子了</a></li>
 <li><a href="/baitai/20231021/1950368.md">王丹：習近平為什麼對拉抬經濟增長興趣不大？</a></li>
-<li><a href="/topimagenews/20231021/1950361.md">疫情后涨幅全数吐回 大摩：外资撤离中国A股规模前所未有</a></li>
 <li><a href="/comments/20231022/1950555.md">卓然:预卜亡国一页书 令习近平如芒在背</a></li>
-<li><a href="/sohnews/20231021/1950450.md">GDP增长5.2%股市跌破3000…… 说句实话，你认为中国现在面临的根本问题是什么？</a></li>
+<li><a href="/topimagenews/20231021/1950361.md">疫情后涨幅全数吐回 大摩：外资撤离中国A股规模前所未有</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
-<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
 <li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
-<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
 <li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
 
 </ul>
 </div>
