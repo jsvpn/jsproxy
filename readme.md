@@ -14,20 +14,20 @@
 <li><a href="/yule/20231022/1950654.md">64岁毕福剑定居辽宁小县城！开三轮车载客</a></li>
 <li><a href="/topimagenews/20231022/1950646.md">【微博精粹】又跑了个大个的</a></li>
 <li><a href="/topimagenews/20231022/1950702.md">普京访京后竟这样打脸习近平 但实际上访团空手而回</a></li>
-<li><a href="/ssgc/20231022/1950519.md">中国出口海运突现航线满仓 旺季推迟了？</a></li>
 <li><a href="/baitai/20231022/1950578.md">全国疫情大爆发 患者肺部现黑洞 医院超载</a></li>
 <li><a href="/cnnews/20231022/1950683.md">许家印最疯狂的不是歌舞团，而是那20个控梯员工</a></li>
 <li><a href="/topimagenews/20231022/1950782.md">中菲船舰2度“碰撞”！菲公布画面怒揭伤势</a></li>
-<li><a href="/comments/20231022/1950555.md">卓然:预卜亡国一页书 令习近平如芒在背</a></li>
 <li><a href="/comments/20231022/1950768.md">【菁英论坛 】许家印供出高官数量惊人 恒大欠债仅冰山一角</a></li>
+<li><a href="/comments/20231022/1950555.md">卓然:预卜亡国一页书 令习近平如芒在背</a></li>
 <li><a href="/ccpdope/20231022/1950700.md">外资坚决避开中国 习近平不得不做出“跪求”姿态</a></li>
 <li><a href="/comments/20231022/1950583.md">勤政的亡国君，谁在给习近平对号入座；推特修理“纽时”，拜登想讲什么</a></li>
 <li><a href="/baitai/20231022/1950787.md">一个动作测测你的血管堵没堵</a></li>
-<li><a href="/sohnews/20231022/1950672.md">习近平颜面尽失！管理9万亿资产的贝莱德，A股亏13亿哭着离场；全球三场“战争”：A股最大规模？IPO圈钱，黑色产业链曝光；又有外企被查，言辞行动正相反；中东分歧，拜习会又悬了？｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/baitai/20231022/1950801.md">花50万美臀 与40名高官有染 女官员“美容腐败”细节令人叹为观止</a></li>
+<li><a href="/sohnews/20231022/1950672.md">习近平颜面尽失！管理9万亿资产的贝莱德，A股亏13亿哭着离场；全球三场“战争”：A股最大规模？IPO圈钱，黑色产业链曝光；又有外企被查，言辞行动正相反；中东分歧，拜习会又悬了？｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/health/20231022/1950599.md">肝癌发出的第一个信号，通常出现在腹部，不少人却当成小毛病</a></li>
 <li><a href="/ssgc/20231022/1950678.md">〖微博谈〗人的想象力根本不够用</a></li>
 <li><a href="/topimagenews/20231022/1950728.md">哈玛斯尸体搜出血洗手册：要求砍人瞄准3部位 刀刀致命</a></li>
+<li><a href="/cnnews/20231022/1950724.md">纽约鼠灾太疯狂！200万只老鼠开会 体型如幼犬</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,11 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231023/1950861.md" target="_blank">以色列的第三圣殿</a></li>
+<li><a href="/comments/20231023/1950860.md" target="_blank">以色列的第三圣殿：圣物约柜</a></li>
+<li><a href="/comments/20231023/1950859.md" target="_blank">以色列的第三圣殿：消失的约柜</a></li>
+<li><a href="/comments/20231023/1950858.md" target="_blank">以色列的第三圣殿：圣殿重建</a></li>
+<li><a href="/cbnews/20231023/1950857.md" target="_blank">江峰：一带一路，从烤鸡到鸡架的衰变 #习近平 #一带一路</a></li>
 <li><a href="/cbnews/20231023/1950853.md" target="_blank">中共器官捐赠和移植草案 被指按需杀人合法化</a></li>
 <li><a href="/cbnews/20231022/1950823.md" target="_blank">中国充斥反以色列言论 分析：民意被中共绑架</a></li>
 <li><a href="/cbnews/20231022/1950762.md" target="_blank">挂羊头卖猫肉 江苏截获千余要充当猪羊肉的猫</a></li>
@@ -55,11 +60,6 @@
 <li><a href="/cbnews/20231021/1950138.md" target="_blank">江峰：国宴与馒头飞机餐，天上吃什麽 #习近平</a></li>
 <li><a href="/cbnews/20231021/1950128.md" target="_blank">美国思想领袖：【精彩片段】就习近平一个人想打台湾？中共军队是否会调转枪口对准中南海？ 背负中共遗留问题 「总加速师」没有回头路 &#8211; #新闻大家谈</a></li>
 <li><a href="/cbnews/20231021/1950127.md" target="_blank">美国思想领袖：【精彩片段】调查火箭军五任参谋长 海军两员被查 李尚福前景堪忧 贪腐影响武力攻台？习恼火清洗军队 &#8211; #新闻大家谈</a></li>
-<li><a href="/cbnews/20231021/1950110.md" target="_blank">受俄经验启发 中共评估台海冲突下削弱美国制裁之道</a></li>
-<li><a href="/cbnews/20231020/1950036.md" target="_blank">雪糕红极一时，有网友爆料钟薛高被员工讨薪</a></li>
-<li><a href="/cbnews/20231020/1949996.md" target="_blank">中国出生率7年逼腰斩 雀巢无奈宣布“关闭奶粉工厂”</a></li>
-<li><a href="/comments/20231020/1949975.md" target="_blank">以色列！红母牛出现、约柜找到了！一切只为迎接弥赛亚！建立第三圣殿的显著征兆，都出现了⋯末日审判很快就来？！｜ #未解之谜 扶摇</a></li>
-<li><a href="/cbnews/20231020/1949972.md" target="_blank">习近平阳谋！学者：意图藉区域冲突把中国打造成与美国平起平坐的地位</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231023/1950861.md" target="_blank">以色列的第三圣殿</a></li>
+<li><a href="/comments/20231023/1950860.md" target="_blank">以色列的第三圣殿：圣物约柜</a></li>
+<li><a href="/comments/20231023/1950859.md" target="_blank">以色列的第三圣殿：消失的约柜</a></li>
+<li><a href="/comments/20231023/1950858.md" target="_blank">以色列的第三圣殿：圣殿重建</a></li>
 <li><a href="/comments/20231023/1950847.md" target="_blank">【独家重磅】李燕铭：中南海高层内斗延烧台湾大选 富士康工厂遭查背后习李暗战 郭台铭致信警告习近平 大呛中南海到底谁怕谁 郭台铭与李克强隐秘关系曝光细思极恐 习近平李克强明争暗斗内幕（120） 钱袋子争夺战（68） 习近平连任与中共末日（176） 中南海政变与反政变（143） 习连任后图谋武统台湾（24）</a></li>
 <li><a href="/comments/20231023/1950844.md" target="_blank">战争现况不断更新 以军炸死哈马斯炮兵总队高级指挥官</a></li>
 <li><a href="/comments/20231022/1950784.md" target="_blank">巴勒斯坦土地问题的七大谬论-1</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20231022/1950624.md" target="_blank">狗咬人活该，人打狗残忍？这是什么疯病…</a></li>
 <li><a href="/comments/20231022/1950621.md" target="_blank">难得一见的??画面：近距离了解一下哈马斯的宣传</a></li>
 <li><a href="/comments/20231022/1950583.md" target="_blank">勤政的亡国君，谁在给习近平对号入座；推特修理“纽时”，拜登想讲什么</a></li>
-<li><a href="/comments/20231022/1950576.md" target="_blank">中共用穿越剧为习近平“抬轿” 舆论哗然</a></li>
-<li><a href="/comments/20231022/1950569.md" target="_blank">404：说句实话，你认为中国现在面临的根本问题是什么？</a></li>
-<li><a href="/comments/20231022/1950568.md" target="_blank">【推特集粹】：如何看待战争中的平民伤亡 一带一路的目的</a></li>
-<li><a href="/comments/20231022/1950564.md" target="_blank">文昭：计划经济的物价管控，如何让你风中零乱？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
 <li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
 
 </ul>
 </div>
