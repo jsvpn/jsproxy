@@ -5,8 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/funmedia/20231022/1950567.md">中国唯一“永久宜居城市”，却让200多万人离开</a></li>
-<li><a href="/topimagenews/20231022/1950566.md">《半岛电视台》采访 戳中习近平心病</a></li>
 <li><a href="/sohnews/20231022/1950587.md">他是干掉张首晟的幕后主谋，马云见到他也要矮三分，他才是中国资本圈真正的大佬！江曾家族通过他转移了万亿资产，他即是风投教父也是超级白手套！‘新闻最嘲点 姜光宇’2023.1021</a></li>
 <li><a href="/yule/20231022/1950654.md">64岁毕福剑定居辽宁小县城！开三轮车载客</a></li>
 <li><a href="/topimagenews/20231022/1950761.md">风向咋变了？中共对归国留学生宣布一政策 网友：他们要回来了【阿波罗网报道】</a></li>
@@ -17,17 +15,19 @@
 <li><a href="/cnnews/20231022/1950683.md">许家印最疯狂的不是歌舞团，而是那20个控梯员工</a></li>
 <li><a href="/topimagenews/20231022/1950782.md">中菲船舰2度“碰撞”！菲公布画面怒揭伤势</a></li>
 <li><a href="/comments/20231022/1950768.md">【菁英论坛 】许家印供出高官数量惊人 恒大欠债仅冰山一角</a></li>
-<li><a href="/ccpdope/20231022/1950700.md">外资坚决避开中国 习近平不得不做出“跪求”姿态</a></li>
 <li><a href="/baitai/20231022/1950801.md">花50万美臀 与40名高官有染 女官员“美容腐败”细节令人叹为观止</a></li>
+<li><a href="/ccpdope/20231022/1950700.md">外资坚决避开中国 习近平不得不做出“跪求”姿态</a></li>
 <li><a href="/comments/20231022/1950583.md">勤政的亡国君，谁在给习近平对号入座；推特修理“纽时”，拜登想讲什么</a></li>
 <li><a href="/baitai/20231022/1950787.md">一个动作测测你的血管堵没堵</a></li>
-<li><a href="/sohnews/20231022/1950672.md">习近平颜面尽失！管理9万亿资产的贝莱德，A股亏13亿哭着离场；全球三场“战争”：A股最大规模？IPO圈钱，黑色产业链曝光；又有外企被查，言辞行动正相反；中东分歧，拜习会又悬了？｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/baitai/20231022/1950819.md">私人飞机空姐巧遇梁家辉 曝光影帝私下模样</a></li>
+<li><a href="/sohnews/20231022/1950672.md">习近平颜面尽失！管理9万亿资产的贝莱德，A股亏13亿哭着离场；全球三场“战争”：A股最大规模？IPO圈钱，黑色产业链曝光；又有外企被查，言辞行动正相反；中东分歧，拜习会又悬了？｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/health/20231022/1950599.md">肝癌发出的第一个信号，通常出现在腹部，不少人却当成小毛病</a></li>
 <li><a href="/ssgc/20231022/1950678.md">〖微博谈〗人的想象力根本不够用</a></li>
 <li><a href="/topimagenews/20231022/1950728.md">哈玛斯尸体搜出血洗手册：要求砍人瞄准3部位 刀刀致命</a></li>
 <li><a href="/ssgc/20231022/1950734.md">习近平为什么对拉抬经济增长兴趣不大？</a></li>
 <li><a href="/cnnews/20231022/1950724.md">纽约鼠灾太疯狂！200万只老鼠开会 体型如幼犬</a></li>
+<li><a href="/cnnews/20231022/1950697.md">护照这组字母开头有问题？上海有人机场被拦下…</a></li>
+<li><a href="/topimagenews/20231022/1950582.md">俄空天军遭空前打击 南线大戏拉开序幕</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231023/1950892.md" target="_blank">文昭：以色列一旦地面攻入加沙，哈以战争会变成翻版的越战吗？【会员样片节选】</a></li>
 <li><a href="/comments/20231023/1950877.md" target="_blank">【中南海秘闻】中共核潜舰撞“海带”后全舰官兵中硫化氢死亡 仅一人生还 内幕曝光 习近平震怒</a></li>
 <li><a href="/comments/20231023/1950861.md" target="_blank">以色列的第三圣殿</a></li>
 <li><a href="/comments/20231023/1950860.md" target="_blank">以色列的第三圣殿：圣物约柜</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20231022/1950628.md" target="_blank">【杰森视角】以色列大战蛤蟆丝，胜算有多少？ 以色列自己为蛤蟆丝培训了十月恐怖的主谋？美国打响介入以色列战争第一枪！ 过去20年蛤蟆丝为什么越打越强？以色列这次如何避免历史宿命？</a></li>
 <li><a href="/comments/20231022/1950625.md" target="_blank">叶克飞：《辛德勒的名单》被差评围攻：他们不知道自己在反对什么</a></li>
 <li><a href="/comments/20231022/1950624.md" target="_blank">狗咬人活该，人打狗残忍？这是什么疯病…</a></li>
-<li><a href="/comments/20231022/1950621.md" target="_blank">难得一见的??画面：近距离了解一下哈马斯的宣传</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
 <li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
 
 </ul>
 </div>
