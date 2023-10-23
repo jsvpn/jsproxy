@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/sohnews/20231023/1950993.md">正在举行的政治局会议信息量巨大，李嘉诚公开发文痛批习近平，伊朗将在此次中东冲突中崩溃。《老灯开讲第411期》</a></li>
 <li><a href="/topimagenews/20231023/1950883.md">中国大陆惊现这一幕 不看绝对蒙在鼓里【阿波罗网报道】</a></li>
-<li><a href="/baitai/20231022/1950819.md">私人飞机空姐巧遇梁家辉 曝光影帝私下模样</a></li>
+<li><a href="/sohnews/20231023/1950993.md">正在举行的政治局会议信息量巨大，李嘉诚公开发文痛批习近平，伊朗将在此次中东冲突中崩溃。《老灯开讲第411期》</a></li>
 <li><a href="/cnnews/20231023/1950887.md">李嘉诚：有正常政治氛围，就不存在跑不跑的问题</a></li>
 <li><a href="/topimagenews/20231023/1950999.md">“运动了！” 中国各地一大乱象 网友强烈担心：演练开始... 【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20231023/1951024.md">惊爆许家印把这个部级单位一勺烩了【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20231023/1950899.md">北京二手房，开始踩踏出货了？</a></li>
+<li><a href="/topimagenews/20231023/1951024.md">惊爆许家印把这个部级单位一勺烩了【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20231023/1950968.md">【微博精粹】35大陆人舍命放弃搭台机撤离 驯化到这程度 无语</a></li>
 <li><a href="/topimagenews/20231023/1950884.md">习近平自毁“军工帮”，叫嚣攻台，恐外强中干</a></li>
 <li><a href="/headline/20231023/1950850.md">全民抓间谍又有新“成果”，北京称又破获一起美国间谍案</a></li>
 <li><a href="/topimagenews/20231023/1950889.md">又爆性骚扰！马克思主义学院到底是干什么的？</a></li>
 <li><a href="/topimagenews/20231023/1951023.md">习近平的一封信构成“泄密罪”？【阿波罗网报道】</a></li>
-<li><a href="/sohnews/20231022/1950818.md">🔥中共痛恨郭台铭 诅咒8个字 大动作调查富士康；中菲船舰2度“碰撞”！菲公布画面怒揭伤势；美中东增派萨德系统；首批援助物资开进加萨不含燃料；美制裁中共芯片演戏？日媒惊爆大破口：出乎意料【阿波罗网NS】</a></li>
 <li><a href="/headline/20231023/1950866.md">富士康被查 吓坏外资台企？</a></li>
+<li><a href="/baitai/20231023/1951090.md">习近平又有大动作？40年首动 国务院地位变了</a></li>
 <li><a href="/lifebaike/20231023/1950943.md">它是“天然黄体酮”，女人经常吃，通乳散结，乳房或许越来越健康</a></li>
 <li><a href="/lifebaike/20231023/1950942.md">为何中国脑梗越来越多，美国却在减少？厨房3种调料或是“帮凶”</a></li>
 <li><a href="/topimagenews/20231023/1950902.md">哈以战争开打后，消息人士曝伊朗“自觉陷入窘境” 危害核心利益</a></li>
 <li><a href="/ssgc/20231023/1950962.md">〖微博谈〗新闻联播青年</a></li>
 <li><a href="/ccpdope/20231023/1950876.md">以哈战争，中共突派六艘舰艇到中东</a></li>
+<li><a href="/yule/20231023/1951035.md">网曝：汪峰 章子怡确实已经离婚</a></li>
 <li><a href="/funmedia/20231023/1950953.md">42条社会潜规则，读了五遍，大彻大悟</a></li>
 <li><a href="/baitai/20231023/1951021.md">习近平会成为崇祯吗？</a></li>
-<li><a href="/baitai/20231023/1951090.md">习近平又有大动作？40年首动 国务院地位变了</a></li>
 <li><a href="/baitai/20231022/1950827.md">中共疑助俄罗斯 又一金融大咖示警 世界非常局势危险</a></li>
+<li><a href="/cbnews/20231023/1951025.md">青海可可西里一头狼胖得“判若两狼”…专家警告</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20231023/1951157.md" target="_blank">日媒：中共拘留稀土贸易日企中国员工</a></li>
 <li><a href="/comments/20231023/1951122.md" target="_blank">他对话未来人：敌基督注定失败，世界无末日！万物归源、高级生命来治愈整个世界！预言家穿越400年，揭未来真相！｜ #未解之谜 扶摇</a></li>
 <li><a href="/comments/20231023/1951109.md" target="_blank">投票反对乔丹，国会议员被逐出办公室。彭斯陷尴尬。重磅！弹劾拜登出现首个直接证据。#乔丹 #议长选举 #弹劾调查</a></li>
 <li><a href="/cbnews/20231023/1951044.md" target="_blank">青岛啤酒三厂这事牛逼啊 【阿波罗网报道】</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20231022/1950690.md" target="_blank">6死4伤！广西铝工厂爆炸 居民“以为大地震”</a></li>
 <li><a href="/comments/20231022/1950628.md" target="_blank">【杰森视角】以色列大战蛤蟆丝，胜算有多少？ 以色列自己为蛤蟆丝培训了十月恐怖的主谋？美国打响介入以色列战争第一枪！ 过去20年蛤蟆丝为什么越打越强？以色列这次如何避免历史宿命？</a></li>
 <li><a href="/comments/20231022/1950583.md" target="_blank">勤政的亡国君，谁在给习近平对号入座；推特修理“纽时”，拜登想讲什么</a></li>
-<li><a href="/cbnews/20231021/1950444.md" target="_blank">〖兲朝浮世绘〗习总这是又过一把给外国人指明方向的瘾吧？</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231023/1951163.md" target="_blank">【杜耀明评论】既设新制度排除异己，又要立民主贞节牌坊</a></li>
 <li><a href="/comments/20231023/1951122.md" target="_blank">他对话未来人：敌基督注定失败，世界无末日！万物归源、高级生命来治愈整个世界！预言家穿越400年，揭未来真相！｜ #未解之谜 扶摇</a></li>
 <li><a href="/comments/20231023/1951118.md" target="_blank">阿拉伯人自称以法拉赫式拥有土地，但奥斯曼帝国还是英国都不承认</a></li>
 <li><a href="/comments/20231023/1951109.md" target="_blank">投票反对乔丹，国会议员被逐出办公室。彭斯陷尴尬。重磅！弹劾拜登出现首个直接证据。#乔丹 #议长选举 #弹劾调查</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20231023/1950859.md" target="_blank">以色列的第三圣殿：消失的约柜</a></li>
 <li><a href="/comments/20231023/1950858.md" target="_blank">以色列的第三圣殿：圣殿重建</a></li>
 <li><a href="/comments/20231023/1950847.md" target="_blank">【独家重磅】李燕铭：中南海高层内斗延烧台湾大选 富士康工厂遭查背后习李暗战 郭台铭致信警告习近平 大呛中南海到底谁怕谁 郭台铭与李克强隐秘关系曝光细思极恐 习近平李克强明争暗斗内幕（120） 钱袋子争夺战（68） 习近平连任与中共末日（176） 中南海政变与反政变（143） 习连任后图谋武统台湾（24）</a></li>
-<li><a href="/comments/20231023/1950844.md" target="_blank">战争现况不断更新 以军炸死哈马斯炮兵总队高级指挥官</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
 <li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
 <li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
 
 </ul>
 </div>
