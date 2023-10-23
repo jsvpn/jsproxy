@@ -6,8 +6,6 @@
 <ul>
 
 <li><a href="/topimagenews/20231022/1950761.md">风向咋变了？中共对归国留学生宣布一政策 网友：他们要回来了【阿波罗网报道】</a></li>
-<li><a href="/yule/20231022/1950654.md">64岁毕福剑定居辽宁小县城！开三轮车载客</a></li>
-<li><a href="/topimagenews/20231022/1950646.md">【微博精粹】又跑了个大个的</a></li>
 <li><a href="/topimagenews/20231022/1950702.md">普京访京后竟这样打脸习近平 但实际上访团空手而回</a></li>
 <li><a href="/cnnews/20231022/1950683.md">许家印最疯狂的不是歌舞团，而是那20个控梯员工</a></li>
 <li><a href="/topimagenews/20231022/1950782.md">中菲船舰2度“碰撞”！菲公布画面怒揭伤势</a></li>
@@ -19,15 +17,17 @@
 <li><a href="/baitai/20231022/1950819.md">私人飞机空姐巧遇梁家辉 曝光影帝私下模样</a></li>
 <li><a href="/topimagenews/20231023/1950883.md">中国大陆惊现这一幕 不看绝对蒙在鼓里【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20231022/1950678.md">〖微博谈〗人的想象力根本不够用</a></li>
-<li><a href="/ssgc/20231022/1950734.md">习近平为什么对拉抬经济增长兴趣不大？</a></li>
 <li><a href="/cnnews/20231022/1950724.md">纽约鼠灾太疯狂！200万只老鼠开会 体型如幼犬</a></li>
+<li><a href="/ssgc/20231022/1950734.md">习近平为什么对拉抬经济增长兴趣不大？</a></li>
 <li><a href="/topimagenews/20231022/1950728.md">哈玛斯尸体搜出血洗手册：要求砍人瞄准3部位 刀刀致命</a></li>
 <li><a href="/cnnews/20231022/1950697.md">护照这组字母开头有问题？上海有人机场被拦下…</a></li>
 <li><a href="/sohnews/20231022/1950802.md">陈破空：突发：南海出事！中共对菲律宾下手，四船相撞。上海公安突袭英国公司！带走高管。台湾撤侨，35名中国人求助。结果？直播：美东时间10月22日早8点45、即中港台10月22日晚8点45</a></li>
 <li><a href="/cnnews/20231022/1950695.md">马斯克悲观发言 电动车现警讯</a></li>
-<li><a href="/topimagenews/20231022/1950648.md">危：中共突袭搜索上海外企 带走主管等3员工</a></li>
 <li><a href="/topimagenews/20231022/1950778.md">难得一见 近距离了解一下哈马斯的宣传！【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20231023/1950887.md">李嘉诚：有正常政治氛围，就不存在跑不跑的问题</a></li>
 <li><a href="/sohnews/20231022/1950818.md">🔥中共痛恨郭台铭 诅咒8个字 大动作调查富士康；中菲船舰2度“碰撞”！菲公布画面怒揭伤势；美中东增派萨德系统；首批援助物资开进加萨不含燃料；美制裁中共芯片演戏？日媒惊爆大破口：出乎意料【阿波罗网NS】</a></li>
+<li><a href="/comments/20231022/1950658.md">天亮时分：半岛电视台透露共军对台海开战的真实看法；《当马克思遇到孔夫子》，孔夫子会问马克思什么问题？（YouTube会员节目第39集 20231021）</a></li>
+<li><a href="/topimagenews/20231023/1950889.md">又爆性骚扰！马克思主义学院到底是干什么的？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
 <li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
-<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
 
 </ul>
 </div>
