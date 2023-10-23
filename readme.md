@@ -19,15 +19,15 @@
 <li><a href="/sohnews/20231022/1950672.md">习近平颜面尽失！管理9万亿资产的贝莱德，A股亏13亿哭着离场；全球三场“战争”：A股最大规模？IPO圈钱，黑色产业链曝光；又有外企被查，言辞行动正相反；中东分歧，拜习会又悬了？｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/ssgc/20231022/1950678.md">〖微博谈〗人的想象力根本不够用</a></li>
 <li><a href="/topimagenews/20231022/1950728.md">哈玛斯尸体搜出血洗手册：要求砍人瞄准3部位 刀刀致命</a></li>
-<li><a href="/cnnews/20231022/1950724.md">纽约鼠灾太疯狂！200万只老鼠开会 体型如幼犬</a></li>
 <li><a href="/ssgc/20231022/1950734.md">习近平为什么对拉抬经济增长兴趣不大？</a></li>
+<li><a href="/cnnews/20231022/1950724.md">纽约鼠灾太疯狂！200万只老鼠开会 体型如幼犬</a></li>
 <li><a href="/cnnews/20231022/1950697.md">护照这组字母开头有问题？上海有人机场被拦下…</a></li>
+<li><a href="/topimagenews/20231023/1950883.md">中国大陆惊现这一幕 不看绝对蒙在鼓里【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20231022/1950802.md">陈破空：突发：南海出事！中共对菲律宾下手，四船相撞。上海公安突袭英国公司！带走高管。台湾撤侨，35名中国人求助。结果？直播：美东时间10月22日早8点45、即中港台10月22日晚8点45</a></li>
 <li><a href="/cnnews/20231022/1950695.md">马斯克悲观发言 电动车现警讯</a></li>
 <li><a href="/topimagenews/20231022/1950648.md">危：中共突袭搜索上海外企 带走主管等3员工</a></li>
 <li><a href="/topimagenews/20231022/1950778.md">难得一见 近距离了解一下哈马斯的宣传！【阿波罗网报道】</a></li>
 <li><a href="/comments/20231022/1950658.md">天亮时分：半岛电视台透露共军对台海开战的真实看法；《当马克思遇到孔夫子》，孔夫子会问马克思什么问题？（YouTube会员节目第39集 20231021）</a></li>
-<li><a href="/sohnews/20231022/1950818.md">🔥中共痛恨郭台铭 诅咒8个字 大动作调查富士康；中菲船舰2度“碰撞”！菲公布画面怒揭伤势；美中东增派萨德系统；首批援助物资开进加萨不含燃料；美制裁中共芯片演戏？日媒惊爆大破口：出乎意料【阿波罗网NS】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20231023/1950927.md" target="_blank">洪耀南：解读习近平“一带一路”十周年的八项行动</a></li>
+<li><a href="/cbnews/20231023/1950925.md" target="_blank">江峰：以色列地面作战在等什麽？拜登承诺千亿美元打败俄哈，保台海平安，却露出一大破绽；美军红海拦截导弹和无人机，战争升级让无法避免；五角大楼对共军评估曝其巨大威胁及弱点【江峰漫谈20231022第753期】</a></li>
 <li><a href="/cbnews/20231023/1950881.md" target="_blank">江峰：拿了一带一路的钱，反而败家 #习近平 #一带一路</a></li>
 <li><a href="/comments/20231023/1950861.md" target="_blank">以色列的第三圣殿</a></li>
 <li><a href="/comments/20231023/1950860.md" target="_blank">以色列的第三圣殿：圣物约柜</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20231021/1950272.md" target="_blank">江峰：“人不够 老婆凑”，人少钱少的一带一路高峰论坛，转型为习近平牵头的反美誓师大会。轴心国框架已成【江峰漫谈20231020第752期】</a></li>
 <li><a href="/cbnews/20231021/1950192.md" target="_blank">日益接近对美摊牌时分？习再邀普京单独喝茶&#8230;.</a></li>
 <li><a href="/comments/20231021/1950180.md" target="_blank">台湾前空军副司令：攻破加沙地道3步骤；以色列胜算几何？美国能否同时应对亚太第三战场？｜张延廷｜新闻烽火台 10/20</a></li>
-<li><a href="/cbnews/20231021/1950138.md" target="_blank">江峰：国宴与馒头飞机餐，天上吃什麽 #习近平</a></li>
-<li><a href="/cbnews/20231021/1950128.md" target="_blank">美国思想领袖：【精彩片段】就习近平一个人想打台湾？中共军队是否会调转枪口对准中南海？ 背负中共遗留问题 「总加速师」没有回头路 &#8211; #新闻大家谈</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231023/1950934.md" target="_blank">六神磊磊：中国粗暴治理流浪狗：所有的事其实都是狗事</a></li>
+<li><a href="/comments/20231023/1950933.md" target="_blank">中国网评：“韭菜虽然少了，但出油率高了”</a></li>
+<li><a href="/comments/20231023/1950932.md" target="_blank">维舟：中国式宣传的恶果：当所有恨都有了正当理由</a></li>
+<li><a href="/comments/20231023/1950931.md" target="_blank">民智要多奇葩，才会为哈马斯围攻《辛德勒名单》</a></li>
+<li><a href="/comments/20231023/1950926.md" target="_blank">天亮时分：VIP叛逃发声，揭露哈马斯贪腐和残暴；以色列攻打加沙新计划曝光；中共调查富士康，对台湾大选有何影响？（政论天下第1140集 20231022）天亮时分</a></li>
 <li><a href="/comments/20231023/1950918.md" target="_blank">如松：吃草，过三年</a></li>
 <li><a href="/comments/20231023/1950917.md" target="_blank">刘震云：我们确实是一个弱小的民族</a></li>
 <li><a href="/comments/20231023/1950903.md" target="_blank">深度：以哈战争走向何方？</a></li>
@@ -117,11 +122,6 @@
 <li><a href="/comments/20231022/1950739.md" target="_blank">Powell真的背叛川普了吗？揭开真相，深入分析对川普的影响。</a></li>
 <li><a href="/comments/20231022/1950664.md" target="_blank">我为流浪狗发声！抵制大规模捕杀流浪狗</a></li>
 <li><a href="/comments/20231022/1950658.md" target="_blank">天亮时分：半岛电视台透露共军对台海开战的真实看法；《当马克思遇到孔夫子》，孔夫子会问马克思什么问题？（YouTube会员节目第39集 20231021）</a></li>
-<li><a href="/comments/20231022/1950636.md" target="_blank">王丹：习近平为什么对拉抬经济增长兴趣不大？</a></li>
-<li><a href="/comments/20231022/1950635.md" target="_blank">张彦：《星火》前言</a></li>
-<li><a href="/comments/20231022/1950634.md" target="_blank">林保华：美国面临三面作战？台湾怎么办？</a></li>
-<li><a href="/comments/20231022/1950633.md" target="_blank">一个航母战斗群，战斗力有多强？立体化攻击，足以灭一国</a></li>
-<li><a href="/comments/20231022/1950630.md" target="_blank">天亮时分：【周末大V谈】勤政的亡国君，谁在给习近平对号入座；推特修理「纽时」，拜登想讲什么</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
 <li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
 <li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
 
 </ul>
 </div>
