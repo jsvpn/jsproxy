@@ -9,25 +9,25 @@
 <li><a href="/baitai/20231023/1951090.md">习近平又有大动作？40年首动 国务院地位变了</a></li>
 <li><a href="/topimagenews/20231023/1950999.md">“运动了！” 中国各地一大乱象 网友强烈担心：演练开始... 【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20231023/1951024.md">惊爆许家印把这个部级单位一勺烩了【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20231023/1950968.md">【微博精粹】35大陆人舍命放弃搭台机撤离 驯化到这程度 无语</a></li>
 <li><a href="/cnnews/20231023/1951085.md">股市跌破3000点后，中纪委发了一则通报；A股被定为欺诈性市场，华尔街已经“禁止”投资</a></li>
 <li><a href="/topimagenews/20231023/1951023.md">习近平的一封信构成“泄密罪”？【阿波罗网报道】</a></li>
 <li><a href="/ccpdope/20231023/1951091.md">内幕揭秘：习近平偏爱行宫之谜</a></li>
 <li><a href="/sohnews/20231023/1951112.md">文睿：章子怡、汪峰，也压不住，一尊面临的惊涛骇浪，一浪高过一浪</a></li>
 <li><a href="/yule/20231023/1951035.md">网曝：汪峰 章子怡确实已经离婚</a></li>
-<li><a href="/ssgc/20231023/1950962.md">〖微博谈〗新闻联播青年</a></li>
 <li><a href="/comments/20231023/1951108.md">吴祚来：习家故事会 习这两天在忙啥子？</a></li>
 <li><a href="/cbnews/20231023/1951025.md">青海可可西里一头狼胖得“判若两狼”…专家警告</a></li>
 <li><a href="/baitai/20231023/1951021.md">习近平会成为崇祯吗？</a></li>
 <li><a href="/ccpdope/20231023/1951150.md">撑不住了！中共很失望 这些国家更失望</a></li>
 <li><a href="/sohnews/20231024/1951244.md">一个大胆的白手套通吃江胡两派权贵资本，中共最高权力转移之后，其命运发生逆转。</a></li>
-<li><a href="/sohnews/20231023/1950959.md">🔥🔥通灵师最新预测点名中国有大事发生❗10月至12月恐有重大灾难爆发 3大异像印证阿南德预测即将成真❓</a></li>
-<li><a href="/topimagenews/20231023/1951011.md">长官醉酒下令死亡冲锋! 300俄军惨烈牺牲 还被骂是“一块肉”</a></li>
 <li><a href="/topimagenews/20231024/1951301.md">为什么大多数中国人支持哈马斯？谜底揭晓【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20231023/1951011.md">长官醉酒下令死亡冲锋! 300俄军惨烈牺牲 还被骂是“一块肉”</a></li>
 <li><a href="/cbnews/20231023/1951026.md">为拍片炫耀 青岛15岁少年一脚踩下去…结果很惨</a></li>
+<li><a href="/baitai/20231024/1951314.md">传许家印供出正副国级 他或是拖垮中共的开始</a></li>
 <li><a href="/finance/20231023/1951078.md">救房市？吉林市为促进房地产 用离奇一招 网惊呆...</a></li>
 <li><a href="/topimagenews/20231023/1951032.md">工人一个动作，青岛啤酒瞬间蒸发80亿</a></li>
 <li><a href="/baitai/20231024/1951263.md">海归回国当公务员：提醒悲剧不要再上演</a></li>
+<li><a href="/cbnews/20231023/1951191.md">恶心！小男孩获车手赠杯，被另一母亲抢走给儿子</a></li>
+<li><a href="/health/20231023/1951070.md">医生指出：能活过80岁的糖尿病人，身上大都有这5个特征</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
 <li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
-<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
 <li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
 
 </ul>
 </div>
