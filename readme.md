@@ -7,27 +7,27 @@
 
 <li><a href="/baitai/20231024/1951314.md">传许家印供出正副国级 他或是拖垮中共的开始</a></li>
 <li><a href="/sohnews/20231024/1951366.md">和薄熙来的皮肉生意每次一千万，和汪峰一场各取所需的婚姻！泼墨门引出京城第一名媛恩怨情仇！章子怡因“三重门”跌至谷底，因一代宗师翻红！‘新闻最嘲点 姜光宇’2023.1023</a></li>
-<li><a href="/topimagenews/20231024/1951441.md">他曝习明泽和老爹习近平不对付</a></li>
-<li><a href="/yule/20231024/1951355.md">汪峰章子怡官宣离婚 离婚导火索被曝</a></li>
 <li><a href="/comments/20231024/1951374.md">习近平用特殊方式下罪己诏！西南重镇突发舆情：党的接班人是他？35名在以色列中国人求助台湾政府</a></li>
-<li><a href="/sohnews/20231024/1951244.md">一个大胆的白手套通吃江胡两派权贵资本，中共最高权力转移之后，其命运发生逆转。</a></li>
+<li><a href="/yule/20231024/1951355.md">汪峰章子怡官宣离婚 离婚导火索被曝</a></li>
+<li><a href="/topimagenews/20231024/1951441.md">他曝习明泽和老爹习近平不对付</a></li>
 <li><a href="/topimagenews/20231024/1951345.md">传许家印供出9正国级高官 还有一堆官员也收贿</a></li>
+<li><a href="/sohnews/20231024/1951244.md">一个大胆的白手套通吃江胡两派权贵资本，中共最高权力转移之后，其命运发生逆转。</a></li>
 <li><a href="/ccpdope/20231023/1951150.md">撑不住了！中共很失望 这些国家更失望</a></li>
+<li><a href="/cbnews/20231024/1951524.md">港媒曝 刘鹤退休也没闲着</a></li>
 <li><a href="/topimagenews/20231024/1951383.md">中国家底，早被掏空了</a></li>
 <li><a href="/topimagenews/20231024/1951301.md">为什么大多数中国人支持哈马斯？谜底揭晓【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20231024/1951524.md">港媒曝 刘鹤退休也没闲着</a></li>
+<li><a href="/headline/20231024/1951637.md">李尚福被免去国务委员、国防部部长职务，秦刚被免去国务委员职务</a></li>
 <li><a href="/baitai/20231024/1951263.md">海归回国当公务员：提醒悲剧不要再上演</a></li>
 <li><a href="/topimagenews/20231024/1951343.md">走！在体制内感受寒冬</a></li>
 <li><a href="/cbnews/20231024/1951463.md">〖兲朝浮世绘〗21世纪轴心国都有谁？</a></li>
 <li><a href="/topimagenews/20231024/1951425.md">【微博精粹】赫尔辛基时代降临墙国</a></li>
-<li><a href="/cbnews/20231023/1951191.md">恶心！小男孩获车手赠杯，被另一母亲抢走给儿子</a></li>
 <li><a href="/topimagenews/20231024/1951533.md">乌俄局势险些发生巨变，普京险些丧命</a></li>
+<li><a href="/cnnews/20231024/1951638.md">突发：秦刚被免国务委员 李尚福被免国务委员、防长</a></li>
+<li><a href="/cbnews/20231023/1951191.md">恶心！小男孩获车手赠杯，被另一母亲抢走给儿子</a></li>
 <li><a href="/baitai/20231024/1951280.md">假离婚成中共官员转移财产烂招 一个越洋电话也招杀身之祸</a></li>
 <li><a href="/ccpdope/20231024/1951258.md">哈马斯创始人之子打破沉默：对付加沙隧道有妙招</a></li>
 <li><a href="/topimagenews/20231024/1951344.md">以军夜袭！ 以哈首度地面交火</a></li>
 <li><a href="/cnnews/20231024/1951339.md">资金撤出中国创纪录！人民币又跌了，大摩发警告</a></li>
-<li><a href="/sohnews/20231024/1951480.md">陈破空：惊传许家印扯出大批高官：政治局常委9人，政治局委员19人，省部级88人。大多数中国人挺哈？都是“新青年”。直播：美东时间10月24日早8点30、即中港台10月24日晚8点30</a></li>
-<li><a href="/comments/20231024/1951329.md">文昭：中美各自调集重兵，赌中东命运！第三次大战已经在预热了吗？一个战场已经开打很久了...</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231024/1951663.md" target="_blank">【财经拆局】盘点施政报告——一年下来「抢」到几多？</a></li>
 <li><a href="/comments/20231024/1951612.md" target="_blank">文昭：美国靠这招干垮了苏联，对中共也管用吗？</a></li>
 <li><a href="/comments/20231024/1951581.md" target="_blank">共军掉转枪口？军方内部人士对台海开战真实看法</a></li>
 <li><a href="/comments/20231024/1951579.md" target="_blank">阿拉伯人借口土地划分不公，是想搞种族清洗，无论怎样都不会满意的</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20231023/1951163.md" target="_blank">【杜耀明评论】既设新制度排除异己，又要立民主贞节牌坊</a></li>
 <li><a href="/comments/20231023/1951122.md" target="_blank">他对话未来人：敌基督注定失败，世界无末日！万物归源、高级生命来治愈整个世界！预言家穿越400年，揭未来真相！｜ #未解之谜 扶摇</a></li>
 <li><a href="/comments/20231023/1951118.md" target="_blank">阿拉伯人自称以法拉赫式拥有土地，但奥斯曼帝国还是英国都不承认</a></li>
-<li><a href="/comments/20231023/1951109.md" target="_blank">投票反对乔丹，国会议员被逐出办公室。彭斯陷尴尬。重磅！弹劾拜登出现首个直接证据。#乔丹 #议长选举 #弹劾调查</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
+<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
 <li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
 
 </ul>
 </div>
