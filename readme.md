@@ -19,15 +19,15 @@
 <li><a href="/yule/20231023/1951035.md">网曝：汪峰 章子怡确实已经离婚</a></li>
 <li><a href="/topimagenews/20231024/1951345.md">传许家印供出9正国级高官 还有一堆官员也收贿</a></li>
 <li><a href="/sohnews/20231024/1951244.md">一个大胆的白手套通吃江胡两派权贵资本，中共最高权力转移之后，其命运发生逆转。</a></li>
-<li><a href="/ccpdope/20231023/1951150.md">撑不住了！中共很失望 这些国家更失望</a></li>
 <li><a href="/topimagenews/20231024/1951383.md">中国家底，早被掏空了</a></li>
+<li><a href="/ccpdope/20231023/1951150.md">撑不住了！中共很失望 这些国家更失望</a></li>
 <li><a href="/baitai/20231024/1951263.md">海归回国当公务员：提醒悲剧不要再上演</a></li>
-<li><a href="/finance/20231023/1951078.md">救房市？吉林市为促进房地产 用离奇一招 网惊呆...</a></li>
 <li><a href="/topimagenews/20231024/1951343.md">走！在体制内感受寒冬</a></li>
-<li><a href="/topimagenews/20231023/1951032.md">工人一个动作，青岛啤酒瞬间蒸发80亿</a></li>
+<li><a href="/finance/20231023/1951078.md">救房市？吉林市为促进房地产 用离奇一招 网惊呆...</a></li>
 <li><a href="/cbnews/20231023/1951191.md">恶心！小男孩获车手赠杯，被另一母亲抢走给儿子</a></li>
-<li><a href="/baitai/20231024/1951280.md">假离婚成中共官员转移财产烂招 一个越洋电话也招杀身之祸</a></li>
 <li><a href="/health/20231023/1951070.md">医生指出：能活过80岁的糖尿病人，身上大都有这5个特征</a></li>
+<li><a href="/baitai/20231024/1951280.md">假离婚成中共官员转移财产烂招 一个越洋电话也招杀身之祸</a></li>
+<li><a href="/topimagenews/20231024/1951344.md">以军夜袭！ 以哈首度地面交火</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231024/1951522.md" target="_blank">盘点九名共和党议长候选人，纷纷寻求川普支持。川普说，只有基督耶稣才能当议长。#议长选举 #候选人 #川普</a></li>
 <li><a href="/cbnews/20231024/1951501.md" target="_blank">中日友好里程碑纪念日 中共对日献上“热脸”</a></li>
 <li><a href="/comments/20231024/1951487.md" target="_blank">川普vs拜登 少数族裔投票为何反转【方伟时间-20231023】</a></li>
 <li><a href="/cbnews/20231024/1951465.md" target="_blank">江峰：富士康被查，中共以商逼政，台湾大选现变数，郭台铭会退选吗？3000点失守，汪峰章子怡离婚竟成股市焦点【江峰漫谈20231023第754期】</a></li>
@@ -59,13 +60,13 @@
 <li><a href="/comments/20231023/1950954.md" target="_blank">民众发声，对拜登敲响警钟。川普十大决策，将助他再次入主白宫。#川普 #拜登 #白宫</a></li>
 <li><a href="/cbnews/20231023/1950946.md" target="_blank">河南村镇银行储户上高速公路抗议 要求还钱</a></li>
 <li><a href="/cbnews/20231023/1950927.md" target="_blank">洪耀南：解读习近平“一带一路”十周年的八项行动</a></li>
-<li><a href="/cbnews/20231023/1950925.md" target="_blank">江峰：以色列地面作战在等什麽？拜登承诺千亿美元打败俄哈，保台海平安，却露出一大破绽；美军红海拦截导弹和无人机，战争升级让无法避免；五角大楼对共军评估曝其巨大威胁及弱点【江峰漫谈20231022第753期】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20231024/1951514.md" target="_blank">恐怖主义最新&#8221;三大升级&#8221; 国际艺术界发公开信挺哈【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20231024/1951441.md" target="_blank">他曝习明泽和老爹习近平不对付</a></li>
 <li><a href="/topimagenews/20231024/1951425.md" target="_blank">【微博精粹】赫尔辛基时代降临墙国</a></li>
 <li><a href="/topimagenews/20231024/1951383.md" target="_blank">中国家底，早被掏空了</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20231023/1950884.md" target="_blank">习近平自毁“军工帮”，叫嚣攻台，恐外强中干</a></li>
 <li><a href="/topimagenews/20231023/1950883.md" target="_blank">中国大陆惊现这一幕 不看绝对蒙在鼓里【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20231022/1950782.md" target="_blank">中菲船舰2度“碰撞”！菲公布画面怒揭伤势</a></li>
-<li><a href="/topimagenews/20231022/1950778.md" target="_blank">难得一见 近距离了解一下哈马斯的宣传！【阿波罗网报道】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231024/1951522.md" target="_blank">盘点九名共和党议长候选人，纷纷寻求川普支持。川普说，只有基督耶稣才能当议长。#议长选举 #候选人 #川普</a></li>
 <li><a href="/comments/20231024/1951505.md" target="_blank">王友群：好色的马克思主义专家前腐后继</a></li>
 <li><a href="/comments/20231024/1951487.md" target="_blank">川普vs拜登 少数族裔投票为何反转【方伟时间-20231023】</a></li>
 <li><a href="/comments/20231024/1951400.md" target="_blank">天亮时分：许家印招了，供出9个正国级；平准基金入市？股市上演2900点保卫战；以色列最後通牒，伊朗称与中俄结成反美轴心（政论天下第1141集 20231023）天亮时分</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20231023/1951009.md" target="_blank">【新闻最嘲点】江曾家族超级白手套！中国资本圈真正的大佬</a></li>
 <li><a href="/comments/20231023/1950997.md" target="_blank">【经典电影】《天注定》 国语中字高清720P 导演&#8211;编剧-贾樟柯 主演&#8211;王宝强-姜武-赵涛-罗蓝山</a></li>
 <li><a href="/comments/20231023/1950958.md" target="_blank">明廷哈马斯 匪共现大眼</a></li>
-<li><a href="/comments/20231023/1950954.md" target="_blank">民众发声，对拜登敲响警钟。川普十大决策，将助他再次入主白宫。#川普 #拜登 #白宫</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
 <li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
 
 </ul>
 </div>
