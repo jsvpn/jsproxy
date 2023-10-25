@@ -19,14 +19,14 @@
 <li><a href="/cnnews/20231025/1951925.md">中共傻眼！美国突然提前了时间表</a></li>
 <li><a href="/comments/20231024/1951581.md">共军掉转枪口？军方内部人士对台海开战真实看法</a></li>
 <li><a href="/comments/20231025/1951870.md">习帮主"10.22会场政变"一周年记</a></li>
-<li><a href="/topimagenews/20231024/1951576.md">北京二手房，开始踩踏出货了？中共没钱出招奇葩，江苏要在编专业人员下海创业</a></li>
 <li><a href="/headline/20231025/1951780.md">习近平突访央行背景复杂：金融局势动荡、消费贸易齐跌，万亿国债即将发行</a></li>
 <li><a href="/cbnews/20231025/1951902.md">三战要来了？浙江工厂突接到8国“军品”大订单</a></li>
 <li><a href="/ssgc/20231024/1951669.md">“二十大”一年后的中共政局</a></li>
+<li><a href="/sohnews/20231025/1951930.md">赵紫阳长孙大婚“惊人贺辞”👉王石暗贬习近平！部分沿海区将断水电网？传中国下月“战备模式”转型；秦刚李尚福歇菜，防长人选牵动台海，共军中攻台心声不高；习明泽对习近平有一点很不满｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/ccpdope/20231025/1951803.md">怕死的习近平发贺信泄密 目的是什么？</a></li>
 <li><a href="/topimagenews/20231024/1951734.md">官媒披露富士康被查税掀波 传中共领导人不满</a></li>
 <li><a href="/comments/20231024/1951701.md">【新闻最嘲点】和薄熙来的皮肉生意每次一千万 揭秘章子怡“三重门”往事</a></li>
-<li><a href="/sohnews/20231025/1951930.md">赵紫阳长孙大婚“惊人贺辞”👉王石暗贬习近平！部分沿海区将断水电网？传中国下月“战备模式”转型；秦刚李尚福歇菜，防长人选牵动台海，共军中攻台心声不高；习明泽对习近平有一点很不满｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/topimagenews/20231025/1951935.md">得习欢心！传中共国安部再度越权 做下“大事”</a></li>
 <li><a href="/baitai/20231025/1951776.md">网传郭德纲也润了 疯狂民意吓到中共 「移民」秒变敏感词</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -66,6 +66,8 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20231025/1952086.md" target="_blank">中国家底，早被掏空了！走！在体制内感受寒冬；A股重挫 沪指逼近2900点 市场悲观</a></li>
+<li><a href="/topimagenews/20231025/1952085.md" target="_blank">要从中东撤侨几十万人! 美媒曝 : 白宫在为“最坏状况”做准备</a></li>
 <li><a href="/topimagenews/20231025/1952055.md" target="_blank">震惊！习近平是“反建制、反制度派的人”？她要“让习近平下台”来救“共产党”？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20231025/1952038.md" target="_blank">年增11％创新高 陆地方前3季发债7.1兆</a></li>
 <li><a href="/topimagenews/20231025/1952037.md" target="_blank">俄中各怀鬼胎 盼借中东危机扭转局势</a></li>
@@ -89,8 +91,6 @@
 <li><a href="/topimagenews/20231024/1951441.md" target="_blank">他曝习明泽和老爹习近平不对付</a></li>
 <li><a href="/topimagenews/20231024/1951425.md" target="_blank">【微博精粹】赫尔辛基时代降临墙国</a></li>
 <li><a href="/topimagenews/20231024/1951383.md" target="_blank">中国家底，早被掏空了</a></li>
-<li><a href="/topimagenews/20231024/1951375.md" target="_blank">战场成毒窟？俄军传集体嗑药 只为逃避“这件事”</a></li>
-<li><a href="/topimagenews/20231024/1951345.md" target="_blank">传许家印供出9正国级高官 还有一堆官员也收贿</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
 <li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
 <li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
 
 </ul>
 </div>
