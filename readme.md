@@ -19,15 +19,15 @@
 <li><a href="/cnnews/20231025/1952093.md">中国2024“除夕不放假”！过年只放8天 陆网炸锅：多放1天会怎样</a></li>
 <li><a href="/baitai/20231025/1952112.md">北京当局公布2024年假期安排 全网震怒！恶评如潮 留言超辛辣</a></li>
 <li><a href="/baitai/20231025/1952175.md">恒大歌舞团演出画面令人咋舌 白珊珊还好吗 首任团长竟成许家印心中隐刺？</a></li>
-<li><a href="/headline/20231025/1951843.md">推特上的中国：李尚福被撤依然没有理由，北京政治黑箱一如既往</a></li>
 <li><a href="/headline/20231025/1952095.md">中国防长李尚福被免职 分析：以打贪之名去除反习势力</a></li>
 <li><a href="/cbnews/20231025/1951975.md">〖兲朝浮世绘〗现在是2900点保卫战了，3000点保卫战已经过时了</a></li>
 <li><a href="/sohnews/20231025/1952127.md">陈破空：异常！李尚福遭免职内幕：漏掉重大事项。与秦刚案大不同。浙江工厂突接军事大订单。以军彻夜轰炸，哈马斯悍将丧命。直播与互动：美东时间10月25日早8点30、即中港台10月25日晚8点30</a></li>
-<li><a href="/baitai/20231025/1952121.md">北京出重手干预台湾大选 中共属意人选浮出水面</a></li>
 <li><a href="/cbnews/20231025/1951995.md">江峰：李尚福、秦刚彻底凉，张又侠接国防部长？美萨德导弹调防中东撑以，中共六军舰现身对抗？粉红兴奋官媒否定：去护航打鱼！两面派对以哈，丑态毕现。习拜会在即，中共高调打前站【江峰漫谈20231024第755期】</a></li>
+<li><a href="/baitai/20231025/1952121.md">北京出重手干预台湾大选 中共属意人选浮出水面</a></li>
 <li><a href="/cnnews/20231025/1951926.md">哈马斯要哭了！即将访美 王毅突然“大转弯”</a></li>
 <li><a href="/comments/20231025/1951883.md">章子怡汪峰官宣离婚扯出刀郎？以色列也躺枪！秦刚李尚福被正式官宣双免，习近平勤政又加速了</a></li>
 <li><a href="/health/20231025/1951885.md">马上停用3种食用油，不想让肝坏掉，提醒家人：再香也别吃</a></li>
+<li><a href="/ssgc/20231025/1951932.md">〖微博谈〗风度高下立判</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231026/1952366.md" target="_blank">宋永毅：王毅为什么一定要搞掉秦刚 ｜#方菲时间</a></li>
+<li><a href="/comments/20231026/1952365.md" target="_blank">李尚福跟火箭军贪腐：导弹井里没有导弹！｜宋永毅 ｜#方菲时间</a></li>
+<li><a href="/comments/20231026/1952364.md" target="_blank">传拜习会中共设条件，要美方“面带笑容”，纽森先示范？新议长当选，MAGA运动如虎添翼？以色列加沙之战面临重重压力 ｜唐靖远 方伟 大宇 David 方菲 ｜围炉夜话 10/25</a></li>
 <li><a href="/cbnews/20231026/1952345.md" target="_blank">中共国防部长悬缺，有这3种可能</a></li>
 <li><a href="/cbnews/20231026/1952344.md" target="_blank">习近平官宣！中共蚕食美国后院 再获新进展</a></li>
 <li><a href="/cbnews/20231026/1952343.md" target="_blank">美国防部证实：中共新型导引飞弹核潜舰已下水</a></li>
@@ -57,15 +60,13 @@
 <li><a href="/cbnews/20231025/1951975.md" target="_blank">〖兲朝浮世绘〗现在是2900点保卫战了，3000点保卫战已经过时了</a></li>
 <li><a href="/cbnews/20231025/1951963.md" target="_blank">哈粉哭了《辛德勒的名单》评分重回9.4分</a></li>
 <li><a href="/cbnews/20231025/1951902.md" target="_blank">三战要来了？浙江工厂突接到8国“军品”大订单</a></li>
-<li><a href="/comments/20231025/1951868.md" target="_blank">川普发帖定性，埃默失候选人资格。奥巴马大厨之死，颠覆媒体叙事：奥在现场，并接受警察采访？#众议院议长 #议长选举 #奥巴马</a></li>
-<li><a href="/comments/20231025/1951857.md" target="_blank">顶级风头公司红衫资本被调查，美资输血中共将被斩断？ ｜谢田 方菲 ｜新闻烽火台 10/24</a></li>
-<li><a href="/cbnews/20231025/1951840.md" target="_blank">马斯克警告三战危机 点出1致命威胁</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20231026/1952369.md" target="_blank">中共紧盯以哈战争，真正目的在这</a></li>
 <li><a href="/topimagenews/20231026/1952339.md" target="_blank">重磅：欧美多家零售巨头正在考虑出售中国业务</a></li>
 <li><a href="/topimagenews/20231026/1952267.md" target="_blank">经济学家真不懂？1盒谷片要价8.99美元 恐害拜登连任梦碎</a></li>
 <li><a href="/topimagenews/20231025/1952086.md" target="_blank">中国家底，早被掏空了！走！在体制内感受寒冬；A股重挫 沪指逼近2900点 市场悲观</a></li>
@@ -90,13 +91,15 @@
 <li><a href="/topimagenews/20231024/1951533.md" target="_blank">乌俄局势险些发生巨变，普京险些丧命</a></li>
 <li><a href="/topimagenews/20231024/1951523.md" target="_blank">新的“人肉绞肉机”! 阿夫迪夫卡八千俄军被杀到尸堆如山</a></li>
 <li><a href="/topimagenews/20231024/1951514.md" target="_blank">恐怖主义最新&#8221;三大升级&#8221; 国际艺术界发公开信挺哈【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20231024/1951441.md" target="_blank">他曝习明泽和老爹习近平不对付</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231026/1952366.md" target="_blank">宋永毅：王毅为什么一定要搞掉秦刚 ｜#方菲时间</a></li>
+<li><a href="/comments/20231026/1952365.md" target="_blank">李尚福跟火箭军贪腐：导弹井里没有导弹！｜宋永毅 ｜#方菲时间</a></li>
+<li><a href="/comments/20231026/1952364.md" target="_blank">传拜习会中共设条件，要美方“面带笑容”，纽森先示范？新议长当选，MAGA运动如虎添翼？以色列加沙之战面临重重压力 ｜唐靖远 方伟 大宇 David 方菲 ｜围炉夜话 10/25</a></li>
 <li><a href="/comments/20231026/1952338.md" target="_blank">文昭：习近平突临央行视察，要有大动作了！有一人踩着李尚福和秦刚，权势暴涨</a></li>
 <li><a href="/comments/20231026/1952314.md" target="_blank">吴惠林：第二十六章 创新不是做出来的</a></li>
 <li><a href="/comments/20231026/1952313.md" target="_blank">杨威：中共五个国务委员只剩三 内外尴尬</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20231025/1952072.md" target="_blank">比起李尚福秦刚 这条消息更值得关注</a></li>
 <li><a href="/comments/20231025/1952033.md" target="_blank">南极首现H5N1禽流感病毒 企鹅也躲不过的威胁</a></li>
 <li><a href="/comments/20231025/1952032.md" target="_blank">【秦鹏观察】习近平10年来首次访问央行 透重大政经信号</a></li>
-<li><a href="/comments/20231025/1952006.md" target="_blank">退休老人街头演奏“愿荣光归香港” 香港法院判囚30天</a></li>
-<li><a href="/comments/20231025/1951994.md" target="_blank">有战功的刘振立 “闽江新军”的何卫东 谁将接任中共防长？</a></li>
-<li><a href="/comments/20231025/1951981.md" target="_blank">亚裔告哈佛后 美国大学招生情况有变吗？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
 <li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
 
 </ul>
 </div>
