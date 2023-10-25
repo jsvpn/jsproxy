@@ -8,12 +8,10 @@
 <li><a href="/headline/20231024/1951637.md">李尚福被免去国务委员、国防部部长职务，秦刚被免去国务委员职务</a></li>
 <li><a href="/baitai/20231024/1951688.md">彻底凉了 李尚福 秦刚命运已定 人事任免这环节出乎意料</a></li>
 <li><a href="/cnnews/20231024/1951638.md">突发：秦刚被免国务委员 李尚福被免国务委员、防长</a></li>
-<li><a href="/topimagenews/20231024/1951602.md">民众1天狂搜“移民”超过5亿次！中共政府出狠招</a></li>
 <li><a href="/sohnews/20231024/1951684.md">文睿：李尚福、秦刚完了，一尊，四大柱石，这次一起大规模塌了</a></li>
 <li><a href="/cbnews/20231025/1951773.md">李尚福军委委员也被免 中共防长接替人选已有谱</a></li>
 <li><a href="/sohnews/20231025/1951884.md">砸刚傅晓田缓刑？李尚福两职全免；恒大歌舞团3服务，“谁都扛不住”；530人遭囚，蛤蟆斯地道来历【新闻看点 李沐阳10.24】</a></li>
 <li><a href="/topimagenews/20231025/1951835.md">急了：10年来首次，习近平到这里视察</a></li>
-<li><a href="/topimagenews/20231024/1951601.md">作家爆中共盘算好了：不管郭台铭怎么做，富士康都会被共同富裕</a></li>
 <li><a href="/baitai/20231024/1951641.md">触怒当局？ 地产大亨公开赞赵紫阳 内容不见了</a></li>
 <li><a href="/cnnews/20231025/1951925.md">中共傻眼！美国突然提前了时间表</a></li>
 <li><a href="/headline/20231025/1951780.md">习近平突访央行背景复杂：金融局势动荡、消费贸易齐跌，万亿国债即将发行</a></li>
@@ -22,12 +20,14 @@
 <li><a href="/ssgc/20231024/1951669.md">“二十大”一年后的中共政局</a></li>
 <li><a href="/sohnews/20231025/1951930.md">赵紫阳长孙大婚“惊人贺辞”👉王石暗贬习近平！部分沿海区将断水电网？传中国下月“战备模式”转型；秦刚李尚福歇菜，防长人选牵动台海，共军中攻台心声不高；习明泽对习近平有一点很不满｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/ccpdope/20231025/1951803.md">怕死的习近平发贺信泄密 目的是什么？</a></li>
-<li><a href="/topimagenews/20231024/1951734.md">官媒披露富士康被查税掀波 传中共领导人不满</a></li>
 <li><a href="/topimagenews/20231025/1951935.md">得习欢心！传中共国安部再度越权 做下“大事”</a></li>
+<li><a href="/topimagenews/20231024/1951734.md">官媒披露富士康被查税掀波 传中共领导人不满</a></li>
 <li><a href="/comments/20231024/1951701.md">【新闻最嘲点】和薄熙来的皮肉生意每次一千万 揭秘章子怡“三重门”往事</a></li>
 <li><a href="/baitai/20231025/1951776.md">网传郭德纲也润了 疯狂民意吓到中共 「移民」秒变敏感词</a></li>
 <li><a href="/headline/20231025/1951843.md">推特上的中国：李尚福被撤依然没有理由，北京政治黑箱一如既往</a></li>
 <li><a href="/comments/20231024/1951698.md">李尚福和秦刚均被拔除国务委员职务 国防部长的替代者尚未公布</a></li>
+<li><a href="/ccpdope/20231025/1951802.md">交出护照！中国编制内人员出国难、自由受限</a></li>
+<li><a href="/baitai/20231025/1951815.md">八旬老太的儿子：我妈「颠覆国家政权」？太搞笑了吧</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
 
 </ul>
 </div>
