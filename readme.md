@@ -5,21 +5,20 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/comments/20231024/1951374.md">习近平用特殊方式下罪己诏！西南重镇突发舆情：党的接班人是他？35名在以色列中国人求助台湾政府</a></li>
 <li><a href="/headline/20231024/1951637.md">李尚福被免去国务委员、国防部部长职务，秦刚被免去国务委员职务</a></li>
 <li><a href="/topimagenews/20231024/1951441.md">他曝习明泽和老爹习近平不对付</a></li>
 <li><a href="/cnnews/20231024/1951638.md">突发：秦刚被免国务委员 李尚福被免国务委员、防长</a></li>
-<li><a href="/baitai/20231024/1951688.md">彻底凉了 李尚福 秦刚命运已定 人事任免这环节出乎意料</a></li>
 <li><a href="/topimagenews/20231024/1951383.md">中国家底，早被掏空了</a></li>
+<li><a href="/baitai/20231024/1951688.md">彻底凉了 李尚福 秦刚命运已定 人事任免这环节出乎意料</a></li>
 <li><a href="/cbnews/20231024/1951524.md">港媒曝 刘鹤退休也没闲着</a></li>
 <li><a href="/topimagenews/20231024/1951602.md">民众1天狂搜“移民”超过5亿次！中共政府出狠招</a></li>
 <li><a href="/baitai/20231024/1951593.md">退而不休 刘鹤真的很重要？ 习近平再破惯例</a></li>
 <li><a href="/topimagenews/20231024/1951533.md">乌俄局势险些发生巨变，普京险些丧命</a></li>
 <li><a href="/sohnews/20231024/1951684.md">文睿：李尚福、秦刚完了，一尊，四大柱石，这次一起大规模塌了</a></li>
 <li><a href="/sohnews/20231024/1951547.md">震撼披露：中共下月起的战备计划，加拿大外交部因我向中共提出抗议，女明星公开说抱住习亲王大腿。《老灯开讲第412期》</a></li>
+<li><a href="/cbnews/20231025/1951773.md">李尚福军委委员也被免 中共防长接替人选已有谱</a></li>
 <li><a href="/cbnews/20231024/1951463.md">〖兲朝浮世绘〗21世纪轴心国都有谁？</a></li>
 <li><a href="/topimagenews/20231024/1951601.md">作家爆中共盘算好了：不管郭台铭怎么做，富士康都会被共同富裕</a></li>
-<li><a href="/cbnews/20231025/1951773.md">李尚福军委委员也被免 中共防长接替人选已有谱</a></li>
 <li><a href="/comments/20231024/1951581.md">共军掉转枪口？军方内部人士对台海开战真实看法</a></li>
 <li><a href="/baitai/20231024/1951641.md">触怒当局？ 地产大亨公开赞赵紫阳 内容不见了</a></li>
 <li><a href="/topimagenews/20231024/1951576.md">北京二手房，开始踩踏出货了？中共没钱出招奇葩，江苏要在编专业人员下海创业</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/ssgc/20231024/1951669.md">“二十大”一年后的中共政局</a></li>
 <li><a href="/topimagenews/20231024/1951734.md">官媒披露富士康被查税掀波 传中共领导人不满</a></li>
 <li><a href="/sohnews/20231024/1951480.md">陈破空：惊传许家印扯出大批高官：政治局常委9人，政治局委员19人，省部级88人。大多数中国人挺哈？都是“新青年”。直播：美东时间10月24日早8点30、即中港台10月24日晚8点30</a></li>
+<li><a href="/health/20231024/1951537.md">最减寿的习惯，不是抽烟，不是喝酒，而是这三样</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231025/1951883.md" target="_blank">章子怡汪峰官宣离婚扯出刀郎？以色列也躺枪！秦刚李尚福被正式官宣双免，习近平勤政又加速了</a></li>
+<li><a href="/comments/20231025/1951873.md" target="_blank">苏暁康：习近平是中共的初心还是意外？</a></li>
+<li><a href="/comments/20231025/1951872.md" target="_blank">陶杰：以色列情报为什么失灵</a></li>
+<li><a href="/comments/20231025/1951871.md" target="_blank">用三个指南针来解释为什么左派恨犹太人</a></li>
+<li><a href="/comments/20231025/1951870.md" target="_blank">习帮主&#8221;10.22会场政变&#8221;一周年记</a></li>
 <li><a href="/comments/20231025/1951868.md" target="_blank">川普发帖定性，埃默失候选人资格。奥巴马大厨之死，颠覆媒体叙事：奥在现场，并接受警察采访？#众议院议长 #议长选举 #奥巴马</a></li>
 <li><a href="/comments/20231025/1951860.md" target="_blank">“中共国面临的根本问题就是不能说实话！”</a></li>
 <li><a href="/comments/20231025/1951859.md" target="_blank">杨宁：美国制裁哈马斯高层 中共高官心悸</a></li>
@@ -117,11 +122,6 @@
 <li><a href="/comments/20231024/1951663.md" target="_blank">【财经拆局】盘点施政报告——一年下来「抢」到几多？</a></li>
 <li><a href="/comments/20231024/1951612.md" target="_blank">文昭：美国靠这招干垮了苏联，对中共也管用吗？</a></li>
 <li><a href="/comments/20231024/1951581.md" target="_blank">共军掉转枪口？军方内部人士对台海开战真实看法</a></li>
-<li><a href="/comments/20231024/1951579.md" target="_blank">阿拉伯人借口土地划分不公，是想搞种族清洗，无论怎样都不会满意的</a></li>
-<li><a href="/comments/20231024/1951554.md" target="_blank">河南再现“白发革命” 老人集体拦路讨要补偿金</a></li>
-<li><a href="/comments/20231024/1951553.md" target="_blank">中国肺炎疫情料11月达高峰 疫苗、抗生素全无效</a></li>
-<li><a href="/comments/20231024/1951522.md" target="_blank">盘点九名共和党议长候选人，纷纷寻求川普支持。川普说，只有基督耶稣才能当议长。#议长选举 #候选人 #川普</a></li>
-<li><a href="/comments/20231024/1951505.md" target="_blank">王友群：好色的马克思主义专家前腐后继</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
 <li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
 
 </ul>
 </div>
