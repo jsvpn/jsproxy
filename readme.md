@@ -7,27 +7,27 @@
 
 <li><a href="/comments/20231025/1952072.md">比起李尚福秦刚 这条消息更值得关注</a></li>
 <li><a href="/sohnews/20231025/1952045.md">习张内斗新国防部长难产，外交部发言人毛宁谈老灯问题，落后国家的民主规律。《老灯开讲第413期》</a></li>
-<li><a href="/sohnews/20231025/1951930.md">赵紫阳长孙大婚“惊人贺辞”👉王石暗贬习近平！部分沿海区将断水电网？传中国下月“战备模式”转型；秦刚李尚福歇菜，防长人选牵动台海，共军中攻台心声不高；习明泽对习近平有一点很不满｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/topimagenews/20231025/1952055.md">震惊！习近平是“反建制、反制度派的人”？她要“让习近平下台”来救“共产党”？【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20231025/1951935.md">得习欢心！传中共国安部再度越权 做下“大事”</a></li>
 <li><a href="/yule/20231025/1952062.md">圈内人曝汪章离婚细节：汪峰不是过错方</a></li>
 <li><a href="/topimagenews/20231025/1952086.md">中国家底，早被掏空了！走！在体制内感受寒冬；A股重挫 沪指逼近2900点 市场悲观</a></li>
 <li><a href="/cnnews/20231025/1952093.md">中国2024“除夕不放假”！过年只放8天 陆网炸锅：多放1天会怎样</a></li>
 <li><a href="/baitai/20231025/1952112.md">北京当局公布2024年假期安排 全网震怒！恶评如潮 留言超辛辣</a></li>
 <li><a href="/baitai/20231025/1952175.md">恒大歌舞团演出画面令人咋舌 白珊珊还好吗 首任团长竟成许家印心中隐刺？</a></li>
-<li><a href="/headline/20231025/1952095.md">中国防长李尚福被免职 分析：以打贪之名去除反习势力</a></li>
 <li><a href="/cbnews/20231025/1951975.md">〖兲朝浮世绘〗现在是2900点保卫战了，3000点保卫战已经过时了</a></li>
+<li><a href="/headline/20231025/1952095.md">中国防长李尚福被免职 分析：以打贪之名去除反习势力</a></li>
 <li><a href="/sohnews/20231025/1952127.md">陈破空：异常！李尚福遭免职内幕：漏掉重大事项。与秦刚案大不同。浙江工厂突接军事大订单。以军彻夜轰炸，哈马斯悍将丧命。直播与互动：美东时间10月25日早8点30、即中港台10月25日晚8点30</a></li>
 <li><a href="/cbnews/20231025/1951995.md">江峰：李尚福、秦刚彻底凉，张又侠接国防部长？美萨德导弹调防中东撑以，中共六军舰现身对抗？粉红兴奋官媒否定：去护航打鱼！两面派对以哈，丑态毕现。习拜会在即，中共高调打前站【江峰漫谈20231024第755期】</a></li>
 <li><a href="/baitai/20231025/1952121.md">北京出重手干预台湾大选 中共属意人选浮出水面</a></li>
 <li><a href="/finance/20231025/1952018.md">对中国经济 标普发出重大警告</a></li>
-<li><a href="/ssgc/20231025/1951932.md">〖微博谈〗风度高下立判</a></li>
 <li><a href="/headline/20231026/1952271.md">习近平出人意外会见美国加州州长，北京频发信号拜习会机率增加</a></li>
 <li><a href="/cnnews/hknews/20231025/1952039.md">如今的香港，已成为一个麻烦</a></li>
 <li><a href="/topimagenews/20231026/1952267.md">经济学家真不懂？1盒谷片要价8.99美元 恐害拜登连任梦碎</a></li>
 <li><a href="/sohnews/20231025/1952181.md">秦刚李尚福正式玩儿完；王毅为习说软话 众粉红不知所措；中共整治富士康 台湾大选乱花迷人眼；拜登急入战情室 中东美军要开战。｜ #时事金扫描 #金然</a></li>
 <li><a href="/cnnews/20231025/1952119.md">一张图热传 女儿无底线支持哈马斯 中国人这样教育她【阿波罗网报道】</a></li>
 <li><a href="/ccpdope/20231025/1952079.md">死海疑有活鱼：上古预言成真 世界末日「三前兆」</a></li>
+<li><a href="/lifebaike/20231025/1952073.md">燃气公司不会透露的5大秘密，学会每月节省一半的燃气费！建议早些了解</a></li>
+<li><a href="/lifebaike/20231026/1952264.md">曾经拼命逃离的银行 现在回不去了</a></li>
+<li><a href="/comments/20231025/1952135.md">吴祚来：巴勒斯坦人水深火热？比中国人富裕的多</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231026/1952448.md" target="_blank">冰川思享号：华为承受不了那么多遥遥领先的谣言</a></li>
+<li><a href="/comments/20231026/1952447.md" target="_blank">星球商业评论:补课的尽头是科大讯飞</a></li>
+<li><a href="/comments/20231026/1952440.md" target="_blank">天亮时分：习与拜登APEC会面，中方提变态要求；以色列总理说地面攻击马上开始，只等一件事；众议院选出新议长，会弹劾拜登吗？（政论天下第1143集 20231025）天亮时分</a></li>
 <li><a href="/comments/20231026/1952424.md" target="_blank">陈奎德：反洗脑 拆墙第一推动力</a></li>
 <li><a href="/comments/20231026/1952412.md" target="_blank">王友群：中共确实不代表中国人民</a></li>
 <li><a href="/comments/20231026/1952403.md" target="_blank">李强被习近平解除权力，突袭央行不许李参加！蔡奇接连接管李地盘，蟑螂喷雾让李强变小强</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20231025/1952221.md" target="_blank">时事大家谈：消灭哈马斯面临两选项，地面战争还是斩首行动？</a></li>
 <li><a href="/comments/20231025/1952205.md" target="_blank">时事大家谈：消灭哈马斯面临两选项，地面战争还是斩首行动？中国双管齐下调查富士康，北京算法律账还是政治账？</a></li>
 <li><a href="/comments/20231025/1952173.md" target="_blank">文昭：美中死磕，美帝有一个潜藏的头号盟友是TA</a></li>
-<li><a href="/comments/20231025/1952144.md" target="_blank">【梁京评论】文化身份、政治文化与生存策略（上）</a></li>
-<li><a href="/comments/20231025/1952142.md" target="_blank">张平：中共的以巴两国方案为何就是别有用心</a></li>
-<li><a href="/comments/20231025/1952135.md" target="_blank">吴祚来：巴勒斯坦人水深火热？比中国人富裕的多</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20230920/1936271.md" target="_blank">防止你的孩子不成功（5） &#8211;教育避坑指南</a></li>
+<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
 
 </ul>
 </div>
