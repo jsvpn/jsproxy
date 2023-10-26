@@ -6,28 +6,28 @@
 <ul>
 
 <li><a href="/sohnews/20231026/1952384.md">李尚福之子通敌做实？习“震怒”无前例，严重超过郭伯雄；习下月访美，要求拜登保持微笑【新闻看点 李沐阳10.25】</a></li>
-<li><a href="/comments/20231026/1952366.md">宋永毅：王毅为什么一定要搞掉秦刚 ｜#方菲时间</a></li>
 <li><a href="/comments/20231026/1952403.md">李强被习近平解除权力，突袭央行不许李参加！蔡奇接连接管李地盘，蟑螂喷雾让李强变小强</a></li>
 <li><a href="/cbnews/20231026/1952422.md">太可怕:秦刚李尚福之后,国务委员还要少一人？</a></li>
-<li><a href="/comments/20231026/1952365.md">李尚福跟火箭军贪腐：导弹井里没有导弹！｜宋永毅 ｜#方菲时间</a></li>
 <li><a href="/cnnews/20231026/1952580.md">洛杉矶沦嫖客天堂？数百妓女裸露站街“做生意”</a></li>
 <li><a href="/cbnews/20231026/1952464.md">〖兲朝浮世绘〗除夕不放假 网友们骂翻了</a></li>
 <li><a href="/yule/20231026/1952450.md">曝章子怡离婚原因：汪峰拿她钱投资亏了9位数 邓超孙俪被波及</a></li>
 <li><a href="/topimagenews/20231026/1952566.md">风采依旧！杜宪、薛飞合影现身网络【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20231026/1952649.md">除夕为何不放假？答案来了！绝望吗？一尊又要亲自指挥亲自部署，红二代跑了……</a></li>
 <li><a href="/sohnews/20231026/1952615.md">陈破空：疑心重！老习罕见甩开蔡奇。刚把李强打发出国，立马干了一件事，挖他墙角。怒撤军事法院院长，要对军方大清洗。直播与互动：美东时间10月26日早8点30、即中港台10月26日晚8点30</a></li>
-<li><a href="/topimagenews/20231026/1952369.md">中共紧盯以哈战争，真正目的在这</a></li>
 <li><a href="/ccpdope/20231026/1952479.md">怕习割韭菜 红二代疯狂向海外转移资产</a></li>
 <li><a href="/ssgc/20231026/1952544.md">中共五个国务委员只剩三 内外尴尬</a></li>
 <li><a href="/cbnews/20231026/1952483.md">女子当街杀完男子后 打给受害家属:人我已经杀了</a></li>
 <li><a href="/sohnews/20231026/1952613.md">文睿：“除习”，火了，干掉一尊，无数人一天都等不下去了</a></li>
 <li><a href="/comments/20231026/1952568.md">吴祚来：习经常引用女儿的哪句话？</a></li>
 <li><a href="/ccpdope/20231026/1952694.md">除夕音同“除习”触犯习近平心病被取消</a></li>
-<li><a href="/baitai/20231026/1952363.md">红二代马晓力再发声：我们的父辈何功之有？</a></li>
 <li><a href="/topimagenews/20231026/1952553.md">坦克大军直冲加沙 以色列炮弹开轰哈玛斯</a></li>
 <li><a href="/baitai/20231026/1952607.md">蒲公英能在 48 小时内杀死 98% 的癌细胞？是真的吗？</a></li>
 <li><a href="/cbnews/20231026/1952642.md">中共国防部发言人被追问李尚福事宜 拒回答</a></li>
 <li><a href="/cnnews/20231026/1952581.md">老照片：1968年，张国焘和家人在加拿大的全家福</a></li>
+<li><a href="/finance/20231026/1952556.md">许家印被抓事件发酵 传中共将调查金融机构</a></li>
+<li><a href="/cbnews/20231026/1952554.md">小伙轻生留下遗言人走债消，法院:继承人还款</a></li>
+<li><a href="/cbnews/20231027/1952721.md">谌贻琴任中国妇联主席 打破35年人事惯例</a></li>
+<li><a href="/sohnews/20231026/1952482.md">上官云珠，风华绝代的上海滩四大影后之一，和毛泽东的一段孽缘，成为她人生悲剧的落幕。【历史真相】｜薇羽看世间 第772期</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20231027/1952830.md" target="_blank">诡异，俄专家代表北京放风习拜会？</a></li>
 <li><a href="/cbnews/20231027/1952821.md" target="_blank">习近平动手了 出了很多事情 让人应接不暇</a></li>
 <li><a href="/cbnews/20231027/1952820.md" target="_blank">两年前种下中俄伊野心 全球凝视三战的深渊</a></li>
 <li><a href="/cbnews/20231027/1952819.md" target="_blank">中国一线男星爆出轨 “3关键”泄身份网惊</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20231026/1952402.md" target="_blank">迈克·约翰逊全票当选新议长。他究竟是何人？剖析他的政治理念与川普的真实关系，揭开约翰逊当选议长的秘密。#约翰逊 #众议院议长 #川普</a></li>
 <li><a href="/cbnews/20231026/1952297.md" target="_blank">碧桂园控股首次被视为美元债券违约</a></li>
 <li><a href="/comments/20231026/1952366.md" target="_blank">宋永毅：王毅为什么一定要搞掉秦刚 ｜#方菲时间</a></li>
-<li><a href="/comments/20231026/1952365.md" target="_blank">李尚福跟火箭军贪腐：导弹井里没有导弹！｜宋永毅 ｜#方菲时间</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
 <li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
 <li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
 
 </ul>
 </div>
