@@ -6,11 +6,10 @@
 <ul>
 
 <li><a href="/comments/20231025/1952072.md">比起李尚福秦刚 这条消息更值得关注</a></li>
-<li><a href="/yule/20231025/1952062.md">圈内人曝汪章离婚细节：汪峰不是过错方</a></li>
 <li><a href="/baitai/20231025/1952175.md">恒大歌舞团演出画面令人咋舌 白珊珊还好吗 首任团长竟成许家印心中隐刺？</a></li>
 <li><a href="/sohnews/20231026/1952384.md">李尚福之子通敌做实？习“震怒”无前例，严重超过郭伯雄；习下月访美，要求拜登保持微笑【新闻看点 李沐阳10.25】</a></li>
-<li><a href="/topimagenews/20231025/1952086.md">中国家底，早被掏空了！走！在体制内感受寒冬；A股重挫 沪指逼近2900点 市场悲观</a></li>
 <li><a href="/cnnews/20231025/1952093.md">中国2024“除夕不放假”！过年只放8天 陆网炸锅：多放1天会怎样</a></li>
+<li><a href="/topimagenews/20231025/1952086.md">中国家底，早被掏空了！走！在体制内感受寒冬；A股重挫 沪指逼近2900点 市场悲观</a></li>
 <li><a href="/baitai/20231025/1952112.md">北京当局公布2024年假期安排 全网震怒！恶评如潮 留言超辛辣</a></li>
 <li><a href="/headline/20231025/1952095.md">中国防长李尚福被免职 分析：以打贪之名去除反习势力</a></li>
 <li><a href="/cnnews/20231026/1952355.md">突发：1700亿中国国企董事长被查</a></li>
@@ -19,15 +18,16 @@
 <li><a href="/baitai/20231025/1952121.md">北京出重手干预台湾大选 中共属意人选浮出水面</a></li>
 <li><a href="/comments/20231026/1952403.md">李强被习近平解除权力，突袭央行不许李参加！蔡奇接连接管李地盘，蟑螂喷雾让李强变小强</a></li>
 <li><a href="/headline/20231026/1952271.md">习近平出人意外会见美国加州州长，北京频发信号拜习会机率增加</a></li>
+<li><a href="/topimagenews/20231026/1952369.md">中共紧盯以哈战争，真正目的在这</a></li>
 <li><a href="/comments/20231026/1952365.md">李尚福跟火箭军贪腐：导弹井里没有导弹！｜宋永毅 ｜#方菲时间</a></li>
 <li><a href="/topimagenews/20231026/1952339.md">重磅：欧美多家零售巨头正在考虑出售中国业务</a></li>
-<li><a href="/topimagenews/20231026/1952369.md">中共紧盯以哈战争，真正目的在这</a></li>
+<li><a href="/cbnews/20231026/1952422.md">太可怕:秦刚李尚福之后,国务委员还要少一人？</a></li>
 <li><a href="/sohnews/20231025/1952181.md">秦刚李尚福正式玩儿完；王毅为习说软话 众粉红不知所措；中共整治富士康 台湾大选乱花迷人眼；拜登急入战情室 中东美军要开战。｜ #时事金扫描 #金然</a></li>
-<li><a href="/topimagenews/20231026/1952267.md">经济学家真不懂？1盒谷片要价8.99美元 恐害拜登连任梦碎</a></li>
 <li><a href="/cnnews/20231026/1952327.md">重磅 沙特保护以色列 击落伊朗射向以色列导弹【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20231026/1952267.md">经济学家真不懂？1盒谷片要价8.99美元 恐害拜登连任梦碎</a></li>
 <li><a href="/lifebaike/20231026/1952264.md">曾经拼命逃离的银行 现在回不去了</a></li>
-<li><a href="/ssgc/20231026/1952270.md">外媒：李尚福遭撤职 显示军方分歧、习力掌火箭军</a></li>
 <li><a href="/headline/20231026/1952288.md">分析人士：中国国防部长被免职可能是新趋势的开始</a></li>
+<li><a href="/cnnews/20231026/1952359.md">慎吃：重金属含量超标 这个知名巧克力被点名</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
 <li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
 
 </ul>
 </div>
