@@ -14,20 +14,20 @@
 <li><a href="/baitai/20231025/1952112.md">北京当局公布2024年假期安排 全网震怒！恶评如潮 留言超辛辣</a></li>
 <li><a href="/baitai/20231025/1952175.md">恒大歌舞团演出画面令人咋舌 白珊珊还好吗 首任团长竟成许家印心中隐刺？</a></li>
 <li><a href="/headline/20231025/1952095.md">中国防长李尚福被免职 分析：以打贪之名去除反习势力</a></li>
-<li><a href="/cbnews/20231025/1951975.md">〖兲朝浮世绘〗现在是2900点保卫战了，3000点保卫战已经过时了</a></li>
 <li><a href="/sohnews/20231025/1952127.md">陈破空：异常！李尚福遭免职内幕：漏掉重大事项。与秦刚案大不同。浙江工厂突接军事大订单。以军彻夜轰炸，哈马斯悍将丧命。直播与互动：美东时间10月25日早8点30、即中港台10月25日晚8点30</a></li>
 <li><a href="/cbnews/20231025/1951995.md">江峰：李尚福、秦刚彻底凉，张又侠接国防部长？美萨德导弹调防中东撑以，中共六军舰现身对抗？粉红兴奋官媒否定：去护航打鱼！两面派对以哈，丑态毕现。习拜会在即，中共高调打前站【江峰漫谈20231024第755期】</a></li>
 <li><a href="/baitai/20231025/1952121.md">北京出重手干预台湾大选 中共属意人选浮出水面</a></li>
+<li><a href="/cnnews/20231026/1952355.md">突发：1700亿中国国企董事长被查</a></li>
 <li><a href="/finance/20231025/1952018.md">对中国经济 标普发出重大警告</a></li>
 <li><a href="/headline/20231026/1952271.md">习近平出人意外会见美国加州州长，北京频发信号拜习会机率增加</a></li>
-<li><a href="/cnnews/hknews/20231025/1952039.md">如今的香港，已成为一个麻烦</a></li>
 <li><a href="/topimagenews/20231026/1952267.md">经济学家真不懂？1盒谷片要价8.99美元 恐害拜登连任梦碎</a></li>
+<li><a href="/cnnews/hknews/20231025/1952039.md">如今的香港，已成为一个麻烦</a></li>
 <li><a href="/sohnews/20231025/1952181.md">秦刚李尚福正式玩儿完；王毅为习说软话 众粉红不知所措；中共整治富士康 台湾大选乱花迷人眼；拜登急入战情室 中东美军要开战。｜ #时事金扫描 #金然</a></li>
-<li><a href="/cnnews/20231026/1952355.md">突发：1700亿中国国企董事长被查</a></li>
+<li><a href="/sohnews/20231026/1952384.md">李尚福之子通敌做实？习“震怒”无前例，严重超过郭伯雄；习下月访美，要求拜登保持微笑【新闻看点 李沐阳10.25】</a></li>
 <li><a href="/cnnews/20231025/1952119.md">一张图热传 女儿无底线支持哈马斯 中国人这样教育她【阿波罗网报道】</a></li>
+<li><a href="/comments/20231025/1952135.md">吴祚来：巴勒斯坦人水深火热？比中国人富裕的多</a></li>
+<li><a href="/comments/20231026/1952366.md">宋永毅：王毅为什么一定要搞掉秦刚 ｜#方菲时间</a></li>
 <li><a href="/ccpdope/20231025/1952079.md">死海疑有活鱼：上古预言成真 世界末日「三前兆」</a></li>
-<li><a href="/lifebaike/20231025/1952073.md">燃气公司不会透露的5大秘密，学会每月节省一半的燃气费！建议早些了解</a></li>
-<li><a href="/lifebaike/20231026/1952264.md">曾经拼命逃离的银行 现在回不去了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20231026/1952464.md" target="_blank">〖兲朝浮世绘〗除夕不放假 网友们骂翻了</a></li>
 <li><a href="/cbnews/20231026/1952422.md" target="_blank">太可怕:秦刚李尚福之后,国务委员还要少一人？</a></li>
 <li><a href="/comments/20231026/1952402.md" target="_blank">迈克·约翰逊全票当选新议长。他究竟是何人？剖析他的政治理念与川普的真实关系，揭开约翰逊当选议长的秘密。#约翰逊 #众议院议长 #川普</a></li>
 <li><a href="/cbnews/20231026/1952297.md" target="_blank">碧桂园控股首次被视为美元债券违约</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20231025/1952048.md" target="_blank">妇接“中联办、公安、人民检察院”电话 遭诈6,280万港币</a></li>
 <li><a href="/cbnews/20231025/1952029.md" target="_blank">一刀切就是懒政！大陆民众自发投票救流浪猫狗【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20231025/1951995.md" target="_blank">江峰：李尚福、秦刚彻底凉，张又侠接国防部长？美萨德导弹调防中东撑以，中共六军舰现身对抗？粉红兴奋官媒否定：去护航打鱼！两面派对以哈，丑态毕现。习拜会在即，中共高调打前站【江峰漫谈20231024第755期】</a></li>
-<li><a href="/comments/20231025/1951981.md" target="_blank">亚裔告哈佛后 美国大学招生情况有变吗？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
-<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
 <li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
 
 </ul>
 </div>
