@@ -10,7 +10,6 @@
 <li><a href="/cnnews/20231025/1951925.md">中共傻眼！美国突然提前了时间表</a></li>
 <li><a href="/cbnews/20231025/1951902.md">三战要来了？浙江工厂突接到8国“军品”大订单</a></li>
 <li><a href="/sohnews/20231025/1952045.md">习张内斗新国防部长难产，外交部发言人毛宁谈老灯问题，落后国家的民主规律。《老灯开讲第413期》</a></li>
-<li><a href="/comments/20231025/1951870.md">习帮主"10.22会场政变"一周年记</a></li>
 <li><a href="/sohnews/20231025/1951930.md">赵紫阳长孙大婚“惊人贺辞”👉王石暗贬习近平！部分沿海区将断水电网？传中国下月“战备模式”转型；秦刚李尚福歇菜，防长人选牵动台海，共军中攻台心声不高；习明泽对习近平有一点很不满｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/topimagenews/20231025/1952055.md">震惊！习近平是“反建制、反制度派的人”？她要“让习近平下台”来救“共产党”？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20231025/1951935.md">得习欢心！传中共国安部再度越权 做下“大事”</a></li>
@@ -25,9 +24,10 @@
 <li><a href="/cbnews/20231025/1951995.md">江峰：李尚福、秦刚彻底凉，张又侠接国防部长？美萨德导弹调防中东撑以，中共六军舰现身对抗？粉红兴奋官媒否定：去护航打鱼！两面派对以哈，丑态毕现。习拜会在即，中共高调打前站【江峰漫谈20231024第755期】</a></li>
 <li><a href="/baitai/20231025/1952121.md">北京出重手干预台湾大选 中共属意人选浮出水面</a></li>
 <li><a href="/cnnews/20231025/1951926.md">哈马斯要哭了！即将访美 王毅突然“大转弯”</a></li>
-<li><a href="/comments/20231025/1951883.md">章子怡汪峰官宣离婚扯出刀郎？以色列也躺枪！秦刚李尚福被正式官宣双免，习近平勤政又加速了</a></li>
 <li><a href="/health/20231025/1951885.md">马上停用3种食用油，不想让肝坏掉，提醒家人：再香也别吃</a></li>
 <li><a href="/finance/20231025/1952018.md">对中国经济 标普发出重大警告</a></li>
+<li><a href="/ssgc/20231025/1951932.md">〖微博谈〗风度高下立判</a></li>
+<li><a href="/cnnews/hknews/20231025/1952039.md">如今的香港，已成为一个麻烦</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231026/1952402.md" target="_blank">迈克·约翰逊全票当选新议长。他究竟是何人？剖析他的政治理念与川普的真实关系，揭开约翰逊当选议长的秘密。#约翰逊 #众议院议长 #川普</a></li>
+<li><a href="/cbnews/20231026/1952297.md" target="_blank">碧桂园控股首次被视为美元债券违约</a></li>
 <li><a href="/comments/20231026/1952366.md" target="_blank">宋永毅：王毅为什么一定要搞掉秦刚 ｜#方菲时间</a></li>
 <li><a href="/comments/20231026/1952365.md" target="_blank">李尚福跟火箭军贪腐：导弹井里没有导弹！｜宋永毅 ｜#方菲时间</a></li>
 <li><a href="/comments/20231026/1952364.md" target="_blank">传拜习会中共设条件，要美方“面带笑容”，纽森先示范？新议长当选，MAGA运动如虎添翼？以色列加沙之战面临重重压力 ｜唐靖远 方伟 大宇 David 方菲 ｜围炉夜话 10/25</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20231025/1951995.md" target="_blank">江峰：李尚福、秦刚彻底凉，张又侠接国防部长？美萨德导弹调防中东撑以，中共六军舰现身对抗？粉红兴奋官媒否定：去护航打鱼！两面派对以哈，丑态毕现。习拜会在即，中共高调打前站【江峰漫谈20231024第755期】</a></li>
 <li><a href="/comments/20231025/1951981.md" target="_blank">亚裔告哈佛后 美国大学招生情况有变吗？</a></li>
 <li><a href="/cbnews/20231025/1951975.md" target="_blank">〖兲朝浮世绘〗现在是2900点保卫战了，3000点保卫战已经过时了</a></li>
-<li><a href="/cbnews/20231025/1951963.md" target="_blank">哈粉哭了《辛德勒的名单》评分重回9.4分</a></li>
-<li><a href="/cbnews/20231025/1951902.md" target="_blank">三战要来了？浙江工厂突接到8国“军品”大订单</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231026/1952402.md" target="_blank">迈克·约翰逊全票当选新议长。他究竟是何人？剖析他的政治理念与川普的真实关系，揭开约翰逊当选议长的秘密。#约翰逊 #众议院议长 #川普</a></li>
+<li><a href="/comments/20231026/1952392.md" target="_blank">李濠仲:“富士康被查税”超越美企赴中投资风险教材</a></li>
 <li><a href="/comments/20231026/1952366.md" target="_blank">宋永毅：王毅为什么一定要搞掉秦刚 ｜#方菲时间</a></li>
 <li><a href="/comments/20231026/1952365.md" target="_blank">李尚福跟火箭军贪腐：导弹井里没有导弹！｜宋永毅 ｜#方菲时间</a></li>
 <li><a href="/comments/20231026/1952364.md" target="_blank">传拜习会中共设条件，要美方“面带笑容”，纽森先示范？新议长当选，MAGA运动如虎添翼？以色列加沙之战面临重重压力 ｜唐靖远 方伟 大宇 David 方菲 ｜围炉夜话 10/25</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20231025/1952105.md" target="_blank">阿拉伯的国土互不相连，犹太人的国土也不相连？这块土地被分成&#8230;</a></li>
 <li><a href="/comments/20231025/1952104.md" target="_blank">世界的风，开始偏离政治正确，正在向右吹</a></li>
 <li><a href="/comments/20231025/1952072.md" target="_blank">比起李尚福秦刚 这条消息更值得关注</a></li>
-<li><a href="/comments/20231025/1952033.md" target="_blank">南极首现H5N1禽流感病毒 企鹅也躲不过的威胁</a></li>
-<li><a href="/comments/20231025/1952032.md" target="_blank">【秦鹏观察】习近平10年来首次访问央行 透重大政经信号</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
 <li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
 
 </ul>
 </div>
