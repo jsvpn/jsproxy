@@ -13,9 +13,9 @@
 <li><a href="/comments/20231026/1952365.md">李尚福跟火箭军贪腐：导弹井里没有导弹！｜宋永毅 ｜#方菲时间</a></li>
 <li><a href="/cnnews/20231026/1952580.md">洛杉矶沦嫖客天堂？数百妓女裸露站街“做生意”</a></li>
 <li><a href="/cbnews/20231026/1952464.md">〖兲朝浮世绘〗除夕不放假 网友们骂翻了</a></li>
-<li><a href="/sohnews/20231026/1952649.md">除夕为何不放假？答案来了！绝望吗？一尊又要亲自指挥亲自部署，红二代跑了……</a></li>
-<li><a href="/topimagenews/20231026/1952566.md">风采依旧！杜宪、薛飞合影现身网络【阿波罗网报道】</a></li>
 <li><a href="/yule/20231026/1952450.md">曝章子怡离婚原因：汪峰拿她钱投资亏了9位数 邓超孙俪被波及</a></li>
+<li><a href="/topimagenews/20231026/1952566.md">风采依旧！杜宪、薛飞合影现身网络【阿波罗网报道】</a></li>
+<li><a href="/sohnews/20231026/1952649.md">除夕为何不放假？答案来了！绝望吗？一尊又要亲自指挥亲自部署，红二代跑了……</a></li>
 <li><a href="/sohnews/20231026/1952615.md">陈破空：疑心重！老习罕见甩开蔡奇。刚把李强打发出国，立马干了一件事，挖他墙角。怒撤军事法院院长，要对军方大清洗。直播与互动：美东时间10月26日早8点30、即中港台10月26日晚8点30</a></li>
 <li><a href="/topimagenews/20231026/1952369.md">中共紧盯以哈战争，真正目的在这</a></li>
 <li><a href="/ccpdope/20231026/1952479.md">怕习割韭菜 红二代疯狂向海外转移资产</a></li>
@@ -23,10 +23,10 @@
 <li><a href="/topimagenews/20231026/1952339.md">重磅：欧美多家零售巨头正在考虑出售中国业务</a></li>
 <li><a href="/cbnews/20231026/1952483.md">女子当街杀完男子后 打给受害家属:人我已经杀了</a></li>
 <li><a href="/sohnews/20231026/1952613.md">文睿：“除习”，火了，干掉一尊，无数人一天都等不下去了</a></li>
-<li><a href="/cnnews/20231026/1952327.md">重磅 沙特保护以色列 击落伊朗射向以色列导弹【阿波罗网报道】</a></li>
 <li><a href="/comments/20231026/1952568.md">吴祚来：习经常引用女儿的哪句话？</a></li>
 <li><a href="/baitai/20231026/1952363.md">红二代马晓力再发声：我们的父辈何功之有？</a></li>
 <li><a href="/topimagenews/20231026/1952553.md">坦克大军直冲加沙 以色列炮弹开轰哈玛斯</a></li>
+<li><a href="/ccpdope/20231026/1952694.md">除夕音同“除习”触犯习近平心病被取消</a></li>
 <li><a href="/baitai/20231026/1952607.md">蒲公英能在 48 小时内杀死 98% 的癌细胞？是真的吗？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20231027/1952803.md" target="_blank">战车装甲车齐发 以军最大规模扫荡加萨后退出</a></li>
 <li><a href="/topimagenews/20231026/1952681.md" target="_blank">早没民主自由？美新任议长强生吁 全民正视“推特档案门”</a></li>
 <li><a href="/topimagenews/20231026/1952680.md" target="_blank">斯洛伐克将停止军援乌克兰 反对制裁俄罗斯</a></li>
 <li><a href="/topimagenews/20231026/1952679.md" target="_blank">李尚福、秦刚丢乌纱帽！习近平权威被削弱？专家这样说</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20231025/1951778.md" target="_blank">FT：中共对富士康查税 意在警告台湾慎行 或准备全面向外企施压</a></li>
 <li><a href="/topimagenews/20231024/1951734.md" target="_blank">官媒披露富士康被查税掀波 传中共领导人不满</a></li>
 <li><a href="/topimagenews/20231024/1951719.md" target="_blank">拜登脸绿！美陆战队基地遭攻陷？这陆厂恐成“下一个华为”</a></li>
-<li><a href="/topimagenews/20231024/1951718.md" target="_blank">防中共安插间谍 英海军禁香港洗衣工上舰</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231027/1952804.md" target="_blank">中共视角 王毅访美：字少，事大</a></li>
 <li><a href="/comments/20231027/1952791.md" target="_blank">亚裔告哈佛后的变化 父母需要知道什么？</a></li>
 <li><a href="/comments/20231027/1952762.md" target="_blank">以军再次进入加沙：冲突以来规模最大的一次</a></li>
 <li><a href="/comments/20231027/1952761.md" target="_blank">斯洛伐克宣布停止向乌克兰提供武器</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20231026/1952440.md" target="_blank">天亮时分：习与拜登APEC会面，中方提变态要求；以色列总理说地面攻击马上开始，只等一件事；众议院选出新议长，会弹劾拜登吗？（政论天下第1143集 20231025）天亮时分</a></li>
 <li><a href="/comments/20231026/1952424.md" target="_blank">陈奎德：反洗脑 拆墙第一推动力</a></li>
 <li><a href="/comments/20231026/1952412.md" target="_blank">王友群：中共确实不代表中国人民</a></li>
-<li><a href="/comments/20231026/1952403.md" target="_blank">李强被习近平解除权力，突袭央行不许李参加！蔡奇接连接管李地盘，蟑螂喷雾让李强变小强</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
 <li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
 <li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
 
 </ul>
 </div>
