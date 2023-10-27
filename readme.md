@@ -13,20 +13,20 @@
 <li><a href="/headline/20231027/1952892.md">前中国总理李克强因心脏病突发去世</a></li>
 <li><a href="/cnnews/20231027/1952786.md">习近平最新政治投资 这个赌注太大了</a></li>
 <li><a href="/topimagenews/20231027/1952989.md">李克强心脏病骤逝 医揭2状况：合理吗？</a></li>
-<li><a href="/sohnews/20231026/1952615.md">陈破空：疑心重！老习罕见甩开蔡奇。刚把李强打发出国，立马干了一件事，挖他墙角。怒撤军事法院院长，要对军方大清洗。直播与互动：美东时间10月26日早8点30、即中港台10月26日晚8点30</a></li>
 <li><a href="/sohnews/20231027/1952952.md">惊天大事：李克强被害身亡，党内改革派将发表告人民书，市民学子开展悼念李总理运动。《老灯开讲第414期》</a></li>
+<li><a href="/sohnews/20231026/1952615.md">陈破空：疑心重！老习罕见甩开蔡奇。刚把李强打发出国，立马干了一件事，挖他墙角。怒撤军事法院院长，要对军方大清洗。直播与互动：美东时间10月26日早8点30、即中港台10月26日晚8点30</a></li>
 <li><a href="/sohnews/20231026/1952649.md">除夕为何不放假？答案来了！绝望吗？一尊又要亲自指挥亲自部署，红二代跑了……</a></li>
 <li><a href="/sohnews/20231027/1952929.md">李克强先下去了，可惜不是你……</a></li>
 <li><a href="/sohnews/20231027/1952930.md">李克强官宣暴亡！“心脏病”还是“被心脏病”？三大疑问待解，下一个轮到谁？</a></li>
 <li><a href="/headline/20231027/1952907.md">中国前总理李克强突然逝世</a></li>
-<li><a href="/sohnews/20231027/1952767.md">“故事出现续集 ⋯ 傅晓田单挑习近平 ”No.03（10/26/23）</a></li>
 <li><a href="/topimagenews/20231027/1952977.md">李克强突病逝 财经网美惊呼：还看不明白吗？</a></li>
+<li><a href="/sohnews/20231027/1952767.md">“故事出现续集 ⋯ 傅晓田单挑习近平 ”No.03（10/26/23）</a></li>
 <li><a href="/sohnews/20231027/1952932.md">文睿：李克强，去世，一场惊涛骇浪，将快速席卷整个中国大地</a></li>
-<li><a href="/cbnews/20231027/1952819.md">中国一线男星爆出轨 “3关键”泄身份网惊</a></li>
 <li><a href="/topimagenews/20231027/1952988.md">李克强突病逝！他喊“中共内部清洗”：被拖走的胡锦涛在哪？</a></li>
+<li><a href="/cbnews/20231027/1952819.md">中国一线男星爆出轨 “3关键”泄身份网惊</a></li>
 <li><a href="/sohnews/20231026/1952613.md">文睿：“除习”，火了，干掉一尊，无数人一天都等不下去了</a></li>
-<li><a href="/topimagenews/20231026/1952566.md">风采依旧！杜宪、薛飞合影现身网络【阿波罗网报道】</a></li>
 <li><a href="/ccpdope/20231027/1952986.md">李克强死亡8小时后发丧 有何黑幕</a></li>
+<li><a href="/topimagenews/20231026/1952566.md">风采依旧！杜宪、薛飞合影现身网络【阿波罗网报道】</a></li>
 <li><a href="/ccpdope/20231026/1952694.md">除夕音同“除习”触犯习近平心病被取消</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20231027/1953047.md" target="_blank">诡异：中共政府官网搜寻李克强，结果为0</a></li>
 <li><a href="/cbnews/20231027/1953039.md" target="_blank">李克强太太程虹是英语教授，著作等身 育有一女</a></li>
 <li><a href="/cbnews/20231027/1953038.md" target="_blank">中共《爱国主义教育法》出台,移民后要继续爱国</a></li>
 <li><a href="/cbnews/20231027/1953030.md" target="_blank">“布王会”明天继续谈 布林肯哀悼李克强逝世</a></li>
@@ -59,13 +60,13 @@
 <li><a href="/cbnews/20231026/1952705.md" target="_blank">前防长李尚福落马后谁接任？外界认“他”呼声最高 陆国防部闪避发言</a></li>
 <li><a href="/cbnews/20231026/1952684.md" target="_blank">欧洲议会报告：中资电缆靠近北约基地 酿安全漏洞</a></li>
 <li><a href="/cbnews/20231026/1952682.md" target="_blank">中菲船只南海碰撞冲突升级 美国雷根号访菲相挺</a></li>
-<li><a href="/cbnews/20231026/1952642.md" target="_blank">中共国防部发言人被追问李尚福事宜 拒回答</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20231027/1953045.md" target="_blank">突发：拜登下令，美军空袭叙利亚</a></li>
 <li><a href="/topimagenews/20231027/1953037.md" target="_blank">喜气洋洋！中共各大喉舌现惊人一幕【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20231027/1952989.md" target="_blank">李克强心脏病骤逝 医揭2状况：合理吗？</a></li>
 <li><a href="/topimagenews/20231027/1952988.md" target="_blank">李克强突病逝！他喊“中共内部清洗”：被拖走的胡锦涛在哪？</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20231025/1952086.md" target="_blank">中国家底，早被掏空了！走！在体制内感受寒冬；A股重挫 沪指逼近2900点 市场悲观</a></li>
 <li><a href="/topimagenews/20231025/1952085.md" target="_blank">要从中东撤侨几十万人! 美媒曝 : 白宫在为“最坏状况”做准备</a></li>
 <li><a href="/topimagenews/20231025/1952055.md" target="_blank">震惊！习近平是“反建制、反制度派的人”？她要“让习近平下台”来救“共产党”？【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20231025/1952038.md" target="_blank">年增11％创新高 陆地方前3季发债7.1兆</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
 <li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
+<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
 
 </ul>
 </div>
