@@ -10,24 +10,24 @@
 <li><a href="/ccpdope/20231027/1952928.md">李克强在上海猝死 分析：疑点重重</a></li>
 <li><a href="/comments/20231027/1952905.md">天亮时分：突发：李克强逝世；习近平心神不宁，难过“除夕”；中美蜜月期要来了吗？（政论天下第1143集 20231025）天亮时分</a></li>
 <li><a href="/topimagenews/20231027/1952989.md">李克强心脏病骤逝 医揭2状况：合理吗？</a></li>
-<li><a href="/cnnews/20231026/1952580.md">洛杉矶沦嫖客天堂？数百妓女裸露站街“做生意”</a></li>
 <li><a href="/sohnews/20231027/1952952.md">惊天大事：李克强被害身亡，党内改革派将发表告人民书，市民学子开展悼念李总理运动。《老灯开讲第414期》</a></li>
 <li><a href="/headline/20231027/1952892.md">前中国总理李克强因心脏病突发去世</a></li>
 <li><a href="/cnnews/20231027/1952786.md">习近平最新政治投资 这个赌注太大了</a></li>
 <li><a href="/sohnews/20231026/1952615.md">陈破空：疑心重！老习罕见甩开蔡奇。刚把李强打发出国，立马干了一件事，挖他墙角。怒撤军事法院院长，要对军方大清洗。直播与互动：美东时间10月26日早8点30、即中港台10月26日晚8点30</a></li>
 <li><a href="/sohnews/20231026/1952649.md">除夕为何不放假？答案来了！绝望吗？一尊又要亲自指挥亲自部署，红二代跑了……</a></li>
-<li><a href="/sohnews/20231027/1952929.md">李克强先下去了，可惜不是你……</a></li>
-<li><a href="/sohnews/20231027/1952930.md">李克强官宣暴亡！“心脏病”还是“被心脏病”？三大疑问待解，下一个轮到谁？</a></li>
 <li><a href="/topimagenews/20231027/1952977.md">李克强突病逝 财经网美惊呼：还看不明白吗？</a></li>
+<li><a href="/sohnews/20231027/1952929.md">李克强先下去了，可惜不是你……</a></li>
 <li><a href="/topimagenews/20231027/1952988.md">李克强突病逝！他喊“中共内部清洗”：被拖走的胡锦涛在哪？</a></li>
 <li><a href="/ccpdope/20231027/1952986.md">李克强死亡8小时后发丧 有何黑幕</a></li>
+<li><a href="/sohnews/20231027/1952930.md">李克强官宣暴亡！“心脏病”还是“被心脏病”？三大疑问待解，下一个轮到谁？</a></li>
 <li><a href="/sohnews/20231027/1952932.md">文睿：李克强，去世，一场惊涛骇浪，将快速席卷整个中国大地</a></li>
+<li><a href="/topimagenews/20231027/1952975.md">李克强去世登微博热搜第一 网友质疑死因“傻子都知道”</a></li>
 <li><a href="/headline/20231027/1952907.md">中国前总理李克强突然逝世</a></li>
 <li><a href="/sohnews/20231027/1952767.md">“故事出现续集 ⋯ 傅晓田单挑习近平 ”No.03（10/26/23）</a></li>
-<li><a href="/topimagenews/20231027/1952975.md">李克强去世登微博热搜第一 网友质疑死因“傻子都知道”</a></li>
 <li><a href="/sohnews/20231026/1952613.md">文睿：“除习”，火了，干掉一尊，无数人一天都等不下去了</a></li>
 <li><a href="/cbnews/20231027/1952819.md">中国一线男星爆出轨 “3关键”泄身份网惊</a></li>
 <li><a href="/ccpdope/20231026/1952694.md">除夕音同“除习”触犯习近平心病被取消</a></li>
+<li><a href="/cbnews/20231027/1952721.md">谌贻琴任中国妇联主席 打破35年人事惯例</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20231027/1953111.md" target="_blank">最短命总理 李克强68岁死,中南海门诊部救不回？</a></li>
 <li><a href="/topimagenews/20231027/1953045.md" target="_blank">突发：拜登下令，美军空袭叙利亚</a></li>
 <li><a href="/topimagenews/20231027/1953037.md" target="_blank">喜气洋洋！中共各大喉舌现惊人一幕【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20231027/1952989.md" target="_blank">李克强心脏病骤逝 医揭2状况：合理吗？</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20231026/1952267.md" target="_blank">经济学家真不懂？1盒谷片要价8.99美元 恐害拜登连任梦碎</a></li>
 <li><a href="/topimagenews/20231025/1952086.md" target="_blank">中国家底，早被掏空了！走！在体制内感受寒冬；A股重挫 沪指逼近2900点 市场悲观</a></li>
 <li><a href="/topimagenews/20231025/1952085.md" target="_blank">要从中东撤侨几十万人! 美媒曝 : 白宫在为“最坏状况”做准备</a></li>
-<li><a href="/topimagenews/20231025/1952055.md" target="_blank">震惊！习近平是“反建制、反制度派的人”？她要“让习近平下台”来救“共产党”？【阿波罗网报道】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
 <li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20230920/1936271.md" target="_blank">防止你的孩子不成功（5） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
 
 </ul>
 </div>
