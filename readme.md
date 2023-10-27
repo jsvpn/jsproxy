@@ -7,8 +7,8 @@
 
 <li><a href="/cbnews/20231027/1952821.md">习近平动手了 出了很多事情 让人应接不暇</a></li>
 <li><a href="/topimagenews/20231027/1952989.md">李克强心脏病骤逝 医揭2状况：合理吗？</a></li>
-<li><a href="/comments/20231027/1952901.md">李克强猝死！原中共国务院总理李克强在上海突发心脏病去世</a></li>
 <li><a href="/ccpdope/20231027/1952928.md">李克强在上海猝死 分析：疑点重重</a></li>
+<li><a href="/comments/20231027/1952901.md">李克强猝死！原中共国务院总理李克强在上海突发心脏病去世</a></li>
 <li><a href="/comments/20231027/1952905.md">天亮时分：突发：李克强逝世；习近平心神不宁，难过“除夕”；中美蜜月期要来了吗？（政论天下第1143集 20231025）天亮时分</a></li>
 <li><a href="/sohnews/20231027/1952952.md">惊天大事：李克强被害身亡，党内改革派将发表告人民书，市民学子开展悼念李总理运动。《老灯开讲第414期》</a></li>
 <li><a href="/cnnews/20231027/1952786.md">习近平最新政治投资 这个赌注太大了</a></li>
@@ -23,11 +23,11 @@
 <li><a href="/sohnews/20231027/1952932.md">文睿：李克强，去世，一场惊涛骇浪，将快速席卷整个中国大地</a></li>
 <li><a href="/ccpdope/20231026/1952694.md">除夕音同“除习”触犯习近平心病被取消</a></li>
 <li><a href="/headline/20231027/1952907.md">中国前总理李克强突然逝世</a></li>
-<li><a href="/cbnews/20231027/1952819.md">中国一线男星爆出轨 “3关键”泄身份网惊</a></li>
 <li><a href="/topimagenews/20231027/1953111.md">最短命总理 李克强68岁死,中南海门诊部救不回？</a></li>
+<li><a href="/cbnews/20231027/1952819.md">中国一线男星爆出轨 “3关键”泄身份网惊</a></li>
 <li><a href="/cnnews/20231027/1953065.md">媒体人曝李克强游泳时心梗，曾上了呼吸机</a></li>
 <li><a href="/topimagenews/20231027/1952976.md">【图集】几大生前瞬间！李克强和习近平公开唱反调！【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20231027/1952721.md">谌贻琴任中国妇联主席 打破35年人事惯例</a></li>
+<li><a href="/cbnews/20231027/1953076.md">李克强逝世！矢板明夫指习近平“这一件事”若处理不当 可能一发不可收拾</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20231027/1953203.md" target="_blank">北大高材生！李克强当了10年总理 毕业那天仍心系这事</a></li>
 <li><a href="/comments/20231027/1953160.md" target="_blank">关于人类的关键未来！不仅是预言，这里编码了未来！关键十年，人类发生巨变，走向如何？！｜ #未解之谜 扶摇</a></li>
 <li><a href="/comments/20231027/1953159.md" target="_blank">挂在毯子上的生命线</a></li>
 <li><a href="/comments/20231027/1953158.md" target="_blank">阿卡西纪录</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20231027/1952821.md" target="_blank">习近平动手了 出了很多事情 让人应接不暇</a></li>
 <li><a href="/cbnews/20231027/1952820.md" target="_blank">两年前种下中俄伊野心 全球凝视三战的深渊</a></li>
 <li><a href="/cbnews/20231027/1952819.md" target="_blank">中国一线男星爆出轨 “3关键”泄身份网惊</a></li>
-<li><a href="/cbnews/20231027/1952818.md" target="_blank">中国掀“杀狗潮” 活活打死5个月小柯基</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
 <li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
 <li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
 
 </ul>
 </div>
