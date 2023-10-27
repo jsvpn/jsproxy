@@ -6,28 +6,28 @@
 <ul>
 
 <li><a href="/cbnews/20231027/1952821.md">习近平动手了 出了很多事情 让人应接不暇</a></li>
-<li><a href="/cnnews/20231026/1952580.md">洛杉矶沦嫖客天堂？数百妓女裸露站街“做生意”</a></li>
 <li><a href="/comments/20231027/1952901.md">李克强猝死！原中共国务院总理李克强在上海突发心脏病去世</a></li>
+<li><a href="/cnnews/20231026/1952580.md">洛杉矶沦嫖客天堂？数百妓女裸露站街“做生意”</a></li>
 <li><a href="/cnnews/20231027/1952786.md">习近平最新政治投资 这个赌注太大了</a></li>
 <li><a href="/headline/20231027/1952892.md">前中国总理李克强因心脏病突发去世</a></li>
 <li><a href="/comments/20231027/1952905.md">天亮时分：突发：李克强逝世；习近平心神不宁，难过“除夕”；中美蜜月期要来了吗？（政论天下第1143集 20231025）天亮时分</a></li>
-<li><a href="/sohnews/20231026/1952615.md">陈破空：疑心重！老习罕见甩开蔡奇。刚把李强打发出国，立马干了一件事，挖他墙角。怒撤军事法院院长，要对军方大清洗。直播与互动：美东时间10月26日早8点30、即中港台10月26日晚8点30</a></li>
 <li><a href="/ccpdope/20231027/1952928.md">李克强在上海猝死 分析：疑点重重</a></li>
-<li><a href="/ssgc/20231026/1952544.md">中共五个国务委员只剩三 内外尴尬</a></li>
+<li><a href="/sohnews/20231026/1952615.md">陈破空：疑心重！老习罕见甩开蔡奇。刚把李强打发出国，立马干了一件事，挖他墙角。怒撤军事法院院长，要对军方大清洗。直播与互动：美东时间10月26日早8点30、即中港台10月26日晚8点30</a></li>
 <li><a href="/sohnews/20231026/1952649.md">除夕为何不放假？答案来了！绝望吗？一尊又要亲自指挥亲自部署，红二代跑了……</a></li>
-<li><a href="/sohnews/20231027/1952767.md">“故事出现续集 ⋯ 傅晓田单挑习近平 ”No.03（10/26/23）</a></li>
+<li><a href="/ssgc/20231026/1952544.md">中共五个国务委员只剩三 内外尴尬</a></li>
 <li><a href="/headline/20231027/1952907.md">中国前总理李克强突然逝世</a></li>
 <li><a href="/sohnews/20231027/1952929.md">李克强先下去了，可惜不是你……</a></li>
-<li><a href="/cbnews/20231027/1952819.md">中国一线男星爆出轨 “3关键”泄身份网惊</a></li>
-<li><a href="/topimagenews/20231026/1952566.md">风采依旧！杜宪、薛飞合影现身网络【阿波罗网报道】</a></li>
-<li><a href="/sohnews/20231026/1952613.md">文睿：“除习”，火了，干掉一尊，无数人一天都等不下去了</a></li>
-<li><a href="/sohnews/20231027/1952930.md">李克强官宣暴亡！“心脏病”还是“被心脏病”？三大疑问待解，下一个轮到谁？</a></li>
-<li><a href="/ccpdope/20231026/1952694.md">除夕音同“除习”触犯习近平心病被取消</a></li>
+<li><a href="/sohnews/20231027/1952767.md">“故事出现续集 ⋯ 傅晓田单挑习近平 ”No.03（10/26/23）</a></li>
 <li><a href="/topimagenews/20231027/1952989.md">李克强心脏病骤逝 医揭2状况：合理吗？</a></li>
 <li><a href="/sohnews/20231027/1952952.md">惊天大事：李克强被害身亡，党内改革派将发表告人民书，市民学子开展悼念李总理运动。《老灯开讲第414期》</a></li>
-<li><a href="/comments/20231026/1952568.md">吴祚来：习经常引用女儿的哪句话？</a></li>
-<li><a href="/sohnews/20231027/1952932.md">文睿：李克强，去世，一场惊涛骇浪，将快速席卷整个中国大地</a></li>
+<li><a href="/cbnews/20231027/1952819.md">中国一线男星爆出轨 “3关键”泄身份网惊</a></li>
+<li><a href="/sohnews/20231027/1952930.md">李克强官宣暴亡！“心脏病”还是“被心脏病”？三大疑问待解，下一个轮到谁？</a></li>
+<li><a href="/topimagenews/20231026/1952566.md">风采依旧！杜宪、薛飞合影现身网络【阿波罗网报道】</a></li>
+<li><a href="/sohnews/20231026/1952613.md">文睿：“除习”，火了，干掉一尊，无数人一天都等不下去了</a></li>
+<li><a href="/ccpdope/20231026/1952694.md">除夕音同“除习”触犯习近平心病被取消</a></li>
 <li><a href="/topimagenews/20231027/1952977.md">李克强突病逝 财经网美惊呼：还看不明白吗？</a></li>
+<li><a href="/sohnews/20231027/1952932.md">文睿：李克强，去世，一场惊涛骇浪，将快速席卷整个中国大地</a></li>
+<li><a href="/comments/20231026/1952568.md">吴祚来：习经常引用女儿的哪句话？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20231027/1953030.md" target="_blank">“布王会”明天继续谈 布林肯哀悼李克强逝世</a></li>
+<li><a href="/cbnews/20231027/1953029.md" target="_blank">长江大学不雅视频事件 学校骚操作惊呆师生</a></li>
 <li><a href="/cbnews/20231027/1952999.md" target="_blank">〖兲朝浮世绘〗调到下辈子</a></li>
 <li><a href="/cbnews/20231027/1952987.md" target="_blank">江峰：突发：李克强在上海突然去世，谈三大疑点，中国社会会出现胡耀邦式的悼念及动荡麽？元宵和袁消、除夕与除习，江山气数已尽。以哈战争立场，联合国秘书长活在谁的世界里？【江峰漫谈20231026第757期】</a></li>
 <li><a href="/cbnews/20231027/1952958.md" target="_blank">李克强8月敦煌现身气色好 10月突发心脏病离世</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20231026/1952642.md" target="_blank">中共国防部发言人被追问李尚福事宜 拒回答</a></li>
 <li><a href="/comments/20231026/1952629.md" target="_blank">惊心动魄的候选人幕后大战，约翰逊破麦卡锡重夺议长梦。剖析乔丹失利真相，MAGA正走向胜利。#约翰逊 #乔丹 #麦卡锡</a></li>
 <li><a href="/cbnews/20231026/1952554.md" target="_blank">小伙轻生留下遗言人走债消，法院:继承人还款</a></li>
-<li><a href="/cbnews/20231026/1952531.md" target="_blank">广州286斤女孩买二等座被骂：我只是想出门的普通人</a></li>
-<li><a href="/cbnews/20231026/1952490.md" target="_blank">德驻中使馆痛批中国网友：蠢货，混蛋…</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231027/1953025.md" target="_blank">李克强“突发心脏病”去世 网民热议质疑死因不单纯</a></li>
+<li><a href="/comments/20231027/1953024.md" target="_blank">被习“架空 却是历任总理学历最高 外媒赞“李克强指数”比官方GDP真实</a></li>
 <li><a href="/comments/20231027/1953018.md" target="_blank">【独家重磅】李燕铭：李克强上海猝死六大疑点 李克强退而不休 与曾庆红联手发动金融政变 李克强与江曾集团勾连黑幕远超外界想象 李克强猝死深度内幕（1） 习近平李克强明争暗斗内幕（122） 习家军接掌国务院（29） 团派团灭内幕（35）</a></li>
 <li><a href="/comments/20231027/1953004.md" target="_blank">多元文化和谐共处 ——东林村青苹果节金龙首演</a></li>
 <li><a href="/comments/20231027/1953003.md" target="_blank">《建民论推墙》博主、蜚声海外的时政评论家吴建民先生悉尼公开演讲会</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20231026/1952692.md" target="_blank">时事大家谈：王毅姚明搭档访美 为习拜会铺路？中菲船只南海相撞 试探美国保卫盟友的决心？</a></li>
 <li><a href="/comments/20231026/1952662.md" target="_blank">文昭：习近平如此“大力救市”，后果会是这样的&#8230;</a></li>
 <li><a href="/comments/20231026/1952652.md" target="_blank">【未普评论】世界如此动荡，拜登主义面临重大检验</a></li>
-<li><a href="/comments/20231026/1952629.md" target="_blank">惊心动魄的候选人幕后大战，约翰逊破麦卡锡重夺议长梦。剖析乔丹失利真相，MAGA正走向胜利。#约翰逊 #乔丹 #麦卡锡</a></li>
-<li><a href="/comments/20231026/1952568.md" target="_blank">吴祚来：习经常引用女儿的哪句话？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
 <li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
 
 </ul>
 </div>
