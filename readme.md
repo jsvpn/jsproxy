@@ -8,26 +8,26 @@
 <li><a href="/cbnews/20231027/1952821.md">习近平动手了 出了很多事情 让人应接不暇</a></li>
 <li><a href="/ccpdope/20231027/1952928.md">李克强在上海猝死 分析：疑点重重</a></li>
 <li><a href="/topimagenews/20231027/1952989.md">李克强心脏病骤逝 医揭2状况：合理吗？</a></li>
+<li><a href="/sohnews/20231027/1952952.md">惊天大事：李克强被害身亡，党内改革派将发表告人民书，市民学子开展悼念李总理运动。《老灯开讲第414期》</a></li>
 <li><a href="/comments/20231027/1952901.md">李克强猝死！原中共国务院总理李克强在上海突发心脏病去世</a></li>
 <li><a href="/comments/20231027/1952905.md">天亮时分：突发：李克强逝世；习近平心神不宁，难过“除夕”；中美蜜月期要来了吗？（政论天下第1143集 20231025）天亮时分</a></li>
-<li><a href="/sohnews/20231027/1952952.md">惊天大事：李克强被害身亡，党内改革派将发表告人民书，市民学子开展悼念李总理运动。《老灯开讲第414期》</a></li>
 <li><a href="/cnnews/20231027/1952786.md">习近平最新政治投资 这个赌注太大了</a></li>
 <li><a href="/ccpdope/20231027/1952986.md">李克强死亡8小时后发丧 有何黑幕</a></li>
 <li><a href="/topimagenews/20231027/1952988.md">李克强突病逝！他喊“中共内部清洗”：被拖走的胡锦涛在哪？</a></li>
 <li><a href="/topimagenews/20231027/1952977.md">李克强突病逝 财经网美惊呼：还看不明白吗？</a></li>
 <li><a href="/headline/20231027/1952892.md">前中国总理李克强因心脏病突发去世</a></li>
-<li><a href="/sohnews/20231027/1952929.md">李克强先下去了，可惜不是你……</a></li>
-<li><a href="/sohnews/20231027/1952930.md">李克强官宣暴亡！“心脏病”还是“被心脏病”？三大疑问待解，下一个轮到谁？</a></li>
-<li><a href="/sohnews/20231027/1952767.md">“故事出现续集 ⋯ 傅晓田单挑习近平 ”No.03（10/26/23）</a></li>
 <li><a href="/topimagenews/20231027/1953111.md">最短命总理 李克强68岁死,中南海门诊部救不回？</a></li>
+<li><a href="/sohnews/20231027/1952930.md">李克强官宣暴亡！“心脏病”还是“被心脏病”？三大疑问待解，下一个轮到谁？</a></li>
+<li><a href="/sohnews/20231027/1952929.md">李克强先下去了，可惜不是你……</a></li>
+<li><a href="/sohnews/20231027/1952767.md">“故事出现续集 ⋯ 傅晓田单挑习近平 ”No.03（10/26/23）</a></li>
 <li><a href="/topimagenews/20231027/1952975.md">李克强去世登微博热搜第一 网友质疑死因“傻子都知道”</a></li>
 <li><a href="/cnnews/20231027/1953065.md">媒体人曝李克强游泳时心梗，曾上了呼吸机</a></li>
 <li><a href="/sohnews/20231027/1952932.md">文睿：李克强，去世，一场惊涛骇浪，将快速席卷整个中国大地</a></li>
-<li><a href="/ccpdope/20231026/1952694.md">除夕音同“除习”触犯习近平心病被取消</a></li>
-<li><a href="/cbnews/20231027/1952819.md">中国一线男星爆出轨 “3关键”泄身份网惊</a></li>
-<li><a href="/headline/20231027/1952907.md">中国前总理李克强突然逝世</a></li>
 <li><a href="/comments/20231027/1953126.md">【独家重磅】李燕铭：李克强猝死内幕曝光 66名中共省部级高官密集病亡 名单揭秘 中共病毒攻陷中南海 江泽民李克强接连死亡 下一个曾庆红？天灭中共大戏正在上演 上天接连示警习近平命悬一线 李克强猝死深度内幕（2） 中共末日之病毒亡共（42） 习近平连任与中共末日（177）</a></li>
 <li><a href="/cbnews/20231027/1953076.md">李克强逝世！矢板明夫指习近平“这一件事”若处理不当 可能一发不可收拾</a></li>
+<li><a href="/cbnews/20231027/1952819.md">中国一线男星爆出轨 “3关键”泄身份网惊</a></li>
+<li><a href="/headline/20231027/1952907.md">中国前总理李克强突然逝世</a></li>
+<li><a href="/comments/20231027/1953061.md">非正常死亡？他爆习近平最想除掉的就是李克强</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,18 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20231027/1953266.md" target="_blank">李克强猝逝存疑？他爆中共大老能“更新零件”：还能换血</a></li>
+<li><a href="/cbnews/20231027/1953265.md" target="_blank">遭赐死？李克强今才逝世中媒“昨晚就泄消息” 网友摇头：水很深</a></li>
+<li><a href="/cbnews/20231027/1953263.md" target="_blank">李克强去世 中国是否出现抗议事件备受关注</a></li>
+<li><a href="/cbnews/20231027/1953262.md" target="_blank">岳父母资助1500万买豪宅 人夫竟出轨多男</a></li>
+<li><a href="/cbnews/20231027/1953259.md" target="_blank">美国思想领袖：藉领导人去世 宣泄不满！｜ #新闻大家谈 #shorts</a></li>
+<li><a href="/cbnews/20231027/1953258.md" target="_blank">美国思想领袖：习李不再 地位滑坡｜ #新闻大家谈 #shorts</a></li>
+<li><a href="/cbnews/20231027/1953257.md" target="_blank">美国思想领袖：李克强说过的实话｜ #新闻大家谈 #shorts</a></li>
+<li><a href="/cbnews/20231027/1953256.md" target="_blank">美国思想领袖：李克强身体很差？｜ #新闻大家谈 #shorts</a></li>
+<li><a href="/cbnews/20231027/1953255.md" target="_blank">美国思想领袖：李克强去世！｜ #新闻大家谈 #shorts</a></li>
+<li><a href="/cbnews/20231027/1953254.md" target="_blank">美国思想领袖：李克强去世 最大影响｜ #新闻大家谈 #shorts</a></li>
+<li><a href="/cbnews/20231027/1953253.md" target="_blank">美国思想领袖：李克强 有个性？！｜ #新闻大家谈 #shorts</a></li>
+<li><a href="/cbnews/20231027/1953252.md" target="_blank">美国思想领袖：李克强 去世 疑点！｜ #新闻大家谈 #shorts</a></li>
 <li><a href="/comments/20231027/1953234.md" target="_blank">李*克*强暴病身*亡，民间舆论哗然，会有政治风暴吗？︱章天亮 唐靖远 李沐阳 李大宇 方菲【时事大聚焦10/27】</a></li>
 <li><a href="/cbnews/20231027/1953203.md" target="_blank">北大高材生！李克强当了10年总理 毕业那天仍心系这事</a></li>
 <li><a href="/comments/20231027/1953160.md" target="_blank">关于人类的关键未来！不仅是预言，这里编码了未来！关键十年，人类发生巨变，走向如何？！｜ #未解之谜 扶摇</a></li>
@@ -48,24 +60,13 @@
 <li><a href="/cbnews/20231027/1953047.md" target="_blank">诡异：中共政府官网搜寻李克强，结果为0</a></li>
 <li><a href="/cbnews/20231027/1953039.md" target="_blank">李克强太太程虹是英语教授，著作等身 育有一女</a></li>
 <li><a href="/cbnews/20231027/1953038.md" target="_blank">中共《爱国主义教育法》出台,移民后要继续爱国</a></li>
-<li><a href="/cbnews/20231027/1953030.md" target="_blank">“布王会”明天继续谈 布林肯哀悼李克强逝世</a></li>
-<li><a href="/cbnews/20231027/1953029.md" target="_blank">长江大学不雅视频事件 学校骚操作惊呆师生</a></li>
-<li><a href="/cbnews/20231027/1952999.md" target="_blank">〖兲朝浮世绘〗调到下辈子</a></li>
-<li><a href="/cbnews/20231027/1952987.md" target="_blank">江峰：突发：李克强在上海突然去世，谈三大疑点，中国社会会出现胡耀邦式的悼念及动荡麽？元宵和袁消、除夕与除习，江山气数已尽。以哈战争立场，联合国秘书长活在谁的世界里？【江峰漫谈20231026第757期】</a></li>
-<li><a href="/cbnews/20231027/1952958.md" target="_blank">李克强8月敦煌现身气色好 10月突发心脏病离世</a></li>
-<li><a href="/cbnews/20231027/1952956.md" target="_blank">说给谁听?李克强临别提:人在干天在看,苍天有眼</a></li>
-<li><a href="/cbnews/20231027/1952955.md" target="_blank">央视 突发：李克强逝世，年仅68岁</a></li>
-<li><a href="/cbnews/20231027/1952954.md" target="_blank">任内频传内斗习近平 李克强3月刚刚卸任</a></li>
-<li><a href="/comments/20231027/1952943.md" target="_blank">新科议长Johnson会点哪三把火？【方伟时间-20231026】</a></li>
-<li><a href="/cbnews/20231027/1952830.md" target="_blank">诡异，俄专家代表北京放风习拜会？</a></li>
-<li><a href="/cbnews/20231027/1952821.md" target="_blank">习近平动手了 出了很多事情 让人应接不暇</a></li>
-<li><a href="/cbnews/20231027/1952820.md" target="_blank">两年前种下中俄伊野心 全球凝视三战的深渊</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20231027/1953261.md" target="_blank">李克强去世 中共强力维稳禁止聚集悼念</a></li>
 <li><a href="/topimagenews/20231027/1953111.md" target="_blank">最短命总理 李克强68岁死,中南海门诊部救不回？</a></li>
 <li><a href="/topimagenews/20231027/1953045.md" target="_blank">突发：拜登下令，美军空袭叙利亚</a></li>
 <li><a href="/topimagenews/20231027/1953037.md" target="_blank">喜气洋洋！中共各大喉舌现惊人一幕【阿波罗网报道】</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20231026/1952339.md" target="_blank">重磅：欧美多家零售巨头正在考虑出售中国业务</a></li>
 <li><a href="/topimagenews/20231026/1952267.md" target="_blank">经济学家真不懂？1盒谷片要价8.99美元 恐害拜登连任梦碎</a></li>
 <li><a href="/topimagenews/20231025/1952086.md" target="_blank">中国家底，早被掏空了！走！在体制内感受寒冬；A股重挫 沪指逼近2900点 市场悲观</a></li>
-<li><a href="/topimagenews/20231025/1952085.md" target="_blank">要从中东撤侨几十万人! 美媒曝 : 白宫在为“最坏状况”做准备</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231027/1953260.md" target="_blank">天亮时分：李.克.强—暴病身亡，民间舆论哗然，会有政治风暴吗？｜章天亮 唐靖远 李沐阳 李大宇 方菲 【时事大聚焦10/27】</a></li>
 <li><a href="/comments/20231027/1953235.md" target="_blank">时事大家谈：李克强走了，习近平羁绊下的郁闷总理？高层互动从停滞到频繁, 谁进行了“深刻反思”？</a></li>
 <li><a href="/comments/20231027/1953234.md" target="_blank">李*克*强暴病身*亡，民间舆论哗然，会有政治风暴吗？︱章天亮 唐靖远 李沐阳 李大宇 方菲【时事大聚焦10/27】</a></li>
 <li><a href="/comments/20231027/1953229.md" target="_blank">【杜耀明评论】香港施政加强靠拢大陆 国际金融中心一去不返</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20231027/1952943.md" target="_blank">新科议长Johnson会点哪三把火？【方伟时间-20231026】</a></li>
 <li><a href="/comments/20231027/1952937.md" target="_blank">吴奕军：中共对以色列扭捏作态其来有自</a></li>
 <li><a href="/comments/20231027/1952936.md" target="_blank">吴奕军：欧盟冀求中国认真善待 只是缘木求鱼</a></li>
-<li><a href="/comments/20231027/1952922.md" target="_blank">金教授表示不能支持俄以后，司马南也不反美了</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
 <li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
 
 </ul>
 </div>
