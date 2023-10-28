@@ -5,9 +5,7 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/topimagenews/20231027/1952989.md">李克强心脏病骤逝 医揭2状况：合理吗？</a></li>
 <li><a href="/comments/20231027/1953126.md">【独家重磅】李燕铭：李克强猝死内幕曝光 66名中共省部级高官密集病亡 名单揭秘 中共病毒攻陷中南海 江泽民李克强接连死亡 下一个曾庆红？天灭中共大戏正在上演 上天接连示警习近平命悬一线 李克强猝死深度内幕（2） 中共末日之病毒亡共（42） 习近平连任与中共末日（177）</a></li>
-<li><a href="/topimagenews/20231027/1952988.md">李克强突病逝！他喊“中共内部清洗”：被拖走的胡锦涛在哪？</a></li>
 <li><a href="/topimagenews/20231027/1953111.md">最短命总理 李克强68岁死,中南海门诊部救不回？</a></li>
 <li><a href="/cnnews/20231027/1953065.md">媒体人曝李克强游泳时心梗，曾上了呼吸机</a></li>
 <li><a href="/cbnews/20231027/1953076.md">李克强逝世！矢板明夫指习近平“这一件事”若处理不当 可能一发不可收拾</a></li>
@@ -20,14 +18,16 @@
 <li><a href="/sohnews/20231027/1952939.md">恐怖！李克强被病死！一平兄半年前预言他不可能全身而退，三种结局中的最后一种应验！</a></li>
 <li><a href="/topimagenews/20231028/1953320.md">传李克强遗体从上海运抵北京 民众路旁注视</a></li>
 <li><a href="/topimagenews/20231027/1953261.md">李克强去世 中共强力维稳禁止聚集悼念</a></li>
+<li><a href="/sohnews/20231028/1953390.md">新华社2月惊现“讣告测试”！传李K强祸起游泳，多版死因流传；美军首度进攻开打，联大停战决议获通过</a></li>
 <li><a href="/sohnews/20231027/1953141.md">李克强猝死，习近平大限也告急？中国除夕不放假，习出奇招躲政变？以色列最大规模进攻，哈马斯灭亡？哈马斯搞中东好莱坞？（2023.10.27）｜世界的十字路口 唐浩</a></li>
 <li><a href="/sohnews/20231027/1953142.md">陈破空：李克强故居！大量民众献花。大学发通知：警惕悼念潮！最新细节：游泳时突发心脏病。各方列举疑点，央视提前报道？直播与互动：美东时间10月27日早8点30、即中港台10月27日晚8点30</a></li>
 <li><a href="/ccpdope/20231027/1953033.md">李克强去世 退位前与习暗战三个细节</a></li>
-<li><a href="/sohnews/20231028/1953390.md">新华社2月惊现“讣告测试”！传李K强祸起游泳，多版死因流传；美军首度进攻开打，联大停战决议获通过</a></li>
 <li><a href="/comments/20231027/1953018.md">【独家重磅】李燕铭：李克强上海猝死六大疑点 李克强退而不休 与曾庆红联手发动金融政变 李克强与江曾集团勾连黑幕远超外界想象 李克强猝死深度内幕（1） 习近平李克强明争暗斗内幕（122） 习家军接掌国务院（29） 团派团灭内幕（35）</a></li>
-<li><a href="/baitai/20231027/1953139.md">李克强突然暴病身亡 黑幕重重 会爆发新一轮大规模运动吗？</a></li>
 <li><a href="/cbnews/20231027/1953039.md">李克强太太程虹是英语教授，著作等身 育有一女</a></li>
+<li><a href="/baitai/20231027/1953139.md">李克强突然暴病身亡 黑幕重重 会爆发新一轮大规模运动吗？</a></li>
 <li><a href="/ssgc/20231027/1953162.md">李克强猝逝对中共政局有何影响</a></li>
+<li><a href="/sohnews/20231027/1953016.md">最终的大事儿开始啦 ⋯ 事出突然 习近平必寝食难安</a></li>
+<li><a href="/cbnews/20231027/1953132.md">非正常才“不意外”！推论李克强正常病逝可信度低 王丹“逻辑”“经验”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20231028/1953553.md" target="_blank">李克强讣告大不同！最关键几个字消失【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20231028/1953425.md" target="_blank">多家媒体“预知死亡纪事” 李克强猝死引怀疑</a></li>
 <li><a href="/topimagenews/20231028/1953412.md" target="_blank">以扩大空中和地面军事行动 哈马斯叫苦连连</a></li>
 <li><a href="/topimagenews/20231028/1953341.md" target="_blank">李克强去世 全网怀疑 入院就诊到灵车运走细节首度披露【阿波罗网报道】</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20231026/1952566.md" target="_blank">风采依旧！杜宪、薛飞合影现身网络【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20231026/1952553.md" target="_blank">坦克大军直冲加沙 以色列炮弹开轰哈玛斯</a></li>
 <li><a href="/topimagenews/20231026/1952552.md" target="_blank">拜登放话表态！中菲南海冲突 “美国将被迫介入干预”</a></li>
-<li><a href="/topimagenews/20231026/1952522.md" target="_blank">至少173俄军阵前叛变! 抗命拒绝上前线 被关押到暗无天日酷刑监狱</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
 <li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
 <li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
 
 </ul>
 </div>
