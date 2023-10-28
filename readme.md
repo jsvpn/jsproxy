@@ -13,21 +13,21 @@
 <li><a href="/comments/20231027/1953061.md">非正常死亡？他爆习近平最想除掉的就是李克强</a></li>
 <li><a href="/cbnews/20231027/1953265.md">遭赐死？李克强今才逝世中媒“昨晚就泄消息” 网友摇头：水很深</a></li>
 <li><a href="/ccpdope/20231028/1953317.md">蔡慎坤：重要人士透露李克强真实死因令人震惊</a></li>
-<li><a href="/sohnews/20231028/1953390.md">新华社2月惊现“讣告测试”！传李K强祸起游泳，多版死因流传；美军首度进攻开打，联大停战决议获通过</a></li>
 <li><a href="/ccpdope/20231027/1953071.md">习李多次不咬弦 三年前有人预言李克强：下了台性命没保障</a></li>
+<li><a href="/sohnews/20231028/1953390.md">新华社2月惊现“讣告测试”！传李K强祸起游泳，多版死因流传；美军首度进攻开打，联大停战决议获通过</a></li>
 <li><a href="/ccpdope/20231027/1953070.md">北大挽联悼李克强：陪十年小心 但活得憋屈</a></li>
 <li><a href="/topimagenews/20231027/1953261.md">李克强去世 中共强力维稳禁止聚集悼念</a></li>
 <li><a href="/topimagenews/20231028/1953320.md">传李克强遗体从上海运抵北京 民众路旁注视</a></li>
 <li><a href="/sohnews/20231027/1953141.md">李克强猝死，习近平大限也告急？中国除夕不放假，习出奇招躲政变？以色列最大规模进攻，哈马斯灭亡？哈马斯搞中东好莱坞？（2023.10.27）｜世界的十字路口 唐浩</a></li>
-<li><a href="/sohnews/20231027/1953142.md">陈破空：李克强故居！大量民众献花。大学发通知：警惕悼念潮！最新细节：游泳时突发心脏病。各方列举疑点，央视提前报道？直播与互动：美东时间10月27日早8点30、即中港台10月27日晚8点30</a></li>
 <li><a href="/topimagenews/20231028/1953425.md">多家媒体“预知死亡纪事” 李克强猝死引怀疑</a></li>
+<li><a href="/sohnews/20231027/1953142.md">陈破空：李克强故居！大量民众献花。大学发通知：警惕悼念潮！最新细节：游泳时突发心脏病。各方列举疑点，央视提前报道？直播与互动：美东时间10月27日早8点30、即中港台10月27日晚8点30</a></li>
 <li><a href="/baitai/20231027/1953139.md">李克强突然暴病身亡 黑幕重重 会爆发新一轮大规模运动吗？</a></li>
-<li><a href="/cbnews/20231027/1953039.md">李克强太太程虹是英语教授，著作等身 育有一女</a></li>
 <li><a href="/ssgc/20231028/1953365.md">李克强讣告凸显习李差异 中国社会的临爆点在哪里？</a></li>
 <li><a href="/ssgc/20231027/1953162.md">李克强猝逝对中共政局有何影响</a></li>
 <li><a href="/cbnews/20231027/1953132.md">非正常才“不意外”！推论李克强正常病逝可信度低 王丹“逻辑”“经验”</a></li>
-<li><a href="/topimagenews/20231027/1953037.md">喜气洋洋！中共各大喉舌现惊人一幕【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20231028/1953451.md">网络流传：曙光医院内部视频</a></li>
 <li><a href="/cbnews/20231028/1953306.md">中共前总理李克强去世 直击外传抢救医院周边</a></li>
+<li><a href="/headline/20231027/1953115.md">江泽民离世港府即出新闻稿悼念 李克强离世李家超「零」反应</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
 
 </ul>
 </div>
