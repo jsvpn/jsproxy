@@ -9,8 +9,8 @@
 <li><a href="/ccpdope/20231027/1952928.md">李克强在上海猝死 分析：疑点重重</a></li>
 <li><a href="/topimagenews/20231027/1952989.md">李克强心脏病骤逝 医揭2状况：合理吗？</a></li>
 <li><a href="/comments/20231027/1952905.md">天亮时分：突发：李克强逝世；习近平心神不宁，难过“除夕”；中美蜜月期要来了吗？（政论天下第1143集 20231025）天亮时分</a></li>
-<li><a href="/comments/20231027/1952901.md">李克强猝死！原中共国务院总理李克强在上海突发心脏病去世</a></li>
 <li><a href="/ccpdope/20231027/1952986.md">李克强死亡8小时后发丧 有何黑幕</a></li>
+<li><a href="/comments/20231027/1952901.md">李克强猝死！原中共国务院总理李克强在上海突发心脏病去世</a></li>
 <li><a href="/topimagenews/20231027/1952988.md">李克强突病逝！他喊“中共内部清洗”：被拖走的胡锦涛在哪？</a></li>
 <li><a href="/topimagenews/20231027/1952977.md">李克强突病逝 财经网美惊呼：还看不明白吗？</a></li>
 <li><a href="/comments/20231027/1953126.md">【独家重磅】李燕铭：李克强猝死内幕曝光 66名中共省部级高官密集病亡 名单揭秘 中共病毒攻陷中南海 江泽民李克强接连死亡 下一个曾庆红？天灭中共大戏正在上演 上天接连示警习近平命悬一线 李克强猝死深度内幕（2） 中共末日之病毒亡共（42） 习近平连任与中共末日（177）</a></li>
@@ -25,8 +25,8 @@
 <li><a href="/headline/20231027/1952907.md">中国前总理李克强突然逝世</a></li>
 <li><a href="/comments/20231027/1953061.md">非正常死亡？他爆习近平最想除掉的就是李克强</a></li>
 <li><a href="/topimagenews/20231027/1952976.md">【图集】几大生前瞬间！李克强和习近平公开唱反调！【阿波罗网报道】</a></li>
-<li><a href="/sohnews/20231027/1952939.md">恐怖！李克强被病死！一平兄半年前预言他不可能全身而退，三种结局中的最后一种应验！</a></li>
-<li><a href="/ccpdope/20231027/1953070.md">北大挽联悼李克强：陪十年小心 但活得憋屈</a></li>
+<li><a href="/topimagenews/20231028/1953341.md">李克强去世 全网怀疑 入院就诊到灵车运走细节首度披露【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20231027/1953265.md">遭赐死？李克强今才逝世中媒“昨晚就泄消息” 网友摇头：水很深</a></li>
 <li><a href="/ccpdope/20231027/1953071.md">习李多次不咬弦 三年前有人预言李克强：下了台性命没保障</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20231028/1953447.md" target="_blank">中共军机加强骚扰美军机 太平洋有如一锅滚水</a></li>
+<li><a href="/cbnews/20231028/1953446.md" target="_blank">加拿大军方内部报告流出 称已与中俄“处于战争状态”</a></li>
+<li><a href="/cbnews/20231028/1953445.md" target="_blank">李克强猝逝 将掀起三个巨大的政治风波</a></li>
 <li><a href="/cbnews/20231028/1953397.md" target="_blank">江峰：台湾大选 牵动世界格局的选择</a></li>
 <li><a href="/cbnews/20231028/1953356.md" target="_blank">美国思想领袖：【精彩片段】中共的总理都具备双重人格？人在做天在看！对老百姓有何启迪？ &#8211; #新闻大家谈</a></li>
 <li><a href="/cbnews/20231028/1953355.md" target="_blank">美国思想领袖：【精彩片段】李克强被心脏病？习政权危机重重 民心向背？中国社会崩溃在即？ &#8211; #新闻大家谈</a></li>
@@ -57,9 +60,6 @@
 <li><a href="/cbnews/20231027/1953203.md" target="_blank">北大高材生！李克强当了10年总理 毕业那天仍心系这事</a></li>
 <li><a href="/comments/20231027/1953160.md" target="_blank">关于人类的关键未来！不仅是预言，这里编码了未来！关键十年，人类发生巨变，走向如何？！｜ #未解之谜 扶摇</a></li>
 <li><a href="/comments/20231027/1953159.md" target="_blank">挂在毯子上的生命线</a></li>
-<li><a href="/comments/20231027/1953158.md" target="_blank">阿卡西纪录</a></li>
-<li><a href="/comments/20231027/1953157.md" target="_blank">寻找诺查丹玛斯</a></li>
-<li><a href="/comments/20231027/1953156.md" target="_blank">灵异图书馆</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231028/1953443.md" target="_blank">李☹️克☹️强被紧急封笔？他到底想记录什麽？习近平不放过前总理弟弟？中共紧急防民变，习成千夫所指？</a></li>
 <li><a href="/comments/20231028/1953404.md" target="_blank">吴惠林：第二十七章 不丹启示录</a></li>
 <li><a href="/comments/20231028/1953403.md" target="_blank">谢田：国务院变身“军机处”的三重涵义</a></li>
 <li><a href="/comments/20231028/1953399.md" target="_blank">天亮时分：大外宣洪流淹没台湾！台湾人该如何识别中共信息毒丸？全方位揭秘中共对台媒体渗透与信息战手法，章天亮、江峰深度对话（台湾大选2024 牵动世界格局的选择系列节目第3集）</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20231027/1953099.md" target="_blank">阿拉伯国的领土大多贫瘠？犹太国的土地&#8230;</a></li>
 <li><a href="/comments/20231027/1953061.md" target="_blank">非正常死亡？他爆习近平最想除掉的就是李克强</a></li>
 <li><a href="/comments/20231027/1953034.md" target="_blank">李克强突发心梗猝死，让人联想到胡耀邦之死</a></li>
-<li><a href="/comments/20231027/1953025.md" target="_blank">李克强“突发心脏病”去世 网民热议质疑死因不单纯</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
 <li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
 <li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
 
 </ul>
 </div>
