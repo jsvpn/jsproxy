@@ -14,19 +14,19 @@
 <li><a href="/ccpdope/20231028/1953317.md">蔡慎坤：重要人士透露李克强真实死因令人震惊</a></li>
 <li><a href="/cbnews/20231027/1953265.md">遭赐死？李克强今才逝世中媒“昨晚就泄消息” 网友摇头：水很深</a></li>
 <li><a href="/ccpdope/20231027/1953071.md">习李多次不咬弦 三年前有人预言李克强：下了台性命没保障</a></li>
-<li><a href="/ccpdope/20231027/1953070.md">北大挽联悼李克强：陪十年小心 但活得憋屈</a></li>
 <li><a href="/sohnews/20231028/1953390.md">新华社2月惊现“讣告测试”！传李K强祸起游泳，多版死因流传；美军首度进攻开打，联大停战决议获通过</a></li>
+<li><a href="/ccpdope/20231027/1953070.md">北大挽联悼李克强：陪十年小心 但活得憋屈</a></li>
 <li><a href="/topimagenews/20231027/1953261.md">李克强去世 中共强力维稳禁止聚集悼念</a></li>
 <li><a href="/topimagenews/20231028/1953320.md">传李克强遗体从上海运抵北京 民众路旁注视</a></li>
 <li><a href="/sohnews/20231027/1953141.md">李克强猝死，习近平大限也告急？中国除夕不放假，习出奇招躲政变？以色列最大规模进攻，哈马斯灭亡？哈马斯搞中东好莱坞？（2023.10.27）｜世界的十字路口 唐浩</a></li>
 <li><a href="/sohnews/20231027/1953142.md">陈破空：李克强故居！大量民众献花。大学发通知：警惕悼念潮！最新细节：游泳时突发心脏病。各方列举疑点，央视提前报道？直播与互动：美东时间10月27日早8点30、即中港台10月27日晚8点30</a></li>
 <li><a href="/ccpdope/20231027/1953033.md">李克强去世 退位前与习暗战三个细节</a></li>
-<li><a href="/comments/20231027/1953018.md">【独家重磅】李燕铭：李克强上海猝死六大疑点 李克强退而不休 与曾庆红联手发动金融政变 李克强与江曾集团勾连黑幕远超外界想象 李克强猝死深度内幕（1） 习近平李克强明争暗斗内幕（122） 习家军接掌国务院（29） 团派团灭内幕（35）</a></li>
 <li><a href="/cbnews/20231027/1953039.md">李克强太太程虹是英语教授，著作等身 育有一女</a></li>
 <li><a href="/baitai/20231027/1953139.md">李克强突然暴病身亡 黑幕重重 会爆发新一轮大规模运动吗？</a></li>
 <li><a href="/ssgc/20231027/1953162.md">李克强猝逝对中共政局有何影响</a></li>
-<li><a href="/cbnews/20231027/1953132.md">非正常才“不意外”！推论李克强正常病逝可信度低 王丹“逻辑”“经验”</a></li>
 <li><a href="/ssgc/20231028/1953365.md">李克强讣告凸显习李差异 中国社会的临爆点在哪里？</a></li>
+<li><a href="/cbnews/20231027/1953132.md">非正常才“不意外”！推论李克强正常病逝可信度低 王丹“逻辑”“经验”</a></li>
+<li><a href="/topimagenews/20231028/1953425.md">多家媒体“预知死亡纪事” 李克强猝死引怀疑</a></li>
 <li><a href="/topimagenews/20231027/1953037.md">喜气洋洋！中共各大喉舌现惊人一幕【阿波罗网报道】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231028/1953577.md" target="_blank">【独家重磅】李燕铭：李克强猝死前遭习四路追逼 多名老乡高官同期病亡 家族黑金帝国被清洗李克明高危 政治地盘逾十官员密集落马 习近平李克强明争暗斗内幕（123） 习近平连任后大清洗（112） 习清洗安徽帮暗战两党魁五常委（12） 辽宁帮覆灭记（21） 李克强猝死深度内幕（3）</a></li>
 <li><a href="/comments/20231028/1953541.md" target="_blank">耶路撒冷三千年:前 言</a></li>
 <li><a href="/comments/20231028/1953540.md" target="_blank">以色列买椟还珠，哈马斯火中取栗</a></li>
 <li><a href="/comments/20231028/1953539.md" target="_blank">菁英论坛:习普密谋5件事 台海开新战场？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20231027/1953278.md" target="_blank">时事大家谈：李克强走了，习近平羁绊下的郁闷总理？</a></li>
 <li><a href="/comments/20231027/1953260.md" target="_blank">天亮时分：李.克.强—暴病身亡，民间舆论哗然，会有政治风暴吗？｜章天亮 唐靖远 李沐阳 李大宇 方菲 【时事大聚焦10/27】</a></li>
 <li><a href="/comments/20231027/1953235.md" target="_blank">时事大家谈：李克强走了，习近平羁绊下的郁闷总理？高层互动从停滞到频繁, 谁进行了“深刻反思”？</a></li>
-<li><a href="/comments/20231027/1953234.md" target="_blank">李*克*强暴病身*亡，民间舆论哗然，会有政治风暴吗？︱章天亮 唐靖远 李沐阳 李大宇 方菲【时事大聚焦10/27】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
 
 </ul>
 </div>
