@@ -20,14 +20,14 @@
 <li><a href="/topimagenews/20231028/1953320.md">传李克强遗体从上海运抵北京 民众路旁注视</a></li>
 <li><a href="/sohnews/20231027/1953141.md">李克强猝死，习近平大限也告急？中国除夕不放假，习出奇招躲政变？以色列最大规模进攻，哈马斯灭亡？哈马斯搞中东好莱坞？（2023.10.27）｜世界的十字路口 唐浩</a></li>
 <li><a href="/sohnews/20231027/1953142.md">陈破空：李克强故居！大量民众献花。大学发通知：警惕悼念潮！最新细节：游泳时突发心脏病。各方列举疑点，央视提前报道？直播与互动：美东时间10月27日早8点30、即中港台10月27日晚8点30</a></li>
-<li><a href="/ccpdope/20231027/1953033.md">李克强去世 退位前与习暗战三个细节</a></li>
 <li><a href="/topimagenews/20231028/1953425.md">多家媒体“预知死亡纪事” 李克强猝死引怀疑</a></li>
-<li><a href="/cbnews/20231027/1953039.md">李克强太太程虹是英语教授，著作等身 育有一女</a></li>
 <li><a href="/baitai/20231027/1953139.md">李克强突然暴病身亡 黑幕重重 会爆发新一轮大规模运动吗？</a></li>
+<li><a href="/cbnews/20231027/1953039.md">李克强太太程虹是英语教授，著作等身 育有一女</a></li>
 <li><a href="/ssgc/20231028/1953365.md">李克强讣告凸显习李差异 中国社会的临爆点在哪里？</a></li>
 <li><a href="/ssgc/20231027/1953162.md">李克强猝逝对中共政局有何影响</a></li>
 <li><a href="/cbnews/20231027/1953132.md">非正常才“不意外”！推论李克强正常病逝可信度低 王丹“逻辑”“经验”</a></li>
 <li><a href="/topimagenews/20231027/1953037.md">喜气洋洋！中共各大喉舌现惊人一幕【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20231028/1953306.md">中共前总理李克强去世 直击外传抢救医院周边</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231028/1953586.md" target="_blank">李承鹏：李克强走了 旁边是&#8230;</a></li>
 <li><a href="/comments/20231028/1953577.md" target="_blank">【独家重磅】李燕铭：李克强猝死前遭习四路追逼 多名老乡高官同期病亡 家族黑金帝国被清洗李克明高危 政治地盘逾十官员密集落马 习近平李克强明争暗斗内幕（123） 习近平连任后大清洗（112） 习清洗安徽帮暗战两党魁五常委（12） 辽宁帮覆灭记（21） 李克强猝死深度内幕（3）</a></li>
 <li><a href="/comments/20231028/1953541.md" target="_blank">耶路撒冷三千年:前 言</a></li>
 <li><a href="/comments/20231028/1953540.md" target="_blank">以色列买椟还珠，哈马斯火中取栗</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20231027/1953279.md" target="_blank">时事大家谈：高层互动从停滞到频繁, 谁进行了“深刻反思”？</a></li>
 <li><a href="/comments/20231027/1953278.md" target="_blank">时事大家谈：李克强走了，习近平羁绊下的郁闷总理？</a></li>
 <li><a href="/comments/20231027/1953260.md" target="_blank">天亮时分：李.克.强—暴病身亡，民间舆论哗然，会有政治风暴吗？｜章天亮 唐靖远 李沐阳 李大宇 方菲 【时事大聚焦10/27】</a></li>
-<li><a href="/comments/20231027/1953235.md" target="_blank">时事大家谈：李克强走了，习近平羁绊下的郁闷总理？高层互动从停滞到频繁, 谁进行了“深刻反思”？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
 <li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
-<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
 <li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
 <li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
 
 </ul>
 </div>
