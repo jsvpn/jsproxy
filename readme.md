@@ -19,15 +19,15 @@
 <li><a href="/comments/20231028/1953577.md">【独家重磅】李燕铭：李克强猝死前遭习四路追逼 多名老乡高官同期病亡 家族黑金帝国被清洗李克明高危 政治地盘逾十官员密集落马 习近平李克强明争暗斗内幕（123） 习近平连任后大清洗（112） 习清洗安徽帮暗战两党魁五常委（12） 辽宁帮覆灭记（21） 李克强猝死深度内幕（3）</a></li>
 <li><a href="/cbnews/20231028/1953522.md">〖兲朝浮世绘〗习近平对李克强恨之入骨？死也不让他上头条</a></li>
 <li><a href="/comments/20231028/1953586.md">李承鹏：李克强走了 旁边是...</a></li>
-<li><a href="/comments/20231028/1953689.md">孙悟空：李克强是好人吗？</a></li>
 <li><a href="/baitai/20231028/1953568.md">李克强突然离世真相被曝？评：习近平另有致命危机</a></li>
+<li><a href="/comments/20231028/1953689.md">孙悟空：李克强是好人吗？</a></li>
 <li><a href="/sohnews/20231028/1953438.md">陈破空：李克强送医遭人为阻扰？护士痛哭！民众悼念潮汹涌。王毅尴尬，拜登当面哀悼李总理，布林肯打上黑领带。直播与互动：美东时间10月27日晚8点45、即中港台10月28日早8点45</a></li>
-<li><a href="/cnnews/20231028/1953625.md">李克强猝逝 给习近平一个政治警讯</a></li>
 <li><a href="/cbnews/20231028/1953462.md">李克强猝逝 折射习近平巨大政治风险</a></li>
 <li><a href="/cbnews/20231028/1953704.md">民众涌向李克强故居献花 被指发泄对社会不满</a></li>
+<li><a href="/cnnews/20231028/1953625.md">李克强猝逝 给习近平一个政治警讯</a></li>
 <li><a href="/baitai/20231028/1953435.md">中国人机会来了！李克强出事 习麻烦大了？</a></li>
 <li><a href="/cnnews/20231028/1953431.md">没谈拢？拜登见王毅1小时 拒绝回答1关键问题</a></li>
-<li><a href="/ccpdope/20231028/1953594.md">李克强讣告中7个病句隐藏的密码</a></li>
+<li><a href="/ccpdope/20231028/1953734.md">内幕越扒越多 许家印父子癖好再曝光</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,9 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20231029/1953815.md" target="_blank">以一夜空袭定点清除数百栋哈马斯目标 高清图对比震撼人心</a></li>
+<li><a href="/topimagenews/20231029/1953814.md" target="_blank">港媒：李克强此前曾接受搭桥手术 游泳时突发心脏病</a></li>
+<li><a href="/topimagenews/20231029/1953813.md" target="_blank">台媒：李克强深圳发病心脏病 和医生达惊人共识</a></li>
 <li><a href="/topimagenews/20231029/1953806.md" target="_blank">李猝逝 很可能一举瓦解习杀手锏 或兑现习预言？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20231028/1953677.md" target="_blank">乌军要来把大的? 4海军陆战旅集结第聂伯河左岸 俄军被炸飞36.7米</a></li>
 <li><a href="/topimagenews/20231028/1953641.md" target="_blank">曝中共要求资产3000万以上富人，交出2成财富；WSJ：习开会拍板要将这步杀招进行到底</a></li>
@@ -88,15 +91,13 @@
 <li><a href="/topimagenews/20231027/1952974.md" target="_blank">大陆总理学历最高 外媒爆“李克强指数”比官方GDP真</a></li>
 <li><a href="/topimagenews/20231027/1952953.md" target="_blank">蒋介石对得起知识份子 知识份子对得起蒋介石吗？</a></li>
 <li><a href="/topimagenews/20231027/1952803.md" target="_blank">战车装甲车齐发 以军最大规模扫荡加萨后退出</a></li>
-<li><a href="/topimagenews/20231026/1952681.md" target="_blank">早没民主自由？美新任议长强生吁 全民正视“推特档案门”</a></li>
-<li><a href="/topimagenews/20231026/1952680.md" target="_blank">斯洛伐克将停止军援乌克兰 反对制裁俄罗斯</a></li>
-<li><a href="/topimagenews/20231026/1952679.md" target="_blank">李尚福、秦刚丢乌纱帽！习近平权威被削弱？专家这样说</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231029/1953816.md" target="_blank">李玉清：从极权体制的历史看李克强猝死原因</a></li>
 <li><a href="/comments/20231029/1953796.md" target="_blank">扯掉麦克风 哈马斯官员在BBC采访中“逃跑”</a></li>
 <li><a href="/comments/20231029/1953795.md" target="_blank">李克强故居现悼念人潮 敏感留言再现</a></li>
 <li><a href="/comments/20231029/1953794.md" target="_blank">万圣节惊喜 NASA“朱诺号”拍到木星“鬼脸”</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20231028/1953506.md" target="_blank">熊倌儿:远离你的猪队友吧！研究发现：职场上和蠢人共事易得心脏病</a></li>
 <li><a href="/comments/20231028/1953505.md" target="_blank">中国哭墙：李医生，那个说实话的李家人也走了</a></li>
 <li><a href="/comments/20231028/1953488.md" target="_blank">真理部:注意对李克强评价过高的言论</a></li>
-<li><a href="/comments/20231028/1953487.md" target="_blank">404文:温水跳蛙:全国领先的抢救能力 上海的心血管病实力</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
 <li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
 
 </ul>
 </div>
