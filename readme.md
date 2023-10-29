@@ -7,7 +7,6 @@
 
 <li><a href="/sohnews/20231028/1953611.md">李克强被王小洪特勤局暗害内幕，中疾控吴尊友刚被灭口，高层血雨腥风大摊牌。《老灯开讲第415期》</a></li>
 <li><a href="/topimagenews/20231028/1953553.md">李克强讣告大不同！最关键几个字消失【阿波罗网报道】</a></li>
-<li><a href="/sohnews/20231028/1953489.md">习李健康内幕曝光！新爆料：真实死因无比震惊？！死因“五大疑点”；前总理同学说他变了：为前途“不断扭曲自己”；官方悼念规格超低，屏蔽网上议论；传当局已向高校发警告；遗体冷清运北京｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/topimagenews/20231028/1953615.md">传李克强心梗被送二流医院 抢救专家下午才来</a></li>
 <li><a href="/topimagenews/20231028/1953641.md">曝中共要求资产3000万以上富人，交出2成财富；WSJ：习开会拍板要将这步杀招进行到底</a></li>
 <li><a href="/comments/20231028/1953577.md">【独家重磅】李燕铭：李克强猝死前遭习四路追逼 多名老乡高官同期病亡 家族黑金帝国被清洗李克明高危 政治地盘逾十官员密集落马 习近平李克强明争暗斗内幕（123） 习近平连任后大清洗（112） 习清洗安徽帮暗战两党魁五常委（12） 辽宁帮覆灭记（21） 李克强猝死深度内幕（3）</a></li>
@@ -17,17 +16,18 @@
 <li><a href="/comments/20231028/1953586.md">李承鹏：李克强走了 旁边是...</a></li>
 <li><a href="/sohnews/20231029/1953787.md">“李克强被软禁于东郊宾馆的缘由 ⋯”No.04（10/28/23）</a></li>
 <li><a href="/baitai/20231028/1953568.md">李克强突然离世真相被曝？评：习近平另有致命危机</a></li>
+<li><a href="/topimagenews/20231029/1953813.md">台媒：李克强深圳发病心脏病 和医生达惊人共识</a></li>
 <li><a href="/comments/20231028/1953689.md">孙悟空：李克强是好人吗？</a></li>
 <li><a href="/sohnews/20231028/1953747.md">究竟发生了什么？李强被习近平“特殊”对待，竟扛不住原本一个小角色的背后突袭。</a></li>
-<li><a href="/topimagenews/20231029/1953813.md">台媒：李克强深圳发病心脏病 和医生达惊人共识</a></li>
 <li><a href="/cbnews/20231028/1953704.md">民众涌向李克强故居献花 被指发泄对社会不满</a></li>
-<li><a href="/cnnews/20231028/1953625.md">李克强猝逝 给习近平一个政治警讯</a></li>
 <li><a href="/ccpdope/20231028/1953734.md">内幕越扒越多 许家印父子癖好再曝光</a></li>
+<li><a href="/cnnews/20231028/1953625.md">李克强猝逝 给习近平一个政治警讯</a></li>
 <li><a href="/ccpdope/20231028/1953594.md">李克强讣告中7个病句隐藏的密码</a></li>
 <li><a href="/sohnews/20231029/1953777.md">曙光医院抢救细节流出，“正常抢救”为何不正常？专家：李猝死概率0.001%；加沙开打！这次狼真来了</a></li>
-<li><a href="/sohnews/20231028/1953753.md">🔥他爆习最想除掉的就是李克强 但是...赵紫阳智囊吴国光：李克强人格分裂的悲剧；“为何去上海？身边没医师？”李克强突离世 这几点不寻常；被封杀：全国领先的抢救能力 上海的心血管病实力【阿波罗网】</a></li>
 <li><a href="/topimagenews/20231029/1953823.md">北京误判情势出手，习被猪队友拉下水？</a></li>
 <li><a href="/cnnews/20231028/1953566.md">李克强骤逝 她揭密：新华网2月就测试讣闻</a></li>
+<li><a href="/sohnews/20231028/1953753.md">🔥他爆习最想除掉的就是李克强 但是...赵紫阳智囊吴国光：李克强人格分裂的悲剧；“为何去上海？身边没医师？”李克强突离世 这几点不寻常；被封杀：全国领先的抢救能力 上海的心血管病实力【阿波罗网】</a></li>
+<li><a href="/sohnews/20231028/1953703.md">文睿：”除习“，续集来了，一尊，”横死“几乎是一定的，四种结局</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231029/1953867.md" target="_blank">李克强死于暗杀而非心脏病；习近平下令，王小洪执行；李克强不会是最后一个（2023年10月28日）</a></li>
+<li><a href="/comments/20231029/1953910.md" target="_blank">【杰森视角】以色列明确展现地面战策略！美国已失去军事威慑力？李克强和许家印为习近平摆了两个局！习近平：宁可让经济放缓也要抓官员！马斯克因担心人类未来而当众哽咽！习近平为何突然渴望11月和拜登见面？</a></li>
 <li><a href="/cbnews/20231029/1953879.md" target="_blank">北京香山论坛缺防长 他们出来见外宾</a></li>
 <li><a href="/cbnews/20231029/1953858.md" target="_blank">习近平召开中共政治局会议 没提李克强&#8230;</a></li>
 <li><a href="/comments/20231029/1953854.md" target="_blank">李克强悲剧远未落幕；让谁心惊？｜横河 方菲 ｜新闻烽火台 10/28</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20231027/1953266.md" target="_blank">李克强猝逝存疑？他爆中共大老能“更新零件”：还能换血</a></li>
 <li><a href="/cbnews/20231027/1953265.md" target="_blank">遭赐死？李克强今才逝世中媒“昨晚就泄消息” 网友摇头：水很深</a></li>
 <li><a href="/cbnews/20231027/1953263.md" target="_blank">李克强去世 中国是否出现抗议事件备受关注</a></li>
-<li><a href="/cbnews/20231027/1953262.md" target="_blank">岳父母资助1500万买豪宅 人夫竟出轨多男</a></li>
-<li><a href="/cbnews/20231027/1953259.md" target="_blank">美国思想领袖：藉领导人去世 宣泄不满！｜ #新闻大家谈 #shorts</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,12 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231029/1953915.md" target="_blank">【微博精粹】抗麦郎：“习下李上”没问题 安排他上天堂</a></li>
+<li><a href="/comments/20231029/1953914.md" target="_blank">《耶路撒冷三千年》作者：在苏联经历很棒的冒险</a></li>
+<li><a href="/comments/20231029/1953867.md" target="_blank">李克强死于暗杀而非心脏病；习近平下令，王小洪执行；李克强不会是最后一个（2023年10月28日）</a></li>
+<li><a href="/comments/20231029/1953913.md" target="_blank">维舟的方舟：中国逻辑</a></li>
+<li><a href="/comments/20231029/1953911.md" target="_blank">雷叔说事：取消课间十分钟，图什么？</a></li>
+<li><a href="/comments/20231029/1953910.md" target="_blank">【杰森视角】以色列明确展现地面战策略！美国已失去军事威慑力？李克强和许家印为习近平摆了两个局！习近平：宁可让经济放缓也要抓官员！马斯克因担心人类未来而当众哽咽！习近平为何突然渴望11月和拜登见面？</a></li>
 <li><a href="/comments/20231029/1953905.md" target="_blank">404文：经济观察报：中国将推动新一轮“房改”</a></li>
 <li><a href="/comments/20231029/1953904.md" target="_blank">沈舟：美军增援中东 第四代战机物超所值</a></li>
 <li><a href="/comments/20231029/1953900.md" target="_blank">苍生在念，有志难伸，李克强诀别群魔乱舞的末世</a></li>
@@ -116,12 +122,6 @@
 <li><a href="/comments/20231029/1953794.md" target="_blank">万圣节惊喜 NASA“朱诺号”拍到木星“鬼脸”</a></li>
 <li><a href="/comments/20231029/1953793.md" target="_blank">太阳能汽车挑战赛 车型科幻 技术更酷炫</a></li>
 <li><a href="/comments/20231029/1953785.md" target="_blank">缅因州射杀18人的枪手被发现自伤身亡</a></li>
-<li><a href="/comments/20231029/1953758.md" target="_blank">成都人权律师卢思位取保获释</a></li>
-<li><a href="/comments/20231029/1953754.md" target="_blank">修炼万事通 作者：楚天秋</a></li>
-<li><a href="/comments/20231028/1953732.md" target="_blank">文昭：李克强猝死原因成谜，也许我们可以问这样一个问题&#8230;</a></li>
-<li><a href="/comments/20231028/1953707.md" target="_blank">连环计！前白宫幕僚长梅多斯是FBI的线人？获得特别检察官的豁免权，梅多斯真的背叛川普了吗？#白宫幕僚长 #梅多斯 #川普</a></li>
-<li><a href="/comments/20231028/1953689.md" target="_blank">孙悟空：李克强是好人吗？</a></li>
-<li><a href="/comments/20231028/1953688.md" target="_blank">渖涧松：她那年十九岁（连载十二）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
 <li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
 
 </ul>
 </div>
