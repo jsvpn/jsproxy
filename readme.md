@@ -11,14 +11,14 @@
 <li><a href="/topimagenews/20231029/1953813.md">台媒：李克强深圳发病心脏病 和医生达惊人共识</a></li>
 <li><a href="/topimagenews/20231029/1953878.md">北京市区万车齐鸣 名为迎接李克强 实为对当局发泄不满【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20231028/1953747.md">究竟发生了什么？李强被习近平“特殊”对待，竟扛不住原本一个小角色的背后突袭。</a></li>
-<li><a href="/comments/20231029/1953867.md">李克强死于暗杀而非心脏病；习近平下令，王小洪执行；李克强不会是最后一个（2023年10月28日）</a></li>
 <li><a href="/ccpdope/20231028/1953734.md">内幕越扒越多 许家印父子癖好再曝光</a></li>
+<li><a href="/comments/20231029/1953867.md">李克强死于暗杀而非心脏病；习近平下令，王小洪执行；李克强不会是最后一个（2023年10月28日）</a></li>
 <li><a href="/topimagenews/20231029/1953823.md">北京误判情势出手，习被猪队友拉下水？</a></li>
 <li><a href="/topimagenews/20231029/1953934.md">港媒惊曝李克强在东郊宾馆就过世 曾接受搭桥手术</a></li>
-<li><a href="/cbnews/20231028/1953704.md">民众涌向李克强故居献花 被指发泄对社会不满</a></li>
 <li><a href="/topimagenews/20231029/1953869.md">防六四再现 中共禁止公开活动一周 港媒曝李克强丧礼细节</a></li>
 <li><a href="/sohnews/20231029/1953777.md">曙光医院抢救细节流出，“正常抢救”为何不正常？专家：李猝死概率0.001%；加沙开打！这次狼真来了</a></li>
 <li><a href="/topimagenews/20231029/1953839.md">中共体制内出现了一些奇怪的现象，而且越来越明显</a></li>
+<li><a href="/sohnews/20231029/1954009.md">李克强夫人程虹发出紧急呼吁，毒死李克强详细过程，悼李反习运动风起云涌 《老灯开讲第416期》</a></li>
 <li><a href="/topimagenews/20231029/1953814.md">港媒：李克强此前曾接受搭桥手术 游泳时突发心脏病</a></li>
 <li><a href="/topimagenews/20231029/1953806.md">李猝逝 很可能一举瓦解习杀手锏 或兑现习预言？【阿波罗网报道】</a></li>
 <li><a href="/comments/20231029/1953795.md">李克强故居现悼念人潮 敏感留言再现</a></li>
@@ -26,8 +26,8 @@
 <li><a href="/ccpdope/20231029/1953971.md">内斗激烈 传李克强猝死前被软禁在上海</a></li>
 <li><a href="/sohnews/20231028/1953753.md">🔥他爆习最想除掉的就是李克强 但是...赵紫阳智囊吴国光：李克强人格分裂的悲剧；“为何去上海？身边没医师？”李克强突离世 这几点不寻常；被封杀：全国领先的抢救能力 上海的心血管病实力【阿波罗网】</a></li>
 <li><a href="/comments/20231029/1953825.md">阳唱阴和：李克强八字分析</a></li>
-<li><a href="/sohnews/20231029/1954009.md">李克强夫人程虹发出紧急呼吁，毒死李克强详细过程，悼李反习运动风起云涌 《老灯开讲第416期》</a></li>
 <li><a href="/topimagenews/20231029/1953856.md">习近平对李克强恨之入骨？这是证据【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20231029/1953840.md">李克强“被心脏病”？ 阴谋论全剧本在这里</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231029/1954051.md" target="_blank">彭斯退出竞选，两大根本原因主流都不说。超级捐款人纷纷回到川普身边。埃尔德退选后背书川普。#彭斯 #川普 #退出竞选</a></li>
 <li><a href="/cbnews/20231029/1954016.md" target="_blank">浙江男子开车看手机…下秒撞飞人 下车一扶竟“母子相认”</a></li>
 <li><a href="/cbnews/20231029/1953975.md" target="_blank">南方都市报头版刊李克强讣告 配图是好大一棵树</a></li>
 <li><a href="/cbnews/20231029/1953954.md" target="_blank">纽森遭痛批：与习近平像豆荚里的两颗豌豆</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20231028/1953356.md" target="_blank">美国思想领袖：【精彩片段】中共的总理都具备双重人格？人在做天在看！对老百姓有何启迪？ &#8211; #新闻大家谈</a></li>
 <li><a href="/cbnews/20231028/1953355.md" target="_blank">美国思想领袖：【精彩片段】李克强被心脏病？习政权危机重重 民心向背？中国社会崩溃在即？ &#8211; #新闻大家谈</a></li>
 <li><a href="/cbnews/20231028/1953321.md" target="_blank">李克强有志难伸郁郁而终 港专家：有功不归他、是否背过看讣闻</a></li>
-<li><a href="/cbnews/20231028/1953307.md" target="_blank">最遗憾的团派二把手？李克强猝逝 与习近平逆风的政治结局</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231029/1954051.md" target="_blank">彭斯退出竞选，两大根本原因主流都不说。超级捐款人纷纷回到川普身边。埃尔德退选后背书川普。#彭斯 #川普 #退出竞选</a></li>
 <li><a href="/comments/20231029/1953920.md" target="_blank">天亮时分：李克强被人下毒？习近平两大招更可怕；李故居成花海，会引发政治风暴吗？香山论坛中共尴尬，中央军委副主席出面（政论天下第1144集 20231027）天亮时分</a></li>
 <li><a href="/comments/20231029/1953915.md" target="_blank">【微博精粹】抗麦郎：“习下李上”没问题 安排他上天堂</a></li>
 <li><a href="/comments/20231029/1953914.md" target="_blank">《耶路撒冷三千年》作者：在苏联经历很棒的冒险</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20231029/1953796.md" target="_blank">扯掉麦克风 哈马斯官员在BBC采访中“逃跑”</a></li>
 <li><a href="/comments/20231029/1953795.md" target="_blank">李克强故居现悼念人潮 敏感留言再现</a></li>
 <li><a href="/comments/20231029/1953794.md" target="_blank">万圣节惊喜 NASA“朱诺号”拍到木星“鬼脸”</a></li>
-<li><a href="/comments/20231029/1953793.md" target="_blank">太阳能汽车挑战赛 车型科幻 技术更酷炫</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
-<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
 <li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
 
 </ul>
 </div>
