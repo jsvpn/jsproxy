@@ -8,7 +8,6 @@
 <li><a href="/comments/20231029/1953867.md">李克强死于暗杀而非心脏病；习近平下令，王小洪执行；李克强不会是最后一个（2023年10月28日）</a></li>
 <li><a href="/sohnews/20231029/1954009.md">李克强夫人程虹发出紧急呼吁，毒死李克强详细过程，悼李反习运动风起云涌 《老灯开讲第416期》</a></li>
 <li><a href="/topimagenews/20231029/1953878.md">北京市区万车齐鸣 名为迎接李克强 实为对当局发泄不满【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20231029/1953823.md">北京误判情势出手，习被猪队友拉下水？</a></li>
 <li><a href="/topimagenews/20231029/1953869.md">防六四再现 中共禁止公开活动一周 港媒曝李克强丧礼细节</a></li>
 <li><a href="/topimagenews/20231029/1953934.md">港媒惊曝李克强在东郊宾馆就过世 曾接受搭桥手术</a></li>
 <li><a href="/topimagenews/20231029/1953839.md">中共体制内出现了一些奇怪的现象，而且越来越明显</a></li>
@@ -26,8 +25,9 @@
 <li><a href="/topimagenews/20231029/1953840.md">李克强“被心脏病”？ 阴谋论全剧本在这里</a></li>
 <li><a href="/sohnews/20231029/1953983.md">曙光医院抢救“内部照片”曝光！医护穿白大褂列成一队；合肥郑州现悼念人潮，高喊口号！中共严控悼念，防变！令高校“厕所”都要监控；俄爹也出事了？“替身”疑似曝光｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/comments/20231029/1953920.md">天亮时分：李克强被人下毒？习近平两大招更可怕；李故居成花海，会引发政治风暴吗？香山论坛中共尴尬，中央军委副主席出面（政论天下第1144集 20231027）天亮时分</a></li>
-<li><a href="/comments/20231029/1953825.md">阳唱阴和：李克强八字分析</a></li>
 <li><a href="/cnnews/20231029/1953987.md">他骂了半辈子美国，最后却带着全家移民美国</a></li>
+<li><a href="/ccpdope/20231029/1953931.md">网传李克强灵车在上海曙光医院布置细节</a></li>
+<li><a href="/yule/20231029/1953949.md">一代女神，被前夫发疯手撕了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231030/1954138.md" target="_blank">惊人之语：李克强是好人吗？</a></li>
 <li><a href="/comments/20231029/1954070.md" target="_blank">惊悚！李克强蔡奇李尚福和秦刚，被一根因果链条穿在一起</a></li>
 <li><a href="/comments/20231029/1954051.md" target="_blank">彭斯退出竞选，两大根本原因主流都不说。超级捐款人纷纷回到川普身边。埃尔德退选后背书川普。#彭斯 #川普 #退出竞选</a></li>
 <li><a href="/comments/20231029/1953920.md" target="_blank">天亮时分：李克强被人下毒？习近平两大招更可怕；李故居成花海，会引发政治风暴吗？香山论坛中共尴尬，中央军委副主席出面（政论天下第1144集 20231027）天亮时分</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20231029/1953824.md" target="_blank">钟原：李克强讣告中7个病句隐藏的密码</a></li>
 <li><a href="/comments/20231029/1953816.md" target="_blank">李玉清：从极权体制的历史看李克强猝死原因</a></li>
 <li><a href="/comments/20231029/1953796.md" target="_blank">扯掉麦克风 哈马斯官员在BBC采访中“逃跑”</a></li>
-<li><a href="/comments/20231029/1953795.md" target="_blank">李克强故居现悼念人潮 敏感留言再现</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
 <li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
 <li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
 
 </ul>
 </div>
