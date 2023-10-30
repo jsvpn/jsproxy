@@ -7,7 +7,6 @@
 
 <li><a href="/sohnews/20231029/1954009.md">李克强夫人程虹发出紧急呼吁，毒死李克强详细过程，悼李反习运动风起云涌 《老灯开讲第416期》</a></li>
 <li><a href="/comments/20231029/1953867.md">李克强死于暗杀而非心脏病；习近平下令，王小洪执行；李克强不会是最后一个（2023年10月28日）</a></li>
-<li><a href="/topimagenews/20231029/1953878.md">北京市区万车齐鸣 名为迎接李克强 实为对当局发泄不满【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20231029/1953934.md">港媒惊曝李克强在东郊宾馆就过世 曾接受搭桥手术</a></li>
 <li><a href="/topimagenews/20231029/1954015.md">李克强去世早有预兆？中共还有大事发生？【阿波罗网报道】</a></li>
 <li><a href="/ccpdope/20231029/1953971.md">内斗激烈 传李克强猝死前被软禁在上海</a></li>
@@ -21,12 +20,13 @@
 <li><a href="/sohnews/20231029/1953983.md">曙光医院抢救“内部照片”曝光！医护穿白大褂列成一队；合肥郑州现悼念人潮，高喊口号！中共严控悼念，防变！令高校“厕所”都要监控；俄爹也出事了？“替身”疑似曝光｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/comments/20231029/1953920.md">天亮时分：李克强被人下毒？习近平两大招更可怕；李故居成花海，会引发政治风暴吗？香山论坛中共尴尬，中央军委副主席出面（政论天下第1144集 20231027）天亮时分</a></li>
 <li><a href="/cnnews/20231029/1953987.md">他骂了半辈子美国，最后却带着全家移民美国</a></li>
-<li><a href="/ccpdope/20231029/1953931.md">网传李克强灵车在上海曙光医院布置细节</a></li>
 <li><a href="/ccpdope/20231029/1954083.md">李克强当年差点上江泽民的当</a></li>
+<li><a href="/ccpdope/20231029/1953931.md">网传李克强灵车在上海曙光医院布置细节</a></li>
 <li><a href="/yule/20231029/1953949.md">一代女神，被前夫发疯手撕了</a></li>
 <li><a href="/cbnews/20231029/1954058.md">习近平最新政治投资 这个赌注太大了【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20231029/1953930.md">〖微博谈〗人之常情，不必苛责</a></li>
 <li><a href="/worldnews/20231029/1953926.md">朝党军部长公开下跪 10岁第一千金传接班金正恩</a></li>
+<li><a href="/ccpdope/20231030/1954110.md">上海东郊宾馆内幕：让怎么死就怎么死</a></li>
 <li><a href="/topimagenews/20231029/1954023.md">“台湾、中国国旗同框”中共没抗议？矢板明夫也吓到 曝原因：出问题了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231030/1954176.md" target="_blank">&#8220;动态清零&#8221;与商鞅&#8221;驭民五术&#8221;</a></li>
+<li><a href="/comments/20231030/1954175.md" target="_blank">维舟：剖析中国逻辑，它支配着中国人的思维</a></li>
+<li><a href="/comments/20231030/1954174.md" target="_blank">上海人冲塔直指习近平：很想你SI！李☹️克☹️强讣告7病句藏猝毙原因？花圈革命蝴蝶翅膀扇起来了？</a></li>
+<li><a href="/comments/20231030/1954170.md" target="_blank">【经典电影】《金玉良缘红楼梦》黄梅调电影 国语中字高清修复版 导演&#8211;李翰祥 主演&#8211;林青霞-张艾嘉-狄波拉-米雪-胡锦</a></li>
 <li><a href="/comments/20231030/1954165.md" target="_blank">见证历史！以军除哈马斯在加萨地面战，24小时零伤亡</a></li>
 <li><a href="/comments/20231030/1954146.md" target="_blank">文昭：以哈风云骤起，台湾大选在即；台海有多凶险？【会员样片节选】</a></li>
 <li><a href="/comments/20231030/1954138.md" target="_blank">惊人之语：李克强是好人吗？</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20231029/1953854.md" target="_blank">李克强悲剧远未落幕；让谁心惊？｜横河 方菲 ｜新闻烽火台 10/28</a></li>
 <li><a href="/comments/20231029/1953833.md" target="_blank">文昭：李克强的最强遗产，就是他的突然逝世，会是动乱的开端吗？</a></li>
 <li><a href="/comments/20231029/1953828.md" target="_blank">周晓辉：中共政权陷四危 习近平成“亡主”？</a></li>
-<li><a href="/comments/20231029/1953827.md" target="_blank">王赫：李克强突然离世带给中共高层的警示</a></li>
-<li><a href="/comments/20231029/1953826.md" target="_blank">弘正义：中共污名化西方民主是企图维稳生存、危害世界的巨大阴谋</a></li>
-<li><a href="/comments/20231029/1953825.md" target="_blank">阳唱阴和：李克强八字分析</a></li>
-<li><a href="/comments/20231029/1953824.md" target="_blank">钟原：李克强讣告中7个病句隐藏的密码</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
 <li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
 <li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
 
 </ul>
 </div>
