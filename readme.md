@@ -12,8 +12,8 @@
 <li><a href="/cbnews/20231030/1954137.md">太惨！中共局长曝超级重磅猛料 网友高呼下辈子不做中共国人</a></li>
 <li><a href="/sohnews/20231030/1954363.md">李克强夫人程虹声明要求尸检，李克强被害真实原因披露，习指示以后绕开司法搞暗害。《老灯开讲第417期》</a></li>
 <li><a href="/topimagenews/20231030/1954232.md">【微博精粹】玩弄弱势者 这回玩大了</a></li>
-<li><a href="/topimagenews/20231030/1954321.md">大丑闻！李克强这时候的风头也敢抢？【阿波罗网报道】</a></li>
 <li><a href="/baitai/20231030/1954166.md">无声反抗！悼念李克强运动蔓延逾20城 悼词直指当局 警上阵 北京维稳升级</a></li>
+<li><a href="/topimagenews/20231030/1954321.md">大丑闻！李克强这时候的风头也敢抢？【阿波罗网报道】</a></li>
 <li><a href="/comments/20231030/1954174.md">上海人冲塔直指习近平：很想你SI！李☹️克☹️强讣告7病句藏猝毙原因？花圈革命蝴蝶翅膀扇起来了？</a></li>
 <li><a href="/topimagenews/20231030/1954231.md">港媒：李克强去世，对北京完全是个“意外”</a></li>
 <li><a href="/topimagenews/20231030/1954436.md">“四不”！传习中央针对李克强治丧事宜做指示【阿波罗网报道】</a></li>
@@ -35,6 +35,10 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231031/1954549.md" target="_blank">孙中山预言1970年红羊劫</a></li>
+<li><a href="/comments/20231031/1954548.md" target="_blank">柴望赤马红羊劫</a></li>
+<li><a href="/comments/20231031/1954547.md" target="_blank">劫难本来可以避免？</a></li>
+<li><a href="/comments/20231031/1954546.md" target="_blank">劫非劫？！</a></li>
 <li><a href="/cbnews/20231030/1954492.md" target="_blank">调查电话答“非常满意” 村干奖200元…出事了</a></li>
 <li><a href="/cbnews/20231030/1954491.md" target="_blank">豆腐渣工程？中国大妈健身做后仰动作竟将石护栏拉断</a></li>
 <li><a href="/cbnews/20231030/1954426.md" target="_blank">香山论坛中俄唱和 张又侠暗批美国 专家解读</a></li>
@@ -56,10 +60,6 @@
 <li><a href="/cbnews/20231030/1954137.md" target="_blank">太惨！中共局长曝超级重磅猛料 网友高呼下辈子不做中共国人</a></li>
 <li><a href="/cbnews/20231030/1954136.md" target="_blank">惊爆朱德被干掉内幕 汪洋胡春华瑟瑟发抖【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20231029/1954058.md" target="_blank">习近平最新政治投资 这个赌注太大了【阿波罗网报道】</a></li>
-<li><a href="/comments/20231029/1954051.md" target="_blank">彭斯退出竞选，两大根本原因主流都不说。超级捐款人纷纷回到川普身边。埃尔德退选后背书川普。#彭斯 #川普 #退出竞选</a></li>
-<li><a href="/cbnews/20231029/1954016.md" target="_blank">浙江男子开车看手机…下秒撞飞人 下车一扶竟“母子相认”</a></li>
-<li><a href="/cbnews/20231029/1953975.md" target="_blank">南方都市报头版刊李克强讣告 配图是好大一棵树</a></li>
-<li><a href="/cbnews/20231029/1953954.md" target="_blank">纽森遭痛批：与习近平像豆荚里的两颗豌豆</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231031/1954549.md" target="_blank">孙中山预言1970年红羊劫</a></li>
+<li><a href="/comments/20231031/1954548.md" target="_blank">柴望赤马红羊劫</a></li>
+<li><a href="/comments/20231031/1954547.md" target="_blank">劫难本来可以避免？</a></li>
+<li><a href="/comments/20231031/1954546.md" target="_blank">劫非劫？！</a></li>
 <li><a href="/comments/20231031/1954505.md" target="_blank">【文韬政论】从香港特首的中国特色施政报告看「奴才政治」</a></li>
 <li><a href="/comments/20231030/1954473.md" target="_blank">以军战车进入加沙 规模比预期小 居民：往南交通要道已切断</a></li>
 <li><a href="/comments/20231030/1954472.md" target="_blank">以军挺进画面曝光 彭博：以色列进攻加沙有3大目标</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20231030/1954210.md" target="_blank">汤名晖：李克强去世最大影响──“习核心”走向下个五年</a></li>
 <li><a href="/comments/20231030/1954209.md" target="_blank">1年前我就预言过李克强死无葬身之地 现在 更坏的消息来了</a></li>
 <li><a href="/comments/20231030/1954192.md" target="_blank">洪耀南：李克强之死和班禅、胡耀邦一样会有很多传说</a></li>
-<li><a href="/comments/20231030/1954191.md" target="_blank">陈独秀嫖娼建党 共匪大卖妓女赚钱</a></li>
-<li><a href="/comments/20231030/1954184.md" target="_blank">天亮时分：李克强生前被剪裙边，家属要求尸检？加沙地面战开始，以色列放出一大招；台湾“蓝白合”协商明日登场，成功几率几何？（政论天下第1145集 20231029）天亮时分</a></li>
-<li><a href="/comments/20231030/1954183.md" target="_blank">【独家重磅】李燕铭：李克强猝死 习近平紧急召开政治局会议 总理李强及两名政治局委员缺席内幕揭秘 习家军陈吉宁坐镇上海 习近平一亲信赶赴上海 中国禁止公开活动一周 高校接到秘密指令 习近平李克强明争暗斗内幕（124） 习近平连任后大清洗（113） 习近平连任与中共末日（178） 李克强猝死深度内幕（4）</a></li>
-<li><a href="/comments/20231030/1954176.md" target="_blank">&#8220;动态清零&#8221;与商鞅&#8221;驭民五术&#8221;</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
 <li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
 
 </ul>
 </div>
