@@ -7,8 +7,8 @@
 
 <li><a href="/ccpdope/20231030/1954153.md">李克强死了 汪洋危矣</a></li>
 <li><a href="/baitai/20231030/1954166.md">无声反抗！悼念李克强运动蔓延逾20城 悼词直指当局 警上阵 北京维稳升级</a></li>
-<li><a href="/topimagenews/20231030/1954232.md">【微博精粹】玩弄弱势者 这回玩大了</a></li>
 <li><a href="/sohnews/20231030/1954363.md">李克强夫人程虹声明要求尸检，李克强被害真实原因披露，习指示以后绕开司法搞暗害。《老灯开讲第417期》</a></li>
+<li><a href="/topimagenews/20231030/1954232.md">【微博精粹】玩弄弱势者 这回玩大了</a></li>
 <li><a href="/topimagenews/20231030/1954321.md">大丑闻！李克强这时候的风头也敢抢？【阿波罗网报道】</a></li>
 <li><a href="/comments/20231030/1954174.md">上海人冲塔直指习近平：很想你SI！李☹️克☹️强讣告7病句藏猝毙原因？花圈革命蝴蝶翅膀扇起来了？</a></li>
 <li><a href="/topimagenews/20231030/1954436.md">“四不”！传习中央针对李克强治丧事宜做指示【阿波罗网报道】</a></li>
@@ -21,10 +21,10 @@
 <li><a href="/topimagenews/20231030/1954265.md">听训模式？拜登见王毅，待遇比照习，端坐中央</a></li>
 <li><a href="/topimagenews/20231030/1954434.md">对习近平太不吉利 王毅要倒霉？【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20231030/1954248.md">〖兲朝浮世绘〗大批民众悼念李克强，骨子里是对习乱执政的不满</a></li>
-<li><a href="/yule/20231030/1954141.md">章子怡汪峰离婚真实原因曝光 葛斯齐全说了</a></li>
 <li><a href="/ssgc/20231030/1954293.md">李克强去世最大影响</a></li>
 <li><a href="/comments/20231030/1954209.md">1年前我就预言过李克强死无葬身之地 现在 更坏的消息来了</a></li>
 <li><a href="/cbnews/20231030/1954302.md">出重手！习近平亲自部署“清算富士康”原因曝光</a></li>
+<li><a href="/cnnews/20231031/1954501.md">李克强猝死 激起民愤 法制江西罕见发声 怒斥极权专制没有人性【阿波罗网报道】</a></li>
 <li><a href="/baitai/20231030/1954360.md">不祥之兆？活人换死人 传拜登哀悼李克强 官媒窜改成对习问候</a></li>
 <li><a href="/comments/20231030/1954184.md">天亮时分：李克强生前被剪裙边，家属要求尸检？加沙地面战开始，以色列放出一大招；台湾“蓝白合”协商明日登场，成功几率几何？（政论天下第1145集 20231029）天亮时分</a></li>
 <li><a href="/comments/20231030/1954394.md">应了千年预言：此劫遇国难，改朝换代？！任何朝代都躲不过去！只要熬过2025年，好日子就来了⋯⋯｜ #未解之谜 扶摇</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
 <li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
 
 </ul>
 </div>
