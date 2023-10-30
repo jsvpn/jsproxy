@@ -13,20 +13,20 @@
 <li><a href="/baitai/20231029/1954053.md">民众悼念李克强事态不断扩大 当局如临大敌 严控天安门广场</a></li>
 <li><a href="/topimagenews/20231029/1954064.md">李克强“游泳死”可能性不大 是氰化物引起的？【阿波罗网报道】</a></li>
 <li><a href="/comments/20231029/1954070.md">惊悚！李克强蔡奇李尚福和秦刚，被一根因果链条穿在一起</a></li>
-<li><a href="/sohnews/20231029/1954076.md">“李克强‘以死反党’ 习办通知：体制内所有人‘不言不闻 不传不闻‘”No.02（10/29/23）</a></li>
 <li><a href="/ccpdope/20231030/1954110.md">上海东郊宾馆内幕：让怎么死就怎么死</a></li>
+<li><a href="/sohnews/20231029/1954076.md">“李克强‘以死反党’ 习办通知：体制内所有人‘不言不闻 不传不闻‘”No.02（10/29/23）</a></li>
 <li><a href="/baitai/20231030/1954124.md">官民冰火两重天 网爆李克强葬礼安排 令人唏嘘不已 民借悼念发泄不满</a></li>
 <li><a href="/sohnews/20231029/1953983.md">曙光医院抢救“内部照片”曝光！医护穿白大褂列成一队；合肥郑州现悼念人潮，高喊口号！中共严控悼念，防变！令高校“厕所”都要监控；俄爹也出事了？“替身”疑似曝光｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/cbnews/20231030/1954136.md">惊爆朱德被干掉内幕 汪洋胡春华瑟瑟发抖【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20231029/1953987.md">他骂了半辈子美国，最后却带着全家移民美国</a></li>
 <li><a href="/ccpdope/20231029/1954083.md">李克强当年差点上江泽民的当</a></li>
-<li><a href="/yule/20231029/1953949.md">一代女神，被前夫发疯手撕了</a></li>
-<li><a href="/cbnews/20231029/1954058.md">习近平最新政治投资 这个赌注太大了【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20231030/1954137.md">太惨！中共局长曝超级重磅猛料 网友高呼下辈子不做中共国人</a></li>
+<li><a href="/yule/20231029/1953949.md">一代女神，被前夫发疯手撕了</a></li>
 <li><a href="/ccpdope/20231030/1954153.md">李克强死了 汪洋危矣</a></li>
+<li><a href="/cbnews/20231029/1954058.md">习近平最新政治投资 这个赌注太大了【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20231030/1954128.md">陈破空：政治老人谴责！治丧委员会难产。悲愤悼念李克强，蔓延全国各地！安徽老人痛哭，喊出无数人心声：想不通！直播与互动：美东时间10月29日晚9点、即中港台10月30日早9点</a></li>
-<li><a href="/baitai/20231030/1954091.md">反击习近平？拜登为王毅做一罕见安排 北京迟迟不肯敲定拜习会 专家揭背后算计</a></li>
 <li><a href="/ccpdope/20231030/1954111.md">李克强不可能游泳死亡</a></li>
+<li><a href="/baitai/20231030/1954091.md">反击习近平？拜登为王毅做一罕见安排 北京迟迟不肯敲定拜习会 专家揭背后算计</a></li>
 <li><a href="/topimagenews/20231029/1954023.md">“台湾、中国国旗同框”中共没抗议？矢板明夫也吓到 曝原因：出问题了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231030/1954256.md" target="_blank">汤名晖：这才是李克强去世的最大影响</a></li>
 <li><a href="/comments/20231030/1954250.md" target="_blank">联邦政府去年大亏损 这样下去怎么办？【方伟时间-20231029】</a></li>
 <li><a href="/comments/20231030/1954243.md" target="_blank">李克强：改革开放的最后殉道者</a></li>
 <li><a href="/comments/20231030/1954242.md" target="_blank">深度：为什么美国枪支问题如此独特而持久？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20231029/1953914.md" target="_blank">《耶路撒冷三千年》作者：在苏联经历很棒的冒险</a></li>
 <li><a href="/comments/20231029/1953867.md" target="_blank">李克强死于暗杀而非心脏病；习近平下令，王小洪执行；李克强不会是最后一个（2023年10月28日）</a></li>
 <li><a href="/comments/20231029/1953913.md" target="_blank">维舟的方舟：中国逻辑</a></li>
-<li><a href="/comments/20231029/1953911.md" target="_blank">雷叔说事：取消课间十分钟，图什么？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
 <li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
 
 </ul>
 </div>
