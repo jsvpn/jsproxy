@@ -9,11 +9,11 @@
 <li><a href="/ccpdope/20231030/1954110.md">上海东郊宾馆内幕：让怎么死就怎么死</a></li>
 <li><a href="/ccpdope/20231030/1954153.md">李克强死了 汪洋危矣</a></li>
 <li><a href="/cbnews/20231030/1954136.md">惊爆朱德被干掉内幕 汪洋胡春华瑟瑟发抖【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20231030/1954321.md">大丑闻！李克强这时候的风头也敢抢？【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20231030/1954137.md">太惨！中共局长曝超级重磅猛料 网友高呼下辈子不做中共国人</a></li>
+<li><a href="/topimagenews/20231030/1954321.md">大丑闻！李克强这时候的风头也敢抢？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20231030/1954232.md">【微博精粹】玩弄弱势者 这回玩大了</a></li>
-<li><a href="/baitai/20231030/1954166.md">无声反抗！悼念李克强运动蔓延逾20城 悼词直指当局 警上阵 北京维稳升级</a></li>
 <li><a href="/sohnews/20231030/1954363.md">李克强夫人程虹声明要求尸检，李克强被害真实原因披露，习指示以后绕开司法搞暗害。《老灯开讲第417期》</a></li>
+<li><a href="/baitai/20231030/1954166.md">无声反抗！悼念李克强运动蔓延逾20城 悼词直指当局 警上阵 北京维稳升级</a></li>
 <li><a href="/comments/20231030/1954174.md">上海人冲塔直指习近平：很想你SI！李☹️克☹️强讣告7病句藏猝毙原因？花圈革命蝴蝶翅膀扇起来了？</a></li>
 <li><a href="/topimagenews/20231030/1954231.md">港媒：李克强去世，对北京完全是个“意外”</a></li>
 <li><a href="/cbnews/20231030/1954308.md">悼念李克强，郑州马拉松现场惊现这一幕…</a></li>
@@ -22,12 +22,12 @@
 <li><a href="/ccpdope/20231030/1954214.md">李克强猝逝震动中南海 爆炸性「神秘消息」传出</a></li>
 <li><a href="/topimagenews/20231030/1954265.md">听训模式？拜登见王毅，待遇比照习，端坐中央</a></li>
 <li><a href="/sohnews/20231030/1954128.md">陈破空：政治老人谴责！治丧委员会难产。悲愤悼念李克强，蔓延全国各地！安徽老人痛哭，喊出无数人心声：想不通！直播与互动：美东时间10月29日晚9点、即中港台10月30日早9点</a></li>
-<li><a href="/yule/20231030/1954141.md">章子怡汪峰离婚真实原因曝光 葛斯齐全说了</a></li>
 <li><a href="/cbnews/20231030/1954248.md">〖兲朝浮世绘〗大批民众悼念李克强，骨子里是对习乱执政的不满</a></li>
-<li><a href="/baitai/20231030/1954091.md">反击习近平？拜登为王毅做一罕见安排 北京迟迟不肯敲定拜习会 专家揭背后算计</a></li>
-<li><a href="/comments/20231030/1954209.md">1年前我就预言过李克强死无葬身之地 现在 更坏的消息来了</a></li>
-<li><a href="/ssgc/20231030/1954293.md">李克强去世最大影响</a></li>
+<li><a href="/yule/20231030/1954141.md">章子怡汪峰离婚真实原因曝光 葛斯齐全说了</a></li>
 <li><a href="/sohnews/20231030/1954406.md">李克强讣告暗藏玄机！传反习势力准备接班习……</a></li>
+<li><a href="/topimagenews/20231030/1954436.md">“四不”！传习中央针对李克强治丧事宜做指示【阿波罗网报道】</a></li>
+<li><a href="/ssgc/20231030/1954293.md">李克强去世最大影响</a></li>
+<li><a href="/comments/20231030/1954209.md">1年前我就预言过李克强死无葬身之地 现在 更坏的消息来了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231031/1954505.md" target="_blank">【文韬政论】从香港特首的中国特色施政报告看「奴才政治」</a></li>
 <li><a href="/comments/20231030/1954473.md" target="_blank">以军战车进入加沙 规模比预期小 居民：往南交通要道已切断</a></li>
 <li><a href="/comments/20231030/1954472.md" target="_blank">以军挺进画面曝光 彭博：以色列进攻加沙有3大目标</a></li>
 <li><a href="/comments/20231030/1954471.md" target="_blank">【新闻拍案惊奇】李克强遗体抵京 中共严控悼念 曙光医院抢救“内部照片”曝光</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20231030/1954184.md" target="_blank">天亮时分：李克强生前被剪裙边，家属要求尸检？加沙地面战开始，以色列放出一大招；台湾“蓝白合”协商明日登场，成功几率几何？（政论天下第1145集 20231029）天亮时分</a></li>
 <li><a href="/comments/20231030/1954183.md" target="_blank">【独家重磅】李燕铭：李克强猝死 习近平紧急召开政治局会议 总理李强及两名政治局委员缺席内幕揭秘 习家军陈吉宁坐镇上海 习近平一亲信赶赴上海 中国禁止公开活动一周 高校接到秘密指令 习近平李克强明争暗斗内幕（124） 习近平连任后大清洗（113） 习近平连任与中共末日（178） 李克强猝死深度内幕（4）</a></li>
 <li><a href="/comments/20231030/1954176.md" target="_blank">&#8220;动态清零&#8221;与商鞅&#8221;驭民五术&#8221;</a></li>
-<li><a href="/comments/20231030/1954175.md" target="_blank">维舟：剖析中国逻辑，它支配着中国人的思维</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
 <li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
 
 </ul>
 </div>
