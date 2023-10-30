@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/ccpdope/20231030/1954153.md">李克强死了 汪洋危矣</a></li>
 <li><a href="/baitai/20231030/1954166.md">无声反抗！悼念李克强运动蔓延逾20城 悼词直指当局 警上阵 北京维稳升级</a></li>
 <li><a href="/sohnews/20231030/1954363.md">李克强夫人程虹声明要求尸检，李克强被害真实原因披露，习指示以后绕开司法搞暗害。《老灯开讲第417期》</a></li>
 <li><a href="/topimagenews/20231030/1954232.md">【微博精粹】玩弄弱势者 这回玩大了</a></li>
@@ -13,8 +12,8 @@
 <li><a href="/comments/20231030/1954174.md">上海人冲塔直指习近平：很想你SI！李☹️克☹️强讣告7病句藏猝毙原因？花圈革命蝴蝶翅膀扇起来了？</a></li>
 <li><a href="/topimagenews/20231030/1954436.md">“四不”！传习中央针对李克强治丧事宜做指示【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20231030/1954231.md">港媒：李克强去世，对北京完全是个“意外”</a></li>
-<li><a href="/sohnews/20231030/1954406.md">李克强讣告暗藏玄机！传反习势力准备接班习……</a></li>
 <li><a href="/sohnews/20231030/1954238.md">20231030直播：李克强后事从简？热文：我为什么如此悲愤；以色列最新进展：六公里桥头堡、网格化、联合国；拜习峰会还有变数，中国再一次错过历史机遇。（20231030 第1314期）</a></li>
+<li><a href="/sohnews/20231030/1954406.md">李克强讣告暗藏玄机！传反习势力准备接班习……</a></li>
 <li><a href="/cbnews/20231030/1954308.md">悼念李克强，郑州马拉松现场惊现这一幕…</a></li>
 <li><a href="/comments/20231030/1954344.md">李克强走了 习近平時日不多了</a></li>
 <li><a href="/ccpdope/20231030/1954214.md">李克强猝逝震动中南海 爆炸性「神秘消息」传出</a></li>
@@ -22,11 +21,12 @@
 <li><a href="/topimagenews/20231030/1954434.md">对习近平太不吉利 王毅要倒霉？【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20231030/1954248.md">〖兲朝浮世绘〗大批民众悼念李克强，骨子里是对习乱执政的不满</a></li>
 <li><a href="/ssgc/20231030/1954293.md">李克强去世最大影响</a></li>
+<li><a href="/cnnews/20231031/1954501.md">李克强猝死 激起民愤 法制江西罕见发声 怒斥极权专制没有人性【阿波罗网报道】</a></li>
 <li><a href="/comments/20231030/1954209.md">1年前我就预言过李克强死无葬身之地 现在 更坏的消息来了</a></li>
 <li><a href="/cbnews/20231030/1954302.md">出重手！习近平亲自部署“清算富士康”原因曝光</a></li>
-<li><a href="/cnnews/20231031/1954501.md">李克强猝死 激起民愤 法制江西罕见发声 怒斥极权专制没有人性【阿波罗网报道】</a></li>
 <li><a href="/baitai/20231030/1954360.md">不祥之兆？活人换死人 传拜登哀悼李克强 官媒窜改成对习问候</a></li>
 <li><a href="/comments/20231030/1954184.md">天亮时分：李克强生前被剪裙边，家属要求尸检？加沙地面战开始，以色列放出一大招；台湾“蓝白合”协商明日登场，成功几率几何？（政论天下第1145集 20231029）天亮时分</a></li>
+<li><a href="/baitai/20231030/1954368.md">习想当世界「霸主」？北京香山论坛开幕 两军委副主席出席释不妙信号</a></li>
 <li><a href="/comments/20231030/1954394.md">应了千年预言：此劫遇国难，改朝换代？！任何朝代都躲不过去！只要熬过2025年，好日子就来了⋯⋯｜ #未解之谜 扶摇</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231031/1954624.md" target="_blank">【全文翻译】值得再看一遍！迈克·约翰逊风趣、感人、犀利、又充满敬畏的演讲。#众议院议长 #约翰逊 #就职演讲</a></li>
+<li><a href="/cbnews/20231031/1954614.md" target="_blank">中美渐行渐远，未来几周图穷匕见？</a></li>
+<li><a href="/cbnews/20231031/1954613.md" target="_blank">抗命习中央！中国大厂明年除夕放假：不占用年假额度</a></li>
 <li><a href="/cbnews/20231031/1954596.md" target="_blank">美国思想领袖：迈克‧约翰逊是谁？他的理念和立场对美国会产生哪些影响？</a></li>
 <li><a href="/cbnews/20231031/1954590.md" target="_blank">美国思想领袖：【精彩片段】具美国建国先父脉络的人回来了？美国新议长约翰逊提出哪些理念？- #新闻大家谈</a></li>
 <li><a href="/cbnews/20231031/1954589.md" target="_blank">美国思想领袖：【精彩片段】换下麦卡锡 民主党失算 美国国会正面临哪些重大国际事务？- #新闻大家谈</a></li>
@@ -57,15 +60,13 @@
 <li><a href="/cbnews/20231030/1954272.md" target="_blank">李克强逝世：高校严防学生聚集 合肥郑州民众哀悼</a></li>
 <li><a href="/cbnews/20231030/1954266.md" target="_blank">疑心太强！李克强逝世，诸多“相关”话题下架…</a></li>
 <li><a href="/comments/20231030/1954250.md" target="_blank">联邦政府去年大亏损 这样下去怎么办？【方伟时间-20231029】</a></li>
-<li><a href="/cbnews/20231030/1954248.md" target="_blank">〖兲朝浮世绘〗大批民众悼念李克强，骨子里是对习乱执政的不满</a></li>
-<li><a href="/cbnews/20231030/1954239.md" target="_blank">江峰：斯大林为何不帮毛打台湾</a></li>
-<li><a href="/cbnews/20231030/1954144.md" target="_blank">江峰：纽森访华 失散兄弟重逢</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20231031/1954612.md" target="_blank">突发！加拿大宣布政府设备禁用微信</a></li>
 <li><a href="/topimagenews/20231030/1954436.md" target="_blank">“四不”！传习中央针对李克强治丧事宜做指示【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20231030/1954435.md" target="_blank">外媒：北京追责 大陆金融与银行界官员面临大规模整肃</a></li>
 <li><a href="/topimagenews/20231030/1954434.md" target="_blank">对习近平太不吉利 王毅要倒霉？【阿波罗网报道】</a></li>
@@ -90,13 +91,14 @@
 <li><a href="/topimagenews/20231029/1953878.md" target="_blank">北京市区万车齐鸣 名为迎接李克强 实为对当局发泄不满【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20231029/1953869.md" target="_blank">防六四再现 中共禁止公开活动一周 港媒曝李克强丧礼细节</a></li>
 <li><a href="/topimagenews/20231029/1953857.md" target="_blank">3邻国战火烧到边境! 惊觉苗头不对 北京着急</a></li>
-<li><a href="/topimagenews/20231029/1953856.md" target="_blank">习近平对李克强恨之入骨？这是证据【阿波罗网报道】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231031/1954624.md" target="_blank">【全文翻译】值得再看一遍！迈克·约翰逊风趣、感人、犀利、又充满敬畏的演讲。#众议院议长 #约翰逊 #就职演讲</a></li>
+<li><a href="/comments/20231031/1954610.md" target="_blank">文昭：民间悼念李克强，能带来什麽後果？不管愿意否，连锁反应已经启动&#8230;</a></li>
 <li><a href="/comments/20231031/1954549.md" target="_blank">孙中山预言1970年红羊劫</a></li>
 <li><a href="/comments/20231031/1954548.md" target="_blank">柴望赤马红羊劫</a></li>
 <li><a href="/comments/20231031/1954547.md" target="_blank">劫难本来可以避免？</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20231030/1954242.md" target="_blank">深度：为什么美国枪支问题如此独特而持久？</a></li>
 <li><a href="/comments/20231030/1954211.md" target="_blank">杜政：李克强生前被“剪裙边” 习近平、李强联手施压</a></li>
 <li><a href="/comments/20231030/1954210.md" target="_blank">汤名晖：李克强去世最大影响──“习核心”走向下个五年</a></li>
-<li><a href="/comments/20231030/1954209.md" target="_blank">1年前我就预言过李克强死无葬身之地 现在 更坏的消息来了</a></li>
-<li><a href="/comments/20231030/1954192.md" target="_blank">洪耀南：李克强之死和班禅、胡耀邦一样会有很多传说</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
 <li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
 
 </ul>
 </div>
