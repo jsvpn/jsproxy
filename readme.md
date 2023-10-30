@@ -9,25 +9,25 @@
 <li><a href="/topimagenews/20231029/1953934.md">港媒惊曝李克强在东郊宾馆就过世 曾接受搭桥手术</a></li>
 <li><a href="/topimagenews/20231029/1954015.md">李克强去世早有预兆？中共还有大事发生？【阿波罗网报道】</a></li>
 <li><a href="/ccpdope/20231029/1953971.md">内斗激烈 传李克强猝死前被软禁在上海</a></li>
-<li><a href="/cbnews/20231029/1953975.md">南方都市报头版刊李克强讣告 配图是好大一棵树</a></li>
 <li><a href="/baitai/20231029/1954045.md">《红色赌盘》作者爆料习李健康状况和李克强死因</a></li>
+<li><a href="/cbnews/20231029/1953975.md">南方都市报头版刊李克强讣告 配图是好大一棵树</a></li>
 <li><a href="/baitai/20231029/1954053.md">民众悼念李克强事态不断扩大 当局如临大敌 严控天安门广场</a></li>
 <li><a href="/cbnews/20231029/1953935.md">白宫声明，中国官方隐去一点只字不提</a></li>
 <li><a href="/topimagenews/20231029/1954064.md">李克强“游泳死”可能性不大 是氰化物引起的？【阿波罗网报道】</a></li>
-<li><a href="/sohnews/20231029/1954076.md">“李克强‘以死反党’ 习办通知：体制内所有人‘不言不闻 不传不闻‘”No.02（10/29/23）</a></li>
 <li><a href="/comments/20231029/1954070.md">惊悚！李克强蔡奇李尚福和秦刚，被一根因果链条穿在一起</a></li>
-<li><a href="/sohnews/20231029/1953983.md">曙光医院抢救“内部照片”曝光！医护穿白大褂列成一队；合肥郑州现悼念人潮，高喊口号！中共严控悼念，防变！令高校“厕所”都要监控；俄爹也出事了？“替身”疑似曝光｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/sohnews/20231029/1954076.md">“李克强‘以死反党’ 习办通知：体制内所有人‘不言不闻 不传不闻‘”No.02（10/29/23）</a></li>
 <li><a href="/ccpdope/20231030/1954110.md">上海东郊宾馆内幕：让怎么死就怎么死</a></li>
 <li><a href="/baitai/20231030/1954124.md">官民冰火两重天 网爆李克强葬礼安排 令人唏嘘不已 民借悼念发泄不满</a></li>
-<li><a href="/comments/20231029/1953920.md">天亮时分：李克强被人下毒？习近平两大招更可怕；李故居成花海，会引发政治风暴吗？香山论坛中共尴尬，中央军委副主席出面（政论天下第1144集 20231027）天亮时分</a></li>
-<li><a href="/cnnews/20231029/1953987.md">他骂了半辈子美国，最后却带着全家移民美国</a></li>
-<li><a href="/ccpdope/20231029/1954083.md">李克强当年差点上江泽民的当</a></li>
-<li><a href="/ccpdope/20231029/1953931.md">网传李克强灵车在上海曙光医院布置细节</a></li>
+<li><a href="/sohnews/20231029/1953983.md">曙光医院抢救“内部照片”曝光！医护穿白大褂列成一队；合肥郑州现悼念人潮，高喊口号！中共严控悼念，防变！令高校“厕所”都要监控；俄爹也出事了？“替身”疑似曝光｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/cbnews/20231030/1954136.md">惊爆朱德被干掉内幕 汪洋胡春华瑟瑟发抖【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20231029/1953987.md">他骂了半辈子美国，最后却带着全家移民美国</a></li>
+<li><a href="/ccpdope/20231029/1953931.md">网传李克强灵车在上海曙光医院布置细节</a></li>
+<li><a href="/ccpdope/20231029/1954083.md">李克强当年差点上江泽民的当</a></li>
 <li><a href="/yule/20231029/1953949.md">一代女神，被前夫发疯手撕了</a></li>
 <li><a href="/cbnews/20231029/1954058.md">习近平最新政治投资 这个赌注太大了【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20231029/1953930.md">〖微博谈〗人之常情，不必苛责</a></li>
 <li><a href="/cbnews/20231030/1954137.md">太惨！中共局长曝超级重磅猛料 网友高呼下辈子不做中共国人</a></li>
+<li><a href="/ccpdope/20231030/1954153.md">李克强死了 汪洋危矣</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231030/1954243.md" target="_blank">李克强：改革开放的最后殉道者</a></li>
+<li><a href="/comments/20231030/1954242.md" target="_blank">深度：为什么美国枪支问题如此独特而持久？</a></li>
 <li><a href="/comments/20231030/1954211.md" target="_blank">杜政：李克强生前被“剪裙边” 习近平、李强联手施压</a></li>
 <li><a href="/comments/20231030/1954210.md" target="_blank">汤名晖：李克强去世最大影响──“习核心”走向下个五年</a></li>
 <li><a href="/comments/20231030/1954209.md" target="_blank">1年前我就预言过李克强死无葬身之地 现在 更坏的消息来了</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20231029/1953913.md" target="_blank">维舟的方舟：中国逻辑</a></li>
 <li><a href="/comments/20231029/1953911.md" target="_blank">雷叔说事：取消课间十分钟，图什么？</a></li>
 <li><a href="/comments/20231029/1953910.md" target="_blank">【杰森视角】以色列明确展现地面战策略！美国已失去军事威慑力？李克强和许家印为习近平摆了两个局！习近平：宁可让经济放缓也要抓官员！马斯克因担心人类未来而当众哽咽！习近平为何突然渴望11月和拜登见面？</a></li>
-<li><a href="/comments/20231029/1953905.md" target="_blank">404文：经济观察报：中国将推动新一轮“房改”</a></li>
-<li><a href="/comments/20231029/1953904.md" target="_blank">沈舟：美军增援中东 第四代战机物超所值</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
 <li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
 
 </ul>
 </div>
