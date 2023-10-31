@@ -16,18 +16,18 @@
 <li><a href="/topimagenews/20231030/1954434.md">对习近平太不吉利 王毅要倒霉？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20231031/1954630.md">李克强离世，北京出现连串怪事【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20231031/1954501.md">李克强猝死 激起民愤 法制江西罕见发声 怒斥极权专制没有人性【阿波罗网报道】</a></li>
-<li><a href="/ssgc/20231030/1954293.md">李克强去世最大影响</a></li>
 <li><a href="/cbnews/20231030/1954302.md">出重手！习近平亲自部署“清算富士康”原因曝光</a></li>
 <li><a href="/cnnews/20231031/1954576.md">中共一位老党员致信中央 要求彻查李克强死因 给人民一个交代【阿波罗网报道】</a></li>
 <li><a href="/baitai/20231030/1954360.md">不祥之兆？活人换死人 传拜登哀悼李克强 官媒窜改成对习问候</a></li>
+<li><a href="/cnnews/20231031/1954616.md">怕了！央视紧急叫停《守望者》，两集下架引发舆论热议</a></li>
 <li><a href="/ssgc/20231030/1954427.md">李克强之死的五大疑点</a></li>
+<li><a href="/sohnews/20231031/1954628.md">李K强诡异治丧安排曝光，新华记者公开吁尸检；哈M斯猪队友，曝出中俄算盘；以军封锁撤离公路要总攻？</a></li>
 <li><a href="/comments/20231030/1954394.md">应了千年预言：此劫遇国难，改朝换代？！任何朝代都躲不过去！只要熬过2025年，好日子就来了⋯⋯｜ #未解之谜 扶摇</a></li>
 <li><a href="/baitai/20231030/1954368.md">习想当世界「霸主」？北京香山论坛开幕 两军委副主席出席释不妙信号</a></li>
-<li><a href="/cnnews/20231031/1954616.md">怕了！央视紧急叫停《守望者》，两集下架引发舆论热议</a></li>
 <li><a href="/topimagenews/20231030/1954435.md">外媒：北京追责 大陆金融与银行界官员面临大规模整肃</a></li>
-<li><a href="/sohnews/20231031/1954628.md">李K强诡异治丧安排曝光，新华记者公开吁尸检；哈M斯猪队友，曝出中俄算盘；以军封锁撤离公路要总攻？</a></li>
 <li><a href="/headline/20231030/1954374.md">聿文视界：李克强之死与习近平的政治风险</a></li>
 <li><a href="/ccpdope/20231030/1954469.md">死因成谜的不只李克强 还有三高官</a></li>
+<li><a href="/topimagenews/20231030/1954354.md">美军有口福了 反制中共禁日本海鲜！已采买的扇贝 美军准备吃了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20231031/1954776.md" target="_blank">中国民众自发“悼李克强”矢板明夫：发泄对昏君的不满才是真正目的</a></li>
+<li><a href="/comments/20231031/1954774.md" target="_blank">齐奥塞斯库的最后一次演说：政权崩溃只因一声呐喊</a></li>
 <li><a href="/cbnews/20231031/1954747.md" target="_blank">李克强死疑团重重 官方称遗体11月2日火化</a></li>
 <li><a href="/cbnews/20231031/1954735.md" target="_blank">〖兲朝浮世绘〗中国党媒是反贼啊 这是祝习总早日薨逝？</a></li>
 <li><a href="/cbnews/20231031/1954733.md" target="_blank">江峰：消灭证据？当局要火化，李克强家属要第三方S检，大国总理不能S得不清不楚！北京气氛紧张，追悼大会或“丧事从简”都是导火索，习难脱责；拜登悼词变祝福，谁给习晦气？【江峰漫谈20231030第758期】</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20231030/1954417.md" target="_blank">8名前军官涉刺探潜舰遭卡达判死 印度外长：全力营救</a></li>
 <li><a href="/comments/20231030/1954394.md" target="_blank">应了千年预言：此劫遇国难，改朝换代？！任何朝代都躲不过去！只要熬过2025年，好日子就来了⋯⋯｜ #未解之谜 扶摇</a></li>
 <li><a href="/comments/20231030/1954385.md" target="_blank">揭开约翰逊竞选议长的秘密。雷厉风行，新议长首次出行，公布第一议程。#众议院议长 #约翰逊 #以色列</a></li>
-<li><a href="/cbnews/20231030/1954322.md" target="_blank">震惊！中共处分中纪委9个月40.5万人 省级以上干部34人</a></li>
-<li><a href="/cbnews/20231030/1954308.md" target="_blank">悼念李克强，郑州马拉松现场惊现这一幕…</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231031/1954774.md" target="_blank">齐奥塞斯库的最后一次演说：政权崩溃只因一声呐喊</a></li>
 <li><a href="/comments/20231031/1954736.md" target="_blank">【独家重磅】李燕铭：李克强母校北京大学58名教授与4名外籍客座教授密集病亡 包括李克强导师及一名院士 瘟疫重创中共发源地 一名前政治局常委夫人染疫病亡 习近平连任与中共末日（179） 中共末日之病毒亡共（43） 李克强猝死深度内幕（5）</a></li>
 <li><a href="/comments/20231031/1954681.md" target="_blank">天亮时分：若李克强死於暗杀，政变就已迫在眉睫；清算富士康，郭台铭卷入反习阵营？习近平集权，为何没人拦得住？（政论天下第1146集 20231030）天亮时分</a></li>
 <li><a href="/comments/20231031/1954671.md" target="_blank">杨宏基：一艘快要解体的军舰…游走两强之间 菲律宾最小损失最大利益</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20231030/1954396.md" target="_blank">尴尬！中共在国防部长缺席下启动香山论坛</a></li>
 <li><a href="/comments/20231030/1954394.md" target="_blank">应了千年预言：此劫遇国难，改朝换代？！任何朝代都躲不过去！只要熬过2025年，好日子就来了⋯⋯｜ #未解之谜 扶摇</a></li>
 <li><a href="/comments/20231030/1954385.md" target="_blank">揭开约翰逊竞选议长的秘密。雷厉风行，新议长首次出行，公布第一议程。#众议院议长 #约翰逊 #以色列</a></li>
-<li><a href="/comments/20231030/1954344.md" target="_blank">李克强走了 习近平時日不多了</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
 <li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
+<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
 <li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
 <li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
 
 </ul>
 </div>
