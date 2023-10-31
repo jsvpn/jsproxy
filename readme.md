@@ -5,14 +5,13 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/sohnews/20231031/1954609.md">陈破空：惊传三万军队包围北京？上海成都突然封路！部分共产党人发表公开信：要求查明真相！江西政法委怒而造反。合肥祭拜突破三百万。直播与互动：美东时间10月30日晚8点30、即中港台10月31日早8点30</a></li>
 <li><a href="/topimagenews/20231031/1954630.md">李克强离世，北京出现连串怪事【阿波罗网报道】</a></li>
 <li><a href="/baitai/20231031/1954926.md">李克强亲友曝内情 习陷入大麻烦</a></li>
-<li><a href="/cnnews/20231031/1954616.md">怕了！央视紧急叫停《守望者》，两集下架引发舆论热议</a></li>
 <li><a href="/cbnews/20231031/1954792.md">习近平下手了？开始清场悼念李克强民众 有几个人被抓【阿波罗网】</a></li>
+<li><a href="/cnnews/20231031/1954616.md">怕了！央视紧急叫停《守望者》，两集下架引发舆论热议</a></li>
 <li><a href="/comments/20231031/1954643.md">要出大事：手捧包子悼念李☹️克☹️强！20城鲜花革命赶超追悼会，习近平再入塔西陀陷阱</a></li>
-<li><a href="/topimagenews/20231031/1954726.md">大萧条 已经是板上钉钉的事情</a></li>
 <li><a href="/comments/20231031/1954736.md">【独家重磅】李燕铭：李克强母校北京大学58名教授与4名外籍客座教授密集病亡 包括李克强导师及一名院士 瘟疫重创中共发源地 一名前政治局常委夫人染疫病亡 习近平连任与中共末日（179） 中共末日之病毒亡共（43） 李克强猝死深度内幕（5）</a></li>
+<li><a href="/topimagenews/20231031/1954726.md">大萧条 已经是板上钉钉的事情</a></li>
 <li><a href="/sohnews/20231031/1954887.md">🧨最新爆料: 李克强生前失联2个月, 被骗去上海遭软禁?! 李克强死前受中南海警卫局安保, 生命垂危之际, 警卫等待习指示, 耽误了最佳救治时间?! 李之死让习重新确立党内寿命规则!【311023】</a></li>
 <li><a href="/sohnews/20231031/1954628.md">李K强诡异治丧安排曝光，新华记者公开吁尸检；哈M斯猪队友，曝出中俄算盘；以军封锁撤离公路要总攻？</a></li>
 <li><a href="/cbnews/20231031/1954733.md">江峰：消灭证据？当局要火化，李克强家属要第三方S检，大国总理不能S得不清不楚！北京气氛紧张，追悼大会或“丧事从简”都是导火索，习难脱责；拜登悼词变祝福，谁给习晦气？【江峰漫谈20231030第758期】</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/cnnews/20231031/1954866.md">上海民众万圣节玩嗨了Cosplay成大型“辱包”现场</a></li>
 <li><a href="/cnnews/20231031/1954879.md">最新官宣：李克强2日火化 只字不提3件事 几大异常【阿波罗网报道】</a></li>
 <li><a href="/worldnews/20231031/1954837.md">越演越烈 中菲首次正规军冲突</a></li>
+<li><a href="/sohnews/20231031/1954921.md">一年前预测李克强将死，如今再预测习近平时日不多⋯⋯</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231101/1955109.md" target="_blank">文昭：李克强之死是一个强烈信号，随后我们会看到这些事&#8230;</a></li>
 <li><a href="/comments/20231101/1955102.md" target="_blank">周晓辉： 中共刻意淡化李克强之死为哪般</a></li>
 <li><a href="/comments/20231101/1955100.md" target="_blank">袁斌：李克强，中南海里的“铁链男”</a></li>
 <li><a href="/comments/20231101/1955099.md" target="_blank">网海拾贝:传说李克强丧事从简，中共究竟恐惧什么？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20231031/1954670.md" target="_blank">加密禅师：独立思考的第一步：如何区分“观点“与“事实”?</a></li>
 <li><a href="/comments/20231031/1954669.md" target="_blank">吴奕军：中共利用冲绳问题分化日本由来已久</a></li>
 <li><a href="/comments/20231031/1954668.md" target="_blank">李克强之死引起舆论暴动：中国人的“哀悼政治”</a></li>
-<li><a href="/comments/20231031/1954647.md" target="_blank">李克强之死 会不会化成一只来袭的黑天鹅</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
 <li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
 <li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
-<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
 
 </ul>
 </div>
