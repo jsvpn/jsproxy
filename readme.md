@@ -6,13 +6,10 @@
 <ul>
 
 <li><a href="/sohnews/20231030/1954363.md">李克强夫人程虹声明要求尸检，李克强被害真实原因披露，习指示以后绕开司法搞暗害。《老灯开讲第417期》</a></li>
-<li><a href="/topimagenews/20231030/1954232.md">【微博精粹】玩弄弱势者 这回玩大了</a></li>
 <li><a href="/topimagenews/20231030/1954321.md">大丑闻！李克强这时候的风头也敢抢？【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20231030/1954231.md">港媒：李克强去世，对北京完全是个“意外”</a></li>
 <li><a href="/topimagenews/20231030/1954436.md">“四不”！传习中央针对李克强治丧事宜做指示【阿波罗网报道】</a></li>
-<li><a href="/sohnews/20231030/1954238.md">20231030直播：李克强后事从简？热文：我为什么如此悲愤；以色列最新进展：六公里桥头堡、网格化、联合国；拜习峰会还有变数，中国再一次错过历史机遇。（20231030 第1314期）</a></li>
-<li><a href="/ccpdope/20231030/1954214.md">李克强猝逝震动中南海 爆炸性「神秘消息」传出</a></li>
 <li><a href="/cbnews/20231030/1954308.md">悼念李克强，郑州马拉松现场惊现这一幕…</a></li>
+<li><a href="/sohnews/20231030/1954238.md">20231030直播：李克强后事从简？热文：我为什么如此悲愤；以色列最新进展：六公里桥头堡、网格化、联合国；拜习峰会还有变数，中国再一次错过历史机遇。（20231030 第1314期）</a></li>
 <li><a href="/sohnews/20231030/1954406.md">李克强讣告暗藏玄机！传反习势力准备接班习……</a></li>
 <li><a href="/comments/20231030/1954344.md">李克强走了 习近平時日不多了</a></li>
 <li><a href="/baitai/20231031/1954580.md">李克强死后 传反习派密谋夺权登大位 废太子胡春华对习近平威胁更大？</a></li>
@@ -27,7 +24,10 @@
 <li><a href="/comments/20231030/1954394.md">应了千年预言：此劫遇国难，改朝换代？！任何朝代都躲不过去！只要熬过2025年，好日子就来了⋯⋯｜ #未解之谜 扶摇</a></li>
 <li><a href="/baitai/20231030/1954368.md">习想当世界「霸主」？北京香山论坛开幕 两军委副主席出席释不妙信号</a></li>
 <li><a href="/topimagenews/20231030/1954435.md">外媒：北京追责 大陆金融与银行界官员面临大规模整肃</a></li>
+<li><a href="/cnnews/20231031/1954576.md">中共一位老党员致信中央 要求彻查李克强死因 给人民一个交代【阿波罗网报道】</a></li>
 <li><a href="/headline/20231030/1954374.md">聿文视界：李克强之死与习近平的政治风险</a></li>
+<li><a href="/sohnews/20231031/1954609.md">陈破空：惊传三万军队包围北京？上海成都突然封路！部分共产党人发表公开信：要求查明真相！江西政法委怒而造反。合肥祭拜突破三百万。直播与互动：美东时间10月30日晚8点30、即中港台10月31日早8点30</a></li>
+<li><a href="/topimagenews/20231030/1954354.md">美军有口福了 反制中共禁日本海鲜！已采买的扇贝 美军准备吃了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
 
 </ul>
 </div>
