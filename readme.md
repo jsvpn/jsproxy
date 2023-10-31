@@ -16,8 +16,8 @@
 <li><a href="/topimagenews/20231031/1954726.md">大萧条 已经是板上钉钉的事情</a></li>
 <li><a href="/ssgc/20231030/1954427.md">李克强之死的五大疑点</a></li>
 <li><a href="/cnnews/20231031/1954616.md">怕了！央视紧急叫停《守望者》，两集下架引发舆论热议</a></li>
-<li><a href="/sohnews/20231031/1954628.md">李K强诡异治丧安排曝光，新华记者公开吁尸检；哈M斯猪队友，曝出中俄算盘；以军封锁撤离公路要总攻？</a></li>
 <li><a href="/comments/20231031/1954736.md">【独家重磅】李燕铭：李克强母校北京大学58名教授与4名外籍客座教授密集病亡 包括李克强导师及一名院士 瘟疫重创中共发源地 一名前政治局常委夫人染疫病亡 习近平连任与中共末日（179） 中共末日之病毒亡共（43） 李克强猝死深度内幕（5）</a></li>
+<li><a href="/sohnews/20231031/1954628.md">李K强诡异治丧安排曝光，新华记者公开吁尸检；哈M斯猪队友，曝出中俄算盘；以军封锁撤离公路要总攻？</a></li>
 <li><a href="/comments/20231031/1954643.md">要出大事：手捧包子悼念李☹️克☹️强！20城鲜花革命赶超追悼会，习近平再入塔西陀陷阱</a></li>
 <li><a href="/comments/20231030/1954394.md">应了千年预言：此劫遇国难，改朝换代？！任何朝代都躲不过去！只要熬过2025年，好日子就来了⋯⋯｜ #未解之谜 扶摇</a></li>
 <li><a href="/cbnews/20231031/1954733.md">江峰：消灭证据？当局要火化，李克强家属要第三方S检，大国总理不能S得不清不楚！北京气氛紧张，追悼大会或“丧事从简”都是导火索，习难脱责；拜登悼词变祝福，谁给习晦气？【江峰漫谈20231030第758期】</a></li>
@@ -25,8 +25,8 @@
 <li><a href="/cbnews/20231031/1954631.md">自发悼念李克强活动受限 成都民众竟被警察带走</a></li>
 <li><a href="/topimagenews/20231031/1954701.md">【微博精粹】别以为中国人只知道盼青天</a></li>
 <li><a href="/ccpdope/20231030/1954469.md">死因成谜的不只李克强 还有三高官</a></li>
-<li><a href="/headline/20231030/1954374.md">聿文视界：李克强之死与习近平的政治风险</a></li>
-<li><a href="/sohnews/20231030/1954404.md">习近平为啥要 取消除夕 激怒民怨？｜世界的十字路口 唐浩</a></li>
+<li><a href="/cbnews/20231031/1954792.md">习近平下手了？开始清场悼念李克强民众 有几个人被抓【阿波罗网】</a></li>
+<li><a href="/cbnews/20231031/1954735.md">〖兲朝浮世绘〗中国党媒是反贼啊 这是祝习总早日薨逝？</a></li>
 <li><a href="/baitai/20231031/1954605.md">恒大歌舞团团长白珊珊报警辟谣 与许家印之间隐藏着怎样的情感纠葛？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231031/1954893.md" target="_blank">约翰逊给拜登“送大礼”，以律师的方式加速弹劾调查。决定改变议长罢免规则。左翼法官再次对川普下达禁言令，左媒都看不下去了。#禁言令 #弹劾调查 #约翰逊</a></li>
 <li><a href="/cbnews/20231031/1954836.md" target="_blank">北京为何不向这里大撒币了</a></li>
 <li><a href="/cbnews/20231031/1954816.md" target="_blank">门槛那么低 上海过个万圣节就崇洋媚外了？</a></li>
 <li><a href="/cbnews/20231031/1954792.md" target="_blank">习近平下手了？开始清场悼念李克强民众 有几个人被抓【阿波罗网】</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20231031/1954546.md" target="_blank">劫非劫？！</a></li>
 <li><a href="/cbnews/20231030/1954492.md" target="_blank">调查电话答“非常满意” 村干奖200元…出事了</a></li>
 <li><a href="/cbnews/20231030/1954491.md" target="_blank">豆腐渣工程？中国大妈健身做后仰动作竟将石护栏拉断</a></li>
-<li><a href="/cbnews/20231030/1954426.md" target="_blank">香山论坛中俄唱和 张又侠暗批美国 专家解读</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231031/1954893.md" target="_blank">约翰逊给拜登“送大礼”，以律师的方式加速弹劾调查。决定改变议长罢免规则。左翼法官再次对川普下达禁言令，左媒都看不下去了。#禁言令 #弹劾调查 #约翰逊</a></li>
 <li><a href="/comments/20231031/1954774.md" target="_blank">齐奥塞斯库的最后一次演说：政权崩溃只因一声呐喊</a></li>
 <li><a href="/comments/20231031/1954736.md" target="_blank">【独家重磅】李燕铭：李克强母校北京大学58名教授与4名外籍客座教授密集病亡 包括李克强导师及一名院士 瘟疫重创中共发源地 一名前政治局常委夫人染疫病亡 习近平连任与中共末日（179） 中共末日之病毒亡共（43） 李克强猝死深度内幕（5）</a></li>
 <li><a href="/comments/20231031/1954681.md" target="_blank">天亮时分：若李克强死於暗杀，政变就已迫在眉睫；清算富士康，郭台铭卷入反习阵营？习近平集权，为何没人拦得住？（政论天下第1146集 20231030）天亮时分</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20231030/1954438.md" target="_blank">以色列加大地面攻势猛烈空袭加沙北部国际社会疾呼保护平民</a></li>
 <li><a href="/comments/20231030/1954396.md" target="_blank">尴尬！中共在国防部长缺席下启动香山论坛</a></li>
 <li><a href="/comments/20231030/1954394.md" target="_blank">应了千年预言：此劫遇国难，改朝换代？！任何朝代都躲不过去！只要熬过2025年，好日子就来了⋯⋯｜ #未解之谜 扶摇</a></li>
-<li><a href="/comments/20231030/1954385.md" target="_blank">揭开约翰逊竞选议长的秘密。雷厉风行，新议长首次出行，公布第一议程。#众议院议长 #约翰逊 #以色列</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
 <li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
 <li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
 <li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20230920/1936271.md" target="_blank">防止你的孩子不成功（5） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
 
 </ul>
 </div>
