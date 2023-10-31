@@ -8,26 +8,26 @@
 <li><a href="/sohnews/20231030/1954363.md">李克强夫人程虹声明要求尸检，李克强被害真实原因披露，习指示以后绕开司法搞暗害。《老灯开讲第417期》</a></li>
 <li><a href="/topimagenews/20231030/1954232.md">【微博精粹】玩弄弱势者 这回玩大了</a></li>
 <li><a href="/topimagenews/20231030/1954321.md">大丑闻！李克强这时候的风头也敢抢？【阿波罗网报道】</a></li>
-<li><a href="/comments/20231030/1954174.md">上海人冲塔直指习近平：很想你SI！李☹️克☹️强讣告7病句藏猝毙原因？花圈革命蝴蝶翅膀扇起来了？</a></li>
 <li><a href="/topimagenews/20231030/1954436.md">“四不”！传习中央针对李克强治丧事宜做指示【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20231030/1954231.md">港媒：李克强去世，对北京完全是个“意外”</a></li>
 <li><a href="/sohnews/20231030/1954238.md">20231030直播：李克强后事从简？热文：我为什么如此悲愤；以色列最新进展：六公里桥头堡、网格化、联合国；拜习峰会还有变数，中国再一次错过历史机遇。（20231030 第1314期）</a></li>
-<li><a href="/sohnews/20231030/1954406.md">李克强讣告暗藏玄机！传反习势力准备接班习……</a></li>
 <li><a href="/cbnews/20231030/1954308.md">悼念李克强，郑州马拉松现场惊现这一幕…</a></li>
+<li><a href="/sohnews/20231030/1954406.md">李克强讣告暗藏玄机！传反习势力准备接班习……</a></li>
 <li><a href="/comments/20231030/1954344.md">李克强走了 习近平時日不多了</a></li>
 <li><a href="/ccpdope/20231030/1954214.md">李克强猝逝震动中南海 爆炸性「神秘消息」传出</a></li>
 <li><a href="/topimagenews/20231030/1954265.md">听训模式？拜登见王毅，待遇比照习，端坐中央</a></li>
 <li><a href="/topimagenews/20231030/1954434.md">对习近平太不吉利 王毅要倒霉？【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20231030/1954248.md">〖兲朝浮世绘〗大批民众悼念李克强，骨子里是对习乱执政的不满</a></li>
-<li><a href="/ssgc/20231030/1954293.md">李克强去世最大影响</a></li>
 <li><a href="/cnnews/20231031/1954501.md">李克强猝死 激起民愤 法制江西罕见发声 怒斥极权专制没有人性【阿波罗网报道】</a></li>
+<li><a href="/baitai/20231031/1954580.md">李克强死后 传反习派密谋夺权登大位 废太子胡春华对习近平威胁更大？</a></li>
+<li><a href="/ssgc/20231030/1954293.md">李克强去世最大影响</a></li>
 <li><a href="/comments/20231030/1954209.md">1年前我就预言过李克强死无葬身之地 现在 更坏的消息来了</a></li>
 <li><a href="/cbnews/20231030/1954302.md">出重手！习近平亲自部署“清算富士康”原因曝光</a></li>
-<li><a href="/baitai/20231031/1954580.md">李克强死后 传反习派密谋夺权登大位 废太子胡春华对习近平威胁更大？</a></li>
 <li><a href="/baitai/20231030/1954360.md">不祥之兆？活人换死人 传拜登哀悼李克强 官媒窜改成对习问候</a></li>
-<li><a href="/comments/20231030/1954184.md">天亮时分：李克强生前被剪裙边，家属要求尸检？加沙地面战开始，以色列放出一大招；台湾“蓝白合”协商明日登场，成功几率几何？（政论天下第1145集 20231029）天亮时分</a></li>
 <li><a href="/comments/20231030/1954394.md">应了千年预言：此劫遇国难，改朝换代？！任何朝代都躲不过去！只要熬过2025年，好日子就来了⋯⋯｜ #未解之谜 扶摇</a></li>
+<li><a href="/comments/20231030/1954184.md">天亮时分：李克强生前被剪裙边，家属要求尸检？加沙地面战开始，以色列放出一大招；台湾“蓝白合”协商明日登场，成功几率几何？（政论天下第1145集 20231029）天亮时分</a></li>
 <li><a href="/baitai/20231030/1954368.md">习想当世界「霸主」？北京香山论坛开幕 两军委副主席出席释不妙信号</a></li>
+<li><a href="/ssgc/20231030/1954427.md">李克强之死的五大疑点</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231031/1954647.md" target="_blank">李克强之死 会不会化成一只来袭的黑天鹅</a></li>
+<li><a href="/comments/20231031/1954643.md" target="_blank">要出大事：手捧包子悼念李☹️克☹️强！20城鲜花革命赶超追悼会，习近平再入塔西陀陷阱</a></li>
 <li><a href="/comments/20231031/1954636.md" target="_blank">VideoFile 1体制内人公开信要求调查李克强死因！舆情汹涌，习近平当局会如何应对？｜唐靖远 方菲 ｜新闻烽火台 10/300 30 23 0</a></li>
 <li><a href="/comments/20231031/1954624.md" target="_blank">【全文翻译】值得再看一遍！迈克·约翰逊风趣、感人、犀利、又充满敬畏的演讲。#众议院议长 #约翰逊 #就职演讲</a></li>
 <li><a href="/comments/20231031/1954610.md" target="_blank">文昭：民间悼念李克强，能带来什麽後果？不管愿意否，连锁反应已经启动&#8230;</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20231030/1954256.md" target="_blank">汤名晖：这才是李克强去世的最大影响</a></li>
 <li><a href="/comments/20231030/1954250.md" target="_blank">联邦政府去年大亏损 这样下去怎么办？【方伟时间-20231029】</a></li>
 <li><a href="/comments/20231030/1954243.md" target="_blank">李克强：改革开放的最后殉道者</a></li>
-<li><a href="/comments/20231030/1954242.md" target="_blank">深度：为什么美国枪支问题如此独特而持久？</a></li>
-<li><a href="/comments/20231030/1954211.md" target="_blank">杜政：李克强生前被“剪裙边” 习近平、李强联手施压</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
 <li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
 
 </ul>
 </div>
