@@ -17,17 +17,17 @@
 <li><a href="/ssgc/20231030/1954427.md">李克强之死的五大疑点</a></li>
 <li><a href="/sohnews/20231031/1954628.md">李K强诡异治丧安排曝光，新华记者公开吁尸检；哈M斯猪队友，曝出中俄算盘；以军封锁撤离公路要总攻？</a></li>
 <li><a href="/cnnews/20231031/1954616.md">怕了！央视紧急叫停《守望者》，两集下架引发舆论热议</a></li>
-<li><a href="/comments/20231031/1954643.md">要出大事：手捧包子悼念李☹️克☹️强！20城鲜花革命赶超追悼会，习近平再入塔西陀陷阱</a></li>
 <li><a href="/baitai/20231030/1954368.md">习想当世界「霸主」？北京香山论坛开幕 两军委副主席出席释不妙信号</a></li>
+<li><a href="/comments/20231031/1954643.md">要出大事：手捧包子悼念李☹️克☹️强！20城鲜花革命赶超追悼会，习近平再入塔西陀陷阱</a></li>
 <li><a href="/comments/20231030/1954394.md">应了千年预言：此劫遇国难，改朝换代？！任何朝代都躲不过去！只要熬过2025年，好日子就来了⋯⋯｜ #未解之谜 扶摇</a></li>
-<li><a href="/topimagenews/20231030/1954435.md">外媒：北京追责 大陆金融与银行界官员面临大规模整肃</a></li>
-<li><a href="/cbnews/20231031/1954631.md">自发悼念李克强活动受限 成都民众竟被警察带走</a></li>
-<li><a href="/topimagenews/20231031/1954701.md">【微博精粹】别以为中国人只知道盼青天</a></li>
 <li><a href="/comments/20231031/1954736.md">【独家重磅】李燕铭：李克强母校北京大学58名教授与4名外籍客座教授密集病亡 包括李克强导师及一名院士 瘟疫重创中共发源地 一名前政治局常委夫人染疫病亡 习近平连任与中共末日（179） 中共末日之病毒亡共（43） 李克强猝死深度内幕（5）</a></li>
 <li><a href="/cbnews/20231031/1954733.md">江峰：消灭证据？当局要火化，李克强家属要第三方S检，大国总理不能S得不清不楚！北京气氛紧张，追悼大会或“丧事从简”都是导火索，习难脱责；拜登悼词变祝福，谁给习晦气？【江峰漫谈20231030第758期】</a></li>
+<li><a href="/topimagenews/20231030/1954435.md">外媒：北京追责 大陆金融与银行界官员面临大规模整肃</a></li>
+<li><a href="/topimagenews/20231031/1954701.md">【微博精粹】别以为中国人只知道盼青天</a></li>
+<li><a href="/cbnews/20231031/1954631.md">自发悼念李克强活动受限 成都民众竟被警察带走</a></li>
 <li><a href="/ccpdope/20231030/1954469.md">死因成谜的不只李克强 还有三高官</a></li>
 <li><a href="/headline/20231030/1954374.md">聿文视界：李克强之死与习近平的政治风险</a></li>
-<li><a href="/sohnews/20231030/1954404.md">习近平为啥要 取消除夕 激怒民怨？｜世界的十字路口 唐浩</a></li>
+<li><a href="/comments/20231031/1954681.md">天亮时分：若李克强死於暗杀，政变就已迫在眉睫；清算富士康，郭台铭卷入反习阵营？习近平集权，为何没人拦得住？（政论天下第1146集 20231030）天亮时分</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
 <li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
 
 </ul>
 </div>
