@@ -6,7 +6,6 @@
 <ul>
 
 <li><a href="/baitai/20231031/1954926.md">李克强亲友曝内情 习陷入大麻烦</a></li>
-<li><a href="/sohnews/20231031/1954887.md">🧨最新爆料: 李克强生前失联2个月, 被骗去上海遭软禁?! 李克强死前受中南海警卫局安保, 生命垂危之际, 警卫等待习指示, 耽误了最佳救治时间?! 李之死让习重新确立党内寿命规则!【311023】</a></li>
 <li><a href="/cnnews/20231101/1955093.md">网传李克强灵堂照片 夫人悲痛欲绝</a></li>
 <li><a href="/topimagenews/20231101/1955087.md">罕见 习近平真急了?主持闭门会议 越过李强【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20231101/1955082.md">李K强灵堂寒酸照流出，官方公布丧事安排，2大关键词消失；传被软禁上海，发病原因疑云再起；以军攻入加沙地道，有人终于宣战了</a></li>
@@ -18,9 +17,8 @@
 <li><a href="/sohnews/20231031/1954921.md">一年前预测李克强将死，如今再预测习近平时日不多⋯⋯</a></li>
 <li><a href="/topimagenews/20231101/1955199.md">上海再次震撼世界！“文革重来”场景突现“万圣节”！【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20231101/1955227.md">“李克强夫人程虹教授的‘表态’ 冲爆网络⋯”No.07（10/31/23）</a></li>
-<li><a href="/cnnews/20231031/1954879.md">最新官宣：李克强2日火化 只字不提3件事 几大异常【阿波罗网报道】</a></li>
-<li><a href="/baitai/20231101/1955063.md">中国面临经济崩溃 铁饭碗岌岌可危 11月降薪风暴将席卷全国</a></li>
 <li><a href="/topimagenews/20231101/1955307.md">李克强上海突然去世又传出新说法</a></li>
+<li><a href="/baitai/20231101/1955063.md">中国面临经济崩溃 铁饭碗岌岌可危 11月降薪风暴将席卷全国</a></li>
 <li><a href="/sohnews/20231101/1955242.md">习调动军队准备进入北京屠城，反习派大动作拥戴王沪宁韩正，2号中午12点全国汽车鸣笛哀悼李克强。《老灯开讲第418期》</a></li>
 <li><a href="/topimagenews/20231031/1954896.md">拦截美B-52露致命伤 中共怕丢脸不敢公开行程</a></li>
 <li><a href="/cbnews/20231101/1955141.md">悼念李克强讣文5次提习近平 网民评价一针见血</a></li>
@@ -28,6 +26,8 @@
 <li><a href="/comments/20231101/1955109.md">文昭：李克强之死是一个强烈信号，随后我们会看到这些事...</a></li>
 <li><a href="/sohnews/20231031/1954892.md">陈破空：事态严重！连遗体告别仪式都无法举办。没有追悼会，没有治丧委员会。实锤：李夫人要说法！政治老人怒责。直播与互动：美东时间10月31日早9点30、即中港台10月31日晚9点30</a></li>
 <li><a href="/sohnews/20231101/1955108.md">11.2最可能爆发游行示威的几个城市；反习派动手的绝佳机会和方法（2023年10月31）</a></li>
+<li><a href="/comments/20231031/1954904.md">姚诚：李克强敦煌现身后失联 至死未见亲友</a></li>
+<li><a href="/sohnews/20231101/1955034.md">“李克强老宅彻夜人潮 ⋯ 习近平怕到奶奶家了”No.01（10/31/23）</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
 <li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
 <li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
+<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
 
 </ul>
 </div>
