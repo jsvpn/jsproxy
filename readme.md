@@ -6,7 +6,6 @@
 <ul>
 
 <li><a href="/sohnews/20231102/1955816.md">程虹严正声明：本人没有出席遗体告别仪式，当局无耻之尤找替身扮演自己，坚决反对火化遗体并抗争到底。《老灯开讲第419期》</a></li>
-<li><a href="/sohnews/20231102/1955606.md">真假？网传程虹私密谈话，讲述李K强暴亡经过；加沙决定性时刻！伊黎两国威胁周五参战，沙特重大转变</a></li>
 <li><a href="/sohnews/20231102/1955699.md">习近平三鞠躬！对前“李总理”规格如此，他还会这么做吗；传温家宝吁调查，遗孀还要查验身体；11月2日北京.戒.严？市区内岗哨遍地、气氛紧张，十里长街送总理、没门！灵堂设在中南海？｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/comments/20231102/1955654.md">最直白悼念：害SI的！李克强灵堂泄露党内站队秘密！习近平参加八宝山告别仪式？</a></li>
 <li><a href="/cbnews/20231102/1955685.md">李克强上午八宝山火化 曝习近平将到场送别</a></li>
@@ -16,8 +15,8 @@
 <li><a href="/topimagenews/20231102/1955626.md">李克强今火化 高度戒备…抽走悼念卡“防刺激集体情绪”</a></li>
 <li><a href="/sohnews/20231102/1955613.md">为什么习近平一定要弄死李克强？两个更大的危险正在接近习近平！（2023年11月1日）</a></li>
 <li><a href="/cbnews/20231102/1955832.md">竟没治丧委员会 李克强遗体草草火化最大看点是...</a></li>
-<li><a href="/sohnews/20231102/1955859.md">陈破空：诡异！七常委演出告别式。政治老人集体抵制。亲属遭胁迫到场。大量民众沿路送行李总理。党媒迟迟不发新闻。各方争执到最后？直播与互动：美东时间11月1日早8点45、即中港台11月1日晚8点45</a></li>
 <li><a href="/sohnews/20231102/1955902.md">网传：军中造反李克强遭牵连，习下毒手！习近平慰问总理夫人，彭丽媛表情复杂⋯⋯</a></li>
+<li><a href="/sohnews/20231102/1955859.md">陈破空：诡异！七常委演出告别式。政治老人集体抵制。亲属遭胁迫到场。大量民众沿路送行李总理。党媒迟迟不发新闻。各方争执到最后？直播与互动：美东时间11月1日早8点45、即中港台11月1日晚8点45</a></li>
 <li><a href="/comments/20231102/1955683.md">天亮时分：夫人描述李克强逝世过程？彭丽媛与程虹通话？谣言的三个效应；我们该如何评价历史人物？（政论天下第1148集 20231101）天亮时分</a></li>
 <li><a href="/ssgc/20231102/1955887.md">李克强给了习近平最后一击</a></li>
 <li><a href="/ssgc/20231102/1955666.md">〖微博谈〗这再次表明他们有鬼</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/ssgc/20231102/1955839.md">习近平参加李克强遗体告别 各界哀悼 警力高度戒备</a></li>
 <li><a href="/cbnews/20231102/1955729.md">〖兲朝浮世绘〗泱泱兲朝 处处敏感</a></li>
 <li><a href="/cnnews/20231102/1955746.md">北京直击：民众自发聚集，送李克强最后一程</a></li>
+<li><a href="/cbnews/20231102/1955860.md">北京人目送李克强最后一程 传没敢走长安街【阿波罗网报道】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231103/1956081.md" target="_blank">该如何告别中国前总理李克强？外媒给出答案</a></li>
 <li><a href="/comments/20231103/1956020.md" target="_blank">【新闻拍案惊奇】十里长街送总理？没门！北京市区岗哨遍布 草木皆兵</a></li>
 <li><a href="/comments/20231103/1955978.md" target="_blank">“天安门母亲”周淑庄逝世 平反六四成遗憾</a></li>
 <li><a href="/comments/20231102/1955958.md" target="_blank">时事大家谈：经济困境下再看“李克强经济学”，出路还是迷途？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20231102/1955600.md" target="_blank">网海拾贝:冷冰冰的简短通告，极其诡异的处理方式</a></li>
 <li><a href="/comments/20231102/1955599.md" target="_blank">周晓辉：传多名高官涉李克强之死迷案</a></li>
 <li><a href="/comments/20231102/1955598.md" target="_blank">金言：李克强真实死因什么？</a></li>
-<li><a href="/comments/20231102/1955597.md" target="_blank">王赫：画饼充饥的中央金融工作会议</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20230920/1936271.md" target="_blank">防止你的孩子不成功（5） &#8211;教育避坑指南</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
 
 </ul>
 </div>
