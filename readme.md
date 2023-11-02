@@ -10,24 +10,24 @@
 <li><a href="/sohnews/20231101/1955487.md">“#习李之争” 李克强家属故意释放3张照片 ‘答谢’人民的缅怀 ⋯《今日点击》（11/01/23）</a></li>
 <li><a href="/sohnews/20231101/1955389.md">胡话?醉话?历任领导全都批…习近平脱稿文 抖尽中共内幕? 习脱稿文 意有所指? 江纵容 胡容忍 中共贪腐烂到根。@democraticTaiwanChannel</a></li>
 <li><a href="/comments/20231101/1955429.md">【新闻拍案惊奇】李夫人“程虹”黑衣憔悴现身 汪洋、胡春华、王岐山也要有事？</a></li>
-<li><a href="/comments/20231102/1955599.md">周晓辉：传多名高官涉李克强之死迷案</a></li>
-<li><a href="/sohnews/20231102/1955606.md">真假？网传程虹私密谈话，讲述李K强暴亡经过；加沙决定性时刻！伊黎两国威胁周五参战，沙特重大转变</a></li>
-<li><a href="/cbnews/20231102/1955574.md">美国思想领袖：大宇：习近平但凡有一点点政治智慧都不会让李克强死</a></li>
 <li><a href="/sohnews/20231102/1955699.md">习近平三鞠躬！对前“李总理”规格如此，他还会这么做吗；传温家宝吁调查，遗孀还要查验身体；11月2日北京.戒.严？市区内岗哨遍地、气氛紧张，十里长街送总理、没门！灵堂设在中南海？｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/comments/20231102/1955599.md">周晓辉：传多名高官涉李克强之死迷案</a></li>
+<li><a href="/cbnews/20231102/1955574.md">美国思想领袖：大宇：习近平但凡有一点点政治智慧都不会让李克强死</a></li>
+<li><a href="/sohnews/20231102/1955606.md">真假？网传程虹私密谈话，讲述李K强暴亡经过；加沙决定性时刻！伊黎两国威胁周五参战，沙特重大转变</a></li>
 <li><a href="/cnnews/20231101/1955444.md">李克强总理过世情况 程虹介绍 全国政协常委斯泽夫说</a></li>
 <li><a href="/cbnews/20231102/1955685.md">李克强上午八宝山火化 曝习近平将到场送别</a></li>
 <li><a href="/baitai/20231102/1955604.md">李克强治丧有一关键指标 是否涉政变 很快可验证</a></li>
 <li><a href="/topimagenews/20231102/1955626.md">李克强今火化 高度戒备…抽走悼念卡“防刺激集体情绪”</a></li>
 <li><a href="/topimagenews/20231102/1955507.md">网上曝光疑似李克强灵堂照片 夫人程虹神情哀戚</a></li>
 <li><a href="/comments/20231102/1955654.md">最直白悼念：害SI的！李克强灵堂泄露党内站队秘密！习近平参加八宝山告别仪式？</a></li>
-<li><a href="/headline/20231101/1955352.md">李克强遗体火化前夕当局管控升级 疑家中灵堂相片曝光网民指「太简陋」</a></li>
 <li><a href="/comments/20231101/1955380.md">前中国媒体人赵兰健：李克强是遭上海武警毒杀</a></li>
 <li><a href="/comments/20231102/1955598.md">金言：李克强真实死因什么？</a></li>
 <li><a href="/ssgc/20231102/1955666.md">〖微博谈〗这再次表明他们有鬼</a></li>
+<li><a href="/sohnews/20231102/1955613.md">为什么习近平一定要弄死李克强？两个更大的危险正在接近习近平！（2023年11月1日）</a></li>
 <li><a href="/topimagenews/20231101/1955475.md">港媒：李克强后事规格比照李鹏</a></li>
 <li><a href="/comments/20231102/1955683.md">天亮时分：夫人描述李克强逝世过程？彭丽媛与程虹通话？谣言的三个效应；我们该如何评价历史人物？（政论天下第1148集 20231101）天亮时分</a></li>
-<li><a href="/sohnews/20231101/1955351.md">15年股灾后，传习召远在日本静观政局的解直锟回国，称他非打击对象。解归后心灰意冷，21年猝死。坊间称解是为保集团更多人而自缢。</a></li>
 <li><a href="/sohnews/20231102/1955642.md">操盘除掉李克强的是上海武警总司令陈源！前总理遭鸩杀，开启中共大崩溃！危机正在暗中酝酿，习近平将在劫难逃！‘新闻最嘲点 姜光宇’2023.1101</a></li>
+<li><a href="/sohnews/20231102/1955656.md">北京全城戒严；程虹接待吊唁客，述事发场面；舍近求远，中共元老的建议；习戴白花鞠躬？【新闻看点 李沐阳11.1】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
 <li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
 
 </ul>
 </div>
