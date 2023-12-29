@@ -1,0 +1,165 @@
+![](https://raw.githubusercontent.com/jsvpn/jsproxy/dev/64photo/fqnews-qr.jpg)
+
+<div id="tt">
+<h3>24小时热点禁闻|<a href="#%E4%B8%AD%E5%85%B1%E7%A6%81%E9%97%BB%E6%9B%B4%E5%A4%9A%E6%96%87%E7%AB%A0">中共禁闻</a>|<a href="#%E5%9B%BE%E7%89%87%E6%96%B0%E9%97%BB%E6%9B%B4%E5%A4%9A%E6%96%87%E7%AB%A0">头条禁闻</a>|<a href="#%E6%96%B0%E9%97%BB%E8%AF%84%E8%AE%BA%E6%9B%B4%E5%A4%9A%E6%96%87%E7%AB%A0">禁闻评论|<a href="#%E5%BF%85%E7%9C%8B%E7%BB%8F%E5%85%B8%E5%A5%BD%E6%96%87">经典必看</a>|<a href="https://fan1.xyz/3" target="_blank">带图视频</a></h3>
+<div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
+<ul>
+
+<li><a href="/baitai/20231228/1980216.md">共产党最怕一代出现？长沙爆发学生抗争</a></li>
+<li><a href="/cnnews/20231228/1980224.md">提问答不出,国台办发言人慌了找答案 全场静默</a></li>
+<li><a href="/topimagenews/20231229/1980428.md">微博热搜遭删文：恐怖中国！这854万人多数是体制内 几乎没有小鲜肉【阿波罗网报道】</a></li>
+<li><a href="/comments/20231229/1980429.md">李克强葬礼上的女儿PK胡锦涛女儿的选择</a></li>
+<li><a href="/topimagenews/20231228/1980301.md">河南中学生疑遭老师虐杀， 万人集会要真相</a></li>
+<li><a href="/sohnews/20231229/1980333.md">🔥朱镕基王岐山犯大忌 习削藩恐出致命错误；揭秘中国地铁事故频发原因 99%的人猜不到；以色列不忍了！称联合国机构一直是哈马斯战术 "同谋伙伴"【阿波罗网JA】</a></li>
+<li><a href="/headline/20231229/1980325.md">CNN：中国经济将停滞数十年</a></li>
+<li><a href="/topimagenews/20231229/1980463.md">突然爆雷！一代资本大佬，彻底栽了</a></li>
+<li><a href="/topimagenews/20231229/1980464.md">内部消息：习统治出现前所未有的官心和民心危机【阿波罗网报道】</a></li>
+<li><a href="/sohnews/20231228/1980253.md">陈破空：忽然，他赞毛七个伟大！诡异：北京街头突现大批大字报，要求为文革平反！胡锡进紧急发文反对，但旋遭删除。湖南官员带头别上毛像章。直播与互动：美东12月28日早9点15分、即中港台12月28日晚10点15分</a></li>
+<li><a href="/topimagenews/20231229/1980437.md">重磅！美国移民局明确:留学生可以直接申请绿卡</a></li>
+<li><a href="/topimagenews/20231229/1980569.md">巨头落马！习看手下人都有反骨 等着看华为和任正非这一天！【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20231228/1980240.md">士兵还在前线卖命 俄名流大开裸体夜店趴挨轰</a></li>
+<li><a href="/topimagenews/20231229/1980356.md">老婆缺席！？川普圣诞全家福照片曝光 小儿子成“巨人”、孙女好辣</a></li>
+<li><a href="/baitai/20231229/1980340.md">中国大陆瘟疫肆虐 韩正前大秘病亡</a></li>
+<li><a href="/yule/20231229/1980431.md">痴男每天死守地铁站“为看她一眼”！妹子吓傻报警 结局神反转</a></li>
+<li><a href="/topimagenews/20231228/1980243.md">F-16盛传到了乌克兰 难怪俄3周折损8战机</a></li>
+<li><a href="/cbnews/20231229/1980564.md">〖兲朝浮世绘〗十年前吃包子大搞亲民秀？王莽谦恭未篡时</a></li>
+<li><a href="/topimagenews/20231229/1980462.md">中国社会燃烧着潜在的怒火！稳定工作的稀缺不稳定性在蔓延</a></li>
+<li><a href="/topimagenews/20231229/1980545.md">太阴了！他突然接到电话 要他“说说清楚”还录音录像【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20231229/1980436.md">不寻常！哈马斯和伊朗开始闹掰了</a></li>
+<li><a href="/baitai/20231228/1980281.md">喧嚣一时 王志安真实身分被曝光</a></li>
+<li><a href="/baitai/20231228/1980269.md">江西跟风央视？ 禁止熏腊肉引网民炮轰</a></li>
+<li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
+</ul>
+</div>
+
+<div class="catlist">
+<h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
+<ul>
+<li><a href="/cbnews/20231229/1980617.md" target="_blank">拜习会没用 中共言辞激烈炮轰美国</a></li>
+<li><a href="/cbnews/20231229/1980595.md" target="_blank">江峰：防孙子啃老？养老金黑幕与危机：社保不保公务员也难逃，养老保险不如进赌场；韩红基金被迫退出甘肃地震救援，捐款被抢，加拿大鹅捐赠羽绒服出现市场，红十字一如既往黑【江峰漫谈20231228第792期】</a></li>
+<li><a href="/cbnews/20231229/1980570.md" target="_blank">震惊！给地震捐款把命捐出去了？【阿波罗网报导】</a></li>
+<li><a href="/cbnews/20231229/1980564.md" target="_blank">〖兲朝浮世绘〗十年前吃包子大搞亲民秀？王莽谦恭未篡时</a></li>
+<li><a href="/cbnews/20231229/1980530.md" target="_blank">揭秘中共国安部：利用AI技术，与CIA直接竞争</a></li>
+<li><a href="/comments/20231229/1980516.md" target="_blank">是否启用黑利，川普直接表态。圣诞节合影，梅拉尼娅未现身，引发疯狂猜测。梅拉尼娅公布2024年重要议程。黑利步德桑蒂斯后尘，将遭遇滑铁卢？</a></li>
+<li><a href="/comments/20231229/1980512.md" target="_blank">专访李少民(下)：中共模式威胁全球，西方唯有以“冷战”“脱钩”应对 ｜#方菲时间</a></li>
+<li><a href="/cbnews/20231229/1980489.md" target="_blank">本溪28亿外包除雪却除不净？越闹越大</a></li>
+<li><a href="/cbnews/20231229/1980488.md" target="_blank">人贩子逍遥法外 四处男童被拐35年后找到家，母亲含泪喂他儿时蜂蜜</a></li>
+<li><a href="/comments/20231229/1980478.md" target="_blank">密西根州高院判决特朗普选举 直接打脸科罗拉多【方伟时间-20231228】</a></li>
+<li><a href="/cbnews/20231229/1980465.md" target="_blank">日媒曝普京跟习说可打5年，拜登不愿影响大选</a></li>
+<li><a href="/comments/20231229/1980415.md" target="_blank">专访李少民(上)：中共“举国大公司”控制一切；但有一致命弊病，导致今天中国经济的危机 ｜#方菲时间</a></li>
+<li><a href="/cbnews/20231229/1980357.md" target="_blank">俄国会前议员：北京“混合战”操作台湾 100%复制俄对乌手段</a></li>
+<li><a href="/cbnews/20231228/1980200.md" target="_blank">中国5位明星名人财产遭强执 冻结股权限高金额上亿</a></li>
+<li><a href="/cbnews/20231228/1980161.md" target="_blank">江峰：第二场文革降临：习近平六个伟大颂扬，毛泽东阴魂不散；党媒齐唱不是平安夜，而是长津湖，全面脱钩开始；平安与灾难的距离只有一天：12/25与12/26【江峰漫谈20231227第791期】</a></li>
+<li><a href="/cbnews/20231228/1980144.md" target="_blank">李克强人马被大清洗？国务院副秘书长大换班</a></li>
+<li><a href="/cbnews/20231228/1980143.md" target="_blank">大陆女子败光家产买500万古董 鉴定不值50元结局逆转</a></li>
+<li><a href="/cbnews/20231228/1980133.md" target="_blank">〖兲朝浮世绘〗这就是骆驼祥子们，最后累死也还是以为是自己不够努力</a></li>
+<li><a href="/comments/20231228/1980116.md" target="_blank">小川普：竭尽全力确保父亲不选黑利。拉马斯瓦米冲刺阶段一反常态，引起外界猜测。川普确定赢密歇根州法律战。#美国大选 #小川普 #拉马斯瓦米</a></li>
+<li><a href="/cbnews/20231228/1980115.md" target="_blank">章家敦：中俄盘算着联手发动第三次世界大战</a></li>
+<li><a href="/cbnews/20231228/1980040.md" target="_blank">震撼揭秘：中共发动缅北战争目标是中国武装反抗运动【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20231228/1980019.md" target="_blank">内蒙古高速大桥突然断裂 4车坠入7人伤亡</a></li>
+<li><a href="/comments/20231228/1980008.md" target="_blank">圣诞与毛诞：中国社会的主要矛盾？民众寻找大饥荒真相；密西根高院驳回禁止川普参选案 ｜方伟 唐靖远 横河 David 方菲 ｜围炉夜话 12/27</a></li>
+<li><a href="/cbnews/20231228/1980007.md" target="_blank">继中共外交部，国台办后，中方再对美国提出抗议</a></li>
+<li><a href="/cbnews/20231228/1980006.md" target="_blank">CIA情报网遭中共围剿 美官员连说3次“可怕”</a></li>
+
+</ul>
+</div>
+<div class="catlist">
+<h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
+<ul>
+<li><a href="/topimagenews/20231229/1980655.md" target="_blank">美俄防空系统大拼凑 乌克兰祭怪兽杀器抗俄好处多了</a></li>
+<li><a href="/topimagenews/20231229/1980606.md" target="_blank">中共也想搞私人佣兵集团? 官方如何保护一带一路庞大海外利益…</a></li>
+<li><a href="/topimagenews/20231229/1980569.md" target="_blank">巨头落马！习看手下人都有反骨 等着看华为和任正非这一天！【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20231229/1980545.md" target="_blank">太阴了！他突然接到电话 要他“说说清楚”还录音录像【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20231229/1980487.md" target="_blank">弹劾调查升级 疑似拜登父子通气 被众院索要记录</a></li>
+<li><a href="/topimagenews/20231229/1980486.md" target="_blank">喝水如“吃药” ：中国地表水与自来水污染危机</a></li>
+<li><a href="/topimagenews/20231229/1980464.md" target="_blank">内部消息：习统治出现前所未有的官心和民心危机【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20231229/1980463.md" target="_blank">突然爆雷！一代资本大佬，彻底栽了</a></li>
+<li><a href="/topimagenews/20231229/1980462.md" target="_blank">中国社会燃烧着潜在的怒火！稳定工作的稀缺不稳定性在蔓延</a></li>
+<li><a href="/topimagenews/20231229/1980437.md" target="_blank">重磅！美国移民局明确:留学生可以直接申请绿卡</a></li>
+<li><a href="/topimagenews/20231229/1980436.md" target="_blank">不寻常！哈马斯和伊朗开始闹掰了</a></li>
+<li><a href="/topimagenews/20231229/1980428.md" target="_blank">微博热搜遭删文：恐怖中国！这854万人多数是体制内 几乎没有小鲜肉【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20231229/1980356.md" target="_blank">老婆缺席！？川普圣诞全家福照片曝光 小儿子成“巨人”、孙女好辣</a></li>
+<li><a href="/topimagenews/20231229/1980348.md" target="_blank">拜登政府改变乌克兰战略 从击败俄罗斯转为加强终战谈判地位</a></li>
+<li><a href="/topimagenews/20231228/1980301.md" target="_blank">河南中学生疑遭老师虐杀， 万人集会要真相</a></li>
+<li><a href="/topimagenews/20231228/1980243.md" target="_blank">F-16盛传到了乌克兰 难怪俄3周折损8战机</a></li>
+<li><a href="/topimagenews/20231228/1980240.md" target="_blank">士兵还在前线卖命 俄名流大开裸体夜店趴挨轰</a></li>
+<li><a href="/topimagenews/20231228/1980223.md" target="_blank">俄舰遭袭大量水兵与军火! 伤亡惨重 33人失踪 数千炮弹殉爆</a></li>
+<li><a href="/topimagenews/20231228/1980208.md" target="_blank">中共火箭残骸掉到广西! 险砸民宅还冒出疑似有毒气体 紧急疏散居民</a></li>
+<li><a href="/topimagenews/20231228/1980188.md" target="_blank">爆被中共威胁“大选前喊亲中” 五月天没答应！知情人：必须付出代价</a></li>
+<li><a href="/topimagenews/20231228/1980142.md" target="_blank">普京一个承诺 影响巨大 习近平连任有麻烦了？</a></li>
+<li><a href="/topimagenews/20231228/1980005.md" target="_blank">未来3年，请捂紧钱包，低配欲望</a></li>
+<li><a href="/topimagenews/20231228/1980004.md" target="_blank">好消息：2024年全球经济或有奇迹</a></li>
+<li><a href="/topimagenews/20231228/1980003.md" target="_blank">这个“高风险”族群，恐引爆中共政治问题</a></li>
+<li><a href="/topimagenews/20231228/1979993.md" target="_blank">习近平在毛泽东诞辰宣布一件大事</a></li>
+
+</ul>
+</div>
+<div class="catlist">
+<h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
+<ul>
+<li><a href="/comments/20231229/1980652.md" target="_blank">是时候正视打针后遗症了 ——周海媚病历重演打压李文亮？</a></li>
+<li><a href="/comments/20231229/1980555.md" target="_blank">【微博精粹】2023最乳滑段子 &#038; 人类第一条手机短信</a></li>
+<li><a href="/comments/20231229/1980543.md" target="_blank">天亮时分：中共新防长人选曝光；在习眼中官员皆有反骨；中共施压“五月天”，恐再次助力民进党；最近网上风波的感言（政论天下第1192集 20231228）天亮时分</a></li>
+<li><a href="/comments/20231229/1980531.md" target="_blank">陈嘉宏：这场总统大选里的人格之战</a></li>
+<li><a href="/comments/20231229/1980516.md" target="_blank">是否启用黑利，川普直接表态。圣诞节合影，梅拉尼娅未现身，引发疯狂猜测。梅拉尼娅公布2024年重要议程。黑利步德桑蒂斯后尘，将遭遇滑铁卢？</a></li>
+<li><a href="/comments/20231229/1980515.md" target="_blank">深评：从哈以战争谈美国大学言论自由</a></li>
+<li><a href="/comments/20231229/1980512.md" target="_blank">专访李少民(下)：中共模式威胁全球，西方唯有以“冷战”“脱钩”应对 ｜#方菲时间</a></li>
+<li><a href="/comments/20231229/1980498.md" target="_blank">沉思的托克维尔：深度分析：俄乌战场上，俄军到底死了多少人</a></li>
+<li><a href="/comments/20231229/1980478.md" target="_blank">密西根州高院判决特朗普选举 直接打脸科罗拉多【方伟时间-20231228】</a></li>
+<li><a href="/comments/20231229/1980475.md" target="_blank">德国之声：墙外文摘：中国“临时工”的潜在怒火</a></li>
+<li><a href="/comments/20231229/1980440.md" target="_blank">伊朗突认是10.7恐袭黑手？哈马斯却否认</a></li>
+<li><a href="/comments/20231229/1980429.md" target="_blank">李克强葬礼上的女儿PK胡锦涛女儿的选择</a></li>
+<li><a href="/comments/20231229/1980415.md" target="_blank">专访李少民(上)：中共“举国大公司”控制一切；但有一致命弊病，导致今天中国经济的危机 ｜#方菲时间</a></li>
+<li><a href="/comments/20231229/1980390.md" target="_blank">中国军方年末高调抨击美国 军事对话无效？</a></li>
+<li><a href="/comments/20231229/1980383.md" target="_blank">评论 &#8211; 何清涟：国安禁评中国经济，文革殷鉴不远</a></li>
+<li><a href="/comments/20231228/1980305.md" target="_blank">时事大家谈：出拳出书强树魅力，习近平成了吗？</a></li>
+<li><a href="/comments/20231228/1980304.md" target="_blank">时事大家谈：毛诞130习近平讲话，颂词“含真量”有多大？出拳出书强树魅力，习近平成了吗？</a></li>
+<li><a href="/comments/20231228/1980267.md" target="_blank">霓虹招牌渐成历史 往日东方之珠今灯火阑珊</a></li>
+<li><a href="/comments/20231228/1980246.md" target="_blank">袁红冰：《二〇二五：台海大决战》    第十章    中共党卫军前线司令何卫东的“善败者不亡”之筹谋</a></li>
+<li><a href="/comments/20231228/1980158.md" target="_blank">我在加拿大当柜姐——做兼职的快乐你们不懂</a></li>
+<li><a href="/comments/20231228/1980157.md" target="_blank">柴静：从蒙昧中睁开眼睛</a></li>
+<li><a href="/comments/20231228/1980116.md" target="_blank">小川普：竭尽全力确保父亲不选黑利。拉马斯瓦米冲刺阶段一反常态，引起外界猜测。川普确定赢密歇根州法律战。#美国大选 #小川普 #拉马斯瓦米</a></li>
+<li><a href="/comments/20231228/1980114.md" target="_blank">习近平挨巴掌，王岐山胡舒立讨习檄文背後的故事；屎上雕花成2023热词，习自封共产运动三巨头？</a></li>
+<li><a href="/comments/20231228/1980083.md" target="_blank">年终专题：“骆驼祥子之所以死，是因为拉车不够努力”…2023年度之声</a></li>
+<li><a href="/comments/20231228/1980082.md" target="_blank">故乡河南：连清扫公厕都要找关系的县城还能看到希望吗？</a></li>
+
+</ul>
+</div>
+
+<div class="catlist">
+<h3>必看经典好文</h3>
+<ul>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+
+</ul>
+</div>
+
+![](https://raw.githubusercontent.com/jsvpn/jsproxy/dev/64photo/fqnews-qr.jpg)
+
+在浏览器中输入短网址 或使用微信、支付宝等二维码工具扫描二维码打开页面, 点击右上角"...", 在弹出菜单中点击“在浏览器打开”； 若网页被举报禁止访问，请点击“恢复申请访问”，将链接复制并粘贴到浏览器中打开（请不要使用QQ或360浏览器，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器）
+
+![](https://raw.githubusercontent.com/jsvpn/jsproxy/dev/64photo/wx.jpg)
