@@ -1,0 +1,165 @@
+![](https://raw.githubusercontent.com/jsvpn/jsproxy/dev/64photo/fqnews-qr.jpg)
+
+<div id="tt">
+<h3>24小时热点禁闻|<a href="#%E4%B8%AD%E5%85%B1%E7%A6%81%E9%97%BB%E6%9B%B4%E5%A4%9A%E6%96%87%E7%AB%A0">中共禁闻</a>|<a href="#%E5%9B%BE%E7%89%87%E6%96%B0%E9%97%BB%E6%9B%B4%E5%A4%9A%E6%96%87%E7%AB%A0">头条禁闻</a>|<a href="#%E6%96%B0%E9%97%BB%E8%AF%84%E8%AE%BA%E6%9B%B4%E5%A4%9A%E6%96%87%E7%AB%A0">禁闻评论|<a href="#%E5%BF%85%E7%9C%8B%E7%BB%8F%E5%85%B8%E5%A5%BD%E6%96%87">经典必看</a>|<a href="https://fan1.xyz/3" target="_blank">带图视频</a></h3>
+<div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
+<ul>
+
+<li><a href="/topimagenews/20240106/1983984.md">胡锦涛之子胡海峰升官？最新动向异常</a></li>
+<li><a href="/ccpdope/20240106/1983925.md">趁习气弱 伊朗开口猛咬</a></li>
+<li><a href="/cnnews/20240106/1983990.md">首例！16岁少女戴VR眼镜 “游戏内遭集体性侵”</a></li>
+<li><a href="/comments/20240106/1984021.md">诡异！彭丽媛“山东帮”变动释敏感信号</a></li>
+<li><a href="/topimagenews/20240106/1983978.md">习一条路走到黑；中国这行业哭惨！两大国际机构不给习面子【阿波罗网报道】</a></li>
+<li><a href="/comments/20240106/1983964.md">袁斌：刘源携红二代反习传言中的真与假</a></li>
+<li><a href="/baitai/20240106/1984002.md">北京出什么事？传殡仪馆24小时不停</a></li>
+<li><a href="/ccpdope/20240106/1984269.md">内部消息：新任中共国防部长是草包</a></li>
+<li><a href="/sohnews/20240106/1984164.md">耿爽夫人曹珊与秦刚关系密切，前任军委副主席许其亮被查，彭丽媛的山东帮异军突起。《老灯开讲第461期》</a></li>
+<li><a href="/yule/20240106/1984079.md">轰动中国 女网友曝毛华锋强奸未遂</a></li>
+<li><a href="/worldnews/20240106/1984199.md">她是“最可能的接班人” 高官在她面前下跪</a></li>
+<li><a href="/topimagenews/20240106/1984042.md">刷屏全网！斯坦福做饭机器人的满汉全席</a></li>
+<li><a href="/topimagenews/20240106/1984207.md">这照片该获普利策奖！"寓意共产党被送入历史的垃圾堆" 【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20240106/1984115.md">〖兲朝浮世绘〗爱国主义热潮给肖程皓带来泼天富贵</a></li>
+<li><a href="/topimagenews/20240106/1984149.md">赖清德当选？美专家：民进党连续三次赢大选意味中共对台政策失败</a></li>
+<li><a href="/cnnews/20240106/1984169.md">美国流浪博士想回中国 家人这样回复</a></li>
+<li><a href="/topimagenews/20240106/1984019.md">挡不住！果链厂商砸重金迁离中国 甚至连中国业者也不例外</a></li>
+<li><a href="/cbnews/20240106/1984126.md">江峰：习近平夸蔡奇，忘了汪东兴抓老毛家人？今年全国齐“除习”！军队、军工降薪达四成，台湾打得动麽？华为笔电偷台积电芯片“遥遥领先”成笑话；中共再创神奇：股市给买不给卖【江峰漫谈20240105第797期】</a></li>
+<li><a href="/cnnews/20240106/1983996.md">他真的在挖洞！已挖了10年，规模震惊世界</a></li>
+<li><a href="/baitai/20240106/1984239.md">习近平成惊弓之鸟？前军委副主席许其亮也传出事</a></li>
+<li><a href="/baitai/20240106/1984029.md">刘源红二代联手逼宫是谣言</a></li>
+<li><a href="/cnnews/20240106/1984175.md">诱奸1000名少女 美国重大丑闻远超想象</a></li>
+<li><a href="/cnnews/20240106/1984202.md">全进垃圾桶！哈工大习著作、青岛公安入党誓词 网友振奋【阿波罗网报道】</a></li>
+<li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
+</ul>
+</div>
+
+<div class="catlist">
+<h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
+<ul>
+<li><a href="/cbnews/20240106/1984311.md" target="_blank">华为5纳米芯片被爆来自台湾</a></li>
+<li><a href="/comments/20240106/1984308.md" target="_blank">川普得回报，卡瓦诺大法官将为川普而战。最高法院确定审理日期，大胆预测科州选举案。纽约案越来越离谱。#美国大选 #川普 #卡瓦诺</a></li>
+<li><a href="/cbnews/20240106/1984150.md" target="_blank">美媒：2023年扰台共机1709架次 种类趋多样</a></li>
+<li><a href="/cbnews/20240106/1984126.md" target="_blank">江峰：习近平夸蔡奇，忘了汪东兴抓老毛家人？今年全国齐“除习”！军队、军工降薪达四成，台湾打得动麽？华为笔电偷台积电芯片“遥遥领先”成笑话；中共再创神奇：股市给买不给卖【江峰漫谈20240105第797期】</a></li>
+<li><a href="/cbnews/20240106/1984115.md" target="_blank">〖兲朝浮世绘〗爱国主义热潮给肖程皓带来泼天富贵</a></li>
+<li><a href="/cbnews/20240106/1984093.md" target="_blank">贵州迓驾镇工作人员回应“七旬老人得子”：属实</a></li>
+<li><a href="/cbnews/20240106/1984092.md" target="_blank">深圳大改款 大规模改造城中村</a></li>
+<li><a href="/comments/20240106/1984082.md" target="_blank">顶级毒药【方伟时间20240105】</a></li>
+<li><a href="/cbnews/20240106/1984062.md" target="_blank">不忘初心 缅甸同盟军30高层齐学《习近平文选》</a></li>
+<li><a href="/cbnews/20240106/1984039.md" target="_blank">血腥摧残 中共至少迫害死五千多法轮功学员</a></li>
+<li><a href="/cbnews/20240106/1983875.md" target="_blank">逼员工辞职？老板放大绝“办公室搬到山区” 通勤变4小时</a></li>
+<li><a href="/comments/20240105/1983863.md" target="_blank">专访韩秀：追随艺术大师的足迹，寻找美好，学习人生；中国艺术家传记为什么那么难写？  谈《艺术家传记系列》下）｜方菲访谈 10 07 2022</a></li>
+<li><a href="/comments/20240105/1983793.md" target="_blank">克林顿和川普，与爱泼斯坦的互动截然不同。爱泼斯坦名单，安德鲁王子、克林顿、川普、霍金、小李子、迈克尔·杰克逊、魔术师科波菲尔等在列。</a></li>
+<li><a href="/comments/20240105/1983792.md" target="_blank">印证帕克2024最新预言！中国未来多地独立？台湾关键在这两年！普京、习、川普，大戏上演！以哈冲突盲眼龙婆巴巴•万加等多位“中西古人”同时提到龙年！｜ #未解之谜 扶摇</a></li>
+<li><a href="/cbnews/20240105/1983693.md" target="_blank">爸喊穷欠债他梦想帮还债 20年后傻了:我是富二代</a></li>
+<li><a href="/cbnews/20240105/1983692.md" target="_blank">武汉女子控诉高校教授：怀孕后做人流 悄悄和别人结婚</a></li>
+<li><a href="/comments/20240105/1983684.md" target="_blank">沆瀣一气</a></li>
+<li><a href="/comments/20240105/1983683.md" target="_blank">自作自受</a></li>
+<li><a href="/cbnews/20240105/1983667.md" target="_blank">Gucci男买2张头等欲坐3人被阻 大闹北京机场航班取消</a></li>
+<li><a href="/cbnews/20240105/1983666.md" target="_blank">江峰：海外媒体刊刘源、邓朴方、胡德平及老帅子女红二代联手倒习，阻止倒退文革之路；胡舒立平安反证习不安全；反日粉红为何突然不听话了？义和团造反他最害怕【江峰漫谈20240104第796期】</a></li>
+<li><a href="/cbnews/20240105/1983657.md" target="_blank">〖兲朝浮世绘〗中共养蛊自噬 苦果自吞</a></li>
+<li><a href="/cbnews/20240105/1983619.md" target="_blank">中国多地雾濛濛 安徽发红色预警 能见度不到50米</a></li>
+<li><a href="/cbnews/20240105/1983581.md" target="_blank">纪永添：习近平否认攻台计划只是缓兵之计</a></li>
+<li><a href="/comments/20240105/1983548.md" target="_blank">专访韩秀：从伦勃朗到拉裴尔，走进文艺复兴时期艺术大师的人生；一套“人人都能读懂”的艺术史是怎样炼成的？   谈《艺术家传记系列》上  方菲访谈 09 30 2022</a></li>
+<li><a href="/cbnews/20240105/1983503.md" target="_blank">江峰：中宣部管控游戏意见，为何是超级弱智的政策</a></li>
+
+</ul>
+</div>
+<div class="catlist">
+<h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
+<ul>
+<li><a href="/topimagenews/20240106/1984291.md" target="_blank">为何有川普？爱泼斯坦案公开900页文件 披露100名政商名人</a></li>
+<li><a href="/topimagenews/20240106/1984207.md" target="_blank">这照片该获普利策奖！&#8221;寓意共产党被送入历史的垃圾堆&#8221; 【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20240106/1984149.md" target="_blank">赖清德当选？美专家：民进党连续三次赢大选意味中共对台政策失败</a></li>
+<li><a href="/topimagenews/20240106/1984042.md" target="_blank">刷屏全网！斯坦福做饭机器人的满汉全席</a></li>
+<li><a href="/topimagenews/20240106/1984019.md" target="_blank">挡不住！果链厂商砸重金迁离中国 甚至连中国业者也不例外</a></li>
+<li><a href="/topimagenews/20240106/1984018.md" target="_blank">适用全美！川普能否角逐总统大位 最高法院要做历史性决定</a></li>
+<li><a href="/topimagenews/20240106/1984017.md" target="_blank">以军上演连续斩首 哈马斯已经溃不成军</a></li>
+<li><a href="/topimagenews/20240106/1983994.md" target="_blank">韩通过调查“第一夫人”法案！尹锡悦出手救妻</a></li>
+<li><a href="/topimagenews/20240106/1983993.md" target="_blank">金正恩携“尊贵千金”视察军工厂 父女装抢眼</a></li>
+<li><a href="/topimagenews/20240106/1983992.md" target="_blank">暗度陈仓！中国无人机仍在大量流向俄罗斯</a></li>
+<li><a href="/topimagenews/20240106/1983984.md" target="_blank">胡锦涛之子胡海峰升官？最新动向异常</a></li>
+<li><a href="/topimagenews/20240106/1983978.md" target="_blank">习一条路走到黑；中国这行业哭惨！两大国际机构不给习面子【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20240106/1983909.md" target="_blank">爱国教育法生效！外籍师成群结队离开中国 还有家长干脆“润”了</a></li>
+<li><a href="/topimagenews/20240106/1983891.md" target="_blank">央视主持人一句“百姓有钱不敢花” 网震惊：我“被有钱”了</a></li>
+<li><a href="/topimagenews/20240106/1983890.md" target="_blank">红海危机…欧美线海运价暴涨一倍 航商陷调度困局</a></li>
+<li><a href="/topimagenews/20240106/1983874.md" target="_blank">特斯拉中国召回161万辆车 指存在安全隐患</a></li>
+<li><a href="/topimagenews/20240106/1983873.md" target="_blank">揭2023市场1转变 谢金河：经济危机前兆</a></li>
+<li><a href="/topimagenews/20240106/1983872.md" target="_blank">中共国防机构高层大换血 华尔街日报：引发备战能力质疑</a></li>
+<li><a href="/topimagenews/20240105/1983854.md" target="_blank">特斯拉召回大陆161万辆车 “车门解锁”功能爆安全疑虑</a></li>
+<li><a href="/topimagenews/20240105/1983763.md" target="_blank">中国沙漠造船＋1！新疆沙漠惊见“幻影”福特级航舰 反舰飞弹标靶？</a></li>
+<li><a href="/topimagenews/20240105/1983762.md" target="_blank">俄罗斯最新、最狠诅咒语！女吵架 : 送你全家去“特别军事行动”</a></li>
+<li><a href="/topimagenews/20240105/1983754.md" target="_blank">忘了自己怎么洗脑人民？ 中外交部悼日地震遭反噬 “驴叫欢呼”&#8230;</a></li>
+<li><a href="/topimagenews/20240105/1983738.md" target="_blank">中国74岁妇眼睛开刀 疑麻药过量“舌头发绿”枉死、医院停业7天惹怨</a></li>
+<li><a href="/topimagenews/20240105/1983723.md" target="_blank">遇到大坎了！中共今年最害怕这件事【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20240105/1983716.md" target="_blank">突发！乌对俄发动史上最大规模空袭 塞凡堡多处爆炸 俄一Su-34毁</a></li>
+
+</ul>
+</div>
+<div class="catlist">
+<h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
+<ul>
+<li><a href="/comments/20240106/1984308.md" target="_blank">川普得回报，卡瓦诺大法官将为川普而战。最高法院确定审理日期，大胆预测科州选举案。纽约案越来越离谱。#美国大选 #川普 #卡瓦诺</a></li>
+<li><a href="/comments/20240106/1984307.md" target="_blank">复旦留美核物理博士离婚流浪纽约街头 江苏江阴市高考状元 15岁进复旦少年班 受李政道赏识 曾在华尔街工作</a></li>
+<li><a href="/comments/20240106/1984290.md" target="_blank">校园时光的美好青春 ——学生年代多姿多彩年华梦</a></li>
+<li><a href="/comments/20240106/1984289.md" target="_blank">【新闻拍案惊奇】清洗外交系？秦刚案持续发酵</a></li>
+<li><a href="/comments/20240106/1984268.md" target="_blank">汪湖：杨</a></li>
+<li><a href="/comments/20240106/1984267.md" target="_blank">渖涧松：她那年十九岁（连载十七）</a></li>
+<li><a href="/comments/20240106/1984260.md" target="_blank">袁红冰：《二〇二五：台海大决战》    第十四章     台海之战与共产主义运动覆灭</a></li>
+<li><a href="/comments/20240106/1984127.md" target="_blank">天亮时分：第一财经冲塔，要求习近平放权；乌克兰废了普京的核武，大规模空袭克里米亚；中共罕见站队美国，胡塞傻眼（政论天下第1198集 20240106）天亮时分</a></li>
+<li><a href="/comments/20240106/1984120.md" target="_blank">六旬老汉育有5个未成年孩子：与“铁链女”有着六大相似之处</a></li>
+<li><a href="/comments/20240106/1984119.md" target="_blank">哈佛大学在新世纪重演了一遍失乐园的悲剧</a></li>
+<li><a href="/comments/20240106/1984100.md" target="_blank">竹不倒：市容给谁看的？你们究竟想让谁满意？</a></li>
+<li><a href="/comments/20240106/1984099.md" target="_blank">译丛:民族主义的幽灵</a></li>
+<li><a href="/comments/20240106/1984082.md" target="_blank">顶级毒药【方伟时间20240105】</a></li>
+<li><a href="/comments/20240106/1984049.md" target="_blank">新闻大破解：红二代弃共或保党？捧毛成闹剧</a></li>
+<li><a href="/comments/20240106/1984048.md" target="_blank">孙立平 : 走出内卷：一场新的出埃及记</a></li>
+<li><a href="/comments/20240106/1984021.md" target="_blank">诡异！彭丽媛“山东帮”变动释敏感信号</a></li>
+<li><a href="/comments/20240106/1983985.md" target="_blank">陈嘉宏:中共介选越帮越忙</a></li>
+<li><a href="/comments/20240106/1983983.md" target="_blank">文昭：严重了，军队也降薪了？中共抄朝鲜「先军政治」的作业，要先过一道坎</a></li>
+<li><a href="/comments/20240106/1983977.md" target="_blank">天亮时分：大选前，习近平再度公开威胁武装入侵台湾；美国政要如何看台海局势和两岸关系？（台湾大选2024 牵动世界格局的选择系列节目第8集）</a></li>
+<li><a href="/comments/20240106/1983967.md" target="_blank">石铭：血债累累的政法委书记甘荣坤遭恶报</a></li>
+<li><a href="/comments/20240106/1983966.md" target="_blank">周晓辉：蔡奇谄媚获肯定 五部门高官仍被敲打</a></li>
+<li><a href="/comments/20240106/1983965.md" target="_blank">王友群：刘源等“红二代”群起反习？</a></li>
+<li><a href="/comments/20240106/1983964.md" target="_blank">袁斌：刘源携红二代反习传言中的真与假</a></li>
+<li><a href="/comments/20240106/1983963.md" target="_blank">网海拾贝：习近平告诉我们：经济的寒冬，真来了</a></li>
+<li><a href="/comments/20240106/1983882.md" target="_blank">【泽论四方】美国切断与中国关系如治疗癌肿瘤</a></li>
+
+</ul>
+</div>
+
+<div class="catlist">
+<h3>必看经典好文</h3>
+<ul>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/comments/20231203/1969183.md" target="_blank">开盖冲马桶 ，细菌会乱飞？除非你家马桶是喷泉！</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+
+</ul>
+</div>
+
+![](https://raw.githubusercontent.com/jsvpn/jsproxy/dev/64photo/fqnews-qr.jpg)
+
+在浏览器中输入短网址 或使用微信、支付宝等二维码工具扫描二维码打开页面, 点击右上角"...", 在弹出菜单中点击“在浏览器打开”； 若网页被举报禁止访问，请点击“恢复申请访问”，将链接复制并粘贴到浏览器中打开（请不要使用QQ或360浏览器，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器）
+
+![](https://raw.githubusercontent.com/jsvpn/jsproxy/dev/64photo/wx.jpg)
