@@ -8,26 +8,26 @@
 <li><a href="/ssgc/20240206/1997515.md">〖微博谈〗中国危机已经全面爆发</a></li>
 <li><a href="/cnnews/20240206/1997569.md">美女副县长：沦为高官玩物 随身携带计生用品</a></li>
 <li><a href="/ccpdope/20240206/1997516.md">习近平又憋出新词 各地方政府正积极研究</a></li>
-<li><a href="/topimagenews/20240206/1997474.md">杨恒均被判死缓 到底为了什么？他的真实身份是什么? 【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240206/1997741.md">中国金融危机正在爆发</a></li>
 <li><a href="/baitai/20240206/1997798.md">习近平安排后事？陈敏尔或上位？学者析中共困境</a></li>
 <li><a href="/topimagenews/20240206/1997574.md">【微博精粹】这个金融局长和习禁平有一拼</a></li>
 <li><a href="/cnnews/20240206/1997646.md">震惊！继美使馆之后，今日头条用户大胆喊话习近平下课【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20240206/1997673.md">彭博社：习直接指挥股市 评：绝妙的逃离时机</a></li>
 <li><a href="/comments/20240206/1997683.md">普京，目瞪口呆</a></li>
+<li><a href="/cnnews/20240206/1997673.md">彭博社：习直接指挥股市 评：绝妙的逃离时机</a></li>
 <li><a href="/topimagenews/20240206/1997505.md">中国股市运作惊天黑幕！中共大老板还有更可怕的毒辣手段</a></li>
-<li><a href="/topimagenews/20240206/1997593.md">“租车女神”郑总，她的能量大得很</a></li>
 <li><a href="/topimagenews/20240206/1997716.md">中共中央一号文件 习近平要求守两个底线【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20240206/1997593.md">“租车女神”郑总，她的能量大得很</a></li>
 <li><a href="/cbnews/20240206/1997604.md">〖兲朝浮世绘〗虽然中国的股市很烂，但它无疑是最真诚的</a></li>
 <li><a href="/topimagenews/20240206/1997592.md">另一场革命，习近平“没有底线”</a></li>
-<li><a href="/sohnews/20240206/1997717.md">习近平紧急开会亲自指挥救市，股灾带来全国各地280起惨剧，股民逃生机会转瞬即逝。《老灯开讲第486期》</a></li>
 <li><a href="/topimagenews/20240206/1997599.md">中国一线城市楼盘开始集体破发了</a></li>
+<li><a href="/sohnews/20240206/1997717.md">习近平紧急开会亲自指挥救市，股灾带来全国各地280起惨剧，股民逃生机会转瞬即逝。《老灯开讲第486期》</a></li>
 <li><a href="/topimagenews/20240207/1997844.md">中国市场警世文：问题还不只是股市 告诉你这的都是骗子</a></li>
 <li><a href="/yule/20240206/1997697.md">刘亦菲素颜照翻车事件</a></li>
 <li><a href="/finance/20240206/1997614.md">阻止资金外逃 3月境内将有重大事件发生</a></li>
 <li><a href="/cbnews/20240206/1997629.md">江峰：蔡奇失宠？启用王小洪当中办主任，特勤局警卫局两枪在握，习睡得着觉？国防系统大清洗扩至核工业，核灾逼近；揭开股市一路下跌不反弹的真相，国家队救市还是打劫？【江峰漫谈20240205第814期】</a></li>
 <li><a href="/cnnews/20240206/1997621.md">一场大雪，新能源车替代燃油车的声音，安静了</a></li>
 <li><a href="/cbnews/20240206/1997660.md">美航母指挥官强硬回应北京“航母杀手”</a></li>
+<li><a href="/ccpdope/20240206/1997701.md">中南海做梦没想到 打倒共产党又添一生力军</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240207/1997950.md" target="_blank">德州Eagle Pass周末大聚会 释放什么讯息？【方伟时间-20240206】</a></li>
 <li><a href="/cbnews/20240207/1997865.md" target="_blank">陕西现器官缺失少年尸体 疑被活摘器官</a></li>
 <li><a href="/cbnews/20240207/1997855.md" target="_blank">陕西现器官缺失少年尸体 中共被质疑活摘器官</a></li>
 <li><a href="/comments/20240206/1997814.md" target="_blank">约翰逊和川普吹响战斗号角。透视参议院边境协议隐藏的秘密。法案背后的激烈较量。#川普 #约翰逊 #边境安全</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240205/1997163.md" target="_blank">浙江公务员网购河豚毒杀妻 原因曝光</a></li>
 <li><a href="/cbnews/20240205/1997145.md" target="_blank">〖兲朝浮世绘〗中国股市把股民逼成了带路党 股灾雪灾哪个更严重？</a></li>
 <li><a href="/cbnews/20240205/1997140.md" target="_blank">杭州店铺老板结婚闭店 门上贴请假条 结果没想到…</a></li>
-<li><a href="/comments/20240205/1997134.md" target="_blank">15州长齐聚Eagle Pass 路州州长Landry重批联邦【方伟时间-20240204】</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240207/1997950.md" target="_blank">德州Eagle Pass周末大聚会 释放什么讯息？【方伟时间-20240206】</a></li>
+<li><a href="/comments/20240207/1997943.md" target="_blank">袁斌：从“白纸运动”到“股民革命”？</a></li>
+<li><a href="/comments/20240207/1997942.md" target="_blank">王赫：经历太多股灾 股民终要觉醒</a></li>
 <li><a href="/comments/20240207/1997924.md" target="_blank">【危地马拉欲与中国建立贸易关系】 中美洲国家危地马拉外交部长2月5日告诉路透社，危地马拉正在考虑与中国建立正式贸易关系，但计划维持与台湾的现有关系。这个中美洲国家是台湾仅存的少数盟友之一。</a></li>
 <li><a href="/comments/20240207/1997923.md" target="_blank">【杨恒均被中国判死缓 澳大利亚震怒】 惊愕，绝望，沮丧，愤怒，澳大利亚总理安东尼·阿尔巴尼斯誓言将继续努力争取 #杨恒均 获释。</a></li>
 <li><a href="/comments/20240206/1997834.md" target="_blank">时事大家谈：习近平忆“串联”促创新，拒绝前行？猛戳习痛点，《财新》、“鲁镇”为何轮番出击？</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20240206/1997529.md" target="_blank">楚一丁：龙年说龙运 看从毛到习的党国气数</a></li>
 <li><a href="/comments/20240206/1997528.md" target="_blank">倪国荣：两年了 乌克兰让台湾明白老虎不可能一餐满足</a></li>
 <li><a href="/comments/20240206/1997527.md" target="_blank">量子跃迁：不可将&#8221;中共&#8221;与&#8221;中国人&#8221;混为一谈</a></li>
-<li><a href="/comments/20240206/1997501.md" target="_blank">文昭：黑色星期一，中国遭遇历史性股灾！萧条要撑多少年，你才能熬过去？</a></li>
-<li><a href="/comments/20240206/1997473.md" target="_blank">【中国经济怎么样？问问&quot;打工人&quot;】</a></li>
-<li><a href="/comments/20240206/1997472.md" target="_blank">【中国证券监管机构誓言稳定股市 你信吗？】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/comments/20231130/1967587.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （一）</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
+<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20231220/1976683.md" target="_blank">医山夜话：张锡纯医案解读（二）根治胃气不降之证</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
 
 </ul>
 </div>
