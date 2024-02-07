@@ -5,10 +5,8 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/baitai/20240207/1997842.md">中国股市是邓小平给习近平挖的大坑</a></li>
 <li><a href="/cbnews/20240207/1998162.md">自感大事不妙？习发出最新信号</a></li>
 <li><a href="/topimagenews/20240207/1997974.md">习近平传递信号：别对他报任何期望</a></li>
-<li><a href="/topimagenews/20240207/1997844.md">中国市场警世文：问题还不只是股市 告诉你这的都是骗子</a></li>
 <li><a href="/comments/20240207/1998204.md">挑来挑去 习还是选中了他</a></li>
 <li><a href="/topimagenews/20240207/1998146.md">影片疯传 梅西很抽李家超</a></li>
 <li><a href="/cbnews/20240207/1997976.md">过年最惨一幕：安徽人回老家，把全国人民急坏了</a></li>
@@ -18,16 +16,18 @@
 <li><a href="/cbnews/20240207/1997865.md">陕西现器官缺失少年尸体 疑被活摘器官</a></li>
 <li><a href="/topimagenews/20240207/1998031.md">中国人绝望！这种堵法 得有多少人冻没命？6厅官统一姿势遭井喷【阿波罗网报道】</a></li>
 <li><a href="/ccpdope/20240207/1998247.md">A股狂泄股民火大 中共推出替罪羊：证监会主席下台谢罪</a></li>
-<li><a href="/cbnews/20240207/1998115.md">江峰：股灾祸首找到，卖股买债，保党割韭菜；被骂惨，证监会越级面见，请习近平指挥救市；证监烂招，撤销股票操作「卖出」键；提振股市「三大招」+房市白名单，为何越帮越乱【江峰漫谈20240206第815期】</a></li>
 <li><a href="/ccpdope/20240207/1997896.md">中国出逃的订单资金 被这两国接收了</a></li>
 <li><a href="/topimagenews/20240207/1998081.md">不为人知的另一面 原来中国…</a></li>
-<li><a href="/topimagenews/20240207/1998130.md">钢琴家大绝招发威！小粉红500大群被秒封!【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20240207/1998115.md">江峰：股灾祸首找到，卖股买债，保党割韭菜；被骂惨，证监会越级面见，请习近平指挥救市；证监烂招，撤销股票操作「卖出」键；提振股市「三大招」+房市白名单，为何越帮越乱【江峰漫谈20240206第815期】</a></li>
 <li><a href="/topimagenews/20240207/1998202.md">3股、楼、债、汇四杀共振，三个崩盘上演，习总要赤膊上阵？【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20240207/1998130.md">钢琴家大绝招发威！小粉红500大群被秒封!【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20240207/1997981.md">〖微博谈〗该党的独特成就</a></li>
 <li><a href="/topimagenews/20240207/1998179.md">亡党倒计时启动：分析揭露中共进入末日循环【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240207/1998053.md">哈马斯被灭 以要限期斩首哈马斯领导人</a></li>
+<li><a href="/headline/20240207/1998252.md">中国证监会主席易会满被免职 吴清接任</a></li>
 <li><a href="/topimagenews/20240207/1997940.md">中国市场警世文 任何一个告诉你中国又要起飞了的人都是骗子</a></li>
 <li><a href="/cnnews/20240207/1998047.md">我班上当官的同学，不是进去了，就是跳楼了</a></li>
+<li><a href="/topimagenews/20240207/1997993.md">6000脱北者访谈 揭开朝鲜数大黑暗现状</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/comments/20231213/1973586.md" target="_blank">六道轮回之畜生道</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/topimagenews/20180608/954788.md" target="_blank">安乐死根本安乐不了，别宣传了</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
 <li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20240126/1992876.md" target="_blank">内幕：中国留学生里女生打男生和男生打女一样普遍</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
 <li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
 
 </ul>
 </div>
