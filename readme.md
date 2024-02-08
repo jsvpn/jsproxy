@@ -27,7 +27,7 @@
 <li><a href="/headline/20240207/1998252.md">中国证监会主席易会满被免职 吴清接任</a></li>
 <li><a href="/topimagenews/20240207/1998243.md">尴尬！海莉在内华达州初选首战没对手 仅获32%竟还输给“以上皆非”</a></li>
 <li><a href="/cbnews/20240207/1998180.md">两相比较，让国人感叹！无语了</a></li>
-<li><a href="/cnnews/20240207/1998047.md">我班上当官的同学，不是进去了，就是跳楼了</a></li>
+<li><a href="/cbnews/20240208/1998347.md">分析：魏凤和确实出事 新春慰问名单独缺他</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240208/1998432.md" target="_blank">江峰：保地方债不爆雷，牺牲股市，习近平只能二选一</a></li>
+<li><a href="/comments/20240208/1998431.md" target="_blank">梅西香港事件，错在谁？中国股市底在哪里？非法移民成美国大选重大议题 ｜方伟 唐靖远 横河 David 方菲 ｜围炉夜话 02/07</a></li>
 <li><a href="/cbnews/20240208/1998398.md" target="_blank">美国思想领袖：【精彩片段】南方暴雪冻坏返乡人 大量车辆高速路受困 为何几天几夜没有救援？ &#8211; #新闻大家谈</a></li>
 <li><a href="/cbnews/20240208/1998397.md" target="_blank">美国思想领袖：【精彩片段】党魁「亲自部署」证监会 挤兑潮来了？中国股灾为何失去联动效应？ &#8211; #新闻大家谈</a></li>
 <li><a href="/cbnews/20240208/1998396.md" target="_blank">美国思想领袖：【精彩片段】王岐山再舍心腹求生？中共抓金融巨贪能够化解党国经济危机吗？ &#8211; #新闻大家谈</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20240206/1997660.md" target="_blank">美航母指挥官强硬回应北京“航母杀手”</a></li>
 <li><a href="/cbnews/20240206/1997631.md" target="_blank">多图：中国雨雪冰冻天气持续 旅客滞留</a></li>
 <li><a href="/cbnews/20240206/1997630.md" target="_blank">雪灾肆虐 两湖2天3座市场被压垮2死多人被困</a></li>
-<li><a href="/cbnews/20240206/1997629.md" target="_blank">江峰：蔡奇失宠？启用王小洪当中办主任，特勤局警卫局两枪在握，习睡得着觉？国防系统大清洗扩至核工业，核灾逼近；揭开股市一路下跌不反弹的真相，国家队救市还是打劫？【江峰漫谈20240205第814期】</a></li>
-<li><a href="/cbnews/20240206/1997604.md" target="_blank">〖兲朝浮世绘〗虽然中国的股市很烂，但它无疑是最真诚的</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240208/1998431.md" target="_blank">梅西香港事件，错在谁？中国股市底在哪里？非法移民成美国大选重大议题 ｜方伟 唐靖远 横河 David 方菲 ｜围炉夜话 02/07</a></li>
 <li><a href="/comments/20240208/1998416.md" target="_blank">卓然:23条是香港的追魂丧门钉</a></li>
 <li><a href="/comments/20240208/1998415.md" target="_blank">袁斌：有感于胡锡进突然变调与小粉红一夜变黑</a></li>
 <li><a href="/comments/20240208/1998414.md" target="_blank">周晓辉：王小洪仍忧“孙力军政治团伙流毒”影响？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240207/1998083.md" target="_blank">王友群：股市暴跌 股民愤怒 根源何在？</a></li>
 <li><a href="/comments/20240207/1998082.md" target="_blank">这年轻人，总结的真好</a></li>
 <li><a href="/comments/20240207/1998064.md" target="_blank">拒绝被拯救的人，终究无法拯救</a></li>
-<li><a href="/comments/20240207/1998063.md" target="_blank">漫天霾 古原：揭开“免费医疗”的真面目</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/comments/20231201/1968320.md" target="_blank">【非凡新闻】结合中西文化精神 美国神韵表演吸睛</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
 <li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
 
 </ul>
 </div>
