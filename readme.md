@@ -6,28 +6,28 @@
 <ul>
 
 <li><a href="/sohnews/20240207/1998276.md">胡锦涛退休前解封了共党执政前33年被刺杀1645个官员的密档，今天说一个更劲爆的  295集</a></li>
-<li><a href="/ccpdope/20240207/1998247.md">A股狂泄股民火大 中共推出替罪羊：证监会主席下台谢罪</a></li>
 <li><a href="/topimagenews/20240208/1998449.md">千万别下高速 普通公路有去无回！昔温家宝调部队装甲车启动全国抗灾</a></li>
 <li><a href="/topimagenews/20240208/1998481.md">江姐为革命舍身上床</a></li>
 <li><a href="/cbnews/20240208/1998347.md">分析：魏凤和确实出事 新春慰问名单独缺他</a></li>
 <li><a href="/baitai/20240207/1998270.md">传习亲自指挥股市 抛出易会满背锅？「券商屠夫」接任证监会主席</a></li>
 <li><a href="/topimagenews/20240208/1998480.md">中国父母炫耀孩子被MIT录取…结果被曝更大猛料</a></li>
-<li><a href="/sohnews/20240207/1998241.md">文睿：断粮了，浦发银行火上了热搜榜；一尊，这几天让人头皮发麻，一连扔了三个手榴弹</a></li>
 <li><a href="/sohnews/20240208/1998457.md">习近平挥泪斩马谡，国家发改委主任郑珊洁女儿郑秀利垄断全国网约车，王岐山的马仔都被判极刑。《老灯开讲第487期》</a></li>
 <li><a href="/topimagenews/20240208/1998421.md">中国经济面临残酷风险！ “债务-通缩螺旋”将随之而来</a></li>
 <li><a href="/ccpdope/20240208/1998353.md">王岐山两大秘判死缓 专家揭中共党魁用意</a></li>
 <li><a href="/cnnews/20240208/1998513.md">不是名牌包、名表！看出一个人有不有钱 前银行行员曝3特征</a></li>
 <li><a href="/topimagenews/20240208/1998420.md">都是党魁害的？今年大雪被曝纯粹人祸【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20240207/1998243.md">尴尬！海莉在内华达州初选首战没对手 仅获32%竟还输给“以上皆非”</a></li>
 <li><a href="/headline/20240208/1998355.md">「美斯闹剧」传遍海外 评论：香港形象全毁</a></li>
 <li><a href="/headline/20240207/1998252.md">中国证监会主席易会满被免职 吴清接任</a></li>
 <li><a href="/topimagenews/20240208/1998546.md">杨恒均究竟是谁的间谍？让习暴怒遭罕见重判？</a></li>
 <li><a href="/sohnews/20240208/1998418.md">当众打脸李家超！梅西拒绝比赛是要表达政治立场吗？真相可能恰恰相反！证监会主席下课，替换者号称“屠夫”</a></li>
 <li><a href="/topimagenews/20240207/1998295.md">通缩阴影愈来愈重 路透：中国小型出口商日子愈来愈艰难</a></li>
+<li><a href="/cbnews/20240208/1998535.md">〖兲朝浮世绘〗锅铲除雪？论搞笑和作秀，你们是专业的</a></li>
 <li><a href="/ssgc/20240208/1998428.md">〖微博谈〗放烟花一样，放完了就消失了</a></li>
 <li><a href="/cbnews/20240208/1998432.md">江峰：保地方债不爆雷，牺牲股市，习近平只能二选一</a></li>
-<li><a href="/comments/20240207/1998239.md">中国股市大跌 习“亲自指挥”救市惹质疑</a></li>
-<li><a href="/cbnews/20240208/1998535.md">〖兲朝浮世绘〗锅铲除雪？论搞笑和作秀，你们是专业的</a></li>
+<li><a href="/baitai/20240207/1998271.md">政敌放风？习又亲自下场 A股更大暴跌在后面</a></li>
+<li><a href="/comments/20240207/1998284.md">川普不发一言让黑利无地自容。卡尔森说出采访普京的真正原因。RNC主席准备辞职？弹劾马约卡斯出现戏剧性变化。#美国大选 #川普 #弹劾</a></li>
+<li><a href="/cnnews/20240208/1998498.md">中国女子持中美护照丝滑出入境 川普誓言：废除</a></li>
+<li><a href="/health/20240208/1998466.md">医生打死不吃的4种“水果”，容易唤醒癌细胞，再爱吃也要管住嘴</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240208/1998652.md" target="_blank">明德网全体同仁向各位朋友拜年！ 祝大家龙年大吉！ 阖家安康</a></li>
 <li><a href="/comments/20240208/1998525.md" target="_blank">旧文重温:怎样跟孩子谈李文亮</a></li>
 <li><a href="/comments/20240208/1998524.md" target="_blank">勿言：在信心持续崩塌下，任何举措产生的效果都是微乎其微</a></li>
 <li><a href="/comments/20240208/1998507.md" target="_blank">德媒：我们夸大中国的威胁 却低估了…</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240208/1998391.md" target="_blank">2月7日，梅西在个人微博发文致歉，就4日晚香港友谊赛未上场一事作出解释。迈阿密国际4日下午在香港大球场与中国香港明星队进行表演赛，但球星梅西并未上场，引发球迷不满。</a></li>
 <li><a href="/comments/20240208/1998356.md" target="_blank">专栏 &#8211; 劳工通讯：广东东莞打工学生被富利凯医疗用品公司积欠工资 （一）</a></li>
 <li><a href="/comments/20240208/1998342.md" target="_blank">年终无奖金 家书抵万金 上海、广州银行及海关职员抱怨工资福利缩水</a></li>
-<li><a href="/comments/20240208/1998341.md" target="_blank">【未普评论】龙年将至，到哪里找乐观向上的氛围？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/topimagenews/20180608/954788.md" target="_blank">安乐死根本安乐不了，别宣传了</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/comments/20190701/1151501.md" target="_blank">【特稿】中国共产党是邪教组织</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20231223/1978148.md" target="_blank">医山夜话：张锡纯医案解读（三）赭石：降胃气 引火下行</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20231201/1968320.md" target="_blank">【非凡新闻】结合中西文化精神 美国神韵表演吸睛</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/comments/20231207/1970628.md" target="_blank">民兵对官军，希望之声打造广播界的奇蹟【方伟时间-20231206】</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
 
 </ul>
 </div>
