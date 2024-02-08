@@ -10,24 +10,24 @@
 <li><a href="/ccpdope/20240207/1998247.md">A股狂泄股民火大 中共推出替罪羊：证监会主席下台谢罪</a></li>
 <li><a href="/topimagenews/20240208/1998449.md">千万别下高速 普通公路有去无回！昔温家宝调部队装甲车启动全国抗灾</a></li>
 <li><a href="/topimagenews/20240208/1998481.md">江姐为革命舍身上床</a></li>
-<li><a href="/topimagenews/20240207/1998202.md">3股、楼、债、汇四杀共振，三个崩盘上演，习总要赤膊上阵？【阿波罗网报道】</a></li>
-<li><a href="/baitai/20240207/1998270.md">传习亲自指挥股市 抛出易会满背锅？「券商屠夫」接任证监会主席</a></li>
 <li><a href="/cbnews/20240208/1998347.md">分析：魏凤和确实出事 新春慰问名单独缺他</a></li>
+<li><a href="/baitai/20240207/1998270.md">传习亲自指挥股市 抛出易会满背锅？「券商屠夫」接任证监会主席</a></li>
+<li><a href="/topimagenews/20240208/1998480.md">中国父母炫耀孩子被MIT录取…结果被曝更大猛料</a></li>
 <li><a href="/sohnews/20240207/1998241.md">文睿：断粮了，浦发银行火上了热搜榜；一尊，这几天让人头皮发麻，一连扔了三个手榴弹</a></li>
 <li><a href="/sohnews/20240208/1998457.md">习近平挥泪斩马谡，国家发改委主任郑珊洁女儿郑秀利垄断全国网约车，王岐山的马仔都被判极刑。《老灯开讲第487期》</a></li>
 <li><a href="/topimagenews/20240208/1998421.md">中国经济面临残酷风险！ “债务-通缩螺旋”将随之而来</a></li>
-<li><a href="/topimagenews/20240208/1998480.md">中国父母炫耀孩子被MIT录取…结果被曝更大猛料</a></li>
 <li><a href="/topimagenews/20240207/1998243.md">尴尬！海莉在内华达州初选首战没对手 仅获32%竟还输给“以上皆非”</a></li>
 <li><a href="/topimagenews/20240208/1998420.md">都是党魁害的？今年大雪被曝纯粹人祸【阿波罗网报道】</a></li>
 <li><a href="/ccpdope/20240208/1998353.md">王岐山两大秘判死缓 专家揭中共党魁用意</a></li>
 <li><a href="/headline/20240207/1998252.md">中国证监会主席易会满被免职 吴清接任</a></li>
+<li><a href="/cnnews/20240208/1998513.md">不是名牌包、名表！看出一个人有不有钱 前银行行员曝3特征</a></li>
 <li><a href="/sohnews/20240208/1998418.md">当众打脸李家超！梅西拒绝比赛是要表达政治立场吗？真相可能恰恰相反！证监会主席下课，替换者号称“屠夫”</a></li>
 <li><a href="/headline/20240208/1998355.md">「美斯闹剧」传遍海外 评论：香港形象全毁</a></li>
-<li><a href="/cnnews/20240208/1998513.md">不是名牌包、名表！看出一个人有不有钱 前银行行员曝3特征</a></li>
 <li><a href="/topimagenews/20240207/1998295.md">通缩阴影愈来愈重 路透：中国小型出口商日子愈来愈艰难</a></li>
-<li><a href="/comments/20240207/1998239.md">中国股市大跌 习“亲自指挥”救市惹质疑</a></li>
 <li><a href="/ssgc/20240208/1998428.md">〖微博谈〗放烟花一样，放完了就消失了</a></li>
+<li><a href="/comments/20240207/1998239.md">中国股市大跌 习“亲自指挥”救市惹质疑</a></li>
 <li><a href="/cbnews/20240208/1998432.md">江峰：保地方债不爆雷，牺牲股市，习近平只能二选一</a></li>
+<li><a href="/comments/20240207/1998284.md">川普不发一言让黑利无地自容。卡尔森说出采访普京的真正原因。RNC主席准备辞职？弹劾马约卡斯出现戏剧性变化。#美国大选 #川普 #弹劾</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
 <li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/comments/20190701/1151501.md" target="_blank">【特稿】中国共产党是邪教组织</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
 
 </ul>
 </div>
