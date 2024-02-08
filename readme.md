@@ -8,7 +8,6 @@
 <li><a href="/cbnews/20240207/1998162.md">自感大事不妙？习发出最新信号</a></li>
 <li><a href="/comments/20240207/1998204.md">挑来挑去 习还是选中了他</a></li>
 <li><a href="/topimagenews/20240207/1998146.md">影片疯传 梅西很抽李家超</a></li>
-<li><a href="/topimagenews/20240207/1998010.md">杨恒钧被判死缓 缘起两事令中共国安痛恨</a></li>
 <li><a href="/cbnews/20240207/1998113.md">〖兲朝浮世绘〗股民友友们，解套的机会来了</a></li>
 <li><a href="/topimagenews/20240207/1998031.md">中国人绝望！这种堵法 得有多少人冻没命？6厅官统一姿势遭井喷【阿波罗网报道】</a></li>
 <li><a href="/ccpdope/20240207/1998247.md">A股狂泄股民火大 中共推出替罪羊：证监会主席下台谢罪</a></li>
@@ -18,15 +17,16 @@
 <li><a href="/cbnews/20240207/1998115.md">江峰：股灾祸首找到，卖股买债，保党割韭菜；被骂惨，证监会越级面见，请习近平指挥救市；证监烂招，撤销股票操作「卖出」键；提振股市「三大招」+房市白名单，为何越帮越乱【江峰漫谈20240206第815期】</a></li>
 <li><a href="/topimagenews/20240207/1998202.md">3股、楼、债、汇四杀共振，三个崩盘上演，习总要赤膊上阵？【阿波罗网报道】</a></li>
 <li><a href="/baitai/20240207/1998270.md">传习亲自指挥股市 抛出易会满背锅？「券商屠夫」接任证监会主席</a></li>
-<li><a href="/topimagenews/20240207/1998179.md">亡党倒计时启动：分析揭露中共进入末日循环【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20240208/1998347.md">分析：魏凤和确实出事 新春慰问名单独缺他</a></li>
+<li><a href="/topimagenews/20240207/1998179.md">亡党倒计时启动：分析揭露中共进入末日循环【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240207/1998053.md">哈马斯被灭 以要限期斩首哈马斯领导人</a></li>
 <li><a href="/sohnews/20240207/1998241.md">文睿：断粮了，浦发银行火上了热搜榜；一尊，这几天让人头皮发麻，一连扔了三个手榴弹</a></li>
-<li><a href="/headline/20240207/1998252.md">中国证监会主席易会满被免职 吴清接任</a></li>
 <li><a href="/topimagenews/20240207/1998243.md">尴尬！海莉在内华达州初选首战没对手 仅获32%竟还输给“以上皆非”</a></li>
+<li><a href="/headline/20240207/1998252.md">中国证监会主席易会满被免职 吴清接任</a></li>
 <li><a href="/cbnews/20240207/1998180.md">两相比较，让国人感叹！无语了</a></li>
 <li><a href="/cnnews/20240207/1998047.md">我班上当官的同学，不是进去了，就是跳楼了</a></li>
 <li><a href="/cnnews/20240207/1998109.md">捐美国7千万还说“我乐意”的中国富豪 今已破产</a></li>
+<li><a href="/ccpdope/20240208/1998353.md">王岐山两大秘判死缓 专家揭中共党魁用意</a></li>
 <li><a href="/comments/20240207/1998239.md">中国股市大跌 习“亲自指挥”救市惹质疑</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240208/1998462.md" target="_blank">文昭：A股正变成一个更大的雄安！华中雪灾大塞车，中共底牌暴露了</a></li>
 <li><a href="/comments/20240208/1998452.md" target="_blank">美国到底啥时候能衰落？</a></li>
 <li><a href="/comments/20240208/1998451.md" target="_blank">林保华：千股跌停，亡国之兆？</a></li>
 <li><a href="/comments/20240208/1998446.md" target="_blank">王维洛:地质灾害的魔鬼已经从瓶子里放出来了</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240207/1998281.md" target="_blank">【梁京评论】中国资产市场的崩塌与习近平的权力危机</a></li>
 <li><a href="/comments/20240207/1998240.md" target="_blank">【预告】新唐人全球华人新年晚会–神韵晚会</a></li>
 <li><a href="/comments/20240207/1998239.md" target="_blank">中国股市大跌 习“亲自指挥”救市惹质疑</a></li>
-<li><a href="/comments/20240207/1998204.md" target="_blank">挑来挑去 习还是选中了他</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/comments/20231130/1967587.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （一）</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/cbnews/20190701/1151453.md" target="_blank">盘点十大邪教特征 中共条条对号入座</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
 <li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20231204/1969287.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （三）</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/tculture/20231217/1975364.md" target="_blank">医山夜话：张锡纯医案解读（1）根治失眠 思路清晰</a></li>
-<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/taiwannews/20210119/1470524.md" target="_blank">纪录片《蚕食美国1》</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20231223/1978148.md" target="_blank">医山夜话：张锡纯医案解读（三）赭石：降胃气 引火下行</a></li>
+<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
+<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
+<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
 
 </ul>
 </div>
