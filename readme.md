@@ -9,25 +9,25 @@
 <li><a href="/comments/20240207/1998204.md">挑来挑去 习还是选中了他</a></li>
 <li><a href="/topimagenews/20240207/1998146.md">影片疯传 梅西很抽李家超</a></li>
 <li><a href="/cbnews/20240207/1998113.md">〖兲朝浮世绘〗股民友友们，解套的机会来了</a></li>
-<li><a href="/topimagenews/20240207/1998031.md">中国人绝望！这种堵法 得有多少人冻没命？6厅官统一姿势遭井喷【阿波罗网报道】</a></li>
 <li><a href="/ccpdope/20240207/1998247.md">A股狂泄股民火大 中共推出替罪羊：证监会主席下台谢罪</a></li>
 <li><a href="/topimagenews/20240207/1998081.md">不为人知的另一面 原来中国…</a></li>
-<li><a href="/topimagenews/20240207/1998130.md">钢琴家大绝招发威！小粉红500大群被秒封!【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20240207/1998276.md">胡锦涛退休前解封了共党执政前33年被刺杀1645个官员的密档，今天说一个更劲爆的  295集</a></li>
+<li><a href="/topimagenews/20240207/1998130.md">钢琴家大绝招发威！小粉红500大群被秒封!【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20240207/1998115.md">江峰：股灾祸首找到，卖股买债，保党割韭菜；被骂惨，证监会越级面见，请习近平指挥救市；证监烂招，撤销股票操作「卖出」键；提振股市「三大招」+房市白名单，为何越帮越乱【江峰漫谈20240206第815期】</a></li>
 <li><a href="/topimagenews/20240207/1998202.md">3股、楼、债、汇四杀共振，三个崩盘上演，习总要赤膊上阵？【阿波罗网报道】</a></li>
-<li><a href="/baitai/20240207/1998270.md">传习亲自指挥股市 抛出易会满背锅？「券商屠夫」接任证监会主席</a></li>
 <li><a href="/cbnews/20240208/1998347.md">分析：魏凤和确实出事 新春慰问名单独缺他</a></li>
+<li><a href="/baitai/20240207/1998270.md">传习亲自指挥股市 抛出易会满背锅？「券商屠夫」接任证监会主席</a></li>
 <li><a href="/topimagenews/20240207/1998179.md">亡党倒计时启动：分析揭露中共进入末日循环【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240207/1998053.md">哈马斯被灭 以要限期斩首哈马斯领导人</a></li>
 <li><a href="/sohnews/20240207/1998241.md">文睿：断粮了，浦发银行火上了热搜榜；一尊，这几天让人头皮发麻，一连扔了三个手榴弹</a></li>
 <li><a href="/topimagenews/20240207/1998243.md">尴尬！海莉在内华达州初选首战没对手 仅获32%竟还输给“以上皆非”</a></li>
 <li><a href="/headline/20240207/1998252.md">中国证监会主席易会满被免职 吴清接任</a></li>
 <li><a href="/cbnews/20240207/1998180.md">两相比较，让国人感叹！无语了</a></li>
-<li><a href="/cnnews/20240207/1998047.md">我班上当官的同学，不是进去了，就是跳楼了</a></li>
-<li><a href="/cnnews/20240207/1998109.md">捐美国7千万还说“我乐意”的中国富豪 今已破产</a></li>
 <li><a href="/ccpdope/20240208/1998353.md">王岐山两大秘判死缓 专家揭中共党魁用意</a></li>
+<li><a href="/cnnews/20240207/1998109.md">捐美国7千万还说“我乐意”的中国富豪 今已破产</a></li>
 <li><a href="/comments/20240207/1998239.md">中国股市大跌 习“亲自指挥”救市惹质疑</a></li>
+<li><a href="/cnnews/20240207/1998142.md">香港青年街头弹唱《愿荣光归香港》引市民大合唱！警察只能围观</a></li>
+<li><a href="/headline/20240208/1998355.md">「美斯闹剧」传遍海外 评论：香港形象全毁</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240208/1998497.md" target="_blank">川普豁免案上诉高院 科州除名案即将审理【方伟时间-20240207】</a></li>
 <li><a href="/cbnews/20240208/1998432.md" target="_blank">江峰：保地方债不爆雷，牺牲股市，习近平只能二选一</a></li>
 <li><a href="/comments/20240208/1998431.md" target="_blank">梅西香港事件，错在谁？中国股市底在哪里？非法移民成美国大选重大议题 ｜方伟 唐靖远 横河 David 方菲 ｜围炉夜话 02/07</a></li>
 <li><a href="/cbnews/20240208/1998398.md" target="_blank">美国思想领袖：【精彩片段】南方暴雪冻坏返乡人 大量车辆高速路受困 为何几天几夜没有救援？ &#8211; #新闻大家谈</a></li>
@@ -59,13 +60,14 @@
 <li><a href="/cbnews/20240206/1997682.md" target="_blank">春运遇15年来最强冰雪 很多人被困路上</a></li>
 <li><a href="/cbnews/20240206/1997660.md" target="_blank">美航母指挥官强硬回应北京“航母杀手”</a></li>
 <li><a href="/cbnews/20240206/1997631.md" target="_blank">多图：中国雨雪冰冻天气持续 旅客滞留</a></li>
-<li><a href="/cbnews/20240206/1997630.md" target="_blank">雪灾肆虐 两湖2天3座市场被压垮2死多人被困</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240208/1998481.md" target="_blank">江姐为革命舍身上床</a></li>
+<li><a href="/topimagenews/20240208/1998480.md" target="_blank">中国父母炫耀孩子被MIT录取…结果被曝更大猛料</a></li>
 <li><a href="/topimagenews/20240208/1998449.md" target="_blank">千万别下高速 普通公路有去无回！昔温家宝调部队装甲车启动全国抗灾</a></li>
 <li><a href="/topimagenews/20240208/1998421.md" target="_blank">中国经济面临残酷风险！ “债务-通缩螺旋”将随之而来</a></li>
 <li><a href="/topimagenews/20240208/1998420.md" target="_blank">都是党魁害的？今年大雪被曝纯粹人祸【阿波罗网报道】</a></li>
@@ -89,14 +91,15 @@
 <li><a href="/topimagenews/20240207/1997939.md" target="_blank">怵目惊心！中国股市惨跌是亡国征兆？</a></li>
 <li><a href="/topimagenews/20240207/1997938.md" target="_blank">中国A股反弹 营造“过年气氛”？</a></li>
 <li><a href="/topimagenews/20240207/1997844.md" target="_blank">中国市场警世文：问题还不只是股市 告诉你这的都是骗子</a></li>
-<li><a href="/topimagenews/20240207/1997843.md" target="_blank">韩国首度公开“脱北者访谈报告” 曝金正恩统治现况</a></li>
-<li><a href="/topimagenews/20240206/1997830.md" target="_blank">13岁女孩遭7名埃及移民集体强暴 震惊意大利 总理发声</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240208/1998497.md" target="_blank">川普豁免案上诉高院 科州除名案即将审理【方伟时间-20240207】</a></li>
+<li><a href="/comments/20240208/1998479.md" target="_blank">天亮时分：习近平接班人定了？半官宣：前防长魏凤和出事；证监会主席换成政法委书记「券商屠夫」吴清；（政论天下第1225集 20240207）天亮时分</a></li>
+<li><a href="/comments/20240208/1998478.md" target="_blank">A股大涨幕後陷阱曝光，散户急跑路！梅西辱华精日气炸小粉红？习近平遭马云金正恩羞辱？李强彻底抑郁了……</a></li>
 <li><a href="/comments/20240208/1998462.md" target="_blank">文昭：A股正变成一个更大的雄安！华中雪灾大塞车，中共底牌暴露了</a></li>
 <li><a href="/comments/20240208/1998452.md" target="_blank">美国到底啥时候能衰落？</a></li>
 <li><a href="/comments/20240208/1998451.md" target="_blank">林保华：千股跌停，亡国之兆？</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20240208/1998331.md" target="_blank">专栏 &#8211; 纵横大历史：文革系列 第七十八讲 大串联（一）</a></li>
 <li><a href="/comments/20240207/1998292.md" target="_blank">时事大家谈：习近平亲自指挥 中国股市能止跌回升？美中关系迎来龙年 龙鹰之争谁主浮沉？</a></li>
 <li><a href="/comments/20240207/1998284.md" target="_blank">川普不发一言让黑利无地自容。卡尔森说出采访普京的真正原因。RNC主席准备辞职？弹劾马约卡斯出现戏剧性变化。#美国大选 #川普 #弹劾</a></li>
-<li><a href="/comments/20240207/1998281.md" target="_blank">【梁京评论】中国资产市场的崩塌与习近平的权力危机</a></li>
-<li><a href="/comments/20240207/1998240.md" target="_blank">【预告】新唐人全球华人新年晚会–神韵晚会</a></li>
-<li><a href="/comments/20240207/1998239.md" target="_blank">中国股市大跌 习“亲自指挥”救市惹质疑</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/cbnews/20190701/1151453.md" target="_blank">盘点十大邪教特征 中共条条对号入座</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
-<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
-<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/comments/20231130/1967587.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （一）</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/comments/20231201/1968320.md" target="_blank">【非凡新闻】结合中西文化精神 美国神韵表演吸睛</a></li>
 
 </ul>
 </div>
