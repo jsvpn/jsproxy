@@ -9,25 +9,25 @@
 <li><a href="/topimagenews/20240212/1999926.md">这俩洋和尚，让整个中国零售业都傻眼了</a></li>
 <li><a href="/topimagenews/20240212/1999951.md">推翻它！大年初一，中国网在流传《亮剑》这个片段</a></li>
 <li><a href="/cbnews/20240212/1999963.md">江峰：被踢出国际结算，中国的银行灭顶之灾</a></li>
-<li><a href="/baitai/20240212/2000125.md">山东特大枪杀案凶手身分疑似曝光 行凶原因令人震惊 当局封锁消息</a></li>
 <li><a href="/cnnews/20240212/2000011.md">30万黑人基本离开广州，可1300万黑二代该咋办？</a></li>
+<li><a href="/baitai/20240212/2000125.md">山东特大枪杀案凶手身分疑似曝光 行凶原因令人震惊 当局封锁消息</a></li>
 <li><a href="/topimagenews/20240212/2000039.md">【微博精粹】生在中国 你逃无可逃</a></li>
 <li><a href="/baitai/20240212/1999933.md">中国一直发生返贫现象 超级通胀将吞噬所有储蓄</a></li>
 <li><a href="/topimagenews/20240212/1999966.md">深夜暴雷！100亿“神秘女富豪”浮出水面</a></li>
 <li><a href="/cnnews/20240212/1999961.md">悲剧！女子相亲被秒拒，男子：看过她小视频…</a></li>
 <li><a href="/topimagenews/20240212/2000023.md">当机立断跑路！中国教授变卖全部资产动作太快【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240212/2000142.md">莒县特大伤亡枪杀案 互联网大公司联手封锁消息 犯下反人类罪【阿波罗网报道】</a></li>
-<li><a href="/ssgc/20240212/1999892.md">美军再亮杀手锏 共军难有胜机</a></li>
 <li><a href="/sohnews/20240212/2000094.md">退役武警团伙作案，致死致伤人数创历史之最，莒县特大凶案最新揭秘。《老灯开讲第489期》</a></li>
 <li><a href="/sohnews/20240212/2000148.md">文睿：军队，一个极端异常信号出现了，党内火拼，2024一切皆有可能</a></li>
-<li><a href="/cnnews/20240212/2000016.md">突发！消息人士惊爆：北京高层希望照常推进梅西中国行</a></li>
 <li><a href="/comments/20240212/2000021.md">大年初一山东发生特大枪杀案 消息被严密封锁 大量军人到达现场荷枪实弹 网曝惊人内幕</a></li>
+<li><a href="/cnnews/20240212/2000016.md">突发！消息人士惊爆：北京高层希望照常推进梅西中国行</a></li>
 <li><a href="/comments/20240212/2000082.md">中共面临的凶兆</a></li>
 <li><a href="/topimagenews/20240212/2000022.md">死亡螺旋开始绞杀，中国经济大萧条进行时…</a></li>
 <li><a href="/topimagenews/20240212/2000038.md">重磅扒料！梅西事件香港准特首兄弟翻云覆雨 收支表泄密更大猫腻【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20240212/2000100.md">她们是中国相亲最底层，一旦出了国…</a></li>
 <li><a href="/lifebaike/20240212/1999958.md">寿命短的人，一般有“两粗三硬”，哪怕占一个，可能身体已不健康</a></li>
 <li><a href="/cnnews/20240212/2000111.md">中国出了个习大大，教室再破旧也不怕...</a></li>
+<li><a href="/sohnews/20240212/1999913.md">解读《推背图》第四十九象谶语</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240213/2000236.md" target="_blank">【财经拆局】习近平「亲自指挥」 中证监主席成「代罪羔羊」</a></li>
 <li><a href="/comments/20240212/2000207.md" target="_blank">时事大家谈：习近平普京节前通话，两国有怎样的“未来”？</a></li>
 <li><a href="/comments/20240212/2000206.md" target="_blank">时事大家谈：美国巨资“砸向”半导体，美中世界格局竞争刻不容缓？</a></li>
 <li><a href="/comments/20240212/2000205.md" target="_blank">时事大家谈：美国巨资“砸向”半导体，美中世界格局竞争刻不容缓？习近平普京节前通话，两国有怎样的“未来”？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240212/1999891.md" target="_blank">方菲金然现场直击海外最大华人游行，纽约州长领衔；全球最大唐人街，法拉盛曾叫“小台北”；法轮功队伍声势惊人 ｜方菲时间 02/11</a></li>
 <li><a href="/comments/20240211/1999822.md" target="_blank">网友评论：梅西这次“插兜过人”是他一生最精彩的一次过人</a></li>
 <li><a href="/comments/20240211/1999809.md" target="_blank">谢金河：台湾未来的好“大家都不相信！”中国的惨“会出乎大家预料</a></li>
-<li><a href="/comments/20240211/1999808.md" target="_blank">围炉过年：从除夕到元日的民俗守护人心中的善</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/topimagenews/20180608/954788.md" target="_blank">安乐死根本安乐不了，别宣传了</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
 <li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
 
 </ul>
 </div>
