@@ -15,19 +15,19 @@
 <li><a href="/cnnews/20240211/1999870.md">中共出大洋相了！煽情秒变大型翻车现场 网友们幸灾乐祸围观中【阿波罗网报道】</a></li>
 <li><a href="/lifebaike/20240211/1999714.md">鱼刺卡喉咙，千万别再喝醋吞米饭了！只用1招，鱼刺自己“跑出来” </a></li>
 <li><a href="/health/20240211/1999818.md">比多吃盐还可怕，这种调料要少吃，肥胖、三高、癌症都和它有关</a></li>
-<li><a href="/cnnews/20240211/1999681.md">她放弃绿卡 未料回到中国难题更多</a></li>
 <li><a href="/topimagenews/20240211/1999787.md">龙不再翻译为dragon？中国拟正名“loong” 专家揭原因</a></li>
+<li><a href="/cnnews/20240211/1999681.md">她放弃绿卡 未料回到中国难题更多</a></li>
 <li><a href="/topimagenews/20240211/1999707.md">罗刹国第一丑！差距太大 对比一下 中共老脸丢光【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20240211/1999862.md">许家印案涉高层暗战 传被追问三件事</a></li>
 <li><a href="/headline/20240211/1999864.md">中国“私募股神”曹欣无力偿贷春节前跳楼身亡</a></li>
 <li><a href="/cnnews/20240211/1999789.md">全美国疯狂 周一将有多达2250万人请假</a></li>
-<li><a href="/topimagenews/20240211/1999785.md">以色列：在联合国加萨总部下方找到哈玛斯“地道”</a></li>
 <li><a href="/cbnews/20240211/1999780.md">阜阳当地规矩？下车前要给司机“亲一口” 大妈挡门逼新娘就范</a></li>
+<li><a href="/topimagenews/20240211/1999785.md">以色列：在联合国加萨总部下方找到哈玛斯“地道”</a></li>
+<li><a href="/topimagenews/20240212/1999926.md">这俩洋和尚，让整个中国零售业都傻眼了</a></li>
 <li><a href="/worldnews/20240211/1999804.md">白宫：特朗普对俄罗斯和北约的评论“令人震惊且是精神错乱的”</a></li>
+<li><a href="/baitai/20240212/1999933.md">中国一直发生返贫现象 超级通胀将吞噬所有储蓄</a></li>
 <li><a href="/lifebaike/20240211/1999826.md">中老年人有这5个特征，预示你会长寿！即使占到1个，都很不错</a></li>
 <li><a href="/ssgc/20240211/1999728.md">〖微博谈〗民主自由是有传染性的</a></li>
-<li><a href="/topimagenews/20240212/1999926.md">这俩洋和尚，让整个中国零售业都傻眼了</a></li>
-<li><a href="/cnnews/20240211/1999680.md">什么信号？崔天凯半月前发言很古怪</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240212/1999982.md" target="_blank">天亮时分：许家印的三个秘密，房价跌多少才算合适？ 一场公关灾难後，民主党将换下拜登？俄乌战争面临重大转折（政论天下第1228集 20240211）天亮时分</a></li>
 <li><a href="/comments/20240212/1999939.md" target="_blank">梅西全场黑面零笑容零互动 却获拍手赞好</a></li>
 <li><a href="/comments/20240212/1999891.md" target="_blank">方菲金然现场直击海外最大华人游行，纽约州长领衔；全球最大唐人街，法拉盛曾叫“小台北”；法轮功队伍声势惊人 ｜方菲时间 02/11</a></li>
 <li><a href="/comments/20240211/1999822.md" target="_blank">网友评论：梅西这次“插兜过人”是他一生最精彩的一次过人</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240211/1999642.md" target="_blank">楚一丁：《繁花》，一场在恐惧中绽放的梦幻</a></li>
 <li><a href="/comments/20240211/1999626.md" target="_blank">王友群：中共为何查禁这本收录中共言论的书？</a></li>
 <li><a href="/comments/20240211/1999625.md" target="_blank">“革命化的新年”</a></li>
-<li><a href="/comments/20240211/1999624.md" target="_blank">徐客：许家印案涉高层暗战 传被追问三件事</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
-<li><a href="/cbnews/20190701/1151453.md" target="_blank">盘点十大邪教特征 中共条条对号入座</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
-<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/taiwannews/20210119/1470524.md" target="_blank">纪录片《蚕食美国1》</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
 <li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
 
 </ul>
 </div>
