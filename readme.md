@@ -17,17 +17,17 @@
 <li><a href="/baitai/20240212/1999933.md">中国一直发生返贫现象 超级通胀将吞噬所有储蓄</a></li>
 <li><a href="/headline/20240211/1999864.md">中国“私募股神”曹欣无力偿贷春节前跳楼身亡</a></li>
 <li><a href="/topimagenews/20240212/2000039.md">【微博精粹】生在中国 你逃无可逃</a></li>
-<li><a href="/cnnews/20240212/1999961.md">悲剧！女子相亲被秒拒，男子：看过她小视频…</a></li>
 <li><a href="/topimagenews/20240212/1999966.md">深夜暴雷！100亿“神秘女富豪”浮出水面</a></li>
-<li><a href="/lifebaike/20240211/1999826.md">中老年人有这5个特征，预示你会长寿！即使占到1个，都很不错</a></li>
+<li><a href="/cnnews/20240212/1999961.md">悲剧！女子相亲被秒拒，男子：看过她小视频…</a></li>
 <li><a href="/cnnews/20240212/2000011.md">30万黑人基本离开广州，可1300万黑二代该咋办？</a></li>
+<li><a href="/lifebaike/20240211/1999826.md">中老年人有这5个特征，预示你会长寿！即使占到1个，都很不错</a></li>
 <li><a href="/lifebaike/20240212/1999958.md">寿命短的人，一般有“两粗三硬”，哪怕占一个，可能身体已不健康</a></li>
-<li><a href="/ssgc/20240212/1999892.md">美军再亮杀手锏 共军难有胜机</a></li>
 <li><a href="/topimagenews/20240212/2000023.md">当机立断跑路！中国教授变卖全部资产动作太快【阿波罗网报道】</a></li>
+<li><a href="/ssgc/20240212/1999892.md">美军再亮杀手锏 共军难有胜机</a></li>
 <li><a href="/sohnews/20240212/1999913.md">解读《推背图》第四十九象谶语</a></li>
 <li><a href="/sohnews/20240211/1999671.md">朝鲜首位“女帝”金主爱登场！她成为皇太女的谜之道路，她的继位之路会一帆风顺吗？【文昭思绪飞扬324期】</a></li>
 <li><a href="/topimagenews/20240212/1999945.md">重大秘密！联合国彻底暴露？难民署惊现哈马斯数据大型中心</a></li>
-<li><a href="/cnnews/20240212/1999940.md">被共产党干部们捏死的“又一只蚂蚁”</a></li>
+<li><a href="/cnnews/20240212/2000016.md">突发！消息人士惊爆：北京高层希望照常推进梅西中国行</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240212/2000109.md" target="_blank">香港特首用 “Loong” 说龙 评论指如此紧跟北京 可能变“㶶”兼补“窿”</a></li>
 <li><a href="/comments/20240212/2000082.md" target="_blank">中共面临的凶兆</a></li>
 <li><a href="/comments/20240212/2000080.md" target="_blank">最重要启示：今天的人类，来自另外空间，助神创世，拥有逆转历史的力量！天堂中的光灵，展示预言，80%已灵验！每一个选择都有其后果，爱和感恩，到底有多重要？</a></li>
 <li><a href="/comments/20240212/2000052.md" target="_blank">2月11日，华盛顿特区市长穆丽尔·鲍泽、多位市议员及台湾新任驻美代表 #俞大㵢 等人出席由美京中华会馆（CCBA）和华盛顿特区市长亚太裔办公室（MOAPIA）合作举办的一年一度的 #农历新年大游行。</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240211/1999692.md" target="_blank">译丛:全世界都在关注的短暂平静</a></li>
 <li><a href="/comments/20240211/1999691.md" target="_blank">金雁:在一个不幸的社会里，敢于抗衡权力的人不可能是幸福的</a></li>
 <li><a href="/comments/20240211/1999690.md" target="_blank">觉醒的预判 才是保命于乱世的抗体</a></li>
-<li><a href="/comments/20240211/1999685.md" target="_blank">民主党准备启动核选项。拜登迁怒司法部长。自由派大法官力挺川普，集体“屠杀”科州律师默里。#美国大选 #最高法院 #川普</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/taiwannews/20210119/1470761.md" target="_blank">独家：震撼纪录片《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
 <li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20231220/1976789.md" target="_blank">大陆医生曝：九价HPV疫苗导致怀孕能力下降40%</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/taiwannews/20210119/1470524.md" target="_blank">纪录片《蚕食美国1》</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
 
 </ul>
 </div>
