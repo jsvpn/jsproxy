@@ -8,26 +8,26 @@
 <li><a href="/topimagenews/20240213/2000309.md">连番出丑，习近平龙年失控</a></li>
 <li><a href="/comments/20240212/2000176.md">评论｜王丹： 一张照片看习近平的内心世界</a></li>
 <li><a href="/topimagenews/20240212/2000200.md">云南首富惊传落跑？套现345亿元后…移民美国 公司回应</a></li>
-<li><a href="/comments/20240213/2000328.md">开年恶兆？山东莒县特大凶案21死，信息被全网屏蔽 ｜赵兰健 方菲 ｜新闻烽火台 02/12</a></li>
-<li><a href="/ssgc/20240213/2000226.md">五上将落马 中南海难掩“奇耻大辱”</a></li>
 <li><a href="/topimagenews/20240212/2000199.md">舍弃超跑、豪车！有钱人更常开二手TOYOTA？原因曝光</a></li>
+<li><a href="/ssgc/20240213/2000226.md">五上将落马 中南海难掩“奇耻大辱”</a></li>
+<li><a href="/comments/20240213/2000328.md">开年恶兆？山东莒县特大凶案21死，信息被全网屏蔽 ｜赵兰健 方菲 ｜新闻烽火台 02/12</a></li>
 <li><a href="/cbnews/20240213/2000310.md">不忍了！欧盟明确要求习近平必须…</a></li>
-<li><a href="/cnnews/20240213/2000341.md">山重特大杀人案件 终于放开了一点点信息(图0</a></li>
 <li><a href="/sohnews/20240213/2000282.md">山东曝特大灭M案！传5户21人遇害；遇害人好友曝独家细节；排名有异，张又侠要凉了？</a></li>
+<li><a href="/cnnews/20240213/2000341.md">山重特大杀人案件 终于放开了一点点信息(图0</a></li>
 <li><a href="/ccpdope/20240213/2000285.md">华尔街大佬叹：香港一切都结束了</a></li>
-<li><a href="/cbnews/20240213/2000216.md">马斯克贺新年“龙年海报藏巧思” 中国网友看1字吵翻了</a></li>
 <li><a href="/topimagenews/20240213/2000332.md">嫁祸给梅西！躺赚几千万</a></li>
-<li><a href="/cbnews/20240212/2000151.md">江峰：新证监会主席名字有玄妙</a></li>
+<li><a href="/cbnews/20240213/2000216.md">马斯克贺新年“龙年海报藏巧思” 中国网友看1字吵翻了</a></li>
 <li><a href="/topimagenews/20240213/2000228.md">陆股崩盘或导致社会风险 中共救市因担心可怕的民意反转</a></li>
 <li><a href="/topimagenews/20240213/2000402.md">【微博精粹】央视里反贼很多</a></li>
 <li><a href="/comments/20240212/2000196.md">大年初一山东灭门惨案 救人医生也丧命 当局急封锁消息</a></li>
-<li><a href="/cnnews/20240213/2000430.md">福茂董事长、赵小兰妹赵安吉车祸骤逝 年仅50岁</a></li>
 <li><a href="/topimagenews/20240213/2000481.md">中共央视一句话彻底凉凉！官员们的“好日子”要来了！【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20240213/2000430.md">福茂董事长、赵小兰妹赵安吉车祸骤逝 年仅50岁</a></li>
 <li><a href="/cbnews/20240213/2000447.md">〖兲朝浮世绘〗普京这是挑拨西方把枪口转向中国啊</a></li>
 <li><a href="/baitai/20240213/2000275.md">中国多地发生巨额黄金「洗钱」案</a></li>
 <li><a href="/topimagenews/20240213/2000305.md">骇人！曾命中311海啸！他预言 中国在这年消失</a></li>
 <li><a href="/topimagenews/20240213/2000414.md">死亡螺旋绞杀，中国经济大萧条进行时；“让大佬瞬间归零”！多位富豪惨状【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20240212/2000159.md">陈破空：重庆异动！公安局长突遭外行接管。前几任涉政变或行刺。山东大年初一发生了什么？当局隐瞒。梅西风暴扯出霍家贪腐。直播与互动：美东2月12日早9点、中港台2月12日晚9点</a></li>
+<li><a href="/ccpdope/20240213/2000232.md">国运逆转 赶紧逃出「死亡螺旋」</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240213/2000544.md" target="_blank">以色列不顾反对进攻拉法 传拜登爆粗呛以总理“混蛋”</a></li>
+<li><a href="/comments/20240213/2000543.md" target="_blank">联合国首次综合评估：全球五分之一迁徙物种面临灭绝风险</a></li>
+<li><a href="/comments/20240213/2000542.md" target="_blank">【文昭谈古论今】三朝帝师王沪宁</a></li>
+<li><a href="/comments/20240213/2000540.md" target="_blank">【新闻拍案惊奇】20分钟概述普京专访</a></li>
 <li><a href="/comments/20240213/2000453.md" target="_blank">山东莒县特大灭们凶案，亡者好友亲访宅科村！习近平派兵进春晚阻止除习？梅西检讨书绷不住！英国小粉红废2024春晚节目单</a></li>
 <li><a href="/comments/20240213/2000438.md" target="_blank">习近平冻结房地产市场 中国经济成长仅有0和1%之间 中国金融危机暗室发酵</a></li>
 <li><a href="/comments/20240213/2000435.md" target="_blank">股市暴跌 上海“私募股神”还不出高利贷跳楼身亡</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20240212/2000176.md" target="_blank">评论｜王丹： 一张照片看习近平的内心世界</a></li>
 <li><a href="/comments/20240212/2000170.md" target="_blank">【泽论四方】正常顶级明星都不敢来香港了</a></li>
 <li><a href="/comments/20240212/2000130.md" target="_blank">梅西风波政治化 前财爷称将影响香港国际声誉 评论：巨星谁敢来</a></li>
-<li><a href="/comments/20240212/2000109.md" target="_blank">香港特首用 “Loong” 说龙 评论指如此紧跟北京 可能变“㶶”兼补“窿”</a></li>
-<li><a href="/comments/20240212/2000082.md" target="_blank">中共面临的凶兆</a></li>
-<li><a href="/comments/20240212/2000080.md" target="_blank">最重要启示：今天的人类，来自另外空间，助神创世，拥有逆转历史的力量！天堂中的光灵，展示预言，80%已灵验！每一个选择都有其后果，爱和感恩，到底有多重要？</a></li>
-<li><a href="/comments/20240212/2000052.md" target="_blank">2月11日，华盛顿特区市长穆丽尔·鲍泽、多位市议员及台湾新任驻美代表 #俞大㵢 等人出席由美京中华会馆（CCBA）和华盛顿特区市长亚太裔办公室（MOAPIA）合作举办的一年一度的 #农历新年大游行。</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
 <li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/comments/20231223/1978148.md" target="_blank">医山夜话：张锡纯医案解读（三）赭石：降胃气 引火下行</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
 <li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
 
 </ul>
 </div>
