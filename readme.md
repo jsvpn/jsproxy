@@ -18,16 +18,16 @@
 <li><a href="/ssgc/20240213/2000226.md">五上将落马 中南海难掩“奇耻大辱”</a></li>
 <li><a href="/topimagenews/20240212/2000199.md">舍弃超跑、豪车！有钱人更常开二手TOYOTA？原因曝光</a></li>
 <li><a href="/sohnews/20240213/2000282.md">山东曝特大灭M案！传5户21人遇害；遇害人好友曝独家细节；排名有异，张又侠要凉了？</a></li>
-<li><a href="/comments/20240212/2000082.md">中共面临的凶兆</a></li>
 <li><a href="/cnnews/20240212/2000111.md">中国出了个习大大，教室再破旧也不怕...</a></li>
 <li><a href="/ccpdope/20240213/2000285.md">华尔街大佬叹：香港一切都结束了</a></li>
-<li><a href="/topimagenews/20240213/2000228.md">陆股崩盘或导致社会风险 中共救市因担心可怕的民意反转</a></li>
 <li><a href="/cbnews/20240212/2000151.md">江峰：新证监会主席名字有玄妙</a></li>
+<li><a href="/topimagenews/20240213/2000228.md">陆股崩盘或导致社会风险 中共救市因担心可怕的民意反转</a></li>
 <li><a href="/ssgc/20240212/2000093.md">中共为什么常态化明目张胆地撒谎</a></li>
 <li><a href="/cbnews/20240213/2000216.md">马斯克贺新年“龙年海报藏巧思” 中国网友看1字吵翻了</a></li>
-<li><a href="/lifebaike/20240212/2000085.md">大年初四“接财神”，牢记：吃3样忌3事，为龙年祈福纳财添好运</a></li>
 <li><a href="/cnnews/20240213/2000341.md">山重特大杀人案件 终于放开了一点点信息(图0</a></li>
 <li><a href="/comments/20240212/2000130.md">梅西风波政治化 前财爷称将影响香港国际声誉 评论：巨星谁敢来</a></li>
+<li><a href="/topimagenews/20240213/2000332.md">嫁祸给梅西！躺赚几千万</a></li>
+<li><a href="/baitai/20240212/2000115.md">梅西事件：你想被抽肿脸，那就满足你</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240213/2000453.md" target="_blank">山东莒县特大灭们凶案，亡者好友亲访宅科村！习近平派兵进春晚阻止除习？梅西检讨书绷不住！英国小粉红废2024春晚节目单</a></li>
 <li><a href="/comments/20240213/2000438.md" target="_blank">习近平冻结房地产市场 中国经济成长仅有0和1%之间 中国金融危机暗室发酵</a></li>
 <li><a href="/comments/20240213/2000435.md" target="_blank">股市暴跌 上海“私募股神”还不出高利贷跳楼身亡</a></li>
 <li><a href="/comments/20240213/2000401.md" target="_blank">【&quot;钢琴事件&quot;余波未了 Dr.K戳穿&quot;小粉红&quot;虚妄】</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240212/2000082.md" target="_blank">中共面临的凶兆</a></li>
 <li><a href="/comments/20240212/2000080.md" target="_blank">最重要启示：今天的人类，来自另外空间，助神创世，拥有逆转历史的力量！天堂中的光灵，展示预言，80%已灵验！每一个选择都有其后果，爱和感恩，到底有多重要？</a></li>
 <li><a href="/comments/20240212/2000052.md" target="_blank">2月11日，华盛顿特区市长穆丽尔·鲍泽、多位市议员及台湾新任驻美代表 #俞大㵢 等人出席由美京中华会馆（CCBA）和华盛顿特区市长亚太裔办公室（MOAPIA）合作举办的一年一度的 #农历新年大游行。</a></li>
-<li><a href="/comments/20240212/2000025.md" target="_blank">何清涟：中国自外于全球化？完全不可能</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20231220/1976789.md" target="_blank">大陆医生曝：九价HPV疫苗导致怀孕能力下降40%</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
-<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/taiwannews/20210119/1470761.md" target="_blank">独家：震撼纪录片《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
 
 </ul>
 </div>
