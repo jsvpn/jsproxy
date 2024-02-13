@@ -8,8 +8,8 @@
 <li><a href="/topimagenews/20240213/2000309.md">连番出丑，习近平龙年失控</a></li>
 <li><a href="/comments/20240212/2000176.md">评论｜王丹： 一张照片看习近平的内心世界</a></li>
 <li><a href="/topimagenews/20240212/2000200.md">云南首富惊传落跑？套现345亿元后…移民美国 公司回应</a></li>
-<li><a href="/topimagenews/20240212/2000199.md">舍弃超跑、豪车！有钱人更常开二手TOYOTA？原因曝光</a></li>
 <li><a href="/ssgc/20240213/2000226.md">五上将落马 中南海难掩“奇耻大辱”</a></li>
+<li><a href="/topimagenews/20240212/2000199.md">舍弃超跑、豪车！有钱人更常开二手TOYOTA？原因曝光</a></li>
 <li><a href="/cbnews/20240213/2000310.md">不忍了！欧盟明确要求习近平必须…</a></li>
 <li><a href="/comments/20240213/2000328.md">开年恶兆？山东莒县特大凶案21死，信息被全网屏蔽 ｜赵兰健 方菲 ｜新闻烽火台 02/12</a></li>
 <li><a href="/sohnews/20240213/2000282.md">山东曝特大灭M案！传5户21人遇害；遇害人好友曝独家细节；排名有异，张又侠要凉了？</a></li>
@@ -21,13 +21,13 @@
 <li><a href="/cbnews/20240213/2000216.md">马斯克贺新年“龙年海报藏巧思” 中国网友看1字吵翻了</a></li>
 <li><a href="/topimagenews/20240213/2000402.md">【微博精粹】央视里反贼很多</a></li>
 <li><a href="/comments/20240212/2000196.md">大年初一山东灭门惨案 救人医生也丧命 当局急封锁消息</a></li>
-<li><a href="/cbnews/20240213/2000447.md">〖兲朝浮世绘〗普京这是挑拨西方把枪口转向中国啊</a></li>
 <li><a href="/cnnews/20240213/2000430.md">福茂董事长、赵小兰妹赵安吉车祸骤逝 年仅50岁</a></li>
+<li><a href="/cbnews/20240213/2000447.md">〖兲朝浮世绘〗普京这是挑拨西方把枪口转向中国啊</a></li>
+<li><a href="/cnnews/20240213/2000492.md">中国又一个铁饭碗要砸</a></li>
 <li><a href="/baitai/20240213/2000275.md">中国多地发生巨额黄金「洗钱」案</a></li>
+<li><a href="/sohnews/20240213/2000462.md">最新披露莒县凶案真实过程，合计击毙21人包括两个警察，耿爽夫人曹珊出境被边控。《老灯开讲第490期》</a></li>
 <li><a href="/topimagenews/20240213/2000305.md">骇人！曾命中311海啸！他预言 中国在这年消失</a></li>
 <li><a href="/topimagenews/20240213/2000414.md">死亡螺旋绞杀，中国经济大萧条进行时；“让大佬瞬间归零”！多位富豪惨状【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20240213/2000492.md">中国又一个铁饭碗要砸</a></li>
-<li><a href="/ccpdope/20240213/2000232.md">国运逆转 赶紧逃出「死亡螺旋」</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240213/2000564.md" target="_blank">【港呢D】香港早已逝去的「龙」气</a></li>
 <li><a href="/comments/20240213/2000544.md" target="_blank">以色列不顾反对进攻拉法 传拜登爆粗呛以总理“混蛋”</a></li>
 <li><a href="/comments/20240213/2000543.md" target="_blank">联合国首次综合评估：全球五分之一迁徙物种面临灭绝风险</a></li>
 <li><a href="/comments/20240213/2000542.md" target="_blank">【文昭谈古论今】三朝帝师王沪宁</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240212/2000195.md" target="_blank">【新闻拍案惊奇】习释放“三大招”救市令人目瞪口呆！“阴阳合同”搞梅西？</a></li>
 <li><a href="/comments/20240212/2000176.md" target="_blank">评论｜王丹： 一张照片看习近平的内心世界</a></li>
 <li><a href="/comments/20240212/2000170.md" target="_blank">【泽论四方】正常顶级明星都不敢来香港了</a></li>
-<li><a href="/comments/20240212/2000130.md" target="_blank">梅西风波政治化 前财爷称将影响香港国际声誉 评论：巨星谁敢来</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/comments/20231207/1970628.md" target="_blank">民兵对官军，希望之声打造广播界的奇蹟【方伟时间-20231206】</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/tculture/20231217/1975364.md" target="_blank">医山夜话：张锡纯医案解读（1）根治失眠 思路清晰</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20231220/1976683.md" target="_blank">医山夜话：张锡纯医案解读（二）根治胃气不降之证</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
 <li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
 
 </ul>
 </div>
