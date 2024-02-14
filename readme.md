@@ -13,8 +13,8 @@
 <li><a href="/baitai/20240214/2000716.md">秦刚和王毅有血仇？ 美媒爆更多猛料 白宫曾出手调查傅晓田</a></li>
 <li><a href="/finance/20240213/2000501.md">上海的房东现在太难了</a></li>
 <li><a href="/ccpdope/20240214/2000680.md">新年还没过完 中国股市遭遇重锤</a></li>
-<li><a href="/topimagenews/20240213/2000516.md">大年初四 河北邢台一住宅小区发生大爆炸 至少3人遇难【阿波罗网报道】</a></li>
 <li><a href="/ccpdope/20240214/2000639.md">李强不敢步越雷池问责湖北 地方大员早已心领神会</a></li>
+<li><a href="/topimagenews/20240213/2000516.md">大年初四 河北邢台一住宅小区发生大爆炸 至少3人遇难【阿波罗网报道】</a></li>
 <li><a href="/baitai/20240214/2000693.md">末日败相现 一张照片曝光习内心隐忧</a></li>
 <li><a href="/sohnews/20240214/2000694.md">莒县灭门案曝恐怖密令，释放5大重要信息！临沂是最新焦点！《华邮》新曝猛料，秦刚是俄谍傅晓田是英谍？</a></li>
 <li><a href="/topimagenews/20240214/2000749.md">惊爆：秦刚试图自尽！秘密情人被克宫告密 涉英国军情六处【阿波罗网翻译报道】</a></li>
@@ -26,8 +26,8 @@
 <li><a href="/cbnews/20240214/2000628.md">弃父如弃狗！逆子带老父去酷寒风景区 独留他在雪中观景台等死</a></li>
 <li><a href="/cbnews/20240213/2000509.md">29岁妹花30万磨骨变小脸 术后竟“断崖式崩塌”法令纹垂到下巴</a></li>
 <li><a href="/topimagenews/20240214/2000711.md">共军还敢得瑟吗？里程碑！菲军韩制FA-50击落美军F-22猛禽</a></li>
-<li><a href="/topimagenews/20240213/2000585.md">华尔街日报：中国造船厂准备好长期作战 美造船业持续萎缩</a></li>
 <li><a href="/worldnews/20240214/2000730.md">以军公布影片：辛瓦尔携带子女地道中仓皇逃窜</a></li>
+<li><a href="/topimagenews/20240213/2000585.md">华尔街日报：中国造船厂准备好长期作战 美造船业持续萎缩</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240214/2000897.md" target="_blank">此心安处是吾乡：Home is where heart is</a></li>
 <li><a href="/comments/20240214/2000836.md" target="_blank">菁英论坛:中共掩盖历史 海参崴过万华人遇害</a></li>
 <li><a href="/comments/20240214/2000835.md" target="_blank">秦鹏观察:贾玲是如何减肥？梅西真相大反转</a></li>
 <li><a href="/comments/20240214/2000832.md" target="_blank">炸裂！傅晓田李贞驹被英国情报部门策反？ 秦刚因傅晓田畏罪自刹？习近平吓唬老领导，雷人现场绷不住</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240214/2000661.md" target="_blank">【梁京评论】世界秩序的龙年风险与中国变数</a></li>
 <li><a href="/comments/20240214/2000643.md" target="_blank">万众瞩目 法轮功学员阵容壮大 法拉盛大游行迎龙年</a></li>
 <li><a href="/comments/20240214/2000641.md" target="_blank">大年初四“接灶神” 民间流传五大禁忌</a></li>
-<li><a href="/comments/20240214/2000612.md" target="_blank">美参院通过950亿美元决议 誓言捍卫世界自由</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
 <li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/taiwannews/20210119/1470761.md" target="_blank">独家：震撼纪录片《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
 <li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
 
 </ul>
 </div>
