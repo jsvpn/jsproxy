@@ -8,26 +8,26 @@
 <li><a href="/baitai/20240213/2000556.md">中共军中或现反叛 习近平急了</a></li>
 <li><a href="/sohnews/20240213/2000538.md">🧨山东特大凶杀案流出更多惊悚细节!医疗部紧急研判凶手“严重精神病”! 中共下密令, 全面拉网排查“工作失业”, “生活失意”, “关系失和”, “心态失衡”等16 类别“危险人员”!【130224】</a></li>
 <li><a href="/baitai/20240214/2000716.md">秦刚和王毅有血仇？ 美媒爆更多猛料 白宫曾出手调查傅晓田</a></li>
-<li><a href="/finance/20240213/2000501.md">上海的房东现在太难了</a></li>
 <li><a href="/ccpdope/20240214/2000639.md">李强不敢步越雷池问责湖北 地方大员早已心领神会</a></li>
 <li><a href="/ccpdope/20240214/2000680.md">新年还没过完 中国股市遭遇重锤</a></li>
 <li><a href="/topimagenews/20240213/2000516.md">大年初四 河北邢台一住宅小区发生大爆炸 至少3人遇难【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240214/2000749.md">惊爆：秦刚试图自尽！秘密情人被克宫告密 涉英国军情六处【阿波罗网翻译报道】</a></li>
 <li><a href="/baitai/20240214/2000693.md">末日败相现 一张照片曝光习内心隐忧</a></li>
 <li><a href="/sohnews/20240214/2000694.md">莒县灭门案曝恐怖密令，释放5大重要信息！临沂是最新焦点！《华邮》新曝猛料，秦刚是俄谍傅晓田是英谍？</a></li>
-<li><a href="/cbnews/20240213/2000500.md">16岁女孩被拒登机 赴免签国要注意这些</a></li>
 <li><a href="/topimagenews/20240214/2000772.md">这消息超级劲爆！却鲜为人知 直到它干了一件出人意料的大事</a></li>
-<li><a href="/topimagenews/20240214/2000613.md">你跟我讲“自古以来”？这国帮普丁上历史课 呛爆中俄</a></li>
 <li><a href="/comments/20240214/2000713.md">周晓辉：李强不敢批湖北 地方大员不将其当回事</a></li>
+<li><a href="/topimagenews/20240214/2000613.md">你跟我讲“自古以来”？这国帮普丁上历史课 呛爆中俄</a></li>
 <li><a href="/lifebaike/20240214/2000657.md">中产收割机:一个家长群损失千万</a></li>
 <li><a href="/cbnews/20240213/2000509.md">29岁妹花30万磨骨变小脸 术后竟“断崖式崩塌”法令纹垂到下巴</a></li>
 <li><a href="/cbnews/20240214/2000628.md">弃父如弃狗！逆子带老父去酷寒风景区 独留他在雪中观景台等死</a></li>
 <li><a href="/topimagenews/20240214/2000711.md">共军还敢得瑟吗？里程碑！菲军韩制FA-50击落美军F-22猛禽</a></li>
 <li><a href="/worldnews/20240214/2000730.md">以军公布影片：辛瓦尔携带子女地道中仓皇逃窜</a></li>
-<li><a href="/topimagenews/20240213/2000585.md">华尔街日报：中国造船厂准备好长期作战 美造船业持续萎缩</a></li>
-<li><a href="/comments/20240214/2000748.md">中国最近怎么了？</a></li>
+<li><a href="/cnnews/20240214/2000827.md">严重误判！北京如今束手无策</a></li>
 <li><a href="/topimagenews/20240214/2000820.md">重磅炸弹！加国大学“全校封杀”微信！立即执行</a></li>
+<li><a href="/comments/20240214/2000748.md">中国最近怎么了？</a></li>
+<li><a href="/topimagenews/20240213/2000585.md">华尔街日报：中国造船厂准备好长期作战 美造船业持续萎缩</a></li>
 <li><a href="/lifebaike/20240214/2000734.md">有一种父母，正在毁掉孩子的人生，很多80后90后都中招了…</a></li>
+<li><a href="/ssgc/20240214/2000764.md">〖微博谈〗反正你被默认只配等蓝底白字</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240214/2000937.md" target="_blank">今年圈子里的人拜年只用这4个字</a></li>
 <li><a href="/comments/20240214/2000897.md" target="_blank">此心安处是吾乡：Home is where heart is</a></li>
 <li><a href="/comments/20240214/2000836.md" target="_blank">菁英论坛:中共掩盖历史 海参崴过万华人遇害</a></li>
 <li><a href="/comments/20240214/2000835.md" target="_blank">秦鹏观察:贾玲是如何减肥？梅西真相大反转</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240214/2000682.md" target="_blank">法拉盛游行，带给方伟的困惑和震惊【方伟时间-20240213】</a></li>
 <li><a href="/comments/20240214/2000661.md" target="_blank">【梁京评论】世界秩序的龙年风险与中国变数</a></li>
 <li><a href="/comments/20240214/2000643.md" target="_blank">万众瞩目 法轮功学员阵容壮大 法拉盛大游行迎龙年</a></li>
-<li><a href="/comments/20240214/2000641.md" target="_blank">大年初四“接灶神” 民间流传五大禁忌</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
-<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
-<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20240116/1984226.md" target="_blank">湖北老河口遇仙记</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
+<li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
 
 </ul>
 </div>
