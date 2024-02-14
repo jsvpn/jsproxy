@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/baitai/20240213/2000556.md">中共军中或现反叛 习近平急了</a></li>
 <li><a href="/baitai/20240214/2000716.md">秦刚和王毅有血仇？ 美媒爆更多猛料 白宫曾出手调查傅晓田</a></li>
 <li><a href="/ccpdope/20240214/2000639.md">李强不敢步越雷池问责湖北 地方大员早已心领神会</a></li>
 <li><a href="/ccpdope/20240214/2000680.md">新年还没过完 中国股市遭遇重锤</a></li>
 <li><a href="/sohnews/20240214/2000694.md">莒县灭门案曝恐怖密令，释放5大重要信息！临沂是最新焦点！《华邮》新曝猛料，秦刚是俄谍傅晓田是英谍？</a></li>
 <li><a href="/baitai/20240214/2000693.md">末日败相现 一张照片曝光习内心隐忧</a></li>
 <li><a href="/topimagenews/20240214/2000749.md">惊爆：秦刚试图自尽！秘密情人被克宫告密 涉英国军情六处【阿波罗网翻译报道】</a></li>
-<li><a href="/topimagenews/20240214/2000772.md">这消息超级劲爆！却鲜为人知 直到它干了一件出人意料的大事</a></li>
 <li><a href="/topimagenews/20240214/2000613.md">你跟我讲“自古以来”？这国帮普丁上历史课 呛爆中俄</a></li>
+<li><a href="/topimagenews/20240214/2000772.md">这消息超级劲爆！却鲜为人知 直到它干了一件出人意料的大事</a></li>
 <li><a href="/cnnews/20240214/2000827.md">严重误判！北京如今束手无策</a></li>
 <li><a href="/lifebaike/20240214/2000657.md">中产收割机:一个家长群损失千万</a></li>
 <li><a href="/comments/20240214/2000713.md">周晓辉：李强不敢批湖北 地方大员不将其当回事</a></li>
 <li><a href="/topimagenews/20240214/2000820.md">重磅炸弹！加国大学“全校封杀”微信！立即执行</a></li>
 <li><a href="/cbnews/20240214/2000862.md">〖兲朝浮世绘〗当今谁最怕死？还得数习总</a></li>
+<li><a href="/cnnews/20240214/2000913.md">出事了 金价暴跌</a></li>
 <li><a href="/cbnews/20240214/2000628.md">弃父如弃狗！逆子带老父去酷寒风景区 独留他在雪中观景台等死</a></li>
 <li><a href="/topimagenews/20240214/2000711.md">共军还敢得瑟吗？里程碑！菲军韩制FA-50击落美军F-22猛禽</a></li>
-<li><a href="/worldnews/20240214/2000730.md">以军公布影片：辛瓦尔携带子女地道中仓皇逃窜</a></li>
 <li><a href="/comments/20240214/2000748.md">中国最近怎么了？</a></li>
-<li><a href="/cnnews/20240214/2000913.md">出事了 金价暴跌</a></li>
+<li><a href="/worldnews/20240214/2000730.md">以军公布影片：辛瓦尔携带子女地道中仓皇逃窜</a></li>
 <li><a href="/topimagenews/20240213/2000585.md">华尔街日报：中国造船厂准备好长期作战 美造船业持续萎缩</a></li>
 <li><a href="/lifebaike/20240214/2000734.md">有一种父母，正在毁掉孩子的人生，很多80后90后都中招了…</a></li>
 <li><a href="/ssgc/20240214/2000764.md">〖微博谈〗反正你被默认只配等蓝底白字</a></li>
 <li><a href="/topimagenews/20240214/2000843.md">惊人！美墨边境现中国移民洪流</a></li>
+<li><a href="/cnnews/20240214/2000876.md">打假网红铁头“死”于嫖娼</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240214/2000985.md" target="_blank">美国网路安全公司：台湾大选前24小时 中国骇客网攻暴增</a></li>
+<li><a href="/comments/20240214/2000984.md" target="_blank">俄乌战争致乌克兰文化遗产损失约35亿美元</a></li>
+<li><a href="/comments/20240214/2000983.md" target="_blank">【新闻拍案惊奇】秦刚是俄罗斯间谍，真假？</a></li>
 <li><a href="/comments/20240214/2000937.md" target="_blank">今年圈子里的人拜年只用这4个字</a></li>
 <li><a href="/comments/20240214/2000897.md" target="_blank">此心安处是吾乡：Home is where heart is</a></li>
 <li><a href="/comments/20240214/2000836.md" target="_blank">菁英论坛:中共掩盖历史 海参崴过万华人遇害</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20240214/2000707.md" target="_blank">袁斌: 最新版“国王的新装”——“风景这边独好”</a></li>
 <li><a href="/comments/20240214/2000706.md" target="_blank">黄文局:台湾人如何学习美国犹太人的影响力</a></li>
 <li><a href="/comments/20240214/2000705.md" target="_blank">徐客:中共“东厂”扩张 军队部分最神秘</a></li>
-<li><a href="/comments/20240214/2000682.md" target="_blank">法拉盛游行，带给方伟的困惑和震惊【方伟时间-20240213】</a></li>
-<li><a href="/comments/20240214/2000661.md" target="_blank">【梁京评论】世界秩序的龙年风险与中国变数</a></li>
-<li><a href="/comments/20240214/2000643.md" target="_blank">万众瞩目 法轮功学员阵容壮大 法拉盛大游行迎龙年</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20231204/1969287.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （三）</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
 <li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
-<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
+<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
+<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
 
 </ul>
 </div>
