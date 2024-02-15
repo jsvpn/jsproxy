@@ -5,10 +5,8 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/cnnews/20240214/2000827.md">严重误判！北京如今束手无策</a></li>
 <li><a href="/cnnews/20240214/2000913.md">出事了 金价暴跌</a></li>
 <li><a href="/cbnews/20240214/2000862.md">〖兲朝浮世绘〗当今谁最怕死？还得数习总</a></li>
-<li><a href="/topimagenews/20240214/2000820.md">重磅炸弹！加国大学“全校封杀”微信！立即执行</a></li>
 <li><a href="/cnnews/20240214/2000932.md">大批华人“造假” 这家银行停止全球转账</a></li>
 <li><a href="/topimagenews/20240214/2000979.md">央视辱华？辱共了！删除“梅西捧杯画面”换成他 搞砸了 升到新高度</a></li>
 <li><a href="/sports/20240214/2000939.md">陆男每天运动8小时！三餐饭后都要做 坚持20年全身竟坏光</a></li>
@@ -16,18 +14,20 @@
 <li><a href="/cbnews/20240214/2000928.md">中共空军公开吹嘘！又被”合订本“打脸了【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240214/2000843.md">惊人！美墨边境现中国移民洪流</a></li>
 <li><a href="/cbnews/20240214/2001021.md">四川小伙开兰博基尼高调回乡 这一撞“全国都知道”</a></li>
-<li><a href="/baitai/20240215/2001056.md">前日本驻华大使回忆录 爆习近平掌权前后大转变</a></li>
 <li><a href="/cbnews/20240214/2000851.md">江峰：中央团拜会，一桌一个神秘人！防高层发难串联，习近平已草木皆兵；普京邀请卡尔森采访透露重大讯息：请美国调转枪口打中共！联中抗苏到联俄抗共，中美俄新三角今年形成？【江峰漫谈20240213第819期】</a></li>
+<li><a href="/baitai/20240215/2001056.md">前日本驻华大使回忆录 爆习近平掌权前后大转变</a></li>
+<li><a href="/sohnews/20240215/2001117.md">灭门案更多细节曝光，女大学生遇害；传“内部解决”暗藏难言之隐？邢台居民楼大爆炸，又传报复作案？</a></li>
 <li><a href="/baitai/20240214/2001005.md">知情人士曝中共征兵异动 习疑备战</a></li>
-<li><a href="/topimagenews/20240214/2000852.md">抗衡北京 邻国又有大动作</a></li>
 <li><a href="/yule/20240215/2001045.md">最美港姐拒豪门嫁穷小子13年 真实婚姻现况曝光</a></li>
+<li><a href="/topimagenews/20240214/2000852.md">抗衡北京 邻国又有大动作</a></li>
 <li><a href="/cnnews/20240214/2000876.md">打假网红铁头“死”于嫖娼</a></li>
 <li><a href="/cnnews/20240214/2000940.md">30件事浪费生命 排第1的让你目瞪口呆</a></li>
-<li><a href="/sohnews/20240215/2001117.md">灭门案更多细节曝光，女大学生遇害；传“内部解决”暗藏难言之隐？邢台居民楼大爆炸，又传报复作案？</a></li>
 <li><a href="/comments/20240214/2000832.md">炸裂！傅晓田李贞驹被英国情报部门策反？ 秦刚因傅晓田畏罪自刹？习近平吓唬老领导，雷人现场绷不住</a></li>
 <li><a href="/ccpdope/20240215/2001066.md">普京企图祸水东引 习该怎么办？</a></li>
 <li><a href="/cnnews/20240214/2000941.md">23种顶级思维</a></li>
 <li><a href="/finance/20240214/2000834.md">看不到底！中国房价至少还要跌这个数</a></li>
+<li><a href="/topimagenews/20240214/2000999.md">马斯克反对援乌以台法案 普丁“不可能”输掉乌克兰战争</a></li>
+<li><a href="/cnnews/20240214/2000942.md">陆10岁女童秀“10年压岁钱”惊呆网！“这一叠”辗压5上班族年薪</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240215/2001264.md" target="_blank">裴毅然: 大陆网络自媒折射赤伤</a></li>
+<li><a href="/comments/20240215/2001263.md" target="_blank">很多人都没有纳税人意识，是因为感受不到“痛觉”</a></li>
 <li><a href="/comments/20240215/2001241.md" target="_blank">2024央视春晚藏不祥噩耗！梅西辱华引出更多球星辱共，霍启刚完了！普京出卖了习近平？</a></li>
 <li><a href="/comments/20240215/2001229.md" target="_blank">乱世降临 中共建政以来最大命案</a></li>
 <li><a href="/comments/20240215/2001228.md" target="_blank">李隽：普京在接受卡尔森采访时的十二大谎言，并附上了佐证材料</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240214/2001017.md" target="_blank">时事大家谈：美版拼多多Temu再登“美国春晚”，但中国跨境电商大势已去？</a></li>
 <li><a href="/comments/20240214/2001011.md" target="_blank">时事大家谈：这个春节，你的消费降级了吗？美版拼多多Temu再登“美国春晚”，但中国跨境电商大势已去？</a></li>
 <li><a href="/comments/20240214/2001008.md" target="_blank">共和党人惊险但成功弹劾了马约卡斯。拜登内部爆发内讧。RNC不务正业，川普出手重塑共和党，着眼于11月大选。#美国大选 #川普 #弹劾</a></li>
-<li><a href="/comments/20240214/2000993.md" target="_blank">【寰宇古今】美斯风暴：香港进一步「遗址化」</a></li>
-<li><a href="/comments/20240214/2000985.md" target="_blank">美国网路安全公司：台湾大选前24小时 中国骇客网攻暴增</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20231201/1968320.md" target="_blank">【非凡新闻】结合中西文化精神 美国神韵表演吸睛</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/topimagenews/20180608/954788.md" target="_blank">安乐死根本安乐不了，别宣传了</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/comments/20231213/1973586.md" target="_blank">六道轮回之畜生道</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
 <li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
 
 </ul>
 </div>
