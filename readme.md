@@ -20,8 +20,8 @@
 <li><a href="/comments/20240216/2001748.md">邓小平说的就是习近平的毛病</a></li>
 <li><a href="/baitai/20240216/2001801.md">体制内的人也造反？政变暗喻满天飞 民众等待1976</a></li>
 <li><a href="/topimagenews/20240216/2001714.md">【微博精粹】体制内微信拜年 “除夕”快乐 赫然取代“新年快乐”</a></li>
-<li><a href="/comments/20240216/2001625.md">中共玩穿帮！开快艇怎样捕鱼？渔民不会游泳？</a></li>
 <li><a href="/cnnews/20240216/2001771.md">月薪3万的中产，过年回家被自己穷笑了</a></li>
+<li><a href="/comments/20240216/2001625.md">中共玩穿帮！开快艇怎样捕鱼？渔民不会游泳？</a></li>
 <li><a href="/cnnews/20240216/2001740.md">苏联飞船返回地球，舱门打开3名宇航员已经死亡</a></li>
 <li><a href="/sohnews/20240216/2001854.md">《解放军报》释放绝望信号❗️2024习对金融圈有大动作…… 中南海“国师”语出惊人！</a></li>
 <li><a href="/ssgc/20240216/2001628.md">〖微博谈〗小学生的游戏</a></li>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240217/2001998.md" target="_blank">周晓辉：有中共背景的福茂董事长赵安吉蹊跷猝亡</a></li>
+<li><a href="/comments/20240217/2001997.md" target="_blank">谢田：川普的北约政策——争议、动机与目标</a></li>
+<li><a href="/comments/20240217/2001996.md" target="_blank">网海拾贝:人们都在等待着1976年的到来</a></li>
 <li><a href="/comments/20240217/2001932.md" target="_blank">【泽论四方】「慕尼黑安全会议」所剩无几的对话机会</a></li>
 <li><a href="/comments/20240217/2001920.md" target="_blank">【文韬政论】中共向全世界证明了甚么是「近朱者黑，弃朱者赤」</a></li>
 <li><a href="/comments/20240216/2001902.md" target="_blank">时事大家谈：白宫招数接连，挡得住中国便宜电动车滚滚车轮？</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20240216/2001660.md" target="_blank">中产紧箍咒：承诺你幸福，又发出坠落的恐吓</a></li>
 <li><a href="/comments/20240216/2001659.md" target="_blank">黄裕生：逻辑是预防人类愚蠢的一道免疫系统</a></li>
 <li><a href="/comments/20240216/2001658.md" target="_blank">海边的西塞罗：芥川的鼻子与贾玲的暴瘦</a></li>
-<li><a href="/comments/20240216/2001657.md" target="_blank">李承鹏猛文：站住别动！我是中国人民的感情</a></li>
-<li><a href="/comments/20240216/2001656.md" target="_blank">张良任：拜登：内塔尼亚胡 我爱你 但我不认同你的任何话</a></li>
-<li><a href="/comments/20240216/2001652.md" target="_blank">天亮时分：中央军委第一贪，正在架空习近平；战狼染艾滋病？中共国师也反了，北大演讲震撼吐真言（政论天下第1232集 20240215）天亮时分</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/cnnews/20221211/1822144.md" target="_blank">盖盖冲马桶很可怕！瞬间“病毒炸开”？</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
 <li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
 
 </ul>
 </div>
