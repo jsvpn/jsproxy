@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/sohnews/20240217/2002285.md">陈破空：内幕：马兴瑞王小洪激烈争位，夫人帮和福建帮恶斗。蔡奇当众扇了吴会满一耳光！俄国反对派领袖突然离世，激起全俄悼念潮！中国老粉红竟同情普京。直播与互动：美东2月17日早8点45、中港台2月17日晚8点45</a></li>
 <li><a href="/lishi/20240218/2002372.md">“靠山”不可靠 皇上厚爱的驸马爷走上不归路</a></li>
 <li><a href="/cbnews/20240217/2002317.md">黑衣男坐镇团拜会 专家：习近平最大威胁在党内</a></li>
 <li><a href="/sohnews/20240218/2002327.md">“吴京沉默 网络发酵延伸出具体时间 地点”No.03（02/17/24）</a></li>
@@ -14,20 +13,21 @@
 <li><a href="/yule/20240218/2002409.md">横店20万群演现状：美女泛滥、懒汉遍地</a></li>
 <li><a href="/topimagenews/20240218/2002379.md">史无前例！美半数航母云集中共家门口</a></li>
 <li><a href="/topimagenews/20240218/2002445.md">“这队伍真的很长，看来中国问题不小”</a></li>
-<li><a href="/ccpdope/20240217/2002282.md">27名中共官员警察密集病亡 其中23人是党员</a></li>
 <li><a href="/topimagenews/20240218/2002398.md">新时代来了！我们和美帝的差距越来越大</a></li>
 <li><a href="/cbnews/20240218/2002441.md">〖兲朝浮世绘〗梅西辱华事件之命运的齿轮转出的辱华随机性</a></li>
 <li><a href="/sohnews/20240218/2002351.md">赵安吉再曝新疑点，救援人员一语惊人！梅西事件大反转，主办方突然改口；互动问答：赵安吉是美版王健吗？</a></li>
+<li><a href="/health/20240218/2002382.md">“天然泻药”找到了，没事吃两口，排宿便清肠胃，悄悄瘦出小蛮腰</a></li>
 <li><a href="/ssgc/20240217/2002301.md">有中共背景的福茂董事长赵安吉蹊跷猝亡</a></li>
 <li><a href="/yule/20240218/2002352.md">费翔伦敦地铁被捕获！帅气素颜亲切陪聊天</a></li>
-<li><a href="/health/20240218/2002382.md">“天然泻药”找到了，没事吃两口，排宿便清肠胃，悄悄瘦出小蛮腰</a></li>
 <li><a href="/baitai/20240218/2002411.md">传曾组私家军威胁中南海 总参情报中将案终浮水面</a></li>
 <li><a href="/sohnews/20240218/2002427.md">赵安吉案惊天黑幕！下手势力非常强大！许家印咬出赵安吉？财新网有意谎闻？赵家2女婿被警告！【新闻看点 李沐阳2.17】</a></li>
 <li><a href="/topimagenews/20240218/2002484.md">【微博精粹】最重要的政敌突然死在狱中 普大帝怎么编都没用</a></li>
 <li><a href="/cnnews/20240218/2002392.md">人物真相:中国女装大王 因疫情清零而破产</a></li>
 <li><a href="/sohnews/20240218/2002366.md">“叫我调座位？辱华！”小粉红咆哮，外国人大笑；习要给穷人分房？“二次房改”闹剧 你准备好了吗？中国房地产真要凉了！习“不养懒人观”左右互搏。｜#新闻五人行 2/17/2024</a></li>
+<li><a href="/topimagenews/20240218/2002493.md">川普一大案创五个史无前例！美国真的很危险了</a></li>
 <li><a href="/cbnews/20240217/2002309.md">今非昔比 中国股市暴跌为何不影响世界</a></li>
 <li><a href="/topimagenews/20240218/2002490.md">中国地区特异现象弥漫 被中共统治到欲哭无泪【阿波罗网报道】</a></li>
+<li><a href="/ssgc/20240218/2002459.md">〖微博谈〗所谓伟大领袖往往胆小如鼠</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240218/2002595.md" target="_blank">刘德华新年档《红毯先生》票房惨败 宣布撤档</a></li>
 <li><a href="/comments/20240218/2002559.md" target="_blank">它是地球上，唯一同时和四个核武力量直接接壤的国家</a></li>
 <li><a href="/comments/20240218/2002553.md" target="_blank">不读书，你连捐款留言都写不过人家</a></li>
 <li><a href="/comments/20240218/2002552.md" target="_blank">崔永元：党媒婊这无耻程度和杀人放火区别大吗？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240217/2002274.md" target="_blank">渖涧松：她那年十九岁（连载二十三）</a></li>
 <li><a href="/comments/20240217/2002252.md" target="_blank">袁红冰：《酒书九章——饮者心灵圣典》 第五章 酒德唯真——人生第一苦恋</a></li>
 <li><a href="/comments/20240217/2002242.md" target="_blank">龙年有巨变？中共开年遭遇九大凶兆</a></li>
-<li><a href="/comments/20240217/2002241.md" target="_blank">摩洛哥海滩发现9万年前完整的人类脚印</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/taiwannews/20210119/1470761.md" target="_blank">独家：震撼纪录片《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/comments/20231214/1974098.md" target="_blank">美国众议院议长：我所坚守的保守主义，具体是些什么内容？</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
 <li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
 
 </ul>
 </div>
