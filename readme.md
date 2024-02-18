@@ -8,7 +8,6 @@
 <li><a href="/comments/20240217/2001972.md">见山：赊刀人预言习近平终局</a></li>
 <li><a href="/baitai/20240217/2002020.md">一部电影在中国异常火爆 习近平危险了</a></li>
 <li><a href="/topimagenews/20240217/2002273.md">贵圈太乱了! 战狼吴京爱滋疑云再传“传播链” 娱乐圈、官太太们怕怕</a></li>
-<li><a href="/sohnews/20240217/2002011.md">警方证实赵安吉坠湖死亡，财新网为何撒谎？涉千人计划和王岐山，赵女丈夫才是主角？又杀反对派，普京慌了？</a></li>
 <li><a href="/topimagenews/20240217/2002057.md">突发！川普被罚3.64 亿美元，被禁三年</a></li>
 <li><a href="/topimagenews/20240217/2002040.md">成败关键，他能否成为“中共李鸿章”</a></li>
 <li><a href="/ssgc/20240217/2002037.md">〖微博谈〗习近平已失去十年窗口期</a></li>
@@ -18,16 +17,17 @@
 <li><a href="/sohnews/20240217/2002285.md">陈破空：内幕：马兴瑞王小洪激烈争位，夫人帮和福建帮恶斗。蔡奇当众扇了吴会满一耳光！俄国反对派领袖突然离世，激起全俄悼念潮！中国老粉红竟同情普京。直播与互动：美东2月17日早8点45、中港台2月17日晚8点45</a></li>
 <li><a href="/topimagenews/20240217/2002220.md">学习习思想！中共照搬苏联时代的政治笑话...【阿波罗网报道】</a></li>
 <li><a href="/comments/20240217/2002132.md">赵小兰妹妹赵安吉倒车离世吓坏习近平！72岁驾崩三大信号井喷，习进入倒计时加速时刻？</a></li>
-<li><a href="/topimagenews/20240217/2002041.md">普京“谋杀”！走了一步臭棋</a></li>
 <li><a href="/comments/20240217/2002242.md">龙年有巨变？中共开年遭遇九大凶兆</a></li>
+<li><a href="/topimagenews/20240217/2002041.md">普京“谋杀”！走了一步臭棋</a></li>
 <li><a href="/cbnews/20240217/2002317.md">黑衣男坐镇团拜会 专家：习近平最大威胁在党内</a></li>
 <li><a href="/topimagenews/20240217/2002248.md">华为人均分红爽领240万？员工戳破真相：外面不懂到处吹</a></li>
-<li><a href="/comments/20240217/2002043.md">拿习近平开涮….《经济学人》很淘气</a></li>
 <li><a href="/sohnews/20240218/2002327.md">“吴京沉默 网络发酵延伸出具体时间 地点”No.03（02/17/24）</a></li>
+<li><a href="/comments/20240217/2002043.md">拿习近平开涮….《经济学人》很淘气</a></li>
 <li><a href="/cbnews/20240217/2002193.md">越来越多中国年轻人决定在家当“全职孩子”</a></li>
 <li><a href="/cnnews/20240217/2002111.md">一张高价票，撕开遮羞布</a></li>
 <li><a href="/sohnews/20240217/2002280.md">🔥美国华人女船王赵安吉是溺亡! 特斯拉完全淹没, 4米深的池塘如何“害死”了赵安吉?! 福茂为何撒谎怪车祸? “车祸死”服务中共利益, 背后黑幕太可怕!【17022024】</a></li>
 <li><a href="/ccpdope/20240217/2002282.md">27名中共官员警察密集病亡 其中23人是党员</a></li>
+<li><a href="/funmedia/20240217/2002134.md">古代没混凝土，为何秦直道能2200年不长杂草？材料现代都舍不得用</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20230920/1936271.md" target="_blank">防止你的孩子不成功（5） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20231207/1970628.md" target="_blank">民兵对官军，希望之声打造广播界的奇蹟【方伟时间-20231206】</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20231220/1976789.md" target="_blank">大陆医生曝：九价HPV疫苗导致怀孕能力下降40%</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/comments/20231223/1978148.md" target="_blank">医山夜话：张锡纯医案解读（三）赭石：降胃气 引火下行</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
 
 </ul>
 </div>
