@@ -9,7 +9,6 @@
 <li><a href="/headline/20240219/2002693.md">中共又号召解放思想 习近平思想怎么办？</a></li>
 <li><a href="/topimagenews/20240219/2002695.md">地狱级！太多名人被中共糟蹋 成国际笑话【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20240219/2002857.md">李铁监禁中去世，李强策划解放思想大讨论，江苏海安大爆炸。《老灯开讲第495期》</a></li>
-<li><a href="/baitai/20240219/2002671.md">最新骗术完全颠覆认知 心多黑的人才能做出来</a></li>
 <li><a href="/cbnews/20240219/2002795.md">〖兲朝浮世绘〗中共全部精力都用来收拾自家百姓了 哪有闲工夫去侵略别国？</a></li>
 <li><a href="/sohnews/20240219/2002709.md">政变视频满天飞，蔡奇角色微妙；金正恩要向西方“托孤”？小兄弟也背叛了？中共“血崩”元年，外资连元件都不敢用了；中国网民醒了：你“软着陆”是拿我垫背，“老子给你到处说”｜#新闻五人行</a></li>
 <li><a href="/baitai/20240219/2002840.md">李克强的死宣告胡锦涛作为政治人物一生的惨败</a></li>
@@ -18,16 +17,17 @@
 <li><a href="/topimagenews/20240219/2002876.md">小米爆月底大裁员！员工气炸“坑年终奖金” 真相傻眼了</a></li>
 <li><a href="/comments/20240219/2002796.md">湖南放了个冲天炮 像当年上海、广东力挺邓小平？</a></li>
 <li><a href="/baitai/20240219/2002721.md">赵安吉之死和国内银行叫停对俄业务</a></li>
-<li><a href="/sohnews/20240219/2002904.md">文睿：王毅，双膝一起跪了，不过，到了今天一切都已经太晚了</a></li>
 <li><a href="/baitai/20240219/2002938.md">湖南重要通知引大乱 新一场内斗大战箭在弦上？</a></li>
+<li><a href="/sohnews/20240219/2002904.md">文睿：王毅，双膝一起跪了，不过，到了今天一切都已经太晚了</a></li>
 <li><a href="/topimagenews/20240219/2002726.md">中国房地产市场正在崩溃 习“社会主义住房”收拾残局？</a></li>
 <li><a href="/topimagenews/20240219/2002871.md">谜底揭晓？湖南鼓吹“解放思想” 与两月前一次会议有关？【阿波罗网报道】</a></li>
 <li><a href="/comments/20240219/2002725.md">细思极恐！赵安吉被溺水？中共媒体为何集体撒谎？赵小兰妹妹是中共高级特工？恒大集团许家印交代了赵安吉？#赵安吉 #赵小兰 #特斯拉</a></li>
 <li><a href="/comments/20240219/2002916.md">为什么要建紫禁城？为了解决大问题，故意在地下埋金！反反复复，纠结了近70年！中国最玄的风水！</a></li>
+<li><a href="/comments/20240219/2002931.md">川普有如神助，天降收入40亿。卡车司机抵制送货到纽约。千双高档运动鞋被一抢而空。#川普 #商业欺诈 #卡车司机</a></li>
 <li><a href="/topimagenews/20240219/2002736.md">《首尔之春》，我劝你别看…</a></li>
 <li><a href="/comments/20240219/2002724.md">赵安吉案再逆转：进池塘方式看呆警方；陈立人不认罪，同学的话震惊网络！习近平哭穷，厕所水泡方便面</a></li>
-<li><a href="/comments/20240219/2002931.md">川普有如神助，天降收入40亿。卡车司机抵制送货到纽约。千双高档运动鞋被一抢而空。#川普 #商业欺诈 #卡车司机</a></li>
 <li><a href="/topimagenews/20240219/2002770.md">中国人会再次跌入贫困吗？</a></li>
+<li><a href="/yule/20240219/2002716.md">张学友的一句实话，打脸了多少顶流？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
+<li><a href="/comments/20231213/1973586.md" target="_blank">六道轮回之畜生道</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
 
 </ul>
 </div>
