@@ -5,8 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/sohnews/20240218/2002628.md">🔥习近平的气场已完全改变</a></li>
-<li><a href="/topimagenews/20240218/2002627.md">故伎重演？湖南省发“解放思想大讨论通知”！网友一语道破【阿波罗网报道】</a></li>
 <li><a href="/comments/20240219/2002633.md">继战狗吴京之后 再度曝出多名明星中招艾滋病 中共官太太们坐不住了 官老爷们也鸡飞狗跳了</a></li>
 <li><a href="/headline/20240219/2002693.md">中共又号召解放思想 习近平思想怎么办？</a></li>
 <li><a href="/topimagenews/20240219/2002806.md">【微博精粹】吴京中“蛋” 近百女星慌查艾滋</a></li>
@@ -16,18 +14,20 @@
 <li><a href="/baitai/20240219/2002671.md">最新骗术完全颠覆认知 心多黑的人才能做出来</a></li>
 <li><a href="/cbnews/20240219/2002795.md">〖兲朝浮世绘〗中共全部精力都用来收拾自家百姓了 哪有闲工夫去侵略别国？</a></li>
 <li><a href="/sohnews/20240219/2002709.md">政变视频满天飞，蔡奇角色微妙；金正恩要向西方“托孤”？小兄弟也背叛了？中共“血崩”元年，外资连元件都不敢用了；中国网民醒了：你“软着陆”是拿我垫背，“老子给你到处说”｜#新闻五人行</a></li>
-<li><a href="/cbnews/20240218/2002626.md">江峰：从李克强到纳瓦尔尼，突然死亡的迷</a></li>
 <li><a href="/baitai/20240219/2002840.md">李克强的死宣告胡锦涛作为政治人物一生的惨败</a></li>
-<li><a href="/topimagenews/20240219/2002807.md">其它早已全瞎了！中国社会还靠啥运转？唯一的方式是…【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20240219/2002632.md">北京人：县城人口10万 房子够100万人住</a></li>
 <li><a href="/topimagenews/20240219/2002876.md">小米爆月底大裁员！员工气炸“坑年终奖金” 真相傻眼了</a></li>
+<li><a href="/topimagenews/20240219/2002807.md">其它早已全瞎了！中国社会还靠啥运转？唯一的方式是…【阿波罗网报道】</a></li>
+<li><a href="/worldnews/20240219/2002878.md">第一批免签去新加坡的中产，已经破产了</a></li>
+<li><a href="/cbnews/20240219/2002632.md">北京人：县城人口10万 房子够100万人住</a></li>
 <li><a href="/baitai/20240219/2002721.md">赵安吉之死和国内银行叫停对俄业务</a></li>
 <li><a href="/comments/20240219/2002796.md">湖南放了个冲天炮 像当年上海、广东力挺邓小平？</a></li>
-<li><a href="/worldnews/20240219/2002878.md">第一批免签去新加坡的中产，已经破产了</a></li>
 <li><a href="/topimagenews/20240219/2002726.md">中国房地产市场正在崩溃 习“社会主义住房”收拾残局？</a></li>
 <li><a href="/comments/20240219/2002725.md">细思极恐！赵安吉被溺水？中共媒体为何集体撒谎？赵小兰妹妹是中共高级特工？恒大集团许家印交代了赵安吉？#赵安吉 #赵小兰 #特斯拉</a></li>
 <li><a href="/sohnews/20240219/2002638.md">🔥越来越诡异！美警方：赵小兰之妹在牧场去世 习干的？</a></li>
+<li><a href="/sohnews/20240219/2002904.md">文睿：王毅，双膝一起跪了，不过，到了今天一切都已经太晚了</a></li>
+<li><a href="/yule/20240219/2002716.md">张学友的一句实话，打脸了多少顶流？</a></li>
 <li><a href="/comments/20240219/2002724.md">赵安吉案再逆转：进池塘方式看呆警方；陈立人不认罪，同学的话震惊网络！习近平哭穷，厕所水泡方便面</a></li>
+<li><a href="/topimagenews/20240219/2002736.md">《首尔之春》，我劝你别看…</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240219/2002969.md" target="_blank">新疆连遭暴雪大风沙尘暴袭击 气温降至零下52.3度破纪录 数万旅客滞留</a></li>
 <li><a href="/comments/20240219/2002964.md" target="_blank">时事大家谈：王毅重话警告“对华脱钩”，去中国化北京自食其果？</a></li>
 <li><a href="/comments/20240219/2002963.md" target="_blank">时事大家谈：纳瓦尔尼猝死普京难脱干系，中国政治环境更为险恶？</a></li>
 <li><a href="/comments/20240219/2002962.md" target="_blank">时事大家谈：王毅重话警告“对华脱钩”，去中国化北京自食其果？纳瓦尔尼猝死普京难脱干系，中国政治环境更为险恶？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240219/2002707.md" target="_blank">文昭：一次机遇错过，沉沦30年！海南，请不要为我哭泣！2025全岛封关带来多改变？【会员样片】</a></li>
 <li><a href="/comments/20240219/2002691.md" target="_blank">面临今天的美国，什么是最好的解决方案？</a></li>
 <li><a href="/comments/20240219/2002690.md" target="_blank">对话薇羽：感念陈俊翰律师；怎么看台湾的统独问题；台湾的烟火气与北美的“冷清” ｜#方菲时间</a></li>
-<li><a href="/comments/20240219/2002633.md" target="_blank">继战狗吴京之后 再度曝出多名明星中招艾滋病 中共官太太们坐不住了 官老爷们也鸡飞狗跳了</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
 <li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
 <li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
 <li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
 
 </ul>
 </div>
