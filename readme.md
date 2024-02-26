@@ -8,7 +8,6 @@
 <li><a href="/cbnews/20240226/2005690.md">某全国知名的著名女星，热爱国家，在东京9亿全款买了一套公寓</a></li>
 <li><a href="/cnnews/20240226/2005730.md">许家印哈佛毕业的小儿子被抓 内幕曝光</a></li>
 <li><a href="/topimagenews/20240226/2005640.md">【微博精粹】习包又踩油门了</a></li>
-<li><a href="/topimagenews/20240226/2005546.md">始料未及！北京核心爆跌腰斩；习召开中央财经会议，这样干救经济【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240226/2005567.md">习正面临近十年来最大压力 政策弹药已耗尽、扭曲或缺损</a></li>
 <li><a href="/topimagenews/20240226/2005627.md">娃哈哈创始人去世最大遗憾？爆料：现掌门人在美秘婚并育龙凤胎！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240226/2005568.md">震惊！快讯：泽伦斯基罕见公开乌军阵亡人数</a></li>
@@ -27,6 +26,7 @@
 <li><a href="/sohnews/20240226/2005731.md">官媒调子起高了 党魁下不来台｜#新闻五人行</a></li>
 <li><a href="/sohnews/20240226/2005790.md">天使投资人：计划经济已经在路上……央视爆习近平红线！</a></li>
 <li><a href="/lifebaike/20240226/2005579.md">在湖北下馆子就点这6道菜，是“鄂菜之魂”，老板：一看就是行家</a></li>
+<li><a href="/sohnews/20240227/2005897.md">“习近平要做重大宣布 淹灭三中全会 等同废掉“党领导国家””《今日点击》（02/26/24）</a></li>
 <li><a href="/ssgc/20240226/2005625.md">〖微博谈〗癫而狂，狂则亡</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240227/2005993.md" target="_blank">【荣耀推出智能手机 会不会抢走苹果的中国市场？】</a></li>
 <li><a href="/comments/20240227/2005955.md" target="_blank">最大金主抛弃黑利，准备支持川普。共和党全国委员会主席辞职，川普全面掌控RNC。揭开黑利拒绝退出竞选真相。#美国大选 #川普 #RNC</a></li>
 <li><a href="/comments/20240227/2005936.md" target="_blank">香港资深女星李影加拿大逝世 曾是丽的当家花旦 与刘松仁曾相恋七年 好友称其每天喝6支可乐 女儿为前港姐沈颖婷</a></li>
 <li><a href="/comments/20240226/2005884.md" target="_blank">【国际风云】金正恩封杀长子 疑培养女儿接班 韩国前情报员：金正恩神秘大儿子外型不讨喜而未公开 还有两私生子女 脱北者爆金正恩私生活如韩剧 小三私生子受保护</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240226/2005577.md" target="_blank">陶瑞：美国之音真是深层政府腐败的典范</a></li>
 <li><a href="/comments/20240226/2005576.md" target="_blank">财经数据库：台海开战，两岸经济一起完蛋</a></li>
 <li><a href="/comments/20240226/2005566.md" target="_blank">文昭：中国复仇大案频发，中国人对法治有很大偏见、和误读！【会员样片节选】</a></li>
-<li><a href="/comments/20240226/2005556.md" target="_blank">挑起一场文化浩劫？“几千万粉丝的夹头都撼不动，二十万就能？”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20231203/1969183.md" target="_blank">开盖冲马桶 ，细菌会乱飞？除非你家马桶是喷泉！</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
 
 </ul>
 </div>
