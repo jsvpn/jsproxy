@@ -5,28 +5,28 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/comments/20240304/2008549.md">傅晓田无私母亲勇敢出征，秦刚“软着陆”背後的习近平谋略？普丁丁对习致命一击，外交部傻了</a></li>
 <li><a href="/baitai/20240304/2008495.md">评论：习与四大家臣瞎折腾 加速红墙崩塌</a></li>
+<li><a href="/comments/20240304/2008549.md">傅晓田无私母亲勇敢出征，秦刚“软着陆”背後的习近平谋略？普丁丁对习致命一击，外交部傻了</a></li>
 <li><a href="/ccpdope/20240304/2008513.md">习近平四大老臣搞乱中国政局</a></li>
-<li><a href="/topimagenews/20240303/2008433.md">威武 美军新一代无人机首飞成功</a></li>
 <li><a href="/topimagenews/20240304/2008671.md">快讯！中共总理记者会取消 未来几年也不再举行【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20240304/2008483.md">文化大批判来了，文革还会远吗？</a></li>
 <li><a href="/topimagenews/20240304/2008550.md">真的发生 看住自己的钱！中共曾四次大规模冻结银行存款</a></li>
 <li><a href="/topimagenews/20240304/2008543.md">中国完全失灵现状！四处发生：他们穿上最新鲜艳丽的衣服 等死…</a></li>
 <li><a href="/topimagenews/20240304/2008521.md">什么信号？大量王牌专业停招 清华大学宣布了？</a></li>
-<li><a href="/baitai/20240303/2008437.md">日本人不爱运动却最健康长寿</a></li>
-<li><a href="/sohnews/20240303/2008460.md">🔥“习非常绝望 中共在美进行 暗 杀 行 动”；停火信号？俄中同意 俄必须参加乌克兰谈判；一片哀嚎！三个怪现象席卷全国 海外华人匿名文爆红</a></li>
 <li><a href="/baitai/20240304/2008497.md">莫言：我至今都感到恐惧</a></li>
-<li><a href="/topimagenews/20240304/2008534.md">这就是习承诺中国人的经济“新常态”？</a></li>
+<li><a href="/sohnews/20240303/2008460.md">🔥“习非常绝望 中共在美进行 暗 杀 行 动”；停火信号？俄中同意 俄必须参加乌克兰谈判；一片哀嚎！三个怪现象席卷全国 海外华人匿名文爆红</a></li>
 <li><a href="/ssgc/20240304/2008506.md">张晓明被免去全国政协副秘书长  另一个秦刚？</a></li>
+<li><a href="/topimagenews/20240304/2008534.md">这就是习承诺中国人的经济“新常态”？</a></li>
 <li><a href="/cnnews/20240304/2008544.md">兜不住了！中国各银行严控提款限额 更绝的还在后面…【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20240304/2008553.md">官军疯狂砸盘，北京楼市被砸懵了</a></li>
 <li><a href="/topimagenews/20240304/2008618.md">【微博精粹】起诉莫言的粉红又和胡锡进杠上了</a></li>
 <li><a href="/topimagenews/20240304/2008566.md">中国人不能知道的：“只要你是个正常人，你会咋想呢？”</a></li>
 <li><a href="/ssgc/20240304/2008623.md">〖微博谈〗一语成谶</a></li>
+<li><a href="/cbnews/20240304/2008693.md">哪壶不开提哪壶！中共党报又出党魁洋相了【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20240304/2008559.md">江办秘书谈有关习的悲观信息，王小洪儿子活跃在男娘群，中共正向金门前线调兵遣将。《老灯开讲第505期》</a></li>
-<li><a href="/cnnews/20240303/2008434.md">震惊！中国员工多次下载战斗机敏感数据 波音拿钱消灾</a></li>
+<li><a href="/lifebaike/20240303/2008463.md">在县城买的房 等待着一个卖出去的时机</a></li>
 <li><a href="/topimagenews/20240304/2008535.md">筹码越来越少了！黄光裕的最后一战 不成功便成仁？</a></li>
+<li><a href="/baitai/20240303/2008443.md">政府沦为黑社会 成都警当街推抓荷兰记者 牵出一个庞氏骗局？</a></li>
 <li><a href="/cnnews/20240304/2008586.md">尴尬！中国重量级两央企干2起来了 法院头疼</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240304/2008762.md" target="_blank">【李强总理记者会被取消】【保持微笑跟随习近平快步进入政协开幕会】</a></li>
 <li><a href="/comments/20240304/2008745.md" target="_blank">【台湾海委会报告中国大陆快艇翻覆原因】【高速右转 船身配重不均 船长经验不足】</a></li>
 <li><a href="/comments/20240304/2008670.md" target="_blank">【今年起往后几年 本届人大会议闭幕后不举行总理记者会】</a></li>
 <li><a href="/comments/20240304/2008610.md" target="_blank">章立凡：成语“债台高筑”的典故</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240303/2008306.md" target="_blank">陈奎德 李恒青：在中国之外重建中国</a></li>
 <li><a href="/comments/20240303/2008305.md" target="_blank">城市的地得：日常生活比莫言更需要捍卫</a></li>
 <li><a href="/comments/20240303/2008304.md" target="_blank">起诉莫言的人要起诉胡锡进了，在民粹眼里公公知识分子也是公知</a></li>
-<li><a href="/comments/20240303/2008303.md" target="_blank">浣花溪杜甫：我想起诉杜甫</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20231213/1973586.md" target="_blank">六道轮回之畜生道</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20190701/1151501.md" target="_blank">【特稿】中国共产党是邪教组织</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
 <li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
 
 </ul>
 </div>
