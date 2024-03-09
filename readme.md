@@ -14,20 +14,20 @@
 <li><a href="/baitai/20240308/2010604.md">传丈夫出轨找小三 官太太举报不成 疯狂闯红灯撞击学童 当局封锁消息</a></li>
 <li><a href="/cbnews/20240308/2010444.md">〖红朝浮世绘〗台湾的民主自由就是中共的一面照妖镜</a></li>
 <li><a href="/cbnews/20240308/2010479.md">江峰：习近平再创新词：心智不全的“新质生产力”爆红两会，代表纷纷钻营讨好；习到哪儿哪儿“火”，江苏这回惨了；两军头背负面传闻现身人大，安全着陆？【江峰漫谈20240307第831期】</a></li>
-<li><a href="/topimagenews/20240308/2010384.md">中国网友，正让企业家们瑟瑟发抖</a></li>
-<li><a href="/lifebaike/20240308/2010517.md">五十多岁的70后，如果你只有一个孩子，要逼自己尽早完成这8件事</a></li>
 <li><a href="/finance/20240308/2010500.md">明明只有79%? 陆网疯传重庆80%工厂停招 官方紧急“辟谣”</a></li>
+<li><a href="/lifebaike/20240308/2010517.md">五十多岁的70后，如果你只有一个孩子，要逼自己尽早完成这8件事</a></li>
 <li><a href="/sohnews/20240308/2010594.md">文睿：炸了，这一次真炸了；军队，又一超级大瓜，你们，到底怎么了？</a></li>
-<li><a href="/topimagenews/20240308/2010429.md">令人头疼的新路线！习为“中国制造2025”换马甲</a></li>
-<li><a href="/funmedia/20240308/2010402.md">一个人越来越命好的征兆：远离底层关系</a></li>
 <li><a href="/cbnews/20240309/2010666.md">江苏政府楼被炸 作案者公告动机</a></li>
+<li><a href="/funmedia/20240308/2010402.md">一个人越来越命好的征兆：远离底层关系</a></li>
+<li><a href="/topimagenews/20240308/2010429.md">令人头疼的新路线！习为“中国制造2025”换马甲</a></li>
+<li><a href="/topimagenews/20240309/2010757.md">厉害：FBI卧底小红书 抖音2年 破获华人惊天大案</a></li>
 <li><a href="/funmedia/20240308/2010480.md">结婚6年 已生俩娃 男子竟忽然发现妻子是…</a></li>
 <li><a href="/sohnews/20240308/2010588.md">陈破空：两会出事！又一名习亲信消失？桌上文件，他全程不看不碰。委员通道出状况！下达秘密文件：与西方彻底脱钩。拜登讥讽中国崛起：恰恰相反！直播与互动：美东时间3月8日早8点45、中港台3月8日晚9点45</a></li>
 <li><a href="/topimagenews/20240308/2010430.md">川普电视广告一播出 拜登就气疯了…</a></li>
 <li><a href="/topimagenews/20240308/2010572.md">军援养出“军火之王”? 大批援乌武器疑遭盗卖 美开始装追踪器</a></li>
 <li><a href="/ccpdope/20240308/2010488.md">中国富豪加快移民海外 别等听见枪声才「润」</a></li>
-<li><a href="/topimagenews/20240309/2010757.md">厉害：FBI卧底小红书 抖音2年 破获华人惊天大案</a></li>
 <li><a href="/cnnews/20240308/2010613.md">华为怎做出7奈米芯片？外媒踢爆真相：靠这2家美企设备</a></li>
+<li><a href="/health/20240308/2010491.md">原来骨头汤、豆浆、海带都不能补钙！最补钙的食物竟是…</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240309/2010828.md" target="_blank">死亡人数破三万，谁来救救加沙老铁</a></li>
 <li><a href="/comments/20240309/2010807.md" target="_blank">文昭：运动啦！2024文革从打到农夫山泉开始！义和团、红卫兵加互联网行销，大批斗你准备好了吗？</a></li>
 <li><a href="/comments/20240309/2010794.md" target="_blank">全民大批斗开启；下一场文革是自下而上？TikTok让美国人震惊了！｜#方菲时间</a></li>
 <li><a href="/comments/20240309/2010785.md" target="_blank">【关注中国女性政治犯处境】 在中国，目前有大批女性政治犯身陷牢狱。根据由“中国人权扞卫者”组织发布的“中国大陆良心犯资料库” 统计，截至今年3月6日，中国共有3198名政治犯，包含1668名女性。</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240308/2010649.md" target="_blank">热点快评：拜登在国情咨文中谈美中关系</a></li>
 <li><a href="/comments/20240308/2010648.md" target="_blank">时事大家谈：李强报告高频率颂习引关注，人大成了政治效忠会？</a></li>
 <li><a href="/comments/20240308/2010647.md" target="_blank">时事大家谈：人大大修国务院组织法，如何看习近平再造国务院？&#160;&#160; &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</a></li>
-<li><a href="/comments/20240308/2010634.md" target="_blank">时事大家谈：李强报告高频率颂习引关注，人大成了政治效忠会？人大大修国务院组织法，如何看习近平再造国务院？&#160;&#160; &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
 <li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20231207/1970628.md" target="_blank">民兵对官军，希望之声打造广播界的奇蹟【方伟时间-20231206】</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
 
 </ul>
 </div>
