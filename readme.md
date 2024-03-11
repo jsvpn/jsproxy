@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240311/2011642.md" target="_blank">中国性少数：在中国垃圾时间里消失的群体</a></li>
 <li><a href="/comments/20240311/2011635.md" target="_blank">【泽论四方】习近平为了自己不惜毁掉中国</a></li>
 <li><a href="/comments/20240311/2011634.md" target="_blank">评论 ｜魏京生：什么样的民主更适合中国（二)</a></li>
 <li><a href="/comments/20240311/2011630.md" target="_blank">共军宣传“翻墙违法”反成教学片 网友笑称：反向科普</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240311/2011429.md" target="_blank">洪耀南：中国现在是有人抢当代表有人龟缩不敢代表</a></li>
 <li><a href="/comments/20240311/2011428.md" target="_blank">宋国诚：不是重头戏，是野台戏</a></li>
 <li><a href="/comments/20240311/2011427.md" target="_blank">郭包肉：莫言的B面 爱国者们是不是误伤了友军？</a></li>
-<li><a href="/comments/20240311/2011410.md" target="_blank">有病要读书：你以为你爱了国，大数据就不知道你的层次吗？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
 <li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/comments/20231213/1973586.md" target="_blank">六道轮回之畜生道</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
 <li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
 
 </ul>
 </div>
