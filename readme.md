@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/cbnews/20240312/2011776.md">习近平签署“第21号主席令”40年后回到原点</a></li>
 <li><a href="/baitai/20240312/2011784.md">中共凶相毕露 中国富人苦日子来了</a></li>
 <li><a href="/topimagenews/20240312/2011824.md">两会刚一结束 一场暴跌开始了…</a></li>
 <li><a href="/topimagenews/20240312/2011883.md">【微博精粹】习近平喝农夫山泉 抖音鼓动7亿用户造反 乱套了</a></li>
@@ -15,7 +14,6 @@
 <li><a href="/sohnews/20240312/2011986.md">习核心确实下台在即，国资委主任郑栅洁的小三冲击主席台，思想解放运动彻底烂尾。《老灯开讲第512期》</a></li>
 <li><a href="/topimagenews/20240312/2011980.md">中共全国公安开会 部署对民营经济下手【阿波罗网报道】</a></li>
 <li><a href="/headline/20240312/2011988.md">「两会」期间习近平罕见翻报告 疑敲枱训示人大委员长</a></li>
-<li><a href="/topimagenews/20240312/2011774.md">政协闭幕！习对台定调，2018年以来首度明文论述</a></li>
 <li><a href="/cnnews/20240312/2011782.md">男女热吻镜头竟变捉奸神器！秘密被全世界看光</a></li>
 <li><a href="/headline/20240312/2012014.md">港媒曝习近平曾对人大报告或有意见 人大委员长台上被训</a></li>
 <li><a href="/cbnews/20240312/2011960.md">两会落幕 只字不提的才是关键</a></li>
@@ -25,9 +23,11 @@
 <li><a href="/cnnews/20240312/2012007.md">封杀！美国这次是铁了心</a></li>
 <li><a href="/cnnews/20240312/2011969.md">卡扎菲临死前惨状：被拖行40多米，手抹眼泪求饶</a></li>
 <li><a href="/topimagenews/20240312/2011965.md">中国富豪财富转来 新加坡突然出手</a></li>
-<li><a href="/topimagenews/20240312/2011775.md">中共特使李辉 惨遭俄乌“降级”</a></li>
 <li><a href="/cbnews/20240312/2011831.md">〖红朝浮世绘〗国务院变成党国马仔 习天下一统江湖</a></li>
 <li><a href="/cnnews/20240312/2012025.md">大陆汽车业爆灾难！巨头上市20年首见亏损 惊人惨况曝光</a></li>
+<li><a href="/ssgc/20240312/2011819.md">〖微博谈〗普通人都是逃难出来的</a></li>
+<li><a href="/topimagenews/20240312/2011827.md">又到了“活下去”的关口</a></li>
+<li><a href="/cnnews/20240312/2011914.md">最近，真实的广式恐怖风靡全网</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240313/2012208.md" target="_blank">美巨头与中共“恋情”告吹？中国房市低迷，这里挤满中国购房者【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240312/2012134.md" target="_blank">中俄富裕阶层爆买亚洲渡假胜地豪宅 陆炒房客转战东南亚</a></li>
 <li><a href="/topimagenews/20240312/2012037.md" target="_blank">中俄伊联合演习 美退将示警：3国合作问题大</a></li>
 <li><a href="/topimagenews/20240312/2012036.md" target="_blank">日经亚洲：中共两会出现5个“没有” 这点打破30年来的传统</a></li>
@@ -90,13 +91,14 @@
 <li><a href="/topimagenews/20240312/2011775.md" target="_blank">中共特使李辉 惨遭俄乌“降级”</a></li>
 <li><a href="/topimagenews/20240312/2011774.md" target="_blank">政协闭幕！习对台定调，2018年以来首度明文论述</a></li>
 <li><a href="/topimagenews/20240311/2011681.md" target="_blank">湖南湘西吉首大田湾沥青站发生大爆炸 腾起蘑菇云 伤亡不明【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20240311/2011653.md" target="_blank">陆新能源车加速洗牌 业内人士：未来几年80％品牌将倒闭</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240313/2012210.md" target="_blank">林辉：中共派百万军人参加韩战 与一秘密协定有关</a></li>
+<li><a href="/comments/20240313/2012209.md" target="_blank">钟原：最无望的中共两会 高层复杂表情泄真相</a></li>
 <li><a href="/comments/20240313/2012200.md" target="_blank">【Tiktok面临抉择】</a></li>
 <li><a href="/comments/20240313/2012199.md" target="_blank">3月12日，菲律宾总统马科斯在柏林与德国总理肖尔茨会晤后发言，他表示如果中国在边界问题上不顾其它国家的意见、坚持单边决定，那就无法取得谅解。</a></li>
 <li><a href="/comments/20240313/2012198.md" target="_blank">【中俄伊又双叒联合军演了】 3月11日至15日 #中俄伊 在阿曼湾举行代号为“海上安全带–2024”的 #联合海军演习。 https://bit.ly/3wROU9q</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240312/2011804.md" target="_blank">胡力任：首富被盯上；民企做大对中共就是威胁 ｜新闻烽火台 03/11</a></li>
 <li><a href="/comments/20240312/2011771.md" target="_blank">【中国屏蔽的冲塔事件】 冲 #新华门，冲两会记者会讲台…从网络到现实，近日 #冲塔 者越来越多。 #中南海新华门冲塔事件</a></li>
 <li><a href="/comments/20240312/2011749.md" target="_blank">【“中国是全球最安全的一个国家”】 3月11日 中国全国 #人大闭幕。会场外，人大代表强调中国将继续改开，安全稳定。外国投资者还会相信吗？</a></li>
-<li><a href="/comments/20240312/2011733.md" target="_blank">【财经拆局】廿三条「急就章」立法竖起防火墙 资讯封闭还远吗？</a></li>
-<li><a href="/comments/20240311/2011701.md" target="_blank">大宇换频道啦，大家赶紧跟去订阅一下！</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
-<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
 <li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20240116/1984226.md" target="_blank">湖北老河口遇仙记</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
 
 </ul>
 </div>
