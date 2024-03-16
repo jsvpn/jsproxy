@@ -18,7 +18,6 @@
 <li><a href="/topimagenews/20240315/2013208.md">中共国务院下猛药 新一轮“四万亿”来了</a></li>
 <li><a href="/comments/20240315/2013311.md">李强负面传闻不断 中南海被指暗流汹涌</a></li>
 <li><a href="/cbnews/20240315/2013459.md">消息：中共上将刘亚洲遭判终身监禁</a></li>
-<li><a href="/cbnews/20240315/2013170.md">接中共外交部长没谱… 第4位副部长确定是他</a></li>
 <li><a href="/ssgc/20240315/2013179.md">〖微博谈〗结果被基层警察“误会”</a></li>
 <li><a href="/cbnews/20240315/2013253.md">江峰：三河燕郊事件元凶从炸鸡店变成党中央！北京22号地铁线入河北，为完成雄安布局政治任务，加快进度刨开煤气管道引发灾祸。 央视与河北地方政府表面矛盾，实质都在护主习近平【江峰漫谈20240314第836期】</a></li>
 <li><a href="/yule/20240315/2013173.md">以为他们退出歌坛 实则已“悄然离逝”的8位歌星</a></li>
@@ -26,8 +25,9 @@
 <li><a href="/cnnews/20240315/2013341.md">商鞅变法彻底毁了中国人</a></li>
 <li><a href="/sohnews/20240315/2013320.md">爆两个大料，习近平与李强蔡奇王小洪的真实关系，那些阻拦外媒记者的愚民们。《老灯开讲第515期》</a></li>
 <li><a href="/baitai/20240315/2013191.md">恶性霸凌杀人案! 邯郸3初中生霸凌害死同学 铁锹打烂脸弃尸菜棚</a></li>
+<li><a href="/topimagenews/20240316/2013470.md">TikTok大股东是谁 他：央视记者</a></li>
+<li><a href="/baitai/20240316/2013477.md">内幕消息：刘亚洲已判终身监禁 祸不及太子党妻？</a></li>
 <li><a href="/topimagenews/20240315/2013353.md">台积电市值亚洲第一！中国网友喊遥遥领先：前8名有5家是中国企业</a></li>
-<li><a href="/baitai/20240315/2013413.md">习又想干啥？ 中国多地现俄语路标牌引网民热议</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240316/2013597.md" target="_blank">章天亮：出世的修炼与入世的生活</a></li>
 <li><a href="/comments/20240316/2013587.md" target="_blank">文昭：大家一起「整大活儿」！路透曝：CIA对习近平使出「蒋干盗书」，把习偬害惨了</a></li>
 <li><a href="/comments/20240316/2013583.md" target="_blank">他横扫欧洲 打到海天尽头 一个乞丐却让他沉默了</a></li>
 <li><a href="/comments/20240316/2013580.md" target="_blank">渔“民”还是渔“兵”？详解中国海上民兵｜兵家常事</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240315/2013365.md" target="_blank">【争议之地 金门海域的真实】【大陆渔船肆无忌惮作业 金门渔民深受其害】</a></li>
 <li><a href="/comments/20240315/2013343.md" target="_blank">指X等美社交媒体在华被禁 美驻华大使：中方对TikTok法案的抗议极具讽刺</a></li>
 <li><a href="/comments/20240315/2013311.md" target="_blank">李强负面传闻不断 中南海被指暗流汹涌</a></li>
-<li><a href="/comments/20240315/2013307.md" target="_blank">【23条立法】立法进入直路最快下周上大会 新增条文予国安委大权</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
 <li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20231220/1976683.md" target="_blank">医山夜话：张锡纯医案解读（二）根治胃气不降之证</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
 <li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20231130/1967587.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （一）</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
 
 </ul>
 </div>
