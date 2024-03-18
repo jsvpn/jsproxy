@@ -7,7 +7,6 @@
 
 <li><a href="/comments/20240318/2014208.md">诡异：李强发现严重问题 当众提醒习 引王沪宁、丁薛祥围观？</a></li>
 <li><a href="/topimagenews/20240318/2014176.md">被乌俘虏俄军雇佣兵上电视，你猜哪国人最多？</a></li>
-<li><a href="/baitai/20240318/2014155.md">警抓捕「中植系」四大财富高管 暴雷波及众明星血本无归</a></li>
 <li><a href="/baitai/20240318/2014165.md">高级黑？媒体深夜发文戏整李强</a></li>
 <li><a href="/cbnews/20240318/2014419.md">宫斗激烈！惊爆薄熙来狱中大骂江泽民 胡温倒薄堪比大片【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240318/2014168.md">震撼!中共证监会突发狠招,市场哀嚎一片；中国著名会计所大降薪，刷屏了【阿波罗网报道】</a></li>
@@ -17,17 +16,18 @@
 <li><a href="/cbnews/20240318/2014459.md">邯郸初中生杀人埋尸震惊全网 疑凶手有帮凶</a></li>
 <li><a href="/cnnews/20240318/2014178.md">3初中生杀人埋尸最恐怖之处：面不改色去上课</a></li>
 <li><a href="/topimagenews/20240318/2014175.md">中共血雨腥风镇压绞杀 这亿万人不畏中共强权暴政</a></li>
+<li><a href="/cbnews/20240318/2014508.md">邯郸初中生杀人埋尸震惊全网 疑还有帮凶</a></li>
 <li><a href="/topimagenews/20240318/2014277.md">拼命囤货，中共想干嘛？【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20240318/2014372.md">北京前书记刘淇“大秘” 涉钱色交易被双开</a></li>
-<li><a href="/cbnews/20240318/2014508.md">邯郸初中生杀人埋尸震惊全网 疑还有帮凶</a></li>
+<li><a href="/cnnews/20240318/2014332.md">习近平最看重的是这件事</a></li>
 <li><a href="/cnnews/20240318/2014347.md">事态升级，全网呼吁：必须死刑！这是故意杀人</a></li>
 <li><a href="/topimagenews/20240318/2014268.md">【微博精粹】请说出包帝244次指明方向用的哪只手哪根手指</a></li>
-<li><a href="/cnnews/20240318/2014332.md">习近平最看重的是这件事</a></li>
 <li><a href="/topimagenews/20240318/2014202.md">重磅！美国房产交易6％佣金取消！买卖成本大降</a></li>
 <li><a href="/headline/20240318/2014310.md">中国医疗反腐首名院士被带走 骨科翘楚田伟传吓到失禁</a></li>
+<li><a href="/headline/20240318/2014451.md">台媒：中国人大闭幕主席台诡异一幕</a></li>
 <li><a href="/topimagenews/20240318/2014241.md">清华师妹突然发来一条微信：“我在医院急诊室ICU”</a></li>
 <li><a href="/funmedia/20240318/2014271.md">入住酒店时，为什么要倒一壶开水在马桶里？看完恍然大悟</a></li>
-<li><a href="/headline/20240318/2014451.md">台媒：中国人大闭幕主席台诡异一幕</a></li>
+<li><a href="/topimagenews/20240318/2014407.md">准备开战！柏林“威玛三角”会议3国援乌 6月将派兵上战场</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
-<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20240318/2014289.md" target="_blank">唐柏桥：民运同仁突然向法轮功开火是怎么回事？</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
 
 </ul>
 </div>
