@@ -11,7 +11,6 @@
 <li><a href="/cnnews/20240318/2014372.md">北京前书记刘淇“大秘” 涉钱色交易被双开</a></li>
 <li><a href="/cbnews/20240318/2014459.md">邯郸初中生杀人埋尸震惊全网 疑凶手有帮凶</a></li>
 <li><a href="/cnnews/20240318/2014347.md">事态升级，全网呼吁：必须死刑！这是故意杀人</a></li>
-<li><a href="/cnnews/20240318/2014332.md">习近平最看重的是这件事</a></li>
 <li><a href="/headline/20240318/2014451.md">台媒：中国人大闭幕主席台诡异一幕</a></li>
 <li><a href="/yule/20240319/2014641.md">刘涛“起床素颜照”疯传 她到底长啥样？</a></li>
 <li><a href="/topimagenews/20240319/2014661.md">【微博精粹】习近平把身家性命都押在一件事上</a></li>
@@ -26,8 +25,9 @@
 <li><a href="/baitai/20240319/2014540.md">疫苗后遗症？死不承认！ 卫健委这样教授医生撒谎</a></li>
 <li><a href="/lifebaike/20240318/2014353.md">老大照书养 老二照猪养：一个上了北大 一个…</a></li>
 <li><a href="/topimagenews/20240319/2014678.md">中国最神秘的亿万富豪纽约认罪</a></li>
-<li><a href="/comments/20240318/2014435.md">最强西方预言！世界大事全中！川普当选、伊万卡当选？上帝粒子、婴儿翻译机，瘟疫⋯未来科技发展，都是被安排好的！预言准到不可思议！｜ #未解之谜 扶摇</a></li>
 <li><a href="/topimagenews/20240319/2014716.md">到底在隐瞒什么？10万人秒遭封杀：“政府比凶手更邪恶”【阿波罗网报道】</a></li>
+<li><a href="/comments/20240318/2014435.md">最强西方预言！世界大事全中！川普当选、伊万卡当选？上帝粒子、婴儿翻译机，瘟疫⋯未来科技发展，都是被安排好的！预言准到不可思议！｜ #未解之谜 扶摇</a></li>
+<li><a href="/ssgc/20240318/2014392.md">中国经济三马车部分回暖 房地产数据呈断崖下跌</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240319/2014758.md" target="_blank">【四川甘孜雅江森林大火】【大风使火势迅速蔓延越过多个山头】</a></li>
 <li><a href="/comments/20240319/2014679.md" target="_blank">赖蛤蟆想吃天鹅肉 习又沦为笑柄</a></li>
 <li><a href="/comments/20240319/2014677.md" target="_blank">官员被抓屎尿横流！田伟被酷刑吓破胆？李强角色逆转！指挥习斗争常委，习近平处境微妙</a></li>
 <li><a href="/comments/20240319/2014660.md" target="_blank">天亮时分：十二岁小女孩，获得跟习近平同样封号；邯郸三少年行凶的背后；中美静悄悄延长一关键协议，欧盟调查中共芯片风险（政论天下第1258集 20240318）天亮时分</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240318/2014297.md" target="_blank">【大宇拍案惊奇】2025旺川普！2024是习“大灾年”</a></li>
 <li><a href="/comments/20240318/2014295.md" target="_blank">河北少年遭3同学残杀！父直播控诉超10万人在线 下秒竟被掐断</a></li>
 <li><a href="/comments/20240318/2014289.md" target="_blank">唐柏桥：民运同仁突然向法轮功开火是怎么回事？</a></li>
-<li><a href="/comments/20240318/2014262.md" target="_blank">毛泽东第一次访苏 抱怨斯大林被批</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20190701/1151501.md" target="_blank">【特稿】中国共产党是邪教组织</a></li>
-<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
 <li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20231214/1974098.md" target="_blank">美国众议院议长：我所坚守的保守主义，具体是些什么内容？</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
 
 </ul>
 </div>
