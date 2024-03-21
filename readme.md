@@ -1,32 +1,32 @@
 ![](https://raw.githubusercontent.com/jsvpn/jsproxy/dev/64photo/fqnews-qr.jpg)
 
 <div id="tt">
-<h3>24小时热点禁闻|<a href="#%E4%B8%AD%E5%85%B1%E7%A6%81%E9%97%BB%E6%9B%B4%E5%A4%9A%E6%96%87%E7%AB%A0">中共禁闻</a>|<a href="#%E5%9B%BE%E7%89%87%E6%96%B0%E9%97%BB%E6%9B%B4%E5%A4%9A%E6%96%87%E7%AB%A0">头条禁闻</a>|<a href="#%E6%96%B0%E9%97%BB%E8%AF%84%E8%AE%BA%E6%9B%B4%E5%A4%9A%E6%96%87%E7%AB%A0">禁闻评论|<a href="#%E5%BF%85%E7%9C%8B%E7%BB%8F%E5%85%B8%E5%A5%BD%E6%96%87">经典必看</a>|<a href="https://fanb1.xyz/3" target="_blank">带图视频</a></h3>
+<h3>24小时热点禁闻|<a href="#%E4%B8%AD%E5%85%B1%E7%A6%81%E9%97%BB%E6%9B%B4%E5%A4%9A%E6%96%87%E7%AB%A0">中共禁闻</a>|<a href="#%E5%9B%BE%E7%89%87%E6%96%B0%E9%97%BB%E6%9B%B4%E5%A4%9A%E6%96%87%E7%AB%A0">头条禁闻</a>|<a href="#%E6%96%B0%E9%97%BB%E8%AF%84%E8%AE%BA%E6%9B%B4%E5%A4%9A%E6%96%87%E7%AB%A0">禁闻评论|<a href="#%E5%BF%85%E7%9C%8B%E7%BB%8F%E5%85%B8%E5%A5%BD%E6%96%87">经典必看</a>|<a href="https://9290254.xyz/3" target="_blank">带图视频</a></h3>
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
 <li><a href="/topimagenews/20240320/2015338.md">狼性！中共52岁官员嫖幼女 官方竟称“不属实她14岁以上的”</a></li>
 <li><a href="/cbnews/20240321/2015444.md">青海1女孩在酒店遭多人施暴疯传</a></li>
 <li><a href="/ssgc/20240321/2015477.md">〖微博谈〗中共陷入全面执政危机</a></li>
+<li><a href="/sohnews/20240321/2015490.md">赵安吉案大结局：酒精超标3倍；水中通话8分钟，生前最后一句话只有3个字，岸上一片尖叫；监控曝惊悚画面。</a></li>
 <li><a href="/headline/20240321/2015390.md">女兵晒父「镇压六四」勋章后共军急删片 评论：真相不因洗脑消逝</a></li>
 <li><a href="/cbnews/20240321/2015554.md">〖红朝浮世绘〗越南国家主席居然辞职了，这会让中共国的韭民们咋想？</a></li>
-<li><a href="/sohnews/20240321/2015490.md">赵安吉案大结局：酒精超标3倍；水中通话8分钟，生前最后一句话只有3个字，岸上一片尖叫；监控曝惊悚画面。</a></li>
 <li><a href="/sohnews/20240321/2015426.md">中共痛批马斯克，威胁采取行动；邯郸当地人惊悚爆料，受害人被骗自掘坟墓？东航坠机报告出台：什么都说了！</a></li>
 <li><a href="/sohnews/20240321/2015436.md">轰动一时第一花魁命案，她手里握著众多高官的秘密！覃辉拿什么秘密换取了自由？京城第一青楼“天上人间”不为人知的隐密！覃辉纽约认罪，换取流亡他国！‘新闻最嘲点 姜光宇’2024.0320</a></li>
+<li><a href="/sohnews/20240321/2015620.md">习近平在长沙开会给中共送葬，湖南书记沈晓明因解放思想当场出事，后习时代正突然到来。《老灯开讲第518期》</a></li>
 <li><a href="/topimagenews/20240321/2015597.md">寒冬来了！中国医院这个科 接连停业</a></li>
 <li><a href="/comments/20240321/2015425.md">李克强故居现敏感条幅：能发声的发声</a></li>
-<li><a href="/sohnews/20240321/2015620.md">习近平在长沙开会给中共送葬，湖南书记沈晓明因解放思想当场出事，后习时代正突然到来。《老灯开讲第518期》</a></li>
-<li><a href="/cnnews/20240321/2015458.md">“我是未成年，你们判不了死刑的，哈哈哈哈”</a></li>
 <li><a href="/topimagenews/20240321/2015510.md">中国制造惊人黑内幕 看了令人目瞪口呆</a></li>
+<li><a href="/cnnews/20240321/2015458.md">“我是未成年，你们判不了死刑的，哈哈哈哈”</a></li>
 <li><a href="/sohnews/20240321/2015481.md">赵克志要出事？撞中南海的人是他？商黎光遭恶报背后，北京东城豪车闯禁1死17伤，被隐匿的5个重点【新闻看点 李沐阳3.20】</a></li>
 <li><a href="/lifebaike/20240321/2015551.md">古代宫女宁愿身体被折磨！也绝不让人碰这里 老宫女说出原因</a></li>
-<li><a href="/topimagenews/20240320/2015324.md">浙江台州职校爆驾车撞人酿3死16伤！疑因1理由报复</a></li>
 <li><a href="/ssgc/20240321/2015393.md">“一切正常摔成渣” 中国民航局公布东航5735失事调查进展</a></li>
 <li><a href="/headline/20240321/2015415.md">朝鲜在中国实施的强迫劳动计划：虐待、性侵、工资被政府拿走</a></li>
+<li><a href="/cnnews/20240321/2015608.md">有命花吗？中共征兵难 放出大招</a></li>
+<li><a href="/lifebaike/20240321/2015515.md">手机的监听开关要尽快关掉，越早越好！不然你看过什么，手机就给你推荐什么</a></li>
 <li><a href="/cbnews/20240321/2015446.md">泪目：邯郸遇害男生父亲发布和儿子最后聊天记录</a></li>
 <li><a href="/health/20240321/2015600.md">早餐吃得早，疾病不来找！研究发现：吃早餐别晚于这个时间点</a></li>
 <li><a href="/lifebaike/20240321/2015455.md">爆红的留学圈“鄙视链”，真的无聊透顶</a></li>
-<li><a href="/lifebaike/20240321/2015515.md">手机的监听开关要尽快关掉，越早越好！不然你看过什么，手机就给你推荐什么</a></li>
 <li><a href="/topimagenews/20240321/2015546.md">关岛试射高超音速导弹! 美空军轰炸机飞4千公里 越太平洋对中共示威</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
-<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
+<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
+<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
 <li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
-<li><a href="/comments/20231223/1978148.md" target="_blank">医山夜话：张锡纯医案解读（三）赭石：降胃气 引火下行</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
 
 </ul>
 </div>
