@@ -9,25 +9,25 @@
 <li><a href="/sohnews/20240322/2016086.md">文睿：人民币，暴跌，一场更大的动荡要来了</a></li>
 <li><a href="/baitai/20240323/2016266.md">撑不住！人民币突然大幅贬值 股市大跌 专家点明原因</a></li>
 <li><a href="/cbnews/20240322/2016061.md">结婚迎亲玩游戏 现史上最尴尬一幕 新郎当场崩溃</a></li>
-<li><a href="/topimagenews/20240323/2016173.md">突发！北京长安街发生汽车撞人事件 多人倒地 伤亡不明【阿波罗网报道】</a></li>
 <li><a href="/baitai/20240322/2016121.md">刚上任三天 记者即甩出一道难题 中共外交发言人林剑尴尬了</a></li>
+<li><a href="/topimagenews/20240323/2016173.md">突发！北京长安街发生汽车撞人事件 多人倒地 伤亡不明【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20240322/2016050.md">完美丈夫每天坚持跑步 妻子看运动app后心寒崩溃</a></li>
+<li><a href="/comments/20240322/2016025.md">我不愿揭中国人的短，但中国人有三个很大的缺点</a></li>
 <li><a href="/topimagenews/20240322/2016087.md">河北邯郸一男子发文 披露更多细节及孩子身处的恶劣坏境【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240323/2016208.md">“来抢钱也可以!爹啊!”中共大使表态 气炸所有中国人【阿波罗网报道】</a></li>
-<li><a href="/comments/20240322/2016025.md">我不愿揭中国人的短，但中国人有三个很大的缺点</a></li>
+<li><a href="/topimagenews/20240323/2016274.md">习搞定两件事之后，将是攻台时机成熟之时</a></li>
 <li><a href="/cbnews/20240322/2016010.md">江峰：习近平又双叒叕开始伟大的自我革命了，官员皆惊；爆料王毅出访澳新被习训诫，意图拆散奥库斯遭反击；李嘉诚出清上海地产压箱货，跑个乾净；纽约福建同乡会反党了？【江峰漫谈2024032第840期】</a></li>
 <li><a href="/cbnews/20240323/2016203.md">踢开李强 习近平全面接管经济 信号强烈</a></li>
 <li><a href="/health/20240322/2015994.md">“通便大王”被发现，不是香蕉而是这3样！遇到使劲吃，全身舒坦~</a></li>
 <li><a href="/topimagenews/20240323/2016238.md">中纪委惊人黑幕：办铁案惨烈私刑！要把家人全弄成刑犯</a></li>
-<li><a href="/topimagenews/20240323/2016274.md">习搞定两件事之后，将是攻台时机成熟之时</a></li>
 <li><a href="/topimagenews/20240323/2016273.md">习近平下田踩泥 一幕情景令人困惑</a></li>
-<li><a href="/comments/20240322/2016077.md">哈马斯即将赢下这场战争 刚刚里程碑出现了</a></li>
 <li><a href="/topimagenews/20240323/2016298.md">美议员：令人发指！北京把这种屠杀当作数十亿美元产业在发展</a></li>
-<li><a href="/topimagenews/20240322/2016136.md">美为两大原因急要乌停轰俄炼油厂 基辅简单回应4个字</a></li>
-<li><a href="/comments/20240323/2016241.md">网海拾贝:假如外企全部撤走，中国老百姓会怎样？</a></li>
+<li><a href="/comments/20240322/2016077.md">哈马斯即将赢下这场战争 刚刚里程碑出现了</a></li>
 <li><a href="/topimagenews/20240323/2016316.md">震撼！制裁习和中共中央成员及亲属！美法案通过？俄通社证实</a></li>
+<li><a href="/comments/20240323/2016241.md">网海拾贝:假如外企全部撤走，中国老百姓会怎样？</a></li>
+<li><a href="/topimagenews/20240322/2016136.md">美为两大原因急要乌停轰俄炼油厂 基辅简单回应4个字</a></li>
+<li><a href="/topimagenews/20240323/2016334.md">把这个破烂摊子留给了习：一修宪法 他们立马离开</a></li>
 <li><a href="/cnnews/20240322/2016017.md">研究：全球75%的国家将“生不如死”</a></li>
-<li><a href="/worldnews/20240322/2016065.md">他的“真心话”泄漏：“乌克兰很快就要失败”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240323/2016417.md" target="_blank">最好的商业模式：制造“尊者”</a></li>
 <li><a href="/comments/20240323/2016396.md" target="_blank">ISIS为何袭击俄罗斯！ 多年仇恨一次看清</a></li>
 <li><a href="/comments/20240323/2016389.md" target="_blank">美史最惊悚最无耻的一幕：它就此被玷污 不再纯洁</a></li>
 <li><a href="/comments/20240323/2016388.md" target="_blank">凤羽财经：三个邯郸小畜生该死，问题是怎么办？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240323/2016270.md" target="_blank">文昭：7000亿元新疆大开发来了！要在新疆干什麽，又是「广阔天地下大棋」？（文昭谈古论今20240322第</a></li>
 <li><a href="/comments/20240323/2016269.md" target="_blank">中国战车PTL-02 如何在缅甸​​被击毁？｜兵空常事</a></li>
 <li><a href="/comments/20240323/2016258.md" target="_blank">3月21日 #上海静安寺苹果新店开业 有人怒斥排队人群“崇洋媚外” 有人举起白屏&#8230; #白纸运动 #爱国主义</a></li>
-<li><a href="/comments/20240323/2016257.md" target="_blank">【习近平将会晤美国商界领袖 克里斯·史密斯有话说】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20231207/1970628.md" target="_blank">民兵对官军，希望之声打造广播界的奇蹟【方伟时间-20231206】</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20231214/1974098.md" target="_blank">美国众议院议长：我所坚守的保守主义，具体是些什么内容？</a></li>
+<li><a href="/comments/20231130/1967587.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （一）</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
 
 </ul>
 </div>
