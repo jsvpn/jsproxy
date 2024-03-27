@@ -8,7 +8,6 @@
 <li><a href="/cbnews/20240326/2017476.md">李强竟称要“亡国”了 背后是他们一手策划</a></li>
 <li><a href="/cnnews/20240326/2017408.md">中共奸相薄一波的“7个子女”今安在？</a></li>
 <li><a href="/topimagenews/20240326/2017401.md">一张表，告诉你深圳房价跌的有多惨</a></li>
-<li><a href="/cbnews/20240326/2017390.md">〖红朝浮世绘〗习总别到处撒币了！外国人都知道你勒着自家百姓的腰带在外面拽</a></li>
 <li><a href="/topimagenews/20240326/2017475.md">急疯了！影射中共党魁要“亡党亡国”：“国家机器面临瘫痪的风险” 【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240326/2017510.md">惊爆 美国会九封信彻底曝光中共 吁全美抗共</a></li>
 <li><a href="/topimagenews/20240327/2017717.md">中央出大招了！但问题是，地方非常不愿意</a></li>
@@ -21,11 +20,12 @@
 <li><a href="/headline/20240326/2017508.md">习近平明天在人民大会堂款见美国大老板 李强在否引注意</a></li>
 <li><a href="/cnnews/20240326/2017414.md">攻乌如此艰难 林彪当年对苏联的看法 或许没错</a></li>
 <li><a href="/headline/20240326/2017490.md">路透：习近平将于星期三会见美国企业高管</a></li>
+<li><a href="/topimagenews/20240327/2017732.md">习近平用“它”赌国运 遭遇美欧快速反制</a></li>
 <li><a href="/lifebaike/20240326/2017459.md">比吸烟还可怕的九大爱好，看到第一个就惊呆了</a></li>
 <li><a href="/topimagenews/20240326/2017615.md">被排挤？自美返中学者辞去浙大职位 致领导信受瞩</a></li>
-<li><a href="/topimagenews/20240327/2017732.md">习近平用“它”赌国运 遭遇美欧快速反制</a></li>
+<li><a href="/baitai/20240327/2017726.md">有关王沪宁的杂议</a></li>
 <li><a href="/cbnews/20240326/2017419.md">自认被排挤 从美返中的千人计划学者辞职</a></li>
-<li><a href="/lifebaike/20240326/2017496.md">现代中国人的婚姻观 全是大实话</a></li>
+<li><a href="/sohnews/20240327/2017639.md">“王沪宁的讲话被删除 ⋯ 习近平内斗贴身重臣”（03/26/24）</a></li>
 <li><a href="/baitai/20240326/2017601.md">习近平再提「200斤十里山路不换肩」火了 原因竟是这个</a></li>
 <li><a href="/worldnews/20240326/2017569.md">莫斯科恐攻》俄“割耳虐囚片”惹毛IS 呛杀普丁：让我们更嗜血</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240327/2017817.md" target="_blank">〖红朝浮世绘〗领导是一种责任 中国的领导还不如美国的火鸡</a></li>
 <li><a href="/cbnews/20240327/2017809.md" target="_blank">江峰：习近平招商引资扮演男一号，李强成路人甲；中华民国总统就职典礼前马英九二访大陆，习将亲见，是否被安排林郑月娥坐过的位子矮化台湾？苹果CEO连喊爱中国，换来百度AI【江峰漫谈20240326第843期】</a></li>
 <li><a href="/comments/20240327/2017771.md" target="_blank">中共的臭名声给华人带来大陷坑</a></li>
 <li><a href="/comments/20240327/2017729.md" target="_blank">前民营企业家：十几亿资产被一夜查封！朋友圈财富缩水70%！设立民营企业家联盟帮助国内企业家 ｜陈霆｜新闻烽火台 03/26</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240325/2017015.md" target="_blank">邯郸初中生被害案律师突然清空微博之后…</a></li>
 <li><a href="/comments/20240325/2016984.md" target="_blank">众议院委员会主席加拉格尔提前辞职，暗藏阻止川普连任计划。奥巴马再次警告拜登，连任前景出现麻烦。#美国大选 #奥巴马 #拜登</a></li>
 <li><a href="/cbnews/20240325/2016981.md" target="_blank">〖红朝浮世绘〗农夫山泉倒了？粉红们又赢了？</a></li>
-<li><a href="/cbnews/20240325/2016870.md" target="_blank">实习7年无法获执业证律师遭青岛警方跨省传唤 扒光逼穿囚服</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240327/2017819.md" target="_blank">兵临城下！中南海已惶惶不可终日</a></li>
 <li><a href="/comments/20240327/2017812.md" target="_blank">猫神：微信对人的监控已经丧心病狂了</a></li>
 <li><a href="/comments/20240327/2017800.md" target="_blank">读后感：中国没有中世纪 进入现代化的唯一希望在台湾</a></li>
 <li><a href="/comments/20240327/2017799.md" target="_blank">袁凌:留守儿童：被牺牲的6100万，现在长大了</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240327/2017657.md" target="_blank">【梁京评论】北京经济决策的「自欺」困境</a></li>
 <li><a href="/comments/20240327/2017623.md" target="_blank">时事大家谈：总书记再晒书单 如何读懂习近平？</a></li>
 <li><a href="/comments/20240327/2017622.md" target="_blank">时事大家谈：习近平亲自出马 外资出逃能止步？</a></li>
-<li><a href="/comments/20240326/2017605.md" target="_blank">【财经拆局】全面割席？23条立法后西方社会将令香港「孤岛化」</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20231207/1970628.md" target="_blank">民兵对官军，希望之声打造广播界的奇蹟【方伟时间-20231206】</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20230920/1936271.md" target="_blank">防止你的孩子不成功（5） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
-<li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
 <li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20231201/1968320.md" target="_blank">【非凡新闻】结合中西文化精神 美国神韵表演吸睛</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
 
 </ul>
 </div>
