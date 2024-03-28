@@ -15,9 +15,9 @@
 <li><a href="/topimagenews/20240328/2018146.md">列车惊魂！狰狞的面孔令人不寒而栗</a></li>
 <li><a href="/comments/20240328/2018124.md">毕汝谐：形势逼人！ 彭丽媛会不会成为江青第二？</a></li>
 <li><a href="/topimagenews/20240328/2018157.md">习近平只是在“拍照作秀”？</a></li>
+<li><a href="/sohnews/20240328/2018270.md">🔥🔥“袁天罡千年前预言”已成真❗大劫将临 圣人已出❗中国大变局就在2024❓</a></li>
 <li><a href="/worldnews/20240328/2018232.md">普京惨了 正在“失去控制权”</a></li>
 <li><a href="/topimagenews/20240328/2018158.md">有人给普京提这建议 俄防长绍伊古气炸：愚蠢</a></li>
-<li><a href="/sohnews/20240328/2018270.md">🔥🔥“袁天罡千年前预言”已成真❗大劫将临 圣人已出❗中国大变局就在2024❓</a></li>
 <li><a href="/yule/20240328/2018175.md">崔永元露面变这样 亲自回应“穷得揭不开锅”</a></li>
 <li><a href="/comments/20240328/2018145.md">文昭：一连三个李强被贬信号！习近平、蔡奇单独会见商界领袖；总书记兼任总理会怎样？</a></li>
 <li><a href="/comments/20240328/2018164.md">未普：中共统治正发生危险转换，而最最危险的是…</a></li>
@@ -27,7 +27,7 @@
 <li><a href="/ssgc/20240328/2018190.md">〖微博谈〗投资中国的三大风险至今无解</a></li>
 <li><a href="/headline/20240328/2018112.md">中国高校思政课面临师生软抵触</a></li>
 <li><a href="/health/20240328/2018258.md">仅54岁 肺癌专家抗癌10年离世 3个生前忠告</a></li>
-<li><a href="/cbnews/20240328/2018214.md">现在女中学生统一发型长这样…老师们已被气疯</a></li>
+<li><a href="/cbnews/20240328/2018196.md">习为普京撑腰 中共已经成为俄乌战争的一方</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240328/2018410.md" target="_blank">【美众院军事委员会情报特种小组访台】【强调美台合作对抗中国侵略性的行动】</a></li>
 <li><a href="/comments/20240328/2018359.md" target="_blank">时事大家谈：习近平向美商示好，“人民外交”能挽救美中关系？防止“规模性返贫”成政府红线，形势有多严重？</a></li>
 <li><a href="/comments/20240328/2018346.md" target="_blank">【未普评论】从韧性体制到脆断体制，中共统治正发生危险转换</a></li>
 <li><a href="/comments/20240328/2018334.md" target="_blank">蔡慎坤：彭丽媛高升？习近平未必信任她</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240328/2018150.md" target="_blank">炸弹，枪击恐吓，中共海外大搞流氓手法；巴尔的摩大桥倒塌，阴谋论又起；川普再次转危为安， 有神护佑？｜方伟 唐靖远 横河 方菲 David</a></li>
 <li><a href="/comments/20240328/2018145.md" target="_blank">文昭：一连三个李强被贬信号！习近平、蔡奇单独会见商界领袖；总书记兼任总理会怎样？</a></li>
 <li><a href="/comments/20240328/2018127.md" target="_blank">袁斌：李强称中国将“更加开放”，可能吗？</a></li>
-<li><a href="/comments/20240328/2018126.md" target="_blank">沈舟：中国油轮红海遇袭 中共舰队在哪？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20231203/1969183.md" target="_blank">开盖冲马桶 ，细菌会乱飞？除非你家马桶是喷泉！</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/tculture/20231217/1975364.md" target="_blank">医山夜话：张锡纯医案解读（1）根治失眠 思路清晰</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20231213/1973586.md" target="_blank">六道轮回之畜生道</a></li>
+<li><a href="/taiwannews/20210119/1470761.md" target="_blank">独家：震撼纪录片《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20190701/1151501.md" target="_blank">【特稿】中国共产党是邪教组织</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
 
 </ul>
 </div>
