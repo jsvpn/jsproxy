@@ -8,26 +8,26 @@
 <li><a href="/cbnews/20240328/2018315.md">又是报复性撞人? 中国加速失序 中南海重大车祸 现场挤满救护车...</a></li>
 <li><a href="/cbnews/20240328/2018316.md">中国多地发生民众裸奔事件</a></li>
 <li><a href="/baitai/20240328/2018371.md">一张照片成国际笑话 习精心安排会美商恐弄巧成拙？</a></li>
-<li><a href="/sohnews/20240328/2018280.md">陈破空：不忍了？李强公开唱衰！习李罕见不同调。股市大跌！蔡奇诡异现身。中国迎来断崖式降薪。巴国反一带一路，再次袭击中国人！直播与互动：美东时间3月28日早9点、中港台3月28日晚9点</a></li>
 <li><a href="/topimagenews/20240328/2018312.md">“中国私募之王”对北京放炮：是取消的时候了</a></li>
 <li><a href="/lifebaike/20240328/2018337.md">汽车要是开了10万公里以上，这3个零件没坏也必须更换，老司机：及时更换保命</a></li>
 <li><a href="/cnnews/20240329/2018632.md">习羞于指明方向了？博鳌亚洲论坛惨不忍睹 只来了4个穷哥们儿</a></li>
 <li><a href="/topimagenews/20240329/2018593.md">套牢你这辈子！中共忽悠你花几十万安装它以后…</a></li>
-<li><a href="/topimagenews/20240328/2018313.md">中国面临百年一遇风暴 达利欧：减轻债务才能避免失落的10年</a></li>
 <li><a href="/ssgc/20240329/2018468.md">王刚在狱中被严管 不允许律师或家属会见</a></li>
-<li><a href="/topimagenews/20240329/2018653.md">中国财政部发布通知：对“过紧日子”提明确要求</a></li>
 <li><a href="/baitai/20240329/2018535.md">再晋升两名上将：军中高层内斗 习开始「乱弹琴」？</a></li>
+<li><a href="/topimagenews/20240328/2018313.md">中国面临百年一遇风暴 达利欧：减轻债务才能避免失落的10年</a></li>
+<li><a href="/topimagenews/20240329/2018653.md">中国财政部发布通知：对“过紧日子”提明确要求</a></li>
 <li><a href="/topimagenews/20240329/2018618.md">华春莹“张口乱说” 引来外国记者抗议</a></li>
 <li><a href="/comments/20240329/2018495.md">中国教育界爆发大宗丑闻！这个教育局长有点坏</a></li>
 <li><a href="/finance/20240329/2018582.md">不给习面子！关键时刻 美又一大厂要撤…</a></li>
 <li><a href="/ssgc/20240329/2018615.md">〖微博谈〗中美关系只会越来越差</a></li>
 <li><a href="/topimagenews/20240329/2018629.md">惊爆！万科深度参与中共这场游戏 将付出生命为代价？</a></li>
+<li><a href="/cbnews/20240329/2018666.md">〖红朝浮世绘〗彭丽媛会成为第二个江青吗？</a></li>
 <li><a href="/topimagenews/20240328/2018311.md">番红花恐攻是俄自导自演? 网踢爆混有多名特工 现场警员未叫救援</a></li>
 <li><a href="/cnnews/20240328/2018438.md">中共军委窝里斗 一位副主席被封杀</a></li>
-<li><a href="/cbnews/20240329/2018666.md">〖红朝浮世绘〗彭丽媛会成为第二个江青吗？</a></li>
 <li><a href="/topimagenews/20240328/2018310.md">新冠病毒肆虐 武毒所又出“新货”？ 刚果出血热致死率30% 她论文...</a></li>
 <li><a href="/baitai/20240329/2018575.md">触碰北京禁忌？俞敏洪采访李书福这段对话火了 直播间短暂遭封禁</a></li>
 <li><a href="/headline/20240329/2018470.md">中国宗教官员掌掴穆斯林妇女引起国际关注</a></li>
+<li><a href="/topimagenews/20240329/2018637.md">中共党魁“喝醉了” 新华社拍马屁也“一分钱一分货”？【阿波罗网报道】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
 <li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
 <li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
+<li><a href="/comments/20240318/2014289.md" target="_blank">唐柏桥：民运同仁突然向法轮功开火是怎么回事？</a></li>
 
 </ul>
 </div>
