@@ -6,7 +6,6 @@
 <ul>
 
 <li><a href="/topimagenews/20240330/2018988.md">翻天覆地！ 中国楼市最后一块遮羞布打响保卫战</a></li>
-<li><a href="/comments/20240330/2018966.md">钟原：中共军委政法委书记升上将有猫腻</a></li>
 <li><a href="/cbnews/20240330/2019155.md">传被习近平重用 蔡奇进退两难</a></li>
 <li><a href="/cnnews/20240330/2019081.md">入籍中国4年 赚走3600万 一辈子不愁吃喝</a></li>
 <li><a href="/cbnews/20240330/2019181.md">别对习再抱幻想！美CEO讲述此次被习接见经历</a></li>
@@ -20,14 +19,15 @@
 <li><a href="/cnnews/20240330/2018981.md">狠！中国航空公司抢钱啦 费用远超美企</a></li>
 <li><a href="/cbnews/20240330/2019079.md">多次乱停车激怒业主 哈尔滨丰田C-HR被焊死在车位</a></li>
 <li><a href="/cbnews/20240330/2019142.md">为什么越来越多大陆儿童患上癌症？2个“祸根”</a></li>
-<li><a href="/lifebaike/20240330/2019109.md">交了智商税才明白：这“7种电器”真不用买贵，不是胡说，是教训</a></li>
 <li><a href="/cnnews/20240330/2019098.md">昨晚封神的小米汽车，被曝暗黑内幕</a></li>
+<li><a href="/lifebaike/20240330/2019109.md">交了智商税才明白：这“7种电器”真不用买贵，不是胡说，是教训</a></li>
 <li><a href="/lifebaike/20240330/2019129.md">汽车不开“最多”停放多少天？</a></li>
 <li><a href="/funmedia/20240330/2019080.md">“马看四蹄，人看四相”：想看透一个人，看这4个地方就够了</a></li>
 <li><a href="/sohnews/20240330/2019113.md">彭丽媛以中央领导身份再次露面，习近平决定金融大放水将导致大通胀，福建帮浙江帮内斗蔡奇完胜李强。《老灯开讲第526期》</a></li>
 <li><a href="/cbnews/20240330/2019078.md">年薪180万 北京大学帅博士抢当“赘婿” 被拒</a></li>
 <li><a href="/finance/20240330/2019156.md">王健林交出万达商管的绝对控制权</a></li>
 <li><a href="/headline/20240330/2019179.md">习近平著作 谁的思想谁写的？</a></li>
+<li><a href="/cbnews/20240330/2019089.md">江峰：大家都在谈，习近平心慌：吉利李书福谈「六四」 ，俞敏洪直播被封；小米新车发布，27分钟=5万台，抄袭保时捷、质量问题，数百人退订；西洋参黑膏滋的良心故事【江峰漫谈20240329第845期】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240331/2019283.md" target="_blank">与习近平见面后，外资将更多撤出中国  ｜#方菲时间</a></li>
 <li><a href="/cbnews/20240331/2019274.md" target="_blank">清明假期要到了，中共再祭游戏限时令</a></li>
 <li><a href="/comments/20240331/2019247.md" target="_blank">震动美国的非法移民网红</a></li>
 <li><a href="/cbnews/20240331/2019243.md" target="_blank">江峰：学习思想、吸雾霾的扎克伯格最後是这个下场</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240330/2018923.md" target="_blank">美国思想领袖：【精彩片段】亲历郑州大水 发现多处诡异现象 不为控制疫情 中共「极端封城」另有目的？-#新闻大家谈</a></li>
 <li><a href="/cbnews/20240330/2018922.md" target="_blank">美国思想领袖：【精彩片段】持续翻墙 了解中共的更大谎言 2019年海外报导《天安门自焚伪案》新闻内容-#新闻大家谈</a></li>
 <li><a href="/comments/20240330/2018912.md" target="_blank">纽约警察工会主席气炸了肺</a></li>
-<li><a href="/comments/20240329/2018801.md" target="_blank">震惊医学界！超越科学的成功抗癌方法！癌症克星“李斯特菌”调动人体免疫系统，潜藏的巨大能力！｜ #未解之谜 扶摇</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240331/2019283.md" target="_blank">与习近平见面后，外资将更多撤出中国  ｜#方菲时间</a></li>
 <li><a href="/comments/20240331/2019276.md" target="_blank">沈舟：中共空军训练尚未摆脱二战模式</a></li>
 <li><a href="/comments/20240331/2019257.md" target="_blank">天亮时分：蔡慎坤先生 爆料十八大秘闻</a></li>
 <li><a href="/comments/20240331/2019247.md" target="_blank">震动美国的非法移民网红</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240330/2019025.md" target="_blank">李濠仲：中国媒体为何急删这支“正能量”影片</a></li>
 <li><a href="/comments/20240330/2019024.md" target="_blank">易中地：巧言令色张维为</a></li>
 <li><a href="/comments/20240330/2019023.md" target="_blank">牛克思:答马斯克：北约为什么不能解散</a></li>
-<li><a href="/comments/20240330/2019017.md" target="_blank">天亮时分：见完了习近平，美企高管如是说；蔡奇要求媒体吹捧彭丽媛；习对李尚福的六字批示；十八大秘闻，胡锦涛的失算（政论天下第1268集 20240329）天亮时分</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/cbnews/20190701/1151453.md" target="_blank">盘点十大邪教特征 中共条条对号入座</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
 
 </ul>
 </div>
