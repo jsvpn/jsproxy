@@ -7,27 +7,27 @@
 
 <li><a href="/cnnews/20240329/2018632.md">习羞于指明方向了？博鳌亚洲论坛惨不忍睹 只来了4个穷哥们儿</a></li>
 <li><a href="/sohnews/20240329/2018732.md">李强停职检讨丁薛祥代理总理，北京再恐袭燕郊又爆炸，中国发生“百年之大风暴”的风险直线上升。《老灯开讲第525期》</a></li>
-<li><a href="/topimagenews/20240329/2018618.md">华春莹“张口乱说” 引来外国记者抗议</a></li>
 <li><a href="/topimagenews/20240329/2018653.md">中国财政部发布通知：对“过紧日子”提明确要求</a></li>
+<li><a href="/topimagenews/20240329/2018798.md">杭州电子科技大学出现四通桥标语:不做奴才做公民。【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20240329/2018666.md">〖红朝浮世绘〗彭丽媛会成为第二个江青吗？</a></li>
 <li><a href="/topimagenews/20240329/2018629.md">惊爆！万科深度参与中共这场游戏 将付出生命为代价？</a></li>
-<li><a href="/topimagenews/20240329/2018798.md">杭州电子科技大学出现四通桥标语:不做奴才做公民。【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20240329/2018756.md">这就是中共教育局长！ 贪污13亿 “潜规则”逾120女 其中2人还是校长</a></li>
 <li><a href="/baitai/20240329/2018784.md">李强彻底凉了？蔡奇又获新职 权力进一步扩大</a></li>
-<li><a href="/ssgc/20240329/2018615.md">〖微博谈〗中美关系只会越来越差</a></li>
+<li><a href="/topimagenews/20240329/2018756.md">这就是中共教育局长！ 贪污13亿 “潜规则”逾120女 其中2人还是校长</a></li>
 <li><a href="/baitai/20240329/2018802.md">彭丽媛成习接班人？分析：有可能</a></li>
 <li><a href="/cbnews/20240329/2018741.md">12匹狼跨过结冰黄河 专家拍下壮观一幕 网友惊叹</a></li>
 <li><a href="/headline/20240329/2018757.md">吉利汽车老板触碰中共禁忌 直播访问3度提「六四」</a></li>
 <li><a href="/topimagenews/20240329/2018637.md">中共党魁“喝醉了” 新华社拍马屁也“一分钱一分货”？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240329/2018652.md">【微博精粹】中国梦早泄了</a></li>
-<li><a href="/cbnews/20240329/2018680.md">缘分太奇妙！山东男子寻亲20年 见到生父时竟发现…</a></li>
 <li><a href="/baitai/20240329/2018824.md">太恐怖了！性命攸关！快查查你的支付宝绑定信息</a></li>
-<li><a href="/topimagenews/20240329/2018769.md">惊爆整个部门快消失！PC龙头台湾大裁员 网揭致命死穴</a></li>
-<li><a href="/headline/20240329/2018777.md">美国商界与习近平会面后爆料 中国富豪正大举抛售资产并调走资金</a></li>
+<li><a href="/cbnews/20240329/2018680.md">缘分太奇妙！山东男子寻亲20年 见到生父时竟发现…</a></li>
 <li><a href="/topimagenews/20240330/2018945.md">习一咬牙选择了它！中国青年生存更难了；中央出狠招为啥？地方都傻眼【阿波罗网报道】</a></li>
+<li><a href="/headline/20240329/2018777.md">美国商界与习近平会面后爆料 中国富豪正大举抛售资产并调走资金</a></li>
+<li><a href="/topimagenews/20240329/2018769.md">惊爆整个部门快消失！PC龙头台湾大裁员 网揭致命死穴</a></li>
+<li><a href="/comments/20240329/2018801.md">震惊医学界！超越科学的成功抗癌方法！癌症克星“李斯特菌”调动人体免疫系统，潜藏的巨大能力！｜ #未解之谜 扶摇</a></li>
 <li><a href="/topimagenews/20240329/2018651.md">中国发生“百年之大风暴”的风险直线上升</a></li>
 <li><a href="/health/20240329/2018654.md">经常睡觉的房间，尽量别放这3样东西，并非迷信</a></li>
-<li><a href="/comments/20240329/2018801.md">震惊医学界！超越科学的成功抗癌方法！癌症克星“李斯特菌”调动人体免疫系统，潜藏的巨大能力！｜ #未解之谜 扶摇</a></li>
+<li><a href="/baitai/20240329/2018785.md">博鳌亚洲论坛 习近平李强不见了！赵乐际致词引嘲讽</a></li>
+<li><a href="/topimagenews/20240329/2018760.md">反土地被征收 四川村民与警爆冲突 中国多地也发生烂尾楼抗议</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240330/2019017.md" target="_blank">天亮时分：见完了习近平，美企高管如是说；蔡奇要求媒体吹捧彭丽媛；习对李尚福的六字批示；十八大秘闻，胡锦涛的失算（政论天下第1268集 20240329）天亮时分</a></li>
 <li><a href="/comments/20240330/2019004.md" target="_blank">蹲客在美国有多严重？赶走蹲客有哪三大招？佛州立法全面禁蹲客</a></li>
 <li><a href="/comments/20240330/2018986.md" target="_blank">文昭：「亲自指挥」最新力作：无锚印钞时代来了？央行将买进国债；钱最後会变卫生纸吗？</a></li>
 <li><a href="/comments/20240330/2018970.md" target="_blank">周晓辉：习新晋两名上将有何说道</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240329/2018810.md" target="_blank">天亮时分：马英九跑敌国去刷存在感</a></li>
 <li><a href="/comments/20240329/2018801.md" target="_blank">震惊医学界！超越科学的成功抗癌方法！癌症克星“李斯特菌”调动人体免疫系统，潜藏的巨大能力！｜ #未解之谜 扶摇</a></li>
 <li><a href="/comments/20240329/2018738.md" target="_blank">加密货币之王被判刑，用50亿美元让川普退选。川普为警察守夜，帮家属还房贷。拜登发音盲贴遭嘲讽，在无线电城搞筹款。#川普 #拜登 #FTX</a></li>
-<li><a href="/comments/20240329/2018711.md" target="_blank">法国世界报：荷兰深陷中美芯片大战</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
 
 </ul>
 </div>
