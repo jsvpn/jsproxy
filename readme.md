@@ -12,10 +12,9 @@
 <li><a href="/baitai/20240329/2018824.md">太恐怖了！性命攸关！快查查你的支付宝绑定信息</a></li>
 <li><a href="/headline/20240329/2018777.md">美国商界与习近平会面后爆料 中国富豪正大举抛售资产并调走资金</a></li>
 <li><a href="/topimagenews/20240330/2018988.md">翻天覆地！ 中国楼市最后一块遮羞布打响保卫战</a></li>
-<li><a href="/topimagenews/20240329/2018769.md">惊爆整个部门快消失！PC龙头台湾大裁员 网揭致命死穴</a></li>
-<li><a href="/yule/20240330/2019035.md">高晓松剪短了头发，笑死在网友的评论区</a></li>
 <li><a href="/baitai/20240329/2018785.md">博鳌亚洲论坛 习近平李强不见了！赵乐际致词引嘲讽</a></li>
 <li><a href="/comments/20240330/2018966.md">钟原：中共军委政法委书记升上将有猫腻</a></li>
+<li><a href="/yule/20240330/2019035.md">高晓松剪短了头发，笑死在网友的评论区</a></li>
 <li><a href="/cnnews/20240330/2019064.md">冯唐：一辈子不生癌的秘密，就这三点</a></li>
 <li><a href="/cnnews/20240330/2019081.md">入籍中国4年 赚走3600万 一辈子不愁吃喝</a></li>
 <li><a href="/comments/20240329/2018801.md">震惊医学界！超越科学的成功抗癌方法！癌症克星“李斯特菌”调动人体免疫系统，潜藏的巨大能力！｜ #未解之谜 扶摇</a></li>
@@ -23,11 +22,12 @@
 <li><a href="/headline/20240330/2018874.md">中国“新三样”倾销全球 引发美欧高度警觉</a></li>
 <li><a href="/topimagenews/20240330/2019104.md">再现大型耍猴现场！中共最害怕的一关 看来真过不去了【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20240330/2019077.md">不领证不洞房的“一日夫妻” 中国农村流行</a></li>
-<li><a href="/baitai/20240330/2018913.md">车企降价血拚 小米SU7亏钱卖 上市次日便现事故</a></li>
 <li><a href="/baitai/20240330/2018949.md">习开会强调这件事：中国人惨了 将继续花钱养国企</a></li>
+<li><a href="/baitai/20240330/2018913.md">车企降价血拚 小米SU7亏钱卖 上市次日便现事故</a></li>
 <li><a href="/cnnews/20240330/2018981.md">狠！中国航空公司抢钱啦 费用远超美企</a></li>
 <li><a href="/headline/20240329/2018778.md">港人大迁徙近64万人连假前一天率先离境 港店主叹「回到沙士」</a></li>
 <li><a href="/ssgc/20240330/2018882.md">评论 - 蔡霞：习近平再造党国体制系列评析 (一) —— 建领导小组 毁中国顶层党政领导体制与决策机制</a></li>
+<li><a href="/ssgc/20240330/2018918.md">"躺平"文化与女权崛起 中国职场"恶心穿搭"掀风潮</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240330/2019155.md" target="_blank">传被习近平重用 蔡奇进退两难</a></li>
 <li><a href="/comments/20240330/2019152.md" target="_blank">川普与RNC打抱不平，准备反制NBC？麦克丹尼尔被聘用仅4天就被解雇，根本原因揭秘。#共和党全国委员会 #美国大选 #川普</a></li>
 <li><a href="/cbnews/20240330/2019142.md" target="_blank">为什么越来越多大陆儿童患上癌症？2个“祸根”</a></li>
 <li><a href="/cbnews/20240330/2019089.md" target="_blank">江峰：大家都在谈，习近平心慌：吉利李书福谈「六四」 ，俞敏洪直播被封；小米新车发布，27分钟=5万台，抄袭保时捷、质量问题，数百人退订；西洋参黑膏滋的良心故事【江峰漫谈20240329第845期】</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240329/2018680.md" target="_blank">缘分太奇妙！山东男子寻亲20年 见到生父时竟发现…</a></li>
 <li><a href="/cbnews/20240329/2018666.md" target="_blank">〖红朝浮世绘〗彭丽媛会成为第二个江青吗？</a></li>
 <li><a href="/cbnews/20240329/2018649.md" target="_blank">江峰：习近平金句连连，李强路人甲连出镜机会都剥夺；中国的发展机会究竟是哪一股势力夺走的？清明烧纸钱都要管？不躺平的官员出奇招【江峰漫谈20240328第844期】</a></li>
-<li><a href="/comments/20240329/2018645.md" target="_blank">纽约的乱象 Diller的牺牲 警察的愤怒</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
 
 </ul>
 </div>
