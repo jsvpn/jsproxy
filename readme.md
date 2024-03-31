@@ -7,27 +7,27 @@
 
 <li><a href="/cbnews/20240330/2019155.md">传被习近平重用 蔡奇进退两难</a></li>
 <li><a href="/cbnews/20240330/2019181.md">别对习再抱幻想！美CEO讲述此次被习接见经历</a></li>
-<li><a href="/cnnews/20240330/2019081.md">入籍中国4年 赚走3600万 一辈子不愁吃喝</a></li>
 <li><a href="/topimagenews/20240330/2019104.md">再现大型耍猴现场！中共最害怕的一关 看来真过不去了【阿波罗网报道】</a></li>
 <li><a href="/baitai/20240330/2019124.md">习近平称谋划深化改革 中共三中全会要有大动作？</a></li>
 <li><a href="/topimagenews/20240330/2019117.md">台湾满街有钱人？最新调查报告超震撼 专家：富到流油之岛</a></li>
-<li><a href="/cbnews/20240330/2019079.md">多次乱停车激怒业主 哈尔滨丰田C-HR被焊死在车位</a></li>
 <li><a href="/cbnews/20240330/2019142.md">为什么越来越多大陆儿童患上癌症？2个“祸根”</a></li>
 <li><a href="/sohnews/20240331/2019262.md">南海冲突加剧，美军划出开战红线！邯郸学生惨案动机曝光，震惊所有人；互动问答：美国为何早知恐袭？</a></li>
 <li><a href="/cnnews/20240330/2019098.md">昨晚封神的小米汽车，被曝暗黑内幕</a></li>
 <li><a href="/topimagenews/20240331/2019314.md">对所有靠挣工资的人来说，这都不是个好消息</a></li>
 <li><a href="/lifebaike/20240330/2019109.md">交了智商税才明白：这“7种电器”真不用买贵，不是胡说，是教训</a></li>
+<li><a href="/topimagenews/20240331/2019328.md">浙江省长讲话亮瞎眼 大家注意‼️</a></li>
 <li><a href="/sohnews/20240330/2019113.md">彭丽媛以中央领导身份再次露面，习近平决定金融大放水将导致大通胀，福建帮浙江帮内斗蔡奇完胜李强。《老灯开讲第526期》</a></li>
 <li><a href="/lifebaike/20240330/2019129.md">汽车不开“最多”停放多少天？</a></li>
-<li><a href="/funmedia/20240330/2019080.md">“马看四蹄，人看四相”：想看透一个人，看这4个地方就够了</a></li>
-<li><a href="/topimagenews/20240331/2019328.md">浙江省长讲话亮瞎眼 大家注意‼️</a></li>
 <li><a href="/ssgc/20240330/2019112.md">王丹：彭丽媛接班习近平 真的吗？</a></li>
 <li><a href="/comments/20240331/2019247.md">震动美国的非法移民网红</a></li>
-<li><a href="/cbnews/20240330/2019078.md">年薪180万 北京大学帅博士抢当“赘婿” 被拒</a></li>
 <li><a href="/cbnews/20240330/2019089.md">江峰：大家都在谈，习近平心慌：吉利李书福谈「六四」 ，俞敏洪直播被封；小米新车发布，27分钟=5万台，抄袭保时捷、质量问题，数百人退订；西洋参黑膏滋的良心故事【江峰漫谈20240329第845期】</a></li>
 <li><a href="/finance/20240330/2019156.md">王健林交出万达商管的绝对控制权</a></li>
 <li><a href="/headline/20240330/2019179.md">习近平著作 谁的思想谁写的？</a></li>
 <li><a href="/topimagenews/20240331/2019271.md">中国百年大风暴风险直线上升！惊爆！万科深度参与中共这场游戏，将付出生命代价</a></li>
+<li><a href="/comments/20240331/2019283.md">与习近平见面后，外资将更多撤出中国  ｜#方菲时间</a></li>
+<li><a href="/cnnews/20240331/2019305.md">惊天巨变！世界顶尖几万人的大会 没人提到中共国</a></li>
+<li><a href="/sohnews/20240331/2019266.md">两上将获晋升，三处不寻常！两上将糊里糊涂消失，习近平批示定命运，内幕爆光！刘亚洲遭批“给脸不要脸”；《沃土》海外参展遭中共勒令撤，王小帅反抗！</a></li>
+<li><a href="/worldnews/20240330/2019157.md">美同性恋色情演员在伊朗被捕，将面临死刑</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20240318/2014289.md" target="_blank">唐柏桥：民运同仁突然向法轮功开火是怎么回事？</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
 <li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
-<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
 <li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
+<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/aomi/life/20240330/2018911.md" target="_blank">挪威青年这样走出重度失眠和抑郁煎熬</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20240116/1984226.md" target="_blank">湖北老河口遇仙记</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/comments/20240318/2014289.md" target="_blank">唐柏桥：民运同仁突然向法轮功开火是怎么回事？</a></li>
+<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
 <li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/comments/20231220/1976789.md" target="_blank">大陆医生曝：九价HPV疫苗导致怀孕能力下降40%</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/topimagenews/20180608/954788.md" target="_blank">安乐死根本安乐不了，别宣传了</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
 
 </ul>
 </div>
