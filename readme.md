@@ -15,19 +15,19 @@
 <li><a href="/cnnews/20240402/2019986.md">他被抓了！大快人心</a></li>
 <li><a href="/topimagenews/20240402/2020104.md">注意！从中国出境 越来越多国人被要求…</a></li>
 <li><a href="/topimagenews/20240402/2019959.md">某局在非洲变得老实多了</a></li>
-<li><a href="/sohnews/20240401/2019785.md">陈破空：突发！重要习家军人物被带走。四川军区门口出事。愚人节：党媒刊登习语录，要把人民打到服。完了！他为中荷关系指明方向。直播与互动：美东时间4月1日早9点、中港台4月1日晚9点</a></li>
 <li><a href="/cnnews/20240402/2019946.md">毁灭性打击！中共还敢印钞吗？【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20240402/2019945.md">遭删头条：谁把巨款打给了俄罗斯？中国网民竞猜</a></li>
 <li><a href="/cbnews/20240402/2020083.md">〖红朝浮世绘〗晚清剧情回归，老佛爷要宰义和团</a></li>
+<li><a href="/topimagenews/20240402/2019945.md">遭删头条：谁把巨款打给了俄罗斯？中国网民竞猜</a></li>
+<li><a href="/topimagenews/20240402/2020088.md">向美国示好？中共新华社连发四文 学者一语惊人！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240402/2020043.md">"越级"报警美女教师找到了！亲曝司马南悲惨实况</a></li>
 <li><a href="/topimagenews/20240402/2019928.md">台湾护照封面“这4个字”中国旅客：只有在历史课本上看过</a></li>
 <li><a href="/cnnews/20240402/2019987.md">3亿人“饭碗不保”？</a></li>
 <li><a href="/topimagenews/20240401/2019810.md">美军101空降师换新枪 超猛6.8口径枪支 告别5.56口径</a></li>
-<li><a href="/topimagenews/20240402/2020088.md">向美国示好？中共新华社连发四文 学者一语惊人！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240402/2019998.md">这还不是最可怕的…雷军 这一次被他踩在脚下的尸体 会是谁？</a></li>
 <li><a href="/baitai/20240401/2019803.md">南昌航大1.4亿建留学生宿舍 国内学生反了 多所高校声援</a></li>
 <li><a href="/topimagenews/20240402/2019979.md">突发：以军精准斩首伊朗圣城部队指挥官</a></li>
 <li><a href="/topimagenews/20240402/2020044.md">太惨！黑海舰队大撤离 克里米亚成“空城”</a></li>
+<li><a href="/topimagenews/20240402/2019958.md">叱咤多年：马化腾加马云资产还不到他的1/3</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240402/2020185.md" target="_blank">一带一路在这里 欠下一屁股债</a></li>
 <li><a href="/cbnews/20240402/2020118.md" target="_blank">美著名智库：北京这样帮助俄罗斯逃避西方制裁</a></li>
 <li><a href="/cbnews/20240402/2020105.md" target="_blank">突发！日本紧急出动战斗机拦截中国侦察机</a></li>
 <li><a href="/cbnews/20240402/2020087.md" target="_blank">江峰：罕见！刘建超“华侨效忠所在国” 不提爱党爱中华，中央最高指令？统战与走线特务要“积蓄力量等待时机”！八名走线非法移民罹难，全是华人；共特在美国频繁出击军事基地。【江峰漫谈20240401第846期】</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240331/2019473.md" target="_blank">女学生遭教授逼当干女儿 怕毕不了业多次上床</a></li>
 <li><a href="/comments/20240331/2019458.md" target="_blank">万人出席纽约警察葬礼，遗孀的悼词听哭千万人。州长出席悼念活动被驱逐。拜登2500万不敌川普一个拥抱。#川普 #拜登 #纽约警察</a></li>
 <li><a href="/cbnews/20240331/2019382.md" target="_blank">〖红朝浮世绘〗塔利班又作妖 这可是习总亲自认可的恐怖分子组建的政权</a></li>
-<li><a href="/cbnews/20240331/2019379.md" target="_blank">江峰：英国占香港，香港成了华语歌曲中国功夫的摇篮；俄罗斯占海参崴，中国人和中国话都没了</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
-<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
-<li><a href="/comments/20231130/1967587.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （一）</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
 <li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
 
 </ul>
 </div>
