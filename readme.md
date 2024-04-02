@@ -19,15 +19,15 @@
 <li><a href="/topimagenews/20240402/2020088.md">向美国示好？中共新华社连发四文 学者一语惊人！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240402/2020043.md">"越级"报警美女教师找到了！亲曝司马南悲惨实况</a></li>
 <li><a href="/topimagenews/20240402/2019928.md">台湾护照封面“这4个字”中国旅客：只有在历史课本上看过</a></li>
+<li><a href="/cnnews/20240402/2020126.md">华国锋：搞阴谋诡计 邓比四人帮厉害多了</a></li>
 <li><a href="/cnnews/20240402/2019987.md">3亿人“饭碗不保”？</a></li>
 <li><a href="/topimagenews/20240402/2019998.md">这还不是最可怕的…雷军 这一次被他踩在脚下的尸体 会是谁？</a></li>
-<li><a href="/cnnews/20240402/2020126.md">华国锋：搞阴谋诡计 邓比四人帮厉害多了</a></li>
 <li><a href="/topimagenews/20240402/2020078.md">李强被夺的权利 习近平给了谁？【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20240402/2019958.md">叱咤多年：马化腾加马云资产还不到他的1/3</a></li>
 <li><a href="/topimagenews/20240402/2020044.md">太惨！黑海舰队大撤离 克里米亚成“空城”</a></li>
+<li><a href="/topimagenews/20240402/2019958.md">叱咤多年：马化腾加马云资产还不到他的1/3</a></li>
 <li><a href="/topimagenews/20240402/2019979.md">突发：以军精准斩首伊朗圣城部队指挥官</a></li>
 <li><a href="/worldnews/20240402/2019983.md">空姐分享 看鞋便知客人是否难处 远离这类人</a></li>
-<li><a href="/comments/20240402/2019960.md">小米SU7会横扫世界？中共独饮自酿苦酒</a></li>
+<li><a href="/sports/20240402/2020060.md">习下死命令？传姚明被连夜带走 三大错不可饶恕真的吗？【阿波罗网报道】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240402/2020215.md" target="_blank">减少对中国依赖 富士康等台商扩大墨西哥生产</a></li>
+<li><a href="/comments/20240402/2020214.md" target="_blank">防止清明悼念李克强？网传安徽汴河大桥每10米一警察</a></li>
 <li><a href="/comments/20240402/2020197.md" target="_blank">【财经拆局】「北上消费」令零售巨头处境艰难 结业潮年内恐加速</a></li>
 <li><a href="/comments/20240402/2020196.md" target="_blank">【秦鹏观察】马斯克的无奈之痛 丰田为何一年上涨80%？</a></li>
 <li><a href="/comments/20240402/2020195.md" target="_blank">中国人不懂美国！“习近平国师”郑永年打脸战狼、小粉红</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240401/2019850.md" target="_blank">时事大家谈：“习近平指明中荷关系方向”，荷兰首相怎么说？美菲准备启用共同防御条约，南中国海紧张升级？</a></li>
 <li><a href="/comments/20240401/2019812.md" target="_blank">【泽论四方】中国如何令香港经济全方位死亡</a></li>
 <li><a href="/comments/20240401/2019802.md" target="_blank">2025年一人取代党魁，高人指点他！中国南方军异动“南北同归一统合”；迎来太平盛世，积善之家，必有余庆｜ #未解之谜 扶摇</a></li>
-<li><a href="/comments/20240401/2019768.md" target="_blank">【520赖清德就职总统前】【AIT主席罗森伯格再度访台】</a></li>
-<li><a href="/comments/20240401/2019760.md" target="_blank">【马英九展开访问中国大陆11天行程】【可能会晤习近平】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20231204/1969287.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （三）</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/tculture/20231217/1975364.md" target="_blank">医山夜话：张锡纯医案解读（1）根治失眠 思路清晰</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/comments/20231213/1973586.md" target="_blank">六道轮回之畜生道</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
 <li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20231220/1976789.md" target="_blank">大陆医生曝：九价HPV疫苗导致怀孕能力下降40%</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
 
 </ul>
 </div>
