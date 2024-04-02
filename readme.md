@@ -8,12 +8,11 @@
 <li><a href="/comments/20240401/2019635.md">深层内幕：拱手送习家天下 一场车祸就此改变中共政治格局</a></li>
 <li><a href="/cbnews/20240401/2019662.md">〖红朝浮世绘〗200亿美元通过加密账号打给了俄罗斯 谁干的？</a></li>
 <li><a href="/topimagenews/20240401/2019780.md">突发！中国500亿科技巨头破产：技术曾超三星华为？</a></li>
-<li><a href="/topimagenews/20240401/2019633.md">王丹：彭丽媛接班习近平真的吗？</a></li>
-<li><a href="/sohnews/20240401/2019813.md">习上任内部讲话被爆！《纽约邮报》中共玩完了……</a></li>
 <li><a href="/baitai/20240402/2019926.md">被习点名抓捕？惊传姚明出事 连夜带走</a></li>
+<li><a href="/sohnews/20240401/2019813.md">习上任内部讲话被爆！《纽约邮报》中共玩完了……</a></li>
 <li><a href="/topimagenews/20240401/2019655.md">纽约邮报惊天大标题：在中国，共产党玩完了！【阿波罗网翻译报道】</a></li>
-<li><a href="/finance/20240401/2019726.md">惊爆中国外汇不够了 一朝回到10年前</a></li>
 <li><a href="/sohnews/20240401/2019758.md">陈一新要夺权当中国的安德罗波夫，上海终于出大事了，杭州大学生公开声援彭载舟。《老灯开讲第528期》</a></li>
+<li><a href="/finance/20240401/2019726.md">惊爆中国外汇不够了 一朝回到10年前</a></li>
 <li><a href="/lifebaike/20240401/2019736.md">多亏银行内部人提醒：60岁以上有存款的老年人，务必牢记这5件事</a></li>
 <li><a href="/comments/20240401/2019802.md">2025年一人取代党魁，高人指点他！中国南方军异动“南北同归一统合”；迎来太平盛世，积善之家，必有余庆｜ #未解之谜 扶摇</a></li>
 <li><a href="/topimagenews/20240401/2019656.md">中共第一大“愚人节”笑话 搬起石头砸自己的脚【阿波罗网报道】</a></li>
@@ -23,9 +22,10 @@
 <li><a href="/comments/20240401/2019660.md">习近平这么做，真是有失国体</a></li>
 <li><a href="/baitai/20240401/2019759.md">四川成都军区门口发生恶性冲撞 多人死伤 肇事者「手舞足蹈」视频遭封禁</a></li>
 <li><a href="/topimagenews/20240401/2019685.md">濒危锯鳐“诡异绕圈狂游”接连毙命！居民目睹吓坏：末日预兆</a></li>
-<li><a href="/cnnews/20240401/2019622.md">标志性事件：原司法部长、现江西政协主席唐一军传被带走调查</a></li>
 <li><a href="/sohnews/20240401/2019785.md">陈破空：突发！重要习家军人物被带走。四川军区门口出事。愚人节：党媒刊登习语录，要把人民打到服。完了！他为中荷关系指明方向。直播与互动：美东时间4月1日早9点、中港台4月1日晚9点</a></li>
+<li><a href="/baitai/20240402/2019951.md">「三中全会」有新消息 习不得不啃下这块「鸡肋」</a></li>
 <li><a href="/lifebaike/20240401/2019638.md">阿司匹林放水里泡一泡，解决了男女人的大难题，可惜懂的人太少了 </a></li>
+<li><a href="/baitai/20240402/2019949.md">李强权力不断缩水 英媒：接班人可能是他</a></li>
 <li><a href="/topimagenews/20240401/2019658.md">上海“史无前例的创伤” 有人忘了 有人努力保留</a></li>
 <li><a href="/topimagenews/20240401/2019810.md">美军101空降师换新枪 超猛6.8口径枪支 告别5.56口径</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240402/2020031.md" target="_blank">白宫惹恼基督教 拜登知道不知道？</a></li>
 <li><a href="/comments/20240402/2020023.md" target="_blank">纽约警察遗孀拒绝州长和总检察长发言。川普的复活节信息。哈佛大学教授德肖维茨对川普案做出估计。#复活节 #川普 #纽约州长</a></li>
 <li><a href="/cbnews/20240402/2020000.md" target="_blank">70年一遇! “恶魔”彗星要来了 肉眼可见</a></li>
 <li><a href="/cbnews/20240402/2019980.md" target="_blank">最新：“好兄弟”曾警告俄罗斯 会又大型恐袭</a></li>
@@ -59,13 +60,14 @@
 <li><a href="/comments/20240331/2019348.md" target="_blank">白宫把美国复活节变成“变性节” 什么情况？</a></li>
 <li><a href="/cbnews/20240331/2019341.md" target="_blank">江峰：马习会登场：马英九梦回秦川，习近平收复台湾</a></li>
 <li><a href="/cbnews/20240331/2019302.md" target="_blank">江峰：习近平、李强、韩正、赵乐际都干起传销了？</a></li>
-<li><a href="/comments/20240331/2019283.md" target="_blank">与习近平见面后，外资将更多撤出中国  ｜#方菲时间</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240402/2020027.md" target="_blank">又一个首次！团结各路力量抗中共 一波接一波</a></li>
+<li><a href="/topimagenews/20240402/2020026.md" target="_blank">顶尖幸运的人——齐邦媛</a></li>
 <li><a href="/topimagenews/20240402/2019999.md" target="_blank">针对台领导人蔡英文 中共官方发出多个版本消息</a></li>
 <li><a href="/topimagenews/20240402/2019998.md" target="_blank">这还不是最可怕的…雷军 这一次被他踩在脚下的尸体 会是谁？</a></li>
 <li><a href="/topimagenews/20240402/2019997.md" target="_blank">乌东，2022年以来最大规模的机械化进攻</a></li>
@@ -89,14 +91,13 @@
 <li><a href="/topimagenews/20240401/2019610.md" target="_blank">顶不住！北京也向楼市低头了…</a></li>
 <li><a href="/topimagenews/20240401/2019601.md" target="_blank">致敬？小米新车“保时米” 保时捷总裁这表情</a></li>
 <li><a href="/topimagenews/20240401/2019600.md" target="_blank">党委书记：房开好了…南京女生：放过我吧！她第4次举报成功</a></li>
-<li><a href="/topimagenews/20240401/2019597.md" target="_blank">6家中国房地产巨头折戟伦敦，10年血亏2000亿</a></li>
-<li><a href="/topimagenews/20240401/2019596.md" target="_blank">魔都店家们要被逼疯了！再看国家统计局美的…</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240402/2020031.md" target="_blank">白宫惹恼基督教 拜登知道不知道？</a></li>
 <li><a href="/comments/20240402/2020023.md" target="_blank">纽约警察遗孀拒绝州长和总检察长发言。川普的复活节信息。哈佛大学教授德肖维茨对川普案做出估计。#复活节 #川普 #纽约州长</a></li>
 <li><a href="/comments/20240402/2020003.md" target="_blank">蔡慎坤：遗憾，邓胡一次谈话未被收入邓小平文选</a></li>
 <li><a href="/comments/20240402/2020002.md" target="_blank">我们为什么活得不幸福？答案来了</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240401/2019635.md" target="_blank">深层内幕：拱手送习家天下 一场车祸就此改变中共政治格局</a></li>
 <li><a href="/comments/20240401/2019634.md" target="_blank">我在《周处除三害》的程小美身上看到一个城市的缩影</a></li>
 <li><a href="/comments/20240401/2019630.md" target="_blank">天亮时分：巴尔的摩桥塌了，美国为何基础设施如此落後？小米“致敬”保时捷，电动车靠抄袭和内卷能走多远？（政论天下第1269集 20240331）天亮时分</a></li>
-<li><a href="/comments/20240401/2019629.md" target="_blank">北大微信群国骂赛，文化人咋了？扛毛屍不换肩火了，习被黑惨！上海教授鲍鹏山：12年语文课谋财害命</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
+<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
 <li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
 <li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
+<li><a href="/comments/20230920/1936271.md" target="_blank">防止你的孩子不成功（5） &#8211;教育避坑指南</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
+<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
 <li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
 
 </ul>
 </div>
