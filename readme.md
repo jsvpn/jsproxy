@@ -8,15 +8,15 @@
 <li><a href="/baitai/20240402/2019926.md">被习点名抓捕？惊传姚明出事 连夜带走</a></li>
 <li><a href="/baitai/20240402/2019951.md">「三中全会」有新消息 习不得不啃下这块「鸡肋」</a></li>
 <li><a href="/finance/20240402/2019981.md">京沪开始出现“洗房”，很多父母都慌了</a></li>
-<li><a href="/baitai/20240402/2019949.md">李强权力不断缩水 英媒：接班人可能是他</a></li>
 <li><a href="/cnnews/20240402/2019986.md">他被抓了！大快人心</a></li>
+<li><a href="/baitai/20240402/2019949.md">李强权力不断缩水 英媒：接班人可能是他</a></li>
 <li><a href="/topimagenews/20240402/2020104.md">注意！从中国出境 越来越多国人被要求…</a></li>
 <li><a href="/cnnews/20240402/2020188.md">薄熙来当年是怎样谈论胡温和吴仪的</a></li>
 <li><a href="/cnnews/20240402/2020181.md">华尔街大鳄警告：有大事正在发生</a></li>
 <li><a href="/cnnews/20240402/2019946.md">毁灭性打击！中共还敢印钞吗？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240402/2019959.md">某局在非洲变得老实多了</a></li>
-<li><a href="/topimagenews/20240402/2019945.md">遭删头条：谁把巨款打给了俄罗斯？中国网民竞猜</a></li>
 <li><a href="/topimagenews/20240402/2020043.md">"越级"报警美女教师找到了！亲曝司马南悲惨实况</a></li>
+<li><a href="/topimagenews/20240402/2019945.md">遭删头条：谁把巨款打给了俄罗斯？中国网民竞猜</a></li>
 <li><a href="/topimagenews/20240402/2020088.md">向美国示好？中共新华社连发四文 学者一语惊人！【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20240402/2020083.md">〖红朝浮世绘〗晚清剧情回归，老佛爷要宰义和团</a></li>
 <li><a href="/topimagenews/20240402/2019928.md">台湾护照封面“这4个字”中国旅客：只有在历史课本上看过</a></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240403/2020320.md" target="_blank">【天灾还是人祸？狂风破窗 卷走梦里人】</a></li>
 <li><a href="/comments/20240403/2020317.md" target="_blank">白宫惹恼基督教 拜登到底知不知道？</a></li>
 <li><a href="/comments/20240403/2020310.md" target="_blank">【对华经济看法大逆转 专访华尔街中国&quot;大好友&quot;罗奇】</a></li>
 <li><a href="/comments/20240403/2020303.md" target="_blank">天亮时分：谁上谁下？李强政治环境被矮化</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240402/2020023.md" target="_blank">纽约警察遗孀拒绝州长和总检察长发言。川普的复活节信息。哈佛大学教授德肖维茨对川普案做出估计。#复活节 #川普 #纽约州长</a></li>
 <li><a href="/comments/20240402/2020003.md" target="_blank">蔡慎坤：遗憾，邓胡一次谈话未被收入邓小平文选</a></li>
 <li><a href="/comments/20240402/2020002.md" target="_blank">我们为什么活得不幸福？答案来了</a></li>
-<li><a href="/comments/20240402/2019978.md" target="_blank">文昭：小米SU7电动车上市卖到爆款，实现「一根毛的突破」？断崖式降薪来临，为何这么拧巴？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
 <li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
-<li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20230920/1936271.md" target="_blank">防止你的孩子不成功（5） &#8211;教育避坑指南</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/taiwannews/20210119/1470524.md" target="_blank">纪录片《蚕食美国1》</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
 <li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20231130/1967587.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （一）</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
 
 </ul>
 </div>
