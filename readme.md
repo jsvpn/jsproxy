@@ -8,15 +8,15 @@
 <li><a href="/baitai/20240403/2020285.md">习家军内斗白热化？又见大人物落马 分析指唐一军被查不简单</a></li>
 <li><a href="/topimagenews/20240403/2020387.md">炸裂！中国网民偷拍朝鲜领空上传 场面骇人</a></li>
 <li><a href="/comments/20240403/2020345.md">特稿:从上到下的淫乱 中共丑陋面目大起底</a></li>
-<li><a href="/topimagenews/20240402/2020264.md">“非洲工人持AK47讨薪 中建五局就范” 消息令网路沸腾</a></li>
 <li><a href="/topimagenews/20240403/2020407.md">疯传：中国男子出境被拒 护照被没收 还要被调查</a></li>
+<li><a href="/topimagenews/20240402/2020264.md">“非洲工人持AK47讨薪 中建五局就范” 消息令网路沸腾</a></li>
 <li><a href="/topimagenews/20240403/2020499.md">任志强没死，放出来了？</a></li>
 <li><a href="/baitai/20240403/2020316.md">「习近平国师」亮相发话了！当年「高调举措」让网友们笑掉大牙</a></li>
 <li><a href="/topimagenews/20240403/2020500.md">从一线到四线 都告急了</a></li>
 <li><a href="/sohnews/20240403/2020384.md">🔥🔥突发❗湖南爆发起义...中国将被分裂成小国 帕克预测会成真❓❗【审核了两天还在黄标中】</a></li>
 <li><a href="/cnnews/20240403/2020369.md">一次买入10000套，政府自己下场买房了</a></li>
-<li><a href="/cnnews/20240403/2020348.md">美女陪侍高官起自延安 歌舞团副团长被枪决背后</a></li>
 <li><a href="/headline/20240402/2020269.md">美国总统拜登与中国国家主席习近平进行通话</a></li>
+<li><a href="/cnnews/20240403/2020348.md">美女陪侍高官起自延安 歌舞团副团长被枪决背后</a></li>
 <li><a href="/topimagenews/20240403/2020465.md">大家都被震惊了！北京豪宅开始“坠落”</a></li>
 <li><a href="/cbnews/20240403/2020473.md">笑喷！中共党魁和拜登通话 一张嘴就露馅了【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20240403/2020482.md">〖红朝浮世绘〗年轻人各种群成为了中共眼中的不安定因素</a></li>
@@ -24,10 +24,10 @@
 <li><a href="/comments/20240403/2020504.md">蔡慎坤/昆仑：习将自己逼上了绝路…</a></li>
 <li><a href="/topimagenews/20240403/2020357.md">翻天覆地！中国楼市最后一块遮羞布打响保卫战；狠！中国航空公司抢钱啦</a></li>
 <li><a href="/topimagenews/20240403/2020339.md">巨头响应号召，它们比习近平管用多了【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20240403/2020386.md">以军此次“炫技” 细节简直令人惊叹</a></li>
+<li><a href="/lifebaike/20240403/2020555.md">退休后还在干这5件事，才是最傻的人！希望你一件也别做</a></li>
 <li><a href="/topimagenews/20240403/2020498.md">“债毁中国”！大陆银行被掏空？国际嗅到中国风险味道…【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20240403/2020386.md">以军此次“炫技” 细节简直令人惊叹</a></li>
 <li><a href="/headline/20240403/2020366.md">前司法部长唐一军突被查 习亲信内斗加剧？</a></li>
-<li><a href="/topimagenews/20240403/2020385.md">世银最新报告 中国经济有多衰？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240403/2020684.md" target="_blank">时事大家谈：拜习通话 加强沟通管控竞争;中国“新三样”出口飙升 扭曲全球市场?</a></li>
 <li><a href="/comments/20240403/2020639.md" target="_blank">如果川普上台 也得尊重不跟他同调的州</a></li>
 <li><a href="/comments/20240403/2020628.md" target="_blank">【梁京评论】习近平的中国困境与中国的习近平困境</a></li>
 <li><a href="/comments/20240403/2020625.md" target="_blank">天亮时分：拜习通话 两个痛点</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240403/2020437.md" target="_blank">亮见：硕士进去 “民工”出来 谁还记得谭秦东？</a></li>
 <li><a href="/comments/20240403/2020432.md" target="_blank">【罗奇苦劝中国经济转向消费主导】</a></li>
 <li><a href="/comments/20240403/2020415.md" target="_blank">文化人无缚鸡之力，文化却能摧枯拉朽</a></li>
-<li><a href="/comments/20240403/2020414.md" target="_blank">朱振和：短评“200斤十里不换肩”是百分之百的谎言、吹牛</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/aomi/life/20240330/2018911.md" target="_blank">挪威青年这样走出重度失眠和抑郁煎熬</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20231214/1974098.md" target="_blank">美国众议院议长：我所坚守的保守主义，具体是些什么内容？</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20231213/1973586.md" target="_blank">六道轮回之畜生道</a></li>
+<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
 
 </ul>
 </div>
