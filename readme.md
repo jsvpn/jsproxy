@@ -14,14 +14,14 @@
 <li><a href="/cnnews/20240403/2020348.md">美女陪侍高官起自延安 歌舞团副团长被枪决背后</a></li>
 <li><a href="/cbnews/20240403/2020473.md">笑喷！中共党魁和拜登通话 一张嘴就露馅了【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20240403/2020369.md">一次买入10000套，政府自己下场买房了</a></li>
-<li><a href="/topimagenews/20240403/2020465.md">大家都被震惊了！北京豪宅开始“坠落”</a></li>
 <li><a href="/baitai/20240403/2020665.md">啥情况？西安街头惊现「习近平向全人类谢罪」标语</a></li>
+<li><a href="/topimagenews/20240403/2020465.md">大家都被震惊了！北京豪宅开始“坠落”</a></li>
 <li><a href="/cbnews/20240403/2020482.md">〖红朝浮世绘〗年轻人各种群成为了中共眼中的不安定因素</a></li>
 <li><a href="/sohnews/20240403/2020596.md">🔥习近平曾有一位“心仪对象”, “国母”差点不是彭丽媛! 彭丽媛积极参政, 接班的可能性大吗? 习近平早为她安排好了“直通核心圈”的道路!【030424】</a></li>
 <li><a href="/comments/20240403/2020504.md">蔡慎坤/昆仑：习将自己逼上了绝路…</a></li>
 <li><a href="/baitai/20240403/2020579.md">63岁郎平近况曝光 网友们啧啧惊叹</a></li>
-<li><a href="/lifebaike/20240403/2020555.md">退休后还在干这5件事，才是最傻的人！希望你一件也别做</a></li>
 <li><a href="/topimagenews/20240403/2020498.md">“债毁中国”！大陆银行被掏空？国际嗅到中国风险味道…【阿波罗网报道】</a></li>
+<li><a href="/lifebaike/20240403/2020555.md">退休后还在干这5件事，才是最傻的人！希望你一件也别做</a></li>
 <li><a href="/topimagenews/20240403/2020357.md">翻天覆地！中国楼市最后一块遮羞布打响保卫战；狠！中国航空公司抢钱啦</a></li>
 <li><a href="/cbnews/20240403/2020511.md">谁还记得谭秦东？44岁的他 人生进入倒计时</a></li>
 <li><a href="/topimagenews/20240403/2020339.md">巨头响应号召，它们比习近平管用多了【阿波罗网报道】</a></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240404/2020747.md" target="_blank">4月3日，一则“我长大要当中国农业发展银行行长……我想继承我们的家产”的视频引发热议，#网传小学生称我爷爷爸爸妈妈都是行长#上热搜。随后，农发行总行回应称查无此情况。对此，#您怎么看？</a></li>
 <li><a href="/comments/20240404/2020733.md" target="_blank">拜登的汽车排放令被法院挡住</a></li>
 <li><a href="/comments/20240404/2020732.md" target="_blank">天亮时分：中国产能过剩 两个解决办法</a></li>
 <li><a href="/comments/20240403/2020693.md" target="_blank">时事大家谈：拜习通话 加强沟通管控竞争</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240403/2020475.md" target="_blank">美加财经：必须承认 老美的情报太牛了</a></li>
 <li><a href="/comments/20240403/2020463.md" target="_blank">【台湾花莲地震规模7.2最大震度6强】【全台湾强烈摇晃 余震不断】【花莲至少两处房屋倒塌倾斜】</a></li>
 <li><a href="/comments/20240403/2020455.md" target="_blank">林中的维吉尔：甭管这话是不是雷军说的，它都很二百五</a></li>
-<li><a href="/comments/20240403/2020440.md" target="_blank">四环青年：采耳店老板被罚22万，小微店主的命运缩影</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
 <li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/comments/20231212/1972297.md" target="_blank">日本华人确诊晚期直肠癌，修炼法轮功恢复健康（图）</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
 
 </ul>
 </div>
