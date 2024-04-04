@@ -16,17 +16,17 @@
 <li><a href="/baitai/20240404/2020745.md">习政权不断溃烂：兵工集团前高管被查 贵州纪委出「内鬼」</a></li>
 <li><a href="/topimagenews/20240404/2020814.md">中国这样挽救烂尾楼</a></li>
 <li><a href="/topimagenews/20240404/2020948.md">韩国击败中共国 夺回第一</a></li>
-<li><a href="/baitai/20240404/2021008.md">麦杰逊｜确认了！这确实是某银行行长的公子</a></li>
 <li><a href="/cnnews/20240404/2020864.md">毛泽东到底戴了多少绿帽子？江青到处勾引卫士</a></li>
-<li><a href="/worldnews/20240404/2020761.md">8名游客被丢在非洲小岛 邮轮直接开走 理直气壮</a></li>
+<li><a href="/baitai/20240404/2021008.md">麦杰逊｜确认了！这确实是某银行行长的公子</a></li>
 <li><a href="/topimagenews/20240404/2020832.md">狠人！用87个账户炒1股票 获利近1亿</a></li>
+<li><a href="/worldnews/20240404/2020761.md">8名游客被丢在非洲小岛 邮轮直接开走 理直气壮</a></li>
 <li><a href="/cbnews/20240404/2020910.md">习近平拜登“向全世界表演”</a></li>
 <li><a href="/cnnews/20240404/2020865.md">真没招了？中国的中产们开始…</a></li>
 <li><a href="/lifebaike/20240404/2020879.md">中国女篮是怎么被撵下专机的</a></li>
 <li><a href="/worldnews/20240404/2020760.md">“不能拒绝！”这国总统要强送德国20000头大象</a></li>
 <li><a href="/baitai/20240404/2020987.md">科学家发现“短命基因”，携带者更易在69岁前死亡</a></li>
-<li><a href="/yule/20240404/2020820.md">61岁久居日本的梁朝伟早已选择了另一种人生</a></li>
 <li><a href="/ssgc/20240404/2021016.md">拜习通话 中共颓势尽显</a></li>
+<li><a href="/yule/20240404/2020820.md">61岁久居日本的梁朝伟早已选择了另一种人生</a></li>
 <li><a href="/baitai/20240404/2020976.md">网络热传货车司机怒炸沈阳警察局 真相爆光</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240405/2021166.md" target="_blank">中国城里墓地太贵 流行在郊区买房安置骨灰</a></li>
 <li><a href="/cbnews/20240404/2021108.md" target="_blank">爷爷父母都是行长？ 男童长大想“继承家产” 农发行：谁家的娃</a></li>
 <li><a href="/cbnews/20240404/2021106.md" target="_blank">江峰：习近平怎麽想的？跟美国做生意要踩台湾！商道即人道，习是不是太不地道</a></li>
 <li><a href="/cbnews/20240404/2021094.md" target="_blank">财长叶伦抵达广州 中财政部副部长亲自接机 六天访问行程曝光</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20240403/2020404.md" target="_blank">突围而出的肯尼迪 会伤拜登还是川普</a></li>
 <li><a href="/comments/20240403/2020394.md" target="_blank">拜登愚人节声明，忙死两助手。小札出卖客户，联邦调查局直接找上门。FBI来家访该如何应对？川普递交1.75亿美元保证金。#川普 #拜登 #联邦调查局</a></li>
 <li><a href="/cbnews/20240403/2020388.md" target="_blank">拜习通话 精心计算时间点</a></li>
-<li><a href="/comments/20240403/2020371.md" target="_blank">习近平能靠“新质生产力”超英赶美吗？｜李恒青 方菲 ｜新闻烽火台04/02</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240405/2021165.md" target="_blank">天亮时分：蔡慎坤先生爆料 习与胡耀邦家族决裂内幕</a></li>
 <li><a href="/comments/20240404/2021101.md" target="_blank">时事大家谈：台湾海军司令传访美 “第一岛链”联防抗中？</a></li>
 <li><a href="/comments/20240404/2021100.md" target="_blank">时事大家谈：习近平改打和平牌 “以和为贵”还是缓兵之计？</a></li>
 <li><a href="/comments/20240404/2021099.md" target="_blank">时事大家谈：习近平改打和平牌 “以和为贵”还是缓兵之计？台湾海军司令传访美 “第一岛链”联防抗中？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240404/2020854.md" target="_blank">天亮时分：习与胡耀邦家族决裂内幕；中产逆向换房，男孩顺位继承银行行长；限制资产保值渠道，买黄金需要实名登记（政论天下第1272集 20240403）天亮时分</a></li>
 <li><a href="/comments/20240404/2020818.md" target="_blank">习上台之初正是中共国最鼎盛时期 蔡英文接手的是马英九留下的烂摊子</a></li>
 <li><a href="/comments/20240404/2020805.md" target="_blank">文昭：彭丽媛参政谜底揭晓，倒计时90天开始！睡在身边的「蔡鲁晓夫」，从心腹大员、到心腹大患</a></li>
-<li><a href="/comments/20240404/2020800.md" target="_blank">中国电动车会“团灭”美欧汽车商吗？拜习通话互不相让，耶伦北京行先礼后兵；“跨性别日”撞复活节引保守派愤怒 ｜方伟 唐靖远 Jason David 方菲 ｜围炉夜话04/03</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20231201/1968320.md" target="_blank">【非凡新闻】结合中西文化精神 美国神韵表演吸睛</a></li>
-<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20231203/1969183.md" target="_blank">开盖冲马桶 ，细菌会乱飞？除非你家马桶是喷泉！</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20240126/1992876.md" target="_blank">内幕：中国留学生里女生打男生和男生打女一样普遍</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
 
 </ul>
 </div>
