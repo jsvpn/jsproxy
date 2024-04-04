@@ -13,21 +13,21 @@
 <li><a href="/comments/20240403/2020504.md">蔡慎坤/昆仑：习将自己逼上了绝路…</a></li>
 <li><a href="/lifebaike/20240403/2020555.md">退休后还在干这5件事，才是最傻的人！希望你一件也别做</a></li>
 <li><a href="/baitai/20240403/2020579.md">63岁郎平近况曝光 网友们啧啧惊叹</a></li>
+<li><a href="/comments/20240404/2020805.md">文昭：彭丽媛参政谜底揭晓，倒计时90天开始！睡在身边的「蔡鲁晓夫」，从心腹大员、到心腹大患</a></li>
 <li><a href="/topimagenews/20240403/2020498.md">“债毁中国”！大陆银行被掏空？国际嗅到中国风险味道…【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20240403/2020511.md">谁还记得谭秦东？44岁的他 人生进入倒计时</a></li>
 <li><a href="/cnnews/20240403/2020525.md">巴菲特突传一则重磅股市消息？</a></li>
 <li><a href="/sohnews/20240403/2020610.md">陈破空：惊爆李强遭停职？丁薛祥暂代。台湾突发强震！全台晃动。中纪委证实习家军被查。拜习通话，中美关系只剩一条电话线。直播与互动：美东时间4月3日早9点、中港台4月3日晚9点</a></li>
-<li><a href="/comments/20240404/2020805.md">文昭：彭丽媛参政谜底揭晓，倒计时90天开始！睡在身边的「蔡鲁晓夫」，从心腹大员、到心腹大患</a></li>
 <li><a href="/cbnews/20240403/2020497.md">江峰：拜习通话，公告各不同，谁在撒谎？习近平确定对美“今年和为贵”；万科管理层遭受“举报”，政府放行网暴信号？习见美商界高层小本本的秘密公开，三中全会在六月【江峰漫谈20240402第847期】</a></li>
-<li><a href="/baitai/20240403/2020632.md">官二代坑爹节奏？国产变家产 小男孩谈梦想惊动银行纪委</a></li>
-<li><a href="/baitai/20240404/2020745.md">习政权不断溃烂：兵工集团前高管被查 贵州纪委出「内鬼」</a></li>
 <li><a href="/baitai/20240404/2020764.md">人民币逼近政策红线 中共将对空头突然出手？下周一最关键</a></li>
-<li><a href="/comments/20240403/2020547.md">纪录片：DSM诊断与统计手册-精神病学最要命的骗局</a></li>
-<li><a href="/baitai/20240404/2020726.md">中植八大当家都是啥背景？难怪当年能吸那么多钞票进去</a></li>
+<li><a href="/baitai/20240403/2020632.md">官二代坑爹节奏？国产变家产 小男孩谈梦想惊动银行纪委</a></li>
+<li><a href="/cnnews/20240404/2020819.md">北京家长崩溃：房子2千万 年薪百万年 混这么惨</a></li>
+<li><a href="/baitai/20240404/2020745.md">习政权不断溃烂：兵工集团前高管被查 贵州纪委出「内鬼」</a></li>
 <li><a href="/worldnews/20240404/2020761.md">8名游客被丢在非洲小岛 邮轮直接开走 理直气壮</a></li>
-<li><a href="/topimagenews/20240404/2020718.md">去过日本后，美名主持人发现：“美国真是肮脏又恶心”</a></li>
 <li><a href="/worldnews/20240404/2020760.md">“不能拒绝！”这国总统要强送德国20000头大象</a></li>
-<li><a href="/baitai/20240403/2020595.md">SU7上市72小时「雷人」数据出炉 小米这样回应 网传车主「相拥而泣」段子</a></li>
+<li><a href="/baitai/20240404/2020726.md">中植八大当家都是啥背景？难怪当年能吸那么多钞票进去</a></li>
+<li><a href="/comments/20240403/2020547.md">纪录片：DSM诊断与统计手册-精神病学最要命的骗局</a></li>
+<li><a href="/topimagenews/20240404/2020718.md">去过日本后，美名主持人发现：“美国真是肮脏又恶心”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240404/2020910.md" target="_blank">习近平拜登“向全世界表演”</a></li>
 <li><a href="/cbnews/20240404/2020898.md" target="_blank">男厕设在女厕里？ 中国大学的奇葩设计</a></li>
 <li><a href="/cbnews/20240404/2020833.md" target="_blank">四川两名16岁女生拒绝陪酒，被男子打得满脸是血</a></li>
 <li><a href="/cbnews/20240404/2020831.md" target="_blank">江峰：地下党 隐藏共特为何是用过了就扔？原来是中央指示</a></li>
@@ -59,13 +60,13 @@
 <li><a href="/cbnews/20240402/2020118.md" target="_blank">美著名智库：北京这样帮助俄罗斯逃避西方制裁</a></li>
 <li><a href="/cbnews/20240402/2020105.md" target="_blank">突发！日本紧急出动战斗机拦截中国侦察机</a></li>
 <li><a href="/cbnews/20240402/2020087.md" target="_blank">江峰：罕见！刘建超“华侨效忠所在国” 不提爱党爱中华，中央最高指令？统战与走线特务要“积蓄力量等待时机”！八名走线非法移民罹难，全是华人；共特在美国频繁出击军事基地。【江峰漫谈20240401第846期】</a></li>
-<li><a href="/cbnews/20240402/2020083.md" target="_blank">〖红朝浮世绘〗晚清剧情回归，老佛爷要宰义和团</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240404/2020909.md" target="_blank">乌克兰国造“索库尔”无人机航程惊人 可打俄北极基地</a></li>
 <li><a href="/topimagenews/20240404/2020832.md" target="_blank">狠人！用87个账户炒1股票 获利近1亿</a></li>
 <li><a href="/topimagenews/20240404/2020814.md" target="_blank">中国这样挽救烂尾楼</a></li>
 <li><a href="/topimagenews/20240404/2020807.md" target="_blank">蚂蚁集团退地，“房子全砸手里了”</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20240403/2020357.md" target="_blank">翻天覆地！中国楼市最后一块遮羞布打响保卫战；狠！中国航空公司抢钱啦</a></li>
 <li><a href="/topimagenews/20240403/2020339.md" target="_blank">巨头响应号召，它们比习近平管用多了【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240403/2020331.md" target="_blank">京沪开始出现“洗房”，很多父母都慌了； 梦碎一地！环京房送不出去【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20240402/2020264.md" target="_blank">“非洲工人持AK47讨薪 中建五局就范” 消息令网路沸腾</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
 <li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/comments/20240116/1984226.md" target="_blank">湖北老河口遇仙记</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
 
 </ul>
 </div>
