@@ -22,10 +22,10 @@
 <li><a href="/cbnews/20240403/2020497.md">江峰：拜习通话，公告各不同，谁在撒谎？习近平确定对美“今年和为贵”；万科管理层遭受“举报”，政府放行网暴信号？习见美商界高层小本本的秘密公开，三中全会在六月【江峰漫谈20240402第847期】</a></li>
 <li><a href="/baitai/20240403/2020632.md">官二代坑爹节奏？国产变家产 小男孩谈梦想惊动银行纪委</a></li>
 <li><a href="/baitai/20240404/2020745.md">习政权不断溃烂：兵工集团前高管被查 贵州纪委出「内鬼」</a></li>
-<li><a href="/comments/20240403/2020547.md">纪录片：DSM诊断与统计手册-精神病学最要命的骗局</a></li>
-<li><a href="/baitai/20240404/2020726.md">中植八大当家都是啥背景？难怪当年能吸那么多钞票进去</a></li>
-<li><a href="/baitai/20240404/2020764.md">人民币逼近政策红线 中共将对空头突然出手？下周一最关键</a></li>
 <li><a href="/comments/20240404/2020805.md">文昭：彭丽媛参政谜底揭晓，倒计时90天开始！睡在身边的「蔡鲁晓夫」，从心腹大员、到心腹大患</a></li>
+<li><a href="/comments/20240403/2020547.md">纪录片：DSM诊断与统计手册-精神病学最要命的骗局</a></li>
+<li><a href="/baitai/20240404/2020764.md">人民币逼近政策红线 中共将对空头突然出手？下周一最关键</a></li>
+<li><a href="/baitai/20240404/2020726.md">中植八大当家都是啥背景？难怪当年能吸那么多钞票进去</a></li>
 <li><a href="/topimagenews/20240404/2020718.md">去过日本后，美名主持人发现：“美国真是肮脏又恶心”</a></li>
 <li><a href="/cnnews/20240403/2020609.md">黄金的大时代来临</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240404/2020898.md" target="_blank">男厕设在女厕里？ 中国大学的奇葩设计</a></li>
 <li><a href="/cbnews/20240404/2020833.md" target="_blank">四川两名16岁女生拒绝陪酒，被男子打得满脸是血</a></li>
 <li><a href="/cbnews/20240404/2020831.md" target="_blank">江峰：地下党 隐藏共特为何是用过了就扔？原来是中央指示</a></li>
 <li><a href="/cbnews/20240404/2020830.md" target="_blank">江峰：走线藏特务？1949的台湾、香港，中共特务混迹於难民早嚐到好处了</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240402/2020105.md" target="_blank">突发！日本紧急出动战斗机拦截中国侦察机</a></li>
 <li><a href="/cbnews/20240402/2020087.md" target="_blank">江峰：罕见！刘建超“华侨效忠所在国” 不提爱党爱中华，中央最高指令？统战与走线特务要“积蓄力量等待时机”！八名走线非法移民罹难，全是华人；共特在美国频繁出击军事基地。【江峰漫谈20240401第846期】</a></li>
 <li><a href="/cbnews/20240402/2020083.md" target="_blank">〖红朝浮世绘〗晚清剧情回归，老佛爷要宰义和团</a></li>
-<li><a href="/cbnews/20240402/2020075.md" target="_blank">湖南上千村民维权 怒砸派出所 官方封锁消息</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
 <li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
-<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
 <li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20231220/1976789.md" target="_blank">大陆医生曝：九价HPV疫苗导致怀孕能力下降40%</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
 
 </ul>
 </div>
