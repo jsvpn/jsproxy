@@ -10,24 +10,24 @@
 <li><a href="/baitai/20240405/2021161.md">唐一军落马牵扯另一常委 ？「习家军」内斗已近公开化</a></li>
 <li><a href="/topimagenews/20240405/2021213.md">网狠批奴隶主“戴表”！中共外交部发言人汪文斌秀奢侈名表</a></li>
 <li><a href="/topimagenews/20240405/2021374.md">中共阵脚大乱！蔡奇操刀 新的政治运动开始了【阿波罗网报道】</a></li>
-<li><a href="/sohnews/20240405/2021202.md">李强不听话？习经济会议上突然离场！李强被爆届满退休，丁薛祥接班，习分权给蔡奇？习家军分裂疯传！习近平与胡耀邦家族“断交”内幕也爆光，与太子党闹翻。</a></li>
 <li><a href="/topimagenews/20240405/2021255.md">山雨欲来 中国航天科技研究院突发解散全部微信群通知</a></li>
+<li><a href="/sohnews/20240405/2021202.md">李强不听话？习经济会议上突然离场！李强被爆届满退休，丁薛祥接班，习分权给蔡奇？习家军分裂疯传！习近平与胡耀邦家族“断交”内幕也爆光，与太子党闹翻。</a></li>
 <li><a href="/topimagenews/20240405/2021247.md">没钱的地方城市，最后一点脸面快没了</a></li>
 <li><a href="/cnnews/20240405/2021225.md">中国史上最大自发“公祭”! 藉悼李克强反习?</a></li>
 <li><a href="/sohnews/20240405/2021215.md">被下属集体“上眼药”，习近平恼怒中途离场；李强写检讨，事关李克强？ “继承行长”全家信息曝光，小孩没撒谎！ ｜远见快评 唐靖远</a></li>
 <li><a href="/baitai/20240405/2021290.md">她差点成为习的情人？彭丽媛或走她的老路？</a></li>
+<li><a href="/baitai/20240405/2021418.md">越挖越多：唐一军祸起恒大 抓捕现场画面曝光 骗出会场直接带去北京</a></li>
 <li><a href="/topimagenews/20240405/2021318.md">【微博精粹】死人太多！中共国殡葬业跑赢房地产</a></li>
 <li><a href="/cnnews/20240405/2021240.md">雷军神秘妻子现身，霸总小说都不敢这么写</a></li>
-<li><a href="/baitai/20240405/2021418.md">越挖越多：唐一军祸起恒大 抓捕现场画面曝光 骗出会场直接带去北京</a></li>
 <li><a href="/topimagenews/20240405/2021234.md">中共好兄弟狠过美西方 拟禁TikTok</a></li>
 <li><a href="/ssgc/20240405/2021271.md">〖微博谈〗中美就是已经决裂了</a></li>
 <li><a href="/comments/20240405/2021169.md">地震让我们对台湾刮目相看</a></li>
 <li><a href="/sohnews/20240405/2021270.md">她是毛泽东的隐身皇妃，关键时刻决定着国家的未来；盛传和领袖有私生子，真相是什么？【文昭思绪飞扬338期】</a></li>
 <li><a href="/cbnews/20240405/2021346.md">〖红朝浮世绘〗 这要继承农发行家产的小学生才是真正的“共产主义接班人”啊</a></li>
-<li><a href="/topimagenews/20240405/2021210.md">实际战力？歼-20连巴基斯坦都不要!印前元帅笑讽</a></li>
 <li><a href="/topimagenews/20240405/2021273.md">美军急调一个师的装备入局，伊以大战要来了？</a></li>
-<li><a href="/cbnews/20240404/2021093.md">退掉月租8千的房子 上海一家三口搬进10平米房车 生活成本千元</a></li>
-<li><a href="/baitai/20240405/2021200.md">习最新动作：蔡奇兼新职 御用记者任新华社副社长</a></li>
+<li><a href="/topimagenews/20240405/2021210.md">实际战力？歼-20连巴基斯坦都不要!印前元帅笑讽</a></li>
+<li><a href="/baitai/20240405/2021422.md">耶伦访华 经济学人：习近平经济计划大错特错 终将激怒全球</a></li>
+<li><a href="/yule/20240405/2021328.md">法兰西第一美女近照曝光，满脸皱纹却惊艳全网</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240405/2021504.md" target="_blank">美国菜篮子价格涨多高</a></li>
 <li><a href="/comments/20240405/2021457.md" target="_blank">川普机密文件案，法官一道指令，让检察官绝望。美国版《官场现形记》，芝加哥南郊的女独裁者。#川普 #机密文件案 #芝加哥</a></li>
 <li><a href="/cbnews/20240405/2021382.md" target="_blank">90后女取保候期间怀孕 把女婴卖了还信用卡…</a></li>
 <li><a href="/comments/20240405/2021347.md" target="_blank">写信问神，为何降灾？神请他去另外空间，详尽说明！为一场灾难，神明前后要准备这么多细节！神天赏罚，慎之又慎。｜ #未解之谜 扶摇</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20240404/2020733.md" target="_blank">拜登的汽车排放令被法院挡住</a></li>
 <li><a href="/comments/20240403/2020639.md" target="_blank">如果川普上台 也得尊重不跟他同调的州</a></li>
 <li><a href="/comments/20240403/2020547.md" target="_blank">纪录片：DSM诊断与统计手册-精神病学最要命的骗局</a></li>
-<li><a href="/cbnews/20240403/2020522.md" target="_blank">美媒自爆软肋 小粉红欣喜若狂</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,12 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240405/2021508.md" target="_blank">VOA连线：台湾震后居民撤离和人道救援的努力</a></li>
+<li><a href="/comments/20240405/2021507.md" target="_blank">时事大家谈：台湾是否是防灾模范生？强震如何影响全球芯片供应链?</a></li>
+<li><a href="/comments/20240405/2021506.md" target="_blank">时事大家谈：七年三人落马，如何看中国司法部长接连腐败现象？</a></li>
+<li><a href="/comments/20240405/2021505.md" target="_blank">时事大家谈：台湾是否是防灾模范生？强震如何影响全球芯片供应链? 七年三人落马，如何看中国司法部长接连腐败现象？</a></li>
+<li><a href="/comments/20240405/2021504.md" target="_blank">美国菜篮子价格涨多高</a></li>
+<li><a href="/comments/20240405/2021502.md" target="_blank">评论 &#8211; 陈破空：解析习近平与美国商界对谈，尽显其真面目（上）</a></li>
 <li><a href="/comments/20240405/2021487.md" target="_blank">“70后”唐山副市长李建忠落马 网友：或涉多起敏感事件</a></li>
 <li><a href="/comments/20240405/2021457.md" target="_blank">川普机密文件案，法官一道指令，让检察官绝望。美国版《官场现形记》，芝加哥南郊的女独裁者。#川普 #机密文件案 #芝加哥</a></li>
 <li><a href="/comments/20240405/2021456.md" target="_blank">天亮时分：300万人公祭李克强</a></li>
@@ -116,12 +122,6 @@
 <li><a href="/comments/20240405/2021293.md" target="_blank">何清涟：台积电美国建厂阻滞竟是因为DEI 日本台积电厂反超</a></li>
 <li><a href="/comments/20240405/2021291.md" target="_blank">天亮时分：军委副主席爆三中全会秘闻；李强检讨不过关，习近平拂袖而去，蔡奇任新职；300万人公祭李克强，1976天安门事件重演？（政论天下第1273集 20240404）天亮时分</a></li>
 <li><a href="/comments/20240405/2021256.md" target="_blank">傻眼！中共在国际法院为哈马斯正名</a></li>
-<li><a href="/comments/20240405/2021252.md" target="_blank">403大地震 让世界看清台湾</a></li>
-<li><a href="/comments/20240405/2021248.md" target="_blank">玖奌杂货铺：蠢货是中国最大的敌人</a></li>
-<li><a href="/comments/20240405/2021239.md" target="_blank">黎蜗藤：中国爱国网红网文 暴露北京心机多么阴沉</a></li>
-<li><a href="/comments/20240405/2021238.md" target="_blank">中共官方在开玩笑！武汉火化炉曾突增加到84+6×40=324台</a></li>
-<li><a href="/comments/20240405/2021185.md" target="_blank">加拿大保守党前领袖称中国干预可能是他下台的原因之一</a></li>
-<li><a href="/comments/20240405/2021169.md" target="_blank">地震让我们对台湾刮目相看</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
-<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20240126/1992876.md" target="_blank">内幕：中国留学生里女生打男生和男生打女一样普遍</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
+<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/cnnews/20221211/1822144.md" target="_blank">盖盖冲马桶很可怕！瞬间“病毒炸开”？</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
 
 </ul>
 </div>
