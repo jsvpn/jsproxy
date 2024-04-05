@@ -10,23 +10,23 @@
 <li><a href="/baitai/20240405/2021161.md">唐一军落马牵扯另一常委 ？「习家军」内斗已近公开化</a></li>
 <li><a href="/topimagenews/20240405/2021213.md">网狠批奴隶主“戴表”！中共外交部发言人汪文斌秀奢侈名表</a></li>
 <li><a href="/topimagenews/20240405/2021255.md">山雨欲来 中国航天科技研究院突发解散全部微信群通知</a></li>
-<li><a href="/sohnews/20240405/2021202.md">李强不听话？习经济会议上突然离场！李强被爆届满退休，丁薛祥接班，习分权给蔡奇？习家军分裂疯传！习近平与胡耀邦家族“断交”内幕也爆光，与太子党闹翻。</a></li>
 <li><a href="/topimagenews/20240405/2021374.md">中共阵脚大乱！蔡奇操刀 新的政治运动开始了【阿波罗网报道】</a></li>
+<li><a href="/sohnews/20240405/2021202.md">李强不听话？习经济会议上突然离场！李强被爆届满退休，丁薛祥接班，习分权给蔡奇？习家军分裂疯传！习近平与胡耀邦家族“断交”内幕也爆光，与太子党闹翻。</a></li>
 <li><a href="/topimagenews/20240405/2021247.md">没钱的地方城市，最后一点脸面快没了</a></li>
-<li><a href="/sohnews/20240405/2021215.md">被下属集体“上眼药”，习近平恼怒中途离场；李强写检讨，事关李克强？ “继承行长”全家信息曝光，小孩没撒谎！ ｜远见快评 唐靖远</a></li>
 <li><a href="/cnnews/20240405/2021225.md">中国史上最大自发“公祭”! 藉悼李克强反习?</a></li>
-<li><a href="/baitai/20240405/2021290.md">她差点成为习的情人？彭丽媛或走她的老路？</a></li>
+<li><a href="/sohnews/20240405/2021215.md">被下属集体“上眼药”，习近平恼怒中途离场；李强写检讨，事关李克强？ “继承行长”全家信息曝光，小孩没撒谎！ ｜远见快评 唐靖远</a></li>
 <li><a href="/baitai/20240404/2021055.md">李强惹祸正在写检查？蔡奇成一人之下</a></li>
-<li><a href="/topimagenews/20240405/2021318.md">【微博精粹】死人太多！中共国殡葬业跑赢房地产</a></li>
+<li><a href="/baitai/20240405/2021290.md">她差点成为习的情人？彭丽媛或走她的老路？</a></li>
 <li><a href="/cnnews/20240405/2021240.md">雷军神秘妻子现身，霸总小说都不敢这么写</a></li>
+<li><a href="/topimagenews/20240405/2021318.md">【微博精粹】死人太多！中共国殡葬业跑赢房地产</a></li>
 <li><a href="/topimagenews/20240405/2021234.md">中共好兄弟狠过美西方 拟禁TikTok</a></li>
-<li><a href="/topimagenews/20240404/2021029.md">应对地震“世界顶尖” 专家大赞台湾3件事</a></li>
-<li><a href="/comments/20240405/2021169.md">地震让我们对台湾刮目相看</a></li>
 <li><a href="/ssgc/20240405/2021271.md">〖微博谈〗中美就是已经决裂了</a></li>
+<li><a href="/comments/20240405/2021169.md">地震让我们对台湾刮目相看</a></li>
 <li><a href="/topimagenews/20240405/2021210.md">实际战力？歼-20连巴基斯坦都不要!印前元帅笑讽</a></li>
 <li><a href="/cbnews/20240405/2021346.md">〖红朝浮世绘〗 这要继承农发行家产的小学生才是真正的“共产主义接班人”啊</a></li>
-<li><a href="/baitai/20240405/2021200.md">习最新动作：蔡奇兼新职 御用记者任新华社副社长</a></li>
+<li><a href="/topimagenews/20240405/2021273.md">美军急调一个师的装备入局，伊以大战要来了？</a></li>
 <li><a href="/cbnews/20240404/2021093.md">退掉月租8千的房子 上海一家三口搬进10平米房车 生活成本千元</a></li>
+<li><a href="/baitai/20240405/2021200.md">习最新动作：蔡奇兼新职 御用记者任新华社副社长</a></li>
 <li><a href="/yule/20240405/2021328.md">法兰西第一美女近照曝光，满脸皱纹却惊艳全网</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240405/2021446.md" target="_blank">秦鹏：习遇六挑战 核心原因被美大使道破</a></li>
+<li><a href="/comments/20240405/2021445.md" target="_blank">【特搜队员用树枝和头带组成背负设备】【将一名骨折受伤的游客背出受困区】</a></li>
 <li><a href="/comments/20240405/2021424.md" target="_blank">【花莲太鲁阁地震灾区多人脱困】【余震和落石不断使救援工作暂停】</a></li>
 <li><a href="/comments/20240405/2021373.md" target="_blank">【搜救人员挺进花莲九曲洞】【受困9人获救】</a></li>
 <li><a href="/comments/20240405/2021360.md" target="_blank">【电视台主播遇到地震 临危不乱】</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240405/2021165.md" target="_blank">天亮时分：蔡慎坤先生爆料 习与胡耀邦家族决裂内幕</a></li>
 <li><a href="/comments/20240404/2021101.md" target="_blank">时事大家谈：台湾海军司令传访美 “第一岛链”联防抗中？</a></li>
 <li><a href="/comments/20240404/2021100.md" target="_blank">时事大家谈：习近平改打和平牌 “以和为贵”还是缓兵之计？</a></li>
-<li><a href="/comments/20240404/2021099.md" target="_blank">时事大家谈：习近平改打和平牌 “以和为贵”还是缓兵之计？台湾海军司令传访美 “第一岛链”联防抗中？</a></li>
-<li><a href="/comments/20240404/2021052.md" target="_blank">港府“战狼”回应外界对23条立法批评 惹建制不满</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
+<li><a href="/comments/20240126/1992876.md" target="_blank">内幕：中国留学生里女生打男生和男生打女一样普遍</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/cbnews/20190701/1151453.md" target="_blank">盘点十大邪教特征 中共条条对号入座</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
 
 </ul>
 </div>
