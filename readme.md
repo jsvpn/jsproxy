@@ -17,17 +17,17 @@
 <li><a href="/baitai/20240404/2020976.md">网络热传货车司机怒炸沈阳警察局 真相爆光</a></li>
 <li><a href="/baitai/20240404/2020987.md">科学家发现“短命基因”，携带者更易在69岁前死亡</a></li>
 <li><a href="/sohnews/20240405/2021202.md">李强不听话？习经济会议上突然离场！李强被爆届满退休，丁薛祥接班，习分权给蔡奇？习家军分裂疯传！习近平与胡耀邦家族“断交”内幕也爆光，与太子党闹翻。</a></li>
-<li><a href="/ssgc/20240404/2021016.md">拜习通话 中共颓势尽显</a></li>
 <li><a href="/topimagenews/20240405/2021247.md">没钱的地方城市，最后一点脸面快没了</a></li>
 <li><a href="/topimagenews/20240405/2021255.md">山雨欲来 中国航天科技研究院突发解散全部微信群通知</a></li>
+<li><a href="/ssgc/20240404/2021016.md">拜习通话 中共颓势尽显</a></li>
 <li><a href="/sohnews/20240405/2021215.md">被下属集体“上眼药”，习近平恼怒中途离场；李强写检讨，事关李克强？ “继承行长”全家信息曝光，小孩没撒谎！ ｜远见快评 唐靖远</a></li>
-<li><a href="/topimagenews/20240404/2021029.md">应对地震“世界顶尖” 专家大赞台湾3件事</a></li>
 <li><a href="/cnnews/20240405/2021225.md">中国史上最大自发“公祭”! 藉悼李克强反习?</a></li>
+<li><a href="/topimagenews/20240404/2021029.md">应对地震“世界顶尖” 专家大赞台湾3件事</a></li>
+<li><a href="/cnnews/20240405/2021240.md">雷军神秘妻子现身，霸总小说都不敢这么写</a></li>
 <li><a href="/baitai/20240404/2021055.md">李强惹祸正在写检查？蔡奇成一人之下</a></li>
 <li><a href="/lifebaike/20240404/2020959.md">人到晚年，有这四样，就是福气</a></li>
-<li><a href="/comments/20240405/2021169.md">地震让我们对台湾刮目相看</a></li>
-<li><a href="/cnnews/20240405/2021240.md">雷军神秘妻子现身，霸总小说都不敢这么写</a></li>
 <li><a href="/topimagenews/20240405/2021234.md">中共好兄弟狠过美西方 拟禁TikTok</a></li>
+<li><a href="/comments/20240405/2021169.md">地震让我们对台湾刮目相看</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240405/2021360.md" target="_blank">【电视台主播遇到地震 临危不乱】</a></li>
 <li><a href="/comments/20240405/2021350.md" target="_blank">菁英论坛：大发狠话 习见美财团起反效果</a></li>
 <li><a href="/comments/20240405/2021347.md" target="_blank">写信问神，为何降灾？神请他去另外空间，详尽说明！为一场灾难，神明前后要准备这么多细节！神天赏罚，慎之又慎。｜ #未解之谜 扶摇</a></li>
 <li><a href="/comments/20240405/2021334.md" target="_blank">生命在这里腾飞 ——化蝶、鸟儿、玉兔</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240404/2021052.md" target="_blank">港府“战狼”回应外界对23条立法批评 惹建制不满</a></li>
 <li><a href="/comments/20240404/2021051.md" target="_blank">【杜耀明评论】联合国六专家批评无懈可击 特区当局无力招架沉默是金</a></li>
 <li><a href="/comments/20240404/2021050.md" target="_blank">10年内3亿人退休 中国陷养老危机</a></li>
-<li><a href="/comments/20240404/2021048.md" target="_blank">【文昭谈古论今】彭丽媛参政谜底揭晓</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
 <li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/taiwannews/20210119/1470524.md" target="_blank">纪录片《蚕食美国1》</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
 
 </ul>
 </div>
