@@ -7,7 +7,6 @@
 
 <li><a href="/baitai/20240405/2021418.md">越挖越多：唐一军祸起恒大 抓捕现场画面曝光 骗出会场直接带去北京</a></li>
 <li><a href="/baitai/20240405/2021422.md">耶伦访华 经济学人：习近平经济计划大错特错 终将激怒全球</a></li>
-<li><a href="/sohnews/20240405/2021270.md">她是毛泽东的隐身皇妃，关键时刻决定着国家的未来；盛传和领袖有私生子，真相是什么？【文昭思绪飞扬338期】</a></li>
 <li><a href="/topimagenews/20240406/2021624.md">习近平心里在想什么？一个重要迹象泄密【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240406/2021666.md">捷中突传外交事件！中共外交官面临驱逐</a></li>
 <li><a href="/headline/20240405/2021448.md">习近平「新质生产力」全盘错 《经济学人》：人民失望惹怒世界</a></li>
@@ -16,18 +15,19 @@
 <li><a href="/baitai/20240405/2021509.md">危机没有过去 中国百姓：身边很多人突然就走了</a></li>
 <li><a href="/topimagenews/20240406/2021659.md">上海火车站旅客抢进站如丧尸片 民众冲卡闯关</a></li>
 <li><a href="/cnnews/20240406/2021646.md">耶伦见到何立峰：单刀直入 丑话已说</a></li>
+<li><a href="/topimagenews/20240406/2021699.md">杜老板看走眼？习提“夜壶”升官发财</a></li>
 <li><a href="/lifebaike/20240405/2021384.md">路由器上贴锡箔纸，真的太厉害了！网速提升好几倍，邻居见了都要学一学</a></li>
 <li><a href="/topimagenews/20240406/2021625.md">小米山寨大王，全球亲共大亨都惨了，都被坑了【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20240406/2021699.md">杜老板看走眼？习提“夜壶”升官发财</a></li>
 <li><a href="/finance/20240406/2021629.md">曝内部消息：中国人民银行彻底沦陷了【阿波罗网报道】</a></li>
-<li><a href="/health/20240405/2021395.md">退休后最好的生活方式，不是养生，不是运动，不是读书，而是选择接纳</a></li>
 <li><a href="/cnnews/20240406/2021661.md">突然摊牌！全世界被老美闪了腰</a></li>
-<li><a href="/topimagenews/20240406/2021738.md">习在全球范围内羞辱撤退 恳求美不好使了【阿波罗网翻译报道】</a></li>
+<li><a href="/health/20240405/2021395.md">退休后最好的生活方式，不是养生，不是运动，不是读书，而是选择接纳</a></li>
 <li><a href="/sohnews/20240406/2021565.md">“XG二字被禁止后 流感 百日咳 心梗 脑梗井喷 ⋯ ”（04/05/24）</a></li>
+<li><a href="/topimagenews/20240406/2021738.md">习在全球范围内羞辱撤退 恳求美不好使了【阿波罗网翻译报道】</a></li>
 <li><a href="/comments/20240405/2021487.md">“70后”唐山副市长李建忠落马 网友：或涉多起敏感事件</a></li>
 <li><a href="/comments/20240405/2021446.md">秦鹏：习遇六挑战 核心原因被美大使道破</a></li>
 <li><a href="/comments/20240405/2021504.md">美国菜篮子价格涨多高</a></li>
 <li><a href="/topimagenews/20240406/2021615.md">“债毁中国”！陆银行被掏空？国际嗅到中国风险；横夺万达，另一狠人打败王健林</a></li>
+<li><a href="/cnnews/20240405/2021477.md">免费的最贵！机场USB插座恐瞬间 4招防窃</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/cnnews/20221211/1822144.md" target="_blank">盖盖冲马桶很可怕！瞬间“病毒炸开”？</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
 
 </ul>
 </div>
