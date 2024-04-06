@@ -6,17 +6,15 @@
 <ul>
 
 <li><a href="/topimagenews/20240406/2021666.md">捷中突传外交事件！中共外交官面临驱逐</a></li>
-<li><a href="/cnnews/20240406/2021646.md">耶伦见到何立峰：单刀直入 丑话已说</a></li>
 <li><a href="/topimagenews/20240406/2021699.md">杜老板看走眼？习提“夜壶”升官发财</a></li>
 <li><a href="/topimagenews/20240406/2021738.md">习在全球范围内羞辱撤退 恳求美不好使了【阿波罗网翻译报道】</a></li>
-<li><a href="/topimagenews/20240406/2021659.md">上海火车站旅客抢进站如丧尸片 民众冲卡闯关</a></li>
 <li><a href="/topimagenews/20240406/2021793.md">令人动容！众多网友不约而同 在X上为他写下感人心声【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20240406/2021838.md">文睿：“兄弟们，天塌了”，大陆自媒体人，爆出大消息</a></li>
 <li><a href="/cnnews/20240406/2021661.md">突然摊牌！全世界被老美闪了腰</a></li>
 <li><a href="/headline/20240406/2021848.md">习近平决裂“太子党”</a></li>
 <li><a href="/cnnews/20240406/2021832.md">网传一书记被人捅死 有图有真相 公安默认</a></li>
-<li><a href="/cbnews/20240406/2021745.md">高官斗擦鞋 国防部长:习顶天立地经天纬地</a></li>
 <li><a href="/baitai/20240406/2021863.md">习全力备战？传刘亚洲党内罪名涉及四个字</a></li>
+<li><a href="/cbnews/20240406/2021745.md">高官斗擦鞋 国防部长:习顶天立地经天纬地</a></li>
 <li><a href="/cbnews/20240406/2021761.md">〖红朝浮世绘〗地震震亮了台湾县长的马甲</a></li>
 <li><a href="/cbnews/20240406/2021766.md">江峰：中央重要会议拂袖而去，习近平被冤枉？新一季「小组治国」：蔡奇来了，李强背锅侠定了；四五禁祭李克强，两次群众运动均起清明；小学生继承央企，胡叼盘为女儿越描越黑【江峰漫谈20240405第849期】</a></li>
 <li><a href="/health/20240406/2021787.md">它是“碱性食物之王”！正大量上市，4月使劲吃，头发黑，口不臭，健康又长寿</a></li>
@@ -24,10 +22,12 @@
 <li><a href="/sohnews/20240406/2021788.md">文睿：一尊，突发重磅宣言，真是，“死猪不怕开水烫”了</a></li>
 <li><a href="/health/20240406/2021844.md">锻炼也可能加速衰老 4种运动方式反而伤身</a></li>
 <li><a href="/lifebaike/20240406/2021893.md">一个富二代留学生被家里断供一年后</a></li>
-<li><a href="/baitai/20240406/2021802.md">人骨制毒百人死亡 狮子山宣布紧急状态 墓地加派保安防被挖</a></li>
 <li><a href="/cnnews/20240406/2021669.md">耶伦访华：中共官方舆论悄然改变</a></li>
+<li><a href="/baitai/20240406/2021802.md">人骨制毒百人死亡 狮子山宣布紧急状态 墓地加派保安防被挖</a></li>
 <li><a href="/cbnews/20240406/2021767.md">是他干的！俄显著提升武器产量 布林肯北约会议明确警告</a></li>
-<li><a href="/ssgc/20240406/2021650.md">〖微博谈〗不要把什么都当成崇拜</a></li>
+<li><a href="/worldnews/20240406/2021827.md">父亲勒死18岁女儿 9天后被勒死在看守所</a></li>
+<li><a href="/baitai/20240407/2021896.md">不到百天 中国10家老牌百货店关门</a></li>
+<li><a href="/cnnews/20240406/2021668.md">不等了！大量中国人买房的国家，提前涨价</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240407/2021968.md" target="_blank">台湾地震与纽约地震；廉价倾销模式：公平还是不公平？</a></li>
+<li><a href="/cbnews/20240407/2021963.md" target="_blank">身体换戏份“毁三观” 微博热议“女演员潜规则日记”</a></li>
 <li><a href="/comments/20240407/2021914.md" target="_blank">索维尔说“多元化就是种族配额”</a></li>
 <li><a href="/comments/20240406/2021871.md" target="_blank">索维尔戳破“多元化”的外衣</a></li>
 <li><a href="/comments/20240406/2021866.md" target="_blank">好莱坞明星巨石强森，不满美国现状，后悔2020年支持拜登。莱克海湖庄园筹款创纪录。#美国大选 #拜登 #巨石</a></li>
@@ -58,14 +60,14 @@
 <li><a href="/comments/20240405/2021457.md" target="_blank">川普机密文件案，法官一道指令，让检察官绝望。美国版《官场现形记》，芝加哥南郊的女独裁者。#川普 #机密文件案 #芝加哥</a></li>
 <li><a href="/cbnews/20240405/2021382.md" target="_blank">90后女取保候期间怀孕 把女婴卖了还信用卡…</a></li>
 <li><a href="/comments/20240405/2021347.md" target="_blank">写信问神，为何降灾？神请他去另外空间，详尽说明！为一场灾难，神明前后要准备这么多细节！神天赏罚，慎之又慎。｜ #未解之谜 扶摇</a></li>
-<li><a href="/cbnews/20240405/2021346.md" target="_blank">〖红朝浮世绘〗 这要继承农发行家产的小学生才是真正的“共产主义接班人”啊</a></li>
-<li><a href="/cbnews/20240405/2021304.md" target="_blank">江峰：人缺德国缺格：台湾地震，共军加强扰台，耿爽联合国代表台湾谢谢国际援助；台积电短暂产恢复，蕴含民主制度的强大； 未见习近平已经被省委书记欺负，马英九拜祭黄帝被矮化【江峰漫谈20240404 第848期】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240407/2021961.md" target="_blank">中国应开征离境税？荒谬无比的开倒车</a></li>
+<li><a href="/topimagenews/20240407/2021960.md" target="_blank">新华社放话了，医生就要越来越贵</a></li>
 <li><a href="/topimagenews/20240407/2021944.md" target="_blank">小米车风光没多久！雷军最担心的事发生了</a></li>
 <li><a href="/topimagenews/20240407/2021943.md" target="_blank">北约75年来的第一次，历史性的转折来了？</a></li>
 <li><a href="/topimagenews/20240407/2021929.md" target="_blank">重磅！习该哭还是笑？全球航线重整，香港将除名；地方城市，最后一点脸面快没了</a></li>
@@ -89,14 +91,13 @@
 <li><a href="/topimagenews/20240405/2021247.md" target="_blank">没钱的地方城市，最后一点脸面快没了</a></li>
 <li><a href="/topimagenews/20240405/2021234.md" target="_blank">中共好兄弟狠过美西方 拟禁TikTok</a></li>
 <li><a href="/topimagenews/20240405/2021223.md" target="_blank">是他砸巨资买下“3体”版权！离奇遭毒杀</a></li>
-<li><a href="/topimagenews/20240405/2021213.md" target="_blank">网狠批奴隶主“戴表”！中共外交部发言人汪文斌秀奢侈名表</a></li>
-<li><a href="/topimagenews/20240405/2021211.md" target="_blank">中国临惊天危局 后果远超晚清锁国</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240407/2021968.md" target="_blank">台湾地震与纽约地震；廉价倾销模式：公平还是不公平？</a></li>
 <li><a href="/comments/20240407/2021949.md" target="_blank">王友群：中共最高级别的右派沙文汉</a></li>
 <li><a href="/comments/20240407/2021948.md" target="_blank">杨宁：南昌持续暴雨前 锁龙井铁链诡异断裂</a></li>
 <li><a href="/comments/20240407/2021947.md" target="_blank">袁斌：中共竟然连民众悼念前总理都禁止</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240406/2021748.md" target="_blank">冰川思想库:摔死孩子的母亲，可以同情绝不能共情</a></li>
 <li><a href="/comments/20240406/2021740.md" target="_blank">90后农民工困于尘肺病：丧失的劳动能力与得不到的赔偿</a></li>
 <li><a href="/comments/20240406/2021733.md" target="_blank">台湾的朴实无华的背后</a></li>
-<li><a href="/comments/20240406/2021731.md" target="_blank">罕见视频 独裁者最终自己最恐惧</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
 <li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
 
 </ul>
 </div>
