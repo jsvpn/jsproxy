@@ -9,7 +9,6 @@
 <li><a href="/topimagenews/20240406/2021666.md">捷中突传外交事件！中共外交官面临驱逐</a></li>
 <li><a href="/baitai/20240405/2021509.md">危机没有过去 中国百姓：身边很多人突然就走了</a></li>
 <li><a href="/headline/20240405/2021448.md">习近平「新质生产力」全盘错 《经济学人》：人民失望惹怒世界</a></li>
-<li><a href="/headline/20240405/2021436.md">李克强虽死犹生 传安徽3百万人清明自发花祭</a></li>
 <li><a href="/headline/20240405/2021475.md">“坏消息”？中国喝洋酒越来越少</a></li>
 <li><a href="/topimagenews/20240406/2021738.md">习在全球范围内羞辱撤退 恳求美不好使了【阿波罗网翻译报道】</a></li>
 <li><a href="/topimagenews/20240406/2021699.md">杜老板看走眼？习提“夜壶”升官发财</a></li>
@@ -18,15 +17,16 @@
 <li><a href="/finance/20240406/2021629.md">曝内部消息：中国人民银行彻底沦陷了【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20240406/2021565.md">“XG二字被禁止后 流感 百日咳 心梗 脑梗井喷 ⋯ ”（04/05/24）</a></li>
 <li><a href="/topimagenews/20240406/2021625.md">小米山寨大王，全球亲共大亨都惨了，都被坑了【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20240406/2021661.md">突然摊牌！全世界被老美闪了腰</a></li>
 <li><a href="/comments/20240405/2021487.md">“70后”唐山副市长李建忠落马 网友：或涉多起敏感事件</a></li>
-<li><a href="/comments/20240405/2021446.md">秦鹏：习遇六挑战 核心原因被美大使道破</a></li>
-<li><a href="/cbnews/20240406/2021745.md">高官斗擦鞋 国防部长:习顶天立地经天纬地</a></li>
+<li><a href="/cnnews/20240406/2021661.md">突然摊牌！全世界被老美闪了腰</a></li>
 <li><a href="/cbnews/20240406/2021761.md">〖红朝浮世绘〗地震震亮了台湾县长的马甲</a></li>
+<li><a href="/cbnews/20240406/2021745.md">高官斗擦鞋 国防部长:习顶天立地经天纬地</a></li>
+<li><a href="/comments/20240405/2021446.md">秦鹏：习遇六挑战 核心原因被美大使道破</a></li>
 <li><a href="/topimagenews/20240406/2021698.md">川普一鸣惊人：北京试图在美国境内“建立军队”</a></li>
 <li><a href="/cbnews/20240406/2021766.md">江峰：中央重要会议拂袖而去，习近平被冤枉？新一季「小组治国」：蔡奇来了，李强背锅侠定了；四五禁祭李克强，两次群众运动均起清明；小学生继承央企，胡叼盘为女儿越描越黑【江峰漫谈20240405第849期】</a></li>
 <li><a href="/cnnews/20240405/2021477.md">免费的最贵！机场USB插座恐瞬间 4招防窃</a></li>
 <li><a href="/comments/20240405/2021504.md">美国菜篮子价格涨多高</a></li>
+<li><a href="/baitai/20240406/2021601.md">「末日博士」警告：习可能带领中国走向停滞</a></li>
 <li><a href="/topimagenews/20240406/2021615.md">“债毁中国”！陆银行被掏空？国际嗅到中国风险；横夺万达，另一狠人打败王健林</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,10 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240406/2021842.md" target="_blank">“楚国王族”免费 “贵族”半价优惠 引发热议</a></li>
+<li><a href="/cbnews/20240406/2021841.md" target="_blank">摔死孩子的母亲 可以同情绝不能共情</a></li>
+<li><a href="/cbnews/20240406/2021840.md" target="_blank">打麻将1晚输赢七八万 校长和其牌友同期被查</a></li>
+<li><a href="/cbnews/20240406/2021839.md" target="_blank">女子乘自动扶梯上楼 半个身子突然被“卷入”</a></li>
 <li><a href="/cbnews/20240406/2021825.md" target="_blank">“我毫不怀疑拜登被中国勒索”</a></li>
 <li><a href="/cbnews/20240406/2021767.md" target="_blank">是他干的！俄显著提升武器产量 布林肯北约会议明确警告</a></li>
 <li><a href="/cbnews/20240406/2021766.md" target="_blank">江峰：中央重要会议拂袖而去，习近平被冤枉？新一季「小组治国」：蔡奇来了，李强背锅侠定了；四五禁祭李克强，两次群众运动均起清明；小学生继承央企，胡叼盘为女儿越描越黑【江峰漫谈20240405第849期】</a></li>
@@ -56,10 +60,6 @@
 <li><a href="/comments/20240405/2021252.md" target="_blank">403大地震 让世界看清台湾</a></li>
 <li><a href="/cbnews/20240405/2021220.md" target="_blank">江峰：网信办前脚说保护企业免受网暴，万科便遭到农夫山泉式的网攻</a></li>
 <li><a href="/comments/20240405/2021169.md" target="_blank">地震让我们对台湾刮目相看</a></li>
-<li><a href="/cbnews/20240405/2021166.md" target="_blank">中国城里墓地太贵 流行在郊区买房安置骨灰</a></li>
-<li><a href="/cbnews/20240404/2021108.md" target="_blank">爷爷父母都是行长？ 男童长大想“继承家产” 农发行：谁家的娃</a></li>
-<li><a href="/cbnews/20240404/2021106.md" target="_blank">江峰：习近平怎麽想的？跟美国做生意要踩台湾！商道即人道，习是不是太不地道</a></li>
-<li><a href="/cbnews/20240404/2021094.md" target="_blank">财长叶伦抵达广州 中财政部副部长亲自接机 六天访问行程曝光</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
-<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/aomi/life/20240330/2018911.md" target="_blank">挪威青年这样走出重度失眠和抑郁煎熬</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
+<li><a href="/comments/20231203/1969183.md" target="_blank">开盖冲马桶 ，细菌会乱飞？除非你家马桶是喷泉！</a></li>
+<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
 
 </ul>
 </div>
