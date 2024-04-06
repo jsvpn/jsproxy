@@ -10,8 +10,8 @@
 <li><a href="/finance/20240406/2021629.md">曝内部消息：中国人民银行彻底沦陷了【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20240406/2021646.md">耶伦见到何立峰：单刀直入 丑话已说</a></li>
 <li><a href="/topimagenews/20240406/2021699.md">杜老板看走眼？习提“夜壶”升官发财</a></li>
-<li><a href="/topimagenews/20240406/2021738.md">习在全球范围内羞辱撤退 恳求美不好使了【阿波罗网翻译报道】</a></li>
 <li><a href="/topimagenews/20240406/2021659.md">上海火车站旅客抢进站如丧尸片 民众冲卡闯关</a></li>
+<li><a href="/topimagenews/20240406/2021738.md">习在全球范围内羞辱撤退 恳求美不好使了【阿波罗网翻译报道】</a></li>
 <li><a href="/sohnews/20240406/2021838.md">文睿：“兄弟们，天塌了”，大陆自媒体人，爆出大消息</a></li>
 <li><a href="/topimagenews/20240406/2021793.md">令人动容！众多网友不约而同 在X上为他写下感人心声【阿波罗网报道】</a></li>
 <li><a href="/headline/20240406/2021848.md">习近平决裂“太子党”</a></li>
@@ -21,8 +21,8 @@
 <li><a href="/baitai/20240406/2021863.md">习全力备战？传刘亚洲党内罪名涉及四个字</a></li>
 <li><a href="/cbnews/20240406/2021745.md">高官斗擦鞋 国防部长:习顶天立地经天纬地</a></li>
 <li><a href="/cbnews/20240406/2021761.md">〖红朝浮世绘〗地震震亮了台湾县长的马甲</a></li>
-<li><a href="/topimagenews/20240406/2021698.md">川普一鸣惊人：北京试图在美国境内“建立军队”</a></li>
 <li><a href="/cbnews/20240406/2021766.md">江峰：中央重要会议拂袖而去，习近平被冤枉？新一季「小组治国」：蔡奇来了，李强背锅侠定了；四五禁祭李克强，两次群众运动均起清明；小学生继承央企，胡叼盘为女儿越描越黑【江峰漫谈20240405第849期】</a></li>
+<li><a href="/topimagenews/20240406/2021698.md">川普一鸣惊人：北京试图在美国境内“建立军队”</a></li>
 <li><a href="/health/20240406/2021787.md">它是“碱性食物之王”！正大量上市，4月使劲吃，头发黑，口不臭，健康又长寿</a></li>
 <li><a href="/sohnews/20240406/2021788.md">文睿：一尊，突发重磅宣言，真是，“死猪不怕开水烫”了</a></li>
 <li><a href="/health/20240406/2021844.md">锻炼也可能加速衰老 4种运动方式反而伤身</a></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240407/2021914.md" target="_blank">索维尔说“多元化就是种族配额”</a></li>
 <li><a href="/comments/20240406/2021871.md" target="_blank">索维尔戳破“多元化”的外衣</a></li>
 <li><a href="/comments/20240406/2021866.md" target="_blank">好莱坞明星巨石强森，不满美国现状，后悔2020年支持拜登。莱克海湖庄园筹款创纪录。#美国大选 #拜登 #巨石</a></li>
 <li><a href="/cbnews/20240406/2021842.md" target="_blank">“楚国王族”免费 “贵族”半价优惠 引发热议</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20240405/2021347.md" target="_blank">写信问神，为何降灾？神请他去另外空间，详尽说明！为一场灾难，神明前后要准备这么多细节！神天赏罚，慎之又慎。｜ #未解之谜 扶摇</a></li>
 <li><a href="/cbnews/20240405/2021346.md" target="_blank">〖红朝浮世绘〗 这要继承农发行家产的小学生才是真正的“共产主义接班人”啊</a></li>
 <li><a href="/cbnews/20240405/2021304.md" target="_blank">江峰：人缺德国缺格：台湾地震，共军加强扰台，耿爽联合国代表台湾谢谢国际援助；台积电短暂产恢复，蕴含民主制度的强大； 未见习近平已经被省委书记欺负，马英九拜祭黄帝被矮化【江峰漫谈20240404 第848期】</a></li>
-<li><a href="/comments/20240405/2021252.md" target="_blank">403大地震 让世界看清台湾</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240407/2021914.md" target="_blank">索维尔说“多元化就是种族配额”</a></li>
+<li><a href="/comments/20240407/2021913.md" target="_blank">天亮时分：蔡奇制造恐惧 唐一军只是个开头</a></li>
 <li><a href="/comments/20240406/2021888.md" target="_blank">因诗赋而独步后宫的晋代才女左棻</a></li>
 <li><a href="/comments/20240406/2021887.md" target="_blank">地球自转速度减缓 恐改变人类计时的方式</a></li>
 <li><a href="/comments/20240406/2021880.md" target="_blank">克里姆林宫称与美国对话只剩涉武器包括太空</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240406/2021729.md" target="_blank">李根清：林彪“散记”中对毛泽东的思考</a></li>
 <li><a href="/comments/20240406/2021728.md" target="_blank">图说天朝:敏感的日子又多了一个：清明节</a></li>
 <li><a href="/comments/20240406/2021704.md" target="_blank">弘道君：人民是主人还是汉献帝？</a></li>
-<li><a href="/comments/20240406/2021703.md" target="_blank">石破天：见山书店：香港最后的告别</a></li>
-<li><a href="/comments/20240406/2021702.md" target="_blank">连晨：我心向往的最美建筑</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20231220/1976789.md" target="_blank">大陆医生曝：九价HPV疫苗导致怀孕能力下降40%</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
 <li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
+<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
 
 </ul>
 </div>
