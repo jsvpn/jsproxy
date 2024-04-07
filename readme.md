@@ -5,16 +5,12 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/cbnews/20240407/2021963.md">身体换戏份“毁三观” 微博热议“女演员潜规则日记”</a></li>
-<li><a href="/finance/20240407/2021964.md">房地产的最后一招，可能要释放了</a></li>
 <li><a href="/topimagenews/20240407/2022001.md">李克强的话应验了！他们正在消失，正在变穷…【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20240407/2022014.md">一夜之间，看空派全傻眼了</a></li>
 <li><a href="/topimagenews/20240407/2021993.md">这样割韭菜太狠！只有你想不到 没有中共做不到的</a></li>
-<li><a href="/topimagenews/20240407/2021960.md">新华社放话了，医生就要越来越贵</a></li>
 <li><a href="/topimagenews/20240407/2022034.md">“特斯拉正面临一场史诗般的灾难”</a></li>
 <li><a href="/sohnews/20240407/2022132.md">陈破空：耶伦惊见：李强被降职为部级官员！最神秘人物悄悄出任国防大学政委。中共水炮逞威催生四国联盟。广州官场躺平，开会应到551人，只到13人。直播与互动：美东时间4月7日早9点、中港台4月7日晚9点</a></li>
 <li><a href="/cnnews/20240407/2022081.md">他有意放红军一条生路 中共建政后并没有放过他</a></li>
-<li><a href="/topimagenews/20240407/2021961.md">中国应开征离境税？荒谬无比的开倒车</a></li>
 <li><a href="/baitai/20240407/2022101.md">李铁落网细节曝光 叫出课堂一去不复返 把国足名将范志毅弄蒙了</a></li>
 <li><a href="/cnnews/20240407/2022007.md">中共中央重磅放权！新质治国比史上所有统治都恐怖</a></li>
 <li><a href="/cbnews/20240407/2022046.md">中国大妈痛骂“年轻人吃屎” 全车：你自己吃</a></li>
@@ -23,11 +19,15 @@
 <li><a href="/lifebaike/20240407/2022095.md">我65岁，晚年最后悔的事，就是卖掉老家的房子，跑去做儿子的邻居</a></li>
 <li><a href="/topimagenews/20240407/2022035.md">【微博精粹】看到台湾楼歪歪 想起汶川豆腐渣</a></li>
 <li><a href="/sohnews/20240407/2021741.md">吴京参演的电影首映全国票房不到200，放了3天只有23个人看过😂。接连票房惨败，战狼成了票房毒药吗？</a></li>
+<li><a href="/cbnews/20240407/2022184.md">新质治国：一通境外电话所有财产被派出所冻结</a></li>
 <li><a href="/yule/20240407/2022010.md">她被称为“日本第一美女” 36岁素颜近照曝光</a></li>
 <li><a href="/lifebaike/20240407/2022099.md">iPhone手机语音翻译怎么操作？中英文对话原来如此轻松，太赞了</a></li>
 <li><a href="/baitai/20240407/2022134.md">每天吃10克，抗衰、护肾、防止动脉硬化</a></li>
-<li><a href="/cbnews/20240407/2022184.md">新质治国：一通境外电话所有财产被派出所冻结</a></li>
+<li><a href="/ssgc/20240407/2022054.md">〖微博谈〗这也算一种“自信”吧</a></li>
 <li><a href="/ssgc/20240407/2022165.md">唐一军还是走了傅政华的死路</a></li>
+<li><a href="/baitai/20240407/2022153.md">大转变将至 耶伦对何立峰撂狠话</a></li>
+<li><a href="/lifebaike/20240407/2022050.md">关系再好，最好也别让亲戚住在家里，这不是薄情，而是聪明</a></li>
+<li><a href="/topimagenews/20240407/2021972.md">俄空天军遭单日最大损失 2024是谁的最后机会</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240408/2022242.md" target="_blank">文昭：莫斯科不相信眼泪：「英明领袖」为何智商不在线？「天下大乱、形势大好」的反噬【会员样片节选】</a></li>
 <li><a href="/comments/20240408/2022230.md" target="_blank">菁英论坛：福建侨团反水 华侨脱共大势所趋</a></li>
 <li><a href="/comments/20240408/2022204.md" target="_blank">地震频发，地球进入震动模式？台湾花莲地震为何死伤这么少？房子为何倾而不倒？中共趁火打劫。#台湾地震 #花莲 #地震</a></li>
 <li><a href="/comments/20240408/2022203.md" target="_blank">改变您孩子价值观的“建国之旅”</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240407/2021994.md" target="_blank">何清涟：美中接触频繁 只为保持沟通</a></li>
 <li><a href="/comments/20240407/2021968.md" target="_blank">台湾地震与纽约地震；廉价倾销模式：公平还是不公平？</a></li>
 <li><a href="/comments/20240407/2021949.md" target="_blank">王友群：中共最高级别的右派沙文汉</a></li>
-<li><a href="/comments/20240407/2021948.md" target="_blank">杨宁：南昌持续暴雨前 锁龙井铁链诡异断裂</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20190701/1151501.md" target="_blank">【特稿】中国共产党是邪教组织</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
 <li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/comments/20231212/1972297.md" target="_blank">日本华人确诊晚期直肠癌，修炼法轮功恢复健康（图）</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
 
 </ul>
 </div>
