@@ -13,21 +13,21 @@
 <li><a href="/baitai/20240406/2021863.md">习全力备战？传刘亚洲党内罪名涉及四个字</a></li>
 <li><a href="/health/20240406/2021787.md">它是“碱性食物之王”！正大量上市，4月使劲吃，头发黑，口不臭，健康又长寿</a></li>
 <li><a href="/topimagenews/20240407/2021944.md">小米车风光没多久！雷军最担心的事发生了</a></li>
-<li><a href="/health/20240406/2021844.md">锻炼也可能加速衰老 4种运动方式反而伤身</a></li>
-<li><a href="/cnnews/20240407/2021937.md">“全国优秀书记”落马！惊传与跨国暴力犯罪集团头目有关</a></li>
-<li><a href="/sohnews/20240406/2021788.md">文睿：一尊，突发重磅宣言，真是，“死猪不怕开水烫”了</a></li>
 <li><a href="/cbnews/20240407/2021963.md">身体换戏份“毁三观” 微博热议“女演员潜规则日记”</a></li>
-<li><a href="/lifebaike/20240406/2021893.md">一个富二代留学生被家里断供一年后</a></li>
+<li><a href="/health/20240406/2021844.md">锻炼也可能加速衰老 4种运动方式反而伤身</a></li>
+<li><a href="/sohnews/20240406/2021788.md">文睿：一尊，突发重磅宣言，真是，“死猪不怕开水烫”了</a></li>
+<li><a href="/cnnews/20240407/2021937.md">“全国优秀书记”落马！惊传与跨国暴力犯罪集团头目有关</a></li>
 <li><a href="/finance/20240407/2021964.md">房地产的最后一招，可能要释放了</a></li>
-<li><a href="/baitai/20240406/2021802.md">人骨制毒百人死亡 狮子山宣布紧急状态 墓地加派保安防被挖</a></li>
-<li><a href="/baitai/20240407/2021896.md">不到百天 中国10家老牌百货店关门</a></li>
+<li><a href="/lifebaike/20240406/2021893.md">一个富二代留学生被家里断供一年后</a></li>
 <li><a href="/topimagenews/20240407/2021960.md">新华社放话了，医生就要越来越贵</a></li>
-<li><a href="/worldnews/20240406/2021827.md">父亲勒死18岁女儿 9天后被勒死在看守所</a></li>
+<li><a href="/baitai/20240406/2021802.md">人骨制毒百人死亡 狮子山宣布紧急状态 墓地加派保安防被挖</a></li>
 <li><a href="/topimagenews/20240407/2021961.md">中国应开征离境税？荒谬无比的开倒车</a></li>
-<li><a href="/comments/20240407/2021913.md">天亮时分：蔡奇制造恐惧 唐一军只是个开头</a></li>
-<li><a href="/cnnews/20240406/2021831.md">女儿离世 深圳父母要分遗产 判决后网民愤怒</a></li>
-<li><a href="/ssgc/20240407/2021906.md">评论｜余杰： 习近平会退还清华大学的假博士学位吗？</a></li>
+<li><a href="/baitai/20240407/2021896.md">不到百天 中国10家老牌百货店关门</a></li>
+<li><a href="/topimagenews/20240407/2021993.md">这样割韭菜太狠！只有你想不到 没有中共做不到的</a></li>
+<li><a href="/worldnews/20240406/2021827.md">父亲勒死18岁女儿 9天后被勒死在看守所</a></li>
 <li><a href="/topimagenews/20240407/2021943.md">北约75年来的第一次，历史性的转折来了？</a></li>
+<li><a href="/comments/20240407/2021913.md">天亮时分：蔡奇制造恐惧 唐一军只是个开头</a></li>
+<li><a href="/ssgc/20240407/2021906.md">评论｜余杰： 习近平会退还清华大学的假博士学位吗？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
 <li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
 <li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/tculture/20231217/1975364.md" target="_blank">医山夜话：张锡纯医案解读（1）根治失眠 思路清晰</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
 
 </ul>
 </div>
