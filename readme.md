@@ -10,16 +10,15 @@
 <li><a href="/comments/20240408/2022257.md">大乱将临！后习时代惊现“双中央”？</a></li>
 <li><a href="/cbnews/20240407/2022177.md">江峰：经济困局无解，习近平遭官员“围攻”，中央会议拂袖而去</a></li>
 <li><a href="/baitai/20240408/2022234.md">让人大跌眼镜！钟南山的学生这样评价他</a></li>
-<li><a href="/sohnews/20240407/2021741.md">吴京参演的电影首映全国票房不到200，放了3天只有23个人看过😂。接连票房惨败，战狼成了票房毒药吗？</a></li>
 <li><a href="/cbnews/20240407/2022184.md">新质治国：一通境外电话所有财产被派出所冻结</a></li>
 <li><a href="/ssgc/20240407/2022165.md">唐一军还是走了傅政华的死路</a></li>
 <li><a href="/baitai/20240407/2022153.md">大转变将至 耶伦对何立峰撂狠话</a></li>
 <li><a href="/baitai/20240407/2022134.md">每天吃10克，抗衰、护肾、防止动脉硬化</a></li>
 <li><a href="/topimagenews/20240408/2022275.md">“走自己的路、不让别人活”？中共国内形式更为严峻了</a></li>
+<li><a href="/topimagenews/20240408/2022327.md">【微博精粹】李中堂死后还能给习包添堵</a></li>
 <li><a href="/topimagenews/20240408/2022254.md">太吓人！中部六省，集体负增长了…</a></li>
 <li><a href="/cbnews/20240407/2022193.md">江峰：“小组治国”，六个委员会习近平留在手中四个，两个蔡奇分走，中央实际排位第二已然形成</a></li>
 <li><a href="/comments/20240408/2022244.md">傻眼！说完这话就被抓了 ：有党员被审查两天啥都招，没骨气</a></li>
-<li><a href="/topimagenews/20240408/2022327.md">【微博精粹】李中堂死后还能给习包添堵</a></li>
 <li><a href="/topimagenews/20240408/2022238.md">奔走20年，最后没了命！千亿大案举报人跳楼…</a></li>
 <li><a href="/topimagenews/20240408/2022357.md">美法院祭出全球封杀令 中国通信巨头惨了【阿波罗网报道】</a></li>
 <li><a href="/headline/20240407/2022131.md">刘亚洲被重判无期徒刑 外媒指习近平与太子党决裂</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/cnnews/20240408/2022246.md">这可能是中国就业率最高的专业，但没多少人敢报</a></li>
 <li><a href="/cnnews/20240408/2022248.md">20岁女留学生在美神秘死亡！真相揭晓，竟是…</a></li>
 <li><a href="/baitai/20240407/2022188.md">耶伦访华富有成效？美专家警告：习正在策划一场针对美国的战争</a></li>
+<li><a href="/cnnews/20240408/2022240.md">遭删文：脊背发凉！这一切荒谬得象回到四十多年前</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240408/2022401.md" target="_blank">俄罗斯下一个目标是哪里？外泄录音揭答案</a></li>
 <li><a href="/topimagenews/20240408/2022388.md" target="_blank">犯中共党魁大忌！这中共高官莫非有不臣之心？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240408/2022357.md" target="_blank">美法院祭出全球封杀令 中国通信巨头惨了【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240408/2022328.md" target="_blank">整个大北京区域都在射程内 美将在亚太部署中程飞弹</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20240407/2021929.md" target="_blank">重磅！习该哭还是笑？全球航线重整，香港将除名；地方城市，最后一点脸面快没了</a></li>
 <li><a href="/topimagenews/20240406/2021793.md" target="_blank">令人动容！众多网友不约而同 在X上为他写下感人心声【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240406/2021738.md" target="_blank">习在全球范围内羞辱撤退 恳求美不好使了【阿波罗网翻译报道】</a></li>
-<li><a href="/topimagenews/20240406/2021699.md" target="_blank">杜老板看走眼？习提“夜壶”升官发财</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
-<li><a href="/aomi/life/20240330/2018911.md" target="_blank">挪威青年这样走出重度失眠和抑郁煎熬</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/taiwannews/20210119/1470524.md" target="_blank">纪录片《蚕食美国1》</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
 
 </ul>
 </div>
