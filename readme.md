@@ -8,9 +8,9 @@
 <li><a href="/sohnews/20240407/2022132.md">陈破空：耶伦惊见：李强被降职为部级官员！最神秘人物悄悄出任国防大学政委。中共水炮逞威催生四国联盟。广州官场躺平，开会应到551人，只到13人。直播与互动：美东时间4月7日早9点、中港台4月7日晚9点</a></li>
 <li><a href="/cnnews/20240408/2022224.md">明抢了！微博炸锅，网统一留言：倒车请注意；规模空前！中国各种经济问题集中爆发</a></li>
 <li><a href="/baitai/20240407/2022101.md">李铁落网细节曝光 叫出课堂一去不复返 把国足名将范志毅弄蒙了</a></li>
+<li><a href="/comments/20240408/2022257.md">大乱将临！后习时代惊现“双中央”？</a></li>
 <li><a href="/baitai/20240408/2022234.md">让人大跌眼镜！钟南山的学生这样评价他</a></li>
 <li><a href="/cbnews/20240407/2022177.md">江峰：经济困局无解，习近平遭官员“围攻”，中央会议拂袖而去</a></li>
-<li><a href="/comments/20240408/2022257.md">大乱将临！后习时代惊现“双中央”？</a></li>
 <li><a href="/lifebaike/20240407/2022095.md">我65岁，晚年最后悔的事，就是卖掉老家的房子，跑去做儿子的邻居</a></li>
 <li><a href="/sohnews/20240407/2021741.md">吴京参演的电影首映全国票房不到200，放了3天只有23个人看过😂。接连票房惨败，战狼成了票房毒药吗？</a></li>
 <li><a href="/cbnews/20240407/2022184.md">新质治国：一通境外电话所有财产被派出所冻结</a></li>
@@ -19,15 +19,15 @@
 <li><a href="/baitai/20240407/2022134.md">每天吃10克，抗衰、护肾、防止动脉硬化</a></li>
 <li><a href="/topimagenews/20240408/2022275.md">“走自己的路、不让别人活”？中共国内形式更为严峻了</a></li>
 <li><a href="/lifebaike/20240407/2022099.md">iPhone手机语音翻译怎么操作？中英文对话原来如此轻松，太赞了</a></li>
+<li><a href="/topimagenews/20240408/2022254.md">太吓人！中部六省，集体负增长了…</a></li>
 <li><a href="/cbnews/20240407/2022193.md">江峰：“小组治国”，六个委员会习近平留在手中四个，两个蔡奇分走，中央实际排位第二已然形成</a></li>
 <li><a href="/topimagenews/20240408/2022238.md">奔走20年，最后没了命！千亿大案举报人跳楼…</a></li>
-<li><a href="/topimagenews/20240408/2022254.md">太吓人！中部六省，集体负增长了…</a></li>
 <li><a href="/comments/20240408/2022244.md">傻眼！说完这话就被抓了 ：有党员被审查两天啥都招，没骨气</a></li>
 <li><a href="/headline/20240407/2022131.md">刘亚洲被重判无期徒刑 外媒指习近平与太子党决裂</a></li>
 <li><a href="/baitai/20240407/2022102.md">【404帖子】一小撮人打着反诈旗号，胡作非为，是什么原因？</a></li>
 <li><a href="/cnnews/20240408/2022246.md">这可能是中国就业率最高的专业，但没多少人敢报</a></li>
-<li><a href="/baitai/20240407/2022188.md">耶伦访华富有成效？美专家警告：习正在策划一场针对美国的战争</a></li>
 <li><a href="/cnnews/20240408/2022248.md">20岁女留学生在美神秘死亡！真相揭晓，竟是…</a></li>
+<li><a href="/baitai/20240407/2022188.md">耶伦访华富有成效？美专家警告：习正在策划一场针对美国的战争</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20231213/1973586.md" target="_blank">六道轮回之畜生道</a></li>
-<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
 
 </ul>
 </div>
