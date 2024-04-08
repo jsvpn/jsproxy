@@ -8,19 +8,18 @@
 <li><a href="/cnnews/20240408/2022224.md">明抢了！微博炸锅，网统一留言：倒车请注意；规模空前！中国各种经济问题集中爆发</a></li>
 <li><a href="/comments/20240408/2022257.md">大乱将临！后习时代惊现“双中央”？</a></li>
 <li><a href="/baitai/20240408/2022234.md">让人大跌眼镜！钟南山的学生这样评价他</a></li>
+<li><a href="/cbnews/20240408/2022449.md">中国高校干部聚众淫乱视频流出 结果惨了</a></li>
 <li><a href="/topimagenews/20240408/2022275.md">“走自己的路、不让别人活”？中共国内形式更为严峻了</a></li>
-<li><a href="/topimagenews/20240408/2022254.md">太吓人！中部六省，集体负增长了…</a></li>
 <li><a href="/topimagenews/20240408/2022327.md">【微博精粹】李中堂死后还能给习包添堵</a></li>
+<li><a href="/topimagenews/20240408/2022254.md">太吓人！中部六省，集体负增长了…</a></li>
 <li><a href="/comments/20240408/2022337.md">后果很严重！习心理有多阴暗？耶伦来访路径泄密</a></li>
 <li><a href="/topimagenews/20240408/2022357.md">美法院祭出全球封杀令 中国通信巨头惨了【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20240408/2022449.md">中国高校干部聚众淫乱视频流出 结果惨了</a></li>
 <li><a href="/cbnews/20240408/2022333.md">〖红朝浮世绘〗明明是公示财产就可以做到的事情 中共非要搞道德教育</a></li>
-<li><a href="/cbnews/20240407/2022193.md">江峰：“小组治国”，六个委员会习近平留在手中四个，两个蔡奇分走，中央实际排位第二已然形成</a></li>
 <li><a href="/comments/20240408/2022244.md">傻眼！说完这话就被抓了 ：有党员被审查两天啥都招，没骨气</a></li>
 <li><a href="/topimagenews/20240408/2022388.md">犯中共党魁大忌！这中共高官莫非有不臣之心？【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20240408/2022238.md">奔走20年，最后没了命！千亿大案举报人跳楼…</a></li>
 <li><a href="/topimagenews/20240408/2022401.md">俄罗斯下一个目标是哪里？外泄录音揭答案</a></li>
 <li><a href="/cbnews/20240408/2022329.md">习近平头疼！到最后也没摸清…</a></li>
+<li><a href="/topimagenews/20240408/2022238.md">奔走20年，最后没了命！千亿大案举报人跳楼…</a></li>
 <li><a href="/worldnews/20240408/2022336.md">重磅！马斯克与独裁国干翻天</a></li>
 <li><a href="/cnnews/20240408/2022248.md">20岁女留学生在美神秘死亡！真相揭晓，竟是…</a></li>
 <li><a href="/funmedia/20240408/2022330.md">去酒店时，为什么建议不要住走廊尽头最后一间“尾房”？看完涨知识了</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/cnnews/20240408/2022240.md">遭删文：脊背发凉！这一切荒谬得象回到四十多年前</a></li>
 <li><a href="/ssgc/20240408/2022383.md">浙江帮遭挫 福建帮独大 后习时代将临</a></li>
 <li><a href="/cbnews/20240408/2022370.md">邯郸初中生被害案 河北检方通报来了</a></li>
+<li><a href="/cnnews/20240408/2022246.md">这可能是中国就业率最高的专业，但没多少人敢报</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/comments/20240318/2014289.md" target="_blank">唐柏桥：民运同仁突然向法轮功开火是怎么回事？</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
+<li><a href="/comments/20190701/1151501.md" target="_blank">【特稿】中国共产党是邪教组织</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
 <li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/comments/20231201/1968320.md" target="_blank">【非凡新闻】结合中西文化精神 美国神韵表演吸睛</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
 
 </ul>
 </div>
