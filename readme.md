@@ -15,8 +15,8 @@
 <li><a href="/cbnews/20240407/2022177.md">江峰：经济困局无解，习近平遭官员“围攻”，中央会议拂袖而去</a></li>
 <li><a href="/topimagenews/20240407/2022035.md">【微博精粹】看到台湾楼歪歪 想起汶川豆腐渣</a></li>
 <li><a href="/sohnews/20240407/2021741.md">吴京参演的电影首映全国票房不到200，放了3天只有23个人看过😂。接连票房惨败，战狼成了票房毒药吗？</a></li>
-<li><a href="/cbnews/20240407/2022184.md">新质治国：一通境外电话所有财产被派出所冻结</a></li>
 <li><a href="/ssgc/20240407/2022165.md">唐一军还是走了傅政华的死路</a></li>
+<li><a href="/cbnews/20240407/2022184.md">新质治国：一通境外电话所有财产被派出所冻结</a></li>
 <li><a href="/baitai/20240407/2022134.md">每天吃10克，抗衰、护肾、防止动脉硬化</a></li>
 <li><a href="/baitai/20240407/2022153.md">大转变将至 耶伦对何立峰撂狠话</a></li>
 <li><a href="/lifebaike/20240407/2022099.md">iPhone手机语音翻译怎么操作？中英文对话原来如此轻松，太赞了</a></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240408/2022311.md" target="_blank">老鱼时评：被以色列打死18个军队首长，伊朗还能忍吗？</a></li>
 <li><a href="/comments/20240408/2022304.md" target="_blank">老毛迫害文人 只为一个金句</a></li>
 <li><a href="/comments/20240408/2022303.md" target="_blank">宋国诚：马英九不是前总统 是台湾的吴三桂</a></li>
 <li><a href="/comments/20240408/2022295.md" target="_blank">为什么日本的人均GDP是中共国3倍多？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240407/2022080.md" target="_blank">天亮时分：耶伦访华几大看点</a></li>
 <li><a href="/comments/20240407/2022049.md" target="_blank">颜丹： 大陆频现“骨灰房”说明两件事</a></li>
 <li><a href="/comments/20240407/2022048.md" target="_blank">李濠仲：美媒解谜后 当初“侯友宜巧遇纽约市长”还很光彩？</a></li>
-<li><a href="/comments/20240407/2022040.md" target="_blank">面对“纽约地震” 中国网民很失望…..</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/cnnews/20221211/1822144.md" target="_blank">盖盖冲马桶很可怕！瞬间“病毒炸开”？</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20231201/1968320.md" target="_blank">【非凡新闻】结合中西文化精神 美国神韵表演吸睛</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
 <li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/taiwannews/20210119/1470761.md" target="_blank">独家：震撼纪录片《蚕食美国2：欺诈大师》</a></li>
 
 </ul>
 </div>
