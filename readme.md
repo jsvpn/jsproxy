@@ -22,12 +22,12 @@
 <li><a href="/worldnews/20240408/2022336.md">重磅！马斯克与独裁国干翻天</a></li>
 <li><a href="/baitai/20240408/2022457.md">马英九借胡锦涛这句话亮了 揭中共极力隐瞒的历史真相 「马习会」时地含玄机</a></li>
 <li><a href="/baitai/20240408/2022458.md">突发！江西公交车撞入人群致3死7伤 肇事司机照片曝光</a></li>
-<li><a href="/cnnews/20240408/2022240.md">遭删文：脊背发凉！这一切荒谬得象回到四十多年前</a></li>
 <li><a href="/funmedia/20240408/2022330.md">去酒店时，为什么建议不要住走廊尽头最后一间“尾房”？看完涨知识了</a></li>
 <li><a href="/cnnews/20240408/2022248.md">20岁女留学生在美神秘死亡！真相揭晓，竟是…</a></li>
 <li><a href="/cnnews/20240408/2022246.md">这可能是中国就业率最高的专业，但没多少人敢报</a></li>
-<li><a href="/cbnews/20240408/2022370.md">邯郸初中生被害案 河北检方通报来了</a></li>
 <li><a href="/ssgc/20240408/2022282.md">〖微博谈〗国企是私人的，私企是国家的</a></li>
+<li><a href="/cbnews/20240408/2022370.md">邯郸初中生被害案 河北检方通报来了</a></li>
+<li><a href="/ssgc/20240408/2022383.md">浙江帮遭挫 福建帮独大 后习时代将临</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240409/2022654.md" target="_blank">耶伦强硬警告，美中经济关系恶化将加剧 ｜谢田 方菲 ｜新闻烽火台 04/08</a></li>
+<li><a href="/cbnews/20240409/2022648.md" target="_blank">号称全面碾压F35 中国歼-35露出原形</a></li>
+<li><a href="/cbnews/20240409/2022647.md" target="_blank">意外还是报复? 南昌公交车冲撞行人 3死7伤</a></li>
 <li><a href="/comments/20240409/2022640.md" target="_blank">纽约实拍日食！2024年 难得一见日全蚀</a></li>
 <li><a href="/cbnews/20240409/2022634.md" target="_blank">中企老板辱骂越南工人引全员罢工 震惊中国网民</a></li>
 <li><a href="/comments/20240408/2022474.md" target="_blank">预言比人还准！自我编辑基因！3颗心脏9个脑袋2套记忆系统；最强大脑！｜未解之谜 扶摇</a></li>
@@ -57,15 +60,14 @@
 <li><a href="/cbnews/20240407/2022046.md" target="_blank">中国大妈痛骂“年轻人吃屎” 全车：你自己吃</a></li>
 <li><a href="/cbnews/20240407/2022036.md" target="_blank">当心“杀手” 浙江男扫完墓 肺部长出小树芽</a></li>
 <li><a href="/cbnews/20240407/2022014.md" target="_blank">一夜之间，看空派全傻眼了</a></li>
-<li><a href="/comments/20240407/2022008.md" target="_blank">【杰森视角】‘中国冲击2.0’逼迫世界反击！拜登政府两个昏招，拉近世界大战！以色列渗透伊朗军方最高层，完成击杀圣城军统帅？伊朗报复以色列，美国私下开绿灯？世界经济困局源自中国政治问题！</a></li>
-<li><a href="/comments/20240407/2022002.md" target="_blank">周末直播问答 + 川普今晚豪华筹款，预计直破拜登纪录</a></li>
-<li><a href="/cbnews/20240407/2021974.md" target="_blank">大转变将至 叶伦直面何立峰说出一句“重话”</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240409/2022646.md" target="_blank">首次目击！俄极罕见“苏联末日装甲车”到前线</a></li>
+<li><a href="/topimagenews/20240409/2022645.md" target="_blank">债是不可能还了 中国最大“老赖”诞生</a></li>
 <li><a href="/topimagenews/20240409/2022633.md" target="_blank">绝不放任习近平！美欧正式联手下战书</a></li>
 <li><a href="/topimagenews/20240409/2022565.md" target="_blank">美国法院出手！ 陆“对讲机龙头”海能达突遭全球禁售</a></li>
 <li><a href="/topimagenews/20240409/2022564.md" target="_blank">中国低价商品再次冲击全球市场 这次各国准备展开反击</a></li>
@@ -89,14 +91,13 @@
 <li><a href="/topimagenews/20240407/2021972.md" target="_blank">俄空天军遭单日最大损失 2024是谁的最后机会</a></li>
 <li><a href="/topimagenews/20240407/2021961.md" target="_blank">中国应开征离境税？荒谬无比的开倒车</a></li>
 <li><a href="/topimagenews/20240407/2021960.md" target="_blank">新华社放话了，医生就要越来越贵</a></li>
-<li><a href="/topimagenews/20240407/2021944.md" target="_blank">小米车风光没多久！雷军最担心的事发生了</a></li>
-<li><a href="/topimagenews/20240407/2021943.md" target="_blank">北约75年来的第一次，历史性的转折来了？</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240409/2022654.md" target="_blank">耶伦强硬警告，美中经济关系恶化将加剧 ｜谢田 方菲 ｜新闻烽火台 04/08</a></li>
 <li><a href="/comments/20240409/2022640.md" target="_blank">纽约实拍日食！2024年 难得一见日全蚀</a></li>
 <li><a href="/comments/20240409/2022621.md" target="_blank">天亮时分：特斯拉出路在哪里？</a></li>
 <li><a href="/comments/20240409/2022618.md" target="_blank">美国财政部长珍妮特·耶伦4月8日警告中国，华盛顿不会接受新产业因中国进口产品而遭受重创，她结束了为期四天的会议，敦促北京控制过剩的工业产能。</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240408/2022292.md" target="_blank">最勇敢小学生登场，习近平慌了！张盼成恢复自由，热血誓师女孩符文迪再走红，党用毒苹果疏导舆情？</a></li>
 <li><a href="/comments/20240408/2022279.md" target="_blank">墙外文摘：中共官媒的取巧与“翻车</a></li>
 <li><a href="/comments/20240408/2022278.md" target="_blank">殷罡：巴以冲突的死结：哈马斯和伊朗之恶</a></li>
-<li><a href="/comments/20240408/2022277.md" target="_blank">施一公：清华70%至80%的高考状元去哪儿了？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
+<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
 <li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
 
 </ul>
 </div>
