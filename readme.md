@@ -5,28 +5,28 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/sohnews/20240409/2022819.md">彭丽媛获封政治局联络员，蔡奇下发通知正式开始文革，伊朗24小时内打击以色列。《老灯开讲第530期》</a></li>
 <li><a href="/comments/20240409/2022881.md">分析：习很怕内部政变 兵变是关键</a></li>
 <li><a href="/cnnews/20240410/2023043.md">刚刚，金融圈又炸了两个大雷</a></li>
 <li><a href="/topimagenews/20240410/2023021.md">习“东升西降”被美元砸个粉碎</a></li>
 <li><a href="/comments/20240409/2022882.md">军队动荡新迹象 传北京正调查最大军事装备供应商</a></li>
-<li><a href="/topimagenews/20240410/2023035.md">被白宫打趴了？ 比亚迪放出风声</a></li>
 <li><a href="/comments/20240410/2022975.md">天亮时分：蔡奇这个动作 通知全网消失 诡异现象</a></li>
+<li><a href="/topimagenews/20240410/2023035.md">被白宫打趴了？ 比亚迪放出风声</a></li>
 <li><a href="/cnnews/20240410/2023042.md">普京有新欢 传卡巴耶娃分手 惊现颓废样</a></li>
 <li><a href="/topimagenews/20240410/2023102.md">黄金暴涨背后的可怕现实 才是百年大变局</a></li>
 <li><a href="/topimagenews/20240410/2023056.md">每隔6周，北京就要大玩一次轮盘赌</a></li>
-<li><a href="/cbnews/20240410/2023057.md">“马习二会”定了 入场前要做两次核酸检测</a></li>
-<li><a href="/ssgc/20240410/2023068.md">〖微博谈〗新汉八旗</a></li>
-<li><a href="/cnnews/20240410/2023058.md">习狂推全球变革 缄口不提两事 被俄外长抖出</a></li>
-<li><a href="/worldnews/20240409/2022922.md">普丁前体操情妇昔美到翻 今罕见现身网震惊</a></li>
 <li><a href="/topimagenews/20240410/2023126.md">杜特尔特与北京“秘密协议”曝光</a></li>
+<li><a href="/ssgc/20240410/2023068.md">〖微博谈〗新汉八旗</a></li>
+<li><a href="/cbnews/20240410/2023057.md">“马习二会”定了 入场前要做两次核酸检测</a></li>
+<li><a href="/worldnews/20240409/2022922.md">普丁前体操情妇昔美到翻 今罕见现身网震惊</a></li>
+<li><a href="/cnnews/20240410/2023058.md">习狂推全球变革 缄口不提两事 被俄外长抖出</a></li>
 <li><a href="/baitai/20240409/2022888.md">习与红二代决裂 最怕兵变？</a></li>
 <li><a href="/cbnews/20240410/2023162.md">〖红朝浮世绘〗危险离我们很近</a></li>
-<li><a href="/comments/20240409/2022884.md">日全食罕见一幕 网传美国上空巨大飞行物穿梭</a></li>
 <li><a href="/headline/20240409/2022947.md">国家安全高于一切 国安人员畅通无阻</a></li>
+<li><a href="/comments/20240409/2022884.md">日全食罕见一幕 网传美国上空巨大飞行物穿梭</a></li>
 <li><a href="/ssgc/20240410/2023001.md">中国年轻人不愿缴养老金 学者：急需社保改革</a></li>
-<li><a href="/cnnews/20240410/2023031.md">腾讯云全球大故障：实锤的草台班子</a></li>
 <li><a href="/sohnews/20240409/2022843.md">陈破空：蔡奇触怒老习！挟中办发通知，竟突遭删除。中国摊上大事了！全球反击，金砖国家加入。荷兰停止服务。瑞典驱逐间谍。美国法院出手。直播与互动：美东时间4月9日早9点、中港台4月9日晚9点</a></li>
+<li><a href="/cnnews/20240410/2023031.md">腾讯云全球大故障：实锤的草台班子</a></li>
+<li><a href="/topimagenews/20240410/2023141.md">没人比他惨！中国巨头遭美全球禁售 每天罚款100万美元</a></li>
 <li><a href="/cnnews/20240410/2022979.md">理财规画师发现 有钱人每年最大开销是这个</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240410/2023235.md" target="_blank">【专访香港学者黎恩灏谈《基本法》23条】</a></li>
 <li><a href="/comments/20240410/2023217.md" target="_blank">【香港佐敦道华丰大厦火灾】【截至10日中午5人死亡40人送医】</a></li>
 <li><a href="/comments/20240410/2023216.md" target="_blank">【岸田文雄在美国展开国事访问】【10日美日峰会 11日美日菲峰会】</a></li>
 <li><a href="/comments/20240410/2023210.md" target="_blank">【赖清德举行新任阁揆人事首场发布会】【前民进党主席卓荣泰担任行政院长】</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240410/2023028.md" target="_blank">中国版隐藏未报幕后真相：习派他会耶伦递话拜登？</a></li>
 <li><a href="/comments/20240410/2023027.md" target="_blank">周晓辉：俄远东城市现核泄漏 中共再装聋作哑</a></li>
 <li><a href="/comments/20240410/2023026.md" target="_blank">“反右倾”中残害民众的45种酷刑</a></li>
-<li><a href="/comments/20240410/2023025.md" target="_blank">钟原：中共搞出产能过剩 社会主义大破产</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/cnnews/20221211/1822144.md" target="_blank">盖盖冲马桶很可怕！瞬间“病毒炸开”？</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
 <li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
-<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20240116/1984226.md" target="_blank">湖北老河口遇仙记</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/topimagenews/20180608/954788.md" target="_blank">安乐死根本安乐不了，别宣传了</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
 <li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
 
 </ul>
 </div>
