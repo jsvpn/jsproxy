@@ -11,8 +11,8 @@
 <li><a href="/topimagenews/20240410/2023035.md">被白宫打趴了？ 比亚迪放出风声</a></li>
 <li><a href="/cnnews/20240410/2023042.md">普京有新欢 传卡巴耶娃分手 惊现颓废样</a></li>
 <li><a href="/cbnews/20240410/2023162.md">〖红朝浮世绘〗危险离我们很近</a></li>
-<li><a href="/topimagenews/20240410/2023126.md">杜特尔特与北京“秘密协议”曝光</a></li>
 <li><a href="/finance/20240410/2023191.md">马云内部发声：三年足以天翻地覆 一切才刚开始</a></li>
+<li><a href="/topimagenews/20240410/2023126.md">杜特尔特与北京“秘密协议”曝光</a></li>
 <li><a href="/cbnews/20240410/2023057.md">“马习二会”定了 入场前要做两次核酸检测</a></li>
 <li><a href="/ssgc/20240410/2023322.md">李克强故居被维稳与温家宝花篮被要求移走</a></li>
 <li><a href="/ssgc/20240410/2023068.md">〖微博谈〗新汉八旗</a></li>
@@ -24,10 +24,10 @@
 <li><a href="/topimagenews/20240410/2023141.md">没人比他惨！中国巨头遭美全球禁售 每天罚款100万美元</a></li>
 <li><a href="/cbnews/20240410/2023182.md">史上最有钱网红？ 北京7套房 全身没8位数不出门</a></li>
 <li><a href="/baitai/20240410/2023231.md">日本女士为何如此会穿？</a></li>
-<li><a href="/cbnews/20240410/2023140.md">江峰：俄外长公开揭秘习近平和王毅的“小圈子”真实阴谋，中共真的害怕这个；中电科高层被查，央企亲俄抗美中的悲剧角色； 司法部长高危，“犯罪团伙”签署大陆律师资格证【江峰漫谈20240409第851期】</a></li>
 <li><a href="/finance/20240410/2023192.md">从1200万到460万 泡沫破灭速度如此之快</a></li>
-<li><a href="/sohnews/20240410/2023237.md">马英九做两次核酸才能见习近平，有人搞武装暴动推胡德平为总书记，惠誉降低中国主权信用评级。《老灯开讲第531期》</a></li>
+<li><a href="/cbnews/20240410/2023140.md">江峰：俄外长公开揭秘习近平和王毅的“小圈子”真实阴谋，中共真的害怕这个；中电科高层被查，央企亲俄抗美中的悲剧角色； 司法部长高危，“犯罪团伙”签署大陆律师资格证【江峰漫谈20240409第851期】</a></li>
 <li><a href="/comments/20240410/2023304.md">看到同济大学这一幕 真可悲</a></li>
+<li><a href="/sohnews/20240410/2023237.md">马英九做两次核酸才能见习近平，有人搞武装暴动推胡德平为总书记，惠誉降低中国主权信用评级。《老灯开讲第531期》</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240411/2023441.md" target="_blank">【韦亚妮母子成功入境加拿大 傅辞笑了】</a></li>
 <li><a href="/comments/20240411/2023424.md" target="_blank">严歌苓谈《扶桑》音乐剧及海外创作体验</a></li>
 <li><a href="/comments/20240411/2023390.md" target="_blank">热点快评：马习二会在微妙时机登场</a></li>
 <li><a href="/comments/20240410/2023376.md" target="_blank">时事大家谈：荷兰可能再收紧对华限制 进一步冲击“中国芯”？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240410/2023184.md" target="_blank">王友群：中纪委书记李希与赵乐际干上了？</a></li>
 <li><a href="/comments/20240410/2023143.md" target="_blank">巴九灵:为什么留守儿童的孩子，还是留守儿童？</a></li>
 <li><a href="/comments/20240410/2023142.md" target="_blank">谷雨实验室：三年后，我降价95万卖掉了房子</a></li>
-<li><a href="/comments/20240410/2023130.md" target="_blank">关尔东：当同济大学学生崇拜张维为教授</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
+<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
 <li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
 
 </ul>
 </div>
