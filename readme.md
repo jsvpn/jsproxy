@@ -7,8 +7,8 @@
 
 <li><a href="/comments/20240409/2022881.md">分析：习很怕内部政变 兵变是关键</a></li>
 <li><a href="/cnnews/20240410/2023043.md">刚刚，金融圈又炸了两个大雷</a></li>
-<li><a href="/topimagenews/20240410/2023021.md">习“东升西降”被美元砸个粉碎</a></li>
 <li><a href="/comments/20240409/2022882.md">军队动荡新迹象 传北京正调查最大军事装备供应商</a></li>
+<li><a href="/topimagenews/20240410/2023021.md">习“东升西降”被美元砸个粉碎</a></li>
 <li><a href="/comments/20240410/2022975.md">天亮时分：蔡奇这个动作 通知全网消失 诡异现象</a></li>
 <li><a href="/topimagenews/20240410/2023035.md">被白宫打趴了？ 比亚迪放出风声</a></li>
 <li><a href="/cnnews/20240410/2023042.md">普京有新欢 传卡巴耶娃分手 惊现颓废样</a></li>
@@ -16,8 +16,8 @@
 <li><a href="/topimagenews/20240410/2023102.md">黄金暴涨背后的可怕现实 才是百年大变局</a></li>
 <li><a href="/cbnews/20240410/2023162.md">〖红朝浮世绘〗危险离我们很近</a></li>
 <li><a href="/finance/20240410/2023191.md">马云内部发声：三年足以天翻地覆 一切才刚开始</a></li>
-<li><a href="/topimagenews/20240410/2023126.md">杜特尔特与北京“秘密协议”曝光</a></li>
 <li><a href="/headline/20240409/2022947.md">国家安全高于一切 国安人员畅通无阻</a></li>
+<li><a href="/topimagenews/20240410/2023126.md">杜特尔特与北京“秘密协议”曝光</a></li>
 <li><a href="/comments/20240409/2022884.md">日全食罕见一幕 网传美国上空巨大飞行物穿梭</a></li>
 <li><a href="/topimagenews/20240410/2023056.md">每隔6周，北京就要大玩一次轮盘赌</a></li>
 <li><a href="/cbnews/20240410/2023057.md">“马习二会”定了 入场前要做两次核酸检测</a></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240410/2023315.md" target="_blank">【习近平和马英九会面】【习谈家国团圆 马提九二共识】</a></li>
 <li><a href="/comments/20240410/2023304.md" target="_blank">看到同济大学这一幕 真可悲</a></li>
 <li><a href="/comments/20240410/2023294.md" target="_blank">美FBI局长雷伊：中共“威胁我们这一代人”</a></li>
 <li><a href="/comments/20240410/2023280.md" target="_blank">吸取2022年教训。川普堕胎声明，打乱拜登竞选策略，或成为今年大选制胜法宝。美国大选川普拜登</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240410/2023092.md" target="_blank">加州20元时薪法律生效 裁员关店涨价 以后怎么办</a></li>
 <li><a href="/comments/20240410/2023091.md" target="_blank">菁英论坛/金家第4代 12岁太女准备登基？</a></li>
 <li><a href="/comments/20240410/2023090.md" target="_blank">剑客写字的地方：媒体连俄罗斯的核辐射都不敢说了？</a></li>
-<li><a href="/comments/20240410/2023089.md" target="_blank">木白文笔平平:俄罗斯核辐射，居然是在“路透社”看到的</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
 <li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
-<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
 <li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/taiwannews/20210119/1470524.md" target="_blank">纪录片《蚕食美国1》</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
 
 </ul>
 </div>
