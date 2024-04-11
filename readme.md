@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/comments/20240410/2023254.md">滞销的中国汽车堆积如山 欧洲港口成停车场</a></li>
 <li><a href="/ssgc/20240410/2023322.md">李克强故居被维稳与温家宝花篮被要求移走</a></li>
 <li><a href="/cbnews/20240411/2023430.md">“习马”二会 央视头条报道 这一幕却耐人寻味</a></li>
 <li><a href="/topimagenews/20240411/2023532.md">惊传金正恩私生子 确认玄松月地位？场面曝光</a></li>
@@ -20,13 +19,14 @@
 <li><a href="/comments/20240411/2023472.md">袁斌：李克强故居被维稳与温家宝花篮被要求移走</a></li>
 <li><a href="/ssgc/20240410/2023285.md">习近平和马英九会面 习谈家国团圆 马英九提九二共识</a></li>
 <li><a href="/ssgc/20240411/2023502.md">〖微博谈〗一个幽灵在中国游荡</a></li>
-<li><a href="/yule/20240411/2023513.md">85岁知名书画家范曾宣布结婚 新婚妻子小60岁</a></li>
-<li><a href="/topimagenews/20240411/2023453.md">华尔街巨头：重大、前所未有力量袭来；老乡，国家喊你加杠杆了【阿波罗网报道】</a></li>
 <li><a href="/comments/20240411/2023558.md">吴祚来：温家宝和胡锦涛习近平的差别</a></li>
+<li><a href="/yule/20240411/2023513.md">85岁知名书画家范曾宣布结婚 新婚妻子小60岁</a></li>
 <li><a href="/topimagenews/20240411/2023439.md">天文学家在宇宙中 发现了本不应存在的巨型结构 宇宙是均匀的……吗？</a></li>
+<li><a href="/topimagenews/20240411/2023453.md">华尔街巨头：重大、前所未有力量袭来；老乡，国家喊你加杠杆了【阿波罗网报道】</a></li>
 <li><a href="/lifebaike/20240411/2023548.md">毛泽东拉着年轻﹑端庄﹑美丽王后的手久久不放</a></li>
 <li><a href="/headline/20240410/2023335.md">【习马二会】会面降规格 马英九漏嘴当面讲「中华民国」随即改口</a></li>
 <li><a href="/cbnews/20240411/2023467.md">江峰：要求三个月入脑入心！蔡奇开始发威了</a></li>
+<li><a href="/cbnews/20240411/2023575.md">〖红朝浮世绘〗美国FBI局长：中共是当代的首要威胁</a></li>
 <li><a href="/comments/20240411/2023470.md">网海拾贝:浙江帮遭挫，福建帮独大，后习时代将临</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240411/2023692.md" target="_blank">马英九到底去大陆干什么？</a></li>
 <li><a href="/cbnews/20240411/2023631.md" target="_blank">马习二会是中共战略骗局? 专家：习目的不是台湾而是准备&#8230;</a></li>
 <li><a href="/cbnews/20240411/2023600.md" target="_blank">习近平不给马英九面子？ 6共机穿越海峡中线</a></li>
 <li><a href="/cbnews/20240411/2023575.md" target="_blank">〖红朝浮世绘〗美国FBI局长：中共是当代的首要威胁</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20240410/2022993.md" target="_blank">摩根大通总裁戴蒙 警告通胀和利率要飙升</a></li>
 <li><a href="/cbnews/20240410/2022977.md" target="_blank">叶伦：中国银行若协助俄军侵乌 美国准备好制裁</a></li>
 <li><a href="/cbnews/20240410/2022976.md" target="_blank">美媒：叶伦访中传达强硬讯息 美中关系缓和受考验</a></li>
-<li><a href="/comments/20240409/2022913.md" target="_blank">AUKUS联手日本，等于打造亚洲“北约”</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240411/2023692.md" target="_blank">马英九到底去大陆干什么？</a></li>
+<li><a href="/comments/20240411/2023691.md" target="_blank">天亮时分：中国冲击2.0 扭曲国际经济市场</a></li>
+<li><a href="/comments/20240411/2023689.md" target="_blank">南中国海：新冷战战场？（上）</a></li>
 <li><a href="/comments/20240411/2023641.md" target="_blank">【马英九返台 盼台湾年轻人抛开意识形态】【照稿念将“中华民族”说成“中华民国”】</a></li>
 <li><a href="/comments/20240411/2023581.md" target="_blank">马英九反攻大陆：一路哭向北京，习近平要倒霉！王婆说媒不敌 “一日夫妻”，精准羞辱马习会？</a></li>
 <li><a href="/comments/20240411/2023572.md" target="_blank">众多地点 同时出现日晕！</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20240411/2023485.md" target="_blank">马英九大陆“哭泣之旅”有什么作用？惠誉下调中国评级，中共“老朋友”转向；美日峰会让中共恼怒｜方伟 唐靖远 Jason 方菲 David</a></li>
 <li><a href="/comments/20240411/2023472.md" target="_blank">袁斌：李克强故居被维稳与温家宝花篮被要求移走</a></li>
 <li><a href="/comments/20240411/2023470.md" target="_blank">网海拾贝:浙江帮遭挫，福建帮独大，后习时代将临</a></li>
-<li><a href="/comments/20240411/2023469.md" target="_blank">时事人物:韩国瑜 台湾局势最大不确定因素</a></li>
-<li><a href="/comments/20240411/2023466.md" target="_blank">【科特勒：“一个国家制造占全球产能30%，但内需占全球经济消费13%，这种情况不可接受”】</a></li>
-<li><a href="/comments/20240411/2023465.md" target="_blank">【中国产能过剩 中方论调反复 西方称早供需失衡】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
 <li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
 
 </ul>
 </div>
