@@ -8,25 +8,25 @@
 <li><a href="/finance/20240410/2023191.md">马云内部发声：三年足以天翻地覆 一切才刚开始</a></li>
 <li><a href="/comments/20240410/2023254.md">滞销的中国汽车堆积如山 欧洲港口成停车场</a></li>
 <li><a href="/ssgc/20240410/2023322.md">李克强故居被维稳与温家宝花篮被要求移走</a></li>
-<li><a href="/comments/20240410/2023184.md">王友群：中纪委书记李希与赵乐际干上了？</a></li>
-<li><a href="/cbnews/20240411/2023430.md">“习马”二会 央视头条报道 这一幕却耐人寻味</a></li>
 <li><a href="/topimagenews/20240410/2023220.md">小粉红被戏弄 吓的秒删帖！网友嘲笑：直钩也能钓到鱼【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20240411/2023430.md">“习马”二会 央视头条报道 这一幕却耐人寻味</a></li>
+<li><a href="/topimagenews/20240411/2023454.md">中共紧急秘密“特殊任务”藏不住 5天3次给古巴万里送啥？网围观狂猜【阿波罗网报道】</a></li>
 <li><a href="/baitai/20240411/2023444.md">万科、招行、平安三巨头陷入危机 金融圈风声鹤唳</a></li>
 <li><a href="/baitai/20240410/2023231.md">日本女士为何如此会穿？</a></li>
-<li><a href="/topimagenews/20240411/2023454.md">中共紧急秘密“特殊任务”藏不住 5天3次给古巴万里送啥？网围观狂猜【阿波罗网报道】</a></li>
-<li><a href="/comments/20240410/2023304.md">看到同济大学这一幕 真可悲</a></li>
 <li><a href="/finance/20240410/2023192.md">从1200万到460万 泡沫破灭速度如此之快</a></li>
+<li><a href="/comments/20240410/2023304.md">看到同济大学这一幕 真可悲</a></li>
 <li><a href="/topimagenews/20240411/2023532.md">惊传金正恩私生子 确认玄松月地位？场面曝光</a></li>
 <li><a href="/sohnews/20240410/2023237.md">马英九做两次核酸才能见习近平，有人搞武装暴动推胡德平为总书记，惠誉降低中国主权信用评级。《老灯开讲第531期》</a></li>
-<li><a href="/comments/20240411/2023472.md">袁斌：李克强故居被维稳与温家宝花篮被要求移走</a></li>
 <li><a href="/sohnews/20240410/2023302.md">文睿：一尊，无耻到家了</a></li>
+<li><a href="/comments/20240411/2023472.md">袁斌：李克强故居被维稳与温家宝花篮被要求移走</a></li>
 <li><a href="/baitai/20240410/2023309.md">中国人疯狂抢黄金 背后藏一场大变局？</a></li>
 <li><a href="/finance/20240410/2023303.md">原来，这些都是真的</a></li>
 <li><a href="/ssgc/20240410/2023285.md">习近平和马英九会面 习谈家国团圆 马英九提九二共识</a></li>
-<li><a href="/lifebaike/20240410/2023221.md">受用一生的7种顶级思维</a></li>
-<li><a href="/headline/20240410/2023335.md">【习马二会】会面降规格 马英九漏嘴当面讲「中华民国」随即改口</a></li>
-<li><a href="/topimagenews/20240411/2023439.md">天文学家在宇宙中 发现了本不应存在的巨型结构 宇宙是均匀的……吗？</a></li>
 <li><a href="/topimagenews/20240411/2023453.md">华尔街巨头：重大、前所未有力量袭来；老乡，国家喊你加杠杆了【阿波罗网报道】</a></li>
+<li><a href="/lifebaike/20240410/2023221.md">受用一生的7种顶级思维</a></li>
+<li><a href="/topimagenews/20240411/2023439.md">天文学家在宇宙中 发现了本不应存在的巨型结构 宇宙是均匀的……吗？</a></li>
+<li><a href="/cnnews/20240411/2023497.md">马英九是故意的？</a></li>
+<li><a href="/headline/20240410/2023335.md">【习马二会】会面降规格 马英九漏嘴当面讲「中华民国」随即改口</a></li>
 <li><a href="/health/20240410/2023242.md">糖尿病不宜吃鸡蛋？内科医生：不想血糖升高，要远离这5物</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/aomi/life/20240330/2018911.md" target="_blank">挪威青年这样走出重度失眠和抑郁煎熬</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
-<li><a href="/comments/20240403/2020547.md" target="_blank">纪录片：DSM诊断与统计手册-精神病学最要命的骗局</a></li>
-<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
 <li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/comments/20231223/1978148.md" target="_blank">医山夜话：张锡纯医案解读（三）赭石：降胃气 引火下行</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
 
 </ul>
 </div>
