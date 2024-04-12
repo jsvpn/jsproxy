@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/baitai/20240411/2023540.md">李强彭丽媛 中南海一片混乱 习又给自己挖坑</a></li>
 <li><a href="/topimagenews/20240411/2023680.md">老百姓怒火达到临界点！中共发言人评论区大翻车【阿波罗网报道】</a></li>
 <li><a href="/comments/20240411/2023558.md">吴祚来：温家宝和胡锦涛习近平的差别</a></li>
 <li><a href="/comments/20240411/2023718.md">习近平为什么天天出昏招</a></li>
@@ -20,13 +19,14 @@
 <li><a href="/comments/20240411/2023692.md">马英九到底去大陆干什么？</a></li>
 <li><a href="/lifebaike/20240411/2023548.md">毛泽东拉着年轻﹑端庄﹑美丽王后的手久久不放</a></li>
 <li><a href="/comments/20240411/2023700.md">给马英九元首规格，习近平想干嘛？</a></li>
-<li><a href="/topimagenews/20240411/2023622.md">“川普必定遭到定罪”</a></li>
 <li><a href="/comments/20240412/2023850.md">中南海人事异动 国务院新闻办主任换人</a></li>
+<li><a href="/topimagenews/20240411/2023622.md">“川普必定遭到定罪”</a></li>
 <li><a href="/topimagenews/20240411/2023642.md">孤立中共 美日达成70多项协议</a></li>
 <li><a href="/lifebaike/20240411/2023782.md">为啥说“门前不栽竹，房后不栽树”</a></li>
 <li><a href="/sohnews/20240411/2023699.md">中产末日已至！为什么中产阶级一定会消亡？中国中产为何是下场最惨的中产？｜政经孙老师 Mr. Sun Official</a></li>
 <li><a href="/ssgc/20240411/2023728.md">耶伦千里下战书，中共口硬腰骨软</a></li>
 <li><a href="/topimagenews/20240411/2023788.md">涉为共军采购AI芯片 4家中企遭美列出口黑名单</a></li>
+<li><a href="/cnnews/20240412/2023876.md">习近平虎狼之药，还不见效</a></li>
 <li><a href="/health/20240411/2023666.md">春天中老年要养骨，少吃白菜土豆，多吃这3样，腿脚有劲，精神好</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240412/2023982.md" target="_blank">中国展开了外交反攻，应对日益坚定的敌对国家</a></li>
+<li><a href="/comments/20240412/2023981.md" target="_blank">简泽伟：马英九到底是谁</a></li>
 <li><a href="/comments/20240412/2023962.md" target="_blank">OJ 辛普森复杂的一生 给我们留下什么思考</a></li>
 <li><a href="/comments/20240412/2023961.md" target="_blank">天亮时分：马习二会，习近平释放出投降信号；日美联手扛起国际秩序大旗；20万亿的信托行业集体没落，通缩阴影再度显现（政论天下第1279集 20240411）天亮时分</a></li>
 <li><a href="/comments/20240412/2023960.md" target="_blank">专访韩秀（下）：美国这艘大船是要左到翻船，还是能重回中间轨道？2024见分晓 ｜方菲时间</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240411/2023737.md" target="_blank">【未普评论】真是厉害国，连拎包吃饭都有风波</a></li>
 <li><a href="/comments/20240411/2023718.md" target="_blank">习近平为什么天天出昏招</a></li>
 <li><a href="/comments/20240411/2023710.md" target="_blank">【大宇拍案惊奇】马习二会 马英九当面说“中华民国” 媒体突然都被请走</a></li>
-<li><a href="/comments/20240411/2023700.md" target="_blank">给马英九元首规格，习近平想干嘛？</a></li>
-<li><a href="/comments/20240411/2023695.md" target="_blank">【无国界记者专员被拒入境香港】【白奥兰透露想为23条“试水温”】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/topimagenews/20180608/954788.md" target="_blank">安乐死根本安乐不了，别宣传了</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/comments/20231201/1968320.md" target="_blank">【非凡新闻】结合中西文化精神 美国神韵表演吸睛</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
 
 </ul>
 </div>
