@@ -10,7 +10,6 @@
 <li><a href="/topimagenews/20240411/2023680.md">老百姓怒火达到临界点！中共发言人评论区大翻车【阿波罗网报道】</a></li>
 <li><a href="/comments/20240411/2023558.md">吴祚来：温家宝和胡锦涛习近平的差别</a></li>
 <li><a href="/comments/20240411/2023718.md">习近平为什么天天出昏招</a></li>
-<li><a href="/yule/20240411/2023513.md">85岁知名书画家范曾宣布结婚 新婚妻子小60岁</a></li>
 <li><a href="/baitai/20240411/2023608.md">雄安7周年 网民直击叹如末日场景</a></li>
 <li><a href="/lifebaike/20240411/2023667.md">被中国人当成垃圾扔掉，在日本却成为高端美食，还吃了100多年</a></li>
 <li><a href="/cbnews/20240411/2023631.md">马习二会是中共战略骗局? 专家：习目的不是台湾而是准备...</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/lifebaike/20240411/2023782.md">为啥说“门前不栽竹，房后不栽树”</a></li>
 <li><a href="/sohnews/20240411/2023699.md">中产末日已至！为什么中产阶级一定会消亡？中国中产为何是下场最惨的中产？｜政经孙老师 Mr. Sun Official</a></li>
 <li><a href="/ssgc/20240411/2023728.md">耶伦千里下战书，中共口硬腰骨软</a></li>
+<li><a href="/comments/20240412/2023850.md">中南海人事异动 国务院新闻办主任换人</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,9 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240412/2023949.md" target="_blank">习马二会，堪称一场诀别</a></li>
+<li><a href="/topimagenews/20240412/2023948.md" target="_blank">刷新下限！车企大佬公然歌颂苦难</a></li>
+<li><a href="/topimagenews/20240412/2023947.md" target="_blank">中国体制内学者发文 四大原因注定俄必败</a></li>
 <li><a href="/topimagenews/20240412/2023916.md" target="_blank">讽刺！“外国人”成中共反贪局副局长</a></li>
 <li><a href="/topimagenews/20240412/2023905.md" target="_blank">小米SU7赛道上墙火了！“ 不雅照 ”曝光</a></li>
 <li><a href="/topimagenews/20240412/2023872.md" target="_blank">刚刚，金融圈又炸两个大雷；黄金暴涨背后可怕现实 ，才是百年大变局【阿波罗网报道】</a></li>
@@ -88,9 +91,6 @@
 <li><a href="/topimagenews/20240410/2023084.md" target="_blank">一盘大棋！习突发好心？将提议台放宽中国配偶权益</a></li>
 <li><a href="/topimagenews/20240410/2023083.md" target="_blank">打幌子？中共诡异 3次万里“送粮” 网围观“特殊任务”</a></li>
 <li><a href="/topimagenews/20240410/2023056.md" target="_blank">每隔6周，北京就要大玩一次轮盘赌</a></li>
-<li><a href="/topimagenews/20240410/2023035.md" target="_blank">被白宫打趴了？ 比亚迪放出风声</a></li>
-<li><a href="/topimagenews/20240410/2023021.md" target="_blank">习“东升西降”被美元砸个粉碎</a></li>
-<li><a href="/topimagenews/20240409/2022802.md" target="_blank">彻底文革化！中共军报扯开嗓子高喊&#8230;【阿波罗网报道】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20231207/1970628.md" target="_blank">民兵对官军，希望之声打造广播界的奇蹟【方伟时间-20231206】</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/cbnews/20190701/1151453.md" target="_blank">盘点十大邪教特征 中共条条对号入座</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
 <li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
 
 </ul>
 </div>
