@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/finance/20240412/2023950.md">7月有大事 浙江义乌订单接到手软</a></li>
 <li><a href="/baitai/20240412/2023971.md">传习近平要追责江泽民 意外遇阻？</a></li>
 <li><a href="/topimagenews/20240412/2023964.md">美签现“漏洞”，中国人可自由自在进入美国国土</a></li>
 <li><a href="/topimagenews/20240412/2024074.md">山东大集，终于来了一个不吹牛的</a></li>
@@ -13,21 +12,22 @@
 <li><a href="/topimagenews/20240412/2024032.md">老美二话不说闷声干 中共不止是闪了腰</a></li>
 <li><a href="/cbnews/20240412/2024057.md">〖红朝浮世绘〗当你器官和领导配型成功，带给你全家的将会是灭顶之灾</a></li>
 <li><a href="/topimagenews/20240412/2024061.md">中国“这种痛苦还在蔓延”…</a></li>
-<li><a href="/baitai/20240412/2024120.md">腿脚发出以下5个信号，说明血糖已经超标</a></li>
 <li><a href="/baitai/20240412/2024131.md">越挖越多！唐一军落马内幕被删 日经：房地产危机波及习近平核心圈</a></li>
-<li><a href="/ccpdope/20240412/2024152.md">外商写密函给胡春华 疑意外触碰中共内斗</a></li>
+<li><a href="/baitai/20240412/2024120.md">腿脚发出以下5个信号，说明血糖已经超标</a></li>
 <li><a href="/health/20240412/2024089.md">“免疫力之王”竟然是它，吃一口含有17种氨基酸！补肾益精，消肿散淤，强免疫，少生病</a></li>
-<li><a href="/topimagenews/20240412/2023949.md">习马二会，堪称一场诀别</a></li>
-<li><a href="/topimagenews/20240412/2023947.md">中国体制内学者发文 四大原因注定俄必败</a></li>
+<li><a href="/ccpdope/20240412/2024152.md">外商写密函给胡春华 疑意外触碰中共内斗</a></li>
 <li><a href="/finance/20240412/2024180.md">后果无法想象 雷军尴尬了！小米SU7拆解出大秘密</a></li>
 <li><a href="/topimagenews/20240412/2024031.md">【微博精粹】马英九三哭哭谁？</a></li>
 <li><a href="/yule/20240412/2024039.md">范冰冰坐三轮车巡游曼谷 被嘲落魄生图老太多</a></li>
 <li><a href="/comments/20240412/2024063.md">蔡慎坤：中共官场大震，人心惶惶，原是冲着他来的</a></li>
 <li><a href="/sohnews/20240412/2024132.md">陈破空：中南海乱了！他下手清洗习家军。马英九返台后大笑！口误果然是故意。美军登船检查中国船。日相英文演讲惊国会。直播与互动：美东时间4月12日早9点、中港台4月12日晚9点</a></li>
 <li><a href="/funmedia/20240412/2024049.md">第一批去埃及的中国人，已经被骗到快裸奔了</a></li>
-<li><a href="/ssgc/20240412/2023931.md">〖微博谈〗先专政你再说</a></li>
 <li><a href="/comments/20240412/2024185.md">是治疗还是屠杀?化疗药品滴一滴在皮肤即灼伤，很长时间才好</a></li>
 <li><a href="/comments/20240412/2024129.md">辛普森逃了刑事法庭 逃得了天理吗？</a></li>
+<li><a href="/lifebaike/20240412/2024053.md">别人请你吃饭，请牢记“三个不要”，否则人缘会越来越差</a></li>
+<li><a href="/topimagenews/20240412/2024000.md">每平降3千 武汉楼盘老业主怒砸售楼部</a></li>
+<li><a href="/finance/20240412/2024062.md">万科已抓了这么多人？各城市老总，今夜注定失眠</a></li>
+<li><a href="/headline/20240412/2024175.md">日经：唐一军被查反映房地产危机波及习近平核心圈</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240413/2024409.md" target="_blank">【毛宁怒怼 #美日菲峰会】 #域外国家 说谁呢？</a></li>
+<li><a href="/comments/20240413/2024408.md" target="_blank">【国民党副主席访美：台美关系没有最好，只有更好】</a></li>
 <li><a href="/comments/20240413/2024379.md" target="_blank">文昭：突发：美媒预警48小时内伊朗、以色列或开战！美日菲小北约露头，天下大乱、形势大好？</a></li>
 <li><a href="/comments/20240413/2024366.md" target="_blank">桑普：马习二会，别被这八幕场景骗了</a></li>
 <li><a href="/comments/20240413/2024365.md" target="_blank">亚欧视点：三箭齐发，拜登收拢对中共军事围堵</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240412/2024138.md" target="_blank">【岸田文雄于美国国会发表演说】【赞扬美国并批评独裁国家】【日本准备好与美国一同承担国际责任】</a></li>
 <li><a href="/comments/20240412/2024129.md" target="_blank">辛普森逃了刑事法庭 逃得了天理吗？</a></li>
 <li><a href="/comments/20240412/2024116.md" target="_blank">天亮时分：中国主权信用评级下调至负</a></li>
-<li><a href="/comments/20240412/2024078.md" target="_blank">【#习马二会 两岸民众怎么看？】</a></li>
-<li><a href="/comments/20240412/2024073.md" target="_blank">【美日菲峰会 拜登对中国在南海的举动发出警告】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
 <li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/aomi/life/20240330/2018911.md" target="_blank">挪威青年这样走出重度失眠和抑郁煎熬</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
+<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
+<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
 
 </ul>
 </div>
