@@ -5,28 +5,28 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/ccpdope/20240412/2024152.md">外商写密函给胡春华 疑意外触碰中共内斗</a></li>
 <li><a href="/finance/20240412/2024180.md">后果无法想象 雷军尴尬了！小米SU7拆解出大秘密</a></li>
 <li><a href="/topimagenews/20240413/2024385.md">很明确的信号 中央要搞历史性大动作</a></li>
 <li><a href="/topimagenews/20240413/2024399.md">重要信号来了！暗示中国经济已触底？</a></li>
 <li><a href="/ccpdope/20240413/2024511.md">蔡奇以中央办公厅名义发《通知》 习近平大怒？</a></li>
 <li><a href="/cnnews/20240413/2024270.md">接电话被问“听得到吗”专家：出声就惨了</a></li>
 <li><a href="/topimagenews/20240413/2024427.md">为中共站台 中国超级富豪 突宣告破产 下落不明 也跑路了？</a></li>
-<li><a href="/cbnews/20240413/2024386.md">中国百万女网红与母一同惨死 凶手身份曝光</a></li>
 <li><a href="/comments/20240413/2024344.md">天亮时分：习近平释放投降信号</a></li>
+<li><a href="/cbnews/20240413/2024386.md">中国百万女网红与母一同惨死 凶手身份曝光</a></li>
 <li><a href="/topimagenews/20240413/2024463.md">重磅！央行吹风了 套牢你今生今世</a></li>
 <li><a href="/topimagenews/20240413/2024261.md">中美科技战升温 中共下令三大中资电信商 淘汰外国芯片</a></li>
 <li><a href="/finance/20240413/2024305.md">据报中国境内美元资金趋紧 人币贬值压力恐加剧</a></li>
 <li><a href="/comments/20240412/2024185.md">是治疗还是屠杀?化疗药品滴一滴在皮肤即灼伤，很长时间才好</a></li>
 <li><a href="/topimagenews/20240413/2024398.md">轰动全国大案宣判！10中国人涉22亿美金洗钱案</a></li>
+<li><a href="/topimagenews/20240413/2024474.md">中共大会堂竟然挂着它！这首诗释放危险信号【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240413/2024494.md">顶级！岸田在美演讲为什么让全场响起48次掌声</a></li>
 <li><a href="/sohnews/20240413/2024372.md">钟绍军升上将主管军委行动局暗杀将领，俄罗斯核泄漏1600倍威胁中国东北，马云发文骂习近平知错不改。《老灯开讲第532期》</a></li>
-<li><a href="/topimagenews/20240413/2024474.md">中共大会堂竟然挂着它！这首诗释放危险信号【阿波罗网报道】</a></li>
 <li><a href="/headline/20240412/2024175.md">日经：唐一军被查反映房地产危机波及习近平核心圈</a></li>
 <li><a href="/cbnews/20240413/2024470.md">〖红朝浮世绘〗319个中国实体（或个人）列入了黑名单 美中之间的紧张局势仍在加剧</a></li>
 <li><a href="/finance/20240413/2024306.md">叶晓：中国经济持续恶化 中产阶层加速返贫</a></li>
 <li><a href="/topimagenews/20240413/2024383.md">只剩最后600米! 俄军压境恰索夫亚尔</a></li>
 <li><a href="/baitai/20240412/2024209.md">他们身边都布满习近平眼线 蔡慎坤揭习当时封城意图</a></li>
+<li><a href="/topimagenews/20240413/2024489.md">震惊！遭删文：被共产的同仁堂这款仁丹，汞含量超标严重到让德价值几百万设备宕机</a></li>
 <li><a href="/ssgc/20240413/2024391.md">〖微博谈〗降薪是经济下行的必然趋势</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
+<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
 <li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/taiwannews/20210119/1470761.md" target="_blank">独家：震撼纪录片《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20231223/1978148.md" target="_blank">医山夜话：张锡纯医案解读（三）赭石：降胃气 引火下行</a></li>
 
 </ul>
 </div>
