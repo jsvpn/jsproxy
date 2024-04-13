@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/baitai/20240412/2023971.md">传习近平要追责江泽民 意外遇阻？</a></li>
 <li><a href="/topimagenews/20240412/2024074.md">山东大集，终于来了一个不吹牛的</a></li>
 <li><a href="/topimagenews/20240412/2024032.md">老美二话不说闷声干 中共不止是闪了腰</a></li>
 <li><a href="/cbnews/20240412/2024057.md">〖红朝浮世绘〗当你器官和领导配型成功，带给你全家的将会是灭顶之灾</a></li>
@@ -17,17 +16,18 @@
 <li><a href="/finance/20240412/2024180.md">后果无法想象 雷军尴尬了！小米SU7拆解出大秘密</a></li>
 <li><a href="/topimagenews/20240412/2024031.md">【微博精粹】马英九三哭哭谁？</a></li>
 <li><a href="/yule/20240412/2024039.md">范冰冰坐三轮车巡游曼谷 被嘲落魄生图老太多</a></li>
-<li><a href="/comments/20240412/2024063.md">蔡慎坤：中共官场大震，人心惶惶，原是冲着他来的</a></li>
 <li><a href="/sohnews/20240412/2024132.md">陈破空：中南海乱了！他下手清洗习家军。马英九返台后大笑！口误果然是故意。美军登船检查中国船。日相英文演讲惊国会。直播与互动：美东时间4月12日早9点、中港台4月12日晚9点</a></li>
+<li><a href="/comments/20240412/2024063.md">蔡慎坤：中共官场大震，人心惶惶，原是冲着他来的</a></li>
 <li><a href="/funmedia/20240412/2024049.md">第一批去埃及的中国人，已经被骗到快裸奔了</a></li>
 <li><a href="/comments/20240412/2024185.md">是治疗还是屠杀?化疗药品滴一滴在皮肤即灼伤，很长时间才好</a></li>
+<li><a href="/topimagenews/20240413/2024261.md">中美科技战升温 中共下令三大中资电信商 淘汰外国芯片</a></li>
 <li><a href="/comments/20240412/2024129.md">辛普森逃了刑事法庭 逃得了天理吗？</a></li>
 <li><a href="/lifebaike/20240412/2024053.md">别人请你吃饭，请牢记“三个不要”，否则人缘会越来越差</a></li>
 <li><a href="/finance/20240412/2024062.md">万科已抓了这么多人？各城市老总，今夜注定失眠</a></li>
 <li><a href="/topimagenews/20240412/2024000.md">每平降3千 武汉楼盘老业主怒砸售楼部</a></li>
-<li><a href="/topimagenews/20240413/2024261.md">中美科技战升温 中共下令三大中资电信商 淘汰外国芯片</a></li>
-<li><a href="/headline/20240412/2024175.md">日经：唐一军被查反映房地产危机波及习近平核心圈</a></li>
 <li><a href="/cnnews/20240413/2024270.md">接电话被问“听得到吗”专家：出声就惨了</a></li>
+<li><a href="/headline/20240412/2024175.md">日经：唐一军被查反映房地产危机波及习近平核心圈</a></li>
+<li><a href="/cbnews/20240412/2024048.md">江峰：马习会：习近平露怯，马英九泄密，中共自家人红媒也被驱逐离场；日美军这一动作六十年来首次，重击中共军事扩张；美日菲重大军事同盟，进一步收紧第一岛链【江峰漫谈20240411第852期】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240413/2024444.md" target="_blank">从内蒙古炸射靶场 看解放军攻台战术 &#8211; 兵家常事</a></li>
+<li><a href="/comments/20240413/2024430.md" target="_blank">分享机会 传播爱心 ——不同的人不同解读演艺</a></li>
 <li><a href="/comments/20240413/2024426.md" target="_blank">天亮时分：伊朗报复以色列，中东战争一触即发？出口大降7.5%，习近平新质生产力遇挫；“消A”行动紧锣密鼓，2027是大限（政论天下第1280集 20240412）天亮时分</a></li>
 <li><a href="/comments/20240413/2024409.md" target="_blank">【毛宁怒怼 #美日菲峰会】 #域外国家 说谁呢？</a></li>
 <li><a href="/comments/20240413/2024408.md" target="_blank">【国民党副主席访美：台美关系没有最好，只有更好】</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240412/2024179.md" target="_blank">300万人证实：日食找回人最缺失的部分！太阳对应一切！末日、凶险天象、战争⋯｜未解之谜 扶摇</a></li>
 <li><a href="/comments/20240412/2024170.md" target="_blank">新冠调查获新线索，福奇暗通中情局？封口费案律师开口，川普感谢。共和党使出杀手锏，逼舒默弹劾马约卡斯。川普封口费福奇</a></li>
 <li><a href="/comments/20240412/2024143.md" target="_blank">美国“宁可放走3000，也不能枉判一个”的原因</a></li>
-<li><a href="/comments/20240412/2024138.md" target="_blank">【岸田文雄于美国国会发表演说】【赞扬美国并批评独裁国家】【日本准备好与美国一同承担国际责任】</a></li>
-<li><a href="/comments/20240412/2024129.md" target="_blank">辛普森逃了刑事法庭 逃得了天理吗？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/comments/20231201/1968320.md" target="_blank">【非凡新闻】结合中西文化精神 美国神韵表演吸睛</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
+<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
 
 </ul>
 </div>
