@@ -9,25 +9,25 @@
 <li><a href="/sohnews/20240413/2024531.md">🔥🔥突发❗西藏被镇压 打死20多名学生❗帕克预测“西藏会独立”或将应验❓</a></li>
 <li><a href="/ssgc/20240413/2024563.md">赵乐际是不是严重腐败分子？</a></li>
 <li><a href="/comments/20240414/2024686.md">周晓辉：中共七常委腐败与隐匿财富或要被美曝光</a></li>
-<li><a href="/topimagenews/20240413/2024519.md">俄猛造武器攻乌克兰 中共帮了大忙 “恢复”到攻乌前水平</a></li>
 <li><a href="/sohnews/20240413/2024569.md">陈破空：有二心？蔡奇瞪视老习镜头疯传！李强被限制外事活动。赵乐际突访北朝鲜。美日菲联盟抗中，党媒惊呼太过分！突发：伊朗即将进攻以色列？直播与互动：美东时间4月13日早9点、中港台4月13日晚9点</a></li>
-<li><a href="/cbnews/20240413/2024577.md">中美战争“已经开打”</a></li>
 <li><a href="/topimagenews/20240414/2024726.md">突发：约旦对以色列战斗机开放领空</a></li>
+<li><a href="/cbnews/20240413/2024577.md">中美战争“已经开打”</a></li>
 <li><a href="/ccpdope/20240414/2024632.md">中共高官频死亡 医生遭封口</a></li>
 <li><a href="/topimagenews/20240414/2024690.md">习近平“逆天”长高还一年一公分？网友比对马习一、二会眼尖发现这“惊喜”</a></li>
 <li><a href="/lifebaike/20240413/2024533.md">一个人靠不靠谱，就看这9个细节</a></li>
-<li><a href="/cbnews/20240414/2024691.md">开保时捷撞特斯拉 浙江女呛“揍死你也就90万”</a></li>
-<li><a href="/cnnews/20240414/2024698.md">中国骑士坠崖临死抓垫背影片疯传 后续情况曝光</a></li>
-<li><a href="/comments/20240414/2024674.md">金正恩在赵乐际访问朝鲜的最后一天与他见了面</a></li>
 <li><a href="/topimagenews/20240414/2024745.md">中共政权崩塌凶兆！这些危险的邪气在中国蔓延…</a></li>
+<li><a href="/cbnews/20240414/2024691.md">开保时捷撞特斯拉 浙江女呛“揍死你也就90万”</a></li>
+<li><a href="/comments/20240414/2024674.md">金正恩在赵乐际访问朝鲜的最后一天与他见了面</a></li>
+<li><a href="/cnnews/20240414/2024698.md">中国骑士坠崖临死抓垫背影片疯传 后续情况曝光</a></li>
 <li><a href="/baitai/20240413/2024538.md">别在小事上过度消耗孩子</a></li>
 <li><a href="/headline/20240414/2024689.md">伊朗对以色列发动第一波无人机和导弹袭击</a></li>
-<li><a href="/topimagenews/20240413/2024518.md">普京的私房钱危险了</a></li>
-<li><a href="/cbnews/20240414/2024678.md">华为突发首款新品“叫阵” 美与中共竞争特设委员会主席震惊愤怒</a></li>
 <li><a href="/topimagenews/20240414/2024746.md">为什么会这样？病亡密集 中国老百姓免疫力突降太危险</a></li>
+<li><a href="/cbnews/20240414/2024678.md">华为突发首款新品“叫阵” 美与中共竞争特设委员会主席震惊愤怒</a></li>
 <li><a href="/topimagenews/20240414/2024677.md">下把镰刀挥向哪？富人们担心的事儿，一个个来了;祸害世界！中共抛出惊人数字</a></li>
 <li><a href="/cnnews/20240413/2024587.md">这个邻国4年内取代中国 成全球经济火车头</a></li>
 <li><a href="/sohnews/20240413/2024526.md">黄金、大宗暴涨。伊朗即将攻击以色列？以色列如果对决伊朗胜算几何？约书亚的预言又在应验？</a></li>
+<li><a href="/topimagenews/20240414/2024758.md">都在假装不知道？女网红道歉 全网表态太意外</a></li>
+<li><a href="/cbnews/20240414/2024688.md">江峰：美日军队这个动作，意味着随时可对中共开战了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/cbnews/20190701/1151453.md" target="_blank">盘点十大邪教特征 中共条条对号入座</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
-<li><a href="/comments/20240318/2014289.md" target="_blank">唐柏桥：民运同仁突然向法轮功开火是怎么回事？</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/comments/20231207/1970628.md" target="_blank">民兵对官军，希望之声打造广播界的奇蹟【方伟时间-20231206】</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/comments/20231203/1969183.md" target="_blank">开盖冲马桶 ，细菌会乱飞？除非你家马桶是喷泉！</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
 
 </ul>
 </div>
