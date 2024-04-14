@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/ccpdope/20240413/2024511.md">蔡奇以中央办公厅名义发《通知》 习近平大怒？</a></li>
 <li><a href="/cnnews/20240413/2024586.md">为何李克强必须死？ 早被列入预备死亡名单</a></li>
 <li><a href="/sohnews/20240413/2024531.md">🔥🔥突发❗西藏被镇压 打死20多名学生❗帕克预测“西藏会独立”或将应验❓</a></li>
 <li><a href="/ssgc/20240413/2024563.md">赵乐际是不是严重腐败分子？</a></li>
@@ -17,17 +16,18 @@
 <li><a href="/ccpdope/20240414/2024632.md">中共高官频死亡 医生遭封口</a></li>
 <li><a href="/lifebaike/20240413/2024533.md">一个人靠不靠谱，就看这9个细节</a></li>
 <li><a href="/topimagenews/20240414/2024690.md">习近平“逆天”长高还一年一公分？网友比对马习一、二会眼尖发现这“惊喜”</a></li>
-<li><a href="/cbnews/20240413/2024507.md">江峰：惊！习近平上台第一年便做与美全面脱钩的计画，为台湾与中美之战做准备，所有烂尾荒唐之事全都源於此项工程！大陆民众只知耶伦“美食之旅”，不晓她来发出警告【江峰漫谈20240412第853期】</a></li>
-<li><a href="/finance/20240413/2024509.md">经销商急了 茅台价格逼近“生死线”</a></li>
 <li><a href="/cbnews/20240414/2024691.md">开保时捷撞特斯拉 浙江女呛“揍死你也就90万”</a></li>
 <li><a href="/comments/20240414/2024674.md">金正恩在赵乐际访问朝鲜的最后一天与他见了面</a></li>
 <li><a href="/baitai/20240413/2024538.md">别在小事上过度消耗孩子</a></li>
 <li><a href="/cnnews/20240414/2024698.md">中国骑士坠崖临死抓垫背影片疯传 后续情况曝光</a></li>
-<li><a href="/cbnews/20240413/2024508.md">中国女司机撞倒51岁女子 倒车反复辗压致死</a></li>
+<li><a href="/topimagenews/20240414/2024745.md">中共政权崩塌凶兆！这些危险的邪气在中国蔓延…</a></li>
 <li><a href="/headline/20240414/2024689.md">伊朗对以色列发动第一波无人机和导弹袭击</a></li>
 <li><a href="/topimagenews/20240413/2024518.md">普京的私房钱危险了</a></li>
-<li><a href="/topimagenews/20240414/2024745.md">中共政权崩塌凶兆！这些危险的邪气在中国蔓延…</a></li>
 <li><a href="/cbnews/20240414/2024678.md">华为突发首款新品“叫阵” 美与中共竞争特设委员会主席震惊愤怒</a></li>
+<li><a href="/topimagenews/20240414/2024746.md">为什么会这样？病亡密集 中国老百姓免疫力突降太危险</a></li>
+<li><a href="/cnnews/20240413/2024587.md">这个邻国4年内取代中国 成全球经济火车头</a></li>
+<li><a href="/topimagenews/20240414/2024677.md">下把镰刀挥向哪？富人们担心的事儿，一个个来了;祸害世界！中共抛出惊人数字</a></li>
+<li><a href="/sohnews/20240413/2024526.md">黄金、大宗暴涨。伊朗即将攻击以色列？以色列如果对决伊朗胜算几何？约书亚的预言又在应验？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/taiwannews/20210119/1470761.md" target="_blank">独家：震撼纪录片《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
 <li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20231220/1976789.md" target="_blank">大陆医生曝：九价HPV疫苗导致怀孕能力下降40%</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/comments/20231201/1968320.md" target="_blank">【非凡新闻】结合中西文化精神 美国神韵表演吸睛</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20230920/1936271.md" target="_blank">防止你的孩子不成功（5） &#8211;教育避坑指南</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/topimagenews/20180608/954788.md" target="_blank">安乐死根本安乐不了，别宣传了</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
 
 </ul>
 </div>
