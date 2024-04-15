@@ -16,17 +16,17 @@
 <li><a href="/sohnews/20240414/2024918.md">伊朗大举空袭以色列，战果震惊所有人！表演式袭击如何达成的？美以出现分歧，中东战争会升级吗？｜远见快评 唐靖远</a></li>
 <li><a href="/cbnews/20240415/2025106.md">〖红朝浮世绘〗吃瓜群众还没看到瓜呢就结束了 国际不想扩大战争</a></li>
 <li><a href="/sohnews/20240414/2024931.md">南京惊现奇怪离婚潮；中国卖房断崖式下跌；上海浮现十大怪象；中国电动车遥遥领先内幕；中国拉动经济的诡异模式｜时事金扫描金然</a></li>
-<li><a href="/topimagenews/20240415/2025083.md">做梦想不到！大数据权威：中国人口惊人真相【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240415/2025000.md">后果已经很严重！下一步经济灾难 还要中国百姓承担【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20240415/2025083.md">做梦想不到！大数据权威：中国人口惊人真相【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20240415/2025064.md">街道办主任出轨女医生，妻子将不雅记录群发…</a></li>
 <li><a href="/headline/20240415/2025033.md">朔尔茨取消在华旅游观光项目</a></li>
 <li><a href="/sohnews/20240415/2025021.md">胡春华被谁出卖了？国师狂言要“清场”，外资吓崩；统计局“露马脚”，真实出口数据惨跌！救经济就靠这？只剩“一张嘴”了！｜新闻五人行</a></li>
 <li><a href="/topimagenews/20240415/2025108.md">核污染远远大于想象！神秘、危险：东北附近54个核废料罐漂浮</a></li>
+<li><a href="/topimagenews/20240415/2025172.md">谁也没想到！终极格斗冠军一番话轰动网络 网友：史诗般的演讲【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240415/2025024.md">真相令人胆寒！被诅咒的医院？每出生10个新生儿有9个绝症</a></li>
 <li><a href="/comments/20240415/2025031.md">南京惊现奇怪离婚潮；上海浮现十大怪象；中国拉动经济的诡异模式｜对话金然方菲时间</a></li>
 <li><a href="/cnnews/20240415/2025038.md">高校干部聚众淫乱？中国大学何以沦为桃色灾区</a></li>
 <li><a href="/baitai/20240415/2024987.md">如何清除洗衣机胶圈里面的黑霉菌</a></li>
-<li><a href="/baitai/20240414/2024939.md">市值曾达490亿影娱巨头银行账户仅剩371元 破产前实控人套现44.5亿元神秘失踪</a></li>
 <li><a href="/cbnews/20240415/2025057.md">浙江一男子锤击3警察，网友竟一边倒同情行凶者</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240415/2025266.md" target="_blank">周一川普总统面临审判 他多大可能会被定罪？【方伟时间-20240415】</a></li>
 <li><a href="/comments/20240415/2025211.md" target="_blank">两个粒子，搅乱地球！物理学走到终点，竟是这⋯众多眼睛汇聚成一只大眼睛！一粒沙里，藏三千大千世界！微宇宙、另外空间⋯《三体》上：地球往事。｜未解之谜 扶摇</a></li>
 <li><a href="/cbnews/20240415/2025189.md" target="_blank">出大事？传万科所有集团副总及以上级别都被边控</a></li>
 <li><a href="/cbnews/20240415/2025114.md" target="_blank">马英九口中的“中国人”是谁？</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20240414/2024670.md" target="_blank">专访李酉潭：马英九混淆自由与暴政；应对地震展现台湾韧性，主权在民是基础 ｜方菲时间</a></li>
 <li><a href="/comments/20240413/2024609.md" target="_blank">议长约翰逊突然南下见川普，真正原因揭秘，事关二核心问题。媒体集体低估了约翰逊和川普的智慧。美国大选川普约翰逊</a></li>
 <li><a href="/comments/20240413/2024581.md" target="_blank">为什么加州游民是一个无解的问题？</a></li>
-<li><a href="/cbnews/20240413/2024577.md" target="_blank">中美战争“已经开打”</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240415/2025266.md" target="_blank">周一川普总统面临审判 他多大可能会被定罪？【方伟时间-20240415】</a></li>
 <li><a href="/comments/20240415/2025251.md" target="_blank">了解愤怒的10个要点 你会怒气全消</a></li>
 <li><a href="/comments/20240415/2025250.md" target="_blank">太阳在不断膨胀 科学家发出警告</a></li>
 <li><a href="/comments/20240415/2025232.md" target="_blank">23条后首个国安教育日全城“洗脑” 夏宝龙：让那些见不得香港好的人去哀鸣</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240414/2024917.md" target="_blank">秦皇岛“黑游船”翻船12死 游客都没救生衣</a></li>
 <li><a href="/comments/20240414/2024916.md" target="_blank">澳洲邦迪购物中心一男子持刀砍死6人 被女警击毙</a></li>
 <li><a href="/comments/20240414/2024915.md" target="_blank">【大宇拍案惊奇】中国房市怎么被玩烂的？万科也终被弃</a></li>
-<li><a href="/comments/20240414/2024909.md" target="_blank">伊朗空袭以色列，拜登两大因素曝光，川普痛斥拜登。中共干预加拿大选举，为美国敲响警钟。特鲁多受益不认账。美国大选特鲁多川普</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
 
 </ul>
 </div>
