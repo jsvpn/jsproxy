@@ -6,7 +6,6 @@
 <ul>
 
 <li><a href="/baitai/20240414/2024919.md">网爆国企央企工程没人敢接 真相让人傻眼 更惨情况将至？</a></li>
-<li><a href="/cbnews/20240414/2024894.md">“扶大厦之将倾”习五大吹鼓手剧丑登场 有人高级黑？</a></li>
 <li><a href="/topimagenews/20240415/2024993.md">中国电动车品牌全军覆灭！很明确的信号，中央要搞历史性大动作【阿波罗网报道】</a></li>
 <li><a href="/comments/20240414/2024938.md">【秦鹏观察】中国名画家范曾86岁娶36岁娇妻 真相翻转</a></li>
 <li><a href="/topimagenews/20240415/2024991.md">中南海内人成鬼！习左膀右臂2奴才惨了 【阿波罗网报道】</a></li>
@@ -14,20 +13,21 @@
 <li><a href="/yule/20240414/2024899.md">美成蛇妖？42岁范冰冰亮相 穿泰服坐三蹦子</a></li>
 <li><a href="/topimagenews/20240415/2025034.md">看看现在的年轻人，上海人太心疼了…</a></li>
 <li><a href="/topimagenews/20240415/2025008.md">又又突破历史新高！北京二手房：卖不完，根本卖不完…</a></li>
-<li><a href="/sohnews/20240414/2024918.md">伊朗大举空袭以色列，战果震惊所有人！表演式袭击如何达成的？美以出现分歧，中东战争会升级吗？｜远见快评 唐靖远</a></li>
 <li><a href="/topimagenews/20240415/2025125.md">惊呆了！伊朗演了一场很壮观的戏</a></li>
+<li><a href="/sohnews/20240414/2024918.md">伊朗大举空袭以色列，战果震惊所有人！表演式袭击如何达成的？美以出现分歧，中东战争会升级吗？｜远见快评 唐靖远</a></li>
 <li><a href="/cbnews/20240415/2025106.md">〖红朝浮世绘〗吃瓜群众还没看到瓜呢就结束了 国际不想扩大战争</a></li>
 <li><a href="/topimagenews/20240415/2025083.md">做梦想不到！大数据权威：中国人口惊人真相【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240415/2025000.md">后果已经很严重！下一步经济灾难 还要中国百姓承担【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20240415/2025064.md">街道办主任出轨女医生，妻子将不雅记录群发…</a></li>
 <li><a href="/sohnews/20240414/2024931.md">南京惊现奇怪离婚潮；中国卖房断崖式下跌；上海浮现十大怪象；中国电动车遥遥领先内幕；中国拉动经济的诡异模式｜时事金扫描金然</a></li>
+<li><a href="/cnnews/20240415/2025064.md">街道办主任出轨女医生，妻子将不雅记录群发…</a></li>
 <li><a href="/headline/20240415/2025033.md">朔尔茨取消在华旅游观光项目</a></li>
-<li><a href="/sohnews/20240414/2024897.md">陈破空：内幕：习与外商闭门对谈，众人皆失望而去！他绝不改变。非得架空李强不可？引领党内新常态：官场齐齐躺平。直播：美东时间4月14日早9点、中港台4月14日晚9点</a></li>
 <li><a href="/sohnews/20240415/2025021.md">胡春华被谁出卖了？国师狂言要“清场”，外资吓崩；统计局“露马脚”，真实出口数据惨跌！救经济就靠这？只剩“一张嘴”了！｜新闻五人行</a></li>
 <li><a href="/topimagenews/20240415/2025024.md">真相令人胆寒！被诅咒的医院？每出生10个新生儿有9个绝症</a></li>
-<li><a href="/baitai/20240414/2024895.md">悬赏50万 征中央音乐学院管弦系主任嫖娼、包养情妇证据 学校回应遭网民回击</a></li>
-<li><a href="/comments/20240415/2025031.md">南京惊现奇怪离婚潮；上海浮现十大怪象；中国拉动经济的诡异模式｜对话金然方菲时间</a></li>
 <li><a href="/topimagenews/20240415/2025108.md">核污染远远大于想象！神秘、危险：东北附近54个核废料罐漂浮</a></li>
+<li><a href="/comments/20240415/2025031.md">南京惊现奇怪离婚潮；上海浮现十大怪象；中国拉动经济的诡异模式｜对话金然方菲时间</a></li>
+<li><a href="/baitai/20240415/2024987.md">如何清除洗衣机胶圈里面的黑霉菌</a></li>
+<li><a href="/cnnews/20240415/2025038.md">高校干部聚众淫乱？中国大学何以沦为桃色灾区</a></li>
+<li><a href="/baitai/20240414/2024939.md">市值曾达490亿影娱巨头银行账户仅剩371元 破产前实控人套现44.5亿元神秘失踪</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240415/2025232.md" target="_blank">23条后首个国安教育日全城“洗脑” 夏宝龙：让那些见不得香港好的人去哀鸣</a></li>
 <li><a href="/comments/20240415/2025211.md" target="_blank">两个粒子，搅乱地球！物理学走到终点，竟是这⋯众多眼睛汇聚成一只大眼睛！一粒沙里，藏三千大千世界！微宇宙、另外空间⋯《三体》上：地球往事。｜未解之谜 扶摇</a></li>
 <li><a href="/comments/20240415/2025197.md" target="_blank">【夏宝龙:香港的发展不是螳臂蝇腿能阻挡 让那些见不得香港好的人去哀鸣吧】</a></li>
 <li><a href="/comments/20240415/2025127.md" target="_blank">岸田首相如何打动美国人？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240414/2024909.md" target="_blank">伊朗空袭以色列，拜登两大因素曝光，川普痛斥拜登。中共干预加拿大选举，为美国敲响警钟。特鲁多受益不认账。美国大选特鲁多川普</a></li>
 <li><a href="/comments/20240414/2024905.md" target="_blank">天亮时分：伤敌800自损1000的神秘79号文件</a></li>
 <li><a href="/comments/20240414/2024890.md" target="_blank">美国红卫兵打倒美国当权派</a></li>
-<li><a href="/comments/20240414/2024874.md" target="_blank">【上国 HangTown】 &#8211; 漫画家大雄原创音乐MV 一睹天朝上国「风采」 | 2024最新流行音乐必听</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
+<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
+<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20240318/2014289.md" target="_blank">唐柏桥：民运同仁突然向法轮功开火是怎么回事？</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
 <li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20240116/1984226.md" target="_blank">湖北老河口遇仙记</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
+<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
 
 </ul>
 </div>
