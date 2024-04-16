@@ -16,16 +16,16 @@
 <li><a href="/lifebaike/20240415/2025276.md">有这4个举动的人，多半不是好人</a></li>
 <li><a href="/comments/20240415/2025317.md">天亮时分：中共七常委腐败调查报告</a></li>
 <li><a href="/sohnews/20240415/2025252.md">文睿：终于，保时捷回应了，小米雷军，你的脸往哪儿放？</a></li>
-<li><a href="/funmedia/20240415/2025126.md">我见过情商最高的人：不讲道理，不辩对错</a></li>
 <li><a href="/topimagenews/20240416/2025406.md">乱了以后无法预测…习出事？中国经济最乐观前景【阿波罗网报道】</a></li>
+<li><a href="/funmedia/20240415/2025126.md">我见过情商最高的人：不讲道理，不辩对错</a></li>
 <li><a href="/health/20240415/2025165.md">硒是洋葱的30倍，正大量上市！中老年一周吃2次，更显年轻少生病</a></li>
 <li><a href="/topimagenews/20240416/2025388.md">乌军“风暴阴影”导弹轰俄工厂 尸袋成堆</a></li>
 <li><a href="/baitai/20240416/2025351.md">中国高校再传悲剧 因一条鱼害死一名女大学生 校方态度激怒网民</a></li>
-<li><a href="/ccpdope/20240416/2025347.md">中共海警船被菲海巡艇撞破洞 侮辱极强</a></li>
 <li><a href="/baitai/20240416/2025384.md">反转！ 传访民们擒获4进京截访人员 网络一片叫好</a></li>
+<li><a href="/ccpdope/20240416/2025347.md">中共海警船被菲海巡艇撞破洞 侮辱极强</a></li>
+<li><a href="/headline/20240416/2025383.md">最新报告：中共镇压“新黑五类”，残酷“株连”家人</a></li>
 <li><a href="/cnnews/20240415/2025175.md">全美12家主流媒体联合声明 要求拜登和川普…</a></li>
 <li><a href="/ccpdope/20240415/2025138.md">错认太子 密信遭泄 李强与内阁关系现异常 中共国安高调炫特权</a></li>
-<li><a href="/headline/20240416/2025383.md">最新报告：中共镇压“新黑五类”，残酷“株连”家人</a></li>
 <li><a href="/sohnews/20240415/2025249.md">谁是输家？拜登出钱伊朗表演，以色列完美配合，戏演完鸣金收兵，两国韭菜很开心……</a></li>
 <li><a href="/lifebaike/20240415/2025173.md">马桶万一堵塞不用急，一个塑料袋就能轻松搞定，别再花钱请人掏了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -66,6 +66,8 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240416/2025510.md" target="_blank">真的吗，中共用它取代房地产？</a></li>
+<li><a href="/topimagenews/20240416/2025509.md" target="_blank">北京罕见举动证明 人民币贬值迫在眉睫</a></li>
 <li><a href="/topimagenews/20240416/2025502.md" target="_blank">裁员裁到大动脉！中共国安抓间谍 评论区大翻车【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240416/2025501.md" target="_blank">乌克兰亮最后底牌？</a></li>
 <li><a href="/topimagenews/20240416/2025500.md" target="_blank">德总理访华团私密信息：去过中国的手机事后予以报废？</a></li>
@@ -89,8 +91,6 @@
 <li><a href="/topimagenews/20240415/2025056.md" target="_blank">在家躺平 照样收割到你！陆换气表后利润飙升824%</a></li>
 <li><a href="/topimagenews/20240415/2025055.md" target="_blank">看了范曾大师的百度百科，我笑出猪叫</a></li>
 <li><a href="/topimagenews/20240415/2025034.md" target="_blank">看看现在的年轻人，上海人太心疼了…</a></li>
-<li><a href="/topimagenews/20240415/2025025.md" target="_blank">在中共被封杀后：自由、热烈、无禁忌地写作</a></li>
-<li><a href="/topimagenews/20240415/2025024.md" target="_blank">真相令人胆寒！被诅咒的医院？每出生10个新生儿有9个绝症</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
-<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
 <li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20231220/1976683.md" target="_blank">医山夜话：张锡纯医案解读（二）根治胃气不降之证</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
 
 </ul>
 </div>
