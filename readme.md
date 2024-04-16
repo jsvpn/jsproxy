@@ -6,7 +6,6 @@
 <ul>
 
 <li><a href="/topimagenews/20240416/2025407.md">比想像的更严重！习近平导师： 中国大规模集中消费时代结束</a></li>
-<li><a href="/yule/20240416/2025391.md">港媒有意关掉美颜 35岁杨颖翻车了</a></li>
 <li><a href="/sports/20240416/2025475.md">中国田径女神穿“高衩三角裤”夺金 网批会走光</a></li>
 <li><a href="/cbnews/20240416/2025619.md">胡春华被打入冷宫内情 犯了习大忌</a></li>
 <li><a href="/topimagenews/20240416/2025406.md">乱了以后无法预测…习出事？中国经济最乐观前景【阿波罗网报道】</a></li>
@@ -19,15 +18,16 @@
 <li><a href="/topimagenews/20240416/2025598.md">中国房地产 最新传来的又是坏消息</a></li>
 <li><a href="/topimagenews/20240416/2025444.md">感谢酷吏蔡奇的八辈祖先 我来到了日本</a></li>
 <li><a href="/comments/20240416/2025655.md">一张照片曝光 北京的脸丢尽了</a></li>
-<li><a href="/cbnews/20240416/2025522.md">〖红朝浮世绘〗香港繁荣不再 夏宝龙放狠话自演自嗨</a></li>
 <li><a href="/cbnews/20240416/2025618.md">尴尬一幕 德国总理在同济被提问 现在同济水平那么差?</a></li>
+<li><a href="/cbnews/20240416/2025522.md">〖红朝浮世绘〗香港繁荣不再 夏宝龙放狠话自演自嗨</a></li>
 <li><a href="/topimagenews/20240416/2025510.md">真的吗，中共用它取代房地产？</a></li>
 <li><a href="/baitai/20240416/2025470.md">雪崩式裁员开始 习近平的大招令人担忧</a></li>
 <li><a href="/cnnews/20240416/2025603.md">北京话音未落 股市转眼跌成这惨样</a></li>
 <li><a href="/topimagenews/20240416/2025502.md">裁员裁到大动脉！中共国安抓间谍 评论区大翻车【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20240416/2025517.md">中共官员太狠了！安徽1400万人民币工程竟被污走1300万</a></li>
 <li><a href="/ccpdope/20240416/2025722.md">美将曝光中共七常委财产</a></li>
-<li><a href="/topimagenews/20240416/2025388.md">乌军“风暴阴影”导弹轰俄工厂 尸袋成堆</a></li>
+<li><a href="/topimagenews/20240416/2025517.md">中共官员太狠了！安徽1400万人民币工程竟被污走1300万</a></li>
+<li><a href="/cbnews/20240416/2025513.md">江峰：美国情报部门锁定包括习近平在内的政治局委员和29省省委书记的海外资产和腐败，并列入国会法案，备案精准打击！ 伊朗空袭以色列输得很惨，中式武器如此不堪！【江峰漫谈20240415第854期】</a></li>
+<li><a href="/lifebaike/20240416/2025657.md">周恩来3个貌美如花的干女儿 却都不得善终</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
 <li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
-<li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
 <li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20231130/1967587.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （一）</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
 
 </ul>
 </div>
