@@ -5,9 +5,8 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/topimagenews/20240415/2025125.md">惊呆了！伊朗演了一场很壮观的戏</a></li>
-<li><a href="/topimagenews/20240415/2025172.md">谁也没想到！终极格斗冠军一番话轰动网络 网友：史诗般的演讲【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20240415/2025155.md">中共七常委腐败与隐匿财富或被美曝光</a></li>
+<li><a href="/topimagenews/20240415/2025172.md">谁也没想到！终极格斗冠军一番话轰动网络 网友：史诗般的演讲【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20240415/2025189.md">出大事？传万科所有集团副总及以上级别都被边控</a></li>
 <li><a href="/cnnews/20240415/2025193.md">苹果出新政，被盗的iPhone将一文不值 ...</a></li>
 <li><a href="/comments/20240415/2025275.md">中国社会正在加速黑化</a></li>
@@ -15,19 +14,20 @@
 <li><a href="/yule/20240416/2025391.md">港媒有意关掉美颜 35岁杨颖翻车了</a></li>
 <li><a href="/lifebaike/20240415/2025276.md">有这4个举动的人，多半不是好人</a></li>
 <li><a href="/comments/20240415/2025317.md">天亮时分：中共七常委腐败调查报告</a></li>
-<li><a href="/sohnews/20240415/2025252.md">文睿：终于，保时捷回应了，小米雷军，你的脸往哪儿放？</a></li>
 <li><a href="/topimagenews/20240416/2025406.md">乱了以后无法预测…习出事？中国经济最乐观前景【阿波罗网报道】</a></li>
-<li><a href="/funmedia/20240415/2025126.md">我见过情商最高的人：不讲道理，不辩对错</a></li>
-<li><a href="/topimagenews/20240416/2025388.md">乌军“风暴阴影”导弹轰俄工厂 尸袋成堆</a></li>
+<li><a href="/sohnews/20240415/2025252.md">文睿：终于，保时捷回应了，小米雷军，你的脸往哪儿放？</a></li>
 <li><a href="/health/20240415/2025165.md">硒是洋葱的30倍，正大量上市！中老年一周吃2次，更显年轻少生病</a></li>
+<li><a href="/topimagenews/20240416/2025388.md">乌军“风暴阴影”导弹轰俄工厂 尸袋成堆</a></li>
 <li><a href="/baitai/20240416/2025384.md">反转！ 传访民们擒获4进京截访人员 网络一片叫好</a></li>
-<li><a href="/baitai/20240416/2025351.md">中国高校再传悲剧 因一条鱼害死一名女大学生 校方态度激怒网民</a></li>
 <li><a href="/headline/20240416/2025383.md">最新报告：中共镇压“新黑五类”，残酷“株连”家人</a></li>
+<li><a href="/baitai/20240416/2025351.md">中国高校再传悲剧 因一条鱼害死一名女大学生 校方态度激怒网民</a></li>
 <li><a href="/ccpdope/20240416/2025347.md">中共海警船被菲海巡艇撞破洞 侮辱极强</a></li>
+<li><a href="/topimagenews/20240416/2025444.md">感谢酷吏蔡奇的八辈祖先 我来到了日本</a></li>
 <li><a href="/cnnews/20240415/2025175.md">全美12家主流媒体联合声明 要求拜登和川普…</a></li>
 <li><a href="/ccpdope/20240415/2025138.md">错认太子 密信遭泄 李强与内阁关系现异常 中共国安高调炫特权</a></li>
 <li><a href="/topimagenews/20240416/2025405.md">打倒共产党！中国潜藏着如此强大的力量【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20240416/2025444.md">感谢酷吏蔡奇的八辈祖先 我来到了日本</a></li>
+<li><a href="/ccpdope/20240415/2025130.md">另类政府杀人! 重庆一家上吊拆穿「经济光明论」</a></li>
+<li><a href="/sohnews/20240415/2025249.md">谁是输家？拜登出钱伊朗表演，以色列完美配合，戏演完鸣金收兵，两国韭菜很开心……</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240416/2025522.md" target="_blank">〖红朝浮世绘〗香港繁荣不再 夏宝龙放狠话自演自嗨</a></li>
 <li><a href="/cbnews/20240416/2025518.md" target="_blank">山东汉称金戒指落河3年 1千元聘潜水员成功捞回</a></li>
 <li><a href="/cbnews/20240416/2025513.md" target="_blank">江峰：美国情报部门锁定包括习近平在内的政治局委员和29省省委书记的海外资产和腐败，并列入国会法案，备案精准打击！ 伊朗空袭以色列输得很惨，中式武器如此不堪！【江峰漫谈20240415第854期】</a></li>
 <li><a href="/cbnews/20240416/2025473.md" target="_blank">到美国陪孩子？万科否认高层出逃</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20240414/2024782.md" target="_blank">【杰森视角】拜登政府对伊朗报复以色列的态度发生突变！ 谁在逼乌克兰上谈判桌？ 俄军恢复元气的速度惊人！ 美精准预报伊朗攻击时间有内幕！ 中东冲突会升级吗？ 当代世界最关键的博弈还不是这两场战争！</a></li>
 <li><a href="/comments/20240414/2024779.md" target="_blank">法学院院长被批判 美国也出红卫兵小将</a></li>
 <li><a href="/cbnews/20240414/2024739.md" target="_blank">江峰：东大厅可不是给马英九元首待遇，这一招可太阴损了</a></li>
-<li><a href="/cbnews/20240414/2024691.md" target="_blank">开保时捷撞特斯拉 浙江女呛“揍死你也就90万”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/comments/20231207/1970628.md" target="_blank">民兵对官军，希望之声打造广播界的奇蹟【方伟时间-20231206】</a></li>
-<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
 <li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20231220/1976683.md" target="_blank">医山夜话：张锡纯医案解读（二）根治胃气不降之证</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
 
 </ul>
 </div>
