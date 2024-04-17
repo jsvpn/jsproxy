@@ -10,8 +10,8 @@
 <li><a href="/topimagenews/20240417/2025880.md">整个亚洲最怕的事要来了</a></li>
 <li><a href="/topimagenews/20240417/2025876.md">铁拳再现！中共将禁止公布这些数据</a></li>
 <li><a href="/topimagenews/20240417/2026057.md">北京没料到 反噬这么快来了</a></li>
-<li><a href="/ccpdope/20240417/2025781.md">新「国九条」引发股灾 股民哀嚎「海啸要来了」</a></li>
 <li><a href="/topimagenews/20240417/2025976.md">传北京欲收购全国烂尾楼 背后目的曝光</a></li>
+<li><a href="/ccpdope/20240417/2025781.md">新「国九条」引发股灾 股民哀嚎「海啸要来了」</a></li>
 <li><a href="/topimagenews/20240417/2026064.md">前所未见 一股“神秘”强大力量席卷全球</a></li>
 <li><a href="/topimagenews/20240417/2025879.md">学区房，雪崩了 四大一线城市无一幸免</a></li>
 <li><a href="/cnnews/20240417/2026062.md">北京扣动扳机 人民币贬值开始了</a></li>
@@ -20,12 +20,12 @@
 <li><a href="/topimagenews/20240417/2026058.md">美最新报告揭金正恩邪恶计划</a></li>
 <li><a href="/topimagenews/20240417/2025992.md">伊朗被中东这3国给卖了</a></li>
 <li><a href="/finance/20240417/2025869.md">谁也解决不了！中国产能过剩根源找到了</a></li>
-<li><a href="/cbnews/20240417/2025967.md">〖红朝浮世绘〗美国挠痒痒制裁中共，中共称美国在碰瓷</a></li>
 <li><a href="/finance/20240417/2026060.md">小学生习近平剩下的日子全靠它了</a></li>
-<li><a href="/ssgc/20240417/2025939.md">〖微博谈〗这是弯道超车</a></li>
+<li><a href="/cbnews/20240417/2025967.md">〖红朝浮世绘〗美国挠痒痒制裁中共，中共称美国在碰瓷</a></li>
 <li><a href="/funmedia/20240417/2025978.md">上海高端养老院一段偷拍视频曝光：当你老了，走不动了，真相可能比想象残忍</a></li>
-<li><a href="/cbnews/20240417/2025985.md">江峰：习近平更加惶恐：以色列完美击败中东恐怖大王伊朗，中国造闹笑话，导弹一半掉在自己国土；沙特、约旦不藏了，打伊朗我也有功！以伊空战台湾如何受益？【江峰漫谈20240416第855期】</a></li>
+<li><a href="/ssgc/20240417/2025939.md">〖微博谈〗这是弯道超车</a></li>
 <li><a href="/topimagenews/20240417/2025894.md">每天消失30家 “中国最具前途行业”太惨</a></li>
+<li><a href="/cbnews/20240417/2025985.md">江峰：习近平更加惶恐：以色列完美击败中东恐怖大王伊朗，中国造闹笑话，导弹一半掉在自己国土；沙特、约旦不藏了，打伊朗我也有功！以伊空战台湾如何受益？【江峰漫谈20240416第855期】</a></li>
 <li><a href="/cnnews/20240417/2025936.md">撤出中国，苹果跑的也太快了</a></li>
 <li><a href="/topimagenews/20240417/2026056.md">知名金融博客：第三世界大战将爆发？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
-<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
-<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
 <li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/aomi/life/20240330/2018911.md" target="_blank">挪威青年这样走出重度失眠和抑郁煎熬</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
 
 </ul>
 </div>
