@@ -9,25 +9,25 @@
 <li><a href="/sohnews/20240416/2025583.md">核弹级爆料：美国公布习和中央常委巨额财富，包括205名中央委员会及中共29个省委书记。《老灯开讲第535期》</a></li>
 <li><a href="/topimagenews/20240416/2025537.md">中共湖南书记放声大哭：这才是真正的有罪啊！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240416/2025654.md">不好，中国爆雷越来越密集了</a></li>
-<li><a href="/topimagenews/20240416/2025509.md">北京罕见举动证明 人民币贬值迫在眉睫</a></li>
 <li><a href="/topimagenews/20240416/2025634.md">人民币贬值信号！中共正在向现实低头</a></li>
 <li><a href="/topimagenews/20240416/2025598.md">中国房地产 最新传来的又是坏消息</a></li>
 <li><a href="/cbnews/20240416/2025618.md">尴尬一幕 德国总理在同济被提问 现在同济水平那么差?</a></li>
 <li><a href="/comments/20240416/2025655.md">一张照片曝光 北京的脸丢尽了</a></li>
 <li><a href="/cbnews/20240416/2025522.md">〖红朝浮世绘〗香港繁荣不再 夏宝龙放狠话自演自嗨</a></li>
 <li><a href="/ccpdope/20240416/2025722.md">美将曝光中共七常委财产</a></li>
-<li><a href="/topimagenews/20240416/2025510.md">真的吗，中共用它取代房地产？</a></li>
 <li><a href="/cnnews/20240416/2025603.md">北京话音未落 股市转眼跌成这惨样</a></li>
 <li><a href="/topimagenews/20240416/2025517.md">中共官员太狠了！安徽1400万人民币工程竟被污走1300万</a></li>
 <li><a href="/cbnews/20240416/2025513.md">江峰：美国情报部门锁定包括习近平在内的政治局委员和29省省委书记的海外资产和腐败，并列入国会法案，备案精准打击！ 伊朗空袭以色列输得很惨，中式武器如此不堪！【江峰漫谈20240415第854期】</a></li>
+<li><a href="/cnnews/20240417/2025853.md">胡春华有了“新职务”</a></li>
+<li><a href="/cnnews/20240417/2025825.md">解放军不再“为人民服务”？宣誓词改成“为中国共产党服务”</a></li>
 <li><a href="/topimagenews/20240416/2025596.md">90%的中国人很难躲过这些骗术</a></li>
 <li><a href="/lifebaike/20240416/2025657.md">周恩来3个貌美如花的干女儿 却都不得善终</a></li>
-<li><a href="/cnnews/20240417/2025853.md">胡春华有了“新职务”</a></li>
 <li><a href="/baitai/20240416/2025661.md">网络疯传男子怒吼「杀贪官驱污吏时刻到了」我给你们做一个先例</a></li>
-<li><a href="/cnnews/20240417/2025825.md">解放军不再“为人民服务”？宣誓词改成“为中国共产党服务”</a></li>
 <li><a href="/ccpdope/20240417/2025781.md">新「国九条」引发股灾 股民哀嚎「海啸要来了」</a></li>
 <li><a href="/topimagenews/20240416/2025597.md">2024年 中国经济回暖是绝无可能的</a></li>
 <li><a href="/sohnews/20240416/2025658.md">陈破空：核弹级爆料：美国将适时公布七常委贪腐！金正恩羞辱赵乐际。德国总理太单纯，这样回答同济大学学生提问。伊朗进攻完败，北京脸上无光。王毅出面安抚。直播与互动：美东时间4月16日早9点、中港台4月16日晚9点</a></li>
+<li><a href="/headline/20240417/2025760.md">习近平高规格接见德总理 突提「世界百年变局加速演进」</a></li>
+<li><a href="/topimagenews/20240417/2025880.md">整个亚洲最怕的事要来了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
-<li><a href="/taiwannews/20210119/1470761.md" target="_blank">独家：震撼纪录片《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20231223/1978148.md" target="_blank">医山夜话：张锡纯医案解读（三）赭石：降胃气 引火下行</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/comments/20240403/2020547.md" target="_blank">纪录片：DSM诊断与统计手册-精神病学最要命的骗局</a></li>
-<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
 <li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20231220/1976789.md" target="_blank">大陆医生曝：九价HPV疫苗导致怀孕能力下降40%</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
 
 </ul>
 </div>
