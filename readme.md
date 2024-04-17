@@ -5,11 +5,9 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/cbnews/20240416/2025619.md">胡春华被打入冷宫内情 犯了习大忌</a></li>
 <li><a href="/topimagenews/20240416/2025654.md">不好，中国爆雷越来越密集了</a></li>
 <li><a href="/topimagenews/20240416/2025634.md">人民币贬值信号！中共正在向现实低头</a></li>
 <li><a href="/comments/20240416/2025655.md">一张照片曝光 北京的脸丢尽了</a></li>
-<li><a href="/cbnews/20240416/2025618.md">尴尬一幕 德国总理在同济被提问 现在同济水平那么差?</a></li>
 <li><a href="/ccpdope/20240416/2025722.md">美将曝光中共七常委财产</a></li>
 <li><a href="/cnnews/20240417/2025853.md">胡春华有了“新职务”</a></li>
 <li><a href="/topimagenews/20240417/2025880.md">整个亚洲最怕的事要来了</a></li>
@@ -18,16 +16,18 @@
 <li><a href="/lifebaike/20240416/2025657.md">周恩来3个貌美如花的干女儿 却都不得善终</a></li>
 <li><a href="/baitai/20240416/2025661.md">网络疯传男子怒吼「杀贪官驱污吏时刻到了」我给你们做一个先例</a></li>
 <li><a href="/ccpdope/20240417/2025781.md">新「国九条」引发股灾 股民哀嚎「海啸要来了」</a></li>
-<li><a href="/topimagenews/20240417/2025879.md">学区房，雪崩了 四大一线城市无一幸免</a></li>
 <li><a href="/topimagenews/20240417/2025976.md">传北京欲收购全国烂尾楼 背后目的曝光</a></li>
-<li><a href="/topimagenews/20240417/2025867.md">听了王毅的话，以色列很失望</a></li>
 <li><a href="/headline/20240417/2025760.md">习近平高规格接见德总理 突提「世界百年变局加速演进」</a></li>
+<li><a href="/topimagenews/20240417/2025879.md">学区房，雪崩了 四大一线城市无一幸免</a></li>
+<li><a href="/topimagenews/20240417/2025867.md">听了王毅的话，以色列很失望</a></li>
 <li><a href="/sohnews/20240416/2025658.md">陈破空：核弹级爆料：美国将适时公布七常委贪腐！金正恩羞辱赵乐际。德国总理太单纯，这样回答同济大学学生提问。伊朗进攻完败，北京脸上无光。王毅出面安抚。直播与互动：美东时间4月16日早9点、中港台4月16日晚9点</a></li>
 <li><a href="/topimagenews/20240417/2025943.md">爆料重灾区！中共国牛奶科技狠活 看完吓呆</a></li>
 <li><a href="/sohnews/20240416/2025635.md">它逃出来了❗全球大地震只是开始 还有更恐怖的事发生❓❗</a></li>
 <li><a href="/finance/20240417/2025869.md">谁也解决不了！中国产能过剩根源找到了</a></li>
 <li><a href="/topimagenews/20240417/2025894.md">每天消失30家 “中国最具前途行业”太惨</a></li>
+<li><a href="/cbnews/20240417/2025967.md">〖红朝浮世绘〗美国挠痒痒制裁中共，中共称美国在碰瓷</a></li>
 <li><a href="/topimagenews/20240417/2025868.md">没它不行 中国悄悄接收波音737 MAX进入高潮</a></li>
+<li><a href="/topimagenews/20240417/2025881.md">伊朗飞弹攻击以色列 中国学者心惊肉跳</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240417/2026029.md" target="_blank">天亮时分：习近平头顶三把悬剑</a></li>
 <li><a href="/comments/20240417/2026028.md" target="_blank">【德国总理朔尔茨结束访中】【习近平拉拢朔尔茨在欧美间制造裂痕？】</a></li>
 <li><a href="/comments/20240417/2025980.md" target="_blank">王友群：当今中共最大的罪恶是什么？</a></li>
 <li><a href="/comments/20240417/2025962.md" target="_blank">震惊世界！美发射拦截导弹在外太空拦截伊朗弹道导弹</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240417/2025834.md" target="_blank">网海拾贝:中共国已经放出7只黑天鹅</a></li>
 <li><a href="/comments/20240417/2025833.md" target="_blank">石铭：中共张家口当局迫害法轮功仍特别严重</a></li>
 <li><a href="/comments/20240417/2025831.md" target="_blank">杨威：印太“小北约”现雏形 局势演变剖析</a></li>
-<li><a href="/comments/20240417/2025817.md" target="_blank">法国学者看美中一周活跃外交背后的较量</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20231130/1967587.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （一）</a></li>
 <li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/comments/20231207/1970628.md" target="_blank">民兵对官军，希望之声打造广播界的奇蹟【方伟时间-20231206】</a></li>
-<li><a href="/cbnews/20190701/1151453.md" target="_blank">盘点十大邪教特征 中共条条对号入座</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
+<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
+<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
 <li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/topimagenews/20180608/954788.md" target="_blank">安乐死根本安乐不了，别宣传了</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/tculture/20231217/1975364.md" target="_blank">医山夜话：张锡纯医案解读（1）根治失眠 思路清晰</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20231214/1974098.md" target="_blank">美国众议院议长：我所坚守的保守主义，具体是些什么内容？</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/comments/20231201/1968320.md" target="_blank">【非凡新闻】结合中西文化精神 美国神韵表演吸睛</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
 
 </ul>
 </div>
