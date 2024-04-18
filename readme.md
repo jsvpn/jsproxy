@@ -8,25 +8,25 @@
 <li><a href="/topimagenews/20240418/2026234.md">10亿人危在旦夕！北约警告：俄或对欧美开战</a></li>
 <li><a href="/baitai/20240418/2026189.md">民怨沸腾！「血战到底」！三天中国集体维权抗争达二十余起</a></li>
 <li><a href="/topimagenews/20240418/2026245.md">中国科技公司全面撤出美国</a></li>
+<li><a href="/headline/20240418/2026486.md">邓小平孙子邓卓棣任新职</a></li>
+<li><a href="/yule/20240418/2026325.md">看到现在80岁的郑少秋，你可能会吓得惊掉下巴</a></li>
 <li><a href="/topimagenews/20240418/2026271.md">朱镕基之子朱云来：经济增长要提高消费？不一定</a></li>
 <li><a href="/cnnews/20240418/2026308.md">固态电池 开始出现“人传人”现象</a></li>
-<li><a href="/yule/20240418/2026325.md">看到现在80岁的郑少秋，你可能会吓得惊掉下巴</a></li>
-<li><a href="/headline/20240418/2026486.md">邓小平孙子邓卓棣任新职</a></li>
-<li><a href="/topimagenews/20240418/2026354.md">以色列人被中共激怒：中国共产党正在推动核战争【阿波罗网报道】</a></li>
-<li><a href="/sohnews/20240418/2026214.md">美国正调查中共高层腐败和隐匿财富，一旦公布将带来史无前例冲击！中南海或发生内乱！大批银行高管也瑟瑟发抖？恒大董事长许家印被抓，供出的高管不乏判处S刑！</a></li>
 <li><a href="/baitai/20240418/2026512.md">传习近平机密军委会议说8个字 给台海定调</a></li>
+<li><a href="/sohnews/20240418/2026214.md">美国正调查中共高层腐败和隐匿财富，一旦公布将带来史无前例冲击！中南海或发生内乱！大批银行高管也瑟瑟发抖？恒大董事长许家印被抓，供出的高管不乏判处S刑！</a></li>
+<li><a href="/topimagenews/20240418/2026354.md">以色列人被中共激怒：中国共产党正在推动核战争【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20240418/2026279.md">突发：全球最大光刻机巨头爆雷 股价跳水</a></li>
 <li><a href="/cbnews/20240418/2026344.md">〖红朝浮世绘〗谁是中国最大的小偷？</a></li>
 <li><a href="/ssgc/20240418/2026208.md">新加坡总理李显龙5/15交棒 网友对比习近平终身制</a></li>
 <li><a href="/health/20240418/2026418.md">有一种鱼比三文鱼便宜太多了，还含有大量的DHA，被很多人忽略了</a></li>
-<li><a href="/topimagenews/20240418/2026456.md">在中国大裁员 马斯克改抱印度大腿 特斯拉将砸20亿设厂</a></li>
 <li><a href="/cbnews/20240418/2026470.md">深度揭秘：中共害怕香港的深层次根本原因</a></li>
+<li><a href="/topimagenews/20240418/2026456.md">在中国大裁员 马斯克改抱印度大腿 特斯拉将砸20亿设厂</a></li>
 <li><a href="/comments/20240418/2026207.md">天亮时分：习近平“拖字诀” 德总理失望归</a></li>
-<li><a href="/topimagenews/20240418/2026246.md">报导错的离谱！《纽时》怎么了</a></li>
 <li><a href="/ssgc/20240418/2026286.md">〖微博谈〗金钱比“学习强国”更能给中国人安慰</a></li>
+<li><a href="/topimagenews/20240418/2026246.md">报导错的离谱！《纽时》怎么了</a></li>
 <li><a href="/cnnews/20240418/2026281.md">习近平和中共又一次没有实现目标</a></li>
-<li><a href="/topimagenews/20240418/2026232.md">伊朗空袭时 以方控制室画面曝光 美军人员也在…</a></li>
 <li><a href="/sohnews/20240418/2026135.md">一本被禁的预言书，与恶魔对话</a></li>
+<li><a href="/topimagenews/20240418/2026232.md">伊朗空袭时 以方控制室画面曝光 美军人员也在…</a></li>
 <li><a href="/comments/20240418/2026391.md">医生劝我妻子放弃，似乎这些医生热衷让病人快点去死？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240419/2026584.md" target="_blank">【孔子学院还在开】</a></li>
 <li><a href="/comments/20240418/2026568.md" target="_blank">吉林学生带病出操死亡 涉事辅导员被撤销教师资格</a></li>
 <li><a href="/comments/20240418/2026556.md" target="_blank">天亮时分：经济股市下滑 银行信用评级下调</a></li>
 <li><a href="/comments/20240418/2026545.md" target="_blank">时事大家谈: 胡耀邦逝世35周年 其政治遗产给当今的启示？中国各地展开全民国家安全教育 习近平为何不安？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240418/2026270.md" target="_blank">文昭：一件让亚洲国家都害怕的事终於来了，会引发怎样的连锁反应？</a></li>
 <li><a href="/comments/20240418/2026252.md" target="_blank">查7常委财富！美对中共组合拳；习是独裁者？一句话吓坏B站播主；中国最新经济数据出炉，网友：统计局辛苦了｜唐靖远 横河 大宇 David 方菲 ｜围炉夜话 04/17</a></li>
 <li><a href="/comments/20240418/2026249.md" target="_blank">袁斌：中国马拉松史上最黑暗的一天</a></li>
-<li><a href="/comments/20240418/2026248.md" target="_blank">谢田：中国电动车走向世界的三个门槛</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/sohnews/20160119/493472.md" target="_blank">无效的医疗：手术刀下的谎言和药瓶里的欺骗</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
-<li><a href="/comments/20231201/1968320.md" target="_blank">【非凡新闻】结合中西文化精神 美国神韵表演吸睛</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/comments/20231207/1970628.md" target="_blank">民兵对官军，希望之声打造广播界的奇蹟【方伟时间-20231206】</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/cbnews/20190701/1151453.md" target="_blank">盘点十大邪教特征 中共条条对号入座</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
 
 </ul>
 </div>
