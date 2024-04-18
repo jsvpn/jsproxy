@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/topimagenews/20240417/2025880.md">整个亚洲最怕的事要来了</a></li>
 <li><a href="/topimagenews/20240417/2025876.md">铁拳再现！中共将禁止公布这些数据</a></li>
+<li><a href="/topimagenews/20240417/2025880.md">整个亚洲最怕的事要来了</a></li>
 <li><a href="/topimagenews/20240417/2026057.md">北京没料到 反噬这么快来了</a></li>
 <li><a href="/topimagenews/20240417/2025976.md">传北京欲收购全国烂尾楼 背后目的曝光</a></li>
 <li><a href="/topimagenews/20240417/2026064.md">前所未见 一股“神秘”强大力量席卷全球</a></li>
 <li><a href="/topimagenews/20240417/2025879.md">学区房，雪崩了 四大一线城市无一幸免</a></li>
 <li><a href="/topimagenews/20240417/2025943.md">爆料重灾区！中共国牛奶科技狠活 看完吓呆</a></li>
 <li><a href="/cnnews/20240417/2026062.md">北京扣动扳机 人民币贬值开始了</a></li>
-<li><a href="/topimagenews/20240417/2025867.md">听了王毅的话，以色列很失望</a></li>
 <li><a href="/topimagenews/20240417/2025992.md">伊朗被中东这3国给卖了</a></li>
 <li><a href="/topimagenews/20240417/2026058.md">美最新报告揭金正恩邪恶计划</a></li>
-<li><a href="/finance/20240417/2025869.md">谁也解决不了！中国产能过剩根源找到了</a></li>
 <li><a href="/finance/20240417/2026060.md">小学生习近平剩下的日子全靠它了</a></li>
 <li><a href="/cbnews/20240417/2025967.md">〖红朝浮世绘〗美国挠痒痒制裁中共，中共称美国在碰瓷</a></li>
 <li><a href="/cbnews/20240417/2025985.md">江峰：习近平更加惶恐：以色列完美击败中东恐怖大王伊朗，中国造闹笑话，导弹一半掉在自己国土；沙特、约旦不藏了，打伊朗我也有功！以伊空战台湾如何受益？【江峰漫谈20240416第855期】</a></li>
 <li><a href="/funmedia/20240417/2025978.md">上海高端养老院一段偷拍视频曝光：当你老了，走不动了，真相可能比想象残忍</a></li>
 <li><a href="/ssgc/20240417/2025939.md">〖微博谈〗这是弯道超车</a></li>
 <li><a href="/topimagenews/20240417/2025894.md">每天消失30家 “中国最具前途行业”太惨</a></li>
-<li><a href="/cnnews/20240417/2025936.md">撤出中国，苹果跑的也太快了</a></li>
 <li><a href="/topimagenews/20240417/2026056.md">知名金融博客：第三世界大战将爆发？</a></li>
-<li><a href="/topimagenews/20240417/2025868.md">没它不行 中国悄悄接收波音737 MAX进入高潮</a></li>
-<li><a href="/topimagenews/20240417/2025878.md">土地财政熄火，水电气全面涨价时代到了</a></li>
+<li><a href="/cnnews/20240417/2025936.md">撤出中国，苹果跑的也太快了</a></li>
 <li><a href="/comments/20240417/2025938.md">龙来了！南昌锁龙井铁链突然断裂！</a></li>
+<li><a href="/topimagenews/20240417/2025878.md">土地财政熄火，水电气全面涨价时代到了</a></li>
+<li><a href="/topimagenews/20240417/2025991.md">"你认为习他是一个独裁者吗?" 户晨风账号被封！【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20240417/2025881.md">伊朗飞弹攻击以色列 中国学者心惊肉跳</a></li>
+<li><a href="/ssgc/20240417/2026129.md">余茂春预告美台建交，习近平噩梦陆续有来</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240418/2026271.md" target="_blank">朱镕基之子朱云来：经济增长要提高消费？不一定</a></li>
 <li><a href="/topimagenews/20240418/2026246.md" target="_blank">报导错的离谱！《纽时》怎么了</a></li>
 <li><a href="/topimagenews/20240418/2026245.md" target="_blank">中国科技公司全面撤出美国</a></li>
 <li><a href="/topimagenews/20240418/2026234.md" target="_blank">10亿人危在旦夕！北约警告：俄或对欧美开战</a></li>
@@ -90,13 +91,17 @@
 <li><a href="/topimagenews/20240417/2025876.md" target="_blank">铁拳再现！中共将禁止公布这些数据</a></li>
 <li><a href="/topimagenews/20240417/2025868.md" target="_blank">没它不行 中国悄悄接收波音737 MAX进入高潮</a></li>
 <li><a href="/topimagenews/20240417/2025867.md" target="_blank">听了王毅的话，以色列很失望</a></li>
-<li><a href="/topimagenews/20240417/2025823.md" target="_blank">又又突破历史新高！北京二手房，根本卖不完；在家躺平，照样收割到你【阿波罗网报道】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240418/2026275.md" target="_blank">颜纯钩:余茂春预告美台建交，习近平噩梦陆续有来</a></li>
+<li><a href="/comments/20240418/2026274.md" target="_blank">未普：习近平的党，反对胡耀邦的党？</a></li>
+<li><a href="/comments/20240418/2026273.md" target="_blank">北游：他们真把自己当禽兽了，天天叫着“弱肉强食”</a></li>
+<li><a href="/comments/20240418/2026272.md" target="_blank">普林尼：以色列和伊朗会掀起第三次世界大战吗？</a></li>
+<li><a href="/comments/20240418/2026270.md" target="_blank">文昭：一件让亚洲国家都害怕的事终於来了，会引发怎样的连锁反应？</a></li>
 <li><a href="/comments/20240418/2026252.md" target="_blank">查7常委财富！美对中共组合拳；习是独裁者？一句话吓坏B站播主；中国最新经济数据出炉，网友：统计局辛苦了｜唐靖远 横河 大宇 David 方菲 ｜围炉夜话 04/17</a></li>
 <li><a href="/comments/20240418/2026249.md" target="_blank">袁斌：中国马拉松史上最黑暗的一天</a></li>
 <li><a href="/comments/20240418/2026248.md" target="_blank">谢田：中国电动车走向世界的三个门槛</a></li>
@@ -117,11 +122,6 @@
 <li><a href="/comments/20240417/2026029.md" target="_blank">天亮时分：习近平头顶三把悬剑</a></li>
 <li><a href="/comments/20240417/2026028.md" target="_blank">【德国总理朔尔茨结束访中】【习近平拉拢朔尔茨在欧美间制造裂痕？】</a></li>
 <li><a href="/comments/20240417/2025980.md" target="_blank">王友群：当今中共最大的罪恶是什么？</a></li>
-<li><a href="/comments/20240417/2025962.md" target="_blank">震惊世界！美发射拦截导弹在外太空拦截伊朗弹道导弹</a></li>
-<li><a href="/comments/20240417/2025945.md" target="_blank">今天看到塌在水里的基伊大桥，听到McHenry堡的故事</a></li>
-<li><a href="/comments/20240417/2025942.md" target="_blank">天亮时分：人大下周开会，秦刚李尚福要有消息了？习近平好言安抚，德总理仍失望而归；经济成长与股市下滑，惠誉下调六银行评级（政论天下第1283集 20240416）天亮时分</a></li>
-<li><a href="/comments/20240417/2025941.md" target="_blank">B站播主户晨风突遭封号！因“习是独裁者”or“这种人”？何杰替山东大学女生报仇？3非洲学伴陪跑北京半程马拉松</a></li>
-<li><a href="/comments/20240417/2025938.md" target="_blank">龙来了！南昌锁龙井铁链突然断裂！</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/tculture/20231217/1975364.md" target="_blank">医山夜话：张锡纯医案解读（1）根治失眠 思路清晰</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/comments/20231212/1972297.md" target="_blank">日本华人确诊晚期直肠癌，修炼法轮功恢复健康（图）</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
 
 </ul>
 </div>
