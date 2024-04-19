@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/yule/20240418/2026325.md">看到现在80岁的郑少秋，你可能会吓得惊掉下巴</a></li>
 <li><a href="/headline/20240418/2026486.md">邓小平孙子邓卓棣任新职</a></li>
 <li><a href="/baitai/20240418/2026512.md">传习近平机密军委会议说8个字 给台海定调</a></li>
 <li><a href="/topimagenews/20240418/2026354.md">以色列人被中共激怒：中国共产党正在推动核战争【阿波罗网报道】</a></li>
@@ -16,18 +15,19 @@
 <li><a href="/sohnews/20240418/2026135.md">一本被禁的预言书，与恶魔对话</a></li>
 <li><a href="/baitai/20240418/2026546.md">邓小平嫡孙传出新动向 当年归国竟缘于一桩丑闻 退出政坛因习邓家族恩怨？</a></li>
 <li><a href="/comments/20240418/2026391.md">医生劝我妻子放弃，似乎这些医生热衷让病人快点去死？</a></li>
+<li><a href="/baitai/20240419/2026624.md">外资跑路！苹果公司东南亚布局 郑州富士康周边已沦为空城</a></li>
 <li><a href="/worldnews/20240418/2026506.md">女子带老人来银行贷款，老人毫无反应，竟然是..</a></li>
 <li><a href="/cnnews/20240418/2026477.md">F-35一天出动近40架 以色列为何能5倍速火力全开</a></li>
-<li><a href="/baitai/20240419/2026624.md">外资跑路！苹果公司东南亚布局 郑州富士康周边已沦为空城</a></li>
 <li><a href="/comments/20240418/2026347.md">吴祚来：中共正国级高官，在金三面前就部级待遇</a></li>
-<li><a href="/ccpdope/20240418/2026448.md">拜登发威！针对中共宣布三大新贸易措施</a></li>
-<li><a href="/lifebaike/20240418/2026420.md">古人言：“两鸟进家门，不富也添喜”，指的是哪两种鸟呢？有无道理？</a></li>
-<li><a href="/ccpdope/20240418/2026520.md">秘闻！习以亡国之君待马 马迫切献「降书」</a></li>
-<li><a href="/lifebaike/20240418/2026322.md">掩盖弥天大罪 五千高干曾与邓小平发生激烈争论</a></li>
 <li><a href="/topimagenews/20240419/2026671.md">棘手！习已对共军下令？多名美军事和情报官公开作证</a></li>
-<li><a href="/cnnews/20240418/2026358.md">武汉公厕里的英语COME TOO NOT NOT 猜猜啥意思？</a></li>
+<li><a href="/ccpdope/20240418/2026448.md">拜登发威！针对中共宣布三大新贸易措施</a></li>
+<li><a href="/ccpdope/20240418/2026520.md">秘闻！习以亡国之君待马 马迫切献「降书」</a></li>
+<li><a href="/lifebaike/20240418/2026420.md">古人言：“两鸟进家门，不富也添喜”，指的是哪两种鸟呢？有无道理？</a></li>
 <li><a href="/baitai/20240418/2026490.md">这一幕令人泪崩！中国人的悲惨世界 凸显社会保障不公</a></li>
-<li><a href="/cnnews/20240418/2026360.md">相由心生还是以貌取人？教你如何识别“犯罪脸”</a></li>
+<li><a href="/cbnews/20240419/2026650.md">菲军方:我真的不是故意的!将击沉中制补给舰 美菲肩并肩军演给中共看好戏</a></li>
+<li><a href="/cnnews/20240418/2026358.md">武汉公厕里的英语COME TOO NOT NOT 猜猜啥意思？</a></li>
+<li><a href="/topimagenews/20240419/2026637.md">学区房,雪崩了！四大一线城无一幸免；每天消失30家 “中国最具前途行业”太惨</a></li>
+<li><a href="/lifebaike/20240418/2026558.md">小红书上的中学生：世界的参差在此一览无遗</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240419/2026722.md" target="_blank">孙维世惨遭轮奸杀害 江青报私仇 周恩来亲笔批准逮捕</a></li>
+<li><a href="/comments/20240419/2026721.md" target="_blank">红色网战：中国骇客组织发起网路攻击链，台湾百处基础设施如何防备？</a></li>
 <li><a href="/comments/20240419/2026717.md" target="_blank">天亮时分：众院议长在媒体上宣布，中(共)俄伊朗是邪恶轴心；低配版李家琦事件，户晨风被全网封杀；王岐山大总管贪4亿受审（政论天下第1285集 20240418）天亮时分</a></li>
 <li><a href="/comments/20240419/2026711.md" target="_blank">林保华：马英九“爱国”歪过了头</a></li>
 <li><a href="/comments/20240419/2026701.md" target="_blank">蔡明芳：不必期待中国主动解决超额产能问题</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240418/2026307.md" target="_blank">菁英论坛：中共最大恶梦 日本成世界辅警</a></li>
 <li><a href="/comments/20240418/2026294.md" target="_blank">AFCL专访｜菲塔雷利：落地三十国， 中国信息战项目&#8221;纸墙&#8221;是怎样建成的</a></li>
 <li><a href="/comments/20240418/2026289.md" target="_blank">林保华：人祸不断严防刻意人为</a></li>
-<li><a href="/comments/20240418/2026275.md" target="_blank">颜纯钩:余茂春预告美台建交，习近平噩梦陆续有来</a></li>
-<li><a href="/comments/20240418/2026274.md" target="_blank">未普：习近平的党，反对胡耀邦的党？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
 <li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20231130/1967587.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （一）</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
 
 </ul>
 </div>
