@@ -10,22 +10,22 @@
 <li><a href="/ccpdope/20240419/2026883.md">中共内部消息 习欲追责江泽民</a></li>
 <li><a href="/topimagenews/20240419/2026793.md">“这是奴隶营里的编号!” 中共制度被轰 秦晖：社会爆炸、王朝倾覆动因【阿波罗网暴动】</a></li>
 <li><a href="/cbnews/20240419/2026807.md">习近平嗅到危险信息！乌军第67旅抗命战况危急</a></li>
-<li><a href="/topimagenews/20240419/2026738.md">“若抗俄失败，将爆发第三次世界大战”</a></li>
 <li><a href="/sohnews/20240419/2026867.md">以色列瞒天过海，大举突袭3国7城！今天动手只有一个原因；伊朗核城市挨炸，但反应出人意料；美国事先又获通知？ ｜远见快评 唐靖远</a></li>
+<li><a href="/ssgc/20240420/2027061.md">评论｜余杰：火箭军模范女战士泄露国家机密 将习近平放在炭火上烤</a></li>
 <li><a href="/baitai/20240419/2026850.md">苹果被勒令从中国应用商店下架 WhatsApp 和 Threads</a></li>
 <li><a href="/topimagenews/20240419/2026776.md">586万家用户叫苦不已！重庆燃气有组织犯罪实锤</a></li>
-<li><a href="/ssgc/20240419/2026895.md">习近平的不归路：脱实入虚，官民积怨，财散人安乐</a></li>
 <li><a href="/health/20240419/2026818.md">维生素 C 是苹果的21倍+，还很通便！这种水果，春天吃正好</a></li>
-<li><a href="/ssgc/20240420/2027061.md">评论｜余杰：火箭军模范女战士泄露国家机密 将习近平放在炭火上烤</a></li>
+<li><a href="/ssgc/20240419/2026895.md">习近平的不归路：脱实入虚，官民积怨，财散人安乐</a></li>
 <li><a href="/baitai/20240419/2026863.md">会重判吗？王岐山财务大总管案开审 被控收贿近4亿元</a></li>
-<li><a href="/comments/20240419/2026754.md">自称习近平他儿子，谁向习扔炸弹？美查中共七常委资产清单！金正恩告诉赵乐际：你们不是国家</a></li>
 <li><a href="/comments/20240420/2027052.md">网海拾贝:重庆人的今天，就是全国老百姓的明天</a></li>
+<li><a href="/comments/20240419/2026754.md">自称习近平他儿子，谁向习扔炸弹？美查中共七常委资产清单！金正恩告诉赵乐际：你们不是国家</a></li>
 <li><a href="/headline/20240419/2026860.md">网民提问「习是独裁者吗」 博主吓停直播怒斥但仍难逃封禁</a></li>
 <li><a href="/ssgc/20240419/2026810.md">中国公务员专题：中国“降薪时代” 事业编制员工提前退休止损</a></li>
 <li><a href="/comments/20240419/2026884.md">这难道就是神仙在人间的居所？发现了史前巨型石窟群，超现代设计、不输金字塔！真的！山不在高，有仙则灵⋯｜未解之谜 扶摇</a></li>
 <li><a href="/ccpdope/20240419/2026803.md">突发！以色列对伊朗发动报复性攻击</a></li>
 <li><a href="/health/20240419/2026819.md">男人年过50岁，如果条件允许，可常吃4道“强肾菜”，精力更充沛组图</a></li>
 <li><a href="/worldnews/20240419/2026766.md">以色列对伊朗发动报复性打击 （更新中）</a></li>
+<li><a href="/comments/20240420/2027055.md">颜纯钩:习近平的不归路：脱实入虚，官民积怨，财散人安乐</a></li>
 <li><a href="/sohnews/20240419/2026868.md">影响一生的10大惊人定律，让你瞬间醒悟天道的奥秘 更好掌控自己的人生 句句精辟 读完醒悟｜传统文化｜知识分享｜人生智慧 【晨曦晓屋】</a></li>
 <li><a href="/lifebaike/20240420/2026986.md">多少人失业的退路 不好干了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240420/2027153.md" target="_blank">老蛮频道：细说香港——废墟化进行时</a></li>
+<li><a href="/comments/20240420/2027152.md" target="_blank">拉动消费的新“三个代表”：拉动消费的新三件成了：电表、水表和气表</a></li>
 <li><a href="/comments/20240420/2027149.md" target="_blank">天亮时分：G7外长会议落幕，中欧关系或将急剧恶化；以色列空袭伊朗，谁认怂了？中共在美国後院修机场（政论天下第1286集 20240419）天亮时分</a></li>
 <li><a href="/comments/20240420/2027141.md" target="_blank">美俄，友邦与敌国问答</a></li>
 <li><a href="/comments/20240420/2027140.md" target="_blank">周泽：从未见过这样的公诉人</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240419/2026950.md" target="_blank">时事大家谈：拜登要对中国钢铝产品加税三倍，北京怎么办？北京当权者制造全球混乱？美国如何让它付出代价？</a></li>
 <li><a href="/comments/20240419/2026948.md" target="_blank">中国的认知战攻击 AI推波助澜(戴忠仁/上官乱/杜奕瑾/李惟平）- 亚洲很想聊（2024-4-19）</a></li>
 <li><a href="/comments/20240419/2026934.md" target="_blank">【杜耀明评论】口号政治降临香港 「五需四信」管治特区</a></li>
-<li><a href="/comments/20240419/2026919.md" target="_blank">访二百年古屋巧遇总督 ——澳洲寻根点点滴滴</a></li>
-<li><a href="/comments/20240419/2026916.md" target="_blank">锲而不舍 迎难而上- 敬悼香港新闻摄影界泰斗陈桥先生</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
 
 </ul>
 </div>
