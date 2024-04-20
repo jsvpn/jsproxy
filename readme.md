@@ -7,7 +7,6 @@
 
 <li><a href="/cnnews/20240419/2026832.md">细思极恐！消息疯传：中共最“上层”不要打过疫苗的血液【阿波罗网报道】</a></li>
 <li><a href="/ccpdope/20240419/2026883.md">中共内部消息 习欲追责江泽民</a></li>
-<li><a href="/topimagenews/20240419/2026793.md">“这是奴隶营里的编号!” 中共制度被轰 秦晖：社会爆炸、王朝倾覆动因【阿波罗网暴动】</a></li>
 <li><a href="/cbnews/20240419/2026807.md">习近平嗅到危险信息！乌军第67旅抗命战况危急</a></li>
 <li><a href="/sohnews/20240419/2026867.md">以色列瞒天过海，大举突袭3国7城！今天动手只有一个原因；伊朗核城市挨炸，但反应出人意料；美国事先又获通知？ ｜远见快评 唐靖远</a></li>
 <li><a href="/ssgc/20240420/2027061.md">评论｜余杰：火箭军模范女战士泄露国家机密 将习近平放在炭火上烤</a></li>
@@ -17,17 +16,18 @@
 <li><a href="/health/20240419/2026818.md">维生素 C 是苹果的21倍+，还很通便！这种水果，春天吃正好</a></li>
 <li><a href="/baitai/20240419/2026863.md">会重判吗？王岐山财务大总管案开审 被控收贿近4亿元</a></li>
 <li><a href="/headline/20240419/2026860.md">网民提问「习是独裁者吗」 博主吓停直播怒斥但仍难逃封禁</a></li>
+<li><a href="/yule/20240420/2027098.md">内地封杀9年 她是唯一解禁的女演员</a></li>
 <li><a href="/comments/20240419/2026884.md">这难道就是神仙在人间的居所？发现了史前巨型石窟群，超现代设计、不输金字塔！真的！山不在高，有仙则灵⋯｜未解之谜 扶摇</a></li>
 <li><a href="/ssgc/20240419/2026810.md">中国公务员专题：中国“降薪时代” 事业编制员工提前退休止损</a></li>
-<li><a href="/yule/20240420/2027098.md">内地封杀9年 她是唯一解禁的女演员</a></li>
-<li><a href="/comments/20240420/2027055.md">颜纯钩:习近平的不归路：脱实入虚，官民积怨，财散人安乐</a></li>
 <li><a href="/topimagenews/20240420/2027095.md">中共拉动消费新三件？个个都是割韭菜利器</a></li>
+<li><a href="/comments/20240420/2027055.md">颜纯钩:习近平的不归路：脱实入虚，官民积怨，财散人安乐</a></li>
 <li><a href="/lifebaike/20240420/2026986.md">多少人失业的退路 不好干了</a></li>
+<li><a href="/cnnews/20240420/2027143.md">传中国网约车司机拟五一串连大罢工</a></li>
 <li><a href="/health/20240419/2026819.md">男人年过50岁，如果条件允许，可常吃4道“强肾菜”，精力更充沛组图</a></li>
-<li><a href="/ccpdope/20240419/2026803.md">突发！以色列对伊朗发动报复性攻击</a></li>
 <li><a href="/ssgc/20240420/2027032.md">解放军撤销第五军种  新建信息支援部队搞心战？</a></li>
 <li><a href="/sohnews/20240419/2026868.md">影响一生的10大惊人定律，让你瞬间醒悟天道的奥秘 更好掌控自己的人生 句句精辟 读完醒悟｜传统文化｜知识分享｜人生智慧 【晨曦晓屋】</a></li>
 <li><a href="/headline/20240419/2026831.md">最新研究指出中国近一半的主要城市正在下沉</a></li>
+<li><a href="/topimagenews/20240420/2027126.md">够狠！基金圈战略性怀孕</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/comments/20231214/1974098.md" target="_blank">美国众议院议长：我所坚守的保守主义，具体是些什么内容？</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
 <li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/comments/20240116/1984226.md" target="_blank">湖北老河口遇仙记</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
 <li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
 
 </ul>
 </div>
