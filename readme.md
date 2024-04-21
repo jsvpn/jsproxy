@@ -5,10 +5,8 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/yule/20240420/2027098.md">内地封杀9年 她是唯一解禁的女演员</a></li>
 <li><a href="/topimagenews/20240420/2027242.md">出事了！中共驻加拿大大使突然离任回国</a></li>
 <li><a href="/topimagenews/20240420/2027241.md">毛泽东通房大秘张玉凤发声明 澄清她与毛泽东的多个传闻</a></li>
-<li><a href="/topimagenews/20240420/2027095.md">中共拉动消费新三件？个个都是割韭菜利器</a></li>
 <li><a href="/topimagenews/20240420/2027179.md">此人忽然死亡 震惊外界 习近平怎么看【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20240420/2027143.md">传中国网约车司机拟五一串连大罢工</a></li>
 <li><a href="/topimagenews/20240420/2027180.md">火山要爆了！物价全面上涨 老百姓急盼变天【阿波罗网报道】</a></li>
@@ -16,18 +14,20 @@
 <li><a href="/topimagenews/20240420/2027126.md">够狠！基金圈战略性怀孕</a></li>
 <li><a href="/cnnews/20240420/2027129.md">空手套66亿后 中国车企董事长远遁美国</a></li>
 <li><a href="/topimagenews/20240420/2027200.md">中共信用彻底完蛋！重庆燃气集团书记被免职 网友根本不吃这一套【阿波罗网报道】</a></li>
-<li><a href="/yule/20240420/2027232.md">38岁凤姐美国被偶遇 大学老师曝光其成绩</a></li>
 <li><a href="/cbnews/20240420/2027246.md">习近平制造恐惧 亲手毁了中国科技</a></li>
+<li><a href="/yule/20240420/2027232.md">38岁凤姐美国被偶遇 大学老师曝光其成绩</a></li>
 <li><a href="/topimagenews/20240420/2027150.md">全世界都知道你在搞鬼！新航线背后藏着一笔“大买卖”</a></li>
+<li><a href="/cnnews/20240421/2027344.md">大批华人被逮捕！美国土安全部宣布“红钩计划”</a></li>
 <li><a href="/baitai/20240420/2027312.md">中南海发现政治骗子？传习遭遇危机 堪比林彪案</a></li>
 <li><a href="/comments/20240420/2027252.md">中国教育界荒淫无耻 可见共党政权无可救药</a></li>
-<li><a href="/cnnews/20240421/2027344.md">大批华人被逮捕！美国土安全部宣布“红钩计划”</a></li>
 <li><a href="/ccpdope/20240420/2027295.md">中国「降薪时代」来临 公职人员被迫提前退休止损</a></li>
 <li><a href="/worldnews/20240420/2027181.md">拿黄金换命？被判死刑越南女首富突放话：有7700亿黄金藏海里…</a></li>
-<li><a href="/comments/20240420/2027093.md">文昭：习近平破天荒第一次教训金正恩，葫芦里什麽药？新「三个代表」上路促消费：水表电表和气表</a></li>
 <li><a href="/cbnews/20240420/2027245.md">解放军战略支援部队被肢解 一分为三</a></li>
 <li><a href="/yule/20240420/2027165.md">“香港第一美女”当众拒刘德华求婚 如今咋样</a></li>
 <li><a href="/cbnews/20240420/2027128.md">习近平亲自出席授旗！中共国有了带番号的“网军”</a></li>
+<li><a href="/topimagenews/20240420/2027159.md">江西卫校夜晚沿途天上掉鸡腿 校方回应泄底</a></li>
+<li><a href="/sohnews/20240420/2027194.md">习近平霹雳手段揪出正国级野心家，赵乐际彻底失宠命悬一线，全国网约车司机五一大罢工。《老灯开讲第538期》</a></li>
+<li><a href="/finance/20240420/2027248.md">特斯拉“技术被偷光” 中国“养套杀”曝光</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240421/2027395.md" target="_blank">江峰：信息支援部队：水军粉红穿军装，蔡奇当司令</a></li>
+<li><a href="/cbnews/20240421/2027394.md" target="_blank">江峰：伊朗遭以色列报复，挨打了不认</a></li>
 <li><a href="/cbnews/20240421/2027388.md" target="_blank">在北京，肖尔茨重蹈了默克尔覆辙</a></li>
 <li><a href="/comments/20240421/2027385.md" target="_blank">美少壮派对中共发出檄文：要赢得这场新冷战｜方菲时间</a></li>
 <li><a href="/comments/20240420/2027317.md" target="_blank">民主党人提恶毒立法，将解除川普特勤局保护。检察官施毒计，摧毁陪审员对川普的好感。被解职陪审员发声。法庭外自焚者身份曝光。川普封口费案特勤局</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20240419/2026672.md" target="_blank">就怕贼惦记 北京盯上弹丸小国</a></li>
 <li><a href="/cbnews/20240419/2026650.md" target="_blank">菲军方:我真的不是故意的!将击沉中制补给舰 美菲肩并肩军演给中共看好戏</a></li>
 <li><a href="/comments/20240419/2026589.md" target="_blank">意义重大！最高法院质疑司法部指控1.6被告。将影响川普选举案。参议院废除对马约卡斯的弹劾审判，共和党誓言以牙还牙。最高法院马约卡斯弹劾审判</a></li>
-<li><a href="/cbnews/20240418/2026470.md" target="_blank">深度揭秘：中共害怕香港的深层次根本原因</a></li>
-<li><a href="/comments/20240418/2026391.md" target="_blank">医生劝我妻子放弃，似乎这些医生热衷让病人快点去死？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20231220/1976683.md" target="_blank">医山夜话：张锡纯医案解读（二）根治胃气不降之证</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
+<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
 <li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
 
 </ul>
 </div>
