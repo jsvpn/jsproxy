@@ -11,8 +11,8 @@
 <li><a href="/topimagenews/20240421/2027452.md">【微博精粹】习近平最新烂尾工程诞生</a></li>
 <li><a href="/topimagenews/20240421/2027378.md">网友亲历： 产业转移出中国不知不觉快完成了</a></li>
 <li><a href="/topimagenews/20240421/2027423.md">中国，要给铁公鸡们拔毛了</a></li>
-<li><a href="/ccpdope/20240421/2027486.md">中共政治局常委一否六 雪崩式灾难性后果发生</a></li>
 <li><a href="/topimagenews/20240421/2027379.md">丑闻！中国东奥女子8百接力金牌被取消</a></li>
+<li><a href="/ccpdope/20240421/2027486.md">中共政治局常委一否六 雪崩式灾难性后果发生</a></li>
 <li><a href="/sohnews/20240421/2027367.md">重庆“燃气事件”官宣结论，美专家揭惊悚真相！军队内乱，习近平动刀战支军；以色列又开炸？伊朗续装傻。</a></li>
 <li><a href="/headline/20240421/2027354.md">港珠澳大桥开通五年仍难逃“鬼桥”命运</a></li>
 <li><a href="/cnnews/20240421/2027375.md">正义终于来到！霸占房屋者被逮捕，面临15年刑期</a></li>
@@ -25,8 +25,8 @@
 <li><a href="/cbnews/20240421/2027454.md">广东高铁站被淹 高铁车厢进水</a></li>
 <li><a href="/ssgc/20240421/2027535.md">〖微博谈〗所谓伤害不大，侮辱极强</a></li>
 <li><a href="/comments/20240421/2027471.md">猫神:一张震撼世界的中国军人摆拍照片</a></li>
-<li><a href="/sohnews/20240420/2027311.md">惊天丑闻！23名中国游泳运动员药检阳性，竟获准参加东京奥运会大拿金牌？FBI介入调查揭开盖子</a></li>
 <li><a href="/sohnews/20240421/2027403.md">习高层：我们中有“政治骗子”！一个常委已被锁定；李强多次写检讨，《时代》指望他扭转时局，跟赖清德同登时代周刊，习的脸已黑下来；中共23名游泳队员，东奥药检呈阳性、被踢爆！有金牌已取消｜大宇拍案惊奇</a></li>
+<li><a href="/ccpdope/20240421/2027559.md">中共大使谢锋哈佛演讲遇抗议被骂：中共骗子无耻</a></li>
 <li><a href="/cbnews/20240421/2027388.md">在北京，肖尔茨重蹈了默克尔覆辙</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240421/2027630.md" target="_blank">【大宇拍案惊奇】李强跟赖清德同登《时代》周刊 习的脸已黑下来</a></li>
 <li><a href="/comments/20240421/2027617.md" target="_blank">中国女游客印尼火山口“拍网美照” 坠落惨死</a></li>
 <li><a href="/comments/20240421/2027616.md" target="_blank">中共驻美大使谢锋哈佛演讲屡被打断 抗议者：你不配来这</a></li>
 <li><a href="/comments/20240421/2027597.md" target="_blank">美众院一招“抖音禁令” 切割中国 网红支持：假讯息太可怕</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240421/2027385.md" target="_blank">美少壮派对中共发出檄文：要赢得这场新冷战｜方菲时间</a></li>
 <li><a href="/comments/20240420/2027329.md" target="_blank">天亮时分：频道盈利被停 请大家支持渡过难关</a></li>
 <li><a href="/comments/20240420/2027327.md" target="_blank">安徽女子感冒到医院输液后身亡 家属质疑：医院给错药</a></li>
-<li><a href="/comments/20240420/2027326.md" target="_blank">【大宇拍案惊奇】八年军改烂尾 指挥系统问题多</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
 <li><a href="/taiwannews/20210119/1470524.md" target="_blank">纪录片《蚕食美国1》</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/taiwannews/20210119/1470761.md" target="_blank">独家：震撼纪录片《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/comments/20231220/1976789.md" target="_blank">大陆医生曝：九价HPV疫苗导致怀孕能力下降40%</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
 <li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
 
 </ul>
 </div>
