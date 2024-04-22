@@ -7,26 +7,26 @@
 
 <li><a href="/ccpdope/20240421/2027579.md">亲信遭遇严刑峻罚，王岐山何时平安著陆</a></li>
 <li><a href="/baitai/20240421/2027586.md">90后「女」歌手在90岁老人寿宴上猝死 身份曝光 死因引热议</a></li>
-<li><a href="/ssgc/20240421/2027535.md">〖微博谈〗所谓伤害不大，侮辱极强</a></li>
 <li><a href="/baitai/20240422/2027676.md">北京分管天安门副市长落马 习感到威胁？</a></li>
 <li><a href="/topimagenews/20240422/2027687.md">这才是真正麻烦的开始！比中国经济问题严重</a></li>
 <li><a href="/lifebaike/20240421/2027603.md">出现9个症状 十有八九是恶性肿瘤</a></li>
 <li><a href="/topimagenews/20240421/2027589.md">俄乌战争》克里米亚大桥紧急封闭 传一俄舰遭创</a></li>
 <li><a href="/cnnews/20240422/2027682.md">华裔大叔屋内藏2亿！FBI抄家，搬了2天2夜...</a></li>
 <li><a href="/ssgc/20240421/2027611.md">习近平的另一条绞索：美国调查中共高层资产</a></li>
-<li><a href="/sohnews/20240421/2027580.md">陈破空：罕见！张玉凤突然发表声明：澄清几个传闻！却认了她与毛的不正常关系。美国众议院通过重大法案：援台援乌禁抖音！特斯拉技术遭中国偷光。直播与互动：美东时间4月21日早9点、中港台4月21日当晚9点</a></li>
 <li><a href="/topimagenews/20240422/2027673.md">偷吃外送被毒杀？ 25岁中国硕士生惨遭马主义硕士生室友下毒</a></li>
+<li><a href="/sohnews/20240421/2027580.md">陈破空：罕见！张玉凤突然发表声明：澄清几个传闻！却认了她与毛的不正常关系。美国众议院通过重大法案：援台援乌禁抖音！特斯拉技术遭中国偷光。直播与互动：美东时间4月21日早9点、中港台4月21日当晚9点</a></li>
 <li><a href="/cnnews/20240422/2027693.md">太突然，“美团”王兴大撤退</a></li>
+<li><a href="/comments/20240422/2027702.md">习近平绞索已套在颈上？ 遭美点死穴</a></li>
 <li><a href="/ccpdope/20240421/2027559.md">中共大使谢锋哈佛演讲遇抗议被骂：中共骗子无耻</a></li>
 <li><a href="/baitai/20240421/2027577.md">超级火爆！中共大使哈佛演讲屡被打断 「你不配来这」「你的双手沾满鲜血」...</a></li>
 <li><a href="/ccpdope/20240421/2027596.md">张玉凤驳斥和毛的传闻 应追究喉舌造假</a></li>
-<li><a href="/comments/20240422/2027702.md">习近平绞索已套在颈上？ 遭美点死穴</a></li>
-<li><a href="/lifebaike/20240421/2027602.md">漂在非洲的中国商人 在恐惧中等待暴富</a></li>
-<li><a href="/comments/20240422/2027655.md">强生到底为什么要援助乌克兰？</a></li>
-<li><a href="/topimagenews/20240422/2027688.md">从中国卷63亿！英华女外卖员背后最大洗钱案</a></li>
 <li><a href="/cbnews/20240422/2027698.md">广东“百年一遇”洪水，航拍惨状：恐再下3天</a></li>
+<li><a href="/comments/20240422/2027655.md">强生到底为什么要援助乌克兰？</a></li>
+<li><a href="/lifebaike/20240421/2027602.md">漂在非洲的中国商人 在恐惧中等待暴富</a></li>
+<li><a href="/topimagenews/20240422/2027688.md">从中国卷63亿！英华女外卖员背后最大洗钱案</a></li>
+<li><a href="/topimagenews/20240422/2027761.md">【微博精粹】习近平真是拼了 又造出一个万亿级大词</a></li>
 <li><a href="/comments/20240421/2027617.md">中国女游客印尼火山口“拍网美照” 坠落惨死</a></li>
-<li><a href="/bblog/20240421/2027534.md">〖微历史〗“伟大毛时代”三大特征</a></li>
+<li><a href="/cnnews/20240422/2027692.md">罕见曝光：中国孕妇赴美生子被遣返，审问过程</a></li>
 <li><a href="/comments/20240421/2027574.md">美国国会顶台湾的力度有多大？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240422/2027805.md" target="_blank">相亲5天订婚 男方给27万彩礼后 准新娘自尽了…</a></li>
 <li><a href="/cbnews/20240422/2027762.md" target="_blank">为什么民主党正在失去亚裔美国人？</a></li>
 <li><a href="/cbnews/20240422/2027733.md" target="_blank">习近平的御用“网军”，成立了？</a></li>
 <li><a href="/cbnews/20240422/2027698.md" target="_blank">广东“百年一遇”洪水，航拍惨状：恐再下3天</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240420/2027245.md" target="_blank">解放军战略支援部队被肢解 一分为三</a></li>
 <li><a href="/cbnews/20240420/2027244.md" target="_blank">中国网红接连因饮酒过量死亡</a></li>
 <li><a href="/cbnews/20240420/2027243.md" target="_blank">江西重大刑事案！老板1家3口被亲弟弟杀害</a></li>
-<li><a href="/cbnews/20240420/2027195.md" target="_blank">江峰：网军转正，蔡奇要掌军权？习近平突建新兵种《信息支援部队》，原战略支援部队与火箭军关联军事单位被切割；以色列报复空袭，伊朗怂了：内奸干的！【江峰漫谈20240419第857期】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20240418/2026391.md" target="_blank">医生劝我妻子放弃，似乎这些医生热衷让病人快点去死？</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
 <li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20231204/1969287.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （三）</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
 <li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
 
 </ul>
 </div>
