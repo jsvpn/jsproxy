@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/baitai/20240421/2027586.md">90后「女」歌手在90岁老人寿宴上猝死 身份曝光 死因引热议</a></li>
 <li><a href="/baitai/20240422/2027676.md">北京分管天安门副市长落马 习感到威胁？</a></li>
 <li><a href="/topimagenews/20240422/2027687.md">这才是真正麻烦的开始！比中国经济问题严重</a></li>
 <li><a href="/lifebaike/20240421/2027603.md">出现9个症状 十有八九是恶性肿瘤</a></li>
@@ -16,18 +15,19 @@
 <li><a href="/cnnews/20240422/2027693.md">太突然，“美团”王兴大撤退</a></li>
 <li><a href="/topimagenews/20240422/2027778.md">美国将向中国打出一记重拳</a></li>
 <li><a href="/comments/20240422/2027702.md">习近平绞索已套在颈上？ 遭美点死穴</a></li>
+<li><a href="/topimagenews/20240422/2027822.md">哪壶不开提哪壶！人日头版头条戳中习近平最头疼之事【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240422/2027673.md">偷吃外送被毒杀？ 25岁中国硕士生惨遭马主义硕士生室友下毒</a></li>
 <li><a href="/lifebaike/20240421/2027602.md">漂在非洲的中国商人 在恐惧中等待暴富</a></li>
-<li><a href="/topimagenews/20240422/2027822.md">哪壶不开提哪壶！人日头版头条戳中习近平最头疼之事【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20240422/2027698.md">广东“百年一遇”洪水，航拍惨状：恐再下3天</a></li>
 <li><a href="/ccpdope/20240421/2027596.md">张玉凤驳斥和毛的传闻 应追究喉舌造假</a></li>
 <li><a href="/ssgc/20240422/2027780.md">〖微博谈〗接下来的局势进展会非常快</a></li>
 <li><a href="/cnnews/20240422/2027692.md">罕见曝光：中国孕妇赴美生子被遣返，审问过程</a></li>
+<li><a href="/baitai/20240422/2027842.md">习近平又有奇葩政策 侵扰全中国老百姓</a></li>
 <li><a href="/topimagenews/20240422/2027688.md">从中国卷63亿！英华女外卖员背后最大洗钱案</a></li>
 <li><a href="/comments/20240422/2027655.md">强生到底为什么要援助乌克兰？</a></li>
 <li><a href="/cnnews/20240422/2027681.md">全民降薪来临？时代的灰落到公务员头上；中共拉动消费新三件？都是割韭菜利器</a></li>
 <li><a href="/topimagenews/20240422/2027720.md">众议院重磅过关！约翰逊这次赌上全部身家…</a></li>
-<li><a href="/comments/20240421/2027617.md">中国女游客印尼火山口“拍网美照” 坠落惨死</a></li>
+<li><a href="/yule/20240422/2027768.md">美过林青霞！混血巨星一生保守“竟得艾滋病”41岁殒命 生前1句话惹泪崩</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240422/2027895.md" target="_blank">欧美对中共2场“贸易战争2.0版” 即将开打</a></li>
 <li><a href="/comments/20240422/2027865.md" target="_blank">来喽～来喽～日式冷冷上菜喽～ -日式军舰的亲子体验课- (这次无法烧烧上菜)</a></li>
 <li><a href="/comments/20240422/2027826.md" target="_blank">81岁大爷25块钱被抓：不是每位大爷都是范曾</a></li>
 <li><a href="/comments/20240422/2027825.md" target="_blank">老流氓戴上了面具，也永远不会留一个干净的裤裆</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240422/2027697.md" target="_blank">文昭：以色列和伊朗打这一轮就完了？终极之战更近了【会员样片节选】</a></li>
 <li><a href="/comments/20240422/2027691.md" target="_blank">露洲宇宙：伊朗人民，巴不得以色列打进来</a></li>
 <li><a href="/comments/20240422/2027690.md" target="_blank">中国可能有无数个习近平，但下个胡耀邦在哪？</a></li>
-<li><a href="/comments/20240422/2027679.md" target="_blank">乌军击落俄军Tu-22战略轰炸机背后：惊人的“魔改”创新力</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
-<li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
 <li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/comments/20240126/1992876.md" target="_blank">内幕：中国留学生里女生打男生和男生打女一样普遍</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/cbnews/20190701/1151453.md" target="_blank">盘点十大邪教特征 中共条条对号入座</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
 <li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20231220/1976683.md" target="_blank">医山夜话：张锡纯医案解读（二）根治胃气不降之证</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
 <li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
 
 </ul>
 </div>
