@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/topimagenews/20240421/2027452.md">【微博精粹】习近平最新烂尾工程诞生</a></li>
 <li><a href="/ccpdope/20240421/2027486.md">中共政治局常委一否六 雪崩式灾难性后果发生</a></li>
 <li><a href="/topimagenews/20240421/2027515.md">“匿名者”骇入中国机场和大学为西藏镇压事件喊“血债血还”</a></li>
 <li><a href="/ccpdope/20240421/2027579.md">亲信遭遇严刑峻罚，王岐山何时平安著陆</a></li>
 <li><a href="/ssgc/20240421/2027535.md">〖微博谈〗所谓伤害不大，侮辱极强</a></li>
 <li><a href="/baitai/20240421/2027586.md">90后「女」歌手在90岁老人寿宴上猝死 身份曝光 死因引热议</a></li>
-<li><a href="/cbnews/20240421/2027454.md">广东高铁站被淹 高铁车厢进水</a></li>
+<li><a href="/baitai/20240422/2027676.md">北京分管天安门副市长落马 习感到威胁？</a></li>
 <li><a href="/topimagenews/20240421/2027589.md">俄乌战争》克里米亚大桥紧急封闭 传一俄舰遭创</a></li>
 <li><a href="/lifebaike/20240421/2027603.md">出现9个症状 十有八九是恶性肿瘤</a></li>
-<li><a href="/baitai/20240422/2027676.md">北京分管天安门副市长落马 习感到威胁？</a></li>
 <li><a href="/sohnews/20240421/2027580.md">陈破空：罕见！张玉凤突然发表声明：澄清几个传闻！却认了她与毛的不正常关系。美国众议院通过重大法案：援台援乌禁抖音！特斯拉技术遭中国偷光。直播与互动：美东时间4月21日早9点、中港台4月21日当晚9点</a></li>
 <li><a href="/ssgc/20240421/2027611.md">习近平的另一条绞索：美国调查中共高层资产</a></li>
 <li><a href="/topimagenews/20240421/2027478.md">中国快速下沉 1/4国土将被淹</a></li>
 <li><a href="/comments/20240421/2027471.md">猫神:一张震撼世界的中国军人摆拍照片</a></li>
+<li><a href="/cnnews/20240422/2027682.md">华裔大叔屋内藏2亿！FBI抄家，搬了2天2夜...</a></li>
 <li><a href="/ccpdope/20240421/2027559.md">中共大使谢锋哈佛演讲遇抗议被骂：中共骗子无耻</a></li>
-<li><a href="/cbnews/20240421/2027492.md">“扶弟魔”老婆淋开水烫夫 浙离奇家暴案引热议</a></li>
 <li><a href="/baitai/20240421/2027577.md">超级火爆！中共大使哈佛演讲屡被打断 「你不配来这」「你的双手沾满鲜血」...</a></li>
+<li><a href="/cbnews/20240421/2027492.md">“扶弟魔”老婆淋开水烫夫 浙离奇家暴案引热议</a></li>
 <li><a href="/ccpdope/20240421/2027596.md">张玉凤驳斥和毛的传闻 应追究喉舌造假</a></li>
 <li><a href="/lifebaike/20240421/2027602.md">漂在非洲的中国商人 在恐惧中等待暴富</a></li>
-<li><a href="/comments/20240422/2027655.md">强生到底为什么要援助乌克兰？</a></li>
-<li><a href="/cnnews/20240422/2027682.md">华裔大叔屋内藏2亿！FBI抄家，搬了2天2夜...</a></li>
 <li><a href="/topimagenews/20240422/2027687.md">这才是真正麻烦的开始！比中国经济问题严重</a></li>
+<li><a href="/comments/20240422/2027655.md">强生到底为什么要援助乌克兰？</a></li>
+<li><a href="/topimagenews/20240422/2027673.md">偷吃外送被毒杀？ 25岁中国硕士生惨遭马主义硕士生室友下毒</a></li>
 <li><a href="/comments/20240421/2027617.md">中国女游客印尼火山口“拍网美照” 坠落惨死</a></li>
+<li><a href="/bblog/20240421/2027534.md">〖微历史〗“伟大毛时代”三大特征</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/comments/20240418/2026391.md" target="_blank">医生劝我妻子放弃，似乎这些医生热衷让病人快点去死？</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/comments/20231203/1969183.md" target="_blank">开盖冲马桶 ，细菌会乱飞？除非你家马桶是喷泉！</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
 
 </ul>
 </div>
