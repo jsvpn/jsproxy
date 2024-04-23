@@ -11,7 +11,6 @@
 <li><a href="/topimagenews/20240423/2028138.md">蝴蝶效应袭来！中共傻眼了</a></li>
 <li><a href="/topimagenews/20240423/2028315.md">这一次中共中央为何忍气吞声</a></li>
 <li><a href="/cnnews/20240423/2028146.md">许家印、范冰冰与恒大歌舞团内幕 细思极恐</a></li>
-<li><a href="/comments/20240423/2028029.md">天亮时分：赵乐际是习近平的终极目标？</a></li>
 <li><a href="/topimagenews/20240423/2028108.md">“五道口”秘书帮覆灭记</a></li>
 <li><a href="/topimagenews/20240423/2028182.md">中共真急了！十四个部门共同发文 逼百姓花钱招招狠</a></li>
 <li><a href="/cbnews/20240423/2028203.md">女演员被上海警方逮捕 背后还有瓜</a></li>
@@ -22,12 +21,13 @@
 <li><a href="/cnnews/20240423/2028171.md">张玉凤的老照片，有些很少见</a></li>
 <li><a href="/topimagenews/20240423/2028156.md">危急！哥大告急！美加多所名校告急</a></li>
 <li><a href="/cbnews/20240423/2028177.md">〖红朝浮世绘〗只害内地人，“良心”哈啤</a></li>
-<li><a href="/headline/20240423/2028064.md">异议人士掀“跳机”浪潮 中国人再次能走就走</a></li>
 <li><a href="/cnnews/20240423/2028256.md">省委书记司机的能量，到底有多大？</a></li>
+<li><a href="/headline/20240423/2028064.md">异议人士掀“跳机”浪潮 中国人再次能走就走</a></li>
 <li><a href="/topimagenews/20240423/2028167.md">晴天霹雳震惊全球！九国与乌签署安全协议</a></li>
 <li><a href="/cnnews/20240423/2028080.md">为什么？网络疯传：“我从没做过坏事，但人间疾苦，没有一件放过我”</a></li>
 <li><a href="/comments/20240423/2028091.md">反以色列学生占领高校校园 震动美国</a></li>
 <li><a href="/cnnews/20240423/2028144.md">突然，高盛来了个180度大转弯</a></li>
+<li><a href="/topimagenews/20240423/2028137.md">【微博精粹】投胎到墙国 开局都是地狱模式</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240424/2028467.md" target="_blank">司法部检察官“下放”来办川普</a></li>
 <li><a href="/comments/20240423/2028411.md" target="_blank">Turley教授：克林顿做川普一样的事，后果却不一样</a></li>
 <li><a href="/comments/20240423/2028390.md" target="_blank">川普1.75亿美元保证金案获胜，詹姆斯计划流产。封口费开庭首日，川普律师与检察官激烈交锋。亚利桑那州老人被无罪释放。川普封口费案亚利桑那</a></li>
 <li><a href="/comments/20240423/2028378.md" target="_blank">法律教授Jonathan Turly评纽约的川普“封口费”案</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20240421/2027574.md" target="_blank">美国国会顶台湾的力度有多大？</a></li>
 <li><a href="/cbnews/20240421/2027516.md" target="_blank">遏制中共！澳新国防战略不要慢慢来</a></li>
 <li><a href="/cbnews/20240421/2027492.md" target="_blank">“扶弟魔”老婆淋开水烫夫 浙离奇家暴案引热议</a></li>
-<li><a href="/cbnews/20240421/2027454.md" target="_blank">广东高铁站被淹 高铁车厢进水</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240424/2028467.md" target="_blank">司法部检察官“下放”来办川普</a></li>
 <li><a href="/comments/20240423/2028426.md" target="_blank">时事大家谈：美菲军演之际 美太平洋舰队司令出席中国海军论坛；“邪恶轴心”军工网络成形 美制裁能遏阻交易？</a></li>
 <li><a href="/comments/20240423/2028411.md" target="_blank">Turley教授：克林顿做川普一样的事，后果却不一样</a></li>
 <li><a href="/comments/20240423/2028409.md" target="_blank">如何像热门脱口秀明星Leslie Liao一样讲话迷人有魅力？ 🎤</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240423/2028125.md" target="_blank">走读新生:媒体比谁更离谱，教授比谁更敢吹</a></li>
 <li><a href="/comments/20240423/2028106.md" target="_blank">港“五一劳动节”游行绝迹 工运人士：失去传统工友茫然是一定的</a></li>
 <li><a href="/comments/20240423/2028091.md" target="_blank">反以色列学生占领高校校园 震动美国</a></li>
-<li><a href="/comments/20240423/2028090.md" target="_blank">谢峰哈佛演讲3次被打断受惊；拖走台湾抗议女生的小粉红是什么来头？｜吴建民 方菲｜新闻烽火台 04/22</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
+<li><a href="/comments/20190701/1151501.md" target="_blank">【特稿】中国共产党是邪教组织</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
+<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20240412/2024185.md" target="_blank">是治疗还是屠杀?化疗药品滴一滴在皮肤即灼伤，很长时间才好</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/comments/20231223/1978148.md" target="_blank">医山夜话：张锡纯医案解读（三）赭石：降胃气 引火下行</a></li>
 
 </ul>
 </div>
