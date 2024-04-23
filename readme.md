@@ -7,11 +7,11 @@
 
 <li><a href="/topimagenews/20240423/2028109.md">这样的伤害，远超过习近平预测</a></li>
 <li><a href="/baitai/20240423/2028015.md">进入抢钱时代？ 中共公安跨境强制转帐3亿元入自家口袋</a></li>
-<li><a href="/comments/20240423/2028079.md">天亮时分：习近平将放大招 拿正国级开刀？</a></li>
 <li><a href="/cnnews/20240423/2028114.md">北京副市长高朋落马，四个惊叹号</a></li>
+<li><a href="/comments/20240423/2028079.md">天亮时分：习近平将放大招 拿正国级开刀？</a></li>
 <li><a href="/topimagenews/20240423/2028138.md">蝴蝶效应袭来！中共傻眼了</a></li>
-<li><a href="/comments/20240423/2028029.md">天亮时分：赵乐际是习近平的终极目标？</a></li>
 <li><a href="/topimagenews/20240423/2028315.md">这一次中共中央为何忍气吞声</a></li>
+<li><a href="/comments/20240423/2028029.md">天亮时分：赵乐际是习近平的终极目标？</a></li>
 <li><a href="/topimagenews/20240423/2028108.md">“五道口”秘书帮覆灭记</a></li>
 <li><a href="/cnnews/20240423/2028146.md">许家印、范冰冰与恒大歌舞团内幕 细思极恐</a></li>
 <li><a href="/topimagenews/20240423/2028182.md">中共真急了！十四个部门共同发文 逼百姓花钱招招狠</a></li>
@@ -20,9 +20,9 @@
 <li><a href="/topimagenews/20240423/2028301.md">中共神秘会议被曝光 亲历者：不让带手机不让拍照录音录像【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240423/2028136.md">再创新低！人民币闷声下跌</a></li>
 <li><a href="/sohnews/20240423/2028214.md">习的接班人重庆书记袁家军被查，武警副司令郑家概中将被刺，美国将把中国踢出国际金融结算系统。《老灯开讲第541期》</a></li>
+<li><a href="/cnnews/20240423/2028171.md">张玉凤的老照片，有些很少见</a></li>
 <li><a href="/headline/20240423/2028064.md">异议人士掀“跳机”浪潮 中国人再次能走就走</a></li>
 <li><a href="/topimagenews/20240423/2028156.md">危急！哥大告急！美加多所名校告急</a></li>
-<li><a href="/cnnews/20240423/2028171.md">张玉凤的老照片，有些很少见</a></li>
 <li><a href="/cbnews/20240423/2028177.md">〖红朝浮世绘〗只害内地人，“良心”哈啤</a></li>
 <li><a href="/cnnews/20240423/2028080.md">为什么？网络疯传：“我从没做过坏事，但人间疾苦，没有一件放过我”</a></li>
 <li><a href="/topimagenews/20240423/2028167.md">晴天霹雳震惊全球！九国与乌签署安全协议</a></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240423/2028411.md" target="_blank">Turley教授：克林顿做川普一样的事，后果却不一样</a></li>
 <li><a href="/comments/20240423/2028390.md" target="_blank">川普1.75亿美元保证金案获胜，詹姆斯计划流产。封口费开庭首日，川普律师与检察官激烈交锋。亚利桑那州老人被无罪释放。川普封口费案亚利桑那</a></li>
 <li><a href="/comments/20240423/2028378.md" target="_blank">法律教授Jonathan Turly评纽约的川普“封口费”案</a></li>
 <li><a href="/cbnews/20240423/2028279.md" target="_blank">美女律师建议同行做“擦边直播” 事闹大了</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240421/2027516.md" target="_blank">遏制中共！澳新国防战略不要慢慢来</a></li>
 <li><a href="/cbnews/20240421/2027492.md" target="_blank">“扶弟魔”老婆淋开水烫夫 浙离奇家暴案引热议</a></li>
 <li><a href="/cbnews/20240421/2027454.md" target="_blank">广东高铁站被淹 高铁车厢进水</a></li>
-<li><a href="/comments/20240421/2027444.md" target="_blank">【杰森视角】一片黑暗中乌克兰现曙光！以色列军援法案，给巴勒斯坦的钱是直接给以色列的两倍多！约翰逊的一个私人密会改变了乌克兰命运？美众议院通过四大法案，两项针对中共！</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240423/2028411.md" target="_blank">Turley教授：克林顿做川普一样的事，后果却不一样</a></li>
+<li><a href="/comments/20240423/2028409.md" target="_blank">如何像热门脱口秀明星Leslie Liao一样讲话迷人有魅力？ 🎤</a></li>
 <li><a href="/comments/20240423/2028397.md" target="_blank">抗议谢锋演讲后被拖走 哈佛台裔与藏人女学生担心人身安全</a></li>
 <li><a href="/comments/20240423/2028396.md" target="_blank">【秦鹏观察】布林肯将访华 鱼与熊掌 西方逼习二选一</a></li>
 <li><a href="/comments/20240423/2028393.md" target="_blank">【文昭谈古论今】习近平要改总统制？那会发生什么？</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240423/2028091.md" target="_blank">反以色列学生占领高校校园 震动美国</a></li>
 <li><a href="/comments/20240423/2028090.md" target="_blank">谢峰哈佛演讲3次被打断受惊；拖走台湾抗议女生的小粉红是什么来头？｜吴建民 方菲｜新闻烽火台 04/22</a></li>
 <li><a href="/comments/20240423/2028086.md" target="_blank">【邓聿文猜想 #三中全会】 六月召开？以 #新质生产力 为主题？ @dyw1968316</a></li>
-<li><a href="/comments/20240423/2028085.md" target="_blank">【#法轮功上访事件25周年 上百学员在中国驻美使馆前练功抗议】</a></li>
-<li><a href="/comments/20240423/2028084.md" target="_blank">【汪文斌说中国游泳运动员完全不知情 您信吗？】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/cnnews/20221211/1822144.md" target="_blank">盖盖冲马桶很可怕！瞬间“病毒炸开”？</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
 <li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/aomi/life/20240330/2018911.md" target="_blank">挪威青年这样走出重度失眠和抑郁煎熬</a></li>
+<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20231130/1967587.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （一）</a></li>
+<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
 
 </ul>
 </div>
