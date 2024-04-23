@@ -9,10 +9,10 @@
 <li><a href="/topimagenews/20240423/2028109.md">这样的伤害，远超过习近平预测</a></li>
 <li><a href="/cnnews/20240423/2028114.md">北京副市长高朋落马，四个惊叹号</a></li>
 <li><a href="/topimagenews/20240423/2028138.md">蝴蝶效应袭来！中共傻眼了</a></li>
-<li><a href="/comments/20240423/2028079.md">天亮时分：习近平将放大招 拿正国级开刀？</a></li>
 <li><a href="/baitai/20240423/2028015.md">进入抢钱时代？ 中共公安跨境强制转帐3亿元入自家口袋</a></li>
-<li><a href="/comments/20240422/2027919.md">风靡全网的曾仕强预言！泄漏天机：2024年、2044年⋯这五年巨大变化，中国关键节点！理想国、新天子⋯｜未解之谜 扶摇</a></li>
+<li><a href="/comments/20240423/2028079.md">天亮时分：习近平将放大招 拿正国级开刀？</a></li>
 <li><a href="/comments/20240423/2028029.md">天亮时分：赵乐际是习近平的终极目标？</a></li>
+<li><a href="/comments/20240422/2027919.md">风靡全网的曾仕强预言！泄漏天机：2024年、2044年⋯这五年巨大变化，中国关键节点！理想国、新天子⋯｜未解之谜 扶摇</a></li>
 <li><a href="/cnnews/20240423/2028146.md">许家印、范冰冰与恒大歌舞团内幕 细思极恐</a></li>
 <li><a href="/topimagenews/20240422/2027909.md">诉川普法官的又一案 华裔遭撒尿围殴！自卫却被判罪！华人上街声援</a></li>
 <li><a href="/topimagenews/20240423/2028108.md">“五道口”秘书帮覆灭记</a></li>
@@ -20,14 +20,14 @@
 <li><a href="/topimagenews/20240423/2028182.md">中共真急了！十四个部门共同发文 逼百姓花钱招招狠</a></li>
 <li><a href="/sohnews/20240422/2027969.md">“任志强出事后 习近平惧怕之下 困杀岐山之王”《今日点击》（04/22/24）</a></li>
 <li><a href="/topimagenews/20240423/2028136.md">再创新低！人民币闷声下跌</a></li>
+<li><a href="/cbnews/20240423/2028203.md">女演员被上海警方逮捕 背后还有瓜</a></li>
 <li><a href="/topimagenews/20240423/2028156.md">危急！哥大告急！美加多所名校告急</a></li>
 <li><a href="/topimagenews/20240422/2027908.md">去了一趟凌晨4点的医院 内耗消失 我又活过来了</a></li>
-<li><a href="/cbnews/20240423/2028203.md">女演员被上海警方逮捕 背后还有瓜</a></li>
-<li><a href="/cnnews/20240423/2028144.md">突然，高盛来了个180度大转弯</a></li>
 <li><a href="/cnnews/20240423/2028171.md">张玉凤的老照片，有些很少见</a></li>
-<li><a href="/topimagenews/20240423/2028137.md">【微博精粹】投胎到墙国 开局都是地狱模式</a></li>
+<li><a href="/cbnews/20240423/2028177.md">〖红朝浮世绘〗只害内地人，“良心”哈啤</a></li>
+<li><a href="/cnnews/20240423/2028144.md">突然，高盛来了个180度大转弯</a></li>
 <li><a href="/topimagenews/20240423/2028167.md">晴天霹雳震惊全球！九国与乌签署安全协议</a></li>
-<li><a href="/headline/20240423/2028064.md">异议人士掀“跳机”浪潮 中国人再次能走就走</a></li>
+<li><a href="/topimagenews/20240423/2028137.md">【微博精粹】投胎到墙国 开局都是地狱模式</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/comments/20231223/1978148.md" target="_blank">医山夜话：张锡纯医案解读（三）赭石：降胃气 引火下行</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
 <li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/comments/20231212/1972297.md" target="_blank">日本华人确诊晚期直肠癌，修炼法轮功恢复健康（图）</a></li>
-<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/comments/20231201/1968320.md" target="_blank">【非凡新闻】结合中西文化精神 美国神韵表演吸睛</a></li>
-<li><a href="/aomi/life/20240330/2018911.md" target="_blank">挪威青年这样走出重度失眠和抑郁煎熬</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
+<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
 
 </ul>
 </div>
