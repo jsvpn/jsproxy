@@ -25,9 +25,9 @@
 <li><a href="/topimagenews/20240423/2028167.md">晴天霹雳震惊全球！九国与乌签署安全协议</a></li>
 <li><a href="/cnnews/20240423/2028144.md">突然，高盛来了个180度大转弯</a></li>
 <li><a href="/topimagenews/20240423/2028137.md">【微博精粹】投胎到墙国 开局都是地狱模式</a></li>
+<li><a href="/topimagenews/20240424/2028478.md">粗暴拉走哈佛抗议女生的他，网传父母身份 还上榜了...</a></li>
 <li><a href="/headline/20240423/2028398.md">布林肯二度访华，你需要知道的几件事</a></li>
 <li><a href="/ssgc/20240423/2028151.md">〖微博谈〗党纪处置掩盖了犯罪性质</a></li>
-<li><a href="/headline/20240423/2028337.md">华日：美国起草针对援俄中资银行的制裁措施</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240424/2028543.md" target="_blank">60年代校园文革，里根如何摆平</a></li>
+<li><a href="/comments/20240424/2028541.md" target="_blank">哥大校园成“解放区”，全美各大名校跟进，美国文革在校园打响？｜横河 方菲 ｜新闻烽火台 04/23</a></li>
+<li><a href="/cbnews/20240424/2028537.md" target="_blank">中国“校园女神”遭爆作弊 北京电影学院调查</a></li>
 <li><a href="/comments/20240424/2028488.md" target="_blank">反犹造反派会带来什么后果？</a></li>
 <li><a href="/comments/20240424/2028467.md" target="_blank">司法部检察官“下放”来办川普</a></li>
 <li><a href="/comments/20240423/2028411.md" target="_blank">Turley教授：克林顿做川普一样的事，后果却不一样</a></li>
@@ -57,9 +60,6 @@
 <li><a href="/cbnews/20240422/2027698.md" target="_blank">广东“百年一遇”洪水，航拍惨状：恐再下3天</a></li>
 <li><a href="/comments/20240422/2027665.md" target="_blank">强生如何看川普？</a></li>
 <li><a href="/comments/20240422/2027655.md" target="_blank">强生到底为什么要援助乌克兰？</a></li>
-<li><a href="/comments/20240422/2027649.md" target="_blank">艳星前律师感同身受，将在封口费案中为川普作证。马大姐说出援乌真相。众议院通过援乌法案，议长约翰逊面临被罢免。封口费案约翰逊川普</a></li>
-<li><a href="/comments/20240421/2027574.md" target="_blank">美国国会顶台湾的力度有多大？</a></li>
-<li><a href="/cbnews/20240421/2027516.md" target="_blank">遏制中共！澳新国防战略不要慢慢来</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240424/2028543.md" target="_blank">60年代校园文革，里根如何摆平</a></li>
+<li><a href="/comments/20240424/2028541.md" target="_blank">哥大校园成“解放区”，全美各大名校跟进，美国文革在校园打响？｜横河 方菲 ｜新闻烽火台 04/23</a></li>
+<li><a href="/comments/20240424/2028540.md" target="_blank">习眼看要饮下这杯毒酒！布林肯可能开始掀桌子了</a></li>
 <li><a href="/comments/20240424/2028512.md" target="_blank">千百度：大陆媒体质疑调休 网民喊让调休请滚出China</a></li>
 <li><a href="/comments/20240424/2028511.md" target="_blank">袁斌：新一轮美国对中共贸易战已箭在弦上</a></li>
 <li><a href="/comments/20240424/2028510.md" target="_blank">周晓辉：中共三招戕害美国青少年 美需强力反击</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20240423/2028288.md" target="_blank">台湾花莲连两起规模6.0以上地震 福建浙江有震感</a></li>
 <li><a href="/comments/20240423/2028284.md" target="_blank">广东九江大桥又被撞！货轮沉没4人失踪 17年前同桥遭撞9死</a></li>
 <li><a href="/comments/20240423/2028229.md" target="_blank">信号与警惕：针对2024美国大选而来</a></li>
-<li><a href="/comments/20240423/2028222.md" target="_blank">【台湾15小时连200震】【半夜两起六级 #地震 台湾人一夜无眠】</a></li>
-<li><a href="/comments/20240423/2028157.md" target="_blank">中俄伊朝结成了“绝望联盟”</a></li>
-<li><a href="/comments/20240423/2028142.md" target="_blank">吴昆玉：台湾的后备战力距离以色列有多远？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
 <li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20231203/1969183.md" target="_blank">开盖冲马桶 ，细菌会乱飞？除非你家马桶是喷泉！</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/comments/20240418/2026391.md" target="_blank">医生劝我妻子放弃，似乎这些医生热衷让病人快点去死？</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
 
 </ul>
 </div>
