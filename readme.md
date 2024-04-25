@@ -5,12 +5,11 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/sohnews/20240424/2028843.md">“白宫见面礼：将被赶出世界金额系统的中共国银行名单”《今日点击》（04/24/24）</a></li>
 <li><a href="/baitai/20240425/2028887.md">辽宁男随机杀人 传9死13伤</a></li>
 <li><a href="/comments/20240425/2028904.md">钟原：中共党魁重庆之行缩水有何蹊跷</a></li>
 <li><a href="/topimagenews/20240425/2028928.md">热帖：徐才厚与汤灿，“盛世中国”的两朵奇葩</a></li>
-<li><a href="/topimagenews/20240425/2028925.md">都不给中共面子：一个“已读不回” 一个“有事”</a></li>
 <li><a href="/topimagenews/20240425/2029145.md">布林肯抵达上海 现惊人一幕</a></li>
+<li><a href="/topimagenews/20240425/2028925.md">都不给中共面子：一个“已读不回” 一个“有事”</a></li>
 <li><a href="/topimagenews/20240425/2028946.md">骇人！真的要卷土重来？中国人还要经历一次吃大锅饭时代?</a></li>
 <li><a href="/cbnews/20240425/2028894.md">24小时内，第4个中共间谍被逮捕了</a></li>
 <li><a href="/topimagenews/20240425/2028994.md">太难受了！一游戏视频竟让许多中国人泪目【阿波罗网报道】</a></li>
@@ -18,15 +17,16 @@
 <li><a href="/topimagenews/20240425/2028927.md">中共发动政治运动 网红大V们要小心了【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240425/2028890.md">中共力推“以旧换新”，消费者反向解读；中共犯世界大忌！罪魁祸首是它【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20240425/2029059.md">从布林肯访华 看中美关系的最新信号</a></li>
-<li><a href="/comments/20240425/2028906.md">颜纯钩:习近平的又一条绞索：援俄是死，弃俄也是死</a></li>
-<li><a href="/cnnews/20240425/2028963.md">快翻钱包 这张美元纸钞可能价值$15万</a></li>
-<li><a href="/ssgc/20240425/2029077.md">北京等地异象迭生 要发生大事前兆</a></li>
 <li><a href="/ccpdope/20240425/2029119.md">中共统计造假太明显，发布数字的人都不好意思了</a></li>
+<li><a href="/comments/20240425/2028906.md">颜纯钩:习近平的又一条绞索：援俄是死，弃俄也是死</a></li>
+<li><a href="/ssgc/20240425/2029077.md">北京等地异象迭生 要发生大事前兆</a></li>
+<li><a href="/cnnews/20240425/2028963.md">快翻钱包 这张美元纸钞可能价值$15万</a></li>
 <li><a href="/cnnews/20240425/2029061.md">欧盟再给习近平一个下马威</a></li>
-<li><a href="/ssgc/20240425/2028973.md">〖微博谈〗消费降级，人人有责</a></li>
 <li><a href="/comments/20240425/2028960.md">收拾了普京就轮到习近平了！俄乌战争结局没悬念</a></li>
+<li><a href="/ssgc/20240425/2028973.md">〖微博谈〗消费降级，人人有责</a></li>
 <li><a href="/topimagenews/20240425/2028901.md">中国房地产泡沫早有警讯，为什么没人踩刹车？</a></li>
 <li><a href="/cnnews/20240425/2029020.md">习近平将出访欧洲 值得关注的几件事</a></li>
+<li><a href="/topimagenews/20240425/2029158.md">中共特色! 广东洪水滔天不见救援官员 竟还忙浇花 网怒: 腐败又僵化</a></li>
 <li><a href="/baitai/20240425/2029008.md">分析：这一次习又有大麻烦了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240425/2029221.md" target="_blank">时事大家谈：中国推住房“以旧换新” 能让楼市回温？</a></li>
 <li><a href="/comments/20240425/2029204.md" target="_blank">时事大家谈：中国推住房“以旧换新” 能让楼市回温？/ 拜登批准TikTok法 如何折射美中博弈？</a></li>
 <li><a href="/comments/20240425/2029182.md" target="_blank">预测习近平攻台惹上中共国安部！ 她惊：认证我说对了？</a></li>
 <li><a href="/comments/20240425/2029179.md" target="_blank">天亮时分：布林肯带着「金融大招」访华</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240425/2028930.md" target="_blank">重庆考察真正目的是这？习近平开始炒冷饭了</a></li>
 <li><a href="/comments/20240425/2028924.md" target="_blank">【布林肯上海外滩发视频】</a></li>
 <li><a href="/comments/20240425/2028923.md" target="_blank">党媒要布林肯“放低姿态”恐适得其反？重庆燃气事件：暗偷改明抢？美国校园反犹“学潮”会影响2024大选吗？｜方伟 唐靖远 Jason David 方菲｜围炉夜话 04/24</a></li>
-<li><a href="/comments/20240425/2028913.md" target="_blank">李濠仲:今日加萨 让美国更复杂</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20240412/2024185.md" target="_blank">是治疗还是屠杀?化疗药品滴一滴在皮肤即灼伤，很长时间才好</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/tculture/20231217/1975364.md" target="_blank">医山夜话：张锡纯医案解读（1）根治失眠 思路清晰</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
 <li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
 
 </ul>
 </div>
