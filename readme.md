@@ -7,13 +7,12 @@
 
 <li><a href="/topimagenews/20240424/2028711.md">中共党魁坐上了火山口！数十万人大怒：别再演了，该全部下台了！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240424/2028630.md">见习近平 曝布林肯准备了“王炸”</a></li>
-<li><a href="/comments/20240424/2028540.md">习眼看要饮下这杯毒酒！布林肯可能开始掀桌子了</a></li>
 <li><a href="/ccpdope/20240424/2028653.md">秦刚内幕持续发酵：傅抵京即被捕 DNA鉴定引习震怒</a></li>
 <li><a href="/topimagenews/20240424/2028691.md">习早已内定 他故意泄秘件害惨“废太子”？</a></li>
 <li><a href="/baitai/20240424/2028807.md">疑云重重 北京副市长传参与反习政变</a></li>
 <li><a href="/topimagenews/20240424/2028699.md">这才是北京不敢轻举妄动的原因</a></li>
-<li><a href="/cbnews/20240424/2028643.md">〖红朝浮世绘〗台裔生抗议谢锋被谁拉走？竟是中共高官儿子</a></li>
 <li><a href="/topimagenews/20240424/2028629.md">卷到这份上 一切都是虚假繁荣</a></li>
+<li><a href="/cbnews/20240424/2028643.md">〖红朝浮世绘〗台裔生抗议谢锋被谁拉走？竟是中共高官儿子</a></li>
 <li><a href="/topimagenews/20240424/2028710.md">这一迹象让北京越来越不安</a></li>
 <li><a href="/comments/20240424/2028739.md">25名中共高级将领密集病亡 全是中共党员</a></li>
 <li><a href="/comments/20240424/2028683.md">这一次 习总的麻烦大了</a></li>
@@ -25,9 +24,10 @@
 <li><a href="/ssgc/20240424/2028595.md">〖微博谈〗这世界变化快</a></li>
 <li><a href="/yule/20240424/2028640.md">看了蒋雯丽的旧照 才明白顾长卫王全安为啥沦陷</a></li>
 <li><a href="/sohnews/20240424/2028690.md">中央军委行动局已处决将领名单，重庆市民上街抗议燃气乱收费，全国教育界大反腐拉开帷幕。《老灯开讲第542期》</a></li>
-<li><a href="/cnnews/20240424/2028542.md">几十万比亚迪车主要急！刀片电池出圈了</a></li>
 <li><a href="/cnnews/20240424/2028730.md">改革有底线 赵紫阳曝老邓种下祸根</a></li>
+<li><a href="/baitai/20240424/2028823.md">86岁范曾婚后首曝奢华家宴 小50岁妻奢侈生活受关注</a></li>
 <li><a href="/comments/20240424/2028743.md">天亮时分：秦刚是辞职不是罢免</a></li>
+<li><a href="/ccpdope/20240424/2028644.md">北京等地怪异频发 大事要发生</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240425/2028929.md" target="_blank">欧盟突击检查中企 中共商务部回应：震惊 抗议</a></li>
 <li><a href="/comments/20240425/2028923.md" target="_blank">党媒要布林肯“放低姿态”恐适得其反？重庆燃气事件：暗偷改明抢？美国校园反犹“学潮”会影响2024大选吗？｜方伟 唐靖远 Jason David 方菲｜围炉夜话 04/24</a></li>
 <li><a href="/cbnews/20240425/2028912.md" target="_blank">中共蔑视人权侵门踏户！安装监控软体、抢电动车 民众持菜刀对峙</a></li>
 <li><a href="/cbnews/20240425/2028894.md" target="_blank">24小时内，第4个中共间谍被逮捕了</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240423/2028203.md" target="_blank">女演员被上海警方逮捕 背后还有瓜</a></li>
 <li><a href="/cbnews/20240423/2028202.md" target="_blank">江峰：共军二号人物：我军被锁死；吃相与习近平《大食物观》，建蓝色粮仓开启南海人民战争模式，布林肯即将访华，对中共发最後通牒【江峰漫谈20240422第858期】</a></li>
 <li><a href="/cbnews/20240423/2028183.md" target="_blank">中国广东一半泡在水里 至少4死10失踪</a></li>
-<li><a href="/cbnews/20240423/2028177.md" target="_blank">〖红朝浮世绘〗只害内地人，“良心”哈啤</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240425/2028931.md" target="_blank">黄涵榆：当第一大党成为国政的乱源…</a></li>
+<li><a href="/comments/20240425/2028930.md" target="_blank">重庆考察真正目的是这？习近平开始炒冷饭了</a></li>
 <li><a href="/comments/20240425/2028924.md" target="_blank">【布林肯上海外滩发视频】</a></li>
 <li><a href="/comments/20240425/2028923.md" target="_blank">党媒要布林肯“放低姿态”恐适得其反？重庆燃气事件：暗偷改明抢？美国校园反犹“学潮”会影响2024大选吗？｜方伟 唐靖远 Jason David 方菲｜围炉夜话 04/24</a></li>
 <li><a href="/comments/20240425/2028913.md" target="_blank">李濠仲:今日加萨 让美国更复杂</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240424/2028765.md" target="_blank">禁TikTok法案通过后 TikTok多快会消失？</a></li>
 <li><a href="/comments/20240424/2028751.md" target="_blank">【人权组织揭示中国以金援武装冲突 助长极权对外扩张】</a></li>
 <li><a href="/comments/20240424/2028743.md" target="_blank">天亮时分：秦刚是辞职不是罢免</a></li>
-<li><a href="/comments/20240424/2028741.md" target="_blank">传傅晓田专机抵京即被带走 孩子被做DNA鉴定</a></li>
-<li><a href="/comments/20240424/2028739.md" target="_blank">25名中共高级将领密集病亡 全是中共党员</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/comments/20231207/1970628.md" target="_blank">民兵对官军，希望之声打造广播界的奇蹟【方伟时间-20231206】</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
 <li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
 
 </ul>
 </div>
