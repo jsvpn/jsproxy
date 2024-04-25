@@ -6,16 +6,16 @@
 <ul>
 
 <li><a href="/topimagenews/20240425/2029145.md">布林肯抵达上海 现惊人一幕</a></li>
-<li><a href="/topimagenews/20240425/2028928.md">热帖：徐才厚与汤灿，“盛世中国”的两朵奇葩</a></li>
 <li><a href="/topimagenews/20240425/2028946.md">骇人！真的要卷土重来？中国人还要经历一次吃大锅饭时代?</a></li>
+<li><a href="/topimagenews/20240425/2028928.md">热帖：徐才厚与汤灿，“盛世中国”的两朵奇葩</a></li>
 <li><a href="/topimagenews/20240425/2028925.md">都不给中共面子：一个“已读不回” 一个“有事”</a></li>
 <li><a href="/cbnews/20240425/2029023.md">〖红朝浮世绘〗哪里有灾情哪里没有他 广东洪灾他却跑重庆去了</a></li>
 <li><a href="/topimagenews/20240425/2028927.md">中共发动政治运动 网红大V们要小心了【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240425/2028994.md">太难受了！一游戏视频竟让许多中国人泪目【阿波罗网报道】</a></li>
 <li><a href="/ccpdope/20240425/2029119.md">中共统计造假太明显，发布数字的人都不好意思了</a></li>
+<li><a href="/topimagenews/20240425/2029225.md">暴跌99.99%，中共好朋友这国上了中国热搜</a></li>
 <li><a href="/cbnews/20240425/2029059.md">从布林肯访华 看中美关系的最新信号</a></li>
 <li><a href="/sohnews/20240425/2029151.md">🔥揭秘习近平家族 从万达 牟取的暴利!王健林 曾跑路被拦, 还完欠债才能保命?! 万达总部易主, 王健林花了7年时间以“还债”为名“全身而退” ! 告别万达, 王健林时代落幕!【250424】</a></li>
-<li><a href="/topimagenews/20240425/2029225.md">暴跌99.99%，中共好朋友这国上了中国热搜</a></li>
 <li><a href="/topimagenews/20240425/2029158.md">中共特色! 广东洪水滔天不见救援官员 竟还忙浇花 网怒: 腐败又僵化</a></li>
 <li><a href="/ssgc/20240425/2029077.md">北京等地异象迭生 要发生大事前兆</a></li>
 <li><a href="/cnnews/20240425/2028963.md">快翻钱包 这张美元纸钞可能价值$15万</a></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240426/2029290.md" target="_blank">菁英论坛：站直不跪 4·25照亮当代中国史</a></li>
 <li><a href="/comments/20240426/2029285.md" target="_blank">普京惨上加惨！四个事件叠加内外交困</a></li>
 <li><a href="/comments/20240426/2029284.md" target="_blank">夜读社：美高校大规模反犹，白左病得不轻，挨打不长记性</a></li>
 <li><a href="/comments/20240426/2029279.md" target="_blank">【TikTok退出美国？影响可能没那么大】</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240425/2029013.md" target="_blank">西坡原创:停滞，是不知不觉发生的</a></li>
 <li><a href="/comments/20240425/2029000.md" target="_blank">土地财政一熄火，水电气就齐刷刷都涨价了</a></li>
 <li><a href="/comments/20240425/2028992.md" target="_blank">天亮时分：不敢援俄，又不能不援俄，习近平进退无路；社媒耳语，习要修宪当总统（政论天下第1291集 20240424）天亮时分</a></li>
-<li><a href="/comments/20240425/2028977.md" target="_blank">书写者：不准农民种地的纪云浩副书记，毛星火起诉吧</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
-<li><a href="/comments/20240412/2024185.md" target="_blank">是治疗还是屠杀?化疗药品滴一滴在皮肤即灼伤，很长时间才好</a></li>
-<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
 <li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20231214/1974098.md" target="_blank">美国众议院议长：我所坚守的保守主义，具体是些什么内容？</a></li>
-<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/comments/20231203/1969183.md" target="_blank">开盖冲马桶 ，细菌会乱飞？除非你家马桶是喷泉！</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20231220/1976789.md" target="_blank">大陆医生曝：九价HPV疫苗导致怀孕能力下降40%</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
 
 </ul>
 </div>
