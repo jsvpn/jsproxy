@@ -9,8 +9,8 @@
 <li><a href="/topimagenews/20240424/2028630.md">见习近平 曝布林肯准备了“王炸”</a></li>
 <li><a href="/ccpdope/20240424/2028653.md">秦刚内幕持续发酵：傅抵京即被捕 DNA鉴定引习震怒</a></li>
 <li><a href="/topimagenews/20240424/2028691.md">习早已内定 他故意泄秘件害惨“废太子”？</a></li>
-<li><a href="/baitai/20240424/2028807.md">疑云重重 北京副市长传参与反习政变</a></li>
 <li><a href="/topimagenews/20240424/2028699.md">这才是北京不敢轻举妄动的原因</a></li>
+<li><a href="/baitai/20240424/2028807.md">疑云重重 北京副市长传参与反习政变</a></li>
 <li><a href="/topimagenews/20240424/2028629.md">卷到这份上 一切都是虚假繁荣</a></li>
 <li><a href="/cbnews/20240424/2028643.md">〖红朝浮世绘〗台裔生抗议谢锋被谁拉走？竟是中共高官儿子</a></li>
 <li><a href="/topimagenews/20240424/2028710.md">这一迹象让北京越来越不安</a></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240425/2028947.md" target="_blank">“高强度外交” 中美关系的最新信号</a></li>
 <li><a href="/cbnews/20240425/2028929.md" target="_blank">欧盟突击检查中企 中共商务部回应：震惊 抗议</a></li>
 <li><a href="/comments/20240425/2028923.md" target="_blank">党媒要布林肯“放低姿态”恐适得其反？重庆燃气事件：暗偷改明抢？美国校园反犹“学潮”会影响2024大选吗？｜方伟 唐靖远 Jason David 方菲｜围炉夜话 04/24</a></li>
 <li><a href="/cbnews/20240425/2028912.md" target="_blank">中共蔑视人权侵门踏户！安装监控软体、抢电动车 民众持菜刀对峙</a></li>
@@ -59,13 +60,13 @@
 <li><a href="/cbnews/20240423/2028279.md" target="_blank">美女律师建议同行做“擦边直播” 事闹大了</a></li>
 <li><a href="/cbnews/20240423/2028203.md" target="_blank">女演员被上海警方逮捕 背后还有瓜</a></li>
 <li><a href="/cbnews/20240423/2028202.md" target="_blank">江峰：共军二号人物：我军被锁死；吃相与习近平《大食物观》，建蓝色粮仓开启南海人民战争模式，布林肯即将访华，对中共发最後通牒【江峰漫谈20240422第858期】</a></li>
-<li><a href="/cbnews/20240423/2028183.md" target="_blank">中国广东一半泡在水里 至少4死10失踪</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240425/2028946.md" target="_blank">骇人！真的要卷土重来？中国人还要经历一次吃大锅饭时代?</a></li>
 <li><a href="/topimagenews/20240425/2028928.md" target="_blank">热帖：徐才厚与汤灿，“盛世中国”的两朵奇葩</a></li>
 <li><a href="/topimagenews/20240425/2028927.md" target="_blank">中共发动政治运动 网红大V们要小心了【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240425/2028925.md" target="_blank">都不给中共面子：一个“已读不回” 一个“有事”</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20240423/2028167.md" target="_blank">晴天霹雳震惊全球！九国与乌签署安全协议</a></li>
 <li><a href="/topimagenews/20240423/2028156.md" target="_blank">危急！哥大告急！美加多所名校告急</a></li>
 <li><a href="/topimagenews/20240423/2028138.md" target="_blank">蝴蝶效应袭来！中共傻眼了</a></li>
-<li><a href="/topimagenews/20240423/2028137.md" target="_blank">【微博精粹】投胎到墙国 开局都是地狱模式</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240425/2028945.md" target="_blank">文昭：终於等来了！中国货币政策发生重大转向，消息来源比消息本身更有料！习近平提出「大食物观」</a></li>
 <li><a href="/comments/20240425/2028931.md" target="_blank">黄涵榆：当第一大党成为国政的乱源…</a></li>
 <li><a href="/comments/20240425/2028930.md" target="_blank">重庆考察真正目的是这？习近平开始炒冷饭了</a></li>
 <li><a href="/comments/20240425/2028924.md" target="_blank">【布林肯上海外滩发视频】</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240424/2028798.md" target="_blank">马斯克的X TV要出台，要干嘛？</a></li>
 <li><a href="/comments/20240424/2028765.md" target="_blank">禁TikTok法案通过后 TikTok多快会消失？</a></li>
 <li><a href="/comments/20240424/2028751.md" target="_blank">【人权组织揭示中国以金援武装冲突 助长极权对外扩张】</a></li>
-<li><a href="/comments/20240424/2028743.md" target="_blank">天亮时分：秦刚是辞职不是罢免</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
 <li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
 
 </ul>
 </div>
