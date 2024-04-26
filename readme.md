@@ -15,17 +15,17 @@
 <li><a href="/sohnews/20240425/2029151.md">🔥揭秘习近平家族 从万达 牟取的暴利!王健林 曾跑路被拦, 还完欠债才能保命?! 万达总部易主, 王健林花了7年时间以“还债”为名“全身而退” ! 告别万达, 王健林时代落幕!【250424】</a></li>
 <li><a href="/topimagenews/20240425/2029158.md">中共特色! 广东洪水滔天不见救援官员 竟还忙浇花 网怒: 腐败又僵化</a></li>
 <li><a href="/cnnews/20240425/2029061.md">欧盟再给习近平一个下马威</a></li>
-<li><a href="/cnnews/20240425/2028963.md">快翻钱包 这张美元纸钞可能价值$15万</a></li>
 <li><a href="/ssgc/20240425/2028973.md">〖微博谈〗消费降级，人人有责</a></li>
-<li><a href="/comments/20240425/2028960.md">收拾了普京就轮到习近平了！俄乌战争结局没悬念</a></li>
+<li><a href="/topimagenews/20240426/2029272.md">中国富人，藏宝式资产转移正在上演</a></li>
 <li><a href="/baitai/20240425/2029008.md">分析：这一次习又有大麻烦了</a></li>
 <li><a href="/cnnews/20240425/2029020.md">习近平将出访欧洲 值得关注的几件事</a></li>
 <li><a href="/ssgc/20240425/2029184.md">若被美国踢出SWIFT系统 北京怕不怕</a></li>
-<li><a href="/topimagenews/20240426/2029272.md">中国富人，藏宝式资产转移正在上演</a></li>
 <li><a href="/sohnews/20240425/2029150.md">陈破空：异常！他重庆之行触霉头。数十万人齐声喊：全部下台！沈阳出大事。布林肯抵达上海，中共军舰伺候？美欧同日大动作，TikTok面临灭顶之灾。直播与互动：美东时间4月25日早9点、中港台4月25日当晚9点</a></li>
 <li><a href="/cbnews/20240425/2029074.md">江峰：广东大水习去重庆，西部大开发不再搞经济而是回归大三线战争模式，重庆魔咒，袁家军要倒霉？燃气表调查结果如何欺瞒世人。【江峰漫谈20240424第859期】</a></li>
 <li><a href="/funmedia/20240425/2029026.md">幽默笑话：男女关系</a></li>
 <li><a href="/headline/20240426/2029230.md">北京就德国接连逮捕中国间谍召见德驻华大使，大使称“耐人寻味”</a></li>
+<li><a href="/topimagenews/20240426/2029282.md">小马科斯宣布对中共开战？网疯传音档讯息 菲律宾回应</a></li>
+<li><a href="/cbnews/20240426/2029273.md">嚣张！在中留学生享特权 让多位女友怀孕 一年挥霍89万</a></li>
 <li><a href="/topimagenews/20240425/2029180.md">南加大骚乱！警员持警棍驱逐 校园紧急关闭</a></li>
 <li><a href="/ccpdope/20240425/2029135.md">中共扩大对基层民众监控，特别关注与外国有联系</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -66,6 +66,8 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240426/2029330.md" target="_blank">好戏就要开场！这次美国对乌军援，亮点太多了</a></li>
+<li><a href="/topimagenews/20240426/2029329.md" target="_blank">经济这副鬼样，内卷只是刚刚开始</a></li>
 <li><a href="/topimagenews/20240426/2029315.md" target="_blank">菲律宾总统“向中共宣战”？录音疯传 舆论炸锅</a></li>
 <li><a href="/topimagenews/20240426/2029298.md" target="_blank">中共提醒：要习惯常年勒紧裤带！官员们反应非常迅速</a></li>
 <li><a href="/topimagenews/20240426/2029282.md" target="_blank">小马科斯宣布对中共开战？网疯传音档讯息 菲律宾回应</a></li>
@@ -89,14 +91,14 @@
 <li><a href="/topimagenews/20240424/2028710.md" target="_blank">这一迹象让北京越来越不安</a></li>
 <li><a href="/topimagenews/20240424/2028699.md" target="_blank">这才是北京不敢轻举妄动的原因</a></li>
 <li><a href="/topimagenews/20240424/2028691.md" target="_blank">习早已内定 他故意泄秘件害惨“废太子”？</a></li>
-<li><a href="/topimagenews/20240424/2028630.md" target="_blank">见习近平 曝布林肯准备了“王炸”</a></li>
-<li><a href="/topimagenews/20240424/2028629.md" target="_blank">卷到这份上 一切都是虚假繁荣</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240426/2029332.md" target="_blank">有多毒？胡温遭甩锅 自已信得过的人体制内被喂料</a></li>
+<li><a href="/comments/20240426/2029328.md" target="_blank">天亮时分：援不援俄？习近平进退无路</a></li>
 <li><a href="/comments/20240426/2029290.md" target="_blank">菁英论坛：站直不跪 4·25照亮当代中国史</a></li>
 <li><a href="/comments/20240426/2029285.md" target="_blank">普京惨上加惨！四个事件叠加内外交困</a></li>
 <li><a href="/comments/20240426/2029284.md" target="_blank">夜读社：美高校大规模反犹，白左病得不轻，挨打不长记性</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240425/2029015.md" target="_blank">变态辣椒:Babylon Bee近期段子合集</a></li>
 <li><a href="/comments/20240425/2029014.md" target="_blank">四环青年:南京市民骑无牌自行车被罚50元，仅退还罚款还不够</a></li>
 <li><a href="/comments/20240425/2029013.md" target="_blank">西坡原创:停滞，是不知不觉发生的</a></li>
-<li><a href="/comments/20240425/2029000.md" target="_blank">土地财政一熄火，水电气就齐刷刷都涨价了</a></li>
-<li><a href="/comments/20240425/2028992.md" target="_blank">天亮时分：不敢援俄，又不能不援俄，习近平进退无路；社媒耳语，习要修宪当总统（政论天下第1291集 20240424）天亮时分</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/taiwannews/20210119/1470524.md" target="_blank">纪录片《蚕食美国1》</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/taiwannews/20210119/1470761.md" target="_blank">独家：震撼纪录片《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
+<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
 
 </ul>
 </div>
