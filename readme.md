@@ -15,15 +15,15 @@
 <li><a href="/cnnews/20240425/2029061.md">欧盟再给习近平一个下马威</a></li>
 <li><a href="/topimagenews/20240425/2029158.md">中共特色! 广东洪水滔天不见救援官员 竟还忙浇花 网怒: 腐败又僵化</a></li>
 <li><a href="/topimagenews/20240426/2029272.md">中国富人，藏宝式资产转移正在上演</a></li>
-<li><a href="/baitai/20240425/2029008.md">分析：这一次习又有大麻烦了</a></li>
-<li><a href="/ssgc/20240425/2029184.md">若被美国踢出SWIFT系统 北京怕不怕</a></li>
 <li><a href="/cnnews/20240425/2029020.md">习近平将出访欧洲 值得关注的几件事</a></li>
+<li><a href="/ssgc/20240425/2029184.md">若被美国踢出SWIFT系统 北京怕不怕</a></li>
+<li><a href="/cbnews/20240426/2029273.md">嚣张！在中留学生享特权 让多位女友怀孕 一年挥霍89万</a></li>
 <li><a href="/sohnews/20240425/2029150.md">陈破空：异常！他重庆之行触霉头。数十万人齐声喊：全部下台！沈阳出大事。布林肯抵达上海，中共军舰伺候？美欧同日大动作，TikTok面临灭顶之灾。直播与互动：美东时间4月25日早9点、中港台4月25日当晚9点</a></li>
 <li><a href="/topimagenews/20240426/2029282.md">小马科斯宣布对中共开战？网疯传音档讯息 菲律宾回应</a></li>
-<li><a href="/cbnews/20240426/2029273.md">嚣张！在中留学生享特权 让多位女友怀孕 一年挥霍89万</a></li>
 <li><a href="/cbnews/20240425/2029074.md">江峰：广东大水习去重庆，西部大开发不再搞经济而是回归大三线战争模式，重庆魔咒，袁家军要倒霉？燃气表调查结果如何欺瞒世人。【江峰漫谈20240424第859期】</a></li>
 <li><a href="/funmedia/20240425/2029026.md">幽默笑话：男女关系</a></li>
 <li><a href="/headline/20240426/2029230.md">北京就德国接连逮捕中国间谍召见德驻华大使，大使称“耐人寻味”</a></li>
+<li><a href="/comments/20240426/2029259.md">天亮时分：习近平要修宪当总统？</a></li>
 <li><a href="/topimagenews/20240425/2029180.md">南加大骚乱！警员持警棍驱逐 校园紧急关闭</a></li>
 <li><a href="/ccpdope/20240425/2029135.md">中共扩大对基层民众监控，特别关注与外国有联系</a></li>
 <li><a href="/comments/20240425/2029182.md">预测习近平攻台惹上中共国安部！ 她惊：认证我说对了？</a></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240426/2029368.md" target="_blank">柬埔寨的太子集团： 一个建立在犯罪之上的商业帝国？</a></li>
 <li><a href="/comments/20240426/2029348.md" target="_blank">最高法院听审川普豁免案 表明态度</a></li>
 <li><a href="/comments/20240426/2029346.md" target="_blank">天亮时分：李强一句话，又双叒叕得罪习近平；津巴布韦，凭什麽上中国热搜？普京下个月又要来了，习近平躲无可躲；（政论天下第1292集 20240425）天亮时分</a></li>
 <li><a href="/comments/20240426/2029345.md" target="_blank">中国大妈大战豪华邮轮，MSC荣耀号上演全武行！上海首航一言难尽，哥姐全程欢乐讲述，不信笑不翻你</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240425/2029032.md" target="_blank">婉清:贪污受贿，欺负老百姓，抢劫奸污，这是他们的工作</a></li>
 <li><a href="/comments/20240425/2029018.md" target="_blank">犯犯之谈：一件令我恐惧、愤怒、绝望的“小事”</a></li>
 <li><a href="/comments/20240425/2029017.md" target="_blank">心碎了一地:向华润燃气道歉，我错了</a></li>
-<li><a href="/comments/20240425/2029016.md" target="_blank">吴祚来： 习愚蠢被俄罗斯暗线绑在战车上</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
 <li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
 
 </ul>
 </div>
