@@ -8,26 +8,26 @@
 <li><a href="/topimagenews/20240425/2029145.md">布林肯抵达上海 现惊人一幕</a></li>
 <li><a href="/ccpdope/20240425/2029119.md">中共统计造假太明显，发布数字的人都不好意思了</a></li>
 <li><a href="/ssgc/20240425/2029077.md">北京等地异象迭生 要发生大事前兆</a></li>
-<li><a href="/topimagenews/20240425/2029225.md">暴跌99.99%，中共好朋友这国上了中国热搜</a></li>
-<li><a href="/cbnews/20240425/2029059.md">从布林肯访华 看中美关系的最新信号</a></li>
 <li><a href="/sohnews/20240425/2029151.md">🔥揭秘习近平家族 从万达 牟取的暴利!王健林 曾跑路被拦, 还完欠债才能保命?! 万达总部易主, 王健林花了7年时间以“还债”为名“全身而退” ! 告别万达, 王健林时代落幕!【250424】</a></li>
-<li><a href="/cnnews/20240425/2029061.md">欧盟再给习近平一个下马威</a></li>
+<li><a href="/cbnews/20240425/2029059.md">从布林肯访华 看中美关系的最新信号</a></li>
+<li><a href="/topimagenews/20240425/2029225.md">暴跌99.99%，中共好朋友这国上了中国热搜</a></li>
 <li><a href="/topimagenews/20240426/2029272.md">中国富人，藏宝式资产转移正在上演</a></li>
+<li><a href="/cnnews/20240425/2029061.md">欧盟再给习近平一个下马威</a></li>
 <li><a href="/topimagenews/20240425/2029158.md">中共特色! 广东洪水滔天不见救援官员 竟还忙浇花 网怒: 腐败又僵化</a></li>
-<li><a href="/ssgc/20240425/2029184.md">若被美国踢出SWIFT系统 北京怕不怕</a></li>
 <li><a href="/cbnews/20240426/2029273.md">嚣张！在中留学生享特权 让多位女友怀孕 一年挥霍89万</a></li>
 <li><a href="/topimagenews/20240426/2029282.md">小马科斯宣布对中共开战？网疯传音档讯息 菲律宾回应</a></li>
+<li><a href="/ssgc/20240425/2029184.md">若被美国踢出SWIFT系统 北京怕不怕</a></li>
 <li><a href="/sohnews/20240425/2029150.md">陈破空：异常！他重庆之行触霉头。数十万人齐声喊：全部下台！沈阳出大事。布林肯抵达上海，中共军舰伺候？美欧同日大动作，TikTok面临灭顶之灾。直播与互动：美东时间4月25日早9点、中港台4月25日当晚9点</a></li>
-<li><a href="/comments/20240426/2029259.md">天亮时分：习近平要修宪当总统？</a></li>
 <li><a href="/topimagenews/20240426/2029298.md">中共提醒：要习惯常年勒紧裤带！官员们反应非常迅速</a></li>
+<li><a href="/comments/20240426/2029259.md">天亮时分：习近平要修宪当总统？</a></li>
 <li><a href="/cbnews/20240425/2029074.md">江峰：广东大水习去重庆，西部大开发不再搞经济而是回归大三线战争模式，重庆魔咒，袁家军要倒霉？燃气表调查结果如何欺瞒世人。【江峰漫谈20240424第859期】</a></li>
-<li><a href="/headline/20240426/2029230.md">北京就德国接连逮捕中国间谍召见德驻华大使，大使称“耐人寻味”</a></li>
 <li><a href="/ccpdope/20240425/2029135.md">中共扩大对基层民众监控，特别关注与外国有联系</a></li>
+<li><a href="/headline/20240426/2029230.md">北京就德国接连逮捕中国间谍召见德驻华大使，大使称“耐人寻味”</a></li>
 <li><a href="/comments/20240425/2029182.md">预测习近平攻台惹上中共国安部！ 她惊：认证我说对了？</a></li>
 <li><a href="/topimagenews/20240425/2029180.md">南加大骚乱！警员持警棍驱逐 校园紧急关闭</a></li>
+<li><a href="/cnnews/20240426/2029274.md">备战讯号？习近平重庆考察提四字</a></li>
 <li><a href="/headline/20240425/2029057.md">布林肯会见上海市委书记 吁美中负责任地管理两国关系</a></li>
 <li><a href="/cnnews/20240425/2029159.md">中共政权抢地又抢钱 中国多地居民与警冲突</a></li>
-<li><a href="/cnnews/20240425/2029052.md">马斯克一句话，特斯拉一天暴涨近600亿美元</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240426/2029388.md" target="_blank">全网爆火！翻墙向中共党魁借钱买房！陕西教师公开发声【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240426/2029375.md" target="_blank">中共最高指示来了？激战美国 TikTok或粉身碎骨</a></li>
 <li><a href="/topimagenews/20240426/2029362.md" target="_blank">【微博精粹】大陆新能源车保费暴涨 车主破防</a></li>
 <li><a href="/topimagenews/20240426/2029349.md" target="_blank">牵动全球格局！踢走华为 曾经的中共好兄弟</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20240425/2028925.md" target="_blank">都不给中共面子：一个“已读不回” 一个“有事”</a></li>
 <li><a href="/topimagenews/20240425/2028901.md" target="_blank">中国房地产泡沫早有警讯，为什么没人踩刹车？</a></li>
 <li><a href="/topimagenews/20240425/2028890.md" target="_blank">中共力推“以旧换新”，消费者反向解读；中共犯世界大忌！罪魁祸首是它【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20240424/2028711.md" target="_blank">中共党魁坐上了火山口！数十万人大怒：别再演了，该全部下台了！【阿波罗网报道】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20240116/1984226.md" target="_blank">湖北老河口遇仙记</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
 <li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20231203/1969183.md" target="_blank">开盖冲马桶 ，细菌会乱飞？除非你家马桶是喷泉！</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/cnnews/20221211/1822144.md" target="_blank">盖盖冲马桶很可怕！瞬间“病毒炸开”？</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20231220/1976789.md" target="_blank">大陆医生曝：九价HPV疫苗导致怀孕能力下降40%</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/aomi/life/20240330/2018911.md" target="_blank">挪威青年这样走出重度失眠和抑郁煎熬</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
 
 </ul>
 </div>
