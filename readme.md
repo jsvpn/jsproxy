@@ -6,7 +6,6 @@
 <ul>
 
 <li><a href="/topimagenews/20240425/2029145.md">布林肯抵达上海 现惊人一幕</a></li>
-<li><a href="/ccpdope/20240425/2029119.md">中共统计造假太明显，发布数字的人都不好意思了</a></li>
 <li><a href="/sohnews/20240425/2029151.md">🔥揭秘习近平家族 从万达 牟取的暴利!王健林 曾跑路被拦, 还完欠债才能保命?! 万达总部易主, 王健林花了7年时间以“还债”为名“全身而退” ! 告别万达, 王健林时代落幕!【250424】</a></li>
 <li><a href="/topimagenews/20240425/2029225.md">暴跌99.99%，中共好朋友这国上了中国热搜</a></li>
 <li><a href="/topimagenews/20240426/2029272.md">中国富人，藏宝式资产转移正在上演</a></li>
@@ -19,15 +18,16 @@
 <li><a href="/topimagenews/20240426/2029282.md">小马科斯宣布对中共开战？网疯传音档讯息 菲律宾回应</a></li>
 <li><a href="/finance/20240426/2029350.md">影响所有人的钱！中国金融领域超级大事发生</a></li>
 <li><a href="/topimagenews/20240426/2029362.md">【微博精粹】大陆新能源车保费暴涨 车主破防</a></li>
+<li><a href="/comments/20240426/2029259.md">天亮时分：习近平要修宪当总统？</a></li>
 <li><a href="/ccpdope/20240425/2029135.md">中共扩大对基层民众监控，特别关注与外国有联系</a></li>
 <li><a href="/yule/20240426/2029355.md">日本女演员曝光中国演艺圈内幕 震惊…</a></li>
-<li><a href="/comments/20240426/2029259.md">天亮时分：习近平要修宪当总统？</a></li>
-<li><a href="/headline/20240426/2029230.md">北京就德国接连逮捕中国间谍召见德驻华大使，大使称“耐人寻味”</a></li>
 <li><a href="/cnnews/20240426/2029274.md">备战讯号？习近平重庆考察提四字</a></li>
+<li><a href="/headline/20240426/2029230.md">北京就德国接连逮捕中国间谍召见德驻华大使，大使称“耐人寻味”</a></li>
 <li><a href="/topimagenews/20240426/2029330.md">好戏就要开场！这次美国对乌军援，亮点太多了</a></li>
 <li><a href="/comments/20240425/2029182.md">预测习近平攻台惹上中共国安部！ 她惊：认证我说对了？</a></li>
+<li><a href="/cbnews/20240426/2029387.md">〖红朝浮世绘〗习近平提怪词&quot;大食物观&quot; 大家快吃不上饭了？</a></li>
 <li><a href="/topimagenews/20240425/2029180.md">南加大骚乱！警员持警棍驱逐 校园紧急关闭</a></li>
-<li><a href="/headline/20240425/2029125.md">布林肯抵达北京 将和中国外长王毅会谈</a></li>
+<li><a href="/topimagenews/20240426/2029401.md">突发！美禁中国电信、中国联通和中国移动“宽带互联网”业务</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20231207/1970628.md" target="_blank">民兵对官军，希望之声打造广播界的奇蹟【方伟时间-20231206】</a></li>
-<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
 <li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20231223/1978148.md" target="_blank">医山夜话：张锡纯医案解读（三）赭石：降胃气 引火下行</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/taiwannews/20210119/1470761.md" target="_blank">独家：震撼纪录片《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
 <li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
-<li><a href="/aomi/life/20240330/2018911.md" target="_blank">挪威青年这样走出重度失眠和抑郁煎熬</a></li>
-<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
 <li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
 
 </ul>
 </div>
