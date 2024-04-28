@@ -9,25 +9,25 @@
 <li><a href="/sohnews/20240427/2029806.md">习近平犯病视频首次正式公开，广东肇庆发生特大开车撞人事件，方永祥中将接任习在军队的大管家。《老灯开讲第544期》</a></li>
 <li><a href="/yule/20240427/2029862.md">周星驰晚节不保？</a></li>
 <li><a href="/cnnews/20240427/2029788.md">父姓“戴”竟替儿子取这名！老师崩溃：不敢叫全名</a></li>
-<li><a href="/topimagenews/20240428/2029942.md">影响所有人的钱！中国金融超级大事发生；突发！美禁中国电信业3巨头ISP业务</a></li>
 <li><a href="/cbnews/20240427/2029812.md">举例华为刚推出一款新笔电 布林肯打脸习近平和王毅</a></li>
+<li><a href="/topimagenews/20240428/2029942.md">影响所有人的钱！中国金融超级大事发生；突发！美禁中国电信业3巨头ISP业务</a></li>
 <li><a href="/topimagenews/20240427/2029816.md">要打造监狱国家？比尔·盖茨在人民日报撰文 猛拍中共马屁【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20240428/2029962.md">布林肯训斥他？这个视频突爆火 要被封杀的节奏</a></li>
 <li><a href="/sohnews/20240427/2029846.md">陈破空：视频疯传！老习遭偷拍。王毅全程读稿，美方听不清。王小洪显露亲信特权，当面告知布林肯一件事。李强公开唱反调。直播与互动：美东时间4月27日早9点、中港台4月27日当晚9点</a></li>
 <li><a href="/baitai/20240427/2029831.md">中国经济学家批年轻人啃老 网络炸锅</a></li>
 <li><a href="/sohnews/20240428/2029945.md">中美战机南海缠斗，谁赢了？布林肯又放猛料！传江绵恒父子被抓由军方关押，真假？拳头大冰雹狂砸广州，网络大骂习近平。</a></li>
-<li><a href="/ccpdope/20240427/2029745.md">布林肯不屑习讲话 王毅被迫说实话「旧金山愿景」露馅</a></li>
 <li><a href="/ccpdope/20240427/2029891.md">对比习马会，习布会结局已定</a></li>
 <li><a href="/itnews/20240427/2029838.md">大量苹果设备出现Apple ID 强制退出现象</a></li>
 <li><a href="/topimagenews/20240428/2030000.md">三个巨大风险降临 最后一个远超北京预料</a></li>
 <li><a href="/baitai/20240427/2029800.md">美国领馆发布王毅讲话7处听不清 会晤期间习近平摆出特殊植物</a></li>
 <li><a href="/topimagenews/20240428/2029986.md">真急了，允许个人拿地建房卖房了</a></li>
-<li><a href="/baitai/20240427/2029849.md">iPhone忠诚度有多高？</a></li>
+<li><a href="/topimagenews/20240428/2030026.md">涉许家印案的省委书记和省长，都被抓了</a></li>
 <li><a href="/ccpdope/20240427/2029902.md">关键时刻美国给乌克兰松绑 习气得喷出强烈字眼</a></li>
+<li><a href="/baitai/20240427/2029849.md">iPhone忠诚度有多高？</a></li>
 <li><a href="/headline/20240427/2029828.md">哈马斯和法塔赫在北京举行会谈</a></li>
 <li><a href="/comments/20240427/2029884.md">中国人到欧美旅游，为何就成了一宗罪？</a></li>
 <li><a href="/topimagenews/20240427/2029756.md">俄军极大恐惧！坦克背龟壳上战场 外加珠帘</a></li>
-<li><a href="/topimagenews/20240428/2030026.md">涉许家印案的省委书记和省长，都被抓了</a></li>
+<li><a href="/cnnews/20240428/2029950.md">人物真相:前港中联办主任张晓明终遭报应</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
 <li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
 <li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20231130/1967587.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （一）</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/cnnews/20221211/1822144.md" target="_blank">盖盖冲马桶很可怕！瞬间“病毒炸开”？</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
 
 </ul>
 </div>
