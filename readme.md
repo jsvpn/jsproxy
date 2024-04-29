@@ -21,12 +21,12 @@
 <li><a href="/topimagenews/20240429/2030444.md">山东警察广播：“李某某你涉嫌嫖娼，快去警局”</a></li>
 <li><a href="/comments/20240429/2030243.md">司法部抄特朗普家，Tucker Carlson要气晕了</a></li>
 <li><a href="/sohnews/20240429/2030394.md">习近平的七个接班人爆发大乱斗，布林肯访华失败中美正式开战，西方终极制裁必导致中国彻底崩溃。《老灯开讲第546期》</a></li>
-<li><a href="/sohnews/20240429/2030366.md">文睿：一尊，还能活多久，下个月进入一个分水岭</a></li>
 <li><a href="/sohnews/20240429/2030442.md">陈破空：不准见布林肯，李强公开唱反调！赵乐际闭门通报，秦刚李尚福成党国绝密？疫苗之父被抓吓坏民众。中国怪事：马斯克到访，特斯拉马上达标。直播与互动：美东时间4月29日早9点、中港台当晚9点</a></li>
+<li><a href="/sohnews/20240429/2030366.md">文睿：一尊，还能活多久，下个月进入一个分水岭</a></li>
 <li><a href="/ssgc/20240429/2030329.md">〖微博谈〗究竟给中国人接种的是什么？</a></li>
 <li><a href="/topimagenews/20240429/2030299.md">不容乐观 中国经济衰退未到谷底</a></li>
-<li><a href="/yule/20240429/2030259.md">56岁妮可·基德曼穿“黄金战袍”惊艳</a></li>
 <li><a href="/topimagenews/20240429/2030311.md">喝出白发苍苍！国产啤酒添加它 各大厂商极力否认</a></li>
+<li><a href="/yule/20240429/2030259.md">56岁妮可·基德曼穿“黄金战袍”惊艳</a></li>
 <li><a href="/topimagenews/20240429/2030356.md">官方授权骂脏话？陆民连接高铁WIFI竟显示出“X你妈”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240430/2030550.md" target="_blank">川普与德桑蒂斯私下会面，究竟说了什么？川普对肯尼迪发起迄今最大政治攻击。CNN星期日民调，拜登真要哭了。美国大选川普肯尼迪</a></li>
+<li><a href="/cbnews/20240430/2030544.md" target="_blank">追查国际向美国FBI提交逾八万责任人名单</a></li>
 <li><a href="/comments/20240429/2030403.md" target="_blank">原来在另外空间 发生了这事！养生、保健不管用⋯明明很健康的人，却突遇不测？｜未解之谜 扶摇</a></li>
 <li><a href="/cbnews/20240429/2030333.md" target="_blank">50多名员工集体跳槽 北京公司直接倒闭 结果惨了</a></li>
 <li><a href="/comments/20240429/2030306.md" target="_blank">大学校园抗议之火为何燃不停？拜登政府扮演何角色？拜登答应辩论，但媒体忽视了一个细节。川普要求在法庭进行辩论。美国大选学生抗议拜登</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20240428/2029924.md" target="_blank">江峰：人民的儿子怕爹娘？习近平出游安保抓得紧</a></li>
 <li><a href="/comments/20240427/2029914.md" target="_blank">人算不如天算，布拉格起诉川普正在崩溃。拜登打手空降曼哈顿，揭开封口费案策划内幕。川普封口费布拉克</a></li>
 <li><a href="/comments/20240427/2029899.md" target="_blank">佛罗里达大学祭出规矩：抗议不合规-开除！</a></li>
-<li><a href="/comments/20240427/2029844.md" target="_blank">拜登没闪 今年会有总统大选辩论！</a></li>
-<li><a href="/cbnews/20240427/2029812.md" target="_blank">举例华为刚推出一款新笔电 布林肯打脸习近平和王毅</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240430/2030550.md" target="_blank">川普与德桑蒂斯私下会面，究竟说了什么？川普对肯尼迪发起迄今最大政治攻击。CNN星期日民调，拜登真要哭了。美国大选川普肯尼迪</a></li>
 <li><a href="/comments/20240430/2030542.md" target="_blank">天亮时分：蔡奇权倾朝野 独裁者埋了雷？</a></li>
 <li><a href="/comments/20240429/2030403.md" target="_blank">原来在另外空间 发生了这事！养生、保健不管用⋯明明很健康的人，却突遇不测？｜未解之谜 扶摇</a></li>
 <li><a href="/comments/20240429/2030374.md" target="_blank">【台湾准副总统萧美琴：乌克兰的成功对台湾至关重要】</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240428/2030153.md" target="_blank">中共是祸害人类的魔鬼 是万恶之源</a></li>
 <li><a href="/comments/20240428/2030155.md" target="_blank">为什么习近平要逼美国收拾他？</a></li>
 <li><a href="/comments/20240428/2030139.md" target="_blank">桃花饼铺-司康客制</a></li>
-<li><a href="/comments/20240428/2030053.md" target="_blank">卖杏花：云浩暴力学分析</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/comments/20240318/2014289.md" target="_blank">唐柏桥：民运同仁突然向法轮功开火是怎么回事？</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
 
 </ul>
 </div>
