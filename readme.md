@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/sohnews/20240428/2030133.md">国药疫苗害了多少人？</a></li>
 <li><a href="/comments/20240428/2030155.md">为什么习近平要逼美国收拾他？</a></li>
 <li><a href="/topimagenews/20240428/2030136.md">中共被瞄准的直哆嗦！王毅当面向美国提一要求【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240429/2030262.md">上海这张图近日在中国网上掀起波澜</a></li>
@@ -22,12 +21,13 @@
 <li><a href="/cbnews/20240429/2030271.md">〖红朝浮世绘〗民众的胳膊还是没能拧过政府的大腿</a></li>
 <li><a href="/comments/20240429/2030291.md">美女性特供 色欲泡延安</a></li>
 <li><a href="/topimagenews/20240429/2030318.md">【微博精粹】你不把习近平当人 他就是个摆设</a></li>
+<li><a href="/topimagenews/20240429/2030351.md">“儿子”当人质 马斯克成习近平解药？【阿波罗网报导】</a></li>
 <li><a href="/topimagenews/20240428/2030169.md">中共加速建立太空军 有2大明确意图</a></li>
+<li><a href="/topimagenews/20240429/2030332.md">国际刑事法院将下令逮捕以总理 美国展开行动</a></li>
 <li><a href="/renquan/20240428/2030150.md">毛恒凤在和平饭店门口被抓后坐铁椅审讯</a></li>
 <li><a href="/topimagenews/20240429/2030253.md">家庭财务破产!“中年危机”在中国社会蔓延；警告：中国科技至少倒退20年【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20240429/2030332.md">国际刑事法院将下令逮捕以总理 美国展开行动</a></li>
-<li><a href="/topimagenews/20240429/2030351.md">“儿子”当人质 马斯克成习近平解药？【阿波罗网报导】</a></li>
 <li><a href="/topimagenews/20240429/2030299.md">不容乐观 中国经济衰退未到谷底</a></li>
+<li><a href="/cbnews/20240429/2030333.md">50多名员工集体跳槽 北京公司直接倒闭 结果惨了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240429/2030403.md" target="_blank">原来在另外空间 发生了这事！养生、保健不管用⋯明明很健康的人，却突遇不测？｜未解之谜 扶摇</a></li>
 <li><a href="/cbnews/20240429/2030333.md" target="_blank">50多名员工集体跳槽 北京公司直接倒闭 结果惨了</a></li>
 <li><a href="/comments/20240429/2030306.md" target="_blank">大学校园抗议之火为何燃不停？拜登政府扮演何角色？拜登答应辩论，但媒体忽视了一个细节。川普要求在法庭进行辩论。美国大选学生抗议拜登</a></li>
 <li><a href="/cbnews/20240429/2030271.md" target="_blank">〖红朝浮世绘〗民众的胳膊还是没能拧过政府的大腿</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20240427/2029899.md" target="_blank">佛罗里达大学祭出规矩：抗议不合规-开除！</a></li>
 <li><a href="/comments/20240427/2029844.md" target="_blank">拜登没闪 今年会有总统大选辩论！</a></li>
 <li><a href="/cbnews/20240427/2029812.md" target="_blank">举例华为刚推出一款新笔电 布林肯打脸习近平和王毅</a></li>
-<li><a href="/cbnews/20240427/2029735.md" target="_blank">江峰：普京自爆要见习近平，并赠爱情小说；习心不虚麽？要布林肯选「合作与对抗」&#8212;欧美和北约，已给出答案【江峰漫谈20240426第861期】</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240429/2030403.md" target="_blank">原来在另外空间 发生了这事！养生、保健不管用⋯明明很健康的人，却突遇不测？｜未解之谜 扶摇</a></li>
 <li><a href="/comments/20240429/2030374.md" target="_blank">【台湾准副总统萧美琴：乌克兰的成功对台湾至关重要】</a></li>
 <li><a href="/comments/20240429/2030345.md" target="_blank">李濠仲：美国有哪些大棒？中美关系随时“坠崖”</a></li>
 <li><a href="/comments/20240429/2030344.md" target="_blank">【李强会见马斯克】【特斯拉在中国不再受禁停禁行限制】</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240428/2030139.md" target="_blank">桃花饼铺-司康客制</a></li>
 <li><a href="/comments/20240428/2030053.md" target="_blank">卖杏花：云浩暴力学分析</a></li>
 <li><a href="/comments/20240428/2030052.md" target="_blank">讲道理，开鲁县“先交钱再种地”的新闻反转不了的</a></li>
-<li><a href="/comments/20240428/2030051.md" target="_blank">贝震颖：“编程随想”只是一个普通人，神话和污名化都是环境的扭曲</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/cbnews/20190701/1151453.md" target="_blank">盘点十大邪教特征 中共条条对号入座</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/comments/20190701/1151501.md" target="_blank">【特稿】中国共产党是邪教组织</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
+<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
 
 </ul>
 </div>
