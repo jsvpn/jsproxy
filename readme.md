@@ -11,14 +11,14 @@
 <li><a href="/topimagenews/20240429/2030262.md">上海这张图近日在中国网上掀起波澜</a></li>
 <li><a href="/yule/20240428/2030188.md">54岁钟丽缇用珠圆玉润玉润的身材 打了内娱的脸</a></li>
 <li><a href="/cnnews/20240428/2030187.md">俄罗斯人，正在疯狂移民</a></li>
-<li><a href="/baitai/20240428/2030164.md">超重磅！中共央行和财政部齐下场 货币投放方式或将彻底改变</a></li>
 <li><a href="/topimagenews/20240429/2030276.md">“新冠疫苗之父”落马：你有理由惊出一身冷汗</a></li>
+<li><a href="/baitai/20240428/2030164.md">超重磅！中共央行和财政部齐下场 货币投放方式或将彻底改变</a></li>
 <li><a href="/topimagenews/20240428/2030135.md">气疯中共！蓬配奥调侃中共党魁 说想给他送...【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240429/2030261.md">活该！最不讲“嫖德”的领导，人称“百妇长” …</a></li>
 <li><a href="/cnnews/20240429/2030265.md">中国第一大忽悠，要回国了？</a></li>
 <li><a href="/ssgc/20240428/2030211.md">撑过接下来的四年</a></li>
-<li><a href="/baitai/20240429/2030247.md">美媒：中共或准备在台海问题上摊牌 提前行动</a></li>
 <li><a href="/cbnews/20240428/2030094.md">中国疫情凶猛 “五一”假期 反加强入境新冠病毒核酸抽检</a></li>
+<li><a href="/baitai/20240429/2030247.md">美媒：中共或准备在台海问题上摊牌 提前行动</a></li>
 <li><a href="/baitai/20240428/2030175.md">华为问界M7爆「火」打不开车门三人活活烧死 家属求网友转发遭封杀</a></li>
 <li><a href="/cbnews/20240429/2030271.md">〖红朝浮世绘〗民众的胳膊还是没能拧过政府的大腿</a></li>
 <li><a href="/topimagenews/20240428/2030169.md">中共加速建立太空军 有2大明确意图</a></li>
@@ -26,8 +26,8 @@
 <li><a href="/topimagenews/20240429/2030253.md">家庭财务破产!“中年危机”在中国社会蔓延；警告：中国科技至少倒退20年【阿波罗网报道】</a></li>
 <li><a href="/lifebaike/20240428/2030087.md">能活到80岁的老人，大部分都是在60岁时，不做这4件事</a></li>
 <li><a href="/comments/20240429/2030243.md">司法部抄特朗普家，Tucker Carlson要气晕了</a></li>
-<li><a href="/sohnews/20240429/2030237.md">🔥气疯中共！蓬佩奥调侃习 说想给他送...曝惊人内幕；打倒自己！习新动向引高度关注；惊爆与王沪宁关系密切 他神秘失踪；史上首度！日本“特别警卫队”5月将派往印太地区 中共高度关注</a></li>
 <li><a href="/sohnews/20240428/2030193.md">行内人爆猛料：各地燃气爆炸都有了合理的解释…… 美国商业内幕：美中关系进入一个危险的时代！</a></li>
+<li><a href="/sohnews/20240429/2030237.md">🔥气疯中共！蓬佩奥调侃习 说想给他送...曝惊人内幕；打倒自己！习新动向引高度关注；惊爆与王沪宁关系密切 他神秘失踪；史上首度！日本“特别警卫队”5月将派往印太地区 中共高度关注</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
-<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
-<li><a href="/comments/20230920/1936271.md" target="_blank">防止你的孩子不成功（5） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
+<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20240418/2026391.md" target="_blank">医生劝我妻子放弃，似乎这些医生热衷让病人快点去死？</a></li>
+<li><a href="/aomi/life/20240330/2018911.md" target="_blank">挪威青年这样走出重度失眠和抑郁煎熬</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
 
 </ul>
 </div>
