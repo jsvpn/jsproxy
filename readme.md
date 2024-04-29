@@ -12,22 +12,22 @@
 <li><a href="/baitai/20240429/2030247.md">美媒：中共或准备在台海问题上摊牌 提前行动</a></li>
 <li><a href="/cbnews/20240429/2030271.md">〖红朝浮世绘〗民众的胳膊还是没能拧过政府的大腿</a></li>
 <li><a href="/comments/20240429/2030291.md">美女性特供 色欲泡延安</a></li>
-<li><a href="/topimagenews/20240429/2030351.md">“儿子”当人质 马斯克成习近平解药？【阿波罗网报导】</a></li>
 <li><a href="/topimagenews/20240429/2030318.md">【微博精粹】你不把习近平当人 他就是个摆设</a></li>
+<li><a href="/topimagenews/20240429/2030351.md">“儿子”当人质 马斯克成习近平解药？【阿波罗网报导】</a></li>
 <li><a href="/cbnews/20240429/2030333.md">50多名员工集体跳槽 北京公司直接倒闭 结果惨了</a></li>
 <li><a href="/topimagenews/20240429/2030332.md">国际刑事法院将下令逮捕以总理 美国展开行动</a></li>
 <li><a href="/cnnews/20240429/2030377.md">真是最后一任了！中共党魁背后现惊人一幕 【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20240429/2030253.md">家庭财务破产!“中年危机”在中国社会蔓延；警告：中国科技至少倒退20年【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240429/2030444.md">山东警察广播：“李某某你涉嫌嫖娼，快去警局”</a></li>
+<li><a href="/topimagenews/20240429/2030253.md">家庭财务破产!“中年危机”在中国社会蔓延；警告：中国科技至少倒退20年【阿波罗网报道】</a></li>
+<li><a href="/sohnews/20240429/2030442.md">陈破空：不准见布林肯，李强公开唱反调！赵乐际闭门通报，秦刚李尚福成党国绝密？疫苗之父被抓吓坏民众。中国怪事：马斯克到访，特斯拉马上达标。直播与互动：美东时间4月29日早9点、中港台当晚9点</a></li>
 <li><a href="/comments/20240429/2030243.md">司法部抄特朗普家，Tucker Carlson要气晕了</a></li>
 <li><a href="/sohnews/20240429/2030394.md">习近平的七个接班人爆发大乱斗，布林肯访华失败中美正式开战，西方终极制裁必导致中国彻底崩溃。《老灯开讲第546期》</a></li>
-<li><a href="/sohnews/20240429/2030442.md">陈破空：不准见布林肯，李强公开唱反调！赵乐际闭门通报，秦刚李尚福成党国绝密？疫苗之父被抓吓坏民众。中国怪事：马斯克到访，特斯拉马上达标。直播与互动：美东时间4月29日早9点、中港台当晚9点</a></li>
 <li><a href="/sohnews/20240429/2030366.md">文睿：一尊，还能活多久，下个月进入一个分水岭</a></li>
 <li><a href="/ssgc/20240429/2030329.md">〖微博谈〗究竟给中国人接种的是什么？</a></li>
 <li><a href="/topimagenews/20240429/2030299.md">不容乐观 中国经济衰退未到谷底</a></li>
 <li><a href="/topimagenews/20240429/2030311.md">喝出白发苍苍！国产啤酒添加它 各大厂商极力否认</a></li>
-<li><a href="/yule/20240429/2030259.md">56岁妮可·基德曼穿“黄金战袍”惊艳</a></li>
 <li><a href="/topimagenews/20240429/2030356.md">官方授权骂脏话？陆民连接高铁WIFI竟显示出“X你妈”</a></li>
+<li><a href="/yule/20240429/2030259.md">56岁妮可·基德曼穿“黄金战袍”惊艳</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20240126/1992876.md" target="_blank">内幕：中国留学生里女生打男生和男生打女一样普遍</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/comments/20231203/1969183.md" target="_blank">开盖冲马桶 ，细菌会乱飞？除非你家马桶是喷泉！</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
 
 </ul>
 </div>
