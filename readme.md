@@ -14,10 +14,10 @@
 <li><a href="/baitai/20240501/2031032.md">习内斗枪口指向邓小平家族？</a></li>
 <li><a href="/comments/20240501/2030974.md">高铁动车-中共是如何偷走技术的</a></li>
 <li><a href="/topimagenews/20240501/2031189.md">大整肃信号！中共党魁为三中全会开路【阿波罗网报道】</a></li>
-<li><a href="/sohnews/20240501/2031217.md">突发：广东梅龙高速惨烈事故，美国撤回大使驱逐中国大使，北京副市长高朋妄议习近平。《老灯开讲第548期》</a></li>
 <li><a href="/topimagenews/20240501/2031156.md">中国经济最后希望？三中全会重磅推出长三角</a></li>
-<li><a href="/baitai/20240501/2031190.md">中共将开三中全会 彭丽媛或入局</a></li>
+<li><a href="/sohnews/20240501/2031217.md">突发：广东梅龙高速惨烈事故，美国撤回大使驱逐中国大使，北京副市长高朋妄议习近平。《老灯开讲第548期》</a></li>
 <li><a href="/ccpdope/20240501/2031054.md">李强无意中打脸习近平 中共公开抢劫不装了</a></li>
+<li><a href="/baitai/20240501/2031190.md">中共将开三中全会 彭丽媛或入局</a></li>
 <li><a href="/topimagenews/20240501/2031240.md">中国汽车生产正陷入无底洞</a></li>
 <li><a href="/ccpdope/20240501/2030972.md">越反腐越腐败 习近平保权就靠它</a></li>
 <li><a href="/cbnews/20240501/2031132.md">〖红朝浮世绘〗习总又发明大词儿</a></li>
@@ -25,9 +25,9 @@
 <li><a href="/sohnews/20240501/2031170.md">三中全会底牌：习近平在大忽悠</a></li>
 <li><a href="/headline/20240501/2031004.md">中共三中全会为何千呼万唤始出来</a></li>
 <li><a href="/topimagenews/20240501/2030986.md">警察站在民众这边！乔治亚爆发16万人反俄大游行</a></li>
-<li><a href="/topimagenews/20240501/2030954.md">你没收我工厂我就送乌飞弹! 在俄资产遭没收 义大利怒援乌“ 风暴阴影”</a></li>
-<li><a href="/comments/20240501/2031151.md">吴祚来：中南海段子：习误信风水师破戒入紫禁城招大祸</a></li>
 <li><a href="/cnnews/20240501/2031051.md">中国人才，当前正大量移民美国</a></li>
+<li><a href="/comments/20240501/2031151.md">吴祚来：中南海段子：习误信风水师破戒入紫禁城招大祸</a></li>
+<li><a href="/cnnews/20240501/2031163.md">把老百姓骗惨了！五一到底是谁在狂欢？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240502/2031375.md" target="_blank">美国藤校是如何自废武功的</a></li>
 <li><a href="/comments/20240501/2031329.md" target="_blank">《时代》专访：川普准备做几件大事，其中一件从未提过。卡瓦诺对检察官发出严厉警告。川普被允许参加巴伦毕业典礼。川普被罚9000美元。川普卡瓦诺时代</a></li>
 <li><a href="/comments/20240501/2031288.md" target="_blank">美国藤校像多米诺骨牌一般倒下</a></li>
 <li><a href="/cbnews/20240501/2031242.md" target="_blank">习近平将5年来首次访欧盟 专家预计其美梦破产</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20240430/2030854.md" target="_blank">坎农法官现勇气，公布海湖庄园原始搜查令，显示川普遭陷害。政治说客打入川普核心圈子行骗，面临被起诉。川普海湖庄园机密文件</a></li>
 <li><a href="/comments/20240430/2030831.md" target="_blank">哥伦比亚大学对反犹学生“开铡”</a></li>
 <li><a href="/cbnews/20240430/2030779.md" target="_blank">躲避西方制裁 中俄又一伎俩曝光</a></li>
-<li><a href="/cbnews/20240430/2030761.md" target="_blank">湘潭大学投毒案细节被曝 和朱令案根本不一样</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240502/2031375.md" target="_blank">美国藤校是如何自废武功的</a></li>
 <li><a href="/comments/20240502/2031357.md" target="_blank">惊！雷公电母击碎中共血旗</a></li>
 <li><a href="/comments/20240502/2031356.md" target="_blank">【日本自民党青年局长铃木贵子访台 会见蔡英文和赖清德】【铃木贵子期待蔡英文卸任后赴日自驾游】</a></li>
 <li><a href="/comments/20240501/2031329.md" target="_blank">《时代》专访：川普准备做几件大事，其中一件从未提过。卡瓦诺对检察官发出严厉警告。川普被允许参加巴伦毕业典礼。川普被罚9000美元。川普卡瓦诺时代</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240501/2031047.md" target="_blank">颜宝刚：滞胀风险急增亚洲货币竞争贬值金融风暴前夕？</a></li>
 <li><a href="/comments/20240501/2031046.md" target="_blank">伊利夏提：事业起步联合国，梦断北京维吾尔</a></li>
 <li><a href="/comments/20240501/2031045.md" target="_blank">香港慢步足迹：隐于市的历史一角</a></li>
-<li><a href="/comments/20240501/2031010.md" target="_blank">梁京:试解美国校园抗议风潮的深层意义</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/aomi/life/20240330/2018911.md" target="_blank">挪威青年这样走出重度失眠和抑郁煎熬</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
 <li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
 
 </ul>
 </div>
