@@ -12,18 +12,18 @@
 <li><a href="/comments/20240502/2031448.md">文昭：确定了，秦刚、李尚福、彭丽媛即将被摆上台面；四个字尽泄习近平心中的秘密</a></li>
 <li><a href="/sohnews/20240501/2031241.md">中美谈崩，关门放水！大局已定，历史进入垃圾时间？｜政经孙老师 Mr. Sun Official</a></li>
 <li><a href="/sohnews/20240501/2031254.md">新五反运动：习要搞这些人？</a></li>
-<li><a href="/sohnews/20240501/2031243.md">陈破空：副部长突然被抓！情节蹊跷，曾涉入刺习大案？胡春华的顾问跑了！直接喊话习。王沪宁第三个新词来了：大举报！广东高速垮塌，24人亡。直播与互动：美东时间5月1日早9点、中港台当晚9点</a></li>
 <li><a href="/topimagenews/20240502/2031393.md">转入地下！中共特权阶层出了个说大实话的【阿波罗网报道】</a></li>
+<li><a href="/sohnews/20240501/2031243.md">陈破空：副部长突然被抓！情节蹊跷，曾涉入刺习大案？胡春华的顾问跑了！直接喊话习。王沪宁第三个新词来了：大举报！广东高速垮塌，24人亡。直播与互动：美东时间5月1日早9点、中港台当晚9点</a></li>
 <li><a href="/topimagenews/20240502/2031438.md">中共吹牛天花板 亡国之舰五一首航 习不知道的是…</a></li>
 <li><a href="/topimagenews/20240502/2031392.md">中国又一个超大城市“变天”了；一夜之间 北京这张王牌失灵【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240502/2031402.md">新一波行动！中共同时发出信号和警告</a></li>
 <li><a href="/topimagenews/20240502/2031439.md">耗时5年，降价18次，她终于3折卖掉了燕郊的房子</a></li>
 <li><a href="/cnnews/hknews/20240501/2031319.md">3700人抛弃铁饭碗 警务空缺6800人！中共在这里眼看玩不转了</a></li>
-<li><a href="/cnnews/20240502/2031469.md">中国人因这种“调味料”导致的死亡率居全球第一</a></li>
 <li><a href="/topimagenews/20240502/2031475.md">糟糕时光 习不得不面对这样一个对手 不惜使用极端手段逼迫中共让步</a></li>
+<li><a href="/cnnews/20240502/2031469.md">中国人因这种“调味料”导致的死亡率居全球第一</a></li>
 <li><a href="/topimagenews/20240502/2031499.md">他真的害怕！中共党魁讲话暴露隐忧【阿波罗网报道】</a></li>
-<li><a href="/ssgc/20240502/2031484.md">〖微博谈〗官方已经黔驴技穷</a></li>
 <li><a href="/baitai/20240502/2031366.md">华为高颜值HR走红后离职 自爆只用苹果手机</a></li>
+<li><a href="/ssgc/20240502/2031484.md">〖微博谈〗官方已经黔驴技穷</a></li>
 <li><a href="/cbnews/20240502/2031511.md">〖红朝浮世绘〗在红朝传承很重要</a></li>
 <li><a href="/cnnews/20240502/2031496.md">5万中国申请人凉凉 这类签证申请全部无理由作废</a></li>
 <li><a href="/comments/20240501/2031288.md">美国藤校像多米诺骨牌一般倒下</a></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240502/2031743.md" target="_blank">美国国会里，你知道犹太人的力量有多强？</a></li>
 <li><a href="/cbnews/20240502/2031728.md" target="_blank">三中全会政策难变 最高层担心经济前景</a></li>
 <li><a href="/cbnews/20240502/2031727.md" target="_blank">&#8220;特勤局对副部级以上官员严密监视&#8221;</a></li>
 <li><a href="/cbnews/20240502/2031726.md" target="_blank">华为危机四连击：美禁令、帅哥离职爆料、特斯拉对比疑云&#8230;</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240502/2031707.md" target="_blank">广东高速路面塌陷23车坠落 已致36死30伤</a></li>
 <li><a href="/cbnews/20240502/2031706.md" target="_blank">四川内江男子当街割下女子耳朵</a></li>
 <li><a href="/cbnews/20240502/2031705.md" target="_blank">广东梅州高速公路突塌陷 至少24死30伤 中共删帖</a></li>
-<li><a href="/cbnews/20240502/2031704.md" target="_blank">封口遥遥领先 陆主流媒体质疑华为问界M7遭“维稳”</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240502/2031743.md" target="_blank">美国国会里，你知道犹太人的力量有多强？</a></li>
 <li><a href="/comments/20240502/2031686.md" target="_blank">机上惊魂！香港暴雨国泰航班降落未果急升逾千公尺 有乘客已写遗书</a></li>
 <li><a href="/comments/20240502/2031666.md" target="_blank">天亮时分：习整出大词「耐心资本」</a></li>
 <li><a href="/comments/20240502/2031639.md" target="_blank">专栏 &#8211; 中国最钱线：燃气风暴：地方政府开始竭泽而渔</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240502/2031576.md" target="_blank">聚焦维吾尔 &#8211; 伊利夏提：事业起步联合国，梦断北京维吾尔</a></li>
 <li><a href="/comments/20240502/2031575.md" target="_blank">评论｜江棋生：简评关于俄乌战事的三种观点</a></li>
 <li><a href="/comments/20240502/2031574.md" target="_blank">评论｜陈破空：对布林肯谈话，习近平活在另一个世界</a></li>
-<li><a href="/comments/20240502/2031573.md" target="_blank">评论 &#8211; 胡平: 推荐徐友渔新著《革后余生——从牛津大学到北京市第一看守所》</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
 <li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/comments/20231204/1969287.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （三）</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
 
 </ul>
 </div>
