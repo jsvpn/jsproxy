@@ -9,8 +9,8 @@
 <li><a href="/sohnews/20240501/2031217.md">突发：广东梅龙高速惨烈事故，美国撤回大使驱逐中国大使，北京副市长高朋妄议习近平。《老灯开讲第548期》</a></li>
 <li><a href="/topimagenews/20240501/2031189.md">大整肃信号！中共党魁为三中全会开路【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240501/2031240.md">中国汽车生产正陷入无底洞</a></li>
-<li><a href="/topimagenews/20240502/2031403.md">中共绝对无法接受了 中美贸易战打到致命处</a></li>
 <li><a href="/topimagenews/20240501/2031239.md">他身上藏8万多美金现钞出境 被中国海关没收</a></li>
+<li><a href="/topimagenews/20240502/2031403.md">中共绝对无法接受了 中美贸易战打到致命处</a></li>
 <li><a href="/comments/20240502/2031448.md">文昭：确定了，秦刚、李尚福、彭丽媛即将被摆上台面；四个字尽泄习近平心中的秘密</a></li>
 <li><a href="/topimagenews/20240502/2031465.md">激怒习近平！等待中共的将是什么？新华社发文意味深长</a></li>
 <li><a href="/sohnews/20240501/2031241.md">中美谈崩，关门放水！大局已定，历史进入垃圾时间？｜政经孙老师 Mr. Sun Official</a></li>
@@ -19,15 +19,15 @@
 <li><a href="/topimagenews/20240502/2031438.md">中共吹牛天花板 亡国之舰五一首航 习不知道的是…</a></li>
 <li><a href="/topimagenews/20240502/2031393.md">转入地下！中共特权阶层出了个说大实话的【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240502/2031392.md">中国又一个超大城市“变天”了；一夜之间 北京这张王牌失灵【阿波罗网报道】</a></li>
+<li><a href="/sohnews/20240501/2031243.md">陈破空：副部长突然被抓！情节蹊跷，曾涉入刺习大案？胡春华的顾问跑了！直接喊话习。王沪宁第三个新词来了：大举报！广东高速垮塌，24人亡。直播与互动：美东时间5月1日早9点、中港台当晚9点</a></li>
 <li><a href="/sohnews/20240501/2031254.md">新五反运动：习要搞这些人？</a></li>
 <li><a href="/topimagenews/20240502/2031402.md">新一波行动！中共同时发出信号和警告</a></li>
-<li><a href="/sohnews/20240501/2031243.md">陈破空：副部长突然被抓！情节蹊跷，曾涉入刺习大案？胡春华的顾问跑了！直接喊话习。王沪宁第三个新词来了：大举报！广东高速垮塌，24人亡。直播与互动：美东时间5月1日早9点、中港台当晚9点</a></li>
 <li><a href="/topimagenews/20240502/2031439.md">耗时5年，降价18次，她终于3折卖掉了燕郊的房子</a></li>
 <li><a href="/cnnews/hknews/20240501/2031319.md">3700人抛弃铁饭碗 警务空缺6800人！中共在这里眼看玩不转了</a></li>
-<li><a href="/baitai/20240502/2031366.md">华为高颜值HR走红后离职 自爆只用苹果手机</a></li>
 <li><a href="/comments/20240501/2031288.md">美国藤校像多米诺骨牌一般倒下</a></li>
+<li><a href="/baitai/20240502/2031366.md">华为高颜值HR走红后离职 自爆只用苹果手机</a></li>
 <li><a href="/finance/20240501/2031251.md">种种迹象 北京或将启动经济“核选项”</a></li>
-<li><a href="/cbnews/20240501/2031242.md">习近平将5年来首次访欧盟 专家预计其美梦破产</a></li>
+<li><a href="/topimagenews/20240502/2031475.md">糟糕时光 习不得不面对这样一个对手 不惜使用极端手段逼迫中共让步</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,12 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240502/2031589.md" target="_blank">【梁京评论】试解美国校园抗议风潮的深层意义</a></li>
+<li><a href="/comments/20240502/2031588.md" target="_blank">【财经拆局】滞胀风险急增 亚洲货币竞争贬值 金融风暴前夕？</a></li>
+<li><a href="/comments/20240502/2031587.md" target="_blank">【泽论四方】西方与中国关系难以修好</a></li>
+<li><a href="/comments/20240502/2031586.md" target="_blank">【寰宇古今】香港本位被唾弃，文凭试委曲求全</a></li>
+<li><a href="/comments/20240502/2031585.md" target="_blank">【杜耀明评论】垃圾收费事关国家安全 特区当局怎能知难而退？</a></li>
+<li><a href="/comments/20240502/2031584.md" target="_blank">【未普评论】俄乌战场之外的政治博弈</a></li>
 <li><a href="/comments/20240502/2031578.md" target="_blank">评论 &#8211; 胡平：推荐徐友渔新著《革后余生——从牛津大学到北京市第一看守所》（二）</a></li>
 <li><a href="/comments/20240502/2031577.md" target="_blank">评论 &#8211; 何清涟：美国对华战略工具箱中，中国最在意什么？</a></li>
 <li><a href="/comments/20240502/2031576.md" target="_blank">聚焦维吾尔 &#8211; 伊利夏提：事业起步联合国，梦断北京维吾尔</a></li>
@@ -116,12 +122,6 @@
 <li><a href="/comments/20240502/2031515.md" target="_blank">唐师三百手：“劳动”距离成为历史名词还有多久</a></li>
 <li><a href="/comments/20240502/2031514.md" target="_blank">我是麦杰逊:五一刚开始，就有创业新闻翻车了</a></li>
 <li><a href="/comments/20240502/2031486.md" target="_blank">天亮时分：布林肯走後，美国制裁清单来了，中共真有应对大招？！陈一新的新五反运动；中共为川普重返白宫做准备（政论天下第1297集 20240501）天亮时分</a></li>
-<li><a href="/comments/20240502/2031478.md" target="_blank">林保华：为习脱困，中共国重启熊猫外交</a></li>
-<li><a href="/comments/20240502/2031470.md" target="_blank">格林议员将提动议罢免强生 她想干嘛？</a></li>
-<li><a href="/comments/20240502/2031458.md" target="_blank">未普:中共党内民主力量式微，但呼唤民主的声音从未断绝</a></li>
-<li><a href="/comments/20240502/2031457.md" target="_blank">江棋生:简评关于俄乌战事的三种观点</a></li>
-<li><a href="/comments/20240502/2031456.md" target="_blank">何清涟:美国对华战略工具箱中，中共国最在意什么？</a></li>
-<li><a href="/comments/20240502/2031455.md" target="_blank">惠虎宇：中共垮台后 未来中国如何顺利过渡</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/sohnews/20160119/493472.md" target="_blank">无效的医疗：手术刀下的谎言和药瓶里的欺骗</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/cbnews/20190701/1151453.md" target="_blank">盘点十大邪教特征 中共条条对号入座</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
 <li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/taiwannews/20210119/1470761.md" target="_blank">独家：震撼纪录片《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
 
 </ul>
 </div>
