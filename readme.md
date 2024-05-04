@@ -11,23 +11,23 @@
 <li><a href="/topimagenews/20240504/2032630.md">中共党魁遭遇真正“投票” 结果太打脸了！【阿波罗网报道】</a></li>
 <li><a href="/comments/20240504/2032475.md">习进平被出殡，提早谋划？</a></li>
 <li><a href="/topimagenews/20240504/2032534.md">供金正恩等享乐！爆朝鲜政府每年招募25名处女</a></li>
-<li><a href="/finance/20240504/2032666.md">触目惊心 中国新一波大涨来了</a></li>
 <li><a href="/topimagenews/20240504/2032448.md">花季女孩遭卖赤裸关6年 中国地窖女视频曝光</a></li>
+<li><a href="/finance/20240504/2032666.md">触目惊心 中国新一波大涨来了</a></li>
 <li><a href="/topimagenews/20240504/2032492.md">棒打中共！对544种进口商品加征关税</a></li>
 <li><a href="/cbnews/20240504/2032474.md">江峰：陈一新这把赌输了，习近平会拿他祭旗：看，都是他在祸乱国家</a></li>
 <li><a href="/topimagenews/20240504/2032557.md">引爆网民怒火！中国公司公开员工上厕所玩手机照</a></li>
 <li><a href="/sohnews/20240504/2032440.md">默多克亲口承认她是中共间谍！靠当小三拿绿卡，勾引传媒大亨成功上位！和布莱尔、普京都传过绯闻！邓文迪的真面目出乎你的意料！‘新闻最嘲点 姜光宇’2024.0503</a></li>
+<li><a href="/cbnews/20240504/2032744.md">东北恐慌大逃亡！1600倍核辐射来袭 院长：100年不能住人了</a></li>
 <li><a href="/comments/20240504/2032479.md">中国危险大时代来临 凡人自求多福</a></li>
 <li><a href="/cbnews/20240504/2032649.md">真有惊掉下巴 河南龙门石窟游客看大佛 惊到下巴脱臼</a></li>
 <li><a href="/lifebaike/20240504/2032581.md">住酒店时，房间的矿泉水最好别喝，很多人都中招，我也是才被告知</a></li>
 <li><a href="/cbnews/20240504/2032551.md">〖红朝浮世绘〗不愧是几个兄弟国，一起排倒数</a></li>
-<li><a href="/cbnews/20240504/2032744.md">东北恐慌大逃亡！1600倍核辐射来袭 院长：100年不能住人了</a></li>
 <li><a href="/cbnews/20240504/2032650.md">台湾女网友发现北京公厕无门 震惊大陆网友</a></li>
 <li><a href="/ccpdope/20240504/2032685.md">战略支援部队变信息支援部队 习再一次让人跌破眼镜</a></li>
 <li><a href="/ssgc/20240504/2032486.md">〖微博谈〗谁说中国不是遥遥领先呢？</a></li>
 <li><a href="/baitai/20240504/2032711.md">博明发文揭习近平真正在乎的事</a></li>
+<li><a href="/sohnews/20240504/2032689.md">癌细胞不喜欢9种人  癌症运动坚果</a></li>
 <li><a href="/cbnews/20240504/2032610.md">广东高速塌方 涉豆腐渣工程 责任方是谁？</a></li>
-<li><a href="/sohnews/20240504/2032507.md">文睿：“东北，100年不能住人了”，大家保重</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
-<li><a href="/comments/20231201/1968320.md" target="_blank">【非凡新闻】结合中西文化精神 美国神韵表演吸睛</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
 <li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
 
 </ul>
 </div>
