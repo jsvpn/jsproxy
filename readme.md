@@ -10,24 +10,24 @@
 <li><a href="/cbnews/20240504/2032649.md">真有惊掉下巴 河南龙门石窟游客看大佛 惊到下巴脱臼</a></li>
 <li><a href="/topimagenews/20240505/2032799.md">终于还是来了！中共货币政策要大转变；早做打算吧！中国一大批商业银行将被压垮</a></li>
 <li><a href="/topimagenews/20240505/2032755.md">摊牌，这个五一真是糟透了</a></li>
-<li><a href="/ccpdope/20240504/2032685.md">战略支援部队变信息支援部队 习再一次让人跌破眼镜</a></li>
 <li><a href="/baitai/20240504/2032711.md">博明发文揭习近平真正在乎的事</a></li>
+<li><a href="/ccpdope/20240504/2032685.md">战略支援部队变信息支援部队 习再一次让人跌破眼镜</a></li>
 <li><a href="/cbnews/20240504/2032650.md">台湾女网友发现北京公厕无门 震惊大陆网友</a></li>
 <li><a href="/comments/20240505/2032762.md">杜文：有人逼我咬出胡春华 有人威胁我敢说就死</a></li>
 <li><a href="/topimagenews/20240505/2032807.md">危险信号！很多中小银行已经扛不住了</a></li>
 <li><a href="/sohnews/20240504/2032689.md">癌细胞不喜欢9种人  癌症运动坚果</a></li>
-<li><a href="/sohnews/20240504/2032705.md">毛泽东的一大性癖好就是看上哪个女孩，就拉上床“宠幸”，死前27年间祸害上千  314集</a></li>
 <li><a href="/cbnews/20240505/2032904.md">习拟让彭丽媛来祸害别人？传老军头忍无可忍要集体逼宫</a></li>
+<li><a href="/cnnews/20240505/2032919.md">彭丽媛在中央军委的新职务曝光</a></li>
+<li><a href="/sohnews/20240504/2032705.md">毛泽东的一大性癖好就是看上哪个女孩，就拉上床“宠幸”，死前27年间祸害上千  314集</a></li>
 <li><a href="/cbnews/20240505/2032808.md">鲜为人知！习排板？一场恶斗扳倒接班人</a></li>
 <li><a href="/sohnews/20240505/2032783.md">高速塌陷前3天已有明显征兆；“胖猫事件”暴热不正常；高铁大幅涨价，微信支付宝限流，习近平要干嘛？</a></li>
+<li><a href="/topimagenews/20240505/2032903.md">首爆惊天丑闻！习拍板此案？胡春华指定整个政府集体行贿</a></li>
 <li><a href="/cbnews/20240505/2032760.md">三中全会处理秦刚李尚福？被指存在4种可能性</a></li>
-<li><a href="/cnnews/20240505/2032919.md">彭丽媛在中央军委的新职务曝光</a></li>
-<li><a href="/sohnews/20240504/2032636.md">被抓女孩刷屏 特征暴露了身份？</a></li>
 <li><a href="/comments/20240505/2032803.md">习近平要拼命阻遏的正是这一代人</a></li>
 <li><a href="/baitai/20240505/2032752.md">俄罗斯1600倍核辐射 黑龙江居民恐慌逃离</a></li>
-<li><a href="/topimagenews/20240505/2032903.md">首爆惊天丑闻！习拍板此案？胡春华指定整个政府集体行贿</a></li>
-<li><a href="/worldnews/20240505/2032748.md">警察查手机“合法化” 中共国安新规引来批评</a></li>
 <li><a href="/sohnews/20240504/2032692.md">习近平疯狂备战 依赖这3张牌！</a></li>
+<li><a href="/finance/20240504/2032651.md">中国4条高铁 票价最大幅度上涨 不少网友大骂</a></li>
+<li><a href="/worldnews/20240505/2032748.md">警察查手机“合法化” 中共国安新规引来批评</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
 <li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
-<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/cbnews/20190701/1151453.md" target="_blank">盘点十大邪教特征 中共条条对号入座</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
 <li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
 
 </ul>
 </div>
