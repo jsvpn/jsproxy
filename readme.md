@@ -7,8 +7,8 @@
 
 <li><a href="/cbnews/20240504/2032744.md">东北恐慌大逃亡！1600倍核辐射来袭 院长：100年不能住人了</a></li>
 <li><a href="/topimagenews/20240505/2032755.md">摊牌，这个五一真是糟透了</a></li>
-<li><a href="/cbnews/20240505/2032904.md">习拟让彭丽媛来祸害别人？传老军头忍无可忍要集体逼宫</a></li>
 <li><a href="/topimagenews/20240505/2032799.md">终于还是来了！中共货币政策要大转变；早做打算吧！中国一大批商业银行将被压垮</a></li>
+<li><a href="/cbnews/20240505/2032904.md">习拟让彭丽媛来祸害别人？传老军头忍无可忍要集体逼宫</a></li>
 <li><a href="/cnnews/20240505/2032919.md">彭丽媛在中央军委的新职务曝光</a></li>
 <li><a href="/comments/20240505/2032762.md">杜文：有人逼我咬出胡春华 有人威胁我敢说就死</a></li>
 <li><a href="/topimagenews/20240505/2032807.md">危险信号！很多中小银行已经扛不住了</a></li>
@@ -23,11 +23,11 @@
 <li><a href="/topimagenews/20240505/2032800.md">数万游客乱砸一通!河南景区惹众怒</a></li>
 <li><a href="/worldnews/20240505/2032748.md">警察查手机“合法化” 中共国安新规引来批评</a></li>
 <li><a href="/cnnews/20240505/2032814.md">他的死，凉了这个五一无数人的心</a></li>
-<li><a href="/topimagenews/20240505/2032839.md">正在毁灭世界！俄罗斯和乌克兰都在使用违禁武器</a></li>
 <li><a href="/topimagenews/20240505/2032934.md">5年来首次访欧！习近平出访欧洲3国“具共同特点”</a></li>
+<li><a href="/topimagenews/20240505/2032839.md">正在毁灭世界！俄罗斯和乌克兰都在使用违禁武器</a></li>
 <li><a href="/topimagenews/20240505/2032861.md">【微博精粹】只有草民救草民</a></li>
+<li><a href="/headline/20240505/2032986.md">彭丽媛军队职务称“疑似”曝光</a></li>
 <li><a href="/yule/20240505/2032806.md">邓超被孙俪赶出门！ 录影怕浪费把1名产带回家…结果出事了</a></li>
-<li><a href="/sohnews/20240505/2032889.md">武则天上位：彭丽媛公开担任军委干部考评委员会负责人，中共已死正等待英雄豪杰来给它下葬。《老灯开讲第551期》</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
-<li><a href="/comments/20240116/1984226.md" target="_blank">湖北老河口遇仙记</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
-<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
-<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
-<li><a href="/comments/20231212/1972297.md" target="_blank">日本华人确诊晚期直肠癌，修炼法轮功恢复健康（图）</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
 <li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
 
 </ul>
 </div>
