@@ -6,7 +6,6 @@
 <ul>
 
 <li><a href="/topimagenews/20240504/2032630.md">中共党魁遭遇真正“投票” 结果太打脸了！【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20240504/2032534.md">供金正恩等享乐！爆朝鲜政府每年招募25名处女</a></li>
 <li><a href="/finance/20240504/2032666.md">触目惊心 中国新一波大涨来了</a></li>
 <li><a href="/cbnews/20240504/2032744.md">东北恐慌大逃亡！1600倍核辐射来袭 院长：100年不能住人了</a></li>
 <li><a href="/topimagenews/20240504/2032557.md">引爆网民怒火！中国公司公开员工上厕所玩手机照</a></li>
@@ -14,19 +13,20 @@
 <li><a href="/topimagenews/20240505/2032755.md">摊牌，这个五一真是糟透了</a></li>
 <li><a href="/cbnews/20240504/2032649.md">真有惊掉下巴 河南龙门石窟游客看大佛 惊到下巴脱臼</a></li>
 <li><a href="/cbnews/20240504/2032551.md">〖红朝浮世绘〗不愧是几个兄弟国，一起排倒数</a></li>
-<li><a href="/ccpdope/20240504/2032685.md">战略支援部队变信息支援部队 习再一次让人跌破眼镜</a></li>
 <li><a href="/comments/20240505/2032762.md">杜文：有人逼我咬出胡春华 有人威胁我敢说就死</a></li>
+<li><a href="/ccpdope/20240504/2032685.md">战略支援部队变信息支援部队 习再一次让人跌破眼镜</a></li>
 <li><a href="/baitai/20240504/2032711.md">博明发文揭习近平真正在乎的事</a></li>
 <li><a href="/cbnews/20240504/2032650.md">台湾女网友发现北京公厕无门 震惊大陆网友</a></li>
 <li><a href="/sohnews/20240504/2032689.md">癌细胞不喜欢9种人  癌症运动坚果</a></li>
 <li><a href="/cbnews/20240504/2032610.md">广东高速塌方 涉豆腐渣工程 责任方是谁？</a></li>
 <li><a href="/cnnews/20240504/2032597.md">华人当场傻眼 出借Costco会员卡 惨被警察抄家</a></li>
+<li><a href="/topimagenews/20240505/2032799.md">终于还是来了！中共货币政策要大转变；早做打算吧！中国一大批商业银行将被压垮</a></li>
 <li><a href="/sohnews/20240504/2032636.md">被抓女孩刷屏 特征暴露了身份？</a></li>
+<li><a href="/cbnews/20240505/2032760.md">三中全会处理秦刚李尚福？被指存在4种可能性</a></li>
 <li><a href="/sohnews/20240504/2032692.md">习近平疯狂备战 依赖这3张牌！</a></li>
 <li><a href="/finance/20240504/2032651.md">中国4条高铁 票价最大幅度上涨 不少网友大骂</a></li>
-<li><a href="/cbnews/20240505/2032760.md">三中全会处理秦刚李尚福？被指存在4种可能性</a></li>
-<li><a href="/worldnews/20240505/2032748.md">警察查手机“合法化” 中共国安新规引来批评</a></li>
 <li><a href="/sohnews/20240504/2032705.md">毛泽东的一大性癖好就是看上哪个女孩，就拉上床“宠幸”，死前27年间祸害上千  314集</a></li>
+<li><a href="/worldnews/20240505/2032748.md">警察查手机“合法化” 中共国安新规引来批评</a></li>
 <li><a href="/baitai/20240505/2032752.md">俄罗斯1600倍核辐射 黑龙江居民恐慌逃离</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240505/2032872.md" target="_blank">它们决定了中国二十世纪的走向</a></li>
+<li><a href="/comments/20240505/2032871.md" target="_blank">CDT报告汇：中国新闻自由全球倒数第八，关押记者世界第一</a></li>
+<li><a href="/comments/20240505/2032870.md" target="_blank">韩青说书：感动中前行：没有坏人，只有好人</a></li>
+<li><a href="/comments/20240505/2032869.md" target="_blank">触目惊心 黄俄计划</a></li>
 <li><a href="/comments/20240505/2032852.md" target="_blank">【杰森视角】美校园抗议运动直击美国死穴?  窥见以色列战争的特殊布局！抗议前数月就有机构训练学生！ 川普2020年的遭遇现在落到拜登的头上？ 北卡学生护旗，唤起校园正气！ 抗议运动背后的神秘金主是谁？</a></li>
 <li><a href="/comments/20240505/2032845.md" target="_blank">中共宫斗 玩五湖四海！胡耀邦、赵紫阳不懂的是…</a></li>
 <li><a href="/comments/20240505/2032844.md" target="_blank">韩国前总统文在寅会逃脱“青瓦台诅咒”吗？</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20240504/2032734.md" target="_blank">天亮时分：冒充穆斯林 煽动者被起底</a></li>
 <li><a href="/comments/20240504/2032732.md" target="_blank">【网文禁闻】梅大高速塌方到底埋了几辆车？非要挖出来才知道吗？</a></li>
 <li><a href="/comments/20240504/2032723.md" target="_blank">善有善报！误以为富翁是流浪汉 美国男童送出仅有1美元获厚礼</a></li>
-<li><a href="/comments/20240504/2032722.md" target="_blank">【大宇拍案惊奇】中共地下警察大阵仗行动 巴黎机场成派出所？</a></li>
-<li><a href="/comments/20240504/2032719.md" target="_blank">有窒息风险！美商IGLOO召回逾3万在中国制造的儿童水瓶</a></li>
-<li><a href="/comments/20240504/2032718.md" target="_blank">震撼瞬间！巨雷怒击危地马拉活火山爆炸画面曝光</a></li>
-<li><a href="/comments/20240504/2032680.md" target="_blank">渖涧松：她那年十九岁（连载三十四）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20240116/1984226.md" target="_blank">湖北老河口遇仙记</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
 <li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
 
 </ul>
 </div>
