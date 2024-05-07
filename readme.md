@@ -10,11 +10,10 @@
 <li><a href="/topimagenews/20240507/2033500.md">定调了！下半年，物价或会超出想象</a></li>
 <li><a href="/topimagenews/20240507/2033690.md">彭丽媛热传照片 刚刚得到确认</a></li>
 <li><a href="/topimagenews/20240507/2033501.md">贬值战争打响！习或推动人民币贬值</a></li>
-<li><a href="/yule/20240506/2033360.md">徐静蕾晒湖边打高尔夫照片 结果引来一阵爆笑</a></li>
 <li><a href="/ccpdope/20240507/2033669.md">内幕：三中即将召开 习近平做出重大错误抉择</a></li>
 <li><a href="/topimagenews/20240507/2033644.md">习架空李克强为了他？特务头子搞恐怖运动突遭官方下架</a></li>
-<li><a href="/cbnews/20240507/2033694.md">习近平在爱丽舍宫 一个细节引猜测</a></li>
 <li><a href="/baitai/20240507/2033477.md">广东高速特大事故48死 自媒体人披露令人痛心的可怕真相</a></li>
+<li><a href="/cbnews/20240507/2033694.md">习近平在爱丽舍宫 一个细节引猜测</a></li>
 <li><a href="/topimagenews/20240507/2033712.md">马克龙被中共党魁一下整懵圈了！不自觉地抬起手...【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240507/2033543.md">复旦大学，又出一个奇葩教授</a></li>
 <li><a href="/topimagenews/20240507/2033520.md">盲眼龙婆2024年预言已中3个 三战预言全球怕</a></li>
@@ -26,8 +25,9 @@
 <li><a href="/ssgc/20240507/2033732.md">国安人员7月起查个人手机或电脑  深圳、上海等地海关已先实施</a></li>
 <li><a href="/cbnews/20240507/2033622.md">大批民警特警协警出动！连续三天百姓走上街头抗议</a></li>
 <li><a href="/worldnews/20240507/2033508.md">乌战之变：法国大兵和F-16来了</a></li>
+<li><a href="/health/20240507/2033753.md">66岁大爷骨密度似三十岁，医生坦言：他的4个生活习惯，值得借鉴</a></li>
 <li><a href="/topimagenews/20240507/2033586.md">房价落 万物升：中国人离贬值潮还远吗？</a></li>
-<li><a href="/cbnews/20240507/2033521.md">梅大高速崩塌如惊弓之鸟 珠海高速紧急封闭</a></li>
+<li><a href="/topimagenews/20240507/2033502.md">快讯！以色列将攻拉法 哈玛斯接受停火提议</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240507/2033868.md" target="_blank">抛弃DEI，麻省理工现在转向啦！</a></li>
+<li><a href="/cbnews/20240507/2033862.md" target="_blank">云南镇雄医院多人持刀凶杀 2死21伤 当地进入应急状态</a></li>
 <li><a href="/comments/20240507/2033796.md" target="_blank">抗议不成的哥大学生，想方设法逃避考试</a></li>
 <li><a href="/cbnews/20240507/2033714.md" target="_blank">频传出事 前火箭军老大突然“露面”</a></li>
 <li><a href="/cbnews/20240507/2033713.md" target="_blank">欧洲议会议员敦促马克龙“坚定地”反对中共</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/comments/20240507/2033445.md" target="_blank">1968年暴徒冲击民主党全国大会 结果是什么？</a></li>
 <li><a href="/cbnews/20240506/2033408.md" target="_blank">重庆医院疑有多人冒名产子 成功办理出生证明 刚举报产妇急速出院</a></li>
 <li><a href="/comments/20240506/2033355.md" target="_blank">拜登在校园抗议上含糊其辞 带来什么后果？</a></li>
-<li><a href="/cbnews/20240506/2033341.md" target="_blank">曾传被抓 马晓伟名字被撤下国家卫健委官网领导栏</a></li>
-<li><a href="/cbnews/20240506/2033340.md" target="_blank">中国服装第一街起火 嫌疑人纵火后跳楼身亡</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240507/2033868.md" target="_blank">抛弃DEI，麻省理工现在转向啦！</a></li>
 <li><a href="/comments/20240507/2033834.md" target="_blank">【财经拆局】首季经济增长放缓 私人消费失动力复常以来最差</a></li>
 <li><a href="/comments/20240507/2033816.md" target="_blank">黄俄孝子夸俄爹</a></li>
 <li><a href="/comments/20240507/2033796.md" target="_blank">抗议不成的哥大学生，想方设法逃避考试</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240507/2033416.md" target="_blank">时事大家谈：习近平访欧，能否在渐行渐远的欧洲打开缺口？</a></li>
 <li><a href="/comments/20240507/2033413.md" target="_blank">攻击拉法在即！以色列空投传单要平民立刻撤离 美国暂停运送弹药</a></li>
 <li><a href="/comments/20240506/2033406.md" target="_blank">天亮时分：五年中江山尽改 他能成功吗？</a></li>
-<li><a href="/comments/20240506/2033388.md" target="_blank">湖北强推公墓 夫妻不准合葬 警察戒严阻民众抗议</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20231130/1967587.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （一）</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/tculture/20231217/1975364.md" target="_blank">医山夜话：张锡纯医案解读（1）根治失眠 思路清晰</a></li>
 
 </ul>
 </div>
