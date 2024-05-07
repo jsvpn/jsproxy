@@ -7,27 +7,27 @@
 
 <li><a href="/topimagenews/20240506/2033189.md">震惊：苏州一女子全裸被绑桥上 官方回应引热议</a></li>
 <li><a href="/topimagenews/20240506/2033184.md">“中国第一家族”大小太子、公主、驸马 穿梭于中、港 啥事都干</a></li>
-<li><a href="/topimagenews/20240506/2033183.md">【微博精粹】这48人没有几个是摔死的</a></li>
 <li><a href="/topimagenews/20240506/2033297.md">江泽民低估了此人的能量 后果很严重</a></li>
+<li><a href="/topimagenews/20240506/2033183.md">【微博精粹】这48人没有几个是摔死的</a></li>
 <li><a href="/topimagenews/20240506/2033325.md">惊爆内幕：朝鲜高层遭严控 都一只脚踏入地狱</a></li>
 <li><a href="/comments/20240506/2033299.md">中共三中全会只会出现“一种可能”</a></li>
 <li><a href="/cbnews/20240506/2033194.md">〖红朝浮世绘〗“不要把习近平当成朋友”</a></li>
 <li><a href="/cnnews/20240506/2033193.md">中国最甜美退役女兵爆火 网友：真纯 要上交国家了</a></li>
 <li><a href="/topimagenews/20240506/2033141.md">“不要把习近平当成朋友”</a></li>
+<li><a href="/cbnews/20240507/2033474.md">传军方等多部门不满 官方下架陈一新新五反长文</a></li>
 <li><a href="/ssgc/20240506/2033261.md">彭丽媛军委职专职身分曝光 去年月均一次公开亮相</a></li>
 <li><a href="/topimagenews/20240506/2033229.md">“洗澡不避女人”、“大便不找厕所” 中共部队所到处“十室十空”【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240506/2033217.md">乌陆军司令：战争形态发生巨大改变 日益感到孤单</a></li>
-<li><a href="/cbnews/20240507/2033474.md">传军方等多部门不满 官方下架陈一新新五反长文</a></li>
 <li><a href="/ccpdope/20240506/2033238.md">意外！巴黎欢迎习近平民众稀疏 疏欧洲气氛大改变</a></li>
 <li><a href="/cbnews/20240506/2033186.md">不寒而栗！中共作战计划正在进入一个新的、非常可怕领域【阿波罗网翻译报道】</a></li>
 <li><a href="/comments/20240506/2033328.md">预言地震、战争、飓风全部应验；警告：9.8级大地震快来了？另外空间和这里，有时空差异！来自2671年的时空旅人说了很多真相！｜未解之谜 扶摇</a></li>
 <li><a href="/yule/20240506/2033360.md">徐静蕾晒湖边打高尔夫照片 结果引来一阵爆笑</a></li>
 <li><a href="/ssgc/20240506/2033247.md">〖微博谈〗中共折腾之下会加速败亡</a></li>
-<li><a href="/cbnews/20240506/2033185.md">火爆视频！中国最高等学府校庆 看一眼能令人绝望</a></li>
-<li><a href="/finance/20240506/2033209.md">中国第一大忽悠，要完蛋了</a></li>
 <li><a href="/baitai/20240506/2033349.md">中共出新招 下半年或爆发大规模雪崩</a></li>
+<li><a href="/cbnews/20240506/2033185.md">火爆视频！中国最高等学府校庆 看一眼能令人绝望</a></li>
 <li><a href="/topimagenews/20240506/2033296.md">中共的金融政策失败十大表现</a></li>
-<li><a href="/topimagenews/20240506/2033188.md">“中国震撼2.0”局面，正在形成？</a></li>
+<li><a href="/finance/20240506/2033209.md">中国第一大忽悠，要完蛋了</a></li>
+<li><a href="/topimagenews/20240507/2033500.md">定调了！下半年，物价或会超出想象</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240507/2033582.md" target="_blank">当下美国学生运动，重现越战时代的“敌后斗争”</a></li>
 <li><a href="/comments/20240507/2033565.md" target="_blank">无人可用：彭丽媛掌军队人事大权？习近平访欧要完成“不可能的任务”｜唐靖远 方菲 ｜新闻烽火台 05/06</a></li>
 <li><a href="/cbnews/20240507/2033564.md" target="_blank">火箭军再现人事异动 纪委书记转任武警副政委</a></li>
 <li><a href="/cbnews/20240507/2033544.md" target="_blank">中国豆腐渣工程连环爆! 湖南、云南又传道路出事</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240506/2033102.md" target="_blank">分析：中共急造福建号 破绽多 或遭反制</a></li>
 <li><a href="/cbnews/20240506/2033101.md" target="_blank">杭州四季青服装店男子纵火后跳楼亡</a></li>
 <li><a href="/cbnews/20240506/2033098.md" target="_blank">中共航母战力不如80年前的日本 还得瑟什么？</a></li>
-<li><a href="/cbnews/20240506/2033097.md" target="_blank">旅澳学者袁红冰：法轮功在拯救华夏文化之魂</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240507/2033582.md" target="_blank">当下美国学生运动，重现越战时代的“敌后斗争”</a></li>
 <li><a href="/comments/20240507/2033570.md" target="_blank">六四笔记Ⅱ：他们犯下的最大的错就是没有真正的打倒共产党</a></li>
 <li><a href="/comments/20240507/2033569.md" target="_blank">六四笔记：学生民主的问题</a></li>
 <li><a href="/comments/20240507/2033565.md" target="_blank">无人可用：彭丽媛掌军队人事大权？习近平访欧要完成“不可能的任务”｜唐靖远 方菲 ｜新闻烽火台 05/06</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240506/2033277.md" target="_blank">【美菲历年规模最大的“肩并肩”军演】【实弹军演模拟击退登陆敌军】</a></li>
 <li><a href="/comments/20240506/2033237.md" target="_blank">法媒评中共党魁到访：勿抱幻想 别把他当朋友</a></li>
 <li><a href="/comments/20240506/2033234.md" target="_blank">广西南宁灯光秀表演 400多架无人机被狂风吹飞</a></li>
-<li><a href="/comments/20240506/2033230.md" target="_blank">为啥说对巴勒斯坦真爱的，其实是美国？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
 <li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20230920/1936271.md" target="_blank">防止你的孩子不成功（5） &#8211;教育避坑指南</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20231213/1973586.md" target="_blank">六道轮回之畜生道</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
+<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
 
 </ul>
 </div>
