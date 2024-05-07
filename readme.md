@@ -22,12 +22,12 @@
 <li><a href="/topimagenews/20240507/2033543.md">复旦大学，又出一个奇葩教授</a></li>
 <li><a href="/topimagenews/20240506/2033296.md">中共的金融政策失败十大表现</a></li>
 <li><a href="/topimagenews/20240507/2033520.md">盲眼龙婆2024年预言已中3个 三战预言全球怕</a></li>
+<li><a href="/cbnews/20240507/2033659.md">〖红朝浮世绘〗彭丽媛真的要走上政治舞台的前面了吗？</a></li>
 <li><a href="/topimagenews/20240507/2033619.md">他把胡锦涛架出会场！得习重用 今与王毅肩并肩</a></li>
 <li><a href="/topimagenews/20240507/2033620.md">【微博精粹】换一下位置 他就破防了</a></li>
-<li><a href="/baitai/20240506/2033314.md">【404文库】三联生活周刊｜梅大高速塌方：没有抵达家乡的打工者</a></li>
-<li><a href="/cbnews/20240507/2033659.md">〖红朝浮世绘〗彭丽媛真的要走上政治舞台的前面了吗？</a></li>
-<li><a href="/cbnews/20240507/2033622.md">大批民警特警协警出动！连续三天百姓走上街头抗议</a></li>
 <li><a href="/cbnews/20240507/2033694.md">习近平在爱丽舍宫 一个细节引猜测</a></li>
+<li><a href="/baitai/20240506/2033314.md">【404文库】三联生活周刊｜梅大高速塌方：没有抵达家乡的打工者</a></li>
+<li><a href="/cbnews/20240507/2033622.md">大批民警特警协警出动！连续三天百姓走上街头抗议</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20231203/1969183.md" target="_blank">开盖冲马桶 ，细菌会乱飞？除非你家马桶是喷泉！</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20240116/1984226.md" target="_blank">湖北老河口遇仙记</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20240418/2026391.md" target="_blank">医生劝我妻子放弃，似乎这些医生热衷让病人快点去死？</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
 <li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
 <li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20231214/1974098.md" target="_blank">美国众议院议长：我所坚守的保守主义，具体是些什么内容？</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20240403/2020547.md" target="_blank">纪录片：DSM诊断与统计手册-精神病学最要命的骗局</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
 
 </ul>
 </div>
