@@ -18,9 +18,9 @@
 <li><a href="/topimagenews/20240508/2034123.md">筹码这么快失效！北京开始自食苦果</a></li>
 <li><a href="/topimagenews/20240508/2034149.md">还敢坐吗？山航差点出大事…</a></li>
 <li><a href="/cbnews/20240508/2034115.md">再一副秘书长被免职 李克强时期班底仅剩一人</a></li>
+<li><a href="/cbnews/20240508/2034277.md">广东官场动荡折射中共高层内斗激烈 两人进京履新 更多人落马</a></li>
 <li><a href="/topimagenews/20240508/2033993.md">以军攻占拉法口岸！哈马斯，要么流亡 要么消亡</a></li>
 <li><a href="/topimagenews/20240508/2034113.md">一张照片 释放特殊政治信号</a></li>
-<li><a href="/cbnews/20240508/2034277.md">广东官场动荡折射中共高层内斗激烈 两人进京履新 更多人落马</a></li>
 <li><a href="/topimagenews/20240508/2033975.md">2.3亿人！中国未来的定时炸弹；“中国震撼2.0”局面，正在形成？【阿波罗网报道】</a></li>
 <li><a href="/lifebaike/20240508/2034135.md">去了杭州才发现阔腿裤不兴了 满大街是“杏裤”</a></li>
 <li><a href="/cbnews/20240508/2034112.md">〖红朝浮世绘〗医保“红卡” 一辈子看病不花钱</a></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240509/2034402.md" target="_blank">今日世界上的两条战线 你站在哪一边？（1）</a></li>
 <li><a href="/cbnews/20240509/2034388.md" target="_blank">中俄朝走近 专家解析未来变数</a></li>
 <li><a href="/cbnews/20240509/2034387.md" target="_blank">北大密集发布11份讣告 7人为中共党员</a></li>
 <li><a href="/cbnews/20240509/2034374.md" target="_blank">曾把胡锦涛架出会场 孔绍逊随党魁访欧</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240508/2033994.md" target="_blank">云南持刀杀人案 凶嫌称遭公检法迫害家破人亡</a></li>
 <li><a href="/cbnews/20240508/2033986.md" target="_blank">彭丽媛把他的案件放习家书架上 “一旦这个绞肉机开动，你就完了”</a></li>
 <li><a href="/comments/20240508/2033948.md" target="_blank">川普不给自己禁言 会因此入狱吗？</a></li>
-<li><a href="/comments/20240508/2033922.md" target="_blank">法官威胁判监禁，川普针锋相对回应。检察官接受意外资金，抓捕川普的真正黑手现形？议长约翰逊与马大姐会谈和解。川普封口费案罢免议长</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240509/2034402.md" target="_blank">今日世界上的两条战线 你站在哪一边？（1）</a></li>
 <li><a href="/comments/20240508/2034352.md" target="_blank">中国创立7.6万家假购物网站 骗取欧美80万笔个资</a></li>
 <li><a href="/comments/20240508/2034351.md" target="_blank">“愿荣光归香港”成禁歌！香港上诉法院裁决：危害国家安全</a></li>
 <li><a href="/comments/20240508/2034346.md" target="_blank">天亮时分：羞辱胡锦涛 被习重用？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240508/2034063.md" target="_blank">王维洛：教授猝死，为何网民称快？</a></li>
 <li><a href="/comments/20240508/2034062.md" target="_blank">习访欧欲2面通吃？2头落空</a></li>
 <li><a href="/comments/20240508/2034055.md" target="_blank">以色列进攻拉法 哈玛斯面临覆灭</a></li>
-<li><a href="/comments/20240508/2034042.md" target="_blank">木蹊说：香飘飘“抗日” 坏掉了比亚迪的大棋</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20231204/1969287.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （三）</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20231201/1968320.md" target="_blank">【非凡新闻】结合中西文化精神 美国神韵表演吸睛</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20231220/1976789.md" target="_blank">大陆医生曝：九价HPV疫苗导致怀孕能力下降40%</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20231213/1973586.md" target="_blank">六道轮回之畜生道</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20231214/1974098.md" target="_blank">美国众议院议长：我所坚守的保守主义，具体是些什么内容？</a></li>
+<li><a href="/tculture/20231217/1975364.md" target="_blank">医山夜话：张锡纯医案解读（1）根治失眠 思路清晰</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
 
 </ul>
 </div>
