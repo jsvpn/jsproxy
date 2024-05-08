@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/baitai/20240507/2033823.md">彭丽媛旧照细节曝光 谁在坑习近平？</a></li>
 <li><a href="/ccpdope/20240507/2033841.md">习访法遭大规模抗议这一幕吓坏习近平</a></li>
 <li><a href="/topimagenews/20240508/2033985.md">内部消息：习近平做出一重大抉择，与彭丽媛无关</a></li>
 <li><a href="/topimagenews/20240508/2033984.md">眼看哈马斯要全军覆没 习近平急了！断然行动【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240508/2034019.md">重大转折！以前那个挥金如土的时代结束了</a></li>
-<li><a href="/topimagenews/20240507/2033874.md">普京的处境越来越危险</a></li>
 <li><a href="/cbnews/20240508/2033986.md">彭丽媛把他的案件放习家书架上 “一旦这个绞肉机开动，你就完了”</a></li>
-<li><a href="/topimagenews/20240508/2034016.md">中共国 “一场残忍的杀人游戏在悄然进行…”</a></li>
+<li><a href="/topimagenews/20240507/2033874.md">普京的处境越来越危险</a></li>
+<li><a href="/baitai/20240507/2033889.md">中风后遗症？习近平步履蹒跚画面曝光</a></li>
 <li><a href="/topimagenews/20240508/2034123.md">筹码这么快失效！北京开始自食苦果</a></li>
+<li><a href="/topimagenews/20240508/2034016.md">中共国 “一场残忍的杀人游戏在悄然进行…”</a></li>
 <li><a href="/topimagenews/20240508/2034084.md">经济危机将至 普通老百姓能怎么做</a></li>
 <li><a href="/topimagenews/20240508/2034082.md">出现这一幕 人民币首先遭殃 跌到8.3</a></li>
-<li><a href="/baitai/20240507/2033889.md">中风后遗症？习近平步履蹒跚画面曝光</a></li>
-<li><a href="/topimagenews/20240508/2034149.md">还敢坐吗？山航差点出大事…</a></li>
-<li><a href="/topimagenews/20240508/2034018.md">百度美女副总裁的狼性表演，翻车了</a></li>
 <li><a href="/topimagenews/20240508/2034203.md">发生什么？王健林照片引发网络惊呼：看着恐怖！【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20240508/2034018.md">百度美女副总裁的狼性表演，翻车了</a></li>
+<li><a href="/topimagenews/20240508/2034149.md">还敢坐吗？山航差点出大事…</a></li>
 <li><a href="/topimagenews/20240508/2033993.md">以军攻占拉法口岸！哈马斯，要么流亡 要么消亡</a></li>
 <li><a href="/cbnews/20240508/2034115.md">再一副秘书长被免职 李克强时期班底仅剩一人</a></li>
-<li><a href="/topimagenews/20240508/2034113.md">一张照片 释放特殊政治信号</a></li>
 <li><a href="/headline/20240507/2033847.md">火箭军司令、前防长出现在一葬礼花圈名上</a></li>
+<li><a href="/topimagenews/20240508/2034113.md">一张照片 释放特殊政治信号</a></li>
 <li><a href="/topimagenews/20240508/2033975.md">2.3亿人！中国未来的定时炸弹；“中国震撼2.0”局面，正在形成？【阿波罗网报道】</a></li>
-<li><a href="/lifebaike/20240508/2034135.md">去了杭州才发现阔腿裤不兴了 满大街是“杏裤”</a></li>
 <li><a href="/ssgc/20240508/2033979.md">广东梅大高速惨剧 不彻查了？</a></li>
+<li><a href="/lifebaike/20240508/2034135.md">去了杭州才发现阔腿裤不兴了 满大街是“杏裤”</a></li>
 <li><a href="/cbnews/20240507/2033876.md">云南持刀伤人案 已2死21人伤 现场惨不忍睹</a></li>
+<li><a href="/topimagenews/20240508/2034229.md">北京迟迟不出台重大经济刺激政策 竟因为一个人</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240508/2034282.md" target="_blank">【梁京评论】习近平的两大难关与耐心资本</a></li>
 <li><a href="/comments/20240508/2034279.md" target="_blank">溺水挣扎？中共货币大贬促倾销</a></li>
 <li><a href="/comments/20240508/2034275.md" target="_blank">蓬佩奥狂黑习近平</a></li>
 <li><a href="/comments/20240508/2034240.md" target="_blank">习近平的臆想 和 马克龙的天真（1)</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240508/2034039.md" target="_blank">余习广:牟其中之败：中国首富还是首骗？</a></li>
 <li><a href="/comments/20240508/2034038.md" target="_blank">纪永添: 从星链到星盾</a></li>
 <li><a href="/comments/20240508/2034036.md" target="_blank">小粉红挨党铁拳：滚</a></li>
-<li><a href="/comments/20240508/2034035.md" target="_blank">习近平夫妇访法国 北京群众怎么看？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
+<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
 <li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
 <li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
 
 </ul>
 </div>
