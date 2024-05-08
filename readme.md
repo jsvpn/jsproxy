@@ -5,12 +5,9 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/topimagenews/20240508/2034019.md">重大转折！以前那个挥金如土的时代结束了</a></li>
 <li><a href="/topimagenews/20240508/2034203.md">发生什么？王健林照片引发网络惊呼：看着恐怖！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240508/2034229.md">北京迟迟不出台重大经济刺激政策 竟因为一个人</a></li>
-<li><a href="/topimagenews/20240508/2034016.md">中共国 “一场残忍的杀人游戏在悄然进行…”</a></li>
 <li><a href="/topimagenews/20240508/2034082.md">出现这一幕 人民币首先遭殃 跌到8.3</a></li>
-<li><a href="/topimagenews/20240508/2034018.md">百度美女副总裁的狼性表演，翻车了</a></li>
 <li><a href="/topimagenews/20240508/2034084.md">经济危机将至 普通老百姓能怎么做</a></li>
 <li><a href="/topimagenews/20240508/2034123.md">筹码这么快失效！北京开始自食苦果</a></li>
 <li><a href="/topimagenews/20240508/2034149.md">还敢坐吗？山航差点出大事…</a></li>
@@ -27,7 +24,10 @@
 <li><a href="/topimagenews/20240508/2034260.md">美国这是白忙活了三年？取得81%好成绩</a></li>
 <li><a href="/comments/20240508/2034275.md">蓬佩奥狂黑习近平</a></li>
 <li><a href="/cbnews/20240508/2034145.md">江峰：欧法中谈崩，习近平挑衅北约，亲写文挑仇恨；高规格还是「软钉子」，礼炮、红地毯哪儿去了？王毅悬了；欧盟：准备好所有工具抵御中共；美军这一招绝杀中共导弹【江峰漫谈20240507第866期】</a></li>
+<li><a href="/topimagenews/20240508/2034318.md">浙江僧侣开宾利载妻女？庙方称是代驾 网炸锅</a></li>
 <li><a href="/cnnews/20240508/2034043.md">丽江：五一假期爆冷，最终吃下自己种的恶果</a></li>
+<li><a href="/baitai/20240508/2034202.md">梁晓声：若再回文革，我要么移民要么自杀</a></li>
+<li><a href="/baitai/20240508/2034253.md">血管里的“斑块”或可缩小甚至消失？逆转的关键是它们</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240509/2034481.md" target="_blank">江峰：俄罗斯这个200斤包袱 习近平也准备十里山路不换肩了</a></li>
+<li><a href="/comments/20240509/2034479.md" target="_blank">习近平访欧关键问题无解；Tiktok起诉美国政府，将打到最高法院？川普会因违背禁言令入狱吗？｜方伟 唐靖远 Jason David 方菲 ｜围炉夜话 05/08</a></li>
 <li><a href="/cbnews/20240509/2034461.md" target="_blank">这一族群悄然崛起 中共面临新威胁</a></li>
 <li><a href="/cbnews/20240509/2034456.md" target="_blank">江峰：习近平自信的来源：乌克兰怂了、俄罗斯牛了、中国让美国吓尿了</a></li>
 <li><a href="/cbnews/20240509/2034447.md" target="_blank">中共正保留火力，静观“其”变</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20240508/2034116.md" target="_blank">连这也急着改 中共不装了</a></li>
 <li><a href="/cbnews/20240508/2034115.md" target="_blank">再一副秘书长被免职 李克强时期班底仅剩一人</a></li>
 <li><a href="/cbnews/20240508/2034114.md" target="_blank">温州一“不能居住”学区房拍出238万 引热议</a></li>
-<li><a href="/cbnews/20240508/2034112.md" target="_blank">〖红朝浮世绘〗医保“红卡” 一辈子看病不花钱</a></li>
-<li><a href="/comments/20240508/2034055.md" target="_blank">以色列进攻拉法 哈玛斯面临覆灭</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240509/2034479.md" target="_blank">习近平访欧关键问题无解；Tiktok起诉美国政府，将打到最高法院？川普会因违背禁言令入狱吗？｜方伟 唐靖远 Jason David 方菲 ｜围炉夜话 05/08</a></li>
 <li><a href="/comments/20240509/2034463.md" target="_blank">汤名晖：因为这 习近平比以往更自信了</a></li>
 <li><a href="/comments/20240509/2034462.md" target="_blank">卓然：这种情势下，习近平被迫认怂</a></li>
 <li><a href="/comments/20240509/2034457.md" target="_blank">天亮时分：俄罗斯策反特工 计画未遂？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240508/2034090.md" target="_blank">北青深一度:成为“理财师”的农村老人失去了毕生积蓄</a></li>
 <li><a href="/comments/20240508/2034089.md" target="_blank">旧闻评论：人们怎样议论梅大高速惨剧？</a></li>
 <li><a href="/comments/20240508/2034088.md" target="_blank">苏昂：北京施工项目招投标中的专家腐败现象</a></li>
-<li><a href="/comments/20240508/2034080.md" target="_blank">天亮时分：因为羞辱胡锦涛，他被习近平重用？彭丽媛身边是马伟明？普京连任，特工献礼未遂；川普机密文件案被无限度延迟聆讯（政论天下第1302集 20240507）天亮时分</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
 <li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20231223/1978148.md" target="_blank">医山夜话：张锡纯医案解读（三）赭石：降胃气 引火下行</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20231220/1976683.md" target="_blank">医山夜话：张锡纯医案解读（二）根治胃气不降之证</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
 
 </ul>
 </div>
