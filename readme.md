@@ -13,20 +13,20 @@
 <li><a href="/topimagenews/20240507/2033874.md">普京的处境越来越危险</a></li>
 <li><a href="/cbnews/20240508/2033986.md">彭丽媛把他的案件放习家书架上 “一旦这个绞肉机开动，你就完了”</a></li>
 <li><a href="/topimagenews/20240508/2034016.md">中共国 “一场残忍的杀人游戏在悄然进行…”</a></li>
-<li><a href="/topimagenews/20240508/2034082.md">出现这一幕 人民币首先遭殃 跌到8.3</a></li>
-<li><a href="/topimagenews/20240508/2034084.md">经济危机将至 普通老百姓能怎么做</a></li>
-<li><a href="/baitai/20240507/2033889.md">中风后遗症？习近平步履蹒跚画面曝光</a></li>
 <li><a href="/topimagenews/20240508/2034123.md">筹码这么快失效！北京开始自食苦果</a></li>
-<li><a href="/topimagenews/20240508/2034018.md">百度美女副总裁的狼性表演，翻车了</a></li>
+<li><a href="/topimagenews/20240508/2034084.md">经济危机将至 普通老百姓能怎么做</a></li>
+<li><a href="/topimagenews/20240508/2034082.md">出现这一幕 人民币首先遭殃 跌到8.3</a></li>
+<li><a href="/baitai/20240507/2033889.md">中风后遗症？习近平步履蹒跚画面曝光</a></li>
 <li><a href="/topimagenews/20240508/2034149.md">还敢坐吗？山航差点出大事…</a></li>
-<li><a href="/topimagenews/20240508/2033993.md">以军攻占拉法口岸！哈马斯，要么流亡 要么消亡</a></li>
+<li><a href="/topimagenews/20240508/2034018.md">百度美女副总裁的狼性表演，翻车了</a></li>
 <li><a href="/topimagenews/20240508/2034203.md">发生什么？王健林照片引发网络惊呼：看着恐怖！【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20240508/2033975.md">2.3亿人！中国未来的定时炸弹；“中国震撼2.0”局面，正在形成？【阿波罗网报道】</a></li>
-<li><a href="/headline/20240507/2033847.md">火箭军司令、前防长出现在一葬礼花圈名上</a></li>
+<li><a href="/topimagenews/20240508/2033993.md">以军攻占拉法口岸！哈马斯，要么流亡 要么消亡</a></li>
 <li><a href="/cbnews/20240508/2034115.md">再一副秘书长被免职 李克强时期班底仅剩一人</a></li>
 <li><a href="/topimagenews/20240508/2034113.md">一张照片 释放特殊政治信号</a></li>
-<li><a href="/ssgc/20240508/2033979.md">广东梅大高速惨剧 不彻查了？</a></li>
+<li><a href="/headline/20240507/2033847.md">火箭军司令、前防长出现在一葬礼花圈名上</a></li>
+<li><a href="/topimagenews/20240508/2033975.md">2.3亿人！中国未来的定时炸弹；“中国震撼2.0”局面，正在形成？【阿波罗网报道】</a></li>
 <li><a href="/lifebaike/20240508/2034135.md">去了杭州才发现阔腿裤不兴了 满大街是“杏裤”</a></li>
+<li><a href="/ssgc/20240508/2033979.md">广东梅大高速惨剧 不彻查了？</a></li>
 <li><a href="/cbnews/20240507/2033876.md">云南持刀伤人案 已2死21人伤 现场惨不忍睹</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240508/2034277.md" target="_blank">广东官场动荡折射中共高层内斗激烈 两人进京履新 更多人落马</a></li>
 <li><a href="/comments/20240508/2034240.md" target="_blank">习近平的臆想 和 马克龙的天真（1)</a></li>
 <li><a href="/cbnews/20240508/2034231.md" target="_blank">要做什么？北京高层住宅楼下被挖30多米地道</a></li>
 <li><a href="/cbnews/20240508/2034230.md" target="_blank">中共火箭残骸坠落贵州 吓坏当地村民</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240507/2033876.md" target="_blank">云南持刀伤人案 已2死21人伤 现场惨不忍睹</a></li>
 <li><a href="/cbnews/20240507/2033875.md" target="_blank">云南镇雄医院爆凶案 2死21伤 当地进入应急状态</a></li>
 <li><a href="/comments/20240507/2033868.md" target="_blank">抛弃DEI，麻省理工现在转向啦！</a></li>
-<li><a href="/cbnews/20240507/2033862.md" target="_blank">云南镇雄医院多人持刀凶杀 2死21伤 当地进入应急状态</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240508/2034279.md" target="_blank">溺水挣扎？中共货币大贬促倾销</a></li>
+<li><a href="/comments/20240508/2034275.md" target="_blank">蓬佩奥狂黑习近平</a></li>
 <li><a href="/comments/20240508/2034240.md" target="_blank">习近平的臆想 和 马克龙的天真（1)</a></li>
 <li><a href="/comments/20240508/2034239.md" target="_blank">【习近平访问塞尔维亚】【发文提北约轰炸中国驻南联盟大使馆】</a></li>
 <li><a href="/comments/20240508/2034130.md" target="_blank">哈马斯昨日接受停火协议？ 细节才是魔鬼</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240508/2034038.md" target="_blank">纪永添: 从星链到星盾</a></li>
 <li><a href="/comments/20240508/2034036.md" target="_blank">小粉红挨党铁拳：滚</a></li>
 <li><a href="/comments/20240508/2034035.md" target="_blank">习近平夫妇访法国 北京群众怎么看？</a></li>
-<li><a href="/comments/20240508/2034015.md" target="_blank">危邦不入！入境中国将被查手机，如何应对？ ｜横河 方菲 ｜新闻烽火台 05/07</a></li>
-<li><a href="/comments/20240508/2034000.md" target="_blank">上任第一枪，指向俄罗斯国防部</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
 <li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
 <li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
+<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
 
 </ul>
 </div>
