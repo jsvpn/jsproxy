@@ -14,8 +14,8 @@
 <li><a href="/topimagenews/20240508/2034113.md">一张照片 释放特殊政治信号</a></li>
 <li><a href="/lifebaike/20240508/2034135.md">去了杭州才发现阔腿裤不兴了 满大街是“杏裤”</a></li>
 <li><a href="/finance/20240509/2034431.md">中国或爆大雪崩！习急了 出2大招；定调了！下半年，物价或会超出想象【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20240508/2034353.md">怕被下毒？正在吃药？习近平访法自带黑杯引猜测</a></li>
 <li><a href="/cbnews/20240508/2034112.md">〖红朝浮世绘〗医保“红卡” 一辈子看病不花钱</a></li>
+<li><a href="/topimagenews/20240508/2034353.md">怕被下毒？正在吃药？习近平访法自带黑杯引猜测</a></li>
 <li><a href="/topimagenews/20240509/2034459.md">彭丽媛蓄势待发 一身诡异着装可能改变中国和世界历史</a></li>
 <li><a href="/cbnews/20240508/2034231.md">要做什么？北京高层住宅楼下被挖30多米地道</a></li>
 <li><a href="/topimagenews/20240508/2034170.md">敲锣打鼓 惊天骗术大游行</a></li>
@@ -24,9 +24,9 @@
 <li><a href="/cnnews/20240508/2034155.md">警察夫妻遇害 工资2000 却有上亿资产北京6套房</a></li>
 <li><a href="/comments/20240508/2034275.md">蓬佩奥狂黑习近平</a></li>
 <li><a href="/cbnews/20240508/2034145.md">江峰：欧法中谈崩，习近平挑衅北约，亲写文挑仇恨；高规格还是「软钉子」，礼炮、红地毯哪儿去了？王毅悬了；欧盟：准备好所有工具抵御中共；美军这一招绝杀中共导弹【江峰漫谈20240507第866期】</a></li>
+<li><a href="/yule/20240509/2034467.md">曾志伟一句“我潜过她” 揭开周冬雨糜烂情史</a></li>
 <li><a href="/topimagenews/20240508/2034318.md">浙江僧侣开宾利载妻女？庙方称是代驾 网炸锅</a></li>
 <li><a href="/baitai/20240508/2034202.md">梁晓声：若再回文革，我要么移民要么自杀</a></li>
-<li><a href="/yule/20240509/2034467.md">曾志伟一句“我潜过她” 揭开周冬雨糜烂情史</a></li>
 <li><a href="/baitai/20240508/2034253.md">血管里的“斑块”或可缩小甚至消失？逆转的关键是它们</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,15 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240509/2034574.md" target="_blank">王庆民：李显龙交棒与新加坡稳健型民主政治</a></li>
+<li><a href="/comments/20240509/2034573.md" target="_blank">林保华：崐萁何时成为昆仑山的小草？</a></li>
+<li><a href="/comments/20240509/2034572.md" target="_blank">略萨：​政治正确是自由的敌人</a></li>
+<li><a href="/comments/20240509/2034571.md" target="_blank">吴奕军: 拜登对中国带风向工具TikTok 立场飘忽</a></li>
+<li><a href="/comments/20240509/2034570.md" target="_blank">颜纯钩:废掉联合国无关痛痒，不废联合国另起炉灶</a></li>
+<li><a href="/comments/20240509/2034569.md" target="_blank">王赫：河南事业单位改革的虚与实</a></li>
+<li><a href="/comments/20240509/2034568.md" target="_blank">夏林：巴菲特2024股东大会：花钱的艺术</a></li>
+<li><a href="/comments/20240509/2034567.md" target="_blank">杨威：中共急从法国买面子凸显战略困境</a></li>
+<li><a href="/comments/20240509/2034566.md" target="_blank">习近平巴黎大现眼：夫妻背书单！马克龙躺枪：编彭丽媛猪肉包子梗？ 架出胡锦涛的人随行，这次架谁？</a></li>
 <li><a href="/comments/20240509/2034509.md" target="_blank">美国遭殃！成以哈冲突第二战场</a></li>
 <li><a href="/comments/20240509/2034479.md" target="_blank">习近平访欧关键问题无解；Tiktok起诉美国政府，将打到最高法院？川普会因违背禁言令入狱吗？｜方伟 唐靖远 Jason David 方菲 ｜围炉夜话 05/08</a></li>
 <li><a href="/comments/20240509/2034463.md" target="_blank">汤名晖：因为这 习近平比以往更自信了</a></li>
@@ -113,15 +122,6 @@
 <li><a href="/comments/20240508/2034324.md" target="_blank">【未普评论】中共党内民主力量式微，但呼唤民主的声音从未断绝（中）</a></li>
 <li><a href="/comments/20240508/2034303.md" target="_blank">习近平的臆想 和 马克龙的天真（2）</a></li>
 <li><a href="/comments/20240508/2034282.md" target="_blank">【梁京评论】习近平的两大难关与耐心资本</a></li>
-<li><a href="/comments/20240508/2034279.md" target="_blank">溺水挣扎？中共货币大贬促倾销</a></li>
-<li><a href="/comments/20240508/2034275.md" target="_blank">蓬佩奥狂黑习近平</a></li>
-<li><a href="/comments/20240508/2034240.md" target="_blank">习近平的臆想 和 马克龙的天真（1)</a></li>
-<li><a href="/comments/20240508/2034239.md" target="_blank">【习近平访问塞尔维亚】【发文提北约轰炸中国驻南联盟大使馆】</a></li>
-<li><a href="/comments/20240508/2034130.md" target="_blank">哈马斯昨日接受停火协议？ 细节才是魔鬼</a></li>
-<li><a href="/comments/20240508/2034129.md" target="_blank">危机重重的中欧关系</a></li>
-<li><a href="/comments/20240508/2034091.md" target="_blank">林中的维吉尔：香飘飘这个“讽日”口号，喊得确实聪明啊</a></li>
-<li><a href="/comments/20240508/2034090.md" target="_blank">北青深一度:成为“理财师”的农村老人失去了毕生积蓄</a></li>
-<li><a href="/comments/20240508/2034089.md" target="_blank">旧闻评论：人们怎样议论梅大高速惨剧？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20240318/2014289.md" target="_blank">唐柏桥：民运同仁突然向法轮功开火是怎么回事？</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
+<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20240412/2024185.md" target="_blank">是治疗还是屠杀?化疗药品滴一滴在皮肤即灼伤，很长时间才好</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
 <li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/cbnews/20190701/1151453.md" target="_blank">盘点十大邪教特征 中共条条对号入座</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
+<li><a href="/comments/20240126/1992876.md" target="_blank">内幕：中国留学生里女生打男生和男生打女一样普遍</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20231214/1974098.md" target="_blank">美国众议院议长：我所坚守的保守主义，具体是些什么内容？</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20231201/1968320.md" target="_blank">【非凡新闻】结合中西文化精神 美国神韵表演吸睛</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
 
 </ul>
 </div>
