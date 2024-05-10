@@ -11,8 +11,8 @@
 <li><a href="/topimagenews/20240510/2034910.md">出人意料，习近平没把这张大订单给马克龙</a></li>
 <li><a href="/topimagenews/20240510/2035031.md">中共最害怕的一幕出现了！网友：网管去睡觉了【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20240510/2035000.md">江绵恒核心高层真危险了</a></li>
-<li><a href="/cbnews/20240510/2034878.md">百度副总裁开抖音 致公司损失120亿 被迫离职</a></li>
 <li><a href="/cbnews/20240510/2035033.md">中南海气氛不寻常 三中全会前大批官员被抓</a></li>
+<li><a href="/cbnews/20240510/2034878.md">百度副总裁开抖音 致公司损失120亿 被迫离职</a></li>
 <li><a href="/topimagenews/20240510/2035016.md">重磅快讯！美国即将对中共征收新关税 目标是…</a></li>
 <li><a href="/sohnews/20240510/2034884.md">江苏女孩坠河亡，最后回望刺痛所有人，为何3周才发酵？一张聊天截图，为何让官媒惊慌“辟谣”？</a></li>
 <li><a href="/ssgc/20240510/2034944.md">〖微博谈〗全民信心的崩盘</a></li>
@@ -24,10 +24,10 @@
 <li><a href="/topimagenews/20240510/2034999.md">谁看谁生气！ 这一幕引发众怒：“中共真是损呀，心眼坏透了”【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240510/2034909.md">再也没机会！哈马斯现在一地鸡毛</a></li>
 <li><a href="/cnnews/20240510/2034927.md">很多人的工资已经发不下来了</a></li>
-<li><a href="/cnnews/20240510/2034860.md">“这绝对是毁灭性的”！美商务部长语出惊人 最重要同盟藏不住了</a></li>
 <li><a href="/finance/20240510/2035034.md">疯传：中国20亿私募跑路了…</a></li>
 <li><a href="/comments/20240510/2035079.md">原来中国最高学府的著名学者 现在的水平就这样</a></li>
 <li><a href="/cnnews/20240510/2034904.md">遭中国巨富忽悠 这个国家要收回百年特许权</a></li>
+<li><a href="/cbnews/20240510/2034881.md">“习近平新时代‘亩产万斤’大新闻”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240511/2035282.md" target="_blank">电视剧Dopesick 把孩子救回来了</a></li>
 <li><a href="/comments/20240511/2035250.md" target="_blank">孩子在性向上迷失 爸妈该怎么办？</a></li>
 <li><a href="/cbnews/20240511/2035231.md" target="_blank">习近平出访欧洲 几处尴尬瞬间被曝集/视频</a></li>
 <li><a href="/cbnews/20240511/2035225.md" target="_blank">中共再炒“使馆被炸” 前外交官曝真相</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20240510/2034962.md" target="_blank">美国学校用了什么手法从你手中把孩子夺走？</a></li>
 <li><a href="/comments/20240510/2034961.md" target="_blank">下集：饱受LGBTQ影响和毒品祸害的孩子 父母怎么能够救回来？</a></li>
 <li><a href="/cbnews/20240510/2034914.md" target="_blank">昔日中国“老朋友” 今天发表强硬抵抗中俄演说</a></li>
-<li><a href="/cbnews/20240510/2034913.md" target="_blank">复旦帮染指外交 张维为访法言论轻慢被轰</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240511/2035283.md" target="_blank">堤丰系统为何让中国如此愤怒？｜兵家常事（2024-5-11）</a></li>
+<li><a href="/comments/20240511/2035282.md" target="_blank">电视剧Dopesick 把孩子救回来了</a></li>
 <li><a href="/comments/20240511/2035266.md" target="_blank">林剑强硬回应中菲外交争端 是谁“气急败坏，毫无底线”？</a></li>
 <li><a href="/comments/20240511/2035250.md" target="_blank">孩子在性向上迷失 爸妈该怎么办？</a></li>
 <li><a href="/comments/20240511/2035223.md" target="_blank">张展出狱在即, 亲友计划到监狱迎接受阻</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240510/2034946.md" target="_blank">老习掏小本！专雷马克龙</a></li>
 <li><a href="/comments/20240510/2034924.md" target="_blank">杜政：释出彭丽媛军装视察照有深意</a></li>
 <li><a href="/comments/20240510/2034923.md" target="_blank">陈嘉宏：让中华民国有一个安身立命之所</a></li>
-<li><a href="/comments/20240510/2034922.md" target="_blank">郑立：台湾是不是一个买光了土地的大富翁？</a></li>
-<li><a href="/comments/20240510/2034921.md" target="_blank">木蹊说：从华为问界到特斯拉，这届车企越来越狂</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
-<li><a href="/comments/20231212/1972297.md" target="_blank">日本华人确诊晚期直肠癌，修炼法轮功恢复健康（图）</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20231220/1976683.md" target="_blank">医山夜话：张锡纯医案解读（二）根治胃气不降之证</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20231203/1969183.md" target="_blank">开盖冲马桶 ，细菌会乱飞？除非你家马桶是喷泉！</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/tculture/20231217/1975364.md" target="_blank">医山夜话：张锡纯医案解读（1）根治失眠 思路清晰</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
 
 </ul>
 </div>
