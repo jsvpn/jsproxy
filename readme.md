@@ -12,9 +12,7 @@
 <li><a href="/topimagenews/20240510/2035031.md">中共最害怕的一幕出现了！网友：网管去睡觉了【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20240510/2035000.md">江绵恒核心高层真危险了</a></li>
 <li><a href="/cbnews/20240510/2035033.md">中南海气氛不寻常 三中全会前大批官员被抓</a></li>
-<li><a href="/cbnews/20240510/2034878.md">百度副总裁开抖音 致公司损失120亿 被迫离职</a></li>
 <li><a href="/topimagenews/20240510/2035016.md">重磅快讯！美国即将对中共征收新关税 目标是…</a></li>
-<li><a href="/sohnews/20240510/2034884.md">江苏女孩坠河亡，最后回望刺痛所有人，为何3周才发酵？一张聊天截图，为何让官媒惊慌“辟谣”？</a></li>
 <li><a href="/ssgc/20240510/2034944.md">〖微博谈〗全民信心的崩盘</a></li>
 <li><a href="/sohnews/20240510/2035092.md">政治局会议重要信号：房地产国家队要来了！七月将进行财税改革！｜米国路边社 [20240509555]</a></li>
 <li><a href="/cbnews/20240510/2035004.md">〖红朝浮世绘〗华婊又在立牌坊了 再用“祖国”忽悠人有点难</a></li>
@@ -25,9 +23,11 @@
 <li><a href="/topimagenews/20240510/2034909.md">再也没机会！哈马斯现在一地鸡毛</a></li>
 <li><a href="/cnnews/20240510/2034927.md">很多人的工资已经发不下来了</a></li>
 <li><a href="/finance/20240510/2035034.md">疯传：中国20亿私募跑路了…</a></li>
+<li><a href="/topimagenews/20240511/2035228.md">千金散尽! 王健林瘦到只剩鼻子 换得王思聪出境</a></li>
 <li><a href="/comments/20240510/2035079.md">原来中国最高学府的著名学者 现在的水平就这样</a></li>
 <li><a href="/cnnews/20240510/2034904.md">遭中国巨富忽悠 这个国家要收回百年特许权</a></li>
-<li><a href="/cbnews/20240510/2034881.md">“习近平新时代‘亩产万斤’大新闻”</a></li>
+<li><a href="/cnnews/20240510/2034929.md">终于，年轻人不好骗了</a></li>
+<li><a href="/baitai/20240510/2035120.md">突然爆火！ 华春莹视频成靶子遭网民狂吐槽</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240511/2035320.md" target="_blank">盟友陪同川普上庭，为川普代言。检方女证人，不断赞扬川普。亨特上诉被驳回，面临25年监禁。川普封口费亨特</a></li>
 <li><a href="/cbnews/20240511/2035307.md" target="_blank">一年半前重要讲话流出 习近平、王小洪包藏祸心</a></li>
 <li><a href="/cbnews/20240511/2035306.md" target="_blank">璩静离职前，有多少百度员工悄然向媒体爆料 还在上班？</a></li>
 <li><a href="/cbnews/20240511/2035287.md" target="_blank">冲突升级 中共外交官涉传假信息 菲律宾吁驱逐</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240510/2034997.md" target="_blank">江峰：被抓包？AI伪造中菲“君子协议”，习近平法国书单显无知：中共南海问题烂尾，避联合打击找台阶下；欧洲之行分化欧美目的落空，反遭欧各国认清撑俄面目，制定强硬对华战略【江峰漫谈20240509第867期】</a></li>
 <li><a href="/cbnews/20240510/2034991.md" target="_blank">习近平正释放信号 欧洲冷眼旁观</a></li>
 <li><a href="/cbnews/20240510/2034971.md" target="_blank">中国民主党主席：感动国人 体制内有人保护法轮功学员</a></li>
-<li><a href="/cbnews/20240510/2034970.md" target="_blank">爆炸性录音曝光！或将引发官场大地震？</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240511/2035320.md" target="_blank">盟友陪同川普上庭，为川普代言。检方女证人，不断赞扬川普。亨特上诉被驳回，面临25年监禁。川普封口费亨特</a></li>
+<li><a href="/comments/20240511/2035310.md" target="_blank">深度知局：俄陆军总参谋长之子被清除 俄国宝级大杀器上场</a></li>
 <li><a href="/comments/20240511/2035290.md" target="_blank">李靖宇：中国人怎么摆脱“内卷”漩涡？</a></li>
 <li><a href="/comments/20240511/2035289.md" target="_blank">吴奕军:美国多数人已连续第五年讨厌中国</a></li>
 <li><a href="/comments/20240511/2035288.md" target="_blank">楚一丁：中美贸易战十月前会开打吗？</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240510/2034992.md" target="_blank">菁英论坛：乌克兰战争 各国划时代选边站</a></li>
 <li><a href="/comments/20240510/2034962.md" target="_blank">美国学校用了什么手法从你手中把孩子夺走？</a></li>
 <li><a href="/comments/20240510/2034961.md" target="_blank">下集：饱受LGBTQ影响和毒品祸害的孩子 父母怎么能够救回来？</a></li>
-<li><a href="/comments/20240510/2034956.md" target="_blank">惊呆世界 彭丽媛想干嘛？</a></li>
-<li><a href="/comments/20240510/2034947.md" target="_blank">天亮时分：嘴硬心虚，不要被习骗了；人民币汇率贬到8.3？蒸发120亿，百度副总说了啥？（政论天下第1303集 20240509）天亮时分</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20230920/1936271.md" target="_blank">防止你的孩子不成功（5） &#8211;教育避坑指南</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/comments/20231203/1969183.md" target="_blank">开盖冲马桶 ，细菌会乱飞？除非你家马桶是喷泉！</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/aomi/life/20240330/2018911.md" target="_blank">挪威青年这样走出重度失眠和抑郁煎熬</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
 <li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/topimagenews/20180608/954788.md" target="_blank">安乐死根本安乐不了，别宣传了</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
+<li><a href="/comments/20231201/1968320.md" target="_blank">【非凡新闻】结合中西文化精神 美国神韵表演吸睛</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
 
 </ul>
 </div>
