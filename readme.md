@@ -10,11 +10,10 @@
 <li><a href="/ccpdope/20240509/2034713.md">习访塞作秀 沦落成外交史上的笑话</a></li>
 <li><a href="/topimagenews/20240509/2034669.md">中共党魁这个视频又火了！他对面这位表情丰富【阿波罗网报道】</a></li>
 <li><a href="/baitai/20240510/2034893.md">中国人看不到的镜头——过街老鼠般的习近平</a></li>
-<li><a href="/cbnews/20240509/2034651.md">2个海关女工作人员检查1个女游客的手机</a></li>
 <li><a href="/topimagenews/20240510/2034793.md">bilibili董事长爆“有能干秘书”！包养小20岁年轻正妹 吸奶茶片遭疯传</a></li>
 <li><a href="/sohnews/20240509/2034656.md">习决心与美对决？三中全会秘中秘</a></li>
-<li><a href="/itnews/20240509/2034670.md">在中国被禁的 WhatsApp 对部分用户可用</a></li>
 <li><a href="/cbnews/20240510/2034823.md">中共国安可随意查民众手机 学者支招应对</a></li>
+<li><a href="/itnews/20240509/2034670.md">在中国被禁的 WhatsApp 对部分用户可用</a></li>
 <li><a href="/topimagenews/20240510/2034857.md">重大转折！以前那个挥金如土的时代结束了；出现这一幕，人民币首先遭殃，跌到8.3</a></li>
 <li><a href="/ssgc/20240509/2034663.md">广东人事大地震 两部长调京 一日内10名中层官员落马</a></li>
 <li><a href="/cbnews/20240510/2034878.md">百度副总裁开抖音 致公司损失120亿 被迫离职</a></li>
@@ -22,10 +21,11 @@
 <li><a href="/cbnews/20240510/2034911.md">真把人民当傻子？ 央视一则报道大翻车</a></li>
 <li><a href="/baitai/20240509/2034731.md">下半年中国物价或超想像 中共面临一关键难题</a></li>
 <li><a href="/sohnews/20240510/2034884.md">江苏女孩坠河亡，最后回望刺痛所有人，为何3周才发酵？一张聊天截图，为何让官媒惊慌“辟谣”？</a></li>
+<li><a href="/topimagenews/20240510/2034910.md">出人意料，习近平没把这张大订单给马克龙</a></li>
 <li><a href="/sohnews/20240509/2034323.md">极简主义：请立刻扔掉你家里的这些东西，因为它们可能严重阻碍你人生的发展，甚至影响你的运势</a></li>
 <li><a href="/sohnews/20240509/2034704.md">陈破空：有内鬼？习彭双双遭设计！她着装严重辱华，他一辈子都是黑的？蔡奇可疑。塞总统也搞高级黑。福建号航母严重辱华。直播与互动：美东时间5月9日早9点、中港台当晚9点</a></li>
-<li><a href="/topimagenews/20240510/2034910.md">出人意料，习近平没把这张大订单给马克龙</a></li>
 <li><a href="/sohnews/20240509/2034723.md">习近平为何喜欢文革？根源在这！</a></li>
+<li><a href="/ssgc/20240510/2034944.md">〖微博谈〗全民信心的崩盘</a></li>
 <li><a href="/cnnews/20240510/2034860.md">“这绝对是毁灭性的”！美商务部长语出惊人 最重要同盟藏不住了</a></li>
 <li><a href="/sohnews/20240509/2034708.md">五一消费数据出炉⋯⋯一个时代结束，社会已发生重大转折！</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
-<li><a href="/comments/20231223/1978148.md" target="_blank">医山夜话：张锡纯医案解读（三）赭石：降胃气 引火下行</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/ssgc/20240508/2034288.md" target="_blank">《透视“进化论”》第九章 人类起源问题的终极答案</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20231207/1970628.md" target="_blank">民兵对官军，希望之声打造广播界的奇蹟【方伟时间-20231206】</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
 
 </ul>
 </div>
