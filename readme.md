@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/topimagenews/20240509/2034548.md">马斯克被习近平涮了？中共玩这招</a></li>
 <li><a href="/ccpdope/20240509/2034721.md">重磅！！江泽民儿孙被习抓捕？</a></li>
 <li><a href="/cbnews/20240509/2034725.md">习访欧泄露身体大秘密</a></li>
 <li><a href="/topimagenews/20240509/2034624.md">习近平这是做梦娶媳妇 可能性是0</a></li>
@@ -13,21 +12,22 @@
 <li><a href="/ccpdope/20240509/2034713.md">习访塞作秀 沦落成外交史上的笑话</a></li>
 <li><a href="/cbnews/20240509/2034651.md">2个海关女工作人员检查1个女游客的手机</a></li>
 <li><a href="/topimagenews/20240510/2034793.md">bilibili董事长爆“有能干秘书”！包养小20岁年轻正妹 吸奶茶片遭疯传</a></li>
-<li><a href="/cbnews/20240509/2034543.md">江峰：马克龙送了习近平这本书，无异一记耳光</a></li>
 <li><a href="/topimagenews/20240509/2034632.md">民众恐慌 武警出动 家长携“武器”接小孩</a></li>
 <li><a href="/sohnews/20240509/2034656.md">习决心与美对决？三中全会秘中秘</a></li>
 <li><a href="/cbnews/20240510/2034823.md">中共国安可随意查民众手机 学者支招应对</a></li>
 <li><a href="/itnews/20240509/2034670.md">在中国被禁的 WhatsApp 对部分用户可用</a></li>
-<li><a href="/baitai/20240509/2034731.md">下半年中国物价或超想像 中共面临一关键难题</a></li>
-<li><a href="/topimagenews/20240510/2034794.md">3岁男童忆前世：等红灯被撞死！画出“事故现场图”今生母求证吓坏</a></li>
-<li><a href="/lifebaike/20240509/2034634.md">什么调料最易致癌？是蚝油吗？医生：这4种调料炒菜时尽量少放</a></li>
 <li><a href="/ssgc/20240509/2034663.md">广东人事大地震 两部长调京 一日内10名中层官员落马</a></li>
+<li><a href="/topimagenews/20240510/2034794.md">3岁男童忆前世：等红灯被撞死！画出“事故现场图”今生母求证吓坏</a></li>
+<li><a href="/baitai/20240509/2034731.md">下半年中国物价或超想像 中共面临一关键难题</a></li>
+<li><a href="/lifebaike/20240509/2034634.md">什么调料最易致癌？是蚝油吗？医生：这4种调料炒菜时尽量少放</a></li>
 <li><a href="/sohnews/20240509/2034623.md">文睿：笑喷了，一尊，把自己的弱智彻底公开了</a></li>
 <li><a href="/sohnews/20240509/2034704.md">陈破空：有内鬼？习彭双双遭设计！她着装严重辱华，他一辈子都是黑的？蔡奇可疑。塞总统也搞高级黑。福建号航母严重辱华。直播与互动：美东时间5月9日早9点、中港台当晚9点</a></li>
 <li><a href="/sohnews/20240509/2034323.md">极简主义：请立刻扔掉你家里的这些东西，因为它们可能严重阻碍你人生的发展，甚至影响你的运势</a></li>
+<li><a href="/topimagenews/20240510/2034857.md">重大转折！以前那个挥金如土的时代结束了；出现这一幕，人民币首先遭殃，跌到8.3</a></li>
 <li><a href="/sohnews/20240509/2034723.md">习近平为何喜欢文革？根源在这！</a></li>
 <li><a href="/sohnews/20240509/2034708.md">五一消费数据出炉⋯⋯一个时代结束，社会已发生重大转折！</a></li>
-<li><a href="/topimagenews/20240510/2034857.md">重大转折！以前那个挥金如土的时代结束了；出现这一幕，人民币首先遭殃，跌到8.3</a></li>
+<li><a href="/baitai/20240510/2034893.md">中国人看不到的镜头——过街老鼠般的习近平</a></li>
+<li><a href="/sohnews/20240509/2034631.md">三中全会回归改革开放，中国进入低欲望社会，专制政权为何能维持长久。《老灯开讲第554期》</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240510/2034962.md" target="_blank">美国学校用了什么手法从你手中把孩子夺走？</a></li>
+<li><a href="/comments/20240510/2034961.md" target="_blank">下集：饱受LGBTQ影响和毒品祸害的孩子 父母怎么能够救回来？</a></li>
 <li><a href="/cbnews/20240510/2034914.md" target="_blank">昔日中国“老朋友” 今天发表强硬抵抗中俄演说</a></li>
 <li><a href="/cbnews/20240510/2034913.md" target="_blank">复旦帮染指外交 张维为访法言论轻慢被轰</a></li>
 <li><a href="/cbnews/20240510/2034912.md" target="_blank">“突破美国包围圈” 中共高层全体出动</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20240509/2034650.md" target="_blank">女子未婚先孕 不敢告诉家人 联手闺蜜踩死婴儿</a></li>
 <li><a href="/cbnews/20240509/2034649.md" target="_blank">陕西火锅店外男子被刺大腿失血身亡 画面曝光</a></li>
 <li><a href="/cbnews/20240509/2034549.md" target="_blank">生死之间 吴谢宇案的最后三个月</a></li>
-<li><a href="/cbnews/20240509/2034543.md" target="_blank">江峰：马克龙送了习近平这本书，无异一记耳光</a></li>
-<li><a href="/cbnews/20240509/2034517.md" target="_blank">〖红朝浮世绘〗连坐：11岁的泉泉抱住妈妈哭诉“为什么是我”？</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240510/2034962.md" target="_blank">美国学校用了什么手法从你手中把孩子夺走？</a></li>
+<li><a href="/comments/20240510/2034961.md" target="_blank">下集：饱受LGBTQ影响和毒品祸害的孩子 父母怎么能够救回来？</a></li>
+<li><a href="/comments/20240510/2034956.md" target="_blank">惊呆世界 彭丽媛想干嘛？</a></li>
 <li><a href="/comments/20240510/2034947.md" target="_blank">天亮时分：嘴硬心虚，不要被习骗了；人民币汇率贬到8.3？蒸发120亿，百度副总说了啥？（政论天下第1303集 20240509）天亮时分</a></li>
 <li><a href="/comments/20240510/2034946.md" target="_blank">老习掏小本！专雷马克龙</a></li>
 <li><a href="/comments/20240510/2034924.md" target="_blank">杜政：释出彭丽媛军装视察照有深意</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20240509/2034609.md" target="_blank">【习近平抵达匈牙利布达佩斯】【抗议人士举牌呼口号抗议“独裁者”习近平】</a></li>
 <li><a href="/comments/20240509/2034601.md" target="_blank">吴祚来：习近平决意对抗西方 彭丽媛淡然受命大任</a></li>
 <li><a href="/comments/20240509/2034600.md" target="_blank">吴祚来:习近平玩西方政客随心所欲 红灯记一唱段招来京腔痛骂</a></li>
-<li><a href="/comments/20240509/2034599.md" target="_blank">404文：强制购买公墓，湖北随州太随意</a></li>
-<li><a href="/comments/20240509/2034585.md" target="_blank">BJ大土豆：通杀</a></li>
-<li><a href="/comments/20240509/2034584.md" target="_blank">“宜居城市”多半不宜居，普通人要尽量远离互害社会</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20240126/1992876.md" target="_blank">内幕：中国留学生里女生打男生和男生打女一样普遍</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/taiwannews/20210119/1470761.md" target="_blank">独家：震撼纪录片《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
 
 </ul>
 </div>
