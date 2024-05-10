@@ -13,21 +13,21 @@
 <li><a href="/cbnews/20240509/2034651.md">2个海关女工作人员检查1个女游客的手机</a></li>
 <li><a href="/topimagenews/20240510/2034793.md">bilibili董事长爆“有能干秘书”！包养小20岁年轻正妹 吸奶茶片遭疯传</a></li>
 <li><a href="/sohnews/20240509/2034656.md">习决心与美对决？三中全会秘中秘</a></li>
-<li><a href="/topimagenews/20240509/2034632.md">民众恐慌 武警出动 家长携“武器”接小孩</a></li>
 <li><a href="/itnews/20240509/2034670.md">在中国被禁的 WhatsApp 对部分用户可用</a></li>
 <li><a href="/cbnews/20240510/2034823.md">中共国安可随意查民众手机 学者支招应对</a></li>
 <li><a href="/topimagenews/20240510/2034857.md">重大转折！以前那个挥金如土的时代结束了；出现这一幕，人民币首先遭殃，跌到8.3</a></li>
 <li><a href="/ssgc/20240509/2034663.md">广东人事大地震 两部长调京 一日内10名中层官员落马</a></li>
 <li><a href="/cbnews/20240510/2034878.md">百度副总裁开抖音 致公司损失120亿 被迫离职</a></li>
 <li><a href="/topimagenews/20240510/2034794.md">3岁男童忆前世：等红灯被撞死！画出“事故现场图”今生母求证吓坏</a></li>
-<li><a href="/lifebaike/20240509/2034634.md">什么调料最易致癌？是蚝油吗？医生：这4种调料炒菜时尽量少放</a></li>
+<li><a href="/cbnews/20240510/2034911.md">真把人民当傻子？ 央视一则报道大翻车</a></li>
 <li><a href="/baitai/20240509/2034731.md">下半年中国物价或超想像 中共面临一关键难题</a></li>
 <li><a href="/sohnews/20240510/2034884.md">江苏女孩坠河亡，最后回望刺痛所有人，为何3周才发酵？一张聊天截图，为何让官媒惊慌“辟谣”？</a></li>
-<li><a href="/sohnews/20240509/2034704.md">陈破空：有内鬼？习彭双双遭设计！她着装严重辱华，他一辈子都是黑的？蔡奇可疑。塞总统也搞高级黑。福建号航母严重辱华。直播与互动：美东时间5月9日早9点、中港台当晚9点</a></li>
 <li><a href="/sohnews/20240509/2034323.md">极简主义：请立刻扔掉你家里的这些东西，因为它们可能严重阻碍你人生的发展，甚至影响你的运势</a></li>
-<li><a href="/cbnews/20240510/2034911.md">真把人民当傻子？ 央视一则报道大翻车</a></li>
-<li><a href="/sohnews/20240509/2034723.md">习近平为何喜欢文革？根源在这！</a></li>
+<li><a href="/sohnews/20240509/2034704.md">陈破空：有内鬼？习彭双双遭设计！她着装严重辱华，他一辈子都是黑的？蔡奇可疑。塞总统也搞高级黑。福建号航母严重辱华。直播与互动：美东时间5月9日早9点、中港台当晚9点</a></li>
 <li><a href="/topimagenews/20240510/2034910.md">出人意料，习近平没把这张大订单给马克龙</a></li>
+<li><a href="/sohnews/20240509/2034723.md">习近平为何喜欢文革？根源在这！</a></li>
+<li><a href="/cnnews/20240510/2034860.md">“这绝对是毁灭性的”！美商务部长语出惊人 最重要同盟藏不住了</a></li>
+<li><a href="/sohnews/20240509/2034708.md">五一消费数据出炉⋯⋯一个时代结束，社会已发生重大转折！</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/cnnews/20221211/1822144.md" target="_blank">盖盖冲马桶很可怕！瞬间“病毒炸开”？</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
+<li><a href="/comments/20231223/1978148.md" target="_blank">医山夜话：张锡纯医案解读（三）赭石：降胃气 引火下行</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/ssgc/20240508/2034288.md" target="_blank">《透视“进化论”》第九章 人类起源问题的终极答案</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
 
 </ul>
 </div>
