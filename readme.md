@@ -13,18 +13,18 @@
 <li><a href="/cbnews/20240510/2034823.md">中共国安可随意查民众手机 学者支招应对</a></li>
 <li><a href="/topimagenews/20240510/2034857.md">重大转折！以前那个挥金如土的时代结束了；出现这一幕，人民币首先遭殃，跌到8.3</a></li>
 <li><a href="/cbnews/20240510/2034911.md">真把人民当傻子？ 央视一则报道大翻车</a></li>
+<li><a href="/cbnews/20240510/2034970.md">爆炸性录音曝光！或将引发官场大地震？</a></li>
 <li><a href="/cbnews/20240510/2034878.md">百度副总裁开抖音 致公司损失120亿 被迫离职</a></li>
 <li><a href="/topimagenews/20240510/2034794.md">3岁男童忆前世：等红灯被撞死！画出“事故现场图”今生母求证吓坏</a></li>
 <li><a href="/baitai/20240509/2034731.md">下半年中国物价或超想像 中共面临一关键难题</a></li>
-<li><a href="/cbnews/20240510/2034970.md">爆炸性录音曝光！或将引发官场大地震？</a></li>
 <li><a href="/topimagenews/20240510/2034910.md">出人意料，习近平没把这张大订单给马克龙</a></li>
-<li><a href="/sohnews/20240510/2034884.md">江苏女孩坠河亡，最后回望刺痛所有人，为何3周才发酵？一张聊天截图，为何让官媒惊慌“辟谣”？</a></li>
-<li><a href="/sohnews/20240509/2034704.md">陈破空：有内鬼？习彭双双遭设计！她着装严重辱华，他一辈子都是黑的？蔡奇可疑。塞总统也搞高级黑。福建号航母严重辱华。直播与互动：美东时间5月9日早9点、中港台当晚9点</a></li>
 <li><a href="/sohnews/20240509/2034323.md">极简主义：请立刻扔掉你家里的这些东西，因为它们可能严重阻碍你人生的发展，甚至影响你的运势</a></li>
+<li><a href="/sohnews/20240509/2034704.md">陈破空：有内鬼？习彭双双遭设计！她着装严重辱华，他一辈子都是黑的？蔡奇可疑。塞总统也搞高级黑。福建号航母严重辱华。直播与互动：美东时间5月9日早9点、中港台当晚9点</a></li>
+<li><a href="/sohnews/20240510/2034884.md">江苏女孩坠河亡，最后回望刺痛所有人，为何3周才发酵？一张聊天截图，为何让官媒惊慌“辟谣”？</a></li>
 <li><a href="/ssgc/20240510/2034944.md">〖微博谈〗全民信心的崩盘</a></li>
+<li><a href="/topimagenews/20240510/2034969.md">【微博精粹】这么多中国人投票选美国 几个意思</a></li>
 <li><a href="/sohnews/20240509/2034723.md">习近平为何喜欢文革？根源在这！</a></li>
 <li><a href="/topimagenews/20240510/2034909.md">再也没机会！哈马斯现在一地鸡毛</a></li>
-<li><a href="/topimagenews/20240510/2034969.md">【微博精粹】这么多中国人投票选美国 几个意思</a></li>
 <li><a href="/cnnews/20240510/2034860.md">“这绝对是毁灭性的”！美商务部长语出惊人 最重要同盟藏不住了</a></li>
 <li><a href="/cnnews/20240510/2034904.md">遭中国巨富忽悠 这个国家要收回百年特许权</a></li>
 <li><a href="/sohnews/20240509/2034708.md">五一消费数据出炉⋯⋯一个时代结束，社会已发生重大转折！</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
-<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
 <li><a href="/cnnews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
 
 </ul>
 </div>
