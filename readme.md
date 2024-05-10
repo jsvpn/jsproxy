@@ -12,22 +12,22 @@
 <li><a href="/topimagenews/20240509/2034669.md">中共党魁这个视频又火了！他对面这位表情丰富【阿波罗网报道】</a></li>
 <li><a href="/ccpdope/20240509/2034713.md">习访塞作秀 沦落成外交史上的笑话</a></li>
 <li><a href="/cbnews/20240509/2034651.md">2个海关女工作人员检查1个女游客的手机</a></li>
-<li><a href="/cbnews/20240509/2034517.md">〖红朝浮世绘〗连坐：11岁的泉泉抱住妈妈哭诉“为什么是我”？</a></li>
 <li><a href="/cbnews/20240509/2034543.md">江峰：马克龙送了习近平这本书，无异一记耳光</a></li>
 <li><a href="/topimagenews/20240510/2034793.md">bilibili董事长爆“有能干秘书”！包养小20岁年轻正妹 吸奶茶片遭疯传</a></li>
 <li><a href="/topimagenews/20240509/2034632.md">民众恐慌 武警出动 家长携“武器”接小孩</a></li>
 <li><a href="/sohnews/20240509/2034656.md">习决心与美对决？三中全会秘中秘</a></li>
-<li><a href="/itnews/20240509/2034670.md">在中国被禁的 WhatsApp 对部分用户可用</a></li>
 <li><a href="/cbnews/20240510/2034823.md">中共国安可随意查民众手机 学者支招应对</a></li>
+<li><a href="/itnews/20240509/2034670.md">在中国被禁的 WhatsApp 对部分用户可用</a></li>
+<li><a href="/topimagenews/20240510/2034794.md">3岁男童忆前世：等红灯被撞死！画出“事故现场图”今生母求证吓坏</a></li>
 <li><a href="/lifebaike/20240509/2034634.md">什么调料最易致癌？是蚝油吗？医生：这4种调料炒菜时尽量少放</a></li>
 <li><a href="/baitai/20240509/2034731.md">下半年中国物价或超想像 中共面临一关键难题</a></li>
 <li><a href="/ssgc/20240509/2034663.md">广东人事大地震 两部长调京 一日内10名中层官员落马</a></li>
-<li><a href="/topimagenews/20240510/2034794.md">3岁男童忆前世：等红灯被撞死！画出“事故现场图”今生母求证吓坏</a></li>
 <li><a href="/sohnews/20240509/2034623.md">文睿：笑喷了，一尊，把自己的弱智彻底公开了</a></li>
 <li><a href="/sohnews/20240509/2034704.md">陈破空：有内鬼？习彭双双遭设计！她着装严重辱华，他一辈子都是黑的？蔡奇可疑。塞总统也搞高级黑。福建号航母严重辱华。直播与互动：美东时间5月9日早9点、中港台当晚9点</a></li>
 <li><a href="/sohnews/20240509/2034323.md">极简主义：请立刻扔掉你家里的这些东西，因为它们可能严重阻碍你人生的发展，甚至影响你的运势</a></li>
 <li><a href="/sohnews/20240509/2034723.md">习近平为何喜欢文革？根源在这！</a></li>
 <li><a href="/sohnews/20240509/2034708.md">五一消费数据出炉⋯⋯一个时代结束，社会已发生重大转折！</a></li>
+<li><a href="/sohnews/20240509/2034631.md">三中全会回归改革开放，中国进入低欲望社会，专制政权为何能维持长久。《老灯开讲第554期》</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,10 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240510/2034914.md" target="_blank">昔日中国“老朋友” 今天发表强硬抵抗中俄演说</a></li>
+<li><a href="/cbnews/20240510/2034913.md" target="_blank">复旦帮染指外交 张维为访法言论轻慢被轰</a></li>
+<li><a href="/cbnews/20240510/2034912.md" target="_blank">“突破美国包围圈” 中共高层全体出动</a></li>
+<li><a href="/cbnews/20240510/2034911.md" target="_blank">真把人民当傻子？ 央视一则报道大翻车</a></li>
 <li><a href="/comments/20240510/2034885.md" target="_blank">专访王友琴：文革批斗会是怎么开的？三体影片中被斗死的教授，原型是2位北大教授</a></li>
 <li><a href="/cbnews/20240510/2034883.md" target="_blank">大陆青壮年警察密集病亡 最年轻仅27岁</a></li>
 <li><a href="/cbnews/20240510/2034881.md" target="_blank">“习近平新时代‘亩产万斤’大新闻”</a></li>
@@ -56,16 +60,14 @@
 <li><a href="/cbnews/20240509/2034549.md" target="_blank">生死之间 吴谢宇案的最后三个月</a></li>
 <li><a href="/cbnews/20240509/2034543.md" target="_blank">江峰：马克龙送了习近平这本书，无异一记耳光</a></li>
 <li><a href="/cbnews/20240509/2034517.md" target="_blank">〖红朝浮世绘〗连坐：11岁的泉泉抱住妈妈哭诉“为什么是我”？</a></li>
-<li><a href="/cbnews/20240509/2034507.md" target="_blank">欧盟最重要的两个成员国，“再次误入歧途”</a></li>
-<li><a href="/cbnews/20240509/2034506.md" target="_blank">中共使馆被炸25周年 中西态度“差很大”</a></li>
-<li><a href="/cbnews/20240509/2034503.md" target="_blank">江峰：习近平的红地毯怎麽缺了一块？</a></li>
-<li><a href="/cbnews/20240509/2034487.md" target="_blank">没想到，习近平把美国算计了？</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240510/2034910.md" target="_blank">出人意料，习近平没把这张大订单给马克龙</a></li>
+<li><a href="/topimagenews/20240510/2034909.md" target="_blank">再也没机会！哈马斯现在一地鸡毛</a></li>
 <li><a href="/topimagenews/20240510/2034899.md" target="_blank">首创纪录！乌无人机飞行1200公里 袭击俄炼油厂</a></li>
 <li><a href="/topimagenews/20240510/2034868.md" target="_blank">《北京之春》主编：李大师发心救众生</a></li>
 <li><a href="/topimagenews/20240510/2034857.md" target="_blank">重大转折！以前那个挥金如土的时代结束了；出现这一幕，人民币首先遭殃，跌到8.3</a></li>
@@ -89,14 +91,18 @@
 <li><a href="/topimagenews/20240508/2034170.md" target="_blank">敲锣打鼓 惊天骗术大游行</a></li>
 <li><a href="/topimagenews/20240508/2034149.md" target="_blank">还敢坐吗？山航差点出大事…</a></li>
 <li><a href="/topimagenews/20240508/2034123.md" target="_blank">筹码这么快失效！北京开始自食苦果</a></li>
-<li><a href="/topimagenews/20240508/2034113.md" target="_blank">一张照片 释放特殊政治信号</a></li>
-<li><a href="/topimagenews/20240508/2034105.md" target="_blank">拜登强硬表态：美国不是无法无天的国家</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240510/2034924.md" target="_blank">杜政：释出彭丽媛军装视察照有深意</a></li>
+<li><a href="/comments/20240510/2034923.md" target="_blank">陈嘉宏：让中华民国有一个安身立命之所</a></li>
+<li><a href="/comments/20240510/2034922.md" target="_blank">郑立：台湾是不是一个买光了土地的大富翁？</a></li>
+<li><a href="/comments/20240510/2034921.md" target="_blank">木蹊说：从华为问界到特斯拉，这届车企越来越狂</a></li>
+<li><a href="/comments/20240510/2034920.md" target="_blank">汤名晖：法国、塞尔维亚、匈牙利 中国在欧洲的桥头堡</a></li>
+<li><a href="/comments/20240510/2034919.md" target="_blank">吴奕军：TikTok宁可与美国打官司 也不愿脱离中共</a></li>
 <li><a href="/comments/20240510/2034901.md" target="_blank">菁英论坛：张玉凤首发声明 毛后宫秘史</a></li>
 <li><a href="/comments/20240510/2034895.md" target="_blank">天亮时分：司马迁写史记的动机</a></li>
 <li><a href="/comments/20240510/2034885.md" target="_blank">专访王友琴：文革批斗会是怎么开的？三体影片中被斗死的教授，原型是2位北大教授</a></li>
@@ -116,12 +122,6 @@
 <li><a href="/comments/20240509/2034584.md" target="_blank">“宜居城市”多半不宜居，普通人要尽量远离互害社会</a></li>
 <li><a href="/comments/20240509/2034583.md" target="_blank">裴毅然：中美差距再瞥</a></li>
 <li><a href="/comments/20240509/2034574.md" target="_blank">王庆民：李显龙交棒与新加坡稳健型民主政治</a></li>
-<li><a href="/comments/20240509/2034573.md" target="_blank">林保华：崐萁何时成为昆仑山的小草？</a></li>
-<li><a href="/comments/20240509/2034572.md" target="_blank">略萨：​政治正确是自由的敌人</a></li>
-<li><a href="/comments/20240509/2034571.md" target="_blank">吴奕军: 拜登对中国带风向工具TikTok 立场飘忽</a></li>
-<li><a href="/comments/20240509/2034570.md" target="_blank">颜纯钩:废掉联合国无关痛痒，不废联合国另起炉灶</a></li>
-<li><a href="/comments/20240509/2034569.md" target="_blank">王赫：河南事业单位改革的虚与实</a></li>
-<li><a href="/comments/20240509/2034568.md" target="_blank">夏林：巴菲特2024股东大会：花钱的艺术</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
-<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
 
 </ul>
 </div>
