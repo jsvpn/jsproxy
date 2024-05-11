@@ -6,8 +6,8 @@
 <ul>
 
 <li><a href="/comments/20240511/2035366.md">习近平访欧又出丑：穿浴袍乱走、打伞不顾老伴！张维为栽了！东北最怂男人出炉？下一秒刺刀见红</a></li>
-<li><a href="/cbnews/20240511/2035307.md">一年半前重要讲话流出 习近平、王小洪包藏祸心</a></li>
 <li><a href="/topimagenews/20240511/2035424.md">习访法出这么多糗事！中共不敢报</a></li>
+<li><a href="/cbnews/20240511/2035307.md">一年半前重要讲话流出 习近平、王小洪包藏祸心</a></li>
 <li><a href="/topimagenews/20240511/2035423.md">在北京一下子炸开了！一传十、十传百， 水泄不通…</a></li>
 <li><a href="/sohnews/20240511/2035434.md">外访闹剧：彭丽媛当众抽华春莹耳光，美国排山倒海般制裁中国，中共开始疏远俄罗斯。《老灯开讲第555期》</a></li>
 <li><a href="/topimagenews/20240511/2035368.md">超过芯片战！两党推法案 要北京一夜输光</a></li>
@@ -22,12 +22,12 @@
 <li><a href="/ssgc/20240511/2035452.md">习近平认怂 中国经济深陷死循环</a></li>
 <li><a href="/ssgc/20240511/2035333.md">〖微博谈〗由法而塞而匈，最后结果是大不利</a></li>
 <li><a href="/ccpdope/20240511/2035419.md">几张照片 现习近平访法时尴尬</a></li>
-<li><a href="/cnnews/20240511/2035387.md">百度“女魔头副总裁”被爆黑料：私生活精彩</a></li>
 <li><a href="/topimagenews/20240511/2035582.md">87岁阿公过世！野生仙鹤“飞灵堂行礼” 突做一举家人吓坏</a></li>
-<li><a href="/cbnews/20240511/2035537.md">上海女生中奖100万 靠利息过上“局部退休”生活</a></li>
+<li><a href="/cnnews/20240511/2035387.md">百度“女魔头副总裁”被爆黑料：私生活精彩</a></li>
 <li><a href="/headline/20240511/2035302.md">习近平欧洲行 皇室般接待 信任不再</a></li>
-<li><a href="/baitai/20240511/2035264.md">普京访华前夕 美国宣告欲重手打击习近平「新三样」</a></li>
+<li><a href="/cbnews/20240511/2035537.md">上海女生中奖100万 靠利息过上“局部退休”生活</a></li>
 <li><a href="/cbnews/20240511/2035536.md">甘肃一妇女主任深夜酒局后被拖拽身亡 引发质疑</a></li>
+<li><a href="/baitai/20240511/2035264.md">普京访华前夕 美国宣告欲重手打击习近平「新三样」</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240512/2035626.md" target="_blank">美国200年经济奇蹟的来源</a></li>
 <li><a href="/cbnews/20240512/2035624.md" target="_blank">江峰：习近平访欧，马克龙究竟选择坐在哪张凳子上？</a></li>
 <li><a href="/comments/20240511/2035593.md" target="_blank">耶伦的好心被当成驴肝肺</a></li>
 <li><a href="/cbnews/20240511/2035538.md" target="_blank">华尔街日报：习近平乐于拥抱“欧洲变节者”</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240511/2035231.md" target="_blank">习近平出访欧洲 几处尴尬瞬间被曝集/视频</a></li>
 <li><a href="/cbnews/20240511/2035225.md" target="_blank">中共再炒“使馆被炸” 前外交官曝真相</a></li>
 <li><a href="/cbnews/20240511/2035213.md" target="_blank">安徽惊现“水泥封尸” 舆论震惊</a></li>
-<li><a href="/comments/20240510/2035192.md" target="_blank">你知道孩子在接受什么样的性教育吗?</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240512/2035626.md" target="_blank">美国200年经济奇蹟的来源</a></li>
 <li><a href="/comments/20240511/2035608.md" target="_blank">天亮时分：人民币汇率贬到8.3？蒸发120亿</a></li>
 <li><a href="/comments/20240511/2035593.md" target="_blank">耶伦的好心被当成驴肝肺</a></li>
 <li><a href="/comments/20240511/2035543.md" target="_blank">现在的中国大学生 为何幼稚得像个孩子</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240511/2035323.md" target="_blank">炸！他敢指挥习扛麦子</a></li>
 <li><a href="/comments/20240511/2035320.md" target="_blank">盟友陪同川普上庭，为川普代言。检方女证人，不断赞扬川普。亨特上诉被驳回，面临25年监禁。川普封口费亨特</a></li>
 <li><a href="/comments/20240511/2035310.md" target="_blank">深度知局：俄陆军总参谋长之子被清除 俄国宝级大杀器上场</a></li>
-<li><a href="/comments/20240511/2035290.md" target="_blank">李靖宇：中国人怎么摆脱“内卷”漩涡？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/comments/20240403/2020547.md" target="_blank">纪录片：DSM诊断与统计手册-精神病学最要命的骗局</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
 <li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20231220/1976683.md" target="_blank">医山夜话：张锡纯医案解读（二）根治胃气不降之证</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/taiwannews/20210119/1470524.md" target="_blank">纪录片《蚕食美国1》</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
 
 </ul>
 </div>
