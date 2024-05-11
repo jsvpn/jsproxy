@@ -7,20 +7,20 @@
 
 <li><a href="/comments/20240511/2035366.md">习近平访欧又出丑：穿浴袍乱走、打伞不顾老伴！张维为栽了！东北最怂男人出炉？下一秒刺刀见红</a></li>
 <li><a href="/topimagenews/20240511/2035424.md">习访法出这么多糗事！中共不敢报</a></li>
-<li><a href="/cbnews/20240511/2035307.md">一年半前重要讲话流出 习近平、王小洪包藏祸心</a></li>
 <li><a href="/topimagenews/20240511/2035423.md">在北京一下子炸开了！一传十、十传百， 水泄不通…</a></li>
+<li><a href="/cbnews/20240511/2035307.md">一年半前重要讲话流出 习近平、王小洪包藏祸心</a></li>
 <li><a href="/sohnews/20240511/2035434.md">外访闹剧：彭丽媛当众抽华春莹耳光，美国排山倒海般制裁中国，中共开始疏远俄罗斯。《老灯开讲第555期》</a></li>
 <li><a href="/topimagenews/20240511/2035368.md">超过芯片战！两党推法案 要北京一夜输光</a></li>
 <li><a href="/topimagenews/20240511/2035572.md">“承认习近平无意在2032年之前下台”</a></li>
-<li><a href="/cbnews/20240511/2035522.md">“令计划的人”架走胡锦涛？ 杜文揭孔绍逊背景</a></li>
 <li><a href="/topimagenews/20240511/2035304.md">太冷血！陆男遭断脚筋一刀毙命 旁边食客吃火锅要紧</a></li>
+<li><a href="/cbnews/20240511/2035522.md">“令计划的人”架走胡锦涛？ 杜文揭孔绍逊背景</a></li>
 <li><a href="/topimagenews/20240511/2035340.md">一个极为重要的转折点…</a></li>
 <li><a href="/topimagenews/20240511/2035473.md">中共新发言人又翻车！网友们再度找到了欢乐【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240511/2035303.md">绝对的狠招！围剿华为，美国甩出“王炸”</a></li>
 <li><a href="/worldnews/20240511/2035341.md">正式打响 俄军6线进攻</a></li>
+<li><a href="/topimagenews/20240511/2035582.md">87岁阿公过世！野生仙鹤“飞灵堂行礼” 突做一举家人吓坏</a></li>
 <li><a href="/cbnews/20240511/2035444.md">〖红朝浮世绘〗失去生命的孩子曝尸路边，家长都不能被告知</a></li>
 <li><a href="/ssgc/20240511/2035452.md">习近平认怂 中国经济深陷死循环</a></li>
-<li><a href="/topimagenews/20240511/2035582.md">87岁阿公过世！野生仙鹤“飞灵堂行礼” 突做一举家人吓坏</a></li>
 <li><a href="/ssgc/20240511/2035333.md">〖微博谈〗由法而塞而匈，最后结果是大不利</a></li>
 <li><a href="/cnnews/20240511/2035387.md">百度“女魔头副总裁”被爆黑料：私生活精彩</a></li>
 <li><a href="/ccpdope/20240511/2035419.md">几张照片 现习近平访法时尴尬</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
 <li><a href="/ssgc/20240508/2034288.md" target="_blank">《透视“进化论”》第九章 人类起源问题的终极答案</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/topimagenews/20200514/1328456.md" target="_blank">穿越时空 谢田教授亲身体验人体特异功能</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
+<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
 <li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
 <li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20240403/2020547.md" target="_blank">纪录片：DSM诊断与统计手册-精神病学最要命的骗局</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20231223/1978148.md" target="_blank">医山夜话：张锡纯医案解读（三）赭石：降胃气 引火下行</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
 
 </ul>
 </div>
