@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/cbnews/20240511/2035307.md">一年半前重要讲话流出 习近平、王小洪包藏祸心</a></li>
 <li><a href="/comments/20240511/2035366.md">习近平访欧又出丑：穿浴袍乱走、打伞不顾老伴！张维为栽了！东北最怂男人出炉？下一秒刺刀见红</a></li>
+<li><a href="/cbnews/20240511/2035307.md">一年半前重要讲话流出 习近平、王小洪包藏祸心</a></li>
 <li><a href="/topimagenews/20240511/2035424.md">习访法出这么多糗事！中共不敢报</a></li>
 <li><a href="/topimagenews/20240511/2035423.md">在北京一下子炸开了！一传十、十传百， 水泄不通…</a></li>
 <li><a href="/sohnews/20240511/2035434.md">外访闹剧：彭丽媛当众抽华春莹耳光，美国排山倒海般制裁中国，中共开始疏远俄罗斯。《老灯开讲第555期》</a></li>
 <li><a href="/topimagenews/20240511/2035368.md">超过芯片战！两党推法案 要北京一夜输光</a></li>
-<li><a href="/topimagenews/20240511/2035304.md">太冷血！陆男遭断脚筋一刀毙命 旁边食客吃火锅要紧</a></li>
 <li><a href="/cbnews/20240511/2035522.md">“令计划的人”架走胡锦涛？ 杜文揭孔绍逊背景</a></li>
+<li><a href="/topimagenews/20240511/2035304.md">太冷血！陆男遭断脚筋一刀毙命 旁边食客吃火锅要紧</a></li>
 <li><a href="/topimagenews/20240511/2035473.md">中共新发言人又翻车！网友们再度找到了欢乐【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240511/2035340.md">一个极为重要的转折点…</a></li>
-<li><a href="/topimagenews/20240511/2035303.md">绝对的狠招！围剿华为，美国甩出“王炸”</a></li>
 <li><a href="/topimagenews/20240511/2035572.md">“承认习近平无意在2032年之前下台”</a></li>
+<li><a href="/topimagenews/20240511/2035303.md">绝对的狠招！围剿华为，美国甩出“王炸”</a></li>
 <li><a href="/worldnews/20240511/2035341.md">正式打响 俄军6线进攻</a></li>
 <li><a href="/cbnews/20240511/2035444.md">〖红朝浮世绘〗失去生命的孩子曝尸路边，家长都不能被告知</a></li>
 <li><a href="/ssgc/20240511/2035452.md">习近平认怂 中国经济深陷死循环</a></li>
 <li><a href="/ssgc/20240511/2035333.md">〖微博谈〗由法而塞而匈，最后结果是大不利</a></li>
-<li><a href="/sohnews/20240511/2035244.md">“习近平内脏蕴含大疾！欧洲3国之行 都使用“咖啡杯”盖式装置 ⋯ ”《今日点击》（05/10/24）</a></li>
-<li><a href="/cnnews/20240511/2035387.md">百度“女魔头副总裁”被爆黑料：私生活精彩</a></li>
 <li><a href="/ccpdope/20240511/2035419.md">几张照片 现习近平访法时尴尬</a></li>
-<li><a href="/cbnews/20240511/2035425.md">璩静离职内幕曝光：百度老板娘拍板 李彦宏秒批</a></li>
+<li><a href="/cnnews/20240511/2035387.md">百度“女魔头副总裁”被爆黑料：私生活精彩</a></li>
 <li><a href="/cbnews/20240511/2035537.md">上海女生中奖100万 靠利息过上“局部退休”生活</a></li>
-<li><a href="/headline/20240511/2035302.md">习近平欧洲行 皇室般接待 信任不再</a></li>
 <li><a href="/baitai/20240511/2035264.md">普京访华前夕 美国宣告欲重手打击习近平「新三样」</a></li>
+<li><a href="/topimagenews/20240511/2035582.md">87岁阿公过世！野生仙鹤“飞灵堂行礼” 突做一举家人吓坏</a></li>
+<li><a href="/cbnews/20240511/2035425.md">璩静离职内幕曝光：百度老板娘拍板 李彦宏秒批</a></li>
+<li><a href="/headline/20240511/2035302.md">习近平欧洲行 皇室般接待 信任不再</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240512/2035624.md" target="_blank">江峰：习近平访欧，马克龙究竟选择坐在哪张凳子上？</a></li>
 <li><a href="/comments/20240511/2035593.md" target="_blank">耶伦的好心被当成驴肝肺</a></li>
 <li><a href="/cbnews/20240511/2035538.md" target="_blank">华尔街日报：习近平乐于拥抱“欧洲变节者”</a></li>
 <li><a href="/cbnews/20240511/2035537.md" target="_blank">上海女生中奖100万 靠利息过上“局部退休”生活</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240511/2035225.md" target="_blank">中共再炒“使馆被炸” 前外交官曝真相</a></li>
 <li><a href="/cbnews/20240511/2035213.md" target="_blank">安徽惊现“水泥封尸” 舆论震惊</a></li>
 <li><a href="/comments/20240510/2035192.md" target="_blank">你知道孩子在接受什么样的性教育吗?</a></li>
-<li><a href="/cbnews/20240510/2035175.md" target="_blank">江苏渣土车拦腰撞上学生大巴车 事发瞬间视频曝光</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/ssgc/20240508/2034288.md" target="_blank">《透视“进化论”》第九章 人类起源问题的终极答案</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
 <li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20231203/1969183.md" target="_blank">开盖冲马桶 ，细菌会乱飞？除非你家马桶是喷泉！</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
+<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
+<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
 
 </ul>
 </div>
