@@ -5,8 +5,8 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/topimagenews/20240511/2035424.md">习访法出这么多糗事！中共不敢报</a></li>
 <li><a href="/topimagenews/20240511/2035423.md">在北京一下子炸开了！一传十、十传百， 水泄不通…</a></li>
+<li><a href="/topimagenews/20240511/2035424.md">习访法出这么多糗事！中共不敢报</a></li>
 <li><a href="/sohnews/20240511/2035434.md">外访闹剧：彭丽媛当众抽华春莹耳光，美国排山倒海般制裁中国，中共开始疏远俄罗斯。《老灯开讲第555期》</a></li>
 <li><a href="/cbnews/20240511/2035522.md">“令计划的人”架走胡锦涛？ 杜文揭孔绍逊背景</a></li>
 <li><a href="/topimagenews/20240511/2035572.md">“承认习近平无意在2032年之前下台”</a></li>
@@ -20,13 +20,13 @@
 <li><a href="/ccpdope/20240511/2035419.md">几张照片 现习近平访法时尴尬</a></li>
 <li><a href="/cbnews/20240511/2035537.md">上海女生中奖100万 靠利息过上“局部退休”生活</a></li>
 <li><a href="/cbnews/20240511/2035536.md">甘肃一妇女主任深夜酒局后被拖拽身亡 引发质疑</a></li>
-<li><a href="/cbnews/20240511/2035425.md">璩静离职内幕曝光：百度老板娘拍板 李彦宏秒批</a></li>
-<li><a href="/comments/20240511/2035543.md">现在的中国大学生 为何幼稚得像个孩子</a></li>
 <li><a href="/topimagenews/20240512/2035653.md">人人自危？体制内的朋友，都消失了…</a></li>
 <li><a href="/topimagenews/20240512/2035666.md">党的忠诚队伍将越来越小….北京新规释危险信号</a></li>
+<li><a href="/cbnews/20240511/2035425.md">璩静离职内幕曝光：百度老板娘拍板 李彦宏秒批</a></li>
+<li><a href="/comments/20240511/2035543.md">现在的中国大学生 为何幼稚得像个孩子</a></li>
 <li><a href="/worldnews/20240511/2035542.md">这个国家收紧对华签证 剔除“讨厌的”游客</a></li>
-<li><a href="/baitai/20240511/2035603.md">意外！彭丽媛掌权真正的威胁来自这里</a></li>
 <li><a href="/ccpdope/20240511/2035557.md">北京吓坏了！传拜登将把中国电动汽车关税提高四倍</a></li>
+<li><a href="/baitai/20240511/2035603.md">意外！彭丽媛掌权真正的威胁来自这里</a></li>
 <li><a href="/health/20240511/2035463.md">晚上从不刷牙就睡觉的人，身体会经历什么？看看你最后的样子</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240512/2035720.md" target="_blank">【杰森视角】对川普的‘封口令’是神助攻？检方诱艳星讲和川普幽会细节，却为川普团队送上大礼？法官听艳星爆料入迷到忘记自己的角色？曼哈顿检察官起诉川普思路很有创意！川普曾经一人完成两人的总统竞选！</a></li>
 <li><a href="/cbnews/20240512/2035698.md" target="_blank">薄熙来也不敢动 中央前常委家族企业爆雷</a></li>
 <li><a href="/cbnews/20240512/2035697.md" target="_blank">面对逼宫传言，习近平害怕成这样</a></li>
 <li><a href="/comments/20240512/2035692.md" target="_blank">周末直播问答 + 川家满门披挂 + 美国的从政一族</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240511/2035427.md" target="_blank">问界M9新车交付现场立马出故障 车主退车被拒</a></li>
 <li><a href="/cbnews/20240511/2035426.md" target="_blank">广西大片城区被淹 市民揭工程腐败所致</a></li>
 <li><a href="/cbnews/20240511/2035425.md" target="_blank">璩静离职内幕曝光：百度老板娘拍板 李彦宏秒批</a></li>
-<li><a href="/cbnews/20240511/2035422.md" target="_blank">江峰：欧洲最大妓院直属国安部？德国警方端掉中共洗钱招募线人中心；椰树集团“低俗广告”本是流量密码，为何此次查“俗”要与政府硬刚【江峰漫谈20240510第868期】</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240512/2035720.md" target="_blank">【杰森视角】对川普的‘封口令’是神助攻？检方诱艳星讲和川普幽会细节，却为川普团队送上大礼？法官听艳星爆料入迷到忘记自己的角色？曼哈顿检察官起诉川普思路很有创意！川普曾经一人完成两人的总统竞选！</a></li>
+<li><a href="/comments/20240512/2035719.md" target="_blank">习近平时代的反贪腐运动究竟在反什么？</a></li>
+<li><a href="/comments/20240512/2035718.md" target="_blank">林保华：徐巧芯是“完美”的政治暴发户</a></li>
 <li><a href="/comments/20240512/2035710.md" target="_blank">天亮时分：拜登放大招 华为芯片被断供</a></li>
 <li><a href="/comments/20240512/2035692.md" target="_blank">周末直播问答 + 川家满门披挂 + 美国的从政一族</a></li>
 <li><a href="/comments/20240512/2035684.md" target="_blank">程墨：绝对不是！乌军真的因此丢城失地？</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20240511/2035506.md" target="_blank">天亮时分：嘴硬心虚 习又骗人</a></li>
 <li><a href="/comments/20240511/2035448.md" target="_blank">预测俄是否真要打核大战，有一个指标最好使</a></li>
 <li><a href="/comments/20240511/2035407.md" target="_blank">404文:卖杏花:谁制造了璩静？</a></li>
-<li><a href="/comments/20240511/2035406.md" target="_blank">城市有轨电车之困：一边争相上马，一边接连叫停</a></li>
-<li><a href="/comments/20240511/2035405.md" target="_blank">衣者褚:他们是怎么做到如此冷漠的？</a></li>
-<li><a href="/comments/20240511/2035404.md" target="_blank">在塞尔维亚和匈牙利，习近平阿谀奉承，试图巩固他的地位</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
 <li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20240126/1992876.md" target="_blank">内幕：中国留学生里女生打男生和男生打女一样普遍</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
-<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20231223/1978148.md" target="_blank">医山夜话：张锡纯医案解读（三）赭石：降胃气 引火下行</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
 <li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
 <li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
 
 </ul>
 </div>
