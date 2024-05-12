@@ -8,12 +8,10 @@
 <li><a href="/cbnews/20240512/2035698.md">薄熙来也不敢动 中央前常委家族企业爆雷</a></li>
 <li><a href="/topimagenews/20240512/2035653.md">人人自危？体制内的朋友，都消失了…</a></li>
 <li><a href="/cbnews/20240512/2035697.md">面对逼宫传言，习近平害怕成这样</a></li>
-<li><a href="/cbnews/20240512/2035646.md">只有李希坐镇中南海 中共七常委几近倾巢而出</a></li>
 <li><a href="/topimagenews/20240512/2035776.md">已入侵625个县市区 一次就“要命” 紧急提醒</a></li>
 <li><a href="/topimagenews/20240512/2035666.md">党的忠诚队伍将越来越小….北京新规释危险信号</a></li>
 <li><a href="/cbnews/20240512/2035865.md">三中全会前反习传闻四起 分析：习已没有路可走</a></li>
 <li><a href="/topimagenews/20240512/2035743.md">【微博精粹】对三中全会 “放大招” 精准展望</a></li>
-<li><a href="/comments/20240512/2035649.md">彭丽媛权势超江青</a></li>
 <li><a href="/topimagenews/20240512/2035664.md">普京来真的？美媒披露最新卫星图像结果</a></li>
 <li><a href="/cnnews/20240512/2035753.md">明天可能来北京，他坐拥全球最豪华专机机队</a></li>
 <li><a href="/sohnews/20240512/2035795.md">习明泽丈夫改名卢鸿风，王毅记者会上大肆吹捧彭丽媛，习近平回国紧急治疗视频流出。《老灯开讲第556期》</a></li>
@@ -22,12 +20,14 @@
 <li><a href="/cbnews/20240512/2035892.md">怕什么？广东高速塌方致78死伤 财新特稿被删除</a></li>
 <li><a href="/cbnews/20240512/2035766.md">刑讯逼供现场情景图：“强灌煤渣尿”、人绑成“烤全羊”…</a></li>
 <li><a href="/topimagenews/20240512/2035756.md">高校“贫富差距”越来越大 地方弱校末日要到了</a></li>
-<li><a href="/comments/20240512/2035648.md">入境中国更危险了！</a></li>
 <li><a href="/ssgc/20240512/2035808.md">〖微博谈〗令人绝望的窒息感</a></li>
-<li><a href="/cnnews/20240512/2035647.md">挺巴学潮后，美国名校的“报应”来了</a></li>
 <li><a href="/topimagenews/20240512/2035662.md">打蛇打七寸 白宫狠掐习近平脖子</a></li>
 <li><a href="/sohnews/20240512/2035905.md">中国电动车遇终结者，新能源产业凉了，华为最后稻草黄了；中共“弯道超车”黑幕，小米雷军“很绝望”；华为背景深不可测，中国烂下去根源在这儿｜时事金扫描金然</a></li>
+<li><a href="/headline/20240512/2035885.md">王毅赞第一夫人访欧“魅力外交”， 彭丽媛跃权力核心传闻再起</a></li>
 <li><a href="/cnnews/20240512/2035866.md">留学一半家破产 两套房供不起一个美本的娃</a></li>
+<li><a href="/topimagenews/20240512/2035652.md">百姓突遭当头一棒，专家们想要的通胀来了</a></li>
+<li><a href="/ssgc/20240512/2035906.md">三中全会可能重启改革路线吗？</a></li>
+<li><a href="/headline/20240512/2035681.md">王毅大赞彭丽媛魅力外交为哪般？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240513/2035955.md" target="_blank">网友惊呼“文革再现”!华中科大惊现批判标语</a></li>
 <li><a href="/cbnews/20240512/2035926.md" target="_blank">江峰：对椰树集团“低俗广告”的罚款与以往不同，将带动海南官场一场地震</a></li>
 <li><a href="/cbnews/20240512/2035920.md" target="_blank">内蒙古下起五月雪 湖北化工厂发生爆炸</a></li>
 <li><a href="/cbnews/20240512/2035919.md" target="_blank">辽宁锦州药厂突发爆炸 至少2人送医不治</a></li>
@@ -59,13 +60,13 @@
 <li><a href="/cbnews/20240512/2035656.md" target="_blank">美国会及中国委员会报告：中共继续系统性迫害法轮功</a></li>
 <li><a href="/comments/20240512/2035649.md" target="_blank">彭丽媛权势超江青</a></li>
 <li><a href="/comments/20240512/2035648.md" target="_blank">入境中国更危险了！</a></li>
-<li><a href="/cbnews/20240512/2035646.md" target="_blank">只有李希坐镇中南海 中共七常委几近倾巢而出</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240513/2035954.md" target="_blank">故意的？中国出口商爆北京放任人民币贬值提振出口全是为了抢全球市占率</a></li>
 <li><a href="/topimagenews/20240513/2035932.md" target="_blank">问：你会捐款造航母吗？网友：被城管欺负了能不能呼叫支援？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240512/2035927.md" target="_blank">没中共统治 国际发明展 台湾获29金23银 排名世界第一</a></li>
 <li><a href="/topimagenews/20240512/2035776.md" target="_blank">已入侵625个县市区 一次就“要命” 紧急提醒</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20240511/2035340.md" target="_blank">一个极为重要的转折点…</a></li>
 <li><a href="/topimagenews/20240511/2035304.md" target="_blank">太冷血！陆男遭断脚筋一刀毙命 旁边食客吃火锅要紧</a></li>
 <li><a href="/topimagenews/20240511/2035303.md" target="_blank">绝对的狠招！围剿华为，美国甩出“王炸”</a></li>
-<li><a href="/topimagenews/20240511/2035286.md" target="_blank">乌克兰最远程的攻击!深入俄境1500里俄炼油厂与油库挨轰炸</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230920/1936271.md" target="_blank">防止你的孩子不成功（5） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20231220/1976789.md" target="_blank">大陆医生曝：九价HPV疫苗导致怀孕能力下降40%</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20231220/1976683.md" target="_blank">医山夜话：张锡纯医案解读（二）根治胃气不降之证</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
 
 </ul>
 </div>
