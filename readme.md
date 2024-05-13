@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/comments/20240513/2035978.md">彭麻麻浴袍装火遍法兰西</a></li>
 <li><a href="/topimagenews/20240513/2036061.md">南通发生特大车祸！已亡23人 政府公布才1人</a></li>
 <li><a href="/cnnews/20240513/2036010.md">大家注意到没 习访欧照片里的轮椅是给谁准备的？</a></li>
 <li><a href="/topimagenews/20240513/2036021.md">比股市还恐怖！深圳房价跌到令人怀疑人生</a></li>
@@ -16,7 +15,6 @@
 <li><a href="/topimagenews/20240513/2035988.md">快讯：普京突然换掉国防部长绍伊古</a></li>
 <li><a href="/cbnews/20240513/2036086.md">〖红朝浮世绘〗为彭丽媛进入权力核心造势 王毅赞其访欧“魅力外交”</a></li>
 <li><a href="/cbnews/20240513/2036225.md">成都市长老妈？当街打人 警察包庇 引发数千人抗议</a></li>
-<li><a href="/topimagenews/20240513/2035981.md">比重庆燃气还可怕！扣骨灰！陆整出“死人房地产” 百姓群起抗议</a></li>
 <li><a href="/cbnews/20240513/2036122.md">安徽“水泥封尸”骇人细节曝光：河里吊出大铁盒</a></li>
 <li><a href="/topimagenews/20240513/2036000.md">周鸿祎，栽了个大跟头</a></li>
 <li><a href="/topimagenews/20240513/2036062.md">【我不出镜】想起16年前这一天逝去的8万生命</a></li>
@@ -28,6 +26,8 @@
 <li><a href="/lishi/20240513/2036087.md">〖微博谈〗一切皆有可能</a></li>
 <li><a href="/sohnews/20240513/2036186.md">文睿：热帖：中国，经济崩溃的十大原因。说的太对了</a></li>
 <li><a href="/comments/20240513/2036190.md">2050年的人长这样！真实的穿越者：乌克兰人靠近UFO，穿越48年，人证、物证俱全！女朋友苦苦等待！官方都不敢否认！反转剧情！｜未解之谜 扶摇</a></li>
+<li><a href="/worldnews/20240513/2035992.md">比哈玛斯还猛！以军遇“另类敌人”，全进医院</a></li>
+<li><a href="/health/20240513/2036127.md">夏天要多吃这个碱性菜，一利尿、二消痰、三通便，包饺子吃真香</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,8 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240514/2036367.md" target="_blank">旅美上海名人亲曝陆监狱震撼一幕 他们是战胜中共的中流砥柱</a></li>
+<li><a href="/topimagenews/20240514/2036366.md" target="_blank">难倒中南海！习躺平坐等裁判？</a></li>
 <li><a href="/topimagenews/20240514/2036354.md" target="_blank">这9国将在台海开战?美智库示警：一旦开打可能变成世界大战</a></li>
 <li><a href="/topimagenews/20240514/2036353.md" target="_blank">真捅马蜂窝了!比哈玛斯还猛！以军遇“另类敌人”，全进医院</a></li>
 <li><a href="/topimagenews/20240514/2036352.md" target="_blank">共军H-20战略轰炸机要来了?!美情报高官:技术、水准都不如B-2、B-21</a></li>
@@ -89,14 +91,13 @@
 <li><a href="/topimagenews/20240513/2035932.md" target="_blank">问：你会捐款造航母吗？网友：被城管欺负了能不能呼叫支援？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240512/2035927.md" target="_blank">没中共统治 国际发明展 台湾获29金23银 排名世界第一</a></li>
 <li><a href="/topimagenews/20240512/2035776.md" target="_blank">已入侵625个县市区 一次就“要命” 紧急提醒</a></li>
-<li><a href="/topimagenews/20240512/2035756.md" target="_blank">高校“贫富差距”越来越大 地方弱校末日要到了</a></li>
-<li><a href="/topimagenews/20240512/2035743.md" target="_blank">【微博精粹】对三中全会 “放大招” 精准展望</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240514/2036365.md" target="_blank">天亮时分：台湾2024大选国际网红大V观选纪录片。致敬台湾自由！感谢信民协会黄清龙理事长，李酉潭教授以及联华电子创始人曹兴成董事长</a></li>
 <li><a href="/comments/20240514/2036344.md" target="_blank">【特稿】共庆世界法轮大法日 同走回升之路</a></li>
 <li><a href="/comments/20240514/2036330.md" target="_blank">中国大幅提升高铁票价  外媒：凸显地方债台高筑</a></li>
 <li><a href="/comments/20240514/2036307.md" target="_blank">天亮时分：习近平小本本上记了啥？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240513/2036040.md" target="_blank">天亮时分：习近平的黑杯子和彭丽媛的白浴袍；啥信号？王毅盛赞夫人外交；令计划的故事，让人想起陈胜吴广（扁康丸赞助政论天下第1305集 20240512）天亮时分</a></li>
 <li><a href="/comments/20240513/2036019.md" target="_blank">习放狠招：送粉红去朝鲜镀金！范冰冰跳巢香港变名媛！反日大扫荡：日本商店喜遭三光！巴菲特宣布不投资中国</a></li>
 <li><a href="/comments/20240513/2036007.md" target="_blank">从曼哈顿的一场游行，寻找延续25年问题的答案</a></li>
-<li><a href="/comments/20240513/2036006.md" target="_blank">一览无余：为10位“公公”转世的“中国砖家”画像</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
 <li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
 
 </ul>
 </div>
