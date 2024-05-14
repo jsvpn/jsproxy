@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/comments/20240513/2036195.md">习公开羞辱彭丽媛？</a></li>
 <li><a href="/cbnews/20240513/2036225.md">成都市长老妈？当街打人 警察包庇 引发数千人抗议</a></li>
 <li><a href="/topimagenews/20240514/2036338.md">老婆婚后“不爱回家”！陆男怒报警…一查身份傻眼</a></li>
 <li><a href="/comments/20240513/2036264.md">王丹：习近平能够坐稳权位的原因之一</a></li>
@@ -14,20 +13,21 @@
 <li><a href="/cbnews/20240513/2036261.md">安徽一动物园20只东北虎死亡 背后内情触目惊心</a></li>
 <li><a href="/topimagenews/20240514/2036496.md">中国又一家民营巨头暴雷了</a></li>
 <li><a href="/topimagenews/20240514/2036354.md">这9国将在台海开战?美智库示警：一旦开打可能变成世界大战</a></li>
-<li><a href="/cbnews/20240514/2036468.md">哀鸿一片！5月15日起“断粮” 陆这些账号哭惨</a></li>
 <li><a href="/topimagenews/20240514/2036366.md">难倒中南海！习躺平坐等裁判？</a></li>
+<li><a href="/cbnews/20240514/2036468.md">哀鸿一片！5月15日起“断粮” 陆这些账号哭惨</a></li>
 <li><a href="/topimagenews/20240514/2036451.md">中共党魁遇上啥事了？网友：立刻！马上！原子弹全部梭哈！【阿波罗网报道】</a></li>
+<li><a href="/ssgc/20240514/2036303.md">“学问少”——习近平能够稳坐权位的原因之一</a></li>
 <li><a href="/topimagenews/20240514/2036435.md">【微博精粹】嘴上全是主义 心里全是生意</a></li>
 <li><a href="/topimagenews/20240514/2036467.md">三中全会在人事上会有什么亮点？摊牌是迟早的事 不会拖太久</a></li>
-<li><a href="/ssgc/20240514/2036303.md">“学问少”——习近平能够稳坐权位的原因之一</a></li>
+<li><a href="/topimagenews/20240514/2036466.md">李鹏夫妇私房话 影射红墙内“人马埋伏”</a></li>
 <li><a href="/cbnews/20240514/2036473.md">〖红朝浮世绘〗王毅为了拍习近平马屁 简直豁出去了</a></li>
 <li><a href="/baitai/20240513/2036204.md">好猖狂！副镇长半夜叫人妻去唱歌</a></li>
-<li><a href="/topimagenews/20240514/2036466.md">李鹏夫妇私房话 影射红墙内“人马埋伏”</a></li>
-<li><a href="/topimagenews/20240514/2036398.md">硅谷变了…..新风潮正在冲击北京</a></li>
-<li><a href="/topimagenews/20240514/2036353.md">真捅马蜂窝了!比哈玛斯还猛！以军遇“另类敌人”，全进医院</a></li>
-<li><a href="/lifebaike/20240514/2036438.md">为什么劝4、50岁女人少穿“瑜伽裤”？看完…</a></li>
 <li><a href="/sohnews/20240514/2036518.md">我儿子是市长？是他！？</a></li>
+<li><a href="/topimagenews/20240514/2036398.md">硅谷变了…..新风潮正在冲击北京</a></li>
+<li><a href="/lifebaike/20240514/2036438.md">为什么劝4、50岁女人少穿“瑜伽裤”？看完…</a></li>
+<li><a href="/topimagenews/20240514/2036353.md">真捅马蜂窝了!比哈玛斯还猛！以军遇“另类敌人”，全进医院</a></li>
 <li><a href="/topimagenews/20240514/2036399.md">南京高校海归博士被降级降薪自裁身亡</a></li>
+<li><a href="/topimagenews/20240514/2036532.md">人民币换锚及踢出SWIFT背后的底层逻辑</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240514/2036613.md" target="_blank">【财经拆局】地产霸权孤注一掷 「国家任务」 还是逃之夭夭？</a></li>
 <li><a href="/comments/20240514/2036574.md" target="_blank">神秘男子头发可换400万宾利</a></li>
 <li><a href="/comments/20240514/2036517.md" target="_blank">起诉前总统川普：民主党一个危险的游戏</a></li>
 <li><a href="/comments/20240514/2036479.md" target="_blank">习近平大力推动半吊子运动 美不可承受失去它之痛</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240513/2036271.md" target="_blank">时事大家谈：征税百分之百，美国剑指中国“新质生产力”？</a></li>
 <li><a href="/comments/20240513/2036264.md" target="_blank">王丹：习近平能够坐稳权位的原因之一</a></li>
 <li><a href="/comments/20240513/2036231.md" target="_blank">时事大家谈：征税百分之百，美国剑指中国“新质生产力”？中菲对峙升级，南中国海紧张局势超过台海？</a></li>
-<li><a href="/comments/20240513/2036216.md" target="_blank">【杜耀明评论】中俄合作根深蒂固 中欧对话鸡同鸭讲</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20240418/2026391.md" target="_blank">医生劝我妻子放弃，似乎这些医生热衷让病人快点去死？</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20231201/1968320.md" target="_blank">【非凡新闻】结合中西文化精神 美国神韵表演吸睛</a></li>
 <li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
 
 </ul>
 </div>
