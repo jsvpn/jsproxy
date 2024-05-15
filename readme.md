@@ -18,16 +18,16 @@
 <li><a href="/weiquan/20240515/2036740.md">中共要求西藏儿童不得使用&#8220;乌尔朵&#8221;打击进藏列车的车厢</a></li>
 <li><a href="/cnnews/20240515/2036773.md">出人意料！联合国“胖揍”哈马斯</a></li>
 <li><a href="/cnnews/20240515/2036885.md">震惊了 几名美国妹分享嫁给亚洲老公后惊人变化</a></li>
-<li><a href="/topimagenews/20240515/2036767.md">北京称大量中国人“润”美是抹黑 却被1图泄底</a></li>
 <li><a href="/baitai/20240515/2037044.md">中国警察一双鞋让他火了 官方急删视频</a></li>
+<li><a href="/topimagenews/20240515/2036767.md">北京称大量中国人“润”美是抹黑 却被1图泄底</a></li>
 <li><a href="/cbnews/20240515/2036904.md">〖红朝浮世绘〗依法治国？依领导想法和看法而治国</a></li>
 <li><a href="/topimagenews/20240515/2036852.md">美中进入大国博弈新阶段 美要中共从内部及外部全面瓦解</a></li>
 <li><a href="/topimagenews/20240515/2036989.md">引发众怒！中共便衣发泄私愤 竟敢在高速危险截车【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20240515/2036925.md">秘密警察反水背后的中共内斗</a></li>
-<li><a href="/ccpdope/20240515/2036821.md">习近平「一统江山」老军头七月上演逼宫大戏？</a></li>
-<li><a href="/topimagenews/20240515/2036958.md">网络一片叫好！大学生：只会使自己公信力变一地碎渣【阿波罗网报道】</a></li>
-<li><a href="/yule/20240515/2036915.md">他和王菲同居多年 分手后恋上韩红却娶了咏梅</a></li>
 <li><a href="/cnnews/20240515/2037100.md">痴迷多人运动？中国银行美女员工婚内出轨被曝</a></li>
+<li><a href="/ccpdope/20240515/2036821.md">习近平「一统江山」老军头七月上演逼宫大戏？</a></li>
+<li><a href="/yule/20240515/2036915.md">他和王菲同居多年 分手后恋上韩红却娶了咏梅</a></li>
+<li><a href="/topimagenews/20240515/2036958.md">网络一片叫好！大学生：只会使自己公信力变一地碎渣【阿波罗网报道】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240516/2037165.md" target="_blank">天亮时分：美国官宣、欧盟跟牌，比关税100%更严重</a></li>
+<li><a href="/comments/20240516/2037164.md" target="_blank">【蓬佩奥 @mikepompeo 专访：香港与大陆已没有分别】</a></li>
 <li><a href="/comments/20240516/2037148.md" target="_blank">专栏 &#8211; 中国透视：访欧归来日，得失知几何？</a></li>
 <li><a href="/comments/20240515/2037103.md" target="_blank">钢杆猪队友</a></li>
 <li><a href="/comments/20240515/2037068.md" target="_blank">俄军猛轰！乌军撤出哈尔科夫部分地区 泽伦斯基全面取消出访</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240515/2036854.md" target="_blank">译丛：中国和自由市场：很复杂</a></li>
 <li><a href="/comments/20240515/2036853.md" target="_blank">曹旭云：六四35周年祭&#8211;思源之殇</a></li>
 <li><a href="/comments/20240515/2036848.md" target="_blank">天亮时分：美国官宣，欧盟跟牌，比关税100%更严重；普京引诱习近平的两张牌；50年国债与卖不动的挖掘机（政论天下第1306集 20240514）天亮时分</a></li>
-<li><a href="/comments/20240515/2036816.md" target="_blank">连曦：当代中国的耶利米哀歌：序《自由张展》</a></li>
-<li><a href="/comments/20240515/2036815.md" target="_blank">晚情楼：谁是弱智？大五毛周小平证明了美帝“惊天骗局”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/ssgc/20240508/2034288.md" target="_blank">《透视“进化论”》第九章 人类起源问题的终极答案</a></li>
+<li><a href="/comments/20231212/1972297.md" target="_blank">日本华人确诊晚期直肠癌，修炼法轮功恢复健康（图）</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
 <li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
-<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20231130/1967587.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （一）</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
 
 </ul>
 </div>
