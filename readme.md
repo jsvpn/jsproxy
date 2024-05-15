@@ -9,25 +9,25 @@
 <li><a href="/topimagenews/20240515/2036790.md">真会玩 网传中共高官聚众淫乱影像</a></li>
 <li><a href="/topimagenews/20240514/2036532.md">人民币换锚及踢出SWIFT背后的底层逻辑</a></li>
 <li><a href="/cbnews/20240514/2036562.md">半个月内五名中共前副国级省部级高官病亡</a></li>
-<li><a href="/sohnews/20240514/2036518.md">我儿子是市长？是他！？</a></li>
 <li><a href="/cbnews/20240514/2036594.md">新冠变异株KP.2蔓延 传染性更强 广东已沦陷</a></li>
 <li><a href="/cbnews/20240514/2036593.md">青岛女主持人采访情侣被拒 一句话引发风波</a></li>
 <li><a href="/topimagenews/20240515/2036808.md">一个不好的风向，中国今年越来越明显</a></li>
 <li><a href="/cbnews/20240514/2036596.md">三中全会重启改革？分析：习驶海盗船 重回毛时代</a></li>
-<li><a href="/cnnews/20240514/2036521.md">中国中产阶级涌入这国购置房产</a></li>
-<li><a href="/cnnews/20240514/2036520.md">北京初代丁克现状刷新认知：后遗症果然来了</a></li>
 <li><a href="/sohnews/20240514/2036698.md">成都老太背景被扒，霸道成都市长妈妈，成都吉普摸车一万，成都老太打人，我儿子是市长，太原体考作弊（小木谈天第448期20240514）</a></li>
 <li><a href="/topimagenews/20240515/2036878.md">中共官场，美女官员越来越多</a></li>
 <li><a href="/ccpdope/20240515/2036723.md">习近平返京之际 天显异象</a></li>
 <li><a href="/topimagenews/20240515/2036789.md">历史罕见，都不愿意借钱了…</a></li>
 <li><a href="/cnnews/20240515/2036773.md">出人意料！联合国“胖揍”哈马斯</a></li>
-<li><a href="/ssgc/20240515/2036736.md">中国发行五十年超长期国债 意义何在？</a></li>
 <li><a href="/yule/20240514/2036585.md">肖华：目睹张艺谋“梅开三度” 离婚后孑然一身</a></li>
+<li><a href="/ssgc/20240515/2036736.md">中国发行五十年超长期国债 意义何在？</a></li>
 <li><a href="/baitai/20240514/2036568.md">出现这5个变化，多半血糖超标了</a></li>
 <li><a href="/weiquan/20240515/2036740.md">中共要求西藏儿童不得使用&#8220;乌尔朵&#8221;打击进藏列车的车厢</a></li>
 <li><a href="/topimagenews/20240515/2036767.md">北京称大量中国人“润”美是抹黑 却被1图泄底</a></li>
 <li><a href="/ssgc/20240515/2036845.md">〖微博谈〗中国人要做好迎接通胀的准备</a></li>
 <li><a href="/baitai/20240515/2036722.md">美经济学家：为什么中国求之不得通货膨胀</a></li>
+<li><a href="/sohnews/20240514/2036531.md">理性分析：习近平没有走错任何一步棋，预测二十年中国前景 《老灯开讲第557期》</a></li>
+<li><a href="/cnnews/20240515/2036885.md">震惊了 几名美国妹分享嫁给亚洲老公后惊人变化</a></li>
+<li><a href="/topimagenews/20240515/2036788.md">“四表三车”全面暴涨!中共大力搜刮“割韭菜” 民生费用大涨爆民怨</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20240318/2014289.md" target="_blank">唐柏桥：民运同仁突然向法轮功开火是怎么回事？</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20190701/1151501.md" target="_blank">【特稿】中国共产党是邪教组织</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20230920/1936271.md" target="_blank">防止你的孩子不成功（5） &#8211;教育避坑指南</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
 
 </ul>
 </div>
