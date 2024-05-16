@@ -15,19 +15,19 @@
 <li><a href="/topimagenews/20240516/2037298.md">严打来了！中国各大社交平台公告</a></li>
 <li><a href="/topimagenews/20240516/2037234.md">中国“冲击波”已经来临</a></li>
 <li><a href="/topimagenews/20240516/2037300.md">银行存款领不出来被刁难!吓坏中国老百姓人民币存款蒸发近4兆</a></li>
+<li><a href="/baitai/20240516/2037464.md">普京抵达北京会见习 一举动耐人寻味</a></li>
 <li><a href="/comments/20240516/2037359.md">热帖：中国权贵的又一次财富盛宴开启了</a></li>
 <li><a href="/topimagenews/20240516/2037236.md">中国的“产能过剩”，正在酿造恶果</a></li>
 <li><a href="/health/20240516/2037384.md">全家长期吃“自制馄饨” 全都确诊胰腺癌</a></li>
 <li><a href="/headline/20240516/2037193.md">普京飞抵北京 周五将转访哈尔滨</a></li>
 <li><a href="/topimagenews/20240516/2037336.md">竣工17年养蚊子 巴基斯坦港口见证习近平一带一路失败</a></li>
-<li><a href="/baitai/20240516/2037464.md">普京抵达北京会见习 一举动耐人寻味</a></li>
 <li><a href="/sohnews/20240516/2037147.md">拜登加中国关税，意在沛公？</a></li>
 <li><a href="/ssgc/20240516/2037313.md">〖微博谈〗不要轻言战争</a></li>
 <li><a href="/topimagenews/20240516/2037155.md">绍伊古离任次日 俄军中将在睡梦中被人拖下床受审</a></li>
 <li><a href="/topimagenews/20240516/2037233.md">脱北者惊曝：金正恩身世之谜…如何当上领导人？</a></li>
 <li><a href="/yule/20240516/2037316.md">戛纳红毯中国明星出尽洋相，轮番被安保驱赶</a></li>
 <li><a href="/cbnews/20240516/2037213.md">江峰：经济生活出大问题，群众干部意见很大</a></li>
-<li><a href="/comments/20240516/2037282.md">北大教授：中国人的简单思维模式 我很悲观</a></li>
+<li><a href="/sohnews/20240516/2037325.md">普京刚下飞机就被“穿小鞋”？！俄国现在太过依赖中共，普京真是赌上国运打消耗战；但俄中同床异梦，各藏心机；普京还要访朝鲜，金正恩准备推销军火｜大宇拍案惊奇 live!</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240516/2037583.md" target="_blank">时事大家谈：普京再次访华，测试中俄“合作无上限”？王毅大赞“夫人外交”，彭丽媛步入权力核心？</a></li>
+<li><a href="/comments/20240516/2037579.md" target="_blank">【未普评论】中共党内民主力量式微，但呼唤民主的声音从未断绝（下）</a></li>
 <li><a href="/comments/20240516/2037538.md" target="_blank">干啥啥不行，造词第一名</a></li>
 <li><a href="/comments/20240516/2037483.md" target="_blank">【普京对中国进行新任期后的首次国事访问】【习近平举行欢迎仪式称“好朋友”】</a></li>
 <li><a href="/comments/20240516/2037467.md" target="_blank">【台湾新总统520即将就职】 【仪式结合新旧文化元素 凸显AI趋势】</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240516/2037224.md" target="_blank">太搞笑！中共“惩戒”台湾名嘴，反助推升人气；拜登对中国电动车祭出100%关税，大选年川拜比谁对中共出手重 ｜方伟 唐靖远 大宇 方菲 David ｜围炉夜话 05/15</a></li>
 <li><a href="/comments/20240516/2037222.md" target="_blank">吴昆玉：俄军重启对乌克兰攻势的警讯与教训</a></li>
 <li><a href="/comments/20240516/2037221.md" target="_blank">杨威: 拜登给中共“新质生产力”当头一棒</a></li>
-<li><a href="/comments/20240516/2037220.md" target="_blank">袁斌：成都“市长妈妈”打人事件，警方“辟谣”可信吗？</a></li>
-<li><a href="/comments/20240516/2037219.md" target="_blank">觅真：满眼含泪话说“母亲节”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/cnnews/20221211/1822144.md" target="_blank">盖盖冲马桶很可怕！瞬间“病毒炸开”？</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
 <li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
 
 </ul>
 </div>
