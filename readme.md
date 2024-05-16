@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/topimagenews/20240515/2036808.md">一个不好的风向，中国今年越来越明显</a></li>
 <li><a href="/topimagenews/20240515/2037017.md">中国经济 又一个坏信号发出了 竟是中国银行</a></li>
 <li><a href="/cbnews/20240515/2036951.md">热闹了 这分明是不给老习面子</a></li>
 <li><a href="/topimagenews/20240515/2036878.md">中共官场，美女官员越来越多</a></li>
@@ -15,19 +14,20 @@
 <li><a href="/cnnews/20240515/2036885.md">震惊了 几名美国妹分享嫁给亚洲老公后惊人变化</a></li>
 <li><a href="/cnnews/20240515/2037100.md">痴迷多人运动？中国银行美女员工婚内出轨被曝</a></li>
 <li><a href="/baitai/20240515/2037044.md">中国警察一双鞋让他火了 官方急删视频</a></li>
-<li><a href="/lifebaike/20240515/2037098.md">在上海 出现一种新的然而真实的生活方式</a></li>
 <li><a href="/topimagenews/20240515/2036958.md">网络一片叫好！大学生：只会使自己公信力变一地碎渣【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20240515/2036904.md">〖红朝浮世绘〗依法治国？依领导想法和看法而治国</a></li>
-<li><a href="/topimagenews/20240515/2036852.md">美中进入大国博弈新阶段 美要中共从内部及外部全面瓦解</a></li>
-<li><a href="/cbnews/20240515/2036925.md">秘密警察反水背后的中共内斗</a></li>
-<li><a href="/topimagenews/20240515/2036989.md">引发众怒！中共便衣发泄私愤 竟敢在高速危险截车【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20240515/2037094.md">成都车主刚买车半个月 被车顶帐篷卡脖身亡</a></li>
-<li><a href="/ccpdope/20240515/2036821.md">习近平「一统江山」老军头七月上演逼宫大戏？</a></li>
-<li><a href="/yule/20240515/2036915.md">他和王菲同居多年 分手后恋上韩红却娶了咏梅</a></li>
 <li><a href="/topimagenews/20240516/2037154.md">突发！这国总理遇刺 身中数枪 生命垂危</a></li>
+<li><a href="/lifebaike/20240515/2037098.md">在上海 出现一种新的然而真实的生活方式</a></li>
+<li><a href="/cbnews/20240515/2036904.md">〖红朝浮世绘〗依法治国？依领导想法和看法而治国</a></li>
+<li><a href="/ccpdope/20240515/2036821.md">习近平「一统江山」老军头七月上演逼宫大戏？</a></li>
+<li><a href="/cbnews/20240515/2036925.md">秘密警察反水背后的中共内斗</a></li>
+<li><a href="/cbnews/20240515/2037094.md">成都车主刚买车半个月 被车顶帐篷卡脖身亡</a></li>
+<li><a href="/topimagenews/20240515/2036852.md">美中进入大国博弈新阶段 美要中共从内部及外部全面瓦解</a></li>
+<li><a href="/topimagenews/20240515/2036989.md">引发众怒！中共便衣发泄私愤 竟敢在高速危险截车【阿波罗网报道】</a></li>
+<li><a href="/yule/20240515/2036915.md">他和王菲同居多年 分手后恋上韩红却娶了咏梅</a></li>
+<li><a href="/cbnews/20240516/2037152.md">北京专家汇总8类新冠后遗症 患者痛不欲生</a></li>
 <li><a href="/cnnews/20240515/2036859.md">刘海粟到底给江青画没画祼体画？</a></li>
-<li><a href="/topimagenews/20240515/2036831.md">离谱！中国自驾车将广告图片误认真车 “自动急刹”致追撞</a></li>
 <li><a href="/cbnews/20240515/2037031.md">拜登升级“贸易战” 中南海进退两难</a></li>
+<li><a href="/topimagenews/20240515/2036831.md">离谱！中国自驾车将广告图片误认真车 “自动急刹”致追撞</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240516/2037248.md" target="_blank">扛麦郎的钢管友谊？</a></li>
 <li><a href="/comments/20240516/2037224.md" target="_blank">太搞笑！中共“惩戒”台湾名嘴，反助推升人气；拜登对中国电动车祭出100%关税，大选年川拜比谁对中共出手重 ｜方伟 唐靖远 大宇 方菲 David ｜围炉夜话 05/15</a></li>
 <li><a href="/comments/20240516/2037222.md" target="_blank">吴昆玉：俄军重启对乌克兰攻势的警讯与教训</a></li>
 <li><a href="/comments/20240516/2037221.md" target="_blank">杨威: 拜登给中共“新质生产力”当头一棒</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240515/2036891.md" target="_blank">王毅劝进彭丽媛！拜登收中共100%电动车关税，习近平请出“钢杆朋友”对抗？普京给习挖两大坑：来跳啊</a></li>
 <li><a href="/comments/20240515/2036883.md" target="_blank">i看见:这个伤口会一直流血</a></li>
 <li><a href="/comments/20240515/2036882.md" target="_blank">宋志标：椰树广告、歌手请战与水电涨价-舆论手札</a></li>
-<li><a href="/comments/20240515/2036881.md" target="_blank">金宏伟:一带而过的故障信号灯</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
 <li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20240116/1984226.md" target="_blank">湖北老河口遇仙记</a></li>
+<li><a href="/comments/20231204/1969287.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （三）</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
 <li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
 
 </ul>
 </div>
