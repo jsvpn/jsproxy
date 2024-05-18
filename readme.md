@@ -18,16 +18,16 @@
 <li><a href="/sohnews/20240518/2038407.md">习近平熊抱普京是因为这项协议？</a></li>
 <li><a href="/ssgc/20240518/2038313.md">〖微博谈〗普习会释放多个对世界属于负面的讯号</a></li>
 <li><a href="/topimagenews/20240518/2038409.md">好尴尬 访北京 俄财长被迫乘媒体大巴 啥信号？ 多视频</a></li>
-<li><a href="/ccpdope/20240518/2038284.md">逼普京在一重大问题上妥协 习近平在为三中做准备？</a></li>
 <li><a href="/topimagenews/20240518/2038408.md">中共救房市最核心的问题 注定完败 会拖那些人溺亡？【阿波罗网报道】</a></li>
+<li><a href="/ccpdope/20240518/2038284.md">逼普京在一重大问题上妥协 习近平在为三中做准备？</a></li>
 <li><a href="/cbnews/20240518/2038257.md">传广州商场女子穿红衣坠亡誓化厉鬼 遗书控公检法保护恶人</a></li>
 <li><a href="/cnnews/20240518/2038271.md">404文：网红书记朱是西被查，惊人的一幕出现了</a></li>
-<li><a href="/baitai/20240518/2038189.md">王丹声明</a></li>
+<li><a href="/headline/20240519/2038474.md">中国又一名部长出事，不久前还作为“习近平特使”出访他国</a></li>
 <li><a href="/headline/20240518/2038420.md">中国农业农村部长被反腐机构调查</a></li>
 <li><a href="/comments/20240518/2038207.md">习近平变本加厉！用中国经济陪葬</a></li>
-<li><a href="/headline/20240519/2038474.md">中国又一名部长出事，不久前还作为“习近平特使”出访他国</a></li>
-<li><a href="/ssgc/20240518/2038383.md">中共死心塌地挺俄 逼美国做出选择</a></li>
 <li><a href="/sohnews/20240518/2038323.md">恶心的老男人 要干大坏事！</a></li>
+<li><a href="/ssgc/20240518/2038383.md">中共死心塌地挺俄 逼美国做出选择</a></li>
+<li><a href="/cbnews/20240518/2038447.md">震惊！中共正实施攻占澳洲</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240519/2038545.md" target="_blank">准备后路？中俄“保证运入本国的对方财产安全”</a></li>
 <li><a href="/comments/20240519/2038538.md" target="_blank">瑞士小镇的谜团：一对华人夫妇，是离F-35最近的中国间谍吗？｜方菲时间</a></li>
 <li><a href="/cbnews/20240519/2038536.md" target="_blank">习或有所顾忌 普京试图说服习不要惧怕…</a></li>
 <li><a href="/cbnews/20240519/2038528.md" target="_blank">江峰：俄罗斯说实话，中俄谁是老大</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240518/2038288.md" target="_blank">各地民众纷纷跳河 中共桥上密布警戒人员</a></li>
 <li><a href="/cbnews/20240518/2038259.md" target="_blank">中共大搞特务治国 黑手伸向海外</a></li>
 <li><a href="/cbnews/20240518/2038258.md" target="_blank">大陆儿童电话手表短信审核太夸张 网友：笑死了</a></li>
-<li><a href="/cbnews/20240518/2038257.md" target="_blank">传广州商场女子穿红衣坠亡誓化厉鬼 遗书控公检法保护恶人</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240519/2038550.md" target="_blank">袁斌：中共死心塌地挺俄 逼美国做出选择</a></li>
+<li><a href="/comments/20240519/2038549.md" target="_blank">楚一丁：反犹浪潮背后的左右较量与中共黑手</a></li>
+<li><a href="/comments/20240519/2038548.md" target="_blank">大光：你说共产党能不被清零？</a></li>
+<li><a href="/comments/20240519/2038547.md" target="_blank">吴惠林：AI于人是福是祸？</a></li>
+<li><a href="/comments/20240519/2038546.md" target="_blank">陆小粉红：如何用和平的方式占领澳洲？</a></li>
 <li><a href="/comments/20240519/2038538.md" target="_blank">瑞士小镇的谜团：一对华人夫妇，是离F-35最近的中国间谍吗？｜方菲时间</a></li>
 <li><a href="/comments/20240519/2038537.md" target="_blank">始料未及！彭丽媛所有优雅瞬间 全都被普京粉碎</a></li>
 <li><a href="/comments/20240519/2038529.md" target="_blank">天亮时分：习普拥抱，为何如此尴尬？</a></li>
@@ -117,11 +122,6 @@
 <li><a href="/comments/20240518/2038214.md" target="_blank">天亮时分：一份挑战世界的宣言书</a></li>
 <li><a href="/comments/20240518/2038213.md" target="_blank">天亮时分：中共史无前例救市大招，别上当！效果有限；习普拥抱，为何如此尴尬？同病相怜又爱莫能助（政论天下第1308集 20240517）天亮时分</a></li>
 <li><a href="/comments/20240518/2038207.md" target="_blank">习近平变本加厉！用中国经济陪葬</a></li>
-<li><a href="/comments/20240518/2038203.md" target="_blank">文昭：2024中俄联合声明，一句最关键的话消失了！中俄「三无关系」时代，将带来什麽？</a></li>
-<li><a href="/comments/20240518/2038193.md" target="_blank">美国AC130空中炮艇击沉渔船，菲律宾装备印度布拉莫斯反舰导弹｜兵家常事（2024-5-18）</a></li>
-<li><a href="/comments/20240518/2038165.md" target="_blank">袁斌：如何回应美国关税攻势 中共面临三重尴尬</a></li>
-<li><a href="/comments/20240518/2038164.md" target="_blank">网海拾贝:世界必须认清中共无意尊重任何法律</a></li>
-<li><a href="/comments/20240518/2038163.md" target="_blank">谢田：放长线钓小鱼 中共世纪举债的动机</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20231130/1967587.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （一）</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/cnnews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
 <li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
-<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
-<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/tculture/20231217/1975364.md" target="_blank">医山夜话：张锡纯医案解读（1）根治失眠 思路清晰</a></li>
 
 </ul>
 </div>
