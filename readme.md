@@ -6,28 +6,28 @@
 <ul>
 
 <li><a href="/topimagenews/20240518/2038357.md">中共军队曝出大笑话！谁也猜不到的内幕【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20240518/2038258.md">大陆儿童电话手表短信审核太夸张 网友：笑死了</a></li>
 <li><a href="/sohnews/20240518/2038335.md">🔥🔥2024-25年大事预测❗阿南德最新预言点名中国将发生翻天巨变❗某国将分裂成五个 美国将卷入战争❗信息量爆棚❗</a></li>
 <li><a href="/health/20240518/2038358.md">人老两个坎，熬过就长寿？两坎是指哪两年？老年人一定要注意</a></li>
-<li><a href="/headline/20240519/2038474.md">中国又一名部长出事，不久前还作为“习近平特使”出访他国</a></li>
 <li><a href="/topimagenews/20240518/2038374.md">肖建华遭抄家今财产贱卖 江泽民派系“白手套”</a></li>
+<li><a href="/headline/20240519/2038474.md">中国又一名部长出事，不久前还作为“习近平特使”出访他国</a></li>
 <li><a href="/sohnews/20240518/2038407.md">习近平熊抱普京是因为这项协议？</a></li>
 <li><a href="/cnnews/20240519/2038499.md">炸裂：红二代挑战党官，曝乱搞儿媳内幕</a></li>
 <li><a href="/ssgc/20240518/2038313.md">〖微博谈〗普习会释放多个对世界属于负面的讯号</a></li>
 <li><a href="/topimagenews/20240518/2038422.md">F-35与F-22战机 中共门口罕见缠斗 曝美新战术</a></li>
-<li><a href="/topimagenews/20240518/2038409.md">好尴尬 访北京 俄财长被迫乘媒体大巴 啥信号？ 多视频</a></li>
 <li><a href="/ccpdope/20240518/2038284.md">逼普京在一重大问题上妥协 习近平在为三中做准备？</a></li>
-<li><a href="/topimagenews/20240518/2038408.md">中共救房市最核心的问题 注定完败 会拖那些人溺亡？【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20240518/2038257.md">传广州商场女子穿红衣坠亡誓化厉鬼 遗书控公检法保护恶人</a></li>
+<li><a href="/topimagenews/20240518/2038409.md">好尴尬 访北京 俄财长被迫乘媒体大巴 啥信号？ 多视频</a></li>
 <li><a href="/comments/20240519/2038537.md">始料未及！彭丽媛所有优雅瞬间 全都被普京粉碎</a></li>
-<li><a href="/cnnews/20240518/2038271.md">404文：网红书记朱是西被查，惊人的一幕出现了</a></li>
+<li><a href="/topimagenews/20240518/2038408.md">中共救房市最核心的问题 注定完败 会拖那些人溺亡？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240519/2038521.md">走向彻底爆发！习违反惯例旷世纪举债 中国人人逃不掉被割韭菜</a></li>
 <li><a href="/headline/20240518/2038420.md">中国农业农村部长被反腐机构调查</a></li>
+<li><a href="/sohnews/20240519/2038551.md">习近平女婿正式出山：习明泽丈夫卢弘风的内部演讲全程视频，卢弘风作为主席特使出访土耳其。《老灯开讲第561期》</a></li>
 <li><a href="/baitai/20240519/2038476.md">不顾欧美施压 习近平一意孤行强化中俄关系 专家解析内情</a></li>
 <li><a href="/cbnews/20240518/2038447.md">震惊！中共正实施攻占澳洲</a></li>
-<li><a href="/sohnews/20240519/2038551.md">习近平女婿正式出山：习明泽丈夫卢弘风的内部演讲全程视频，卢弘风作为主席特使出访土耳其。《老灯开讲第561期》</a></li>
 <li><a href="/ssgc/20240518/2038383.md">中共死心塌地挺俄 逼美国做出选择</a></li>
+<li><a href="/cbnews/20240519/2038522.md">习近平苦心安排 普京不领情</a></li>
 <li><a href="/sohnews/20240518/2038323.md">恶心的老男人 要干大坏事！</a></li>
+<li><a href="/topimagenews/20240518/2038376.md">拿中国钱到中国留学 用中文正告“这件事”！越南籍生 : 西沙和南沙是越南的</a></li>
+<li><a href="/lifebaike/20240518/2038294.md">在非洲的100万中国男人，留下了多少私生子</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240519/2038633.md" target="_blank">【微博精粹】520 东升西降</a></li>
+<li><a href="/comments/20240519/2038632.md" target="_blank">东方：谁杀死了餐饮小店？</a></li>
+<li><a href="/comments/20240519/2038631.md" target="_blank">何清涟：为何台湾有人认为川普当选对台湾不利</a></li>
+<li><a href="/comments/20240519/2038630.md" target="_blank">曹长青：一场新冠病毒祸害了世界，谁应负责？</a></li>
 <li><a href="/comments/20240519/2038624.md" target="_blank">【独家解读】农业农村部部长唐仁健任上落马 刷新一系列打虎数据 曾任习近平特使及胡春华刘鹤副手 任职农业农村系统近40年 任职中财办长达16年 曾推“农管”执法</a></li>
 <li><a href="/comments/20240519/2038610.md" target="_blank">404文:“娄烨牛X”!又拍了一部不能上映的电影？娄烨戛纳新片引轰动</a></li>
 <li><a href="/comments/20240519/2038609.md" target="_blank">网络民议:中国“最网盘的导演”，唤醒恍如隔世的疫情记忆</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20240519/2038538.md" target="_blank">瑞士小镇的谜团：一对华人夫妇，是离F-35最近的中国间谍吗？｜方菲时间</a></li>
 <li><a href="/comments/20240519/2038537.md" target="_blank">始料未及！彭丽媛所有优雅瞬间 全都被普京粉碎</a></li>
 <li><a href="/comments/20240519/2038529.md" target="_blank">天亮时分：习普拥抱，为何如此尴尬？</a></li>
-<li><a href="/comments/20240519/2038467.md" target="_blank">天亮时分：别上当！ 中共大招有限</a></li>
-<li><a href="/comments/20240518/2038431.md" target="_blank">台湾立法院如果要扩张权力 只要自己同意！</a></li>
-<li><a href="/comments/20240518/2038419.md" target="_blank">坑死多少爹的厉害国油漆</a></li>
-<li><a href="/comments/20240518/2038405.md" target="_blank">渖涧松：她那年十九岁（连载三十六）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
-<li><a href="/comments/20231130/1967587.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （一）</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20231220/1976789.md" target="_blank">大陆医生曝：九价HPV疫苗导致怀孕能力下降40%</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20240318/2014289.md" target="_blank">唐柏桥：民运同仁突然向法轮功开火是怎么回事？</a></li>
-<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20231214/1974098.md" target="_blank">美国众议院议长：我所坚守的保守主义，具体是些什么内容？</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
 
 </ul>
 </div>
