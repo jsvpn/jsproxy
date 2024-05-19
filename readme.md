@@ -8,26 +8,26 @@
 <li><a href="/topimagenews/20240518/2038357.md">中共军队曝出大笑话！谁也猜不到的内幕【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20240518/2038335.md">🔥🔥2024-25年大事预测❗阿南德最新预言点名中国将发生翻天巨变❗某国将分裂成五个 美国将卷入战争❗信息量爆棚❗</a></li>
 <li><a href="/health/20240518/2038358.md">人老两个坎，熬过就长寿？两坎是指哪两年？老年人一定要注意</a></li>
+<li><a href="/sohnews/20240519/2038551.md">习近平女婿正式出山：习明泽丈夫卢弘风的内部演讲全程视频，卢弘风作为主席特使出访土耳其。《老灯开讲第561期》</a></li>
 <li><a href="/comments/20240519/2038537.md">始料未及！彭丽媛所有优雅瞬间 全都被普京粉碎</a></li>
 <li><a href="/topimagenews/20240518/2038374.md">肖建华遭抄家今财产贱卖 江泽民派系“白手套”</a></li>
 <li><a href="/sohnews/20240518/2038407.md">习近平熊抱普京是因为这项协议？</a></li>
 <li><a href="/headline/20240519/2038474.md">中国又一名部长出事，不久前还作为“习近平特使”出访他国</a></li>
 <li><a href="/cnnews/20240519/2038499.md">炸裂：红二代挑战党官，曝乱搞儿媳内幕</a></li>
-<li><a href="/sohnews/20240519/2038551.md">习近平女婿正式出山：习明泽丈夫卢弘风的内部演讲全程视频，卢弘风作为主席特使出访土耳其。《老灯开讲第561期》</a></li>
 <li><a href="/topimagenews/20240518/2038422.md">F-35与F-22战机 中共门口罕见缠斗 曝美新战术</a></li>
 <li><a href="/topimagenews/20240519/2038521.md">走向彻底爆发！习违反惯例旷世纪举债 中国人人逃不掉被割韭菜</a></li>
 <li><a href="/cbnews/20240519/2038522.md">习近平苦心安排 普京不领情</a></li>
-<li><a href="/topimagenews/20240518/2038409.md">好尴尬 访北京 俄财长被迫乘媒体大巴 啥信号？ 多视频</a></li>
 <li><a href="/topimagenews/20240518/2038408.md">中共救房市最核心的问题 注定完败 会拖那些人溺亡？【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20240518/2038409.md">好尴尬 访北京 俄财长被迫乘媒体大巴 啥信号？ 多视频</a></li>
 <li><a href="/headline/20240518/2038420.md">中国农业农村部长被反腐机构调查</a></li>
+<li><a href="/topimagenews/20240519/2038535.md">狂卖地产仍然躲不过! 王健林的万达集团被没收?</a></li>
 <li><a href="/baitai/20240519/2038476.md">不顾欧美施压 习近平一意孤行强化中俄关系 专家解析内情</a></li>
 <li><a href="/cbnews/20240518/2038447.md">震惊！中共正实施攻占澳洲</a></li>
-<li><a href="/topimagenews/20240519/2038535.md">狂卖地产仍然躲不过! 王健林的万达集团被没收?</a></li>
 <li><a href="/ssgc/20240518/2038383.md">中共死心塌地挺俄 逼美国做出选择</a></li>
+<li><a href="/topimagenews/20240519/2038602.md">越南靠不住了 能撤就撤吧</a></li>
 <li><a href="/sohnews/20240518/2038323.md">恶心的老男人 要干大坏事！</a></li>
 <li><a href="/topimagenews/20240518/2038376.md">拿中国钱到中国留学 用中文正告“这件事”！越南籍生 : 西沙和南沙是越南的</a></li>
 <li><a href="/baitai/20240519/2038469.md">习近平主动拥抱普京 耳语含天大机密 美出声警告</a></li>
-<li><a href="/topimagenews/20240519/2038602.md">越南靠不住了 能撤就撤吧</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
 
 </ul>
 </div>
