@@ -9,8 +9,8 @@
 <li><a href="/cnnews/20240521/2039313.md">形势愈发严峻！上海财大校长一针见血 就业比例低到“令人发指”</a></li>
 <li><a href="/comments/20240521/2039274.md">【中南海段子】习近平对彭丽媛说：你要有两手准备 也许你能成为中国第一任女总统呢</a></li>
 <li><a href="/yule/20240521/2039384.md">导演王扶林：“她很漂亮，但一肚子草包没知识”</a></li>
-<li><a href="/topimagenews/20240521/2039378.md">“习近平!我知道你已意识到危机 现在考验你的时刻到了！”</a></li>
 <li><a href="/cbnews/20240521/2039457.md">伊朗总统坠亡震动中南海？分析：对习影响极大</a></li>
+<li><a href="/topimagenews/20240521/2039378.md">“习近平!我知道你已意识到危机 现在考验你的时刻到了！”</a></li>
 <li><a href="/cbnews/20240521/2039419.md">〖红朝浮世绘〗习近平痛失好友 世界悬着的心终于放下了</a></li>
 <li><a href="/comments/20240521/2039375.md">变天了？农民反割政府韭菜</a></li>
 <li><a href="/topimagenews/20240521/2039475.md">泽伦斯基终于带来了好消息</a></li>
@@ -18,8 +18,8 @@
 <li><a href="/topimagenews/20240521/2039392.md">【微博精粹】比亚迪大火烧到西班牙 真正做到火遍全球</a></li>
 <li><a href="/topimagenews/20240521/2039492.md">郭有才危险了！文革批斗式话题冲上热搜第一【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240521/2039305.md">新华社这动作“太贴心了”！ 拜登愤慨批ICC向以总理发逮捕令</a></li>
-<li><a href="/cnnews/20240521/2039449.md">一夜之间 中国多家银行消息传来</a></li>
 <li><a href="/sohnews/20240521/2039534.md">赖清德就职演说太硬气！</a></li>
+<li><a href="/cnnews/20240521/2039449.md">一夜之间 中国多家银行消息传来</a></li>
 <li><a href="/ssgc/20240521/2039420.md">〖微博谈〗必须马上脱钩，全面科技封锁</a></li>
 <li><a href="/comments/20240521/2039346.md">要出大事？伊朗总统身亡 沙特国王急病</a></li>
 <li><a href="/topimagenews/20240521/2039474.md">北京这场豪赌如履薄冰</a></li>
@@ -27,7 +27,7 @@
 <li><a href="/cbnews/20240521/2039548.md">赖清德就职演说 大陆官民反应迥异 专家解读</a></li>
 <li><a href="/cbnews/20240521/2039466.md">失踪的人一大堆 只有一个官宣出事的！ 专家：中共三中全会暗潮汹涌…..</a></li>
 <li><a href="/baitai/20240521/2039505.md">伊朗坠机之后曾求助美国 美这样回应</a></li>
-<li><a href="/topimagenews/20240521/2039326.md">川普封口费案逆转 检方证人科恩当庭承认偷钱</a></li>
+<li><a href="/topimagenews/20240521/2039597.md">印度神童最新预言曝光！点名“3国家”有事 10个已爆弹恶化至明年</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
 <li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
-<li><a href="/comments/20240412/2024185.md" target="_blank">是治疗还是屠杀?化疗药品滴一滴在皮肤即灼伤，很长时间才好</a></li>
-<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
 
 </ul>
 </div>
