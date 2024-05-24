@@ -9,25 +9,25 @@
 <li><a href="/sohnews/20240523/2040457.md">习近平付出巨大代价，只有一个目标！习近平台海</a></li>
 <li><a href="/sohnews/20240523/2040459.md">赵丽颖给金融大佬沈南鹏当小三？指控者自称跟沈南鹏关系很近，网友一追查，都安静了｜大宇拍案惊奇shorts</a></li>
 <li><a href="/cbnews/20240524/2040562.md">湖南女主播当街遭怪男“捅下体”倒地！卵巢小肠爆裂险死</a></li>
-<li><a href="/topimagenews/20240523/2040437.md">中国劳工太惨了！领最低工资活不下去 比亚迪员工罢工 遭上百特警镇压</a></li>
 <li><a href="/comments/20240524/2040635.md">习隐疾！这条尾巴太大要失控？彭丽媛山东帮难对抗</a></li>
 <li><a href="/yule/20240524/2040626.md">整形医生晒汪峰新女友整形前旧照 网友惊讶</a></li>
 <li><a href="/topimagenews/20240524/2040658.md">中共当局下场抓人，这行业正进行史无前例“大清算”</a></li>
 <li><a href="/topimagenews/20240523/2040462.md">伊朗总统坠机身亡 将由“他”上位？ 专家警告 : 可能走向“朝鲜化”</a></li>
-<li><a href="/cbnews/20240523/2040438.md">41岁中共前央视知名排球解说员在泰国坠亡</a></li>
 <li><a href="/headline/20240524/2040612.md">推特上的中国：北京环台军演吓到了谁？</a></li>
 <li><a href="/topimagenews/20240524/2040714.md">文革李九莲被虐杀辱尸 割下乳房阴部</a></li>
 <li><a href="/cnnews/20240524/2040636.md">马斯克“告诉”中共：你们无处可藏</a></li>
 <li><a href="/topimagenews/20240524/2040731.md">【微博精粹】可惜不是你</a></li>
+<li><a href="/comments/20240524/2040767.md">蔡慎坤：习好不容易到手的无限任期或栽到这场硬仗上</a></li>
 <li><a href="/topimagenews/20240524/2040678.md">震惊！中共歼-10竟是这么来的！以色列给卖了美国</a></li>
 <li><a href="/cbnews/20240524/2040625.md">色字头上一把刀！陆男被捉奸 头上卡菜刀就医</a></li>
 <li><a href="/baitai/20240523/2040495.md">「冯优偌」痛骂赵丽颖插足沈南鹏婚姻 网友挖出更多内幕</a></li>
 <li><a href="/cbnews/20240524/2040679.md">湖北当局封锁消息！网：“干嘛隐藏事实？明明死了八个，干嘛说伤？”</a></li>
 <li><a href="/topimagenews/20240524/2040659.md">超百万人撤离！以色列不惧任何压力 哈马斯翻盘无望</a></li>
-<li><a href="/comments/20240524/2040767.md">蔡慎坤：习好不容易到手的无限任期或栽到这场硬仗上</a></li>
 <li><a href="/topimagenews/20240524/2040760.md">中共军演到底吓到谁?台湾狂欢 中国韭菜叫惨【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240524/2040712.md">中共党魁到日照 身后这人举动特殊【阿波罗网报道】</a></li>
 <li><a href="/comments/20240523/2040485.md">遥遥领先爆炸了</a></li>
+<li><a href="/ccpdope/20240523/2040497.md">天显异象 习近平返京</a></li>
+<li><a href="/finance/20240524/2040563.md">中国“大润发”倒闭潮！关20家门市解雇2万员工 亏损金额16亿元</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/cnnews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/comments/20231203/1969183.md" target="_blank">开盖冲马桶 ，细菌会乱飞？除非你家马桶是喷泉！</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
 
 </ul>
 </div>
