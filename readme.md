@@ -7,27 +7,27 @@
 
 <li><a href="/topimagenews/20240526/2041562.md">走路姿势怪异..网传习视察山东视频 看了保你笑出猪叫</a></li>
 <li><a href="/topimagenews/20240526/2041531.md">“打习近平”！中部战区流传辱习言论 中共军心生变？</a></li>
-<li><a href="/yule/20240525/2041352.md">45岁章子怡现身法国戛纳 直接享受清场待遇…</a></li>
 <li><a href="/topimagenews/20240526/2041515.md">省委书记倒台，背后神秘的女人现形</a></li>
 <li><a href="/cbnews/20240526/2041470.md">中共围台军演惊人大逆转 国军强悍势力碾压共军 赖清德新气象</a></li>
 <li><a href="/headline/20240525/2041446.md">传汪文斌卸发言人一职 本人说再见</a></li>
 <li><a href="/topimagenews/20240526/2041598.md">没人看还是没钱了？中共停办大量“基层喉舌”</a></li>
+<li><a href="/topimagenews/20240526/2041619.md">战略大失误！大好良机，习近平白白丢失</a></li>
 <li><a href="/topimagenews/20240525/2041374.md">和中共真像! 伊朗总统坠机丧命官发调查报告！民间阴谋论压不住 还抓人</a></li>
 <li><a href="/ssgc/20240525/2041404.md">北京长沙迁走农民领袖像 中共怕民变</a></li>
-<li><a href="/topimagenews/20240526/2041619.md">战略大失误！大好良机，习近平白白丢失</a></li>
 <li><a href="/sohnews/20240526/2041477.md">王沪宁内曝与国民党秘密协议！台湾立法院国民党中华民国</a></li>
+<li><a href="/topimagenews/20240526/2041631.md">凭什么让全国人民来"埋单"?你以为他们是在救楼市？</a></li>
 <li><a href="/cbnews/20240526/2041488.md">屡次“妄议中央” 李毅自曝被停发工资</a></li>
 <li><a href="/ccpdope/20240526/2041543.md">最近大陆发生了两件稀罕事 中共真的怕他们</a></li>
-<li><a href="/topimagenews/20240526/2041631.md">凭什么让全国人民来"埋单"?你以为他们是在救楼市？</a></li>
 <li><a href="/baitai/20240526/2041615.md">习近平拍照惹嘲讽 王沪宁传政治信号？</a></li>
 <li><a href="/topimagenews/20240526/2041560.md">逮捕和起诉习近平？美国会议员促司法部采取措施…</a></li>
-<li><a href="/comments/20240525/2041353.md">犹太大富豪、黑石老板倒向川普，为什么？</a></li>
 <li><a href="/sohnews/20240525/2041363.md">陈破空：老习真的怕了！连夜拆除李自成雕像。官员被捕新罪名：主动躺平！围台军演败了！台湾国会外涌入十万人。王沪宁被骂死。直播与互动：美东时间5月25日早9点、中港台当晚9点</a></li>
-<li><a href="/ccpdope/20240526/2041486.md">袁红冰发表专题讲话：同赖清德政治对决 习近平只有死路一条</a></li>
 <li><a href="/topimagenews/20240526/2041514.md">取消中共国永久性正常贸易地位！美呼声越来越大；黄金价格又崩了！【阿波罗网报道】</a></li>
+<li><a href="/ccpdope/20240526/2041486.md">袁红冰发表专题讲话：同赖清德政治对决 习近平只有死路一条</a></li>
 <li><a href="/topimagenews/20240526/2041583.md">第4度对习放出狠话！“拜登是认真的”</a></li>
-<li><a href="/topimagenews/20240525/2041348.md">黄金价格又崩了！下周续杀？关键指标不妙专家点破后市</a></li>
+<li><a href="/cbnews/20240526/2041633.md">中共官媒集体噤声!沉默的背后…</a></li>
 <li><a href="/topimagenews/20240526/2041597.md">中共新规！百姓左右为难 拿外国人打“组合拳”？【阿波罗网报道】</a></li>
+<li><a href="/headline/20240526/2041497.md">中国军机在围台军演中被台湾军机雷达锁机？</a></li>
+<li><a href="/comments/20240525/2041370.md">纳瓦罗监狱生活曝光，与川普有新约。黑石董事长和多名硅谷大投资者抛弃拜登，拥抱川普。德桑蒂斯公开为川普筹款。川普德桑蒂斯纳瓦罗</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240526/2041734.md" target="_blank">星期六方伟节目 为什么没五毛了？</a></li>
 <li><a href="/cbnews/20240526/2041695.md" target="_blank">“中共就是只纸老虎” ？台湾F-16V监控中共歼-16和轰-6曝光</a></li>
 <li><a href="/cbnews/20240526/2041694.md" target="_blank">江西大巴失控冲破围栏 冲入负一层平台 画面曝光</a></li>
 <li><a href="/cbnews/20240526/2041661.md" target="_blank">《央视新闻》拿18位台星发文当范本 表态风波持续延烧</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240526/2041470.md" target="_blank">中共围台军演惊人大逆转 国军强悍势力碾压共军 赖清德新气象</a></li>
 <li><a href="/cbnews/20240526/2041460.md" target="_blank">江峰：不是民进党输不起，而是台湾输不起</a></li>
 <li><a href="/cbnews/20240525/2041413.md" target="_blank">英国调查揭万人输血染爱滋C肝世纪医疗丑闻</a></li>
-<li><a href="/comments/20240525/2041370.md" target="_blank">纳瓦罗监狱生活曝光，与川普有新约。黑石董事长和多名硅谷大投资者抛弃拜登，拥抱川普。德桑蒂斯公开为川普筹款。川普德桑蒂斯纳瓦罗</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240526/2041734.md" target="_blank">星期六方伟节目 为什么没五毛了？</a></li>
 <li><a href="/comments/20240526/2041653.md" target="_blank">中共提出“逆全球化”？“被全球拒绝”才是真</a></li>
 <li><a href="/comments/20240526/2041652.md" target="_blank">周其仁成为座上宾，你跟着瞎鸡冻个锤子？</a></li>
 <li><a href="/comments/20240526/2041625.md" target="_blank">CDTV：“目前社会上也有一些人对城管工作是有一些偏见和误解的”</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240525/2041370.md" target="_blank">纳瓦罗监狱生活曝光，与川普有新约。黑石董事长和多名硅谷大投资者抛弃拜登，拥抱川普。德桑蒂斯公开为川普筹款。川普德桑蒂斯纳瓦罗</a></li>
 <li><a href="/comments/20240525/2041368.md" target="_blank">渖涧松：她那年十九岁（连载三十七）</a></li>
 <li><a href="/comments/20240525/2041362.md" target="_blank">天亮时分：台湾出路在哪？</a></li>
-<li><a href="/comments/20240525/2041354.md" target="_blank">袁红冰：《唯美之灵》 第三卷 少年“情醉”之殇（第三部分）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
-<li><a href="/comments/20231223/1978148.md" target="_blank">医山夜话：张锡纯医案解读（三）赭石：降胃气 引火下行</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
 
 </ul>
 </div>
