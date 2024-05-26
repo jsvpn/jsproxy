@@ -11,23 +11,23 @@
 <li><a href="/cbnews/20240526/2041470.md">中共围台军演惊人大逆转 国军强悍势力碾压共军 赖清德新气象</a></li>
 <li><a href="/sohnews/20240526/2041477.md">王沪宁内曝与国民党秘密协议！台湾立法院国民党中华民国</a></li>
 <li><a href="/topimagenews/20240526/2041619.md">战略大失误！大好良机，习近平白白丢失</a></li>
-<li><a href="/topimagenews/20240526/2041598.md">没人看还是没钱了？中共停办大量“基层喉舌”</a></li>
-<li><a href="/baitai/20240526/2041721.md">汪文斌突然卸任外交部发言人 港媒披露可能去向</a></li>
 <li><a href="/cnnews/20240526/2041717.md">中共上海公安局局长扬帆人性未泯 护送救命恩人离开大陆</a></li>
+<li><a href="/baitai/20240526/2041721.md">汪文斌突然卸任外交部发言人 港媒披露可能去向</a></li>
+<li><a href="/topimagenews/20240526/2041598.md">没人看还是没钱了？中共停办大量“基层喉舌”</a></li>
 <li><a href="/cbnews/20240526/2041488.md">屡次“妄议中央” 李毅自曝被停发工资</a></li>
 <li><a href="/ccpdope/20240526/2041543.md">最近大陆发生了两件稀罕事 中共真的怕他们</a></li>
 <li><a href="/topimagenews/20240526/2041631.md">凭什么让全国人民来"埋单"?你以为他们是在救楼市？</a></li>
-<li><a href="/topimagenews/20240526/2041560.md">逮捕和起诉习近平？美国会议员促司法部采取措施…</a></li>
 <li><a href="/baitai/20240526/2041615.md">习近平拍照惹嘲讽 王沪宁传政治信号？</a></li>
 <li><a href="/cbnews/20240526/2041633.md">中共官媒集体噤声!沉默的背后…</a></li>
-<li><a href="/topimagenews/20240526/2041514.md">取消中共国永久性正常贸易地位！美呼声越来越大；黄金价格又崩了！【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20240526/2041693.md">上海，刷新世界最低生育率纪录…</a></li>
+<li><a href="/topimagenews/20240526/2041560.md">逮捕和起诉习近平？美国会议员促司法部采取措施…</a></li>
 <li><a href="/funmedia/20240526/2041649.md">百年前清朝男女合影，思想太前卫不能接受</a></li>
+<li><a href="/topimagenews/20240526/2041693.md">上海，刷新世界最低生育率纪录…</a></li>
+<li><a href="/topimagenews/20240526/2041514.md">取消中共国永久性正常贸易地位！美呼声越来越大；黄金价格又崩了！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240526/2041583.md">第4度对习放出狠话！“拜登是认真的”</a></li>
-<li><a href="/topimagenews/20240526/2041630.md">比亚迪的屁股，真摸不得…</a></li>
-<li><a href="/ccpdope/20240526/2041486.md">袁红冰发表专题讲话：同赖清德政治对决 习近平只有死路一条</a></li>
 <li><a href="/topimagenews/20240526/2041691.md">中共党魁时间不多了？谁给出的这个主意？【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20240526/2041630.md">比亚迪的屁股，真摸不得…</a></li>
 <li><a href="/cbnews/20240526/2041695.md">“中共就是只纸老虎” ？台湾F-16V监控中共歼-16和轰-6曝光</a></li>
+<li><a href="/ccpdope/20240526/2041486.md">袁红冰发表专题讲话：同赖清德政治对决 习近平只有死路一条</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/comments/20240418/2026391.md" target="_blank">医生劝我妻子放弃，似乎这些医生热衷让病人快点去死？</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
-<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/comments/20231212/1972297.md" target="_blank">日本华人确诊晚期直肠癌，修炼法轮功恢复健康（图）</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20231204/1969287.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （三）</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
+<li><a href="/topimagenews/20180608/954788.md" target="_blank">安乐死根本安乐不了，别宣传了</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/comments/20240116/1984226.md" target="_blank">湖北老河口遇仙记</a></li>
 
 </ul>
 </div>
