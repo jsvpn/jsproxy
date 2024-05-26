@@ -10,21 +10,21 @@
 <li><a href="/topimagenews/20240526/2041531.md">“打习近平”！中部战区流传辱习言论 中共军心生变？</a></li>
 <li><a href="/cbnews/20240526/2041470.md">中共围台军演惊人大逆转 国军强悍势力碾压共军 赖清德新气象</a></li>
 <li><a href="/sohnews/20240526/2041477.md">王沪宁内曝与国民党秘密协议！台湾立法院国民党中华民国</a></li>
-<li><a href="/topimagenews/20240526/2041619.md">战略大失误！大好良机，习近平白白丢失</a></li>
-<li><a href="/cnnews/20240526/2041717.md">中共上海公安局局长扬帆人性未泯 护送救命恩人离开大陆</a></li>
 <li><a href="/baitai/20240526/2041721.md">汪文斌突然卸任外交部发言人 港媒披露可能去向</a></li>
+<li><a href="/topimagenews/20240526/2041619.md">战略大失误！大好良机，习近平白白丢失</a></li>
 <li><a href="/topimagenews/20240526/2041598.md">没人看还是没钱了？中共停办大量“基层喉舌”</a></li>
+<li><a href="/cnnews/20240526/2041717.md">中共上海公安局局长扬帆人性未泯 护送救命恩人离开大陆</a></li>
 <li><a href="/cbnews/20240526/2041488.md">屡次“妄议中央” 李毅自曝被停发工资</a></li>
 <li><a href="/ccpdope/20240526/2041543.md">最近大陆发生了两件稀罕事 中共真的怕他们</a></li>
 <li><a href="/topimagenews/20240526/2041631.md">凭什么让全国人民来"埋单"?你以为他们是在救楼市？</a></li>
-<li><a href="/baitai/20240526/2041615.md">习近平拍照惹嘲讽 王沪宁传政治信号？</a></li>
 <li><a href="/cbnews/20240526/2041633.md">中共官媒集体噤声!沉默的背后…</a></li>
+<li><a href="/baitai/20240526/2041615.md">习近平拍照惹嘲讽 王沪宁传政治信号？</a></li>
 <li><a href="/topimagenews/20240526/2041560.md">逮捕和起诉习近平？美国会议员促司法部采取措施…</a></li>
 <li><a href="/funmedia/20240526/2041649.md">百年前清朝男女合影，思想太前卫不能接受</a></li>
 <li><a href="/topimagenews/20240526/2041693.md">上海，刷新世界最低生育率纪录…</a></li>
 <li><a href="/topimagenews/20240526/2041514.md">取消中共国永久性正常贸易地位！美呼声越来越大；黄金价格又崩了！【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20240526/2041583.md">第4度对习放出狠话！“拜登是认真的”</a></li>
 <li><a href="/topimagenews/20240526/2041691.md">中共党魁时间不多了？谁给出的这个主意？【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20240526/2041583.md">第4度对习放出狠话！“拜登是认真的”</a></li>
 <li><a href="/topimagenews/20240526/2041630.md">比亚迪的屁股，真摸不得…</a></li>
 <li><a href="/cbnews/20240526/2041695.md">“中共就是只纸老虎” ？台湾F-16V监控中共歼-16和轰-6曝光</a></li>
 <li><a href="/ccpdope/20240526/2041486.md">袁红冰发表专题讲话：同赖清德政治对决 习近平只有死路一条</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/comments/20231212/1972297.md" target="_blank">日本华人确诊晚期直肠癌，修炼法轮功恢复健康（图）</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20231204/1969287.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （三）</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
-<li><a href="/topimagenews/20180608/954788.md" target="_blank">安乐死根本安乐不了，别宣传了</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20240116/1984226.md" target="_blank">湖北老河口遇仙记</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/comments/20190701/1151501.md" target="_blank">【特稿】中国共产党是邪教组织</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
 
 </ul>
 </div>
