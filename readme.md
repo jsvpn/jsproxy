@@ -19,15 +19,15 @@
 <li><a href="/baitai/20240526/2041615.md">习近平拍照惹嘲讽 王沪宁传政治信号？</a></li>
 <li><a href="/topimagenews/20240526/2041560.md">逮捕和起诉习近平？美国会议员促司法部采取措施…</a></li>
 <li><a href="/cbnews/20240526/2041633.md">中共官媒集体噤声!沉默的背后…</a></li>
-<li><a href="/topimagenews/20240526/2041514.md">取消中共国永久性正常贸易地位！美呼声越来越大；黄金价格又崩了！【阿波罗网报道】</a></li>
 <li><a href="/funmedia/20240526/2041649.md">百年前清朝男女合影，思想太前卫不能接受</a></li>
+<li><a href="/baitai/20240526/2041721.md">汪文斌突然卸任外交部发言人 港媒披露可能去向</a></li>
+<li><a href="/topimagenews/20240526/2041514.md">取消中共国永久性正常贸易地位！美呼声越来越大；黄金价格又崩了！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240526/2041583.md">第4度对习放出狠话！“拜登是认真的”</a></li>
 <li><a href="/ccpdope/20240526/2041486.md">袁红冰发表专题讲话：同赖清德政治对决 习近平只有死路一条</a></li>
-<li><a href="/headline/20240526/2041497.md">中国军机在围台军演中被台湾军机雷达锁机？</a></li>
+<li><a href="/cnnews/20240526/2041717.md">中共上海公安局局长扬帆人性未泯 护送救命恩人离开大陆</a></li>
 <li><a href="/topimagenews/20240526/2041630.md">比亚迪的屁股，真摸不得…</a></li>
-<li><a href="/baitai/20240526/2041721.md">汪文斌突然卸任外交部发言人 港媒披露可能去向</a></li>
+<li><a href="/headline/20240526/2041497.md">中国军机在围台军演中被台湾军机雷达锁机？</a></li>
 <li><a href="/topimagenews/20240526/2041597.md">中共新规！百姓左右为难 拿外国人打“组合拳”？【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20240526/2041512.md">转败为胜！泽伦斯基：乌军获得哈尔科夫地区作战控制</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240526/2041769.md" target="_blank">“年轻网络暴民”，正在毁掉中国年轻人</a></li>
+<li><a href="/comments/20240526/2041768.md" target="_blank">“中共从未统治过台湾也无权这么做” 德媒：世界须表明决不接受犯台</a></li>
 <li><a href="/comments/20240526/2041757.md" target="_blank">天亮时分：《汉书》一直被模仿 从未被超越</a></li>
 <li><a href="/comments/20240526/2041741.md" target="_blank">川普冰释前嫌，愿将黑利纳入麾下。第一场总统辩论前，将有“十月惊奇”？爆炸性邮件显示：拜登迷恋习近平，与亨特中国商业伙伴会面。川普拜登电视辩论</a></li>
 <li><a href="/comments/20240526/2041734.md" target="_blank">星期六方伟节目 为什么没五毛了？</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240526/2041538.md" target="_blank">袁斌：中共环岛军演规模空前，台湾慌了吗？</a></li>
 <li><a href="/comments/20240526/2041537.md" target="_blank">王友群：中共围台军演时 回首中共卖国事</a></li>
 <li><a href="/comments/20240526/2041536.md" target="_blank">谢田：中国特色炫富为何让人不齿</a></li>
-<li><a href="/comments/20240526/2041535.md" target="_blank">杨宁：北京长沙迁走农民领袖像 中共怕民变</a></li>
-<li><a href="/comments/20240525/2041370.md" target="_blank">纳瓦罗监狱生活曝光，与川普有新约。黑石董事长和多名硅谷大投资者抛弃拜登，拥抱川普。德桑蒂斯公开为川普筹款。川普德桑蒂斯纳瓦罗</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
+<li><a href="/ssgc/20240508/2034288.md" target="_blank">《透视“进化论”》第九章 人类起源问题的终极答案</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
 <li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
 
 </ul>
 </div>
