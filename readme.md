@@ -17,17 +17,17 @@
 <li><a href="/ccpdope/20240527/2041818.md">西方对习近平最坚决透彻的研究报告：习12年后摘下面具</a></li>
 <li><a href="/topimagenews/20240526/2041691.md">中共党魁时间不多了？谁给出的这个主意？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240526/2041693.md">上海，刷新世界最低生育率纪录…</a></li>
-<li><a href="/cbnews/20240526/2041695.md">“中共就是只纸老虎” ？台湾F-16V监控中共歼-16和轰-6曝光</a></li>
 <li><a href="/headline/20240526/2041737.md">马云任正非等历史讯息简体中文遭删消失 出什么事？</a></li>
-<li><a href="/topimagenews/20240526/2041630.md">比亚迪的屁股，真摸不得…</a></li>
+<li><a href="/cbnews/20240526/2041695.md">“中共就是只纸老虎” ？台湾F-16V监控中共歼-16和轰-6曝光</a></li>
 <li><a href="/ccpdope/20240527/2041823.md">大陆年轻人高喊「十不」 将中共骗子模样展现得淋漓尽致</a></li>
+<li><a href="/topimagenews/20240526/2041630.md">比亚迪的屁股，真摸不得…</a></li>
 <li><a href="/sohnews/20240526/2041724.md">受累许家印？前司法部长唐一军落马的各种隐情</a></li>
-<li><a href="/topimagenews/20240526/2041597.md">中共新规！百姓左右为难 拿外国人打“组合拳”？【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20240526/2041784.md">傅政华被判重刑原因？｜百年真相shorts</a></li>
+<li><a href="/topimagenews/20240526/2041597.md">中共新规！百姓左右为难 拿外国人打“组合拳”？【阿波罗网报道】</a></li>
 <li><a href="/lifebaike/20240526/2041716.md">【老照片】金正恩访华坐火车南下 曾被中国人指着痛骂</a></li>
 <li><a href="/yule/20240526/2041657.md">戛纳红毯生图：章子怡妆容翻车 杨幂秀身材抢镜</a></li>
+<li><a href="/baitai/20240527/2041832.md">将习打回「战狼」原型 何卫东围台军演沦为「最烂剧本」</a></li>
 <li><a href="/ccpdope/20240526/2041755.md">年轻人绝望 「躺平」「摆烂」成常态！ 各行各业断崖式下跌</a></li>
-<li><a href="/ssgc/20240526/2041617.md">〖微博谈〗似乎先给习主席在联合国申请战争罪</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240527/2041912.md" target="_blank">幕后》查无此人！飞官发文称赖政府挑衅才军演、不续签 遭揭认知作战</a></li>
+<li><a href="/cbnews/20240527/2041911.md" target="_blank">适得其反！中共军演“严重警告外部势力”美议员：只会加速对台军援</a></li>
 <li><a href="/comments/20240527/2041908.md" target="_blank">震撼视频：中共战机险些被国军击落。FBI放16年长线，中共老间谍上钩。香港前警司被控间谍罪。台湾赖清德习近平</a></li>
 <li><a href="/cbnews/20240527/2041893.md" target="_blank">美情报专家：北京独裁者12年后摘下面具</a></li>
 <li><a href="/cbnews/20240527/2041872.md" target="_blank">“是谁打沉的”？中共环台军演 联合启瑞轮在东海沉没</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/comments/20240526/2041566.md" target="_blank">周末直播问答，台湾烂法案，美国烂诉川普案</a></li>
 <li><a href="/cbnews/20240526/2041563.md" target="_blank">中国必须成为一个言论自由的国家</a></li>
 <li><a href="/cbnews/20240526/2041555.md" target="_blank">江峰：台积电有绝招，中共打台湾土豪要失望了</a></li>
-<li><a href="/cbnews/20240526/2041534.md" target="_blank">中共环台军演 专家提国军反封锁五大建议</a></li>
-<li><a href="/cbnews/20240526/2041533.md" target="_blank">上海2023年总和生育率比韩国还低</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240527/2041921.md" target="_blank">傅馨仪：台湾立法院：从举手表决到高呼“吾皇万岁”</a></li>
+<li><a href="/comments/20240527/2041920.md" target="_blank">上官乱：中国史诗级救市只能仿俄罗斯 但俄罗斯失败了</a></li>
+<li><a href="/comments/20240527/2041919.md" target="_blank">詹顺贵：发动罢免蓝营立委徒然落入中共算计</a></li>
+<li><a href="/comments/20240527/2041910.md" target="_blank">李毅逼习攻台被停发工资，拍视频卖惨！29国38天环太平洋联合军演，华春莹嘲讽习近平？</a></li>
 <li><a href="/comments/20240527/2041908.md" target="_blank">震撼视频：中共战机险些被国军击落。FBI放16年长线，中共老间谍上钩。香港前警司被控间谍罪。台湾赖清德习近平</a></li>
 <li><a href="/comments/20240527/2041897.md" target="_blank">台湾国会乱象有感：选民得到他们应得的政府 没有时间后悔</a></li>
 <li><a href="/comments/20240527/2041896.md" target="_blank">林三土：美国在“六四”后帮助中共做大做强 如今自吞苦果</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20240526/2041624.md" target="_blank">重温：吕德文：简单问题复杂化，是基层形式主义问题的根源</a></li>
 <li><a href="/comments/20240526/2041609.md" target="_blank">【微博精粹】赖升习降 牛熊无言</a></li>
 <li><a href="/comments/20240526/2041607.md" target="_blank">唐映红：噫吁嚱！上海刷新世界最低生育率纪录</a></li>
-<li><a href="/comments/20240526/2041606.md" target="_blank">月光博客：信息审查 中文互联网内容正在逐步消失</a></li>
-<li><a href="/comments/20240526/2041605.md" target="_blank">何清涟：国会改革 三党有备而来</a></li>
-<li><a href="/comments/20240526/2041604.md" target="_blank">城市的地得:不要跳桥：城市中的新悲伤</a></li>
-<li><a href="/comments/20240526/2041603.md" target="_blank">内幕：国会改革表决输蓝白 民进党整合社群扩散战力逆转舆论风向</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/cnnews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/comments/20190701/1151501.md" target="_blank">【特稿】中国共产党是邪教组织</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
 <li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
 
 </ul>
 </div>
