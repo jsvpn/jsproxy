@@ -17,17 +17,17 @@
 <li><a href="/ccpdope/20240527/2041823.md">大陆年轻人高喊「十不」 将中共骗子模样展现得淋漓尽致</a></li>
 <li><a href="/sohnews/20240526/2041784.md">傅政华被判重刑原因？｜百年真相shorts</a></li>
 <li><a href="/sohnews/20240526/2041724.md">受累许家印？前司法部长唐一军落马的各种隐情</a></li>
+<li><a href="/cbnews/20240527/2041872.md">“是谁打沉的”？中共环台军演 联合启瑞轮在东海沉没</a></li>
 <li><a href="/baitai/20240527/2041832.md">将习打回「战狼」原型 何卫东围台军演沦为「最烂剧本」</a></li>
 <li><a href="/lifebaike/20240526/2041716.md">【老照片】金正恩访华坐火车南下 曾被中国人指着痛骂</a></li>
-<li><a href="/cbnews/20240527/2041872.md">“是谁打沉的”？中共环台军演 联合启瑞轮在东海沉没</a></li>
 <li><a href="/topimagenews/20240527/2041861.md">中国小粉红和台湾人打赌“我们很自由”！上传六四天安门照片秒遭禁言</a></li>
+<li><a href="/topimagenews/20240527/2041847.md">破防！这么多高铁新城，变成空城了？</a></li>
+<li><a href="/worldnews/20240527/2041895.md">26岁男娶53岁大妈生下儿子 村民见爱巢全沉默了</a></li>
 <li><a href="/ccpdope/20240526/2041755.md">年轻人绝望 「躺平」「摆烂」成常态！ 各行各业断崖式下跌</a></li>
 <li><a href="/headline/20240527/2041834.md">中国拖船“联合启瑞号”在东海沉没</a></li>
-<li><a href="/topimagenews/20240527/2041848.md">中共史诗级救市：只能学俄罗斯，但俄失败了…</a></li>
-<li><a href="/topimagenews/20240527/2041847.md">破防！这么多高铁新城，变成空城了？</a></li>
-<li><a href="/lifebaike/20240526/2041801.md">上海已婚孕妇“脚踏四只船”：她的手段并不高明</a></li>
-<li><a href="/worldnews/20240527/2041895.md">26岁男娶53岁大妈生下儿子 村民见爱巢全沉默了</a></li>
 <li><a href="/ssgc/20240527/2041890.md">〖微博谈〗让习近平自娱自乐，别陪着他做梦</a></li>
+<li><a href="/topimagenews/20240527/2041848.md">中共史诗级救市：只能学俄罗斯，但俄失败了…</a></li>
+<li><a href="/yule/20240527/2041869.md">追她的人排到了法国，而她却在蹬缝纫机</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240527/2041991.md" target="_blank">中共军演干沉自己船？ 都是“联合” “联合利剑”演习时 “联合启锐”沉东海</a></li>
 <li><a href="/topimagenews/20240527/2041965.md" target="_blank">共军大难题！搞不好就全军覆没</a></li>
 <li><a href="/topimagenews/20240527/2041964.md" target="_blank">全中国人进牢笼！习近平将“控制”嵌入生活中</a></li>
 <li><a href="/topimagenews/20240527/2041937.md" target="_blank">【微博精粹】共军在黑习近平</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20240526/2041562.md" target="_blank">走路姿势怪异..网传习视察山东视频 看了保你笑出猪叫</a></li>
 <li><a href="/topimagenews/20240526/2041561.md" target="_blank">乌战视频：降维打击 美陆军导弹碾压式摧毁S400</a></li>
 <li><a href="/topimagenews/20240526/2041560.md" target="_blank">逮捕和起诉习近平？美国会议员促司法部采取措施…</a></li>
-<li><a href="/topimagenews/20240526/2041531.md" target="_blank">“打习近平”！中部战区流传辱习言论 中共军心生变？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/taiwannews/20210119/1470761.md" target="_blank">独家：震撼纪录片《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
 
 </ul>
 </div>
