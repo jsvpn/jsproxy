@@ -5,8 +5,8 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/sohnews/20240528/2042467.md">全网唯一一张习明泽清晰近照！</a></li>
 <li><a href="/sohnews/20240528/2042348.md">全网独家！国安副厅级叛逃官员爆料，这才是习明泽真容！其余都是假的。｜薇羽看世间 20240527</a></li>
+<li><a href="/sohnews/20240528/2042467.md">全网唯一一张习明泽清晰近照！</a></li>
 <li><a href="/topimagenews/20240528/2042253.md">毛宁避答，这个问题难倒中共外交部</a></li>
 <li><a href="/cnnews/20240528/2042266.md">煤老板正在排队出国</a></li>
 <li><a href="/comments/20240528/2042296.md">习没有胜算！一个三峡大坝，泄露武统台湾时间</a></li>
@@ -27,7 +27,7 @@
 <li><a href="/cbnews/20240528/2042373.md">大陆气氛肃杀 传餐桌上说政治笑话没人敢笑</a></li>
 <li><a href="/finance/20240528/2042397.md">地方财政彻底崩溃了</a></li>
 <li><a href="/topimagenews/20240528/2042477.md">华为被抓现行？员工窃取SK海力士芯片技术被埔</a></li>
-<li><a href="/yule/20240528/2042268.md">57岁王祖贤最新偶遇曝光 买平价红薯背影落寞</a></li>
+<li><a href="/topimagenews/20240528/2042290.md">刚刚发行 中国超长期特别国债剧烈震荡</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,14 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240529/2042700.md" target="_blank">石铭：从一位屡遭迫害的工程师的经历看结束迫害的紧迫</a></li>
+<li><a href="/comments/20240529/2042699.md" target="_blank">周晓辉：中共搞错“母子”关系 所出谜语有新解</a></li>
+<li><a href="/comments/20240529/2042698.md" target="_blank">秦梦苏：“十年一代沟”怎么来的？</a></li>
+<li><a href="/comments/20240529/2042697.md" target="_blank">英慧：抗争与中共病毒疫苗后遗症</a></li>
+<li><a href="/comments/20240529/2042696.md" target="_blank">石铭：告诫所有侵犯人权的中共官员</a></li>
+<li><a href="/comments/20240529/2042695.md" target="_blank">杨威：中共轻视中日韩峰会 盲目树敌</a></li>
+<li><a href="/comments/20240529/2042694.md" target="_blank">网海拾贝:“逆全球化”背后的真相</a></li>
+<li><a href="/comments/20240529/2042693.md" target="_blank">尴尬！兵败联合国记者会，中共阴谋被拆解</a></li>
 <li><a href="/comments/20240529/2042679.md" target="_blank">【悉尼联合教会35年不间断纪念&quot;六四&quot;死难者】 35年了，克鲁斯(Bill Crews)牧师每逢六四临近，都会在他主持的悉尼艾仕菲联合教会(Ashfield Uniting Church)举行祈祷会</a></li>
 <li><a href="/comments/20240529/2042653.md" target="_blank">加拿大纪念“六四”拉开序幕，在温哥华“民主行”活动中，约200人游行抗议中国暴政，呼吁世人勿忘六四。</a></li>
 <li><a href="/comments/20240529/2042650.md" target="_blank">天亮时分：习给华春莹升官了？</a></li>
@@ -114,14 +122,6 @@
 <li><a href="/comments/20240528/2042342.md" target="_blank">李毅备瑞士军刀跟习玩命？赖清德突发力，习底裤没了！华春莹汪文斌升官，小赵傻</a></li>
 <li><a href="/comments/20240528/2042341.md" target="_blank">这么多军事基地你打的完吗</a></li>
 <li><a href="/comments/20240528/2042326.md" target="_blank">赖清德不简单 四两拨千斤</a></li>
-<li><a href="/comments/20240528/2042325.md" target="_blank">身捆汽油桶 60老太跳海逃港</a></li>
-<li><a href="/comments/20240528/2042324.md" target="_blank">老习接不住球！战狼们一片沉寂</a></li>
-<li><a href="/comments/20240528/2042323.md" target="_blank">狱中官员惊爆：这才是中共的崩溃点</a></li>
-<li><a href="/comments/20240528/2042317.md" target="_blank">习近平给爱因斯坦指明方向</a></li>
-<li><a href="/comments/20240528/2042314.md" target="_blank">纽约审川案结案 全国关注陪审团 他们会公正吗？</a></li>
-<li><a href="/comments/20240528/2042299.md" target="_blank">李濠仲：“一中原则三段论”正在国际上遭拆解</a></li>
-<li><a href="/comments/20240528/2042298.md" target="_blank">黎蜗藤：利用三个漏洞违反宪法正义的“国会改革法案”</a></li>
-<li><a href="/comments/20240528/2042297.md" target="_blank">陈宜中：六四的幽灵――也谈邓小平路线</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
-<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
+<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
 <li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
 
 </ul>
 </div>
