@@ -12,16 +12,16 @@
 <li><a href="/topimagenews/20240529/2042832.md">重大信号！北京允许人民币贬值</a></li>
 <li><a href="/ccpdope/20240530/2043103.md">惨况震惊全世界 李克强背叛初衷</a></li>
 <li><a href="/cbnews/20240529/2042823.md">川普：我会轰炸莫斯科 也会袭击北京</a></li>
-<li><a href="/cbnews/20240529/2042826.md">〖红朝浮世绘〗赖清德挖了个坑，央视傻乎乎硬往里跳</a></li>
 <li><a href="/topimagenews/20240529/2042820.md">习说这话是真？还是哄中国老百姓玩儿？【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20240529/2042826.md">〖红朝浮世绘〗赖清德挖了个坑，央视傻乎乎硬往里跳</a></li>
 <li><a href="/topimagenews/20240529/2042831.md">大船殒落 不可思议！昔龙头老大惨跌成这样</a></li>
 <li><a href="/topimagenews/20240530/2043157.md">一句“胡扯”触犯习近平？这位局长下场惨了</a></li>
 <li><a href="/topimagenews/20240529/2042995.md">再10天就毕业！留学新加坡20岁正妹“手握现金”离奇坠亡 父泪求真相</a></li>
 <li><a href="/cnnews/20240529/2043014.md">大陆40岁富婆冲体育馆裸奔 控男大生骗财骗色</a></li>
-<li><a href="/sohnews/20240529/2042963.md">陈破空：突然传出习明泽成年照！三中全会前夕。政治局开会，故意把李强排除在外。那几个演戏的找到了！法德达成重大共识：乌克兰有权打击俄军事基地。直播与互动：美东时间5月29日早9点、中港台当晚9点</a></li>
-<li><a href="/lifebaike/20240529/2042840.md">跑了300公里的高速后，才知道新能源车和油车的区别，都是真心话</a></li>
-<li><a href="/sohnews/20240530/2043121.md">政治肃杀要来了</a></li>
 <li><a href="/topimagenews/20240530/2043154.md">中国社媒疯传！校园惊现女子脱衣裤裸露私处</a></li>
+<li><a href="/sohnews/20240529/2042963.md">陈破空：突然传出习明泽成年照！三中全会前夕。政治局开会，故意把李强排除在外。那几个演戏的找到了！法德达成重大共识：乌克兰有权打击俄军事基地。直播与互动：美东时间5月29日早9点、中港台当晚9点</a></li>
+<li><a href="/sohnews/20240530/2043121.md">政治肃杀要来了</a></li>
+<li><a href="/lifebaike/20240529/2042840.md">跑了300公里的高速后，才知道新能源车和油车的区别，都是真心话</a></li>
 <li><a href="/cbnews/20240529/2042997.md">64死了3万多人？ 网传机密文件外泄 学生死近1.1万 前军官忆当时惨况</a></li>
 <li><a href="/topimagenews/20240529/2042960.md">我不急 您先！ 中国民众要官员先上战场、捐器官、买楼房 中共挞伐怒禁</a></li>
 <li><a href="/topimagenews/20240529/2042822.md">突发： 为川普入狱准备？ 特勤局与纽约监狱会面</a></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240530/2043273.md" target="_blank">纽约陪审团首日审议期 看出什么端倪？川普会被判有罪吗？</a></li>
 <li><a href="/cbnews/20240530/2043247.md" target="_blank">预言成真：中共犯台必先攻占立法院 李筱峰23年前告诫疯传</a></li>
 <li><a href="/cbnews/20240530/2043225.md" target="_blank">美印太司令：中共环台军演是入侵台湾的预演</a></li>
 <li><a href="/cbnews/20240530/2043215.md" target="_blank">澳国防部长出席安全论坛 前中共特工发言成焦点</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20240529/2043029.md" target="_blank">纽约诉川案 辩方的结案结得如何？</a></li>
 <li><a href="/cbnews/20240529/2042997.md" target="_blank">64死了3万多人？ 网传机密文件外泄 学生死近1.1万 前军官忆当时惨况</a></li>
 <li><a href="/comments/20240529/2042994.md" target="_blank">收复台湾要靠台湾艺人？</a></li>
-<li><a href="/comments/20240529/2042944.md" target="_blank">纽约诉川案 检方的结案如何结案的？</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,17 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240530/2043273.md" target="_blank">纽约陪审团首日审议期 看出什么端倪？川普会被判有罪吗？</a></li>
+<li><a href="/comments/20240530/2043265.md" target="_blank">天安门母亲群体-悼念六四亲人罹难35周年祭</a></li>
+<li><a href="/comments/20240530/2043264.md" target="_blank">我忍不住想起我小时候也被这样欺负过</a></li>
+<li><a href="/comments/20240530/2043263.md" target="_blank">新法案削弱总统权力 有利于中共</a></li>
+<li><a href="/comments/20240530/2043262.md" target="_blank">吴瑟致:国会扩权法案三读通过 在野党设刑堂整肃政敌和人民</a></li>
+<li><a href="/comments/20240530/2043261.md" target="_blank">管仁健：朱立伦为何放任傅崐萁恶搞？</a></li>
+<li><a href="/comments/20240530/2043260.md" target="_blank">神奇！23年前指出中共攻台的第一线就在立法院</a></li>
+<li><a href="/comments/20240530/2043259.md" target="_blank">蔡慎坤:面对大学生的高失业率,让知识青年回乡返乡能解决？</a></li>
+<li><a href="/comments/20240530/2043258.md" target="_blank">从赵紫阳权斗失败看今天的中国政治</a></li>
+<li><a href="/comments/20240530/2043257.md" target="_blank">周国平：去爱拥有这些特质的人</a></li>
+<li><a href="/comments/20240530/2043256.md" target="_blank">不让读外国诗的保安，和他曾品尝到的权力滋味</a></li>
 <li><a href="/comments/20240530/2043244.md" target="_blank">天亮时分：川普将被定罪？特勤局正与纽约监狱磋商；国会扩权法三读过关，台湾宪政危机待解；中日韩领导峰会，中共敷衍朝鲜暴怒（政论天下第1316集 20240529）天亮时分</a></li>
 <li><a href="/comments/20240530/2043243.md" target="_blank">习明泽大尺度照曝光，谁干的？北京的哥天安门前撞警察？习近平突陷山东不明军人包围圈</a></li>
 <li><a href="/comments/20240530/2043209.md" target="_blank">未普：经济学家周其仁重回中南海？我有几个有趣的发现</a></li>
@@ -111,17 +122,6 @@
 <li><a href="/comments/20240530/2043161.md" target="_blank">网海拾贝:世界三间最大评级机构都与中共国翻脸</a></li>
 <li><a href="/comments/20240530/2043133.md" target="_blank">习近平称中国对“严重”的加沙局势“深感痛心”</a></li>
 <li><a href="/comments/20240530/2043132.md" target="_blank">变态辣椒：不服不行</a></li>
-<li><a href="/comments/20240530/2043107.md" target="_blank">为什么共和党被告案都是梅尔昌来审？</a></li>
-<li><a href="/comments/20240529/2043067.md" target="_blank">时事大家谈：外国对华投资1-4月同比断崖下跌，中国仍称市场“磁吸力”增强？</a></li>
-<li><a href="/comments/20240529/2043066.md" target="_blank">时事大家谈：中阿合作论坛北京登场，习近平想要什么？</a></li>
-<li><a href="/comments/20240529/2043065.md" target="_blank">时事大家谈：中阿合作论坛北京登场，习近平想要什么？外国对华投资1-4月同比断崖下跌，中国仍称市场“磁吸力”增强？</a></li>
-<li><a href="/comments/20240529/2043029.md" target="_blank">纽约诉川案 辩方的结案结得如何？</a></li>
-<li><a href="/comments/20240529/2043028.md" target="_blank">李毅想动手</a></li>
-<li><a href="/comments/20240529/2043016.md" target="_blank">【梁京评论】台湾的政治文化革命与文明冲突</a></li>
-<li><a href="/comments/20240529/2042994.md" target="_blank">收复台湾要靠台湾艺人？</a></li>
-<li><a href="/comments/20240529/2042944.md" target="_blank">纽约诉川案 检方的结案如何结案的？</a></li>
-<li><a href="/comments/20240529/2042870.md" target="_blank">专制政权是怎样欺骗民众的？——“假想敌”策略</a></li>
-<li><a href="/comments/20240529/2042861.md" target="_blank">川普律师大师级结案陈词，川普笑了。法官失控。川普盟友抄法官后路。机密文件案法官驳回并斥责特别检察官紧急动议。川普封口费案机密文件案</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20231223/1978148.md" target="_blank">医山夜话：张锡纯医案解读（三）赭石：降胃气 引火下行</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20231220/1976683.md" target="_blank">医山夜话：张锡纯医案解读（二）根治胃气不降之证</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
 
 </ul>
 </div>
