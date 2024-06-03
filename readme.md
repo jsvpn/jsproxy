@@ -5,28 +5,28 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/cbnews/20240602/2044658.md">美防长演说当场令中方代表受刺激 双方现场互怼</a></li>
 <li><a href="/funmedia/20240602/2044675.md">中国最凉快城市：夏天仅19度 人少景美少有人知</a></li>
 <li><a href="/ccpdope/20240602/2044802.md">中共耍流氓彻底激怒乌克兰 泽连斯基爆习近平公然对其撒谎</a></li>
 <li><a href="/comments/20240603/2044866.md">杭州一天27跳！中国怎么了？暗黑背债人，金融连环爆雷在即；北京李自成塑像被拆，有何玄机？｜方菲时间</a></li>
 <li><a href="/topimagenews/20240602/2044764.md">罕见！泽连斯基公开指责中共：帮助俄罗斯扰乱和平峰会</a></li>
 <li><a href="/health/20240602/2044681.md">冰箱里的肉，冻多久就不能吃了？超过这个期限，肉再贵也要扔掉</a></li>
-<li><a href="/cbnews/20240602/2044654.md">房价持续下跌 张家口六万元可买两室一厅</a></li>
-<li><a href="/topimagenews/20240603/2044869.md">小学没毕业的：娶6个媳妇，骗17亿，炸了公安局大楼</a></li>
 <li><a href="/baitai/20240602/2044766.md">中共核潜艇沉没致55官兵丧命？ 台国安局回应了</a></li>
+<li><a href="/topimagenews/20240603/2044869.md">小学没毕业的：娶6个媳妇，骗17亿，炸了公安局大楼</a></li>
 <li><a href="/topimagenews/20240603/2044887.md">斩首习近平？美军真正实力大杀器 川普开炮泄密</a></li>
 <li><a href="/cnnews/20240602/2044688.md">罕见！史诗级“大堵船”</a></li>
 <li><a href="/ssgc/20240603/2044849.md">伊朗召见中国大使抗议涉岛主权    中伊关系面临挑战</a></li>
-<li><a href="/topimagenews/20240603/2044857.md">美国危险 大背景富豪猛醒 从川黑变川粉</a></li>
 <li><a href="/topimagenews/20240603/2044889.md">眼下，大概是中共建政以来第三次“就业形势大好”…</a></li>
+<li><a href="/topimagenews/20240603/2044857.md">美国危险 大背景富豪猛醒 从川黑变川粉</a></li>
+<li><a href="/topimagenews/20240603/2044955.md">【微博精粹】美国国会放大招！中共贪官财产要清零</a></li>
 <li><a href="/worldnews/20240602/2044676.md">距开火仅几步之遥! 他曝欧洲已进入对俄开战准备</a></li>
 <li><a href="/ssgc/20240603/2044882.md">〖微博谈〗惹不起的全网删新闻</a></li>
 <li><a href="/cnnews/20240603/2044860.md">550万在美华人数据全公开，中国籍博士近9成留美</a></li>
-<li><a href="/topimagenews/20240603/2044955.md">【微博精粹】美国国会放大招！中共贪官财产要清零</a></li>
 <li><a href="/health/20240602/2044679.md">哈佛大学20年研究证实：经常吃含类黄酮的食物，或能远离老年痴呆</a></li>
 <li><a href="/cbnews/20240602/2044794.md">借壳上市？！中国大疆“绕道”美国单人创业公司 生产“猛禽”无人机</a></li>
+<li><a href="/topimagenews/20240603/2044963.md">他双眼球被踢出 警察向他连开九枪 江鬼“杀无赦”令惨祸连连</a></li>
 <li><a href="/topimagenews/20240602/2044712.md">美B-52轰炸机将服役近百年 向对手释何信号</a></li>
 <li><a href="/baitai/20240602/2044701.md">香格里拉对话 中共防长放狠话 中国网民评论亮了 美前高官读懂习近平</a></li>
+<li><a href="/cnnews/20240603/2044896.md">华人回国小心！“144小时过境签”存户籍暗礁</a></li>
 <li><a href="/ccpdope/20240602/2044710.md">「爱国」车主也怒了：比亚迪工业垃圾</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240603/2045035.md" target="_blank">中共得到便宜，但失去的却是香港</a></li>
 <li><a href="/comments/20240603/2044988.md" target="_blank">纪念六四的两个迷思：平反诉求 &#038; 侧重反思</a></li>
 <li><a href="/comments/20240603/2044972.md" target="_blank">川普被判刑，是福是祸</a></li>
 <li><a href="/comments/20240603/2044956.md" target="_blank">真人真事！大量预言｜神准！用第三只眼看另外空间，每天记载两万字！天象真的来了：七星联芒，七大恶人！｜未解之谜 扶摇</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240602/2044624.md" target="_blank">木蹊说：当嫖娼网红的一泡热尿，浇在了靖国神社</a></li>
 <li><a href="/comments/20240602/2044623.md" target="_blank">404:互联网是有记忆的，但没有想到，这种记忆，原来是像金鱼一样的记忆</a></li>
 <li><a href="/comments/20240602/2044622.md" target="_blank">CDT：“主因是什么”创作出超越苏联笑话的作品</a></li>
-<li><a href="/comments/20240602/2044581.md" target="_blank">【杰森视角】川普案的核心猫腻在哪？判决对美大选影响：双方都错了！川普案为何令纽约商业界惊恐？川普案关键证人在开庭前5天被捕入狱？川普案复杂到《华尔街日报》报导都混淆了关键概念！川普上诉策略一个字：快？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/cnnews/20221211/1822144.md" target="_blank">盖盖冲马桶很可怕！瞬间“病毒炸开”？</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/ssgc/20240508/2034288.md" target="_blank">《透视“进化论”》第九章 人类起源问题的终极答案</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
-<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/comments/20240126/1992876.md" target="_blank">内幕：中国留学生里女生打男生和男生打女一样普遍</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
 
 </ul>
 </div>
