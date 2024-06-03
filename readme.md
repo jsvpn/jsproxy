@@ -11,23 +11,23 @@
 <li><a href="/topimagenews/20240603/2044955.md">【微博精粹】美国国会放大招！中共贪官财产要清零</a></li>
 <li><a href="/ssgc/20240603/2044849.md">伊朗召见中国大使抗议涉岛主权    中伊关系面临挑战</a></li>
 <li><a href="/topimagenews/20240603/2044889.md">眼下，大概是中共建政以来第三次“就业形势大好”…</a></li>
+<li><a href="/cnnews/20240603/2044860.md">550万在美华人数据全公开，中国籍博士近9成留美</a></li>
 <li><a href="/topimagenews/20240603/2044963.md">他双眼球被踢出 警察向他连开九枪 江鬼“杀无赦”令惨祸连连</a></li>
 <li><a href="/topimagenews/20240603/2044857.md">美国危险 大背景富豪猛醒 从川黑变川粉</a></li>
-<li><a href="/cnnews/20240603/2044860.md">550万在美华人数据全公开，中国籍博士近9成留美</a></li>
 <li><a href="/cbnews/20240603/2044964.md">美国航母遭袭击？ 中共官媒传谣被打脸</a></li>
 <li><a href="/cbnews/20240602/2044794.md">借壳上市？！中国大疆“绕道”美国单人创业公司 生产“猛禽”无人机</a></li>
-<li><a href="/ssgc/20240603/2044882.md">〖微博谈〗惹不起的全网删新闻</a></li>
-<li><a href="/comments/20240603/2045035.md">中共得到便宜，但失去的却是香港</a></li>
-<li><a href="/cbnews/20240602/2044801.md">香格里拉对话 美中交锋奥斯丁赢得掌声</a></li>
 <li><a href="/topimagenews/20240603/2045082.md">中共党魁面临最大内部问题：你当不如我当！【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20240603/2044952.md">〖红朝浮世绘〗乌克兰总统严厉批评中共延长了俄乌战争</a></li>
+<li><a href="/comments/20240603/2045035.md">中共得到便宜，但失去的却是香港</a></li>
+<li><a href="/ssgc/20240603/2044882.md">〖微博谈〗惹不起的全网删新闻</a></li>
 <li><a href="/sohnews/20240603/2045049.md">震撼：刘源被查没收20亿财产，红二代紧急策划反习行动，大涨价带来大崩盘。《老灯开讲第574期》</a></li>
+<li><a href="/cbnews/20240602/2044801.md">香格里拉对话 美中交锋奥斯丁赢得掌声</a></li>
+<li><a href="/cbnews/20240603/2044952.md">〖红朝浮世绘〗乌克兰总统严厉批评中共延长了俄乌战争</a></li>
 <li><a href="/topimagenews/20240603/2044962.md">儿童节到了 中国孩子少10倍！一组照片太反常</a></li>
-<li><a href="/cnnews/20240603/2044896.md">华人回国小心！“144小时过境签”存户籍暗礁</a></li>
 <li><a href="/cbnews/20240603/2044928.md">中共党魁说话不算话！泽连斯基一席话怒揭老习</a></li>
+<li><a href="/cnnews/20240603/2044896.md">华人回国小心！“144小时过境签”存户籍暗礁</a></li>
 <li><a href="/cbnews/20240603/2044871.md">中共恐惧 实施大面积绑架…</a></li>
 <li><a href="/topimagenews/20240603/2044926.md">中共一着险棋断送生路 不惜以经济恶化为代价</a></li>
-<li><a href="/headline/20240603/2044820.md">香格里拉对话会落幕  中国防长涉台言论引发反弹</a></li>
+<li><a href="/cnnews/20240603/2045018.md">华人注意：美国海关正严打这种包裹入境</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240603/2045185.md" target="_blank">渖阳大爷举起板砖……</a></li>
+<li><a href="/comments/20240603/2045171.md" target="_blank">【中国时局】武汉男15刀砍杀派出所副所长 沈阳地铁集团保洁员集体罢工维权 上海徐汇劳动仲裁部门被裁后集体申请仲裁 公务员国企掀降薪裁员潮 杀人惨案频发</a></li>
 <li><a href="/comments/20240603/2045141.md" target="_blank">六四35周年 张伯笠：历代中国知识分子都是最自私的一群人｜观点</a></li>
 <li><a href="/comments/20240603/2045132.md" target="_blank">川普被判后 美国富人在担心什么</a></li>
 <li><a href="/comments/20240603/2045131.md" target="_blank">【文韬政论】北京加大打击「华独碍统」为武统作准备</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240603/2044918.md" target="_blank">蔡慎坤：无神论者和敌基督的人充斥美国</a></li>
 <li><a href="/comments/20240603/2044885.md" target="_blank">文昭：太原「看桥员」崛起，揭示中国城市的独特困境【会员样片节选】</a></li>
 <li><a href="/comments/20240603/2044875.md" target="_blank">历史文化周评：穿囚服的总统：川普被定罪如何影响世界？</a></li>
-<li><a href="/comments/20240603/2044859.md" target="_blank">瑜说还休：反智深入民心：上海保安责问“为啥读外国诗？”</a></li>
-<li><a href="/comments/20240603/2044858.md" target="_blank">西坡：网友不许励志，官方不许躺平：只剩网红绞肉机</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
 <li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20231212/1972297.md" target="_blank">日本华人确诊晚期直肠癌，修炼法轮功恢复健康（图）</a></li>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
 
 </ul>
 </div>
