@@ -20,8 +20,8 @@
 <li><a href="/baitai/20240603/2045061.md">网传马云儿子开迈巴赫抵达纽约购物</a></li>
 <li><a href="/cbnews/20240603/2044952.md">〖红朝浮世绘〗乌克兰总统严厉批评中共延长了俄乌战争</a></li>
 <li><a href="/sohnews/20240603/2045125.md">亡共的“羊年生人”到底是谁？</a></li>
-<li><a href="/cbnews/20240603/2044928.md">中共党魁说话不算话！泽连斯基一席话怒揭老习</a></li>
 <li><a href="/topimagenews/20240603/2044962.md">儿童节到了 中国孩子少10倍！一组照片太反常</a></li>
+<li><a href="/cbnews/20240603/2044928.md">中共党魁说话不算话！泽连斯基一席话怒揭老习</a></li>
 <li><a href="/topimagenews/20240603/2044926.md">中共一着险棋断送生路 不惜以经济恶化为代价</a></li>
 <li><a href="/cbnews/20240603/2044871.md">中共恐惧 实施大面积绑架…</a></li>
 <li><a href="/cnnews/20240603/2044896.md">华人回国小心！“144小时过境签”存户籍暗礁</a></li>
@@ -66,6 +66,9 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240604/2045333.md" target="_blank">骗了1000亿rmb，再不抓，人要跑了….</a></li>
+<li><a href="/topimagenews/20240604/2045332.md" target="_blank">习近平反其道而行之，遭国际社会唾弃</a></li>
+<li><a href="/topimagenews/20240604/2045331.md" target="_blank">中共噩梦来了：一场即将召开的会议</a></li>
 <li><a href="/topimagenews/20240604/2045317.md" target="_blank">非常恐怖的数字！杭州二手房挂牌量猛增91%</a></li>
 <li><a href="/topimagenews/20240604/2045316.md" target="_blank">惊人大逆转！传马云子乘迈巴赫纽约购物【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240603/2045146.md" target="_blank">印总理莫迪选后将推动工业改革 全力与中国制造业竞争</a></li>
@@ -88,15 +91,14 @@
 <li><a href="/topimagenews/20240603/2044886.md" target="_blank">川普：若将他软禁或监禁 将成美国公众一个“爆发点”</a></li>
 <li><a href="/topimagenews/20240603/2044869.md" target="_blank">小学没毕业的：娶6个媳妇，骗17亿，炸了公安局大楼</a></li>
 <li><a href="/topimagenews/20240603/2044857.md" target="_blank">美国危险 大背景富豪猛醒 从川黑变川粉</a></li>
-<li><a href="/topimagenews/20240602/2044765.md" target="_blank">中共“窒息式打压”赖清德 中共白忙一场 只是凸显黑帮性格</a></li>
-<li><a href="/topimagenews/20240602/2044764.md" target="_blank">罕见！泽连斯基公开指责中共：帮助俄罗斯扰乱和平峰会</a></li>
-<li><a href="/topimagenews/20240602/2044731.md" target="_blank">无人载具“互殴”！俄乌“实验”战场 “神风特攻”无人机撞无人艇</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240604/2045330.md" target="_blank">6月2日晚，来自美国乔治∙华盛顿大学和美国天主教大学的部分学生，及曾参与八九学运、见证过六四屠杀的部分民众与海外异议人士在乔治∙华盛顿的铜像前，举行纪念六四天安门大屠杀35周年烛光夜悼活动。</a></li>
+<li><a href="/comments/20240604/2045329.md" target="_blank">【荷兰纪念六四 小粉红闹场】 2024年6月2日下午两点，由荷兰反共之声以及中国民主党海外委员会组织的悼念六四35周年活动，在荷兰阿姆斯特丹的水坝广场举行。期间有小粉红打断。（刘飞龙提供）</a></li>
 <li><a href="/comments/20240604/2045328.md" target="_blank">川普筹款达2亿美元！警告临界点出现。披露梅兰妮娅为何没有现身法庭。川普要求最高法院介入，议长约翰逊开始反击。加州警长换队。川普约翰逊封口费案</a></li>
 <li><a href="/comments/20240604/2045284.md" target="_blank">天亮时分：为何川普总是愈挫愈勇？</a></li>
 <li><a href="/comments/20240604/2045253.md" target="_blank">加拿大多地举办举办纪念&#8221;六四&#8221;35周年活动</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240603/2044956.md" target="_blank">真人真事！大量预言｜神准！用第三只眼看另外空间，每天记载两万字！天象真的来了：七星联芒，七大恶人！｜未解之谜 扶摇</a></li>
 <li><a href="/comments/20240603/2044954.md" target="_blank">【六四35周年前夕 民运组织在中国驻美使馆外悼念遇难者】</a></li>
 <li><a href="/comments/20240603/2044935.md" target="_blank">韭菜防毒要领</a></li>
-<li><a href="/comments/20240603/2044934.md" target="_blank">办“喜丧”掩盖悲情 假英雄“感动中国”</a></li>
-<li><a href="/comments/20240603/2044933.md" target="_blank">鲍朴：关于《天安门文件》“真伪”的新证据</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20240418/2026391.md" target="_blank">医生劝我妻子放弃，似乎这些医生热衷让病人快点去死？</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20230920/1936271.md" target="_blank">防止你的孩子不成功（5） &#8211;教育避坑指南</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
 <li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/sohnews/20160119/493472.md" target="_blank">无效的医疗：手术刀下的谎言和药瓶里的欺骗</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
 
 </ul>
 </div>
