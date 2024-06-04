@@ -20,14 +20,14 @@
 <li><a href="/comments/20240604/2045522.md">普京大势已去</a></li>
 <li><a href="/cbnews/20240604/2045443.md">〖红朝浮世绘〗中共做贼心虚 以各种方式提醒民众勿忘“六四”</a></li>
 <li><a href="/topimagenews/20240604/2045495.md">美国放话后 中国企业望风而逃</a></li>
-<li><a href="/topimagenews/20240604/2045372.md">印媒：中共导弹打沉自己的军舰</a></li>
 <li><a href="/topimagenews/20240604/2045590.md">你不知道的六四! 不当历史罪人 军长拒绝屠城令 不止北京 成都也遭惨烈镇压</a></li>
-<li><a href="/topimagenews/20240604/2045317.md">非常恐怖的数字！杭州二手房挂牌量猛增91%</a></li>
+<li><a href="/topimagenews/20240604/2045372.md">印媒：中共导弹打沉自己的军舰</a></li>
 <li><a href="/topimagenews/20240604/2045448.md">男人这姿势撒尿是真英雄！网齐赞：“尿对地方了”</a></li>
 <li><a href="/health/20240604/2045558.md">染发致癌是真的吗？哈佛大学调查11万人长达36年，结论终于出来了</a></li>
 <li><a href="/topimagenews/20240604/2045528.md">赖清德公开表态：六四的记忆不会消失！【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20240604/2045623.md">支持孙子上战场吗？中国老人回答引热议</a></li>
-<li><a href="/topimagenews/20240604/2045316.md">惊人大逆转！传马云子乘迈巴赫纽约购物【阿波罗网报道】</a></li>
+<li><a href="/sohnews/20240604/2045537.md">中共的新任务</a></li>
+<li><a href="/topimagenews/20240604/2045332.md">习近平反其道而行之，遭国际社会唾弃</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240605/2045799.md" target="_blank">1989年，李英之是北大历史系二年级学生，全程参与六四学运, 是六月四日凌晨五六点钟最后撤离纪念碑的学生之一。35年后，年少时的梦想，还在吗？</a></li>
 <li><a href="/comments/20240605/2045775.md" target="_blank">传播观察｜最新流出的&#8221;六四照片&#8221;被ChatGPT打假？</a></li>
 <li><a href="/comments/20240605/2045771.md" target="_blank">天亮时分：红二代真的想打台湾吗？</a></li>
 <li><a href="/comments/20240605/2045752.md" target="_blank">【台北举办悼念六四烛光晚会 参与人数创新高】 ＃六四35周年 纪念日当天，约六千民众在台北中正纪念堂广场举行 ＃悼念六四 烛光晚会。继香港禁止维园纪念后，＃台北 成亚洲纪念六四的最主要城市之一。</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240604/2045420.md" target="_blank">#六四35周年 前夕，在美国的中国民主党成员在纽约的联合国总部、时代广场等多地举行 #快闪 活动。参与者高喊&quot;勿忘六四&quot;、&quot;打倒共产党&quot;、&quot;释放一切政治犯&quot;等口号，呼吁推翻中共暴政。</a></li>
 <li><a href="/comments/20240604/2045419.md" target="_blank">加州河边县警长说，我支持“重罪犯”入主白宫</a></li>
 <li><a href="/comments/20240604/2045409.md" target="_blank">【微博精粹】“六四” 会让中共颤栗到死</a></li>
-<li><a href="/comments/20240604/2045391.md" target="_blank">何处志哀──记六四</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20231201/1968320.md" target="_blank">【非凡新闻】结合中西文化精神 美国神韵表演吸睛</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/sohnews/20160119/493472.md" target="_blank">无效的医疗：手术刀下的谎言和药瓶里的欺骗</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
 <li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
+<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
+<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20231212/1972297.md" target="_blank">日本华人确诊晚期直肠癌，修炼法轮功恢复健康（图）</a></li>
+<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
 
 </ul>
 </div>
