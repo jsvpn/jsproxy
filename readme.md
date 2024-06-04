@@ -9,7 +9,6 @@
 <li><a href="/cbnews/20240604/2045357.md">三年饥荒惨烈场景将再现？三中全会前习释何信号</a></li>
 <li><a href="/topimagenews/20240604/2045454.md">没几个人知道 中共财政出了大问题</a></li>
 <li><a href="/topimagenews/20240604/2045453.md">“刀尖都抵到脖子了” 北京上海不约而同发出危险信号</a></li>
-<li><a href="/topimagenews/20240604/2045354.md">习用尽全力，上海现一大降级征兆；中共建政以来第三次“就业形势大好”…【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240604/2045520.md">中国经济最新数据出炉 坍塌就在眼前</a></li>
 <li><a href="/cbnews/20240604/2045521.md">注意信号！中纪委书记李希一举动引关注</a></li>
 <li><a href="/cbnews/20240604/2045373.md">疯了！中共国将军国际丢人！开足马力狠咬泽连斯基</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/topimagenews/20240604/2045519.md">俄罗斯国防部外惊现这一幕</a></li>
 <li><a href="/topimagenews/20240604/2045452.md">习怕在国内坐飞机 美军空袭北京防不胜防 中南海一清二楚</a></li>
 <li><a href="/topimagenews/20240604/2045403.md">月入百万压榨员工，她才是最狠“资本家”</a></li>
+<li><a href="/headline/20240604/2045569.md">美国驻华使馆暗点蜡烛 中国网络平台禁蜡烛</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240605/2045831.md" target="_blank">盛雪：35年前面对坦克和机枪，我是幸存者，必须为死难者发声；灭共是华人不可推卸的历史责任｜方菲时间</a></li>
 <li><a href="/cbnews/20240605/2045819.md" target="_blank">“六四”35周年 杨峰：到底有没有开枪？</a></li>
 <li><a href="/cbnews/20240605/2045818.md" target="_blank">前中共特工首次现身法轮功集会 再揭中共黑手</a></li>
 <li><a href="/cbnews/20240605/2045817.md" target="_blank">美国会委员会吁释放法轮功学员周德勇、彭树明</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240604/2045443.md" target="_blank">〖红朝浮世绘〗中共做贼心虚 以各种方式提醒民众勿忘“六四”</a></li>
 <li><a href="/comments/20240604/2045439.md" target="_blank">越来越多年轻人加入推翻中共</a></li>
 <li><a href="/cbnews/20240604/2045433.md" target="_blank">六四事件35周年 天安门城楼闭馆</a></li>
-<li><a href="/cbnews/20240604/2045432.md" target="_blank">尿战？广州男子对着党史展览馆大门撒尿</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240605/2045831.md" target="_blank">盛雪：35年前面对坦克和机枪，我是幸存者，必须为死难者发声；灭共是华人不可推卸的历史责任｜方菲时间</a></li>
 <li><a href="/comments/20240605/2045820.md" target="_blank">中共史上首次大屠杀 毛打AB团</a></li>
 <li><a href="/comments/20240605/2045812.md" target="_blank">【我们不如89年的大学生，但至少可以来】</a></li>
 <li><a href="/comments/20240605/2045807.md" target="_blank">袁斌：习近平之问与中共的信息茧房</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240604/2045504.md" target="_blank">林保华：对“五月天”的一打一拉统战伎俩</a></li>
 <li><a href="/comments/20240604/2045503.md" target="_blank">铁头的尿、朝鲜的翔和胡塞的导弹</a></li>
 <li><a href="/comments/20240604/2045502.md" target="_blank">川普被判有罪敲响了警惕多数人暴政的警钟？</a></li>
-<li><a href="/comments/20240604/2045480.md" target="_blank">王友群：八九“六四” 令赵紫阳死不瞑目的3点疑问</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
 <li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/cnnews/20221211/1822144.md" target="_blank">盖盖冲马桶很可怕！瞬间“病毒炸开”？</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
-<li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
 
 </ul>
 </div>
