@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/cbnews/20240603/2045149.md">女销售卖浴缸 突然当众脱衣…围观顾客全看傻</a></li>
-<li><a href="/cbnews/20240603/2045151.md">武汉男15刀砍杀派出所副所长 惊险细节曝光</a></li>
-<li><a href="/yule/20240604/2045340.md">张柏芝前老板曝大瓜 她最后一丝尊严恐怕难保</a></li>
 <li><a href="/topimagenews/20240604/2045331.md">中共噩梦来了：一场即将召开的会议</a></li>
+<li><a href="/yule/20240604/2045340.md">张柏芝前老板曝大瓜 她最后一丝尊严恐怕难保</a></li>
 <li><a href="/baitai/20240604/2045290.md">泽连斯基指责中共之际 英媒爆中俄重要消息</a></li>
-<li><a href="/topimagenews/20240604/2045333.md">骗了1000亿rmb，再不抓，人要跑了….</a></li>
 <li><a href="/cbnews/20240604/2045386.md">中共恐惧至极！北京突发通知…</a></li>
-<li><a href="/topimagenews/20240604/2045454.md">没几个人知道 中共财政出了大问题</a></li>
+<li><a href="/topimagenews/20240604/2045333.md">骗了1000亿rmb，再不抓，人要跑了….</a></li>
 <li><a href="/cbnews/20240604/2045357.md">三年饥荒惨烈场景将再现？三中全会前习释何信号</a></li>
+<li><a href="/topimagenews/20240604/2045454.md">没几个人知道 中共财政出了大问题</a></li>
 <li><a href="/lifebaike/20240604/2045334.md">慈禧出逃后，日本人拍摄的原貌照片，极为珍贵</a></li>
 <li><a href="/topimagenews/20240604/2045453.md">“刀尖都抵到脖子了” 北京上海不约而同发出危险信号</a></li>
 <li><a href="/topimagenews/20240604/2045520.md">中国经济最新数据出炉 坍塌就在眼前</a></li>
 <li><a href="/topimagenews/20240604/2045354.md">习用尽全力，上海现一大降级征兆；中共建政以来第三次“就业形势大好”…【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20240604/2045443.md">〖红朝浮世绘〗中共做贼心虚 以各种方式提醒民众勿忘“六四”</a></li>
-<li><a href="/baitai/20240604/2045303.md">斯诺的晚年悔恨</a></li>
-<li><a href="/cbnews/20240604/2045373.md">疯了！中共国将军国际丢人！开足马力狠咬泽连斯基</a></li>
 <li><a href="/cbnews/20240604/2045521.md">注意信号！中纪委书记李希一举动引关注</a></li>
+<li><a href="/cbnews/20240604/2045373.md">疯了！中共国将军国际丢人！开足马力狠咬泽连斯基</a></li>
+<li><a href="/baitai/20240604/2045303.md">斯诺的晚年悔恨</a></li>
 <li><a href="/topimagenews/20240604/2045317.md">非常恐怖的数字！杭州二手房挂牌量猛增91%</a></li>
+<li><a href="/comments/20240604/2045522.md">普京大势已去</a></li>
 <li><a href="/topimagenews/20240604/2045372.md">印媒：中共导弹打沉自己的军舰</a></li>
 <li><a href="/topimagenews/20240604/2045448.md">男人这姿势撒尿是真英雄！网齐赞：“尿对地方了”</a></li>
-<li><a href="/cbnews/20240603/2045153.md">中纪委书记罕见介入公安维稳 鼓吹枫桥经验</a></li>
-<li><a href="/topimagenews/20240604/2045316.md">惊人大逆转！传马云子乘迈巴赫纽约购物【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240604/2045495.md">美国放话后 中国企业望风而逃</a></li>
+<li><a href="/topimagenews/20240604/2045316.md">惊人大逆转！传马云子乘迈巴赫纽约购物【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20240604/2045528.md">赖清德公开表态：六四的记忆不会消失！【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20240604/2045332.md">习近平反其道而行之，遭国际社会唾弃</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240604/2045662.md" target="_blank">【洞察国情】弘扬「维园精神」 铲除「一党专政」</a></li>
 <li><a href="/comments/20240604/2045620.md" target="_blank">不想活时遇见好人……</a></li>
 <li><a href="/comments/20240604/2045589.md" target="_blank">【香港艺术家在台北展出六四创作】【提醒年轻世代关注六四】</a></li>
 <li><a href="/comments/20240604/2045586.md" target="_blank">八九六四35周年，专属新歌发布。歌曲制作人在狱中的滴血经历。看透中共习近平本质。六四35年习近平</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240604/2045351.md" target="_blank">六四35周年：解体中共的希望在哪里？｜王军涛 方菲｜新闻烽火台 06/03</a></li>
 <li><a href="/comments/20240604/2045330.md" target="_blank">6月2日晚，来自美国乔治∙华盛顿大学和美国天主教大学的部分学生，及曾参与八九学运、见证过六四屠杀的部分民众与海外异议人士在乔治∙华盛顿的铜像前，举行纪念六四天安门大屠杀35周年烛光夜悼活动。</a></li>
 <li><a href="/comments/20240604/2045329.md" target="_blank">【荷兰纪念六四 小粉红闹场】 2024年6月2日下午两点，由荷兰反共之声以及中国民主党海外委员会组织的悼念六四35周年活动，在荷兰阿姆斯特丹的水坝广场举行。期间有小粉红打断。（刘飞龙提供）</a></li>
-<li><a href="/comments/20240604/2045328.md" target="_blank">川普筹款达2亿美元！警告临界点出现。披露梅兰妮娅为何没有现身法庭。川普要求最高法院介入，议长约翰逊开始反击。加州警长换队。川普约翰逊封口费案</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
 <li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
-<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20231214/1974098.md" target="_blank">美国众议院议长：我所坚守的保守主义，具体是些什么内容？</a></li>
+<li><a href="/comments/20231203/1969183.md" target="_blank">开盖冲马桶 ，细菌会乱飞？除非你家马桶是喷泉！</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
 <li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/cnnews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
 <li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
 
 </ul>
 </div>
