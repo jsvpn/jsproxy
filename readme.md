@@ -13,21 +13,21 @@
 <li><a href="/cbnews/20240604/2045443.md">〖红朝浮世绘〗中共做贼心虚 以各种方式提醒民众勿忘“六四”</a></li>
 <li><a href="/topimagenews/20240604/2045495.md">美国放话后 中国企业望风而逃</a></li>
 <li><a href="/topimagenews/20240604/2045590.md">你不知道的六四! 不当历史罪人 军长拒绝屠城令 不止北京 成都也遭惨烈镇压</a></li>
+<li><a href="/baitai/20240605/2045768.md">港媒：三中全会或在7月上中旬召开 重头戏是这个</a></li>
 <li><a href="/topimagenews/20240604/2045448.md">男人这姿势撒尿是真英雄！网齐赞：“尿对地方了”</a></li>
 <li><a href="/health/20240604/2045558.md">染发致癌是真的吗？哈佛大学调查11万人长达36年，结论终于出来了</a></li>
 <li><a href="/cbnews/20240604/2045623.md">支持孙子上战场吗？中国老人回答引热议</a></li>
-<li><a href="/baitai/20240605/2045768.md">港媒：三中全会或在7月上中旬召开 重头戏是这个</a></li>
 <li><a href="/topimagenews/20240604/2045528.md">赖清德公开表态：六四的记忆不会消失！【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20240604/2045694.md">北朝鲜惊传重大船难！90名军人丧命引基层骚动 挑衅南韩为转移焦点</a></li>
 <li><a href="/cbnews/20240604/2045652.md">她惊恐回忆“每年64都有异常天象” 路人看傻：真的太冤</a></li>
 <li><a href="/sohnews/20240604/2045537.md">中共的新任务</a></li>
-<li><a href="/topimagenews/20240604/2045694.md">北朝鲜惊传重大船难！90名军人丧命引基层骚动 挑衅南韩为转移焦点</a></li>
 <li><a href="/topimagenews/20240604/2045519.md">俄罗斯国防部外惊现这一幕</a></li>
 <li><a href="/topimagenews/20240604/2045452.md">习怕在国内坐飞机 美军空袭北京防不胜防 中南海一清二楚</a></li>
-<li><a href="/topimagenews/20240604/2045403.md">月入百万压榨员工，她才是最狠“资本家”</a></li>
+<li><a href="/topimagenews/20240605/2045800.md">中南海自乱阵脚 美军轰炸目标不止北京 炸弹很快落在他们头上？</a></li>
+<li><a href="/headline/20240605/2045767.md">美国务卿布林肯就六四事件35周年发表声明(全文翻译)</a></li>
 <li><a href="/ssgc/20240604/2045444.md">〖微博谈〗香港警察一下子变得这么邪恶了</a></li>
 <li><a href="/headline/20240604/2045569.md">美国驻华使馆暗点蜡烛 中国网络平台禁蜡烛</a></li>
 <li><a href="/cnnews/20240604/2045523.md">德国BMW惨了！中国销量大跌，BMW展开5折“腰斩式”促销</a></li>
-<li><a href="/cnnews/20240604/2045601.md">北京话音未落 麻烦找上门来</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240605/2045908.md" target="_blank">曹长青:为什么白宫首席防疫专家福奇曾强制人民打疫苗</a></li>
+<li><a href="/comments/20240605/2045907.md" target="_blank">罗姐：勿忘六四，牢记历史</a></li>
 <li><a href="/comments/20240605/2045895.md" target="_blank">天亮时分：「六四」35周年纪念，台湾接力；川普表示已经准备好坐牢；亨特拜登受审，仅仅是开始（政论天下第1322集 20240604）天亮时分</a></li>
 <li><a href="/comments/20240605/2045894.md" target="_blank">【“六四”35周年前夕】【近百人在华盛顿悼念“六四”死难者】</a></li>
 <li><a href="/comments/20240605/2045873.md" target="_blank">小民之心：六四35周年祭：不杀学生中共会下台吗历史为何总是让人吃惊</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240604/2045677.md" target="_blank">时事大家谈：六四35周年特别节目：未完成的诉求</a></li>
 <li><a href="/comments/20240604/2045675.md" target="_blank">解体共产党 希望在哪里</a></li>
 <li><a href="/comments/20240604/2045662.md" target="_blank">【洞察国情】弘扬「维园精神」 铲除「一党专政」</a></li>
-<li><a href="/comments/20240604/2045620.md" target="_blank">不想活时遇见好人……</a></li>
-<li><a href="/comments/20240604/2045589.md" target="_blank">【香港艺术家在台北展出六四创作】【提醒年轻世代关注六四】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
 <li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20231212/1972297.md" target="_blank">日本华人确诊晚期直肠癌，修炼法轮功恢复健康（图）</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
 <li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
 
 </ul>
 </div>
