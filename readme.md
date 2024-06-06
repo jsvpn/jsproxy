@@ -9,7 +9,6 @@
 <li><a href="/baitai/20240606/2046263.md">习近平与红色权贵博弈升级 太子党群体又传出坏消息</a></li>
 <li><a href="/cbnews/20240606/2046365.md">习要掀血雨腥风 文革加强版要来？中共特务头子们开会了</a></li>
 <li><a href="/yule/20240606/2046348.md">汪峰深夜做亲子鉴定 谁的人设崩了？</a></li>
-<li><a href="/topimagenews/20240605/2046153.md">红线? 什么红线？乌克兰：战争升级 俄国所划“红线”都不复存在</a></li>
 <li><a href="/topimagenews/20240606/2046385.md">以后恐怕没人救市了！中共央行新政挖坑 各银行都在暗地对抗【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20240606/2046364.md">传中央巡视组秘查唐山和保定 满大街是警察</a></li>
 <li><a href="/topimagenews/20240606/2046363.md">疯了！陆设计师秀“独缺64”潮T，被公安带走问话：你以为我没看到没六四啊</a></li>
@@ -20,14 +19,15 @@
 <li><a href="/cbnews/20240606/2046445.md">〖红朝浮世绘〗免得你们恶意唱衰房地产</a></li>
 <li><a href="/cnnews/20240606/2046347.md">余茂春：非常重大的震撼！中共最怕中国人民…</a></li>
 <li><a href="/worldnews/20240606/2046391.md">16人流亡 人妻提供母乳 每人每天吸10秒 结果…</a></li>
-<li><a href="/topimagenews/20240605/2046152.md">又一个杨佳出现 山西沁县政协主席疑因强拆 遭当街捅刀身亡</a></li>
 <li><a href="/cnnews/20240606/2046249.md">自来水厂奉命滤掉永久性化学物质 水费大涨免不了</a></li>
 <li><a href="/topimagenews/20240606/2046384.md">重磅！为什么说新冠病毒可能是从武汉病毒研究所泄漏的</a></li>
-<li><a href="/cnnews/20240606/2046373.md">习近平挑唆？俄电视台宣扬“中国威胁论” 炸了</a></li>
 <li><a href="/cbnews/20240606/2046411.md">与军方结成团伙攻击习近平？江绵恒退居二线</a></li>
+<li><a href="/cnnews/20240606/2046373.md">习近平挑唆？俄电视台宣扬“中国威胁论” 炸了</a></li>
 <li><a href="/baitai/20240606/2046423.md">红二代不断爆料 三中全会前传不寻常信号</a></li>
 <li><a href="/comments/20240606/2046323.md">周晓辉：福茂97岁董事长赴京 透何信息</a></li>
 <li><a href="/funmedia/20240606/2046367.md">全家逛动物园 女儿突然被长颈鹿叼走 结果…</a></li>
+<li><a href="/cbnews/20240606/2046462.md">上海传3年轻人一起跳江 官方称“只1人”被群嘲</a></li>
+<li><a href="/funmedia/20240606/2046455.md">中年以后的长相，特别准</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -98,7 +98,6 @@
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
 <li><a href="/comments/20240606/2046597.md" target="_blank">党突然承认：台湾是一个国家</a></li>
-<li><a href="/comments/20240606/2046567.md" target="_blank">【遭中共跨境骚扰 许微其：我想成为“女小龙”】</a></li>
 <li><a href="/comments/20240606/2046555.md" target="_blank">拜登为什么公开讲“中国经济要崩溃“？</a></li>
 <li><a href="/comments/20240606/2046498.md" target="_blank">为什么说，“铁头”的出现是一种必然</a></li>
 <li><a href="/comments/20240606/2046444.md" target="_blank">吴仁华等：六四杂忆</a></li>
@@ -122,6 +121,7 @@
 <li><a href="/comments/20240606/2046325.md" target="_blank">掸封尘：中国“鬼秤”现象何时休？</a></li>
 <li><a href="/comments/20240606/2046324.md" target="_blank">袁斌：防民众纪念六四 中共为何越来越疯魔？</a></li>
 <li><a href="/comments/20240606/2046323.md" target="_blank">周晓辉：福茂97岁董事长赴京 透何信息</a></li>
+<li><a href="/comments/20240606/2046322.md" target="_blank">网海拾贝:台湾的实践证明中国完全可以实行民主政治</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/cnnews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
-<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
-<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/ssgc/20240508/2034288.md" target="_blank">《透视“进化论”》第九章 人类起源问题的终极答案</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20231213/1973586.md" target="_blank">六道轮回之畜生道</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/topimagenews/20240511/2035423.md" target="_blank">原北京学员回忆李洪志先生在东方健康博览会上所行的奇迹</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
 <li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
 
 </ul>
 </div>
