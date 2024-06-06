@@ -15,16 +15,16 @@
 <li><a href="/yule/20240606/2046374.md">知名演员被曝素质太低 被加拿大餐厅禁止入内</a></li>
 <li><a href="/comments/20240606/2046555.md">拜登为什么公开讲“中国经济要崩溃“？</a></li>
 <li><a href="/ccpdope/20240606/2046526.md">北京从未有过如此糟糕！一手好牌打个稀巴烂</a></li>
-<li><a href="/cbnews/20240606/2046553.md">被发配？汪文斌将任中共驻柬埔寨大使 引发热议</a></li>
 <li><a href="/comments/20240606/2046597.md">党突然承认：台湾是一个国家</a></li>
+<li><a href="/cbnews/20240606/2046553.md">被发配？汪文斌将任中共驻柬埔寨大使 引发热议</a></li>
 <li><a href="/cbnews/20240606/2046445.md">〖红朝浮世绘〗免得你们恶意唱衰房地产</a></li>
 <li><a href="/topimagenews/20240606/2046339.md">突发：美国大使馆遭3名枪手袭击</a></li>
 <li><a href="/worldnews/20240606/2046391.md">16人流亡 人妻提供母乳 每人每天吸10秒 结果…</a></li>
 <li><a href="/cnnews/20240606/2046347.md">余茂春：非常重大的震撼！中共最怕中国人民…</a></li>
 <li><a href="/baitai/20240606/2046423.md">红二代不断爆料 三中全会前传不寻常信号</a></li>
 <li><a href="/topimagenews/20240606/2046384.md">重磅！为什么说新冠病毒可能是从武汉病毒研究所泄漏的</a></li>
-<li><a href="/cbnews/20240606/2046552.md">三中全会前夕 江系高官被辞去全国政协常委、委员</a></li>
 <li><a href="/baitai/20240606/2046605.md">中共新动向 政权或要出大事</a></li>
+<li><a href="/cbnews/20240606/2046552.md">三中全会前夕 江系高官被辞去全国政协常委、委员</a></li>
 <li><a href="/funmedia/20240606/2046455.md">中年以后的长相，特别准</a></li>
 <li><a href="/cbnews/20240606/2046411.md">与军方结成团伙攻击习近平？江绵恒退居二线</a></li>
 <li><a href="/cbnews/20240606/2046462.md">上海传3年轻人一起跳江 官方称“只1人”被群嘲</a></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240607/2046732.md" target="_blank">新冠疫情后 中国进一步扩大和收紧对公职人员等群体的出境限制</a></li>
 <li><a href="/comments/20240607/2046703.md" target="_blank">时事大家谈：北京聚焦构架高水平社会主义市场经济体制，政协会议有何大背景？</a></li>
 <li><a href="/comments/20240607/2046702.md" target="_blank">时事大家谈：中国经济在崩溃边缘！拜登为何再度看衰中国经济？</a></li>
 <li><a href="/comments/20240607/2046701.md" target="_blank">拜登破了中共的“旧金山完美外交”</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240606/2046383.md" target="_blank">拜登打习近平一闷棍 美国南部边境政策大变</a></li>
 <li><a href="/comments/20240606/2046378.md" target="_blank">友军朱凤莲……</a></li>
 <li><a href="/comments/20240606/2046369.md" target="_blank">李濠仲:辉达对“台湾不同于乌克兰”的例证再加一笔</a></li>
-<li><a href="/comments/20240606/2046361.md" target="_blank">文昭：突发信号！中共「熊抱」後的真相和想的不一样；中国外汇储备被这样偷袭，危险了</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20240403/2020547.md" target="_blank">纪录片：DSM诊断与统计手册-精神病学最要命的骗局</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
 <li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20231203/1969183.md" target="_blank">开盖冲马桶 ，细菌会乱飞？除非你家马桶是喷泉！</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/cnnews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
 
 </ul>
 </div>
