@@ -6,27 +6,27 @@
 <ul>
 
 <li><a href="/comments/20240606/2046555.md">拜登为什么公开讲“中国经济要崩溃“？</a></li>
-<li><a href="/ccpdope/20240606/2046526.md">北京从未有过如此糟糕！一手好牌打个稀巴烂</a></li>
 <li><a href="/cbnews/20240606/2046553.md">被发配？汪文斌将任中共驻柬埔寨大使 引发热议</a></li>
 <li><a href="/comments/20240606/2046597.md">党突然承认：台湾是一个国家</a></li>
 <li><a href="/baitai/20240606/2046605.md">中共新动向 政权或要出大事</a></li>
 <li><a href="/topimagenews/20240607/2046775.md">恒大歌舞团白珊珊热舞夺命“十八蹲”爆红 撬开党官的封条？</a></li>
 <li><a href="/cbnews/20240606/2046552.md">三中全会前夕 江系高官被辞去全国政协常委、委员</a></li>
 <li><a href="/cnnews/20240607/2046800.md">想疯了！陆两美女警察公开意淫 网看傻眼</a></li>
-<li><a href="/yule/20240607/2046802.md">沈导“陪睡门” 多名女演员爆聊天记录</a></li>
 <li><a href="/topimagenews/20240606/2046648.md">今年别离职3原因曝 大陆员工叹：中国社会进入寒冬</a></li>
+<li><a href="/yule/20240607/2046802.md">沈导“陪睡门” 多名女演员爆聊天记录</a></li>
+<li><a href="/baitai/20240606/2046604.md">又一个被傅晓田拉下马官员？中共三中全会前 张晓明突辞政协闲职</a></li>
 <li><a href="/topimagenews/20240607/2046774.md">习近平“变脸”毁掉他们 新的动荡正在蔓延</a></li>
 <li><a href="/topimagenews/20240607/2046761.md">还没出俄国就GG了！ 俄军装甲纵队与14运兵车惨遭全歼 乌海马斯大开杀戒</a></li>
-<li><a href="/baitai/20240606/2046604.md">又一个被傅晓田拉下马官员？中共三中全会前 张晓明突辞政协闲职</a></li>
-<li><a href="/baitai/20240606/2046542.md">朝鲜半岛一触即发 美战机在韩境内轰炸目标</a></li>
 <li><a href="/topimagenews/20240607/2046900.md">【微博精粹】不管多少国家承认 这也是一个恐怖组织</a></li>
+<li><a href="/baitai/20240606/2046542.md">朝鲜半岛一触即发 美战机在韩境内轰炸目标</a></li>
 <li><a href="/cbnews/20240606/2046675.md">中国再传狼上司伸魔爪 销售总监被公司总经理性侵</a></li>
+<li><a href="/topimagenews/20240607/2046890.md">全球紧盯这一时刻！6月中旬，中共一部新法上路</a></li>
 <li><a href="/topimagenews/20240607/2046813.md">重大升级！可下令对共军“第一击”</a></li>
 <li><a href="/topimagenews/20240607/2046791.md">三年前立志“拱城里白菜”的“土猪”，栽了</a></li>
-<li><a href="/topimagenews/20240607/2046890.md">全球紧盯这一时刻！6月中旬，中共一部新法上路</a></li>
+<li><a href="/cbnews/20240607/2046746.md">“18万韭菜无处伸冤” 华为问界车主拉横幅维权</a></li>
 <li><a href="/sohnews/20240606/2046664.md">江绵恒卸职信如何暗怼了习近平？习近平江绵恒</a></li>
 <li><a href="/comments/20240607/2046732.md">新冠疫情后 中国进一步扩大和收紧对公职人员等群体的出境限制</a></li>
-<li><a href="/cbnews/20240607/2046746.md">“18万韭菜无处伸冤” 华为问界车主拉横幅维权</a></li>
+<li><a href="/topimagenews/20240607/2046866.md">北京不义 网传伊朗变心</a></li>
 <li><a href="/headline/20240607/2046812.md">江泽民长子两届任满放话走人引发联想</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20231207/1970628.md" target="_blank">民兵对官军，希望之声打造广播界的奇蹟【方伟时间-20231206】</a></li>
+<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20231214/1974098.md" target="_blank">美国众议院议长：我所坚守的保守主义，具体是些什么内容？</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/taiwannews/20210119/1470761.md" target="_blank">独家：震撼纪录片《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
 <li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/topimagenews/20240511/2035423.md" target="_blank">原北京学员回忆李洪志先生在东方健康博览会上所行的奇迹</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
 
 </ul>
 </div>
