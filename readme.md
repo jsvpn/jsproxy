@@ -9,8 +9,8 @@
 <li><a href="/topimagenews/20240607/2046900.md">【微博精粹】不管多少国家承认 这也是一个恐怖组织</a></li>
 <li><a href="/topimagenews/20240607/2047034.md">怒喊“来世不愿当人”！ 传前《央视》女主播疑拒“潜规则”被除名</a></li>
 <li><a href="/baitai/20240607/2047033.md">传言成真？三中全会前夕人事变动 江绵恒贬职 专家：习近平接下来还有更大动作</a></li>
-<li><a href="/baitai/20240607/2046992.md">无人可用？中共前证监会主席易会满新职曝光 网络炸锅</a></li>
 <li><a href="/yule/20240607/2047065.md">著名导演张纪中，判了</a></li>
+<li><a href="/baitai/20240607/2046992.md">无人可用？中共前证监会主席易会满新职曝光 网络炸锅</a></li>
 <li><a href="/cbnews/20240607/2046912.md">云南多家医院提供男性“根浴”服务 结果…</a></li>
 <li><a href="/cbnews/20240607/2047125.md">恒大歌舞团白珊珊穿高叉跳激情“18蹲”? 网友惊呆…</a></li>
 <li><a href="/cbnews/20240607/2046884.md">〖红朝浮世绘〗“已经完成两届任期”什么意思？江绵恒这是在讽刺习总的三连任吗？</a></li>
@@ -24,8 +24,8 @@
 <li><a href="/comments/20240607/2047062.md">再现相同天象！中国将重回1964？！2024-2025中国文革再现？阿南德发现奇特规律？！4月的两场异象昭示人类的未来？6月精心密谋的事件会出现？｜未解之谜 扶摇</a></li>
 <li><a href="/cnnews/20240607/2046950.md">高考，终于成了弃妇</a></li>
 <li><a href="/topimagenews/20240607/2047099.md">陆17岁少女“神似”87版林黛玉 惊人巧合曝光</a></li>
+<li><a href="/baitai/20240608/2047176.md">王毅将卸任外长？ 华春莹升迁 谁来填空？</a></li>
 <li><a href="/topimagenews/20240607/2047052.md">杀官泄愤成风潮！武汉派出所长、山西政协主席被杀 官营共享电动车也被破坏</a></li>
-<li><a href="/cbnews/20240607/2046909.md">这场面招架不住…济南这个景点，太瘆人了</a></li>
 <li><a href="/cnnews/20240607/2046940.md">又是傅晓田！害惨秦刚还不够? 这人也因她被拉下马…..</a></li>
 <li><a href="/sohnews/20240607/2046904.md">赵小兰赵锡成到北京，韩正求他们办个事！习近平有点怕了，跟俄罗斯关系，正在微妙变化；张晓明被一撸到底！离开政协，秦刚第二？中共党媒自揭短，体制“刀子”钝了；军队落马官员，跟江家关系深？｜大宇拍案惊奇</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -97,6 +97,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240608/2047318.md" target="_blank">陈奎德：六四：穿越代际 穿越左右 定义中国</a></li>
+<li><a href="/comments/20240608/2047317.md" target="_blank">陈奎德 曹旭云：穿越三十五年的六四屠杀</a></li>
+<li><a href="/comments/20240608/2047316.md" target="_blank">林保华：一人游行5名警察监控 国安阴影下香港的乱套</a></li>
+<li><a href="/comments/20240608/2047315.md" target="_blank">九世贫农普京</a></li>
 <li><a href="/comments/20240608/2047303.md" target="_blank">川普硅谷募了1200万 时代周刊的拜登专访</a></li>
 <li><a href="/comments/20240608/2047291.md" target="_blank">文昭：这张图传疯了！王沪宁抛出三个字，揭晓了你关心的一切；中国富人大逃亡</a></li>
 <li><a href="/comments/20240608/2047279.md" target="_blank">【影视星闻】《庆余年2》五爹联盟的开挂人生 古今中外的烂梗大全？清华教授劳东燕评《庆余年2》：成年人的当代童话</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20240607/2047062.md" target="_blank">再现相同天象！中国将重回1964？！2024-2025中国文革再现？阿南德发现奇特规律？！4月的两场异象昭示人类的未来？6月精心密谋的事件会出现？｜未解之谜 扶摇</a></li>
 <li><a href="/comments/20240607/2047060.md" target="_blank">好绝，中国网民对国际关系有自己的一套思考逻辑</a></li>
 <li><a href="/comments/20240607/2046948.md" target="_blank">D日专文：为什么纪念诺曼底登陆？</a></li>
-<li><a href="/comments/20240607/2046935.md" target="_blank">汤名晖：彭丽媛外交的政治目的，会越来越清晰</a></li>
-<li><a href="/comments/20240607/2046923.md" target="_blank">【燕铭通告】《燕铭时评独家重磅会员文章限时免费开放》第1期 2024-06-07</a></li>
-<li><a href="/comments/20240607/2046895.md" target="_blank">陶逸骏：回不去的1980年代？“中国民主化条件”的溃散与新生</a></li>
-<li><a href="/comments/20240607/2046894.md" target="_blank">野人：闲聊“8964”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20240418/2026391.md" target="_blank">医生劝我妻子放弃，似乎这些医生热衷让病人快点去死？</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
-<li><a href="/comments/20231203/1969183.md" target="_blank">开盖冲马桶 ，细菌会乱飞？除非你家马桶是喷泉！</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/comments/20240412/2024185.md" target="_blank">是治疗还是屠杀?化疗药品滴一滴在皮肤即灼伤，很长时间才好</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
 <li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
 
 </ul>
 </div>
