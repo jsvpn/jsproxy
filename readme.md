@@ -14,8 +14,8 @@
 <li><a href="/comments/20240608/2047291.md">文昭：这张图传疯了！王沪宁抛出三个字，揭晓了你关心的一切；中国富人大逃亡</a></li>
 <li><a href="/cbnews/20240608/2047233.md">美一大动作绝了习美梦？中共跳脚</a></li>
 <li><a href="/baitai/20240608/2047536.md">三中全会后或有更多红二代遭殃 习为开战做准备</a></li>
-<li><a href="/lifebaike/20240608/2047458.md">发现没？人品差的人，开口闭口都是这“三句话”，实在太准了</a></li>
 <li><a href="/topimagenews/20240608/2047447.md">厮杀惨烈！吉利汽车董座爆猛料</a></li>
+<li><a href="/lifebaike/20240608/2047458.md">发现没？人品差的人，开口闭口都是这“三句话”，实在太准了</a></li>
 <li><a href="/finance/20240608/2047406.md">中国在此已经全线崩溃 甚至“全军覆没”了</a></li>
 <li><a href="/topimagenews/20240608/2047404.md">普京罕见承认 俄兵伤亡惨重</a></li>
 <li><a href="/sohnews/20240608/2047450.md">突发：山西考生上街抗议游行，胡春华王沪宁赵乐际都危在旦夕，习近平正在培养家人接班。《老灯开讲第579期》</a></li>
@@ -26,7 +26,7 @@
 <li><a href="/topimagenews/20240608/2047231.md">惊人：小米SU7失控？“人都被压爆了” 中国电动车赔付率近100%</a></li>
 <li><a href="/topimagenews/20240608/2047293.md">重大变化！俄罗斯收款新增中国四大行</a></li>
 <li><a href="/cbnews/20240608/2047529.md">到处都在抗议、维权! 到处烂尾楼、投资也暴雷 中国大批警力镇压维稳</a></li>
-<li><a href="/baitai/20240608/2047204.md">移民末班车？中国中产家庭生怕错过机会</a></li>
+<li><a href="/cbnews/20240608/2047507.md">中国女子拒男上司性骚扰 爆已有2名女同事被睡</a></li>
 <li><a href="/baitai/20240608/2047471.md">一次“欣快感”，终身悔痛恨</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240609/2047594.md" target="_blank">英伟达濒临倒闭时获救 黄仁勋与恩人的故事</a></li>
 <li><a href="/cbnews/20240608/2047529.md" target="_blank">到处都在抗议、维权! 到处烂尾楼、投资也暴雷 中国大批警力镇压维稳</a></li>
 <li><a href="/cbnews/20240608/2047509.md" target="_blank">惨！京昆高速运猪车撞桥墩 遍地都是生猪尸体</a></li>
 <li><a href="/cbnews/20240608/2047508.md" target="_blank">中国多地现高温天气 部分地区可达40℃以上</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20240608/2047257.md" target="_blank">2027台海之战？传中共对台作战计划分三步｜姚诚 方菲 ｜烽火台06/07</a></li>
 <li><a href="/cbnews/20240608/2047243.md" target="_blank">崩溃！山西著名景区女厕装读秒计时器</a></li>
 <li><a href="/cbnews/20240608/2047242.md" target="_blank">高考首日 新课标作文题被吐槽 海南未发条形码</a></li>
-<li><a href="/cbnews/20240608/2047233.md" target="_blank">美一大动作绝了习美梦？中共跳脚</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
 <li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/taiwannews/20210119/1470761.md" target="_blank">独家：震撼纪录片《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
 
 </ul>
 </div>
