@@ -6,18 +6,17 @@
 <ul>
 
 <li><a href="/yule/20240607/2047065.md">著名导演张纪中，判了</a></li>
-<li><a href="/topimagenews/20240607/2047034.md">怒喊“来世不愿当人”！ 传前《央视》女主播疑拒“潜规则”被除名</a></li>
 <li><a href="/baitai/20240607/2047033.md">传言成真？三中全会前夕人事变动 江绵恒贬职 专家：习近平接下来还有更大动作</a></li>
+<li><a href="/topimagenews/20240607/2047034.md">怒喊“来世不愿当人”！ 传前《央视》女主播疑拒“潜规则”被除名</a></li>
 <li><a href="/cbnews/20240607/2047125.md">恒大歌舞团白珊珊穿高叉跳激情“18蹲”? 网友惊呆…</a></li>
 <li><a href="/baitai/20240607/2046992.md">无人可用？中共前证监会主席易会满新职曝光 网络炸锅</a></li>
-<li><a href="/ccpdope/20240607/2046982.md">东莞彻底完了！无数打工人永远的痛</a></li>
 <li><a href="/cnnews/20240607/2047063.md">湖南富豪修建奢华庄园选妃 睡觉翻牌 生1儿200万</a></li>
 <li><a href="/topimagenews/20240608/2047295.md">普京已经不要脸了 消息传出 大家都惊呆了</a></li>
 <li><a href="/health/20240607/2046985.md">正大量上市！叶酸是黄瓜46倍，50岁后使劲吃，补钾降压难痴呆</a></li>
-<li><a href="/topimagenews/20240608/2047268.md">中国软件行业几乎全军覆没</a></li>
-<li><a href="/topimagenews/20240608/2047215.md">让百姓的钱一文不值！中共偷偷干这事;习近平“变脸”毁掉他们，新的动荡正在蔓延</a></li>
-<li><a href="/topimagenews/20240607/2047084.md">停产、停工、裁员…曝中国新能源巨头现况超惨</a></li>
 <li><a href="/topimagenews/20240608/2047334.md">《坐江山》当今中国最神秘的一幅油画 传巴菲特2亿购买被拒</a></li>
+<li><a href="/topimagenews/20240608/2047268.md">中国软件行业几乎全军覆没</a></li>
+<li><a href="/topimagenews/20240607/2047084.md">停产、停工、裁员…曝中国新能源巨头现况超惨</a></li>
+<li><a href="/topimagenews/20240608/2047215.md">让百姓的钱一文不值！中共偷偷干这事;习近平“变脸”毁掉他们，新的动荡正在蔓延</a></li>
 <li><a href="/cnnews/20240608/2047244.md">捅破天！华为副总裁惊爆深层内幕</a></li>
 <li><a href="/cbnews/20240607/2047035.md">三中全会将改弦易辙？蔡慎坤：不长记性</a></li>
 <li><a href="/sohnews/20240608/2047196.md">习近平有了自己的“东厂”｜习近平中共</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/comments/20240608/2047291.md">文昭：这张图传疯了！王沪宁抛出三个字，揭晓了你关心的一切；中国富人大逃亡</a></li>
 <li><a href="/topimagenews/20240607/2047099.md">陆17岁少女“神似”87版林黛玉 惊人巧合曝光</a></li>
 <li><a href="/topimagenews/20240608/2047231.md">惊人：小米SU7失控？“人都被压爆了” 中国电动车赔付率近100%</a></li>
+<li><a href="/baitai/20240608/2047204.md">移民末班车？中国中产家庭生怕错过机会</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/taiwannews/20210119/1470524.md" target="_blank">纪录片《蚕食美国1》</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20231214/1974098.md" target="_blank">美国众议院议长：我所坚守的保守主义，具体是些什么内容？</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20240318/2014289.md" target="_blank">唐柏桥：民运同仁突然向法轮功开火是怎么回事？</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
 
 </ul>
 </div>
