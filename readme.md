@@ -12,7 +12,6 @@
 <li><a href="/cbnews/20240607/2047125.md">恒大歌舞团白珊珊穿高叉跳激情“18蹲”? 网友惊呆…</a></li>
 <li><a href="/ccpdope/20240607/2046982.md">东莞彻底完了！无数打工人永远的痛</a></li>
 <li><a href="/cnnews/20240607/2047063.md">湖南富豪修建奢华庄园选妃 睡觉翻牌 生1儿200万</a></li>
-<li><a href="/cbnews/20240607/2046927.md">“她叫裴洛西、他叫黄仁勋”中国网友自嘲：两个美国人专治吹牛逼</a></li>
 <li><a href="/topimagenews/20240608/2047295.md">普京已经不要脸了 消息传出 大家都惊呆了</a></li>
 <li><a href="/topimagenews/20240608/2047215.md">让百姓的钱一文不值！中共偷偷干这事;习近平“变脸”毁掉他们，新的动荡正在蔓延</a></li>
 <li><a href="/health/20240607/2046985.md">正大量上市！叶酸是黄瓜46倍，50岁后使劲吃，补钾降压难痴呆</a></li>
@@ -21,13 +20,14 @@
 <li><a href="/sohnews/20240608/2047196.md">习近平有了自己的“东厂”｜习近平中共</a></li>
 <li><a href="/topimagenews/20240607/2047084.md">停产、停工、裁员…曝中国新能源巨头现况超惨</a></li>
 <li><a href="/cbnews/20240607/2047035.md">三中全会将改弦易辙？蔡慎坤：不长记性</a></li>
-<li><a href="/comments/20240607/2047062.md">再现相同天象！中国将重回1964？！2024-2025中国文革再现？阿南德发现奇特规律？！4月的两场异象昭示人类的未来？6月精心密谋的事件会出现？｜未解之谜 扶摇</a></li>
 <li><a href="/baitai/20240608/2047176.md">王毅将卸任外长？ 华春莹升迁 谁来填空？</a></li>
-<li><a href="/cnnews/20240607/2046950.md">高考，终于成了弃妇</a></li>
-<li><a href="/cbnews/20240608/2047233.md">美一大动作绝了习美梦？中共跳脚</a></li>
-<li><a href="/topimagenews/20240608/2047241.md">今年应届生就业市场有多惨？最后一条没想到</a></li>
+<li><a href="/comments/20240607/2047062.md">再现相同天象！中国将重回1964？！2024-2025中国文革再现？阿南德发现奇特规律？！4月的两场异象昭示人类的未来？6月精心密谋的事件会出现？｜未解之谜 扶摇</a></li>
 <li><a href="/topimagenews/20240608/2047334.md">《坐江山》当今中国最神秘的一幅油画 传巴菲特2亿购买被拒</a></li>
+<li><a href="/cbnews/20240608/2047233.md">美一大动作绝了习美梦？中共跳脚</a></li>
+<li><a href="/cnnews/20240607/2046950.md">高考，终于成了弃妇</a></li>
+<li><a href="/topimagenews/20240608/2047241.md">今年应届生就业市场有多惨？最后一条没想到</a></li>
 <li><a href="/topimagenews/20240607/2047099.md">陆17岁少女“神似”87版林黛玉 惊人巧合曝光</a></li>
+<li><a href="/topimagenews/20240608/2047231.md">惊人：小米SU7失控？“人都被压爆了” 中国电动车赔付率近100%</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
-<li><a href="/topimagenews/20180608/954788.md" target="_blank">安乐死根本安乐不了，别宣传了</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/aomi/life/20240330/2018911.md" target="_blank">挪威青年这样走出重度失眠和抑郁煎熬</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
 
 </ul>
 </div>
