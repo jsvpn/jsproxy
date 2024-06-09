@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/comments/20240609/2047630.md">党官内部训话流出：别拿韭菜当人</a></li>
 <li><a href="/topimagenews/20240609/2047721.md">秦刚等癖好分享一个女人？习不如此难平心中那口鸟气</a></li>
 <li><a href="/topimagenews/20240609/2047660.md">后悔都来不及！中国这7种房将沦为“穷人房”，难卖还难住</a></li>
 <li><a href="/topimagenews/20240609/2047633.md">聊聊怎么合法的把资金转出境</a></li>
@@ -13,18 +12,19 @@
 <li><a href="/cbnews/20240609/2047662.md">残暴！知情人：中共为抓捕一人竟消灭一村人</a></li>
 <li><a href="/topimagenews/20240609/2047723.md">大陆疯传！反党短视频“羊撞墙”</a></li>
 <li><a href="/cbnews/20240609/2047780.md">中共三中全会前 北京卫戍区政委换人</a></li>
-<li><a href="/baitai/20240609/2047833.md">中共收紧官员出境 5个月上千银行分支关门</a></li>
 <li><a href="/topimagenews/20240609/2047682.md">习重大战略受阻 惊爆：美政府的铁与血 华为背后查不到的秘密</a></li>
+<li><a href="/baitai/20240609/2047833.md">中共收紧官员出境 5个月上千银行分支关门</a></li>
 <li><a href="/topimagenews/20240609/2047722.md">再这样下去，中国房地产真要爆发系统性风险了</a></li>
 <li><a href="/yule/20240609/2047642.md">二度重摔！56岁那英在饭店重摔脸朝下 粉丝追赶画面曝光</a></li>
 <li><a href="/topimagenews/20240609/2047695.md">致命错误！央行大印钞后大撒手 中国经济陷“囚徒困境”</a></li>
-<li><a href="/health/20240609/2047789.md">肠道里长了息肉，上厕所时会有3个提示，别等到晚期，才反应过来</a></li>
 <li><a href="/comments/20240609/2047639.md">张俊华：北京即将迎来一位新生的强有力助手？</a></li>
+<li><a href="/health/20240609/2047789.md">肠道里长了息肉，上厕所时会有3个提示，别等到晚期，才反应过来</a></li>
 <li><a href="/cbnews/20240609/2047744.md">女孩头戴“日本必胜”布条与中国游客冲突倒地</a></li>
 <li><a href="/cnnews/20240609/2047703.md">全网疯传图片：终将掩盖不住的惊人现实</a></li>
 <li><a href="/topimagenews/20240609/2047661.md">震惊！这一切竟是中共局主导 “粉红”退党抗共</a></li>
 <li><a href="/health/20240609/2047791.md">每天坚持吃鸡蛋的人，和不吃鸡蛋的人，这4个差距或比较明显</a></li>
 <li><a href="/baitai/20240609/2047799.md">忠告泽连斯基的徐将军，请回答我的灵魂六问</a></li>
+<li><a href="/sohnews/20240609/2047857.md">🔥🔥全网疯传图片：终将掩盖不住的惊人现实；殷桃前夫案：曝华为行贿方式最隐蔽 给儿子这样做；一周之内，中国各大金融机构接连被暴击；当心了！在海外生活六个月以上的中国人【阿波罗网NO】</a></li>
 <li><a href="/cnnews/20240609/2047669.md">一篇短文，虽只字未提“张维为” 却把他揭了个老底朝天</a></li>
 <li><a href="/yule/20240609/2047784.md">结婚不到1个月 赵本山女婿就像做贼一样…</a></li>
 <li><a href="/baitai/20240609/2047800.md">松绑后的乌克兰能不能一举打垮俄罗斯？</a></li>
@@ -35,6 +35,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240610/2047935.md" target="_blank">躲避文革大逃港 幸存者拜祭三百遇难知青</a></li>
+<li><a href="/cbnews/20240610/2047934.md" target="_blank">菲律宾怒斥中共“荒唐无稽”</a></li>
+<li><a href="/cbnews/20240610/2047933.md" target="_blank">护照被扣还是没钱？大陆出境游人数剧降引猜测</a></li>
 <li><a href="/cbnews/20240610/2047918.md" target="_blank">内部消息：鼓动习去找死！红二代内部正在酝酿计划…</a></li>
 <li><a href="/cbnews/20240610/2047914.md" target="_blank">江峰：习近平打台湾两难，为何不选“不打”呢</a></li>
 <li><a href="/cbnews/20240610/2047904.md" target="_blank">拥有F-35战机最多的十个国家 第二名出人意料</a></li>
@@ -57,9 +60,6 @@
 <li><a href="/cbnews/20240608/2047529.md" target="_blank">到处都在抗议、维权! 到处烂尾楼、投资也暴雷 中国大批警力镇压维稳</a></li>
 <li><a href="/cbnews/20240608/2047509.md" target="_blank">惨！京昆高速运猪车撞桥墩 遍地都是生猪尸体</a></li>
 <li><a href="/cbnews/20240608/2047508.md" target="_blank">中国多地现高温天气 部分地区可达40℃以上</a></li>
-<li><a href="/cbnews/20240608/2047507.md" target="_blank">中国女子拒男上司性骚扰 爆已有2名女同事被睡</a></li>
-<li><a href="/comments/20240608/2047486.md" target="_blank">对待俄乌战争，川普和拜登的策略完全不同</a></li>
-<li><a href="/cbnews/20240608/2047448.md" target="_blank">家庭反腐 大陆女实名举报前公公有巨额不明财产</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
-<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/aomi/life/20240330/2018911.md" target="_blank">挪威青年这样走出重度失眠和抑郁煎熬</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/cnnews/20221211/1822144.md" target="_blank">盖盖冲马桶很可怕！瞬间“病毒炸开”？</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
 <li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/sohnews/20160119/493472.md" target="_blank">无效的医疗：手术刀下的谎言和药瓶里的欺骗</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
 
 </ul>
 </div>
