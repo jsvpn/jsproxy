@@ -6,28 +6,28 @@
 <ul>
 
 <li><a href="/topimagenews/20240608/2047295.md">普京已经不要脸了 消息传出 大家都惊呆了</a></li>
-<li><a href="/topimagenews/20240608/2047268.md">中国软件行业几乎全军覆没</a></li>
 <li><a href="/topimagenews/20240608/2047334.md">《坐江山》当今中国最神秘的一幅油画 传巴菲特2亿购买被拒</a></li>
 <li><a href="/comments/20240608/2047291.md">文昭：这张图传疯了！王沪宁抛出三个字，揭晓了你关心的一切；中国富人大逃亡</a></li>
 <li><a href="/lifebaike/20240608/2047458.md">发现没？人品差的人，开口闭口都是这“三句话”，实在太准了</a></li>
 <li><a href="/baitai/20240608/2047536.md">三中全会后或有更多红二代遭殃 习为开战做准备</a></li>
-<li><a href="/topimagenews/20240608/2047447.md">厮杀惨烈！吉利汽车董座爆猛料</a></li>
 <li><a href="/finance/20240608/2047406.md">中国在此已经全线崩溃 甚至“全军覆没”了</a></li>
-<li><a href="/topimagenews/20240608/2047404.md">普京罕见承认 俄兵伤亡惨重</a></li>
+<li><a href="/topimagenews/20240608/2047447.md">厮杀惨烈！吉利汽车董座爆猛料</a></li>
 <li><a href="/sohnews/20240608/2047450.md">突发：山西考生上街抗议游行，胡春华王沪宁赵乐际都危在旦夕，习近平正在培养家人接班。《老灯开讲第579期》</a></li>
+<li><a href="/topimagenews/20240608/2047404.md">普京罕见承认 俄兵伤亡惨重</a></li>
 <li><a href="/cnnews/20240608/2047425.md">高考前一天，他三小时进账2个亿</a></li>
 <li><a href="/cbnews/20240608/2047413.md">一场传染病已跨过长江逼向黄河 传往中国北方</a></li>
 <li><a href="/cbnews/20240608/2047347.md">〖红朝浮世绘〗中共持续打压台湾 竟然被黄仁勋化解</a></li>
-<li><a href="/cbnews/20240608/2047270.md">坐等天下大变 体制内对中共不满如地火奔行</a></li>
 <li><a href="/cbnews/20240608/2047529.md">到处都在抗议、维权! 到处烂尾楼、投资也暴雷 中国大批警力镇压维稳</a></li>
 <li><a href="/topimagenews/20240608/2047293.md">重大变化！俄罗斯收款新增中国四大行</a></li>
 <li><a href="/cbnews/20240608/2047507.md">中国女子拒男上司性骚扰 爆已有2名女同事被睡</a></li>
 <li><a href="/baitai/20240608/2047471.md">一次“欣快感”，终身悔痛恨</a></li>
 <li><a href="/topimagenews/20240609/2047581.md">以军如神兵天降！以中混血女孩儿Noa等4人质获救</a></li>
+<li><a href="/cbnews/20240608/2047414.md">董军战争动员、组建战情班子…台海明年开打？</a></li>
 <li><a href="/finance/20240608/2047449.md">中国经济濒临崩溃 拜登绝非瞎说</a></li>
 <li><a href="/topimagenews/20240608/2047292.md">可怕！一趟短期中国行，他被全身脱光、抽血拘留…</a></li>
-<li><a href="/cbnews/20240608/2047414.md">董军战争动员、组建战情班子…台海明年开打？</a></li>
 <li><a href="/cbnews/20240608/2047448.md">家庭反腐 大陆女实名举报前公公有巨额不明财产</a></li>
+<li><a href="/funmedia/20240608/2047510.md">奢华邮轮 怎么成了“海上农家乐”</a></li>
+<li><a href="/cbnews/20240608/2047403.md">江峰：不服！江绵恒校长职务被撸，反讽习近平“70後”不让位；沪官员密集清洗，看三中全会重大政治走向；中共官员限制出境；诺曼底纪念，历史盟友成敌人，普京人给习近平的教训【江峰漫谈20240607第882期】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240609/2047633.md" target="_blank">聊聊怎么合法的把资金转出境</a></li>
 <li><a href="/topimagenews/20240609/2047616.md" target="_blank">习近平给普京当头一棒</a></li>
 <li><a href="/topimagenews/20240609/2047615.md" target="_blank">骂习近平赖着不走？江绵恒放话？最火热议【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240609/2047608.md" target="_blank">范冰冰沦洗钱工具！背后红色权贵常委浮出 打入百亿名媛圈现奢华【阿波罗网报道】</a></li>
@@ -90,13 +91,17 @@
 <li><a href="/topimagenews/20240607/2047124.md" target="_blank">点名中国 川普：胜选将对非法移民来源国征关税</a></li>
 <li><a href="/topimagenews/20240607/2047123.md" target="_blank">财经网美揭华为挖角台积电内幕 有非常多人阻止中共黑手</a></li>
 <li><a href="/topimagenews/20240607/2047099.md" target="_blank">陆17岁少女“神似”87版林黛玉 惊人巧合曝光</a></li>
-<li><a href="/topimagenews/20240607/2047098.md" target="_blank">放任移民赴美“中国也被点名” 川普扬言课税</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240609/2047639.md" target="_blank">张俊华：北京即将迎来一位新生的强有力助手？</a></li>
+<li><a href="/comments/20240609/2047638.md" target="_blank">掸封尘：揭秘中共体制内的“铁公鸡食堂”</a></li>
+<li><a href="/comments/20240609/2047637.md" target="_blank">袁斌：若中共入侵，美国会出兵保护台湾吗？</a></li>
+<li><a href="/comments/20240609/2047636.md" target="_blank">谢田：中国汽车业学日韩 难以取得成功</a></li>
+<li><a href="/comments/20240609/2047635.md" target="_blank">网海拾贝:永远不能原谅中共，更不可与他们和解</a></li>
 <li><a href="/comments/20240609/2047630.md" target="_blank">党官内部训话流出：别拿韭菜当人</a></li>
 <li><a href="/comments/20240609/2047622.md" target="_blank">法官突然致函川普律师，封口费案审判将无效？川普告诉菲尔博士，为何没有追查希拉里。惊叹！川普旧金山筹款1200万。川普封口费案菲尔博士</a></li>
 <li><a href="/comments/20240608/2047548.md" target="_blank">天亮时分：环台军演曝光中共软肋</a></li>
@@ -117,11 +122,6 @@
 <li><a href="/comments/20240608/2047315.md" target="_blank">九世贫农普京</a></li>
 <li><a href="/comments/20240608/2047303.md" target="_blank">川普硅谷募了1200万 时代周刊的拜登专访</a></li>
 <li><a href="/comments/20240608/2047291.md" target="_blank">文昭：这张图传疯了！王沪宁抛出三个字，揭晓了你关心的一切；中国富人大逃亡</a></li>
-<li><a href="/comments/20240608/2047279.md" target="_blank">【影视星闻】《庆余年2》五爹联盟的开挂人生 古今中外的烂梗大全？清华教授劳东燕评《庆余年2》：成年人的当代童话</a></li>
-<li><a href="/comments/20240608/2047265.md" target="_blank">围台锁岛？ 痴人说梦｜兵家常事</a></li>
-<li><a href="/comments/20240608/2047257.md" target="_blank">2027台海之战？传中共对台作战计划分三步｜姚诚 方菲 ｜烽火台06/07</a></li>
-<li><a href="/comments/20240608/2047239.md" target="_blank">天亮时分：拜登嘲弄习处境艰难</a></li>
-<li><a href="/comments/20240608/2047234.md" target="_blank">毛孔悚然的人间惨剧 亳县人吃人实例</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/cbnews/20240603/2045072.md" target="_blank">漫谈古代科举之八股文</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
 <li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/sohnews/20160119/493472.md" target="_blank">无效的医疗：手术刀下的谎言和药瓶里的欺骗</a></li>
-<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
 <li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20240412/2024185.md" target="_blank">是治疗还是屠杀?化疗药品滴一滴在皮肤即灼伤，很长时间才好</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
 
 </ul>
 </div>
