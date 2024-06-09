@@ -8,23 +8,23 @@
 <li><a href="/baitai/20240608/2047536.md">三中全会后或有更多红二代遭殃 习为开战做准备</a></li>
 <li><a href="/topimagenews/20240609/2047616.md">习近平给普京当头一棒</a></li>
 <li><a href="/cbnews/20240608/2047529.md">到处都在抗议、维权! 到处烂尾楼、投资也暴雷 中国大批警力镇压维稳</a></li>
-<li><a href="/cbnews/20240608/2047507.md">中国女子拒男上司性骚扰 爆已有2名女同事被睡</a></li>
 <li><a href="/topimagenews/20240609/2047608.md">范冰冰沦洗钱工具！背后红色权贵常委浮出 打入百亿名媛圈现奢华【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20240608/2047507.md">中国女子拒男上司性骚扰 爆已有2名女同事被睡</a></li>
 <li><a href="/comments/20240609/2047630.md">党官内部训话流出：别拿韭菜当人</a></li>
 <li><a href="/baitai/20240608/2047471.md">一次“欣快感”，终身悔痛恨</a></li>
 <li><a href="/topimagenews/20240609/2047581.md">以军如神兵天降！以中混血女孩儿Noa等4人质获救</a></li>
+<li><a href="/topimagenews/20240609/2047721.md">秦刚等癖好分享一个女人？习不如此难平心中那口鸟气</a></li>
 <li><a href="/topimagenews/20240609/2047633.md">聊聊怎么合法的把资金转出境</a></li>
 <li><a href="/topimagenews/20240609/2047660.md">后悔都来不及！中国这7种房将沦为“穷人房”，难卖还难住</a></li>
-<li><a href="/topimagenews/20240609/2047721.md">秦刚等癖好分享一个女人？习不如此难平心中那口鸟气</a></li>
 <li><a href="/topimagenews/20240609/2047615.md">骂习近平赖着不走？江绵恒放话？最火热议【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240609/2047606.md">北京跳脚！美最新大动作 5大打击太狠</a></li>
+<li><a href="/topimagenews/20240609/2047724.md">鹤岗化的房子 正在包围北上广深</a></li>
 <li><a href="/funmedia/20240608/2047510.md">奢华邮轮 怎么成了“海上农家乐”</a></li>
 <li><a href="/topimagenews/20240609/2047682.md">习重大战略受阻 惊爆：美政府的铁与血 华为背后查不到的秘密</a></li>
 <li><a href="/topimagenews/20240609/2047607.md">卖了习 普京授意！？俄国家电视台说中共是敌泄露重大秘密【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20240609/2047662.md">残暴！知情人：中共为抓捕一人竟消灭一村人</a></li>
-<li><a href="/topimagenews/20240609/2047724.md">鹤岗化的房子 正在包围北上广深</a></li>
-<li><a href="/cnnews/20240608/2047516.md">出口转内销！中国高考被大钻漏洞 弄个外国籍就可轻松上清华、北大</a></li>
 <li><a href="/yule/20240609/2047642.md">二度重摔！56岁那英在饭店重摔脸朝下 粉丝追赶画面曝光</a></li>
+<li><a href="/cnnews/20240608/2047516.md">出口转内销！中国高考被大钻漏洞 弄个外国籍就可轻松上清华、北大</a></li>
 <li><a href="/comments/20240609/2047639.md">张俊华：北京即将迎来一位新生的强有力助手？</a></li>
 <li><a href="/cnnews/20240608/2047533.md">惨到妈妈带幼儿跳桥! 多地上演惨剧 中国紧急上铁围栏 网讥 : 要不要通电?</a></li>
 <li><a href="/comments/20240608/2047486.md">对待俄乌战争，川普和拜登的策略完全不同</a></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240609/2047804.md" target="_blank">川普怎么解决34亿美元的钜额国债？</a></li>
 <li><a href="/cbnews/20240609/2047780.md" target="_blank">中共三中全会前 北京卫戍区政委换人</a></li>
 <li><a href="/cbnews/20240609/2047744.md" target="_blank">女孩头戴“日本必胜”布条与中国游客冲突倒地</a></li>
 <li><a href="/comments/20240609/2047693.md" target="_blank">【杰森视角】川普封口费案的判决从实到虚只需一瞬间？中美竞争唯一主战场：芯片制造！为何中芯国际的一条芯片生产线极具战略意义？什么是合天理的治国之道？中国的“国际领先水平”是如何炼成的？</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240608/2047403.md" target="_blank">江峰：不服！江绵恒校长职务被撸，反讽习近平“70後”不让位；沪官员密集清洗，看三中全会重大政治走向；中共官员限制出境；诺曼底纪念，历史盟友成敌人，普京人给习近平的教训【江峰漫谈20240607第882期】</a></li>
 <li><a href="/cbnews/20240608/2047381.md" target="_blank">白宫：威慑中俄 必要时美会增加战略核武部署</a></li>
 <li><a href="/cbnews/20240608/2047380.md" target="_blank">中国疫情持续蔓延 “优秀党员”接连病亡</a></li>
-<li><a href="/cbnews/20240608/2047350.md" target="_blank">中国通过格鲁吉亚进军黑海</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240609/2047804.md" target="_blank">川普怎么解决34亿美元的钜额国债？</a></li>
 <li><a href="/comments/20240609/2047714.md" target="_blank">陈奎德：对六四殉难者的第二次软刀谋杀</a></li>
 <li><a href="/comments/20240609/2047713.md" target="_blank">项栋梁：高考零分作文：坦诚交流不是想不想，而是能不能的问题</a></li>
 <li><a href="/comments/20240609/2047701.md" target="_blank">404：网传某省立医院内，一座18层的楼，有7层都是干部病房</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240608/2047525.md" target="_blank">新浪财经向黄仁勳道歉</a></li>
 <li><a href="/comments/20240608/2047501.md" target="_blank">袁红冰：《唯美之灵》 第四卷 拉萨夜雨淋湿佛之恋（第二部分）</a></li>
 <li><a href="/comments/20240608/2047500.md" target="_blank">渖涧松：她那年十九岁（连载三十九）</a></li>
-<li><a href="/comments/20240608/2047486.md" target="_blank">对待俄乌战争，川普和拜登的策略完全不同</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
 <li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/topimagenews/20240511/2035423.md" target="_blank">原北京学员回忆李洪志先生在东方健康博览会上所行的奇迹</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
 <li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
+<li><a href="/comments/20231207/1970628.md" target="_blank">民兵对官军，希望之声打造广播界的奇蹟【方伟时间-20231206】</a></li>
 
 </ul>
 </div>
