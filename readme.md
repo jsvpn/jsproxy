@@ -17,17 +17,17 @@
 <li><a href="/baitai/20240609/2047799.md">忠告泽连斯基的徐将军，请回答我的灵魂六问</a></li>
 <li><a href="/sohnews/20240609/2047857.md">🔥🔥全网疯传图片：终将掩盖不住的惊人现实；殷桃前夫案：曝华为行贿方式最隐蔽 给儿子这样做；一周之内，中国各大金融机构接连被暴击；当心了！在海外生活六个月以上的中国人【阿波罗网NO】</a></li>
 <li><a href="/health/20240609/2047791.md">每天坚持吃鸡蛋的人，和不吃鸡蛋的人，这4个差距或比较明显</a></li>
-<li><a href="/sohnews/20240609/2047819.md">这个社会太卷了</a></li>
-<li><a href="/yule/20240609/2047784.md">结婚不到1个月 赵本山女婿就像做贼一样…</a></li>
 <li><a href="/baitai/20240609/2047800.md">松绑后的乌克兰能不能一举打垮俄罗斯？</a></li>
 <li><a href="/topimagenews/20240610/2047903.md">中国软件行业几乎全军覆没!!!今年应届生就业有多惨？最后一条万没想到【阿波罗网报道】</a></li>
+<li><a href="/sohnews/20240609/2047819.md">这个社会太卷了</a></li>
+<li><a href="/yule/20240609/2047784.md">结婚不到1个月 赵本山女婿就像做贼一样…</a></li>
 <li><a href="/cnnews/hknews/20240609/2047732.md">盛赞“台湾为重要国家”中媒要他给交代 黄仁勋回应了</a></li>
 <li><a href="/lifebaike/20240609/2047795.md">明日端午节，别只会说安康了，20句端午祝福佳句收藏好，不俗套</a></li>
 <li><a href="/cbnews/20240610/2047904.md">拥有F-35战机最多的十个国家 第二名出人意料</a></li>
 <li><a href="/baitai/20240610/2047889.md">敏感时刻 北京卫戍区高层换将引关注</a></li>
 <li><a href="/sohnews/20240609/2047743.md">中国经济最后一道防线失守!八亿人等死  揭露中国・养老金黑洞 退休大危机!</a></li>
-<li><a href="/sohnews/20240609/2047827.md">不想掉发改掉4个习惯 掉发脱发热水</a></li>
-<li><a href="/sohnews/20240609/2047824.md">陈破空：惊传大多数官员遭边控！不得出境。央视美女主播：来生不愿为人！最大规模高考，最惨烈竞争！港人不唱国歌，李家超乱抓人。直播：美东时间6月9日早9点、中港台当晚9点</a></li>
+<li><a href="/baitai/20240610/2047911.md">习近平与中国经济</a></li>
+<li><a href="/topimagenews/20240610/2047945.md">习近平惨输给赖清德 莫迪晾习整整3天</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240610/2048030.md" target="_blank">〖红朝浮世绘〗这就是中共跟哈马斯交好的后果：中共把中国的年轻人带歪了</a></li>
 <li><a href="/cbnews/20240610/2048024.md" target="_blank">哈尔滨居民区再传爆炸 汽车被炸变形 惨不忍睹</a></li>
 <li><a href="/comments/20240610/2048015.md" target="_blank">美国记者还原拍摄“坦克人”惊险一幕。克林顿养大中共，培养出自己最大的对手。六四坦克人克林顿</a></li>
 <li><a href="/cbnews/20240610/2048007.md" target="_blank">沈舟：80年前的诺曼底登陆 中共现仍做不到</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20240609/2047693.md" target="_blank">【杰森视角】川普封口费案的判决从实到虚只需一瞬间？中美竞争唯一主战场：芯片制造！为何中芯国际的一条芯片生产线极具战略意义？什么是合天理的治国之道？中国的“国际领先水平”是如何炼成的？</a></li>
 <li><a href="/cbnews/20240609/2047680.md" target="_blank">江峰：年迈的拜登看中共也那麽清楚，美国人越来越有数了</a></li>
 <li><a href="/comments/20240609/2047676.md" target="_blank">周末问答+福克斯78分钟访谈 完整解析川普</a></li>
-<li><a href="/cbnews/20240609/2047663.md" target="_blank">台湾当优先！前川普国防高官：武统恐几无征兆</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240610/2048027.md" target="_blank">【微博精粹】一个高考 把孩子大人逼成这样</a></li>
 <li><a href="/comments/20240610/2048015.md" target="_blank">美国记者还原拍摄“坦克人”惊险一幕。克林顿养大中共，培养出自己最大的对手。六四坦克人克林顿</a></li>
 <li><a href="/comments/20240610/2048011.md" target="_blank">习普都悄悄拔出枪来暗暗指向了对方？</a></li>
 <li><a href="/comments/20240610/2048010.md" target="_blank">英雄常书鸿 舍命护中华宝藏50年</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240609/2047713.md" target="_blank">项栋梁：高考零分作文：坦诚交流不是想不想，而是能不能的问题</a></li>
 <li><a href="/comments/20240609/2047701.md" target="_blank">404：网传某省立医院内，一座18层的楼，有7层都是干部病房</a></li>
 <li><a href="/comments/20240609/2047700.md" target="_blank">404：“史上最难高考”来袭：413万复读生一起卷，河南广东要哭了</a></li>
-<li><a href="/comments/20240609/2047699.md" target="_blank">【微博精粹】拜登开始驱逐非法移民</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/taiwannews/20210119/1470761.md" target="_blank">独家：震撼纪录片《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
 <li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20231201/1968320.md" target="_blank">【非凡新闻】结合中西文化精神 美国神韵表演吸睛</a></li>
-<li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
 
 </ul>
 </div>
