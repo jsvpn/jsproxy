@@ -9,9 +9,9 @@
 <li><a href="/cbnews/20240610/2047918.md">内部消息：鼓动习去找死！红二代内部正在酝酿计划…</a></li>
 <li><a href="/sohnews/20240609/2047857.md">🔥🔥全网疯传图片：终将掩盖不住的惊人现实；殷桃前夫案：曝华为行贿方式最隐蔽 给儿子这样做；一周之内，中国各大金融机构接连被暴击；当心了！在海外生活六个月以上的中国人【阿波罗网NO】</a></li>
 <li><a href="/topimagenews/20240610/2047945.md">习近平惨输给赖清德 莫迪晾习整整3天</a></li>
+<li><a href="/topimagenews/20240610/2047985.md">中共开始加速砸铁饭碗了？根本原因，就一个…</a></li>
 <li><a href="/baitai/20240609/2047799.md">忠告泽连斯基的徐将军，请回答我的灵魂六问</a></li>
 <li><a href="/sohnews/20240609/2047819.md">这个社会太卷了</a></li>
-<li><a href="/topimagenews/20240610/2047985.md">中共开始加速砸铁饭碗了？根本原因，就一个…</a></li>
 <li><a href="/topimagenews/20240610/2047989.md">中国知名平台要跑路？众多用户取钱难 动则上百万元</a></li>
 <li><a href="/baitai/20240609/2047800.md">松绑后的乌克兰能不能一举打垮俄罗斯？</a></li>
 <li><a href="/cbnews/20240610/2047933.md">护照被扣还是没钱？大陆出境游人数剧降引猜测</a></li>
@@ -24,10 +24,10 @@
 <li><a href="/topimagenews/20240610/2047987.md">对中国中产来说 这是奔赴海外新生活的最后机会</a></li>
 <li><a href="/sohnews/20240609/2047827.md">不想掉发改掉4个习惯 掉发脱发热水</a></li>
 <li><a href="/topimagenews/20240610/2048038.md">攻防兵力3:1！伤亡一万多人 在5个登陆点全面抢滩成功</a></li>
+<li><a href="/cbnews/20240610/2047975.md">京津交界浓烟滚滚 当局急封杀</a></li>
 <li><a href="/worldnews/20240610/2047919.md">空姐曝飞机上藏有“神秘空间”：非常舒适</a></li>
 <li><a href="/sohnews/20240609/2047824.md">陈破空：惊传大多数官员遭边控！不得出境。央视美女主播：来生不愿为人！最大规模高考，最惨烈竞争！港人不唱国歌，李家超乱抓人。直播：美东时间6月9日早9点、中港台当晚9点</a></li>
-<li><a href="/ssgc/20240610/2047910.md">消息人士：七国集团将对中国援俄银行发出警告</a></li>
-<li><a href="/cbnews/20240610/2047975.md">京津交界浓烟滚滚 当局急封杀</a></li>
+<li><a href="/comments/20240610/2047984.md">天亮时分：瑞士和平峰会前，中俄互相捅刀；福兮祸兮？欧洲将迎来极右翼议员；银行破产潮来袭，李强认输；三中全会前，习再任新职，释放强烈信号（政论天下第1324集 20240609）天亮时分</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240610/2048122.md" target="_blank">巴西政府出动军方活捉！军警接触感染！超多人目击：小棕人皮肤光华油腻、声音像人类小孩子、散落超物质UFO碎片！｜未解之谜 扶摇</a></li>
 <li><a href="/cbnews/20240610/2048070.md" target="_blank">美将强化防御关岛 每年2次拦截追踪飞弹测试</a></li>
 <li><a href="/cbnews/20240610/2048069.md" target="_blank">女生穿超短裙参加高考 结果…官媒发声</a></li>
 <li><a href="/cbnews/20240610/2048068.md" target="_blank">6个粽子卖8349元 卖光了 长这样…</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240610/2047904.md" target="_blank">拥有F-35战机最多的十个国家 第二名出人意料</a></li>
 <li><a href="/cbnews/20240610/2047891.md" target="_blank">江峰：江绵恒喊“70後”两届到站下车，内涵谁呢？</a></li>
 <li><a href="/comments/20240610/2047887.md" target="_blank">川普家人如何看待他经历的一切？</a></li>
-<li><a href="/comments/20240609/2047869.md" target="_blank">川普怎么能解决俄乌战争？</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240610/2048122.md" target="_blank">巴西政府出动军方活捉！军警接触感染！超多人目击：小棕人皮肤光华油腻、声音像人类小孩子、散落超物质UFO碎片！｜未解之谜 扶摇</a></li>
 <li><a href="/comments/20240610/2048087.md" target="_blank">形势逆转！习近平面临灾难性选择</a></li>
 <li><a href="/comments/20240610/2048086.md" target="_blank">【云南大理年轻人头戴“必胜”布条遭推打】【胡锡进：戴布条是“挑衅” 民众情有可原】</a></li>
 <li><a href="/comments/20240610/2048079.md" target="_blank">蔡筱颖：欧洲议会选举 法国人民对马克宏的不信任投票</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240610/2047887.md" target="_blank">川普家人如何看待他经历的一切？</a></li>
 <li><a href="/comments/20240609/2047869.md" target="_blank">川普怎么能解决俄乌战争？</a></li>
 <li><a href="/comments/20240609/2047834.md" target="_blank">川普经常用错人，那以后呢？</a></li>
-<li><a href="/comments/20240609/2047826.md" target="_blank">314米风景名胜云台天瀑……源头是水管</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
+<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
 <li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20240318/2014289.md" target="_blank">唐柏桥：民运同仁突然向法轮功开火是怎么回事？</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
 
 </ul>
 </div>
