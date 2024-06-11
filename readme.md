@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/topimagenews/20240610/2048006.md">中国“最赚钱”的超市，这次赔大发了</a></li>
 <li><a href="/comments/20240610/2048087.md">形势逆转！习近平面临灾难性选择</a></li>
+<li><a href="/topimagenews/20240610/2048006.md">中国“最赚钱”的超市，这次赔大发了</a></li>
 <li><a href="/topimagenews/20240610/2048038.md">攻防兵力3:1！伤亡一万多人 在5个登陆点全面抢滩成功</a></li>
 <li><a href="/cbnews/20240610/2048030.md">〖红朝浮世绘〗这就是中共跟哈马斯交好的后果：中共把中国的年轻人带歪了</a></li>
 <li><a href="/cnnews/hknews/20240610/2048073.md">后悔拿香港身份！内地优才来港1个月大呼“惨”</a></li>
 <li><a href="/ssgc/20240610/2048203.md">俄乌战争形势逆转，中共面临灾难选择</a></li>
 <li><a href="/cbnews/20240610/2048165.md">中国水果价格断崖式下跌 蓝莓从200一斤跌至8元</a></li>
-<li><a href="/topimagenews/20240610/2048185.md">马克宏输了 法国改朝换代？ 对手玛琳．雷朋宣布：准备掌权</a></li>
 <li><a href="/ccpdope/20240611/2048323.md">北京王恭厂离奇大爆炸 2000人跌成「肉袋」</a></li>
-<li><a href="/sohnews/20240610/2048088.md">张又侠安排心腹朱军少将拱卫京师，北京郊区隧道发生重大爆炸，李强承认经济已经完蛋。《老灯开讲第580期》</a></li>
+<li><a href="/topimagenews/20240610/2048185.md">马克宏输了 法国改朝换代？ 对手玛琳．雷朋宣布：准备掌权</a></li>
 <li><a href="/cnnews/20240610/2048259.md">“裸奔了3年”苏州妙龄女在厕所装这种窗帘 邻居：你被看光光</a></li>
+<li><a href="/sohnews/20240610/2048088.md">张又侠安排心腹朱军少将拱卫京师，北京郊区隧道发生重大爆炸，李强承认经济已经完蛋。《老灯开讲第580期》</a></li>
 <li><a href="/baitai/20240610/2048197.md">中国金融界连遭重击 传出令人不安信号</a></li>
 <li><a href="/cbnews/20240610/2048040.md">深圳航空被骂翻 因两名外籍乘客做这事…</a></li>
+<li><a href="/topimagenews/20240611/2048358.md">更大的涨价潮要到来！所有人和所有钱都在赌</a></li>
 <li><a href="/topimagenews/20240610/2048186.md">欧洲议会极右翼崛起 德国总理萧兹也失利</a></li>
 <li><a href="/cbnews/20240610/2048069.md">女生穿超短裙参加高考 结果…官媒发声</a></li>
-<li><a href="/cnnews/20240610/2047998.md">将全部转移出中国？一文爆款 网热火朝天纷纷吐槽</a></li>
-<li><a href="/topimagenews/20240611/2048358.md">更大的涨价潮要到来！所有人和所有钱都在赌</a></li>
 <li><a href="/baitai/20240610/2048268.md">端午节现惊悚命案 4外国人在吉林遭砍杀生死未卜 社媒封杀消息</a></li>
 <li><a href="/cnnews/20240610/2048147.md">浦安修的绝情对彭德怀的打击比庐山会议还要沉重</a></li>
 <li><a href="/sohnews/20240610/2047986.md">银行破产潮来袭，李强认输；三中全会前，习再任新职，释放强烈信号（政论天下第1324集续 20240609）天亮时分</a></li>
 <li><a href="/ccpdope/20240611/2048338.md">中俄友谊生变垮台时间双双提前</a></li>
 <li><a href="/topimagenews/20240610/2048005.md">刷屏！中国公募基金300万以上年薪全部退还？</a></li>
 <li><a href="/cnnews/20240610/2048048.md">习近平钦点神秘少将统领御林军？【阿波罗网报道】</a></li>
+<li><a href="/comments/20240610/2048122.md">巴西政府出动军方活捉！军警接触感染！超多人目击：小棕人皮肤光华油腻、声音像人类小孩子、散落超物质UFO碎片！｜未解之谜 扶摇</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,10 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240611/2048438.md" target="_blank">【微博精粹】面对他人鲜血和生命 大国仇恨教育很成功</a></li>
+<li><a href="/topimagenews/20240611/2048437.md" target="_blank">杭州楼市又开始作妖了</a></li>
+<li><a href="/topimagenews/20240611/2048436.md" target="_blank">他传递一信号 全球各国纷纷动起来【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20240611/2048435.md" target="_blank">十年没整治了！官员们找到了对付上边的绝招【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240611/2048406.md" target="_blank">战争时代，若想逃离战争，该如何选择正确逃难方式？十大注意事项</a></li>
 <li><a href="/topimagenews/20240611/2048405.md" target="_blank">404帖子：2024年或为最后一届蒙古语高考</a></li>
 <li><a href="/topimagenews/20240611/2048404.md" target="_blank">震碎三观！粉红们被魔控 哈马斯“太文明” ？</a></li>
@@ -87,16 +91,15 @@
 <li><a href="/topimagenews/20240610/2047989.md" target="_blank">中国知名平台要跑路？众多用户取钱难 动则上百万元</a></li>
 <li><a href="/topimagenews/20240610/2047988.md" target="_blank">六款商品在Costco价格不菲 但经常打折</a></li>
 <li><a href="/topimagenews/20240610/2047987.md" target="_blank">对中国中产来说 这是奔赴海外新生活的最后机会</a></li>
-<li><a href="/topimagenews/20240610/2047985.md" target="_blank">中共开始加速砸铁饭碗了？根本原因，就一个…</a></li>
-<li><a href="/topimagenews/20240610/2047974.md" target="_blank">重大事件 史上首次！乌炸毁俄Su-57匿踪型战斗机</a></li>
-<li><a href="/topimagenews/20240610/2047945.md" target="_blank">习近平惨输给赖清德 莫迪晾习整整3天</a></li>
-<li><a href="/topimagenews/20240610/2047917.md" target="_blank">黄仁勋低潮拒裁员创奇迹 员工平均身价超1亿</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240611/2048433.md" target="_blank">天亮时分：习近平有多少钱？美国国会披露调查结果；美军制定“地狱景观”计划护台；“主权AI”：大国竞争的焦点（政论天下第1325集 20240610）天亮时分</a></li>
+<li><a href="/comments/20240611/2048431.md" target="_blank">深圳房价最惨跌75%！割韭菜损招：抢结婚彩礼交社保、稻田安水表，青春痘查全身；非洲大爷乐笑了</a></li>
+<li><a href="/comments/20240611/2048428.md" target="_blank">【网闻禁闻】别被洗脑了！美国学生可不是天天吸大麻的……</a></li>
 <li><a href="/comments/20240611/2048416.md" target="_blank">宋石男：论屈原的个人主义 他爱国者的名头怎么来的</a></li>
 <li><a href="/comments/20240611/2048414.md" target="_blank">马斯克再造奇蹟 历史上最大星舰试航</a></li>
 <li><a href="/comments/20240611/2048410.md" target="_blank">王克明：冯友兰临终谈毛泽东</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20240610/2048079.md" target="_blank">蔡筱颖：欧洲议会选举 法国人民对马克宏的不信任投票</a></li>
 <li><a href="/comments/20240610/2048046.md" target="_blank">中以混血女孩被解救，这些中国网民为何失望？图</a></li>
 <li><a href="/comments/20240610/2048045.md" target="_blank">热议：为什么黄仁勋这么招人恨？</a></li>
-<li><a href="/comments/20240610/2048027.md" target="_blank">【微博精粹】一个高考 把孩子大人逼成这样</a></li>
-<li><a href="/comments/20240610/2048015.md" target="_blank">美国记者还原拍摄“坦克人”惊险一幕。克林顿养大中共，培养出自己最大的对手。六四坦克人克林顿</a></li>
-<li><a href="/comments/20240610/2048011.md" target="_blank">习普都悄悄拔出枪来暗暗指向了对方？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20231213/1973586.md" target="_blank">六道轮回之畜生道</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/taiwannews/20210119/1470524.md" target="_blank">纪录片《蚕食美国1》</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20231223/1978148.md" target="_blank">医山夜话：张锡纯医案解读（三）赭石：降胃气 引火下行</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20231207/1970628.md" target="_blank">民兵对官军，希望之声打造广播界的奇蹟【方伟时间-20231206】</a></li>
+<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20230920/1936271.md" target="_blank">防止你的孩子不成功（5） &#8211;教育避坑指南</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
 
 </ul>
 </div>
