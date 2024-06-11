@@ -7,27 +7,27 @@
 
 <li><a href="/ssgc/20240610/2048203.md">俄乌战争形势逆转，中共面临灾难选择</a></li>
 <li><a href="/cnnews/20240610/2048259.md">“裸奔了3年”苏州妙龄女在厕所装这种窗帘 邻居：你被看光光</a></li>
-<li><a href="/topimagenews/20240611/2048358.md">更大的涨价潮要到来！所有人和所有钱都在赌</a></li>
 <li><a href="/baitai/20240610/2048197.md">中国金融界连遭重击 传出令人不安信号</a></li>
+<li><a href="/topimagenews/20240611/2048358.md">更大的涨价潮要到来！所有人和所有钱都在赌</a></li>
 <li><a href="/ccpdope/20240611/2048323.md">北京王恭厂离奇大爆炸 2000人跌成「肉袋」</a></li>
 <li><a href="/topimagenews/20240611/2048384.md">重新大洗牌！中国最后一波造富时代来了</a></li>
-<li><a href="/topimagenews/20240610/2048185.md">马克宏输了 法国改朝换代？ 对手玛琳．雷朋宣布：准备掌权</a></li>
 <li><a href="/topimagenews/20240611/2048468.md">彻底傻眼！习近平刚迈出第一步 4美国人就被捅倒在中国公园【阿波罗网报道】</a></li>
 <li><a href="/baitai/20240610/2048268.md">端午节现惊悚命案 4外国人在吉林遭砍杀生死未卜 社媒封杀消息</a></li>
-<li><a href="/ccpdope/20240611/2048338.md">中俄友谊生变垮台时间双双提前</a></li>
 <li><a href="/topimagenews/20240611/2048525.md">刺伤4美国讲师 凶手身份曝光</a></li>
+<li><a href="/ccpdope/20240611/2048338.md">中俄友谊生变垮台时间双双提前</a></li>
 <li><a href="/sohnews/20240610/2047986.md">银行破产潮来袭，李强认输；三中全会前，习再任新职，释放强烈信号（政论天下第1324集续 20240609）天亮时分</a></li>
-<li><a href="/topimagenews/20240611/2048383.md">习近平放大招 银行和地方政府都怕怕</a></li>
 <li><a href="/cnnews/20240611/2048420.md">重磅 习近平等涉腐败！美国会报告： 藏数亿美元 习积累3.76亿美元公司投资</a></li>
+<li><a href="/topimagenews/20240611/2048383.md">习近平放大招 银行和地方政府都怕怕</a></li>
 <li><a href="/sohnews/20240611/2048370.md">吉林“义和团”连捅4名美国人，仇美还是仇习？美惊曝习近平家族50亿财富版图！以军救人质震惊全球，BBC“灵魂拷问”｜远见快评 唐靖远</a></li>
 <li><a href="/topimagenews/20240611/2048526.md">朝鲜军队越过“军事分界线” 韩国开火</a></li>
-<li><a href="/topimagenews/20240610/2048186.md">欧洲议会极右翼崛起 德国总理萧兹也失利</a></li>
 <li><a href="/topimagenews/20240611/2048382.md">杀疯了，豪车在中国，也崩了</a></li>
+<li><a href="/topimagenews/20240610/2048186.md">欧洲议会极右翼崛起 德国总理萧兹也失利</a></li>
 <li><a href="/topimagenews/20240611/2048437.md">杭州楼市又开始作妖了</a></li>
-<li><a href="/cbnews/20240610/2048215.md">前“国民老公”卖2手劳斯莱斯：持有8年折损近千万人民币</a></li>
 <li><a href="/topimagenews/20240611/2048523.md">在一个县城，正处级干部的生活是怎样的？</a></li>
-<li><a href="/topimagenews/20240611/2048344.md">“吃豆腐”！中共国无所不用其极 陆网看不下去猛怼</a></li>
+<li><a href="/cbnews/20240610/2048215.md">前“国民老公”卖2手劳斯莱斯：持有8年折损近千万人民币</a></li>
 <li><a href="/cnnews/20240611/2048396.md">历史上的三位名人，以为是英雄，原来坏在骨子里</a></li>
+<li><a href="/topimagenews/20240611/2048344.md">“吃豆腐”！中共国无所不用其极 陆网看不下去猛怼</a></li>
+<li><a href="/cbnews/20240611/2048488.md">〖红朝浮世绘〗现代版“义和团”发力 破坏了中共吸引外资投华的大局</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,11 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240611/2048618.md" target="_blank">佩洛西承认，国会大厦事件是自己造成的。川普获得当选总统的跳板。不用提示器，即兴演讲1个多小时。精力赛20岁年轻人。川普佩洛西国会大厦</a></li>
+<li><a href="/cbnews/20240611/2048610.md" target="_blank">勇敢之盾2024！美军双航舰“镇”南海、菲律宾海 日法加机舰参演</a></li>
+<li><a href="/cbnews/20240611/2048609.md" target="_blank">中3战机与荷直升机东海对峙! 荷舰才过台海 北京批“挑衅” 荷呛 : 中危印太安全</a></li>
+<li><a href="/cbnews/20240611/2048608.md" target="_blank">连刺4美国教师 吉林男子身份锁定 网批 : 曾夸世界最安全 如今看你怎么圆…..</a></li>
+<li><a href="/cbnews/20240611/2048607.md" target="_blank">中国排日事件爆增! 女在大理戴“红日”头巾遭攻击 日也遣返大陆观光客</a></li>
 <li><a href="/comments/20240611/2048587.md" target="_blank">欧洲议会选举，人民的呼声是什么？</a></li>
 <li><a href="/cbnews/20240611/2048583.md" target="_blank">四川成都凌晨巨响 天空现雪山</a></li>
 <li><a href="/cbnews/20240611/2048528.md" target="_blank">4名大学讲师在华遇刺 美国校方发声</a></li>
@@ -55,11 +60,6 @@
 <li><a href="/comments/20240611/2048335.md" target="_blank">六四：一颗子弹打中了她。。。</a></li>
 <li><a href="/cbnews/20240611/2048278.md" target="_blank">艾草、香囊走俏端午 品“中式审美”背后的中医药文化</a></li>
 <li><a href="/comments/20240610/2048249.md" target="_blank">翻转内华达，川普一个承诺让选民欢呼。著名历史学家预测，川普效仿里根的“天才”战略，其结果可能相似。川普美国大选里根</a></li>
-<li><a href="/cbnews/20240610/2048234.md" target="_blank">端午惨案！龙舟队翻船“疑没穿救生衣”已知3人罹难</a></li>
-<li><a href="/cbnews/20240610/2048233.md" target="_blank">重庆餐馆点馄饨“没有包肉”老板：这我们特色</a></li>
-<li><a href="/cbnews/20240610/2048215.md" target="_blank">前“国民老公”卖2手劳斯莱斯：持有8年折损近千万人民币</a></li>
-<li><a href="/comments/20240610/2048184.md" target="_blank">针对中俄新轴心，美国准备重新扩产核武库</a></li>
-<li><a href="/cbnews/20240610/2048172.md" target="_blank">美中贸易战新焦点：石墨供应链去中国化</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240611/2048618.md" target="_blank">佩洛西承认，国会大厦事件是自己造成的。川普获得当选总统的跳板。不用提示器，即兴演讲1个多小时。精力赛20岁年轻人。川普佩洛西国会大厦</a></li>
+<li><a href="/comments/20240611/2048605.md" target="_blank">疯了！高考男老师变装秀</a></li>
 <li><a href="/comments/20240611/2048587.md" target="_blank">欧洲议会选举，人民的呼声是什么？</a></li>
 <li><a href="/comments/20240611/2048535.md" target="_blank">都活得如此精致利己了，怎么还活得如此失败</a></li>
 <li><a href="/comments/20240611/2048534.md" target="_blank">祝贺以色列女孩获救，谁的命才是命？</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240610/2048265.md" target="_blank">时事大家谈：省委书记挂帅地方国安委，三中全会前化解政治风险？</a></li>
 <li><a href="/comments/20240610/2048264.md" target="_blank">时事大家谈：省委书记挂帅地方国安委，三中全会前化解政治风险？江泽民儿子卸任校长，“已完成两届任期”说给谁听？</a></li>
 <li><a href="/comments/20240610/2048252.md" target="_blank">高考“乾呕哥”火了</a></li>
-<li><a href="/comments/20240610/2048249.md" target="_blank">翻转内华达，川普一个承诺让选民欢呼。著名历史学家预测，川普效仿里根的“天才”战略，其结果可能相似。川普美国大选里根</a></li>
-<li><a href="/comments/20240610/2048222.md" target="_blank">【泽论四方】香港终审法院声誉的终结</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
 
 </ul>
 </div>
