@@ -13,20 +13,20 @@
 <li><a href="/ccpdope/20240611/2048338.md">中俄友谊生变垮台时间双双提前</a></li>
 <li><a href="/topimagenews/20240611/2048525.md">刺伤4美国讲师 凶手身份曝光</a></li>
 <li><a href="/topimagenews/20240611/2048383.md">习近平放大招 银行和地方政府都怕怕</a></li>
-<li><a href="/topimagenews/20240611/2048526.md">朝鲜军队越过“军事分界线” 韩国开火</a></li>
-<li><a href="/topimagenews/20240611/2048382.md">杀疯了，豪车在中国，也崩了</a></li>
-<li><a href="/sohnews/20240611/2048370.md">吉林“义和团”连捅4名美国人，仇美还是仇习？美惊曝习近平家族50亿财富版图！以军救人质震惊全球，BBC“灵魂拷问”｜远见快评 唐靖远</a></li>
 <li><a href="/finance/20240611/2048584.md">地方诸侯联手逼宫中南海</a></li>
+<li><a href="/topimagenews/20240611/2048382.md">杀疯了，豪车在中国，也崩了</a></li>
+<li><a href="/topimagenews/20240611/2048526.md">朝鲜军队越过“军事分界线” 韩国开火</a></li>
+<li><a href="/sohnews/20240611/2048370.md">吉林“义和团”连捅4名美国人，仇美还是仇习？美惊曝习近平家族50亿财富版图！以军救人质震惊全球，BBC“灵魂拷问”｜远见快评 唐靖远</a></li>
 <li><a href="/topimagenews/20240611/2048523.md">在一个县城，正处级干部的生活是怎样的？</a></li>
 <li><a href="/topimagenews/20240611/2048437.md">杭州楼市又开始作妖了</a></li>
-<li><a href="/cbnews/20240611/2048488.md">〖红朝浮世绘〗现代版“义和团”发力 破坏了中共吸引外资投华的大局</a></li>
 <li><a href="/cbnews/20240611/2048583.md">四川成都凌晨巨响 天空现雪山</a></li>
+<li><a href="/cbnews/20240611/2048488.md">〖红朝浮世绘〗现代版“义和团”发力 破坏了中共吸引外资投华的大局</a></li>
 <li><a href="/topimagenews/20240611/2048438.md">【微博精粹】面对他人鲜血和生命 大国仇恨教育很成功</a></li>
-<li><a href="/cnnews/20240611/2048396.md">历史上的三位名人，以为是英雄，原来坏在骨子里</a></li>
 <li><a href="/headline/20240611/2048622.md">美报告揭习近平利用亲属隐藏逾7亿美元财富 评论：让百姓看清「国家大盗」真面目</a></li>
-<li><a href="/topimagenews/20240611/2048344.md">“吃豆腐”！中共国无所不用其极 陆网看不下去猛怼</a></li>
-<li><a href="/topimagenews/20240611/2048582.md">最近房主们开始换着花样保房价了</a></li>
+<li><a href="/cnnews/20240611/2048396.md">历史上的三位名人，以为是英雄，原来坏在骨子里</a></li>
 <li><a href="/sohnews/20240611/2048590.md">滋生民变？河南枪战！</a></li>
+<li><a href="/topimagenews/20240611/2048582.md">最近房主们开始换着花样保房价了</a></li>
+<li><a href="/topimagenews/20240611/2048344.md">“吃豆腐”！中共国无所不用其极 陆网看不下去猛怼</a></li>
 <li><a href="/cbnews/20240611/2048367.md">惨不忍睹！天津公交撞倒大树冲入人群…</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20231207/1970628.md" target="_blank">民兵对官军，希望之声打造广播界的奇蹟【方伟时间-20231206】</a></li>
-<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/topimagenews/20180608/954788.md" target="_blank">安乐死根本安乐不了，别宣传了</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
+<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
+<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/cbnews/20240603/2045072.md" target="_blank">漫谈古代科举之八股文</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/cnnews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
 
 </ul>
 </div>
