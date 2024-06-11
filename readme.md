@@ -13,14 +13,13 @@
 <li><a href="/topimagenews/20240611/2048382.md">杀疯了，豪车在中国，也崩了</a></li>
 <li><a href="/finance/20240611/2048584.md">地方诸侯联手逼宫中南海</a></li>
 <li><a href="/topimagenews/20240611/2048526.md">朝鲜军队越过“军事分界线” 韩国开火</a></li>
-<li><a href="/sohnews/20240611/2048370.md">吉林“义和团”连捅4名美国人，仇美还是仇习？美惊曝习近平家族50亿财富版图！以军救人质震惊全球，BBC“灵魂拷问”｜远见快评 唐靖远</a></li>
 <li><a href="/topimagenews/20240611/2048523.md">在一个县城，正处级干部的生活是怎样的？</a></li>
 <li><a href="/headline/20240611/2048622.md">美报告揭习近平利用亲属隐藏逾7亿美元财富 评论：让百姓看清「国家大盗」真面目</a></li>
 <li><a href="/topimagenews/20240611/2048437.md">杭州楼市又开始作妖了</a></li>
 <li><a href="/cbnews/20240611/2048583.md">四川成都凌晨巨响 天空现雪山</a></li>
 <li><a href="/cbnews/20240611/2048488.md">〖红朝浮世绘〗现代版“义和团”发力 破坏了中共吸引外资投华的大局</a></li>
-<li><a href="/sohnews/20240611/2048590.md">滋生民变？河南枪战！</a></li>
 <li><a href="/topimagenews/20240611/2048632.md">彭博社：注意 这国开始审查中国富有客户</a></li>
+<li><a href="/sohnews/20240611/2048590.md">滋生民变？河南枪战！</a></li>
 <li><a href="/topimagenews/20240611/2048438.md">【微博精粹】面对他人鲜血和生命 大国仇恨教育很成功</a></li>
 <li><a href="/topimagenews/20240611/2048582.md">最近房主们开始换着花样保房价了</a></li>
 <li><a href="/cnnews/20240611/2048396.md">历史上的三位名人，以为是英雄，原来坏在骨子里</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/cbnews/20240611/2048407.md">矛头指向邓家？中信集团副总徐佐落马震动金融圈</a></li>
 <li><a href="/cbnews/20240611/2048608.md">连刺4美国教师 吉林男子身份锁定 网批 : 曾夸世界最安全 如今看你怎么圆…..</a></li>
 <li><a href="/cnnews/20240611/2048496.md">马斯克突然翻脸了</a></li>
+<li><a href="/topimagenews/20240611/2048406.md">战争时代，若想逃离战争，该如何选择正确逃难方式？十大注意事项</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240612/2048838.md" target="_blank">4美国人遇刺成中共公关恶梦；后效应恐持续延伸 ｜横河 方菲｜新闻烽火台 06/11</a></li>
 <li><a href="/cbnews/20240612/2048820.md" target="_blank">稀奇：这次投票，中共选择站在美以这边</a></li>
 <li><a href="/cbnews/20240612/2048819.md" target="_blank">远程锁车？联想车主被社区封号后 蓝牙钥匙失效</a></li>
 <li><a href="/cbnews/20240612/2048800.md" target="_blank">美军无人机舰计划阻中共攻台 专家解读</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20240611/2048414.md" target="_blank">马斯克再造奇蹟 历史上最大星舰试航</a></li>
 <li><a href="/cbnews/20240611/2048407.md" target="_blank">矛头指向邓家？中信集团副总徐佐落马震动金融圈</a></li>
 <li><a href="/cbnews/20240611/2048386.md" target="_blank">科技公司帮北京“教训”台湾 传遭官方约谈</a></li>
-<li><a href="/cbnews/20240611/2048385.md" target="_blank">数千无人机变天罗地网 美司令谈遏阻中共侵台</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240612/2048838.md" target="_blank">4美国人遇刺成中共公关恶梦；后效应恐持续延伸 ｜横河 方菲｜新闻烽火台 06/11</a></li>
+<li><a href="/comments/20240612/2048835.md" target="_blank">“亲、媚、舔”齐上 习很舒服 小心彭丽媛的坛子砸下来</a></li>
 <li><a href="/comments/20240612/2048822.md" target="_blank">任重：六四谁在天安门广场开枪杀人？</a></li>
 <li><a href="/comments/20240612/2048821.md" target="_blank">网海拾贝:西方离看穿中共还有相当距离</a></li>
 <li><a href="/comments/20240612/2048814.md" target="_blank">【台湾官员：驾船“投奔自由”的大陆男子原为海军艇长】</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240611/2048451.md" target="_blank">最全面分析川普封口费案</a></li>
 <li><a href="/comments/20240611/2048450.md" target="_blank">量子跃迁：我们听见了冰山垮塌的&#8221;咔嚓&#8221;声</a></li>
 <li><a href="/comments/20240611/2048433.md" target="_blank">天亮时分：习近平有多少钱？美国国会披露调查结果；美军制定“地狱景观”计划护台；“主权AI”：大国竞争的焦点（政论天下第1325集 20240610）天亮时分</a></li>
-<li><a href="/comments/20240611/2048431.md" target="_blank">深圳房价最惨跌75%！割韭菜损招：抢结婚彩礼交社保、稻田安水表，青春痘查全身；非洲大爷乐笑了</a></li>
-<li><a href="/comments/20240611/2048428.md" target="_blank">【网闻禁闻】别被洗脑了！美国学生可不是天天吸大麻的……</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
 <li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20240403/2020547.md" target="_blank">纪录片：DSM诊断与统计手册-精神病学最要命的骗局</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
+<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20231213/1973586.md" target="_blank">六道轮回之畜生道</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
 <li><a href="/comments/20240116/1984226.md" target="_blank">湖北老河口遇仙记</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/comments/20231220/1976789.md" target="_blank">大陆医生曝：九价HPV疫苗导致怀孕能力下降40%</a></li>
+<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
+<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
 
 </ul>
 </div>
