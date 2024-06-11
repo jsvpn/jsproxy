@@ -23,11 +23,11 @@
 <li><a href="/cbnews/20240610/2048040.md">深圳航空被骂翻 因两名外籍乘客做这事…</a></li>
 <li><a href="/topimagenews/20240610/2048186.md">欧洲议会极右翼崛起 德国总理萧兹也失利</a></li>
 <li><a href="/cbnews/20240610/2048069.md">女生穿超短裙参加高考 结果…官媒发声</a></li>
-<li><a href="/cnnews/20240610/2047998.md">将全部转移出中国？一文爆款 网热火朝天纷纷吐槽</a></li>
 <li><a href="/comments/20240610/2047984.md">天亮时分：瑞士和平峰会前，中俄互相捅刀；福兮祸兮？欧洲将迎来极右翼议员；银行破产潮来袭，李强认输；三中全会前，习再任新职，释放强烈信号（政论天下第1324集 20240609）天亮时分</a></li>
+<li><a href="/cnnews/20240610/2047998.md">将全部转移出中国？一文爆款 网热火朝天纷纷吐槽</a></li>
+<li><a href="/ccpdope/20240611/2048323.md">北京王恭厂离奇大爆炸 2000人跌成「肉袋」</a></li>
 <li><a href="/cnnews/20240610/2048147.md">浦安修的绝情对彭德怀的打击比庐山会议还要沉重</a></li>
 <li><a href="/baitai/20240610/2048268.md">端午节现惊悚命案 4外国人在吉林遭砍杀生死未卜 社媒封杀消息</a></li>
-<li><a href="/sohnews/20240610/2047986.md">银行破产潮来袭，李强认输；三中全会前，习再任新职，释放强烈信号（政论天下第1324集续 20240609）天亮时分</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240611/2048407.md" target="_blank">矛头指向邓家？中信集团副总徐佐落马震动金融圈</a></li>
 <li><a href="/cbnews/20240611/2048386.md" target="_blank">科技公司帮北京“教训”台湾 传遭官方约谈</a></li>
 <li><a href="/cbnews/20240611/2048385.md" target="_blank">数千无人机变天罗地网 美司令谈遏阻中共侵台</a></li>
 <li><a href="/comments/20240611/2048374.md" target="_blank">经济雪上加霜！中共面临关税战围堵，新质生产力恐中途夭折｜谢田 方菲｜新闻烽火台 06/10</a></li>
@@ -59,13 +60,15 @@
 <li><a href="/cbnews/20240610/2048164.md" target="_blank">中国多地高温 河南路面超60℃ 预报图变红</a></li>
 <li><a href="/cbnews/20240610/2048163.md" target="_blank">中国疫情延烧 心梗脑梗猝死现象多</a></li>
 <li><a href="/comments/20240610/2048122.md" target="_blank">巴西政府出动军方活捉！军警接触感染！超多人目击：小棕人皮肤光华油腻、声音像人类小孩子、散落超物质UFO碎片！｜未解之谜 扶摇</a></li>
-<li><a href="/cbnews/20240610/2048070.md" target="_blank">美将强化防御关岛 每年2次拦截追踪飞弹测试</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240611/2048406.md" target="_blank">战争时代，若想逃离战争，该如何选择正确逃难方式？十大注意事项</a></li>
+<li><a href="/topimagenews/20240611/2048405.md" target="_blank">404帖子：2024年或为最后一届蒙古语高考</a></li>
+<li><a href="/topimagenews/20240611/2048404.md" target="_blank">震碎三观！粉红们被魔控 哈马斯“太文明” ？</a></li>
 <li><a href="/topimagenews/20240611/2048384.md" target="_blank">重新大洗牌！中国最后一波造富时代来了</a></li>
 <li><a href="/topimagenews/20240611/2048383.md" target="_blank">习近平放大招 银行和地方政府都怕怕</a></li>
 <li><a href="/topimagenews/20240611/2048382.md" target="_blank">杀疯了，豪车在中国，也崩了</a></li>
@@ -88,9 +91,6 @@
 <li><a href="/topimagenews/20240610/2047974.md" target="_blank">重大事件 史上首次！乌炸毁俄Su-57匿踪型战斗机</a></li>
 <li><a href="/topimagenews/20240610/2047945.md" target="_blank">习近平惨输给赖清德 莫迪晾习整整3天</a></li>
 <li><a href="/topimagenews/20240610/2047917.md" target="_blank">黄仁勋低潮拒裁员创奇迹 员工平均身价超1亿</a></li>
-<li><a href="/topimagenews/20240610/2047903.md" target="_blank">中国软件行业几乎全军覆没!!!今年应届生就业有多惨？最后一条万没想到【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20240609/2047724.md" target="_blank">鹤岗化的房子 正在包围北上广深</a></li>
-<li><a href="/topimagenews/20240609/2047723.md" target="_blank">大陆疯传！反党短视频“羊撞墙”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20231212/1972297.md" target="_blank">日本华人确诊晚期直肠癌，修炼法轮功恢复健康（图）</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/comments/20231220/1976683.md" target="_blank">医山夜话：张锡纯医案解读（二）根治胃气不降之证</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
 <li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
+<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
+<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
+<li><a href="/cnnews/20221211/1822144.md" target="_blank">盖盖冲马桶很可怕！瞬间“病毒炸开”？</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
 
 </ul>
 </div>
