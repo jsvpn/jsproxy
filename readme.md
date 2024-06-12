@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/topimagenews/20240611/2048525.md">刺伤4美国讲师 凶手身份曝光</a></li>
 <li><a href="/finance/20240611/2048584.md">地方诸侯联手逼宫中南海</a></li>
-<li><a href="/topimagenews/20240611/2048523.md">在一个县城，正处级干部的生活是怎样的？</a></li>
-<li><a href="/topimagenews/20240611/2048526.md">朝鲜军队越过“军事分界线” 韩国开火</a></li>
 <li><a href="/headline/20240611/2048622.md">美报告揭习近平利用亲属隐藏逾7亿美元财富 评论：让百姓看清「国家大盗」真面目</a></li>
 <li><a href="/sohnews/20240611/2048590.md">滋生民变？河南枪战！</a></li>
-<li><a href="/topimagenews/20240612/2048818.md">习近平签署新规 中共军队不好过了</a></li>
 <li><a href="/cbnews/20240611/2048583.md">四川成都凌晨巨响 天空现雪山</a></li>
+<li><a href="/topimagenews/20240612/2048818.md">习近平签署新规 中共军队不好过了</a></li>
 <li><a href="/comments/20240612/2048835.md">“亲、媚、舔”齐上 习很舒服 小心彭丽媛的坛子砸下来</a></li>
 <li><a href="/topimagenews/20240611/2048632.md">彭博社：注意 这国开始审查中国富有客户</a></li>
 <li><a href="/topimagenews/20240611/2048582.md">最近房主们开始换着花样保房价了</a></li>
 <li><a href="/topimagenews/20240612/2048844.md">乌扭转战局关键！普丁偷鸡亏大了! 惨遭反杀250里</a></li>
 <li><a href="/topimagenews/20240611/2048633.md">当一个北京中产家庭 决定退出国际学校</a></li>
 <li><a href="/cbnews/20240611/2048608.md">连刺4美国教师 吉林男子身份锁定 网批 : 曾夸世界最安全 如今看你怎么圆…..</a></li>
+<li><a href="/topimagenews/20240612/2048883.md">终于坚持不住了 上海豪宅开始暴跌</a></li>
 <li><a href="/ccpdope/20240612/2048812.md">英国派克预测世界迎来伟大的苏醒时代 中国会发生大事</a></li>
 <li><a href="/cbnews/20240612/2048820.md">稀奇：这次投票，中共选择站在美以这边</a></li>
-<li><a href="/topimagenews/20240612/2048883.md">终于坚持不住了 上海豪宅开始暴跌</a></li>
-<li><a href="/topimagenews/20240612/2048802.md">中共开始加速砸铁饭碗？根本原因就一个；如何合法将资金从中国转出境【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240612/2048938.md">吉林狠男被抓 中共外交部直接给美递刀子</a></li>
 <li><a href="/topimagenews/20240611/2048712.md">噩耗！俄超音速苏恺34轰炸机 坠毁高加索山区 机组人员全部遇难</a></li>
+<li><a href="/topimagenews/20240612/2048802.md">中共开始加速砸铁饭碗？根本原因就一个；如何合法将资金从中国转出境【阿波罗网报道】</a></li>
 <li><a href="/baitai/20240611/2048558.md">矛头指邓家？ 中信副总徐佐落马</a></li>
-<li><a href="/cbnews/20240611/2048528.md">4名大学讲师在华遇刺 美国校方发声</a></li>
 <li><a href="/baitai/20240612/2048738.md">青岛卖房任务下发街道办 约谈银行有巨额存款「恶意」不买房居民</a></li>
+<li><a href="/worldnews/20240611/2048616.md">这女主播有带脑子来上班吗？竟提这问题 专家冷回 : “正常人不会这样想的”</a></li>
+<li><a href="/ccpdope/20240612/2048729.md">崩了，房子「白菜价」！多省跌破千元/平方米</a></li>
+<li><a href="/topimagenews/20240612/2048830.md">细思极恐！中国孩子8岁就被套上“索命绳”</a></li>
+<li><a href="/worldnews/20240611/2048615.md">俄国国旗丢地上! 乌军成功夺回沃夫昌斯克 大部队集结展开反攻</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240612/2049016.md" target="_blank">北京出现“闪电劈彩虹”诡异景象热传</a></li>
 <li><a href="/cbnews/20240612/2048989.md" target="_blank">女子西湖溺水“躺平”自救 快艇赶到救上岸</a></li>
 <li><a href="/cbnews/20240612/2048988.md" target="_blank">【禁闻】4美国人吉林遇刺案凶嫌落网 警方通报遭质疑</a></li>
 <li><a href="/cbnews/20240612/2048987.md" target="_blank">中国猝死高发 医院以基础病掩盖疫情</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240612/2048819.md" target="_blank">远程锁车？联想车主被社区封号后 蓝牙钥匙失效</a></li>
 <li><a href="/cbnews/20240612/2048800.md" target="_blank">美军无人机舰计划阻中共攻台 专家解读</a></li>
 <li><a href="/comments/20240612/2048726.md" target="_blank">马斯克打造天下第一的星际飞船，是什么东西？</a></li>
-<li><a href="/comments/20240611/2048640.md" target="_blank">亨特拜登如果判无罪，意味着什么？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/taiwannews/20210119/1470524.md" target="_blank">纪录片《蚕食美国1》</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20231220/1976683.md" target="_blank">医山夜话：张锡纯医案解读（二）根治胃气不降之证</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
 <li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20231212/1972297.md" target="_blank">日本华人确诊晚期直肠癌，修炼法轮功恢复健康（图）</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
 
 </ul>
 </div>
