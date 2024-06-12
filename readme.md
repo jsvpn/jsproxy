@@ -15,19 +15,19 @@
 <li><a href="/cbnews/20240611/2048488.md">〖红朝浮世绘〗现代版“义和团”发力 破坏了中共吸引外资投华的大局</a></li>
 <li><a href="/sohnews/20240611/2048590.md">滋生民变？河南枪战！</a></li>
 <li><a href="/topimagenews/20240611/2048632.md">彭博社：注意 这国开始审查中国富有客户</a></li>
-<li><a href="/topimagenews/20240611/2048582.md">最近房主们开始换着花样保房价了</a></li>
 <li><a href="/topimagenews/20240612/2048818.md">习近平签署新规 中共军队不好过了</a></li>
+<li><a href="/topimagenews/20240611/2048582.md">最近房主们开始换着花样保房价了</a></li>
 <li><a href="/topimagenews/20240611/2048633.md">当一个北京中产家庭 决定退出国际学校</a></li>
 <li><a href="/cbnews/20240611/2048608.md">连刺4美国教师 吉林男子身份锁定 网批 : 曾夸世界最安全 如今看你怎么圆…..</a></li>
 <li><a href="/cnnews/20240611/2048496.md">马斯克突然翻脸了</a></li>
 <li><a href="/comments/20240611/2048467.md">移动的活棺材 还敢用？！</a></li>
 <li><a href="/topimagenews/20240611/2048712.md">噩耗！俄超音速苏恺34轰炸机 坠毁高加索山区 机组人员全部遇难</a></li>
 <li><a href="/baitai/20240611/2048558.md">矛头指邓家？ 中信副总徐佐落马</a></li>
-<li><a href="/cbnews/20240611/2048528.md">4名大学讲师在华遇刺 美国校方发声</a></li>
-<li><a href="/lifebaike/20240611/2048536.md">日本一家四口的“极简生活”火了！网友惊叹</a></li>
 <li><a href="/topimagenews/20240612/2048844.md">乌扭转战局关键！普丁偷鸡亏大了! 惨遭反杀250里</a></li>
+<li><a href="/cbnews/20240611/2048528.md">4名大学讲师在华遇刺 美国校方发声</a></li>
 <li><a href="/worldnews/20240611/2048616.md">这女主播有带脑子来上班吗？竟提这问题 专家冷回 : “正常人不会这样想的”</a></li>
-<li><a href="/health/20240611/2048505.md">超70万人研究发现：这种常见蔬菜真能抗癌</a></li>
+<li><a href="/lifebaike/20240611/2048536.md">日本一家四口的“极简生活”火了！网友惊叹</a></li>
+<li><a href="/cnnews/20240611/2048473.md">这张图透露出不寻常信息 韭菜千万别上当</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,9 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240612/2048918.md" target="_blank">砸碎铁饭碗越砸越狠！体制内“疼痛感”愈演愈烈</a></li>
+<li><a href="/topimagenews/20240612/2048917.md" target="_blank">那些房价下限跌破千元的城市</a></li>
+<li><a href="/topimagenews/20240612/2048916.md" target="_blank">搭讪宋祖英 惹醋江泽民 副国级高官被处死</a></li>
 <li><a href="/topimagenews/20240612/2048883.md" target="_blank">终于坚持不住了 上海豪宅开始暴跌</a></li>
 <li><a href="/topimagenews/20240612/2048882.md" target="_blank">烈火烹油！四大一线全部跪倒 楼市已彻底不可控</a></li>
 <li><a href="/topimagenews/20240612/2048844.md" target="_blank">乌扭转战局关键！普丁偷鸡亏大了! 惨遭反杀250里</a></li>
@@ -88,15 +91,13 @@
 <li><a href="/topimagenews/20240611/2048523.md" target="_blank">在一个县城，正处级干部的生活是怎样的？</a></li>
 <li><a href="/topimagenews/20240611/2048468.md" target="_blank">彻底傻眼！习近平刚迈出第一步 4美国人就被捅倒在中国公园【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240611/2048438.md" target="_blank">【微博精粹】面对他人鲜血和生命 大国仇恨教育很成功</a></li>
-<li><a href="/topimagenews/20240611/2048437.md" target="_blank">杭州楼市又开始作妖了</a></li>
-<li><a href="/topimagenews/20240611/2048436.md" target="_blank">他传递一信号 全球各国纷纷动起来【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20240611/2048435.md" target="_blank">十年没整治了！官员们找到了对付上边的绝招【阿波罗网报道】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240612/2048920.md" target="_blank">外籍教师遇袭 反美宣传见成效了</a></li>
 <li><a href="/comments/20240612/2048888.md" target="_blank">王天安：坚守和盼望是一种力量</a></li>
 <li><a href="/comments/20240612/2048885.md" target="_blank">亨特拜登判有罪 马斯克警告苹果+OpenAI的联手</a></li>
 <li><a href="/comments/20240612/2048874.md" target="_blank">王庆民：南非、印度、墨西哥：三大新兴国家的大选说明了什么？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240611/2048708.md" target="_blank">天亮时分：习近平有多少钱？</a></li>
 <li><a href="/comments/20240611/2048670.md" target="_blank">时事大家谈：热点快评：四名美国大学教师在吉林遭刺伤，中国外交部称“偶发事件”；美驻华大使演讲遭打断，美中关系真能恢复正常？如何从&quot;黄仁勋现象&quot;看台湾问题与中国芯片危机？</a></li>
 <li><a href="/comments/20240611/2048640.md" target="_blank">亨特拜登如果判无罪，意味着什么？</a></li>
-<li><a href="/comments/20240611/2048619.md" target="_blank">【财经拆局】驳斥谎言：政府称以「数据说话」 实为误导公众及投资者</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/ssgc/20240508/2034288.md" target="_blank">《透视“进化论”》第九章 人类起源问题的终极答案</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20231212/1972297.md" target="_blank">日本华人确诊晚期直肠癌，修炼法轮功恢复健康（图）</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/topimagenews/20240511/2035423.md" target="_blank">原北京学员回忆李洪志先生在东方健康博览会上所行的奇迹</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/taiwannews/20210119/1470524.md" target="_blank">纪录片《蚕食美国1》</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
 <li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
 
 </ul>
 </div>
