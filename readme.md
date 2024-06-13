@@ -11,23 +11,23 @@
 <li><a href="/cbnews/20240612/2049094.md">习近平心事曝光！中央深化改革会议三文件揭底</a></li>
 <li><a href="/comments/20240612/2049074.md">五月份中国出口大幅跳升，发生了什么？</a></li>
 <li><a href="/topimagenews/20240612/2049111.md">遭欺压 中国人民忍不下去了！ 驾车撞死19拆迁人员、铁锤击杀欠薪上司</a></li>
-<li><a href="/finance/20240612/2049084.md">中国正在进入一场将持续100年的风暴</a></li>
 <li><a href="/cbnews/20240613/2049291.md">乳房科男医生出轨女患者 露骨聊天曝光 妻子回应</a></li>
+<li><a href="/finance/20240612/2049084.md">中国正在进入一场将持续100年的风暴</a></li>
 <li><a href="/topimagenews/20240612/2049112.md">与土匪强盗无异！ 共警行径嚣张令人咋舌 砍人后还当街跳斧头帮舞</a></li>
 <li><a href="/comments/20240612/2048993.md">俄乌战争，可能以一种戏剧性的方式结束</a></li>
 <li><a href="/sohnews/20240612/2049035.md">张又侠被脱去上将军装露面，刺杀美国人凶手崔大鹏事先收到巨款，中共崩溃的现实路径。《老灯开讲第582期》</a></li>
-<li><a href="/topimagenews/20240612/2049109.md">赶走500强 找来500穷? 首届北京CBD跨国公司大会这德性 网笑 : 往来无“白丁”</a></li>
 <li><a href="/topimagenews/20240613/2049270.md">更大涨价潮要来！所有人和钱都在赌；内幕：“房子随便处置”！断供惊人,银行业成这样</a></li>
-<li><a href="/baitai/20240612/2049118.md">年轻美女网红自爆与王思聪未婚生女 王思聪回应了</a></li>
-<li><a href="/lifebaike/20240612/2049170.md">下一款iphone，我们与世界从此分道扬镳</a></li>
+<li><a href="/topimagenews/20240612/2049109.md">赶走500强 找来500穷? 首届北京CBD跨国公司大会这德性 网笑 : 往来无“白丁”</a></li>
 <li><a href="/topimagenews/20240613/2049311.md">欧盟手起刀落 中共国这行惨了</a></li>
 <li><a href="/topimagenews/20240613/2049329.md">多家中企遭殃！美来狠的 制裁三百多援俄实体和个人</a></li>
+<li><a href="/baitai/20240612/2049118.md">年轻美女网红自爆与王思聪未婚生女 王思聪回应了</a></li>
+<li><a href="/lifebaike/20240612/2049170.md">下一款iphone，我们与世界从此分道扬镳</a></li>
+<li><a href="/topimagenews/20240613/2049288.md">地方政府新型创收神器！越来越多的政府下场了</a></li>
 <li><a href="/cbnews/20240612/2048986.md">山西沁县政协主席被杀 更多内情曝光</a></li>
 <li><a href="/health/20240612/2049073.md">经常吃含酵母的馒头、包子、面包对身体有害？现在知道还不晚</a></li>
-<li><a href="/topimagenews/20240613/2049288.md">地方政府新型创收神器！越来越多的政府下场了</a></li>
+<li><a href="/cnnews/20240613/2049320.md">42岁伊万卡冲浪长腿惹眼 30岁蒂芙尼闪耀伦敦</a></li>
 <li><a href="/cbnews/20240612/2049138.md">中共官方要外送员“跟党走” 网络炸锅</a></li>
 <li><a href="/cnnews/20240612/2049129.md">外媒踢爆！马斯克与SpaceX女员工上床并要求为他生小孩</a></li>
-<li><a href="/cnnews/20240613/2049320.md">42岁伊万卡冲浪长腿惹眼 30岁蒂芙尼闪耀伦敦</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240613/2049459.md" target="_blank">别小瞧“偶发事件”</a></li>
 <li><a href="/comments/20240613/2049457.md" target="_blank">汤敏：中华儿慈会犯罪事件彻底宣告了现行社会组织制度的全面破产</a></li>
 <li><a href="/comments/20240613/2049456.md" target="_blank">四环青年：儿慈会千万善款被卷走，钱的去向查清了吗</a></li>
 <li><a href="/comments/20240613/2049438.md" target="_blank">养蛊反噬，底线下沉的另一种形式：坏人变好了</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240613/2049262.md" target="_blank">世界无童工日 中国终结童工现象还远不如人意</a></li>
 <li><a href="/comments/20240613/2049240.md" target="_blank">欧盟将对中国电动汽车征收新关税 业内担忧北京报复</a></li>
 <li><a href="/comments/20240613/2049239.md" target="_blank">在华遇袭的美国康奈尔学院教师回顾当时情况</a></li>
-<li><a href="/comments/20240612/2049186.md" target="_blank">专栏 &#8211; 纵横大历史：文革系列 第九十二讲 天下开始大乱（二）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20231214/1974098.md" target="_blank">美国众议院议长：我所坚守的保守主义，具体是些什么内容？</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
 
 </ul>
 </div>
