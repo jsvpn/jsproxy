@@ -23,8 +23,8 @@
 <li><a href="/cbnews/20240613/2049450.md">河南恶性撞人车祸酿7死! 民众冷血围观 受害者躺无人救助失血过多死亡</a></li>
 <li><a href="/worldnews/20240613/2049572.md">长发女全裸闯机场 吓得地勤人员无所适从</a></li>
 <li><a href="/finance/20240613/2049566.md">中国经济惨! 大润发连倒20店、深圳地产一夜全裁员、广州“上下九”一片萧条</a></li>
-<li><a href="/finance/20240613/2049412.md">3小时内全员被裁！中国老牌房企突然宣布解散</a></li>
 <li><a href="/topimagenews/20240613/2049589.md">黑天鹅来了？欧洲大国爆1难题 全球经济恐蒸发8.9兆美元超震撼</a></li>
+<li><a href="/finance/20240613/2049412.md">3小时内全员被裁！中国老牌房企突然宣布解散</a></li>
 <li><a href="/cbnews/20240613/2049313.md">悲惨！陆男电瓶车被扣 默默走到马路中央躺倒</a></li>
 <li><a href="/cbnews/20240613/2049293.md">中共少将竟公然造谣？官媒不得不下架…</a></li>
 <li><a href="/topimagenews/20240613/2049289.md">“这是川普将崛起的预兆”</a></li>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240614/2049698.md" target="_blank">全球67个团体联署纪念&#8221;612&#8243;五周年 500港人曼城集会吁贯彻信念</a></li>
+<li><a href="/comments/20240614/2049697.md" target="_blank">专栏 &#8211; 中国最钱线：彩票热—最低端理财抑或最后的快乐</a></li>
+<li><a href="/comments/20240614/2049696.md" target="_blank">评论 &#8211; 程晓农：冷战行为、冷战思维和冷战结果</a></li>
 <li><a href="/comments/20240614/2049687.md" target="_blank">瑞士乌克兰和平峰会前 中国被曝游说多国杯葛</a></li>
 <li><a href="/comments/20240614/2049686.md" target="_blank">台湾油管博主：北京砸钱邀台网红赴陆拍片统战</a></li>
 <li><a href="/comments/20240614/2049684.md" target="_blank">四个被刀捅的老外来自爱荷华，那是啥地方？</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20240613/2049393.md" target="_blank">菁英论坛:欧议会选举右翼崛起 欧盟走向何方</a></li>
 <li><a href="/comments/20240613/2049387.md" target="_blank">吉林崔大鹏【扎美案】气晕习近平：捅错人了！银行震撼弹：特困户不用还房贷！失业年轻人眼里无光，大萧条来了</a></li>
 <li><a href="/comments/20240613/2049379.md" target="_blank">梁文道：耻辱\现实&#8212;2014年纪念六四</a></li>
-<li><a href="/comments/20240613/2049375.md" target="_blank">天亮时分：三大异常现象显示，习近平要暴力救经济；中宣部进驻谷歌？欧盟对中国电动车加关税，欧洲议会选举暗示川普回归（政论天下第1327集 20240612）天亮时分</a></li>
-<li><a href="/comments/20240613/2049358.md" target="_blank">苏暁康：“洋流亡者”</a></li>
-<li><a href="/comments/20240613/2049357.md" target="_blank">颜纯钩:睽违百年的毕业礼，见证东西文化之优劣</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20231201/1968320.md" target="_blank">【非凡新闻】结合中西文化精神 美国神韵表演吸睛</a></li>
+<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
+<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
+<li><a href="/cnnews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/comments/20240318/2014289.md" target="_blank">唐柏桥：民运同仁突然向法轮功开火是怎么回事？</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
+<li><a href="/cbnews/20190701/1151453.md" target="_blank">盘点十大邪教特征 中共条条对号入座</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
 
 </ul>
 </div>
