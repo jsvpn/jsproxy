@@ -17,17 +17,17 @@
 <li><a href="/topimagenews/20240614/2049842.md">【微博精粹】养蛊终于养出一个里程碑</a></li>
 <li><a href="/topimagenews/20240614/2049919.md">中共五星旗挂反了！网友纷纷表示“干得漂亮”【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240614/2049783.md">遭删文：对中国用户只开另一道门 中国与世界从此分道扬镳</a></li>
+<li><a href="/topimagenews/20240614/2050011.md">重大转折点已到来：中国基层民变开始了</a></li>
 <li><a href="/sohnews/20240614/2049920.md">架空李强：习近平任命丁薛祥或何立峰担任国务院党组书记，殷秀梅通过彭丽媛摆平王维绪案，美国立法九十天内撕碎习近平。《老灯开讲第584期》</a></li>
 <li><a href="/cbnews/20240614/2049869.md">〖红朝浮世绘〗恐怖分子在美国：怪不得他们支持哈马斯</a></li>
 <li><a href="/bblog/20240614/2049737.md">〖微历史〗感谢皇军、感谢苏军</a></li>
-<li><a href="/topimagenews/20240614/2050011.md">重大转折点已到来：中国基层民变开始了</a></li>
 <li><a href="/topimagenews/20240614/2049784.md">中共干啥啥不行 就干这个事上心</a></li>
 <li><a href="/cbnews/20240614/2049733.md">中共自找的！英对中共政策大改变</a></li>
 <li><a href="/topimagenews/20240614/2049781.md">中共央行好心？万一老百姓上当，真的冲出来花光棺材本呢</a></li>
 <li><a href="/comments/20240614/2049798.md">60岁时你会发现 一开始就没人在乎你</a></li>
-<li><a href="/ssgc/20240614/2049738.md">〖微博谈〗欧盟会让中共看不起</a></li>
 <li><a href="/funmedia/20240614/2049816.md">印尼空姐穿裤子引热议！网友：太酷了！看起来更舒服</a></li>
-<li><a href="/ssgc/20240614/2049662.md">博明示警 中国汲取俄乌战教训 可能直接发动全面战争而非逐步升级</a></li>
+<li><a href="/ssgc/20240614/2049738.md">〖微博谈〗欧盟会让中共看不起</a></li>
+<li><a href="/topimagenews/20240614/2049977.md">央视被雷劈、北京夜间出太阳! 高温、暴雨、大雾、强对流 中气象台4预警齐发</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240614/2050073.md" target="_blank">川普国会之行，收生日礼物，与顽固派握手。马斯克获560亿美元薪酬，背后势力激烈博弈。川普马斯克国会大厦</a></li>
+<li><a href="/cbnews/20240614/2050066.md" target="_blank">中共长期系统发动迫害法轮功运动</a></li>
 <li><a href="/comments/20240614/2050026.md" target="_blank">俄罗斯海外财产被迫资助乌克兰</a></li>
 <li><a href="/cbnews/20240614/2050016.md" target="_blank">最新8款战场黑科技亮眼! 3奈米无人机、最快移动迫炮、“脉冲星”电磁战</a></li>
 <li><a href="/comments/20240614/2049998.md" target="_blank">外星人在仓皇中与人对视、心灵感应！说出关于人类的超常真相！释放异常外星气体，自主选择离开地球？！美军突闯禁区介入！｜未解之谜 扶摇</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/comments/20240613/2049654.md" target="_blank">川普获头号网红支持，6秒视频爆红TikTok。川普首赴国会与共和党领导曾会面，安排内容曝光。共和党人要求逮捕司法部长加兰。川普加兰TikTok</a></li>
 <li><a href="/comments/20240613/2049622.md" target="_blank">总统花落谁家 重罪犯VS重罪犯父亲</a></li>
 <li><a href="/cbnews/20240613/2049611.md" target="_blank">经济不佳苦了动物园黑熊？贵州老板没钱买饲料“天天喂青菜”</a></li>
-<li><a href="/cbnews/20240613/2049610.md" target="_blank">网红正宫当场捉奸老公车震小三 立功的“竟是特斯拉”</a></li>
-<li><a href="/cbnews/20240613/2049565.md" target="_blank">博明拜会赖清德：台海护城河 对美日菲韩都重要</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240614/2050073.md" target="_blank">川普国会之行，收生日礼物，与顽固派握手。马斯克获560亿美元薪酬，背后势力激烈博弈。川普马斯克国会大厦</a></li>
+<li><a href="/comments/20240614/2050064.md" target="_blank">【文韬政论】47人港版「美丽岛大审」后的香港沦丧</a></li>
 <li><a href="/comments/20240614/2050031.md" target="_blank">习近平三中全会前的政治清洗与经济布局 &#8211; 亚洲很想聊</a></li>
 <li><a href="/comments/20240614/2050026.md" target="_blank">俄罗斯海外财产被迫资助乌克兰</a></li>
 <li><a href="/comments/20240614/2049998.md" target="_blank">外星人在仓皇中与人对视、心灵感应！说出关于人类的超常真相！释放异常外星气体，自主选择离开地球？！美军突闯禁区介入！｜未解之谜 扶摇</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240614/2049761.md" target="_blank">高收入生活就是这样？</a></li>
 <li><a href="/comments/20240614/2049709.md" target="_blank">从&quot;小粉红&quot;到&quot;反贼&quot;： 专访海外青年抗争者杨若晖</a></li>
 <li><a href="/comments/20240614/2049698.md" target="_blank">全球67个团体联署纪念&#8221;612&#8243;五周年 500港人曼城集会吁贯彻信念</a></li>
-<li><a href="/comments/20240614/2049697.md" target="_blank">专栏 &#8211; 中国最钱线：彩票热—最低端理财抑或最后的快乐</a></li>
-<li><a href="/comments/20240614/2049696.md" target="_blank">评论 &#8211; 程晓农：冷战行为、冷战思维和冷战结果</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/topimagenews/20240511/2035423.md" target="_blank">原北京学员回忆李洪志先生在东方健康博览会上所行的奇迹</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/topimagenews/20200514/1328456.md" target="_blank">穿越时空 谢田教授亲身体验人体特异功能</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
 <li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
 
 </ul>
 </div>
