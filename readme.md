@@ -13,9 +13,9 @@
 <li><a href="/cbnews/20240614/2049815.md">七国联军“围殴”习近平 余茂春一针见血</a></li>
 <li><a href="/topimagenews/20240614/2049782.md">美铡刀落下 俄人崩溃疯抢美元 中共国悬了【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20240614/2049843.md">惊悚！“上海及很多城市，都关押着一大批活人，随时出售给...”</a></li>
+<li><a href="/topimagenews/20240614/2050011.md">重大转折点已到来：中国基层民变开始了</a></li>
 <li><a href="/yule/20240614/2049713.md">杨颖参加活动，“排骨胸”抢镜，在现场被冷落</a></li>
 <li><a href="/topimagenews/20240614/2049842.md">【微博精粹】养蛊终于养出一个里程碑</a></li>
-<li><a href="/topimagenews/20240614/2050011.md">重大转折点已到来：中国基层民变开始了</a></li>
 <li><a href="/topimagenews/20240614/2049919.md">中共五星旗挂反了！网友纷纷表示“干得漂亮”【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240614/2049783.md">遭删文：对中国用户只开另一道门 中国与世界从此分道扬镳</a></li>
 <li><a href="/sohnews/20240614/2049920.md">架空李强：习近平任命丁薛祥或何立峰担任国务院党组书记，殷秀梅通过彭丽媛摆平王维绪案，美国立法九十天内撕碎习近平。《老灯开讲第584期》</a></li>
@@ -23,11 +23,11 @@
 <li><a href="/bblog/20240614/2049737.md">〖微历史〗感谢皇军、感谢苏军</a></li>
 <li><a href="/topimagenews/20240614/2049784.md">中共干啥啥不行 就干这个事上心</a></li>
 <li><a href="/cbnews/20240614/2049733.md">中共自找的！英对中共政策大改变</a></li>
-<li><a href="/topimagenews/20240614/2049781.md">中共央行好心？万一老百姓上当，真的冲出来花光棺材本呢</a></li>
 <li><a href="/topimagenews/20240614/2049977.md">央视被雷劈、北京夜间出太阳! 高温、暴雨、大雾、强对流 中气象台4预警齐发</a></li>
+<li><a href="/topimagenews/20240614/2049781.md">中共央行好心？万一老百姓上当，真的冲出来花光棺材本呢</a></li>
+<li><a href="/worldnews/20240614/2049991.md">震惊：女子惨遭集体性侵 44名嫌犯无一人受刑罚</a></li>
+<li><a href="/sohnews/20240614/2049978.md">一名省部级高官，去世前自曝“政治遗言”，竟成中共走势预言！｜百年真相</a></li>
 <li><a href="/ssgc/20240614/2049738.md">〖微博谈〗欧盟会让中共看不起</a></li>
-<li><a href="/comments/20240614/2049798.md">60岁时你会发现 一开始就没人在乎你</a></li>
-<li><a href="/funmedia/20240614/2049816.md">印尼空姐穿裤子引热议！网友：太酷了！看起来更舒服</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240615/2050101.md" target="_blank">美国和中共桌子下面互相猛踹</a></li>
 <li><a href="/comments/20240614/2050073.md" target="_blank">川普国会之行，收生日礼物，与顽固派握手。马斯克获560亿美元薪酬，背后势力激烈博弈。川普马斯克国会大厦</a></li>
 <li><a href="/cbnews/20240614/2050066.md" target="_blank">中共长期系统发动迫害法轮功运动</a></li>
 <li><a href="/comments/20240614/2050026.md" target="_blank">俄罗斯海外财产被迫资助乌克兰</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20240614/2049684.md" target="_blank">四个被刀捅的老外来自爱荷华，那是啥地方？</a></li>
 <li><a href="/comments/20240613/2049654.md" target="_blank">川普获头号网红支持，6秒视频爆红TikTok。川普首赴国会与共和党领导曾会面，安排内容曝光。共和党人要求逮捕司法部长加兰。川普加兰TikTok</a></li>
 <li><a href="/comments/20240613/2049622.md" target="_blank">总统花落谁家 重罪犯VS重罪犯父亲</a></li>
-<li><a href="/cbnews/20240613/2049611.md" target="_blank">经济不佳苦了动物园黑熊？贵州老板没钱买饲料“天天喂青菜”</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240615/2050101.md" target="_blank">美国和中共桌子下面互相猛踹</a></li>
+<li><a href="/comments/20240615/2050094.md" target="_blank">时事大家谈：军报重提军内四只“死老虎”，官媒为何吹风“深化政治整训”？</a></li>
 <li><a href="/comments/20240614/2050073.md" target="_blank">川普国会之行，收生日礼物，与顽固派握手。马斯克获560亿美元薪酬，背后势力激烈博弈。川普马斯克国会大厦</a></li>
 <li><a href="/comments/20240614/2050064.md" target="_blank">【文韬政论】47人港版「美丽岛大审」后的香港沦丧</a></li>
 <li><a href="/comments/20240614/2050031.md" target="_blank">习近平三中全会前的政治清洗与经济布局 &#8211; 亚洲很想聊</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240614/2049796.md" target="_blank">i看见：全景还原惊魂25分钟</a></li>
 <li><a href="/comments/20240614/2049787.md" target="_blank">北卡37人案，解示非法移民投票之谜</a></li>
 <li><a href="/comments/20240614/2049761.md" target="_blank">高收入生活就是这样？</a></li>
-<li><a href="/comments/20240614/2049709.md" target="_blank">从&quot;小粉红&quot;到&quot;反贼&quot;： 专访海外青年抗争者杨若晖</a></li>
-<li><a href="/comments/20240614/2049698.md" target="_blank">全球67个团体联署纪念&#8221;612&#8243;五周年 500港人曼城集会吁贯彻信念</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
 <li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
-<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/cnnews/20221211/1822144.md" target="_blank">盖盖冲马桶很可怕！瞬间“病毒炸开”？</a></li>
 
 </ul>
 </div>
