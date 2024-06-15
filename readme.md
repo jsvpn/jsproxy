@@ -11,20 +11,20 @@
 <li><a href="/cbnews/20240615/2050175.md">“这社会太乱了，都在抢钱！”</a></li>
 <li><a href="/topimagenews/20240614/2050080.md">习近平急设局“融台救市” 国安单位曝：让台湾人救中国经济</a></li>
 <li><a href="/ccpdope/20240615/2050145.md">ChatGPT预测中国七大泡沫即将破裂 引热议</a></li>
-<li><a href="/comments/20240615/2050139.md">美国国会出手，打中共的七寸</a></li>
 <li><a href="/topimagenews/20240615/2050325.md">割肉习近平？美国会通过法案中共要气疯</a></li>
+<li><a href="/comments/20240615/2050139.md">美国国会出手，打中共的七寸</a></li>
 <li><a href="/topimagenews/20240615/2050304.md">干一行砸一行！习近平又一杰作太难堪</a></li>
-<li><a href="/worldnews/20240615/2050218.md">紧张时刻，普京突然公开亮出底牌</a></li>
 <li><a href="/comments/20240614/2050031.md">习近平三中全会前的政治清洗与经济布局 - 亚洲很想聊</a></li>
+<li><a href="/worldnews/20240615/2050218.md">紧张时刻，普京突然公开亮出底牌</a></li>
 <li><a href="/topimagenews/20240615/2050213.md">回旋镖开始打到习近平身上</a></li>
 <li><a href="/topimagenews/20240615/2050258.md">首次发生! 中共出现异动 日本进入高度警戒状态</a></li>
 <li><a href="/cbnews/20240615/2050176.md">取消城管！他们也有今天：拉横幅维权</a></li>
-<li><a href="/comments/20240615/2050179.md">为什么习近平一定要坚持折腾把经济搞坏</a></li>
 <li><a href="/topimagenews/20240615/2050305.md">中共警车追电瓶车掉高架桥 数警躺平了</a></li>
-<li><a href="/cnnews/20240615/2050318.md">邓小平政治遗嘱信息量巨大 一预言现已成真</a></li>
+<li><a href="/comments/20240615/2050179.md">为什么习近平一定要坚持折腾把经济搞坏</a></li>
 <li><a href="/topimagenews/20240615/2050344.md">马云无言以对！张忠谋成功雪耻</a></li>
-<li><a href="/topimagenews/20240615/2050277.md">朝鲜配给制度已完全崩溃！民众出现新变化</a></li>
+<li><a href="/cnnews/20240615/2050318.md">邓小平政治遗嘱信息量巨大 一预言现已成真</a></li>
 <li><a href="/cnnews/20240615/2050353.md">郭文贵大声咆哮 急欲将钱全部洗出美国</a></li>
+<li><a href="/topimagenews/20240615/2050277.md">朝鲜配给制度已完全崩溃！民众出现新变化</a></li>
 <li><a href="/baitai/20240615/2050206.md">顶尖专家：中共正在进行的研究 或终止文明</a></li>
 <li><a href="/cnnews/20240615/2050221.md">世界第一女海王，被1000位男人求婚，她却选择…</a></li>
 <li><a href="/finance/20240615/2050169.md">习“头疼”！今年创纪录，浩浩荡荡失业大军杀到；穷得响叮当，中共什么招都来了</a></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240615/2050470.md" target="_blank">川普要废所得税，是疯狂还是理智？</a></li>
 <li><a href="/cbnews/20240615/2050458.md" target="_blank">赖清德登时代杂志封面 成“亚洲的泽伦斯基”</a></li>
 <li><a href="/comments/20240615/2050455.md" target="_blank">最懂川普的人纳瓦罗谈出狱计划。新书成川普非官方指南。司法部决定不起诉加兰，共和党人决定将加兰关进众议院监狱。纳瓦罗川普加兰</a></li>
 <li><a href="/cbnews/20240615/2050440.md" target="_blank">分析：中共三中全会前 中办发文泄露大问题</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20240615/2050245.md" target="_blank">川普重返华府，发惊人言论：废所得税</a></li>
 <li><a href="/cbnews/20240615/2050233.md" target="_blank">辽宁2男惨遭天打雷劈变“火人” 惊悚影片曝光</a></li>
 <li><a href="/cbnews/20240615/2050215.md" target="_blank">黑龙江和华南四省暴雨 洪水泛滥</a></li>
-<li><a href="/cbnews/20240615/2050199.md" target="_blank">美国务院六万封电邮遭中共入侵 微软总裁国会作证</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240615/2050470.md" target="_blank">川普要废所得税，是疯狂还是理智？</a></li>
 <li><a href="/comments/20240615/2050455.md" target="_blank">最懂川普的人纳瓦罗谈出狱计划。新书成川普非官方指南。司法部决定不起诉加兰，共和党人决定将加兰关进众议院监狱。纳瓦罗川普加兰</a></li>
 <li><a href="/comments/20240615/2050432.md" target="_blank">外交部敬告四美国人：中国最安全</a></li>
 <li><a href="/comments/20240615/2050427.md" target="_blank">渖涧松：她那年十九岁（连载四十）</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240615/2050180.md" target="_blank">吴奕军:董军代表了中共战狼外交又开始</a></li>
 <li><a href="/comments/20240615/2050179.md" target="_blank">为什么习近平一定要坚持折腾把经济搞坏</a></li>
 <li><a href="/comments/20240615/2050172.md" target="_blank">马斯克在股东大会大获全胜，要卷土重来</a></li>
-<li><a href="/comments/20240615/2050167.md" target="_blank">6月12日，旧金山多个族裔人士齐聚中领馆门外，抗议中国在南海的扩张</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20231204/1969287.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （三）</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
 <li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/sohnews/20160119/493472.md" target="_blank">无效的医疗：手术刀下的谎言和药瓶里的欺骗</a></li>
+<li><a href="/comments/20231212/1972297.md" target="_blank">日本华人确诊晚期直肠癌，修炼法轮功恢复健康（图）</a></li>
 <li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
-<li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
 
 </ul>
 </div>
