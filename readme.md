@@ -11,23 +11,23 @@
 <li><a href="/sohnews/20240614/2049920.md">架空李强：习近平任命丁薛祥或何立峰担任国务院党组书记，殷秀梅通过彭丽媛摆平王维绪案，美国立法九十天内撕碎习近平。《老灯开讲第584期》</a></li>
 <li><a href="/worldnews/20240614/2049991.md">震惊：女子惨遭集体性侵 44名嫌犯无一人受刑罚</a></li>
 <li><a href="/topimagenews/20240614/2050038.md">沙特阿拉伯不续签 50年石油美元时代结束</a></li>
-<li><a href="/sohnews/20240614/2049978.md">一名省部级高官，去世前自曝“政治遗言”，竟成中共走势预言！｜百年真相</a></li>
 <li><a href="/cbnews/20240615/2050261.md">李强没有回答，被官员带出了大楼…</a></li>
+<li><a href="/sohnews/20240614/2049978.md">一名省部级高官，去世前自曝“政治遗言”，竟成中共走势预言！｜百年真相</a></li>
 <li><a href="/cbnews/20240615/2050175.md">“这社会太乱了，都在抢钱！”</a></li>
 <li><a href="/topimagenews/20240614/2050080.md">习近平急设局“融台救市” 国安单位曝：让台湾人救中国经济</a></li>
 <li><a href="/comments/20240615/2050139.md">美国国会出手，打中共的七寸</a></li>
 <li><a href="/ccpdope/20240615/2050145.md">ChatGPT预测中国七大泡沫即将破裂 引热议</a></li>
-<li><a href="/topimagenews/20240614/2049977.md">央视被雷劈、北京夜间出太阳! 高温、暴雨、大雾、强对流 中气象台4预警齐发</a></li>
 <li><a href="/cbnews/20240615/2050176.md">取消城管！他们也有今天：拉横幅维权</a></li>
-<li><a href="/comments/20240614/2050031.md">习近平三中全会前的政治清洗与经济布局 - 亚洲很想聊</a></li>
+<li><a href="/topimagenews/20240614/2049977.md">央视被雷劈、北京夜间出太阳! 高温、暴雨、大雾、强对流 中气象台4预警齐发</a></li>
 <li><a href="/topimagenews/20240615/2050213.md">回旋镖开始打到习近平身上</a></li>
-<li><a href="/comments/20240615/2050179.md">为什么习近平一定要坚持折腾把经济搞坏</a></li>
 <li><a href="/worldnews/20240615/2050218.md">紧张时刻，普京突然公开亮出底牌</a></li>
+<li><a href="/comments/20240614/2050031.md">习近平三中全会前的政治清洗与经济布局 - 亚洲很想聊</a></li>
+<li><a href="/comments/20240615/2050179.md">为什么习近平一定要坚持折腾把经济搞坏</a></li>
 <li><a href="/topimagenews/20240614/2049976.md">拥有近20万用户！北京科技公司突然爆雷</a></li>
-<li><a href="/topimagenews/20240614/2050041.md">陆企向俄购买2千吨铜惊传失踪 恐被运到这国</a></li>
 <li><a href="/topimagenews/20240615/2050258.md">首次发生! 中共出现异动 日本进入高度警戒状态</a></li>
+<li><a href="/topimagenews/20240614/2050041.md">陆企向俄购买2千吨铜惊传失踪 恐被运到这国</a></li>
+<li><a href="/baitai/20240615/2050206.md">顶尖专家：中共正在进行的研究 或终止文明</a></li>
 <li><a href="/cnnews/20240614/2050085.md">普亭停火提议“乌撤出占领区＋放弃入北约” 美防长表态了</a></li>
-<li><a href="/ccpdope/20240615/2050115.md">刀把子救经济 三中全会走进历史垃圾时刻</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240615/2050359.md" target="_blank">抗衡中国 菲律宾在三描礼士省兴建反舰飞弹基地</a></li>
 <li><a href="/cbnews/20240615/2050346.md" target="_blank">G7峰会三大议题抗共 专家：欧美团结很重要</a></li>
 <li><a href="/cbnews/20240615/2050345.md" target="_blank">河南高温 养殖虾变红 农地干裂 农民祈雨</a></li>
 <li><a href="/cbnews/20240615/2050342.md" target="_blank">江峰：只有三个月！习近平如何躲过美国情报彻查？城管将消亡！制服流氓为何被抛弃；华为卖牛肉凸显国家的窘境；铁头靖国神社尿尿报应来了【江峰漫谈20240614第886期】</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20240615/2050172.md" target="_blank">马斯克在股东大会大获全胜，要卷土重来</a></li>
 <li><a href="/comments/20240615/2050139.md" target="_blank">美国国会出手，打中共的七寸</a></li>
 <li><a href="/comments/20240615/2050101.md" target="_blank">美国和中共桌子下面互相猛踹</a></li>
-<li><a href="/comments/20240614/2050073.md" target="_blank">川普国会之行，收生日礼物，与顽固派握手。马斯克获560亿美元薪酬，背后势力激烈博弈。川普马斯克国会大厦</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/sohnews/20160119/493472.md" target="_blank">无效的医疗：手术刀下的谎言和药瓶里的欺骗</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20231213/1973586.md" target="_blank">六道轮回之畜生道</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
+<li><a href="/comments/20240418/2026391.md" target="_blank">医生劝我妻子放弃，似乎这些医生热衷让病人快点去死？</a></li>
 
 </ul>
 </div>
