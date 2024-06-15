@@ -15,19 +15,19 @@
 <li><a href="/sohnews/20240614/2049978.md">一名省部级高官，去世前自曝“政治遗言”，竟成中共走势预言！｜百年真相</a></li>
 <li><a href="/ccpdope/20240615/2050145.md">ChatGPT预测中国七大泡沫即将破裂 引热议</a></li>
 <li><a href="/comments/20240615/2050139.md">美国国会出手，打中共的七寸</a></li>
+<li><a href="/cbnews/20240615/2050175.md">“这社会太乱了，都在抢钱！”</a></li>
 <li><a href="/topimagenews/20240614/2049977.md">央视被雷劈、北京夜间出太阳! 高温、暴雨、大雾、强对流 中气象台4预警齐发</a></li>
 <li><a href="/topimagenews/20240614/2050080.md">习近平急设局“融台救市” 国安单位曝：让台湾人救中国经济</a></li>
-<li><a href="/cbnews/20240615/2050175.md">“这社会太乱了，都在抢钱！”</a></li>
+<li><a href="/cbnews/20240615/2050176.md">取消城管！他们也有今天：拉横幅维权</a></li>
 <li><a href="/comments/20240614/2050031.md">习近平三中全会前的政治清洗与经济布局 - 亚洲很想聊</a></li>
 <li><a href="/topimagenews/20240614/2049976.md">拥有近20万用户！北京科技公司突然爆雷</a></li>
-<li><a href="/cbnews/20240615/2050176.md">取消城管！他们也有今天：拉横幅维权</a></li>
 <li><a href="/topimagenews/20240614/2050041.md">陆企向俄购买2千吨铜惊传失踪 恐被运到这国</a></li>
-<li><a href="/cnnews/20240614/2050085.md">普亭停火提议“乌撤出占领区＋放弃入北约” 美防长表态了</a></li>
 <li><a href="/topimagenews/20240615/2050213.md">回旋镖开始打到习近平身上</a></li>
+<li><a href="/cbnews/20240615/2050261.md">李强没有回答，被官员带出了大楼…</a></li>
+<li><a href="/cnnews/20240614/2050085.md">普亭停火提议“乌撤出占领区＋放弃入北约” 美防长表态了</a></li>
+<li><a href="/headline/20240614/2050036.md">港媒称贵州茅台价格断崖下跌</a></li>
 <li><a href="/sohnews/20240614/2049981.md">文睿：一尊，被推入死角，这是，要出大事儿的节奏啊</a></li>
 <li><a href="/finance/20240614/2049873.md">“天花板”都在坠落！中国这行业断崖式缩水</a></li>
-<li><a href="/headline/20240614/2050036.md">港媒称贵州茅台价格断崖下跌</a></li>
-<li><a href="/baitai/20240614/2049962.md">「巨大」发现！ 找到癌症复发关键元凶</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240615/2050325.md" target="_blank">割肉习近平？美国会通过法案中共要气疯</a></li>
 <li><a href="/topimagenews/20240615/2050307.md" target="_blank">对决中共022导弹快艇 菲律宾新武器曝光</a></li>
 <li><a href="/topimagenews/20240615/2050306.md" target="_blank">谁是这世界上最毒的蛇？</a></li>
 <li><a href="/topimagenews/20240615/2050305.md" target="_blank">中共警车追电瓶车掉高架桥 数警躺平了</a></li>
@@ -90,13 +91,14 @@
 <li><a href="/topimagenews/20240614/2050037.md" target="_blank">东京巴士“中国人砍中国人”！凶嫌被捕 目击者曝案发过程</a></li>
 <li><a href="/topimagenews/20240614/2050011.md" target="_blank">重大转折点已到来：中国基层民变开始了</a></li>
 <li><a href="/topimagenews/20240614/2050010.md" target="_blank">特警镇压劳工! 公司遭强拆、欠薪 中国多地爆发工人抗争事件</a></li>
-<li><a href="/topimagenews/20240614/2050008.md" target="_blank">F-16首次攻入俄境? 俄S-400又睡着了 第6集团军司令部挨轰 多人埋在废墟中</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240615/2050328.md" target="_blank">菏东诗吼：当15%的失业率遇上1179万毕业生</a></li>
+<li><a href="/comments/20240615/2050327.md" target="_blank">吴淑斌:985、211毕业生“反向升学”读技校，找到更高薪的工作了吗？</a></li>
 <li><a href="/comments/20240615/2050314.md" target="_blank">老公失业躺平，我压力好大…</a></li>
 <li><a href="/comments/20240615/2050313.md" target="_blank">周大锤:你吃的外卖，半年前就做好了</a></li>
 <li><a href="/comments/20240615/2050312.md" target="_blank">木蹊说：黄仁勋有奶便是娘</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240614/2050064.md" target="_blank">【文韬政论】47人港版「美丽岛大审」后的香港沦丧</a></li>
 <li><a href="/comments/20240614/2050031.md" target="_blank">习近平三中全会前的政治清洗与经济布局 &#8211; 亚洲很想聊</a></li>
 <li><a href="/comments/20240614/2050026.md" target="_blank">俄罗斯海外财产被迫资助乌克兰</a></li>
-<li><a href="/comments/20240614/2049998.md" target="_blank">外星人在仓皇中与人对视、心灵感应！说出关于人类的超常真相！释放异常外星气体，自主选择离开地球？！美军突闯禁区介入！｜未解之谜 扶摇</a></li>
-<li><a href="/comments/20240614/2049994.md" target="_blank">【杜耀明评论】谁颠覆香港，初选案47人还是法庭裁决？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
 <li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/comments/20240116/1984226.md" target="_blank">湖北老河口遇仙记</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/cbnews/20240603/2045072.md" target="_blank">漫谈古代科举之八股文</a></li>
+<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20231213/1973586.md" target="_blank">六道轮回之畜生道</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
 
 </ul>
 </div>
