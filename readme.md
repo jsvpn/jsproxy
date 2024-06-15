@@ -10,7 +10,6 @@
 <li><a href="/ccpdope/20240615/2050145.md">ChatGPT预测中国七大泡沫即将破裂 引热议</a></li>
 <li><a href="/topimagenews/20240615/2050304.md">干一行砸一行！习近平又一杰作太难堪</a></li>
 <li><a href="/worldnews/20240615/2050218.md">紧张时刻，普京突然公开亮出底牌</a></li>
-<li><a href="/comments/20240615/2050139.md">美国国会出手，打中共的七寸</a></li>
 <li><a href="/topimagenews/20240615/2050325.md">割肉习近平？美国会通过法案中共要气疯</a></li>
 <li><a href="/topimagenews/20240615/2050258.md">首次发生! 中共出现异动 日本进入高度警戒状态</a></li>
 <li><a href="/topimagenews/20240615/2050213.md">回旋镖开始打到习近平身上</a></li>
@@ -22,12 +21,13 @@
 <li><a href="/topimagenews/20240615/2050344.md">马云无言以对！张忠谋成功雪耻</a></li>
 <li><a href="/sohnews/20240615/2050378.md">真狠：刘源确实被查与刘亚洲一样下场，后习时代已经开始，三中全会推迟的真实原因。《老灯开讲第585期》</a></li>
 <li><a href="/ccpdope/20240615/2050390.md">今年都哭了，广东正经受痛苦煎熬</a></li>
-<li><a href="/baitai/20240615/2050414.md">中共央行不买黄金了？专家揭黑幕</a></li>
+<li><a href="/cbnews/20240615/2050438.md">上海20层高楼现大裂痕 手指能伸进去 居民慌了</a></li>
 <li><a href="/cnnews/20240615/2050353.md">郭文贵大声咆哮 急欲将钱全部洗出美国</a></li>
+<li><a href="/baitai/20240615/2050414.md">中共央行不买黄金了？专家揭黑幕</a></li>
 <li><a href="/cbnews/20240615/2050439.md">有钱男买3车位全停玩具车！ 警卫砸了 结果赔惨</a></li>
 <li><a href="/topimagenews/20240615/2050277.md">朝鲜配给制度已完全崩溃！民众出现新变化</a></li>
-<li><a href="/cbnews/20240615/2050438.md">上海20层高楼现大裂痕 手指能伸进去 居民慌了</a></li>
 <li><a href="/baitai/20240615/2050206.md">顶尖专家：中共正在进行的研究 或终止文明</a></li>
+<li><a href="/cbnews/20240615/2050321.md">〖红朝浮世绘〗如此对待领袖雕像 既没有被抓也没有被关精神病院还被表扬了？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240616/2050517.md" target="_blank">高院想来想去判不下去J6案，卡在哪里？</a></li>
 <li><a href="/comments/20240615/2050470.md" target="_blank">川普要废所得税，是疯狂还是理智？</a></li>
 <li><a href="/cbnews/20240615/2050458.md" target="_blank">赖清德登时代杂志封面 成“亚洲的泽伦斯基”</a></li>
 <li><a href="/comments/20240615/2050455.md" target="_blank">最懂川普的人纳瓦罗谈出狱计划。新书成川普非官方指南。司法部决定不起诉加兰，共和党人决定将加兰关进众议院监狱。纳瓦罗川普加兰</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240615/2050261.md" target="_blank">李强没有回答，被官员带出了大楼…</a></li>
 <li><a href="/comments/20240615/2050245.md" target="_blank">川普重返华府，发惊人言论：废所得税</a></li>
 <li><a href="/cbnews/20240615/2050233.md" target="_blank">辽宁2男惨遭天打雷劈变“火人” 惊悚影片曝光</a></li>
-<li><a href="/cbnews/20240615/2050215.md" target="_blank">黑龙江和华南四省暴雨 洪水泛滥</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240616/2050517.md" target="_blank">高院想来想去判不下去J6案，卡在哪里？</a></li>
 <li><a href="/comments/20240616/2050504.md" target="_blank">天亮时分：俄罗斯经济真的崩了</a></li>
 <li><a href="/comments/20240615/2050470.md" target="_blank">川普要废所得税，是疯狂还是理智？</a></li>
 <li><a href="/comments/20240615/2050455.md" target="_blank">最懂川普的人纳瓦罗谈出狱计划。新书成川普非官方指南。司法部决定不起诉加兰，共和党人决定将加兰关进众议院监狱。纳瓦罗川普加兰</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240615/2050210.md" target="_blank">国台办向黄仁勳发起最後的总攻攻攻……</a></li>
 <li><a href="/comments/20240615/2050181.md" target="_blank">颜纯钩:外籍法官荷戟守土，内心交战去留两难</a></li>
 <li><a href="/comments/20240615/2050180.md" target="_blank">吴奕军:董军代表了中共战狼外交又开始</a></li>
-<li><a href="/comments/20240615/2050179.md" target="_blank">为什么习近平一定要坚持折腾把经济搞坏</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20231213/1973586.md" target="_blank">六道轮回之畜生道</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/cnnews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
-<li><a href="/comments/20240418/2026391.md" target="_blank">医生劝我妻子放弃，似乎这些医生热衷让病人快点去死？</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/comments/20231212/1972297.md" target="_blank">日本华人确诊晚期直肠癌，修炼法轮功恢复健康（图）</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
 <li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
 
 </ul>
 </div>
