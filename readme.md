@@ -9,25 +9,25 @@
 <li><a href="/topimagenews/20240616/2050672.md">习近平忘恩负义 一转身就要消灭它【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240616/2050549.md">哈佛抛震撼弹！最新研究报告揭秘</a></li>
 <li><a href="/topimagenews/20240616/2050560.md">断了中共出路！土耳其一则总统令冲上热搜</a></li>
-<li><a href="/cbnews/20240616/2050698.md">女乘客胸部太大被拦下！中国海关挖出大秘宝</a></li>
 <li><a href="/topimagenews/20240616/2050643.md">中共国祭出一份公告 多少人将倾家荡产？</a></li>
+<li><a href="/cbnews/20240616/2050698.md">女乘客胸部太大被拦下！中国海关挖出大秘宝</a></li>
 <li><a href="/cbnews/20240616/2050645.md">这里“还有习某某的头像和语录，给我恶心坏了”</a></li>
 <li><a href="/topimagenews/20240616/2050559.md">广州上海 中国两大经济引擎太反常</a></li>
 <li><a href="/ccpdope/20240616/2050731.md">政变，是习近平挥之不去的梦魇</a></li>
-<li><a href="/topimagenews/20240616/2050671.md">【微博精粹】克隆独裁者计划 已经从中南海魔盒放出</a></li>
 <li><a href="/topimagenews/20240616/2050769.md">英媒曝习近平宣称“美试图怂恿中国攻击台湾” 网酸：找台阶下了</a></li>
+<li><a href="/topimagenews/20240616/2050671.md">【微博精粹】克隆独裁者计划 已经从中南海魔盒放出</a></li>
 <li><a href="/topimagenews/20240616/2050548.md">为什么习近平一定要坚持折腾把经济搞坏？回旋镖开始打到习身上【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240616/2050585.md">告别二线城市，我们用25万在日本重启人生</a></li>
 <li><a href="/ccpdope/20240616/2050524.md">阵容庞大 中俄缺席：三大要点看懂乌克兰峰会</a></li>
 <li><a href="/baitai/20240616/2050797.md">剑指胡春华？三中全会前 又一个正省部级「老虎」落马</a></li>
 <li><a href="/cbnews/20240616/2050561.md">中共高官大言不惭说这话 引网民嘲讽</a></li>
+<li><a href="/comments/20240616/2050768.md">撒尿大王铁头後悔了</a></li>
 <li><a href="/topimagenews/20240616/2050584.md">中国人最想住的房子，如今白菜价也没人要</a></li>
 <li><a href="/cnnews/20240616/2050626.md">中国银行就要被违约逼疯了</a></li>
-<li><a href="/comments/20240616/2050768.md">撒尿大王铁头後悔了</a></li>
 <li><a href="/cbnews/20240616/2050686.md">习要“天下大乱！”找机会开战？</a></li>
+<li><a href="/sohnews/20240616/2050758.md">大使馆用发钱忽悠群众迎接李强🤣</a></li>
 <li><a href="/cnnews/20240616/2050605.md">整个中共国闭口不谈 这里大灾当前</a></li>
 <li><a href="/sohnews/20240616/2050202.md">文革中检举坑害邓小平，向毛泽东下跪求饶，获释后经常嚎啕大哭（2024年6月14日）</a></li>
-<li><a href="/sohnews/20240616/2050758.md">大使馆用发钱忽悠群众迎接李强🤣</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240617/2050830.md" target="_blank">DEI遭遇滑铁卢，MEI要成为公司文化？</a></li>
 <li><a href="/cbnews/20240617/2050821.md" target="_blank">桥水创办人：中国经济正在进入百年风暴</a></li>
 <li><a href="/cbnews/20240617/2050820.md" target="_blank">中共三中前西藏前书记吴英杰被查 箭指胡春华？</a></li>
 <li><a href="/cbnews/20240616/2050801.md" target="_blank">儿子被判定脑死亡 母亲吿武汉医院为器官害命</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240616/2050674.md" target="_blank">物产中大回应2千顿铜失踪 网曝类似事件不止一起</a></li>
 <li><a href="/comments/20240616/2050656.md" target="_blank">【杰森视角】中国7大泡沫一起破是必然！欧美贷款给乌克兰却让俄罗斯还，原因并不是你想像的！财富缩水的中国人比例惊人？俄罗斯和乌克兰都亮出停战条件！泽连斯基为何终于忍不住公开骂中共了？</a></li>
 <li><a href="/cbnews/20240616/2050646.md" target="_blank">中国公司第二大股东打断妻多根肋骨 被提公诉</a></li>
-<li><a href="/cbnews/20240616/2050645.md" target="_blank">这里“还有习某某的头像和语录，给我恶心坏了”</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240617/2050830.md" target="_blank">DEI遭遇滑铁卢，MEI要成为公司文化？</a></li>
 <li><a href="/comments/20240616/2050796.md" target="_blank">从零关税到高关税，西方学到了什么？</a></li>
 <li><a href="/comments/20240616/2050768.md" target="_blank">撒尿大王铁头後悔了</a></li>
 <li><a href="/comments/20240616/2050756.md" target="_blank">2024总统大选辩论，仿佛回到1960年</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240616/2050580.md" target="_blank">天亮时分：G7峰会放大招：中共谎言被戳穿</a></li>
 <li><a href="/comments/20240616/2050569.md" target="_blank">蔡明芳:从美、欧产业结构的差异看央行利率决策的变化</a></li>
 <li><a href="/comments/20240616/2050568.md" target="_blank">袁斌：从俄乌战争谈中共的承诺</a></li>
-<li><a href="/comments/20240616/2050567.md" target="_blank">颜丹：中国人为何不同意“配送员跟党走”？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/comments/20231213/1973586.md" target="_blank">六道轮回之畜生道</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
 <li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
 <li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
 
 </ul>
 </div>
