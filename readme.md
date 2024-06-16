@@ -8,22 +8,22 @@
 <li><a href="/topimagenews/20240616/2050547.md">上海1景象吓坏人！八方云集撤离中国</a></li>
 <li><a href="/cbnews/20240616/2050698.md">女乘客胸部太大被拦下！中国海关挖出大秘宝</a></li>
 <li><a href="/topimagenews/20240616/2050672.md">习近平忘恩负义 一转身就要消灭它【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20240616/2050560.md">断了中共出路！土耳其一则总统令冲上热搜</a></li>
 <li><a href="/topimagenews/20240616/2050549.md">哈佛抛震撼弹！最新研究报告揭秘</a></li>
+<li><a href="/topimagenews/20240616/2050560.md">断了中共出路！土耳其一则总统令冲上热搜</a></li>
 <li><a href="/comments/20240616/2050504.md">天亮时分：俄罗斯经济真的崩了</a></li>
+<li><a href="/sohnews/20240615/2050484.md">公安审批银行提款很可笑，但可怕的是这个！</a></li>
 <li><a href="/topimagenews/20240616/2050643.md">中共国祭出一份公告 多少人将倾家荡产？</a></li>
 <li><a href="/cbnews/20240616/2050645.md">这里“还有习某某的头像和语录，给我恶心坏了”</a></li>
-<li><a href="/sohnews/20240615/2050484.md">公安审批银行提款很可笑，但可怕的是这个！</a></li>
 <li><a href="/topimagenews/20240616/2050559.md">广州上海 中国两大经济引擎太反常</a></li>
-<li><a href="/topimagenews/20240616/2050671.md">【微博精粹】克隆独裁者计划 已经从中南海魔盒放出</a></li>
-<li><a href="/topimagenews/20240616/2050548.md">为什么习近平一定要坚持折腾把经济搞坏？回旋镖开始打到习身上【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240616/2050585.md">告别二线城市，我们用25万在日本重启人生</a></li>
+<li><a href="/topimagenews/20240616/2050548.md">为什么习近平一定要坚持折腾把经济搞坏？回旋镖开始打到习身上【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20240616/2050671.md">【微博精粹】克隆独裁者计划 已经从中南海魔盒放出</a></li>
 <li><a href="/ccpdope/20240616/2050524.md">阵容庞大 中俄缺席：三大要点看懂乌克兰峰会</a></li>
+<li><a href="/ccpdope/20240616/2050731.md">政变，是习近平挥之不去的梦魇</a></li>
 <li><a href="/cbnews/20240616/2050561.md">中共高官大言不惭说这话 引网民嘲讽</a></li>
+<li><a href="/topimagenews/20240616/2050584.md">中国人最想住的房子，如今白菜价也没人要</a></li>
 <li><a href="/cbnews/20240616/2050686.md">习要“天下大乱！”找机会开战？</a></li>
 <li><a href="/cnnews/20240616/2050626.md">中国银行就要被违约逼疯了</a></li>
-<li><a href="/ccpdope/20240616/2050731.md">政变，是习近平挥之不去的梦魇</a></li>
-<li><a href="/topimagenews/20240616/2050584.md">中国人最想住的房子，如今白菜价也没人要</a></li>
 <li><a href="/cnnews/20240616/2050605.md">整个中共国闭口不谈 这里大灾当前</a></li>
 <li><a href="/ssgc/20240616/2050614.md">〖微博谈〗一切都是有意而为</a></li>
 <li><a href="/sohnews/20240616/2050202.md">文革中检举坑害邓小平，向毛泽东下跪求饶，获释后经常嚎啕大哭（2024年6月14日）</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
-<li><a href="/comments/20240116/1984226.md" target="_blank">湖北老河口遇仙记</a></li>
-<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20231214/1974098.md" target="_blank">美国众议院议长：我所坚守的保守主义，具体是些什么内容？</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
-<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
-<li><a href="/comments/20190701/1151501.md" target="_blank">【特稿】中国共产党是邪教组织</a></li>
-<li><a href="/comments/20231213/1973586.md" target="_blank">六道轮回之畜生道</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20231212/1972297.md" target="_blank">日本华人确诊晚期直肠癌，修炼法轮功恢复健康（图）</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
 <li><a href="/tculture/20231217/1975364.md" target="_blank">医山夜话：张锡纯医案解读（1）根治失眠 思路清晰</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
 
 </ul>
 </div>
