@@ -15,19 +15,19 @@
 <li><a href="/cbnews/20240615/2050438.md">上海20层高楼现大裂痕 手指能伸进去 居民慌了</a></li>
 <li><a href="/ccpdope/20240615/2050390.md">今年都哭了，广东正经受痛苦煎熬</a></li>
 <li><a href="/baitai/20240615/2050414.md">中共央行不买黄金了？专家揭黑幕</a></li>
-<li><a href="/cbnews/20240615/2050321.md">〖红朝浮世绘〗如此对待领袖雕像 既没有被抓也没有被关精神病院还被表扬了？</a></li>
-<li><a href="/worldnews/20240615/2050459.md">“中国正在在加速白头山中国化”</a></li>
 <li><a href="/topimagenews/20240616/2050549.md">哈佛抛震撼弹！最新研究报告揭秘</a></li>
-<li><a href="/cbnews/20240615/2050342.md">江峰：只有三个月！习近平如何躲过美国情报彻查？城管将消亡！制服流氓为何被抛弃；华为卖牛肉凸显国家的窘境；铁头靖国神社尿尿报应来了【江峰漫谈20240614第886期】</a></li>
+<li><a href="/worldnews/20240615/2050459.md">“中国正在在加速白头山中国化”</a></li>
 <li><a href="/health/20240615/2050403.md">含钾是香蕉12倍！夏天吃正合适，建议中老年常吃，精力充沛显年轻</a></li>
+<li><a href="/cbnews/20240615/2050342.md">江峰：只有三个月！习近平如何躲过美国情报彻查？城管将消亡！制服流氓为何被抛弃；华为卖牛肉凸显国家的窘境；铁头靖国神社尿尿报应来了【江峰漫谈20240614第886期】</a></li>
 <li><a href="/comments/20240616/2050504.md">天亮时分：俄罗斯经济真的崩了</a></li>
+<li><a href="/topimagenews/20240616/2050560.md">断了中共出路！土耳其一则总统令冲上热搜</a></li>
 <li><a href="/lifebaike/20240615/2050350.md">北京神秘大楼，普通人进去一圈就能改变命运</a></li>
 <li><a href="/ccpdope/20240616/2050524.md">阵容庞大 中俄缺席：三大要点看懂乌克兰峰会</a></li>
 <li><a href="/topimagenews/20240615/2050435.md">锂电池起火怎么办？手机别边睡边充电 安全须知一次看</a></li>
-<li><a href="/topimagenews/20240616/2050560.md">断了中共出路！土耳其一则总统令冲上热搜</a></li>
 <li><a href="/sohnews/20240615/2050484.md">公安审批银行提款很可笑，但可怕的是这个！</a></li>
 <li><a href="/cbnews/20240615/2050336.md">中共就该“付出代价”！英相G7峰会公开撂狠话</a></li>
 <li><a href="/cnnews/20240615/2050412.md">网红户晨风拍摄韩国最低薪资购买力 中国网民集体崩溃</a></li>
+<li><a href="/comments/20240616/2050534.md">波音和空客在飞机用的 “假冒”钛 可能来自中国？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240616/2050684.md" target="_blank">【全球67个团体联署纪念&quot;612&quot;五周年 500港人曼城集会】</a></li>
 <li><a href="/comments/20240616/2050656.md" target="_blank">【杰森视角】中国7大泡沫一起破是必然！欧美贷款给乌克兰却让俄罗斯还，原因并不是你想像的！财富缩水的中国人比例惊人？俄罗斯和乌克兰都亮出停战条件！泽连斯基为何终于忍不住公开骂中共了？</a></li>
 <li><a href="/comments/20240616/2050655.md" target="_blank">蒋理:说说75年来的三次密集“自杀”现象</a></li>
 <li><a href="/comments/20240616/2050654.md" target="_blank">欧战之王：对不起，俄罗斯划下的红线，又被扯断了</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240616/2050565.md" target="_blank">王友群：非法剥夺中国公民国籍不得人心</a></li>
 <li><a href="/comments/20240616/2050534.md" target="_blank">波音和空客在飞机用的 “假冒”钛 可能来自中国？</a></li>
 <li><a href="/comments/20240616/2050517.md" target="_blank">高院想来想去判不下去J6案，卡在哪里？</a></li>
-<li><a href="/comments/20240616/2050504.md" target="_blank">天亮时分：俄罗斯经济真的崩了</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/aomi/life/20240330/2018911.md" target="_blank">挪威青年这样走出重度失眠和抑郁煎熬</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
 <li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
 
 </ul>
 </div>
