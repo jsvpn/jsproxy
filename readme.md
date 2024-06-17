@@ -6,13 +6,10 @@
 <ul>
 
 <li><a href="/topimagenews/20240617/2050886.md">习和中南海高官们 这幅图景令他们寝食难安、胆战心惊…</a></li>
-<li><a href="/topimagenews/20240617/2050855.md">英媒踢爆：这将摧毁中国许多城市！习私下认怂 拉美国垫背？</a></li>
 <li><a href="/cbnews/20240617/2050875.md">信号！新一轮整肃即将开始？中央办公厅发文</a></li>
 <li><a href="/cnnews/20240617/2050867.md">女学生图书馆收男生纸条窃喜 打开一看当场社死</a></li>
-<li><a href="/topimagenews/20240617/2050857.md">美卫星拍到共军大秘密！上海长兴岛测试场惊现…【阿波罗网翻译报道】</a></li>
 <li><a href="/topimagenews/20240617/2050899.md">李强狼狈不堪：大雨滂沱里，被夹道“大狙击”</a></li>
 <li><a href="/topimagenews/20240617/2050924.md">中共出动大批警察闯民宅 一市一天绑架30多人</a></li>
-<li><a href="/topimagenews/20240617/2050856.md">重大信号！新一轮财富爆发起点？中共设立史无前例新机构【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240617/2051082.md">中国疫情死了4亿多人？骇客入侵中共数据库 意外揭露绝机密</a></li>
 <li><a href="/topimagenews/20240617/2050864.md">性命攸关！买了国产电动汽车 你一定要知道的...</a></li>
 <li><a href="/cbnews/20240617/2051083.md">彭丽媛插手人事并图官位 日媒：犹如毛晚年时的江青</a></li>
@@ -27,7 +24,10 @@
 <li><a href="/topimagenews/20240617/2051081.md">器官配对恐怖快速！ 河南丢3童 次日直升机11分钟完成运送 武汉青年也“被捐赠”</a></li>
 <li><a href="/cnnews/20240617/2050934.md">火了！银行女拍片告白副行长 却被放群里…老公亦在群中</a></li>
 <li><a href="/comments/20240617/2050906.md">习近平能实现独裁，原因只有一个</a></li>
-<li><a href="/comments/20240617/2050852.md">【聚焦中国】甄子丹御用替身张磊猝死年仅39岁 中国跑酷元老</a></li>
+<li><a href="/topimagenews/20240617/2051122.md">战时内阁玩不下去了! 以军不听号令 重要成员退出 纳坦雅胡宣布解散</a></li>
+<li><a href="/health/20240617/2051049.md">夏天，少吃牛羊肉多吃它，蛋白质含量极高，随手一煮，营养又解馋</a></li>
+<li><a href="/cbnews/20240617/2051103.md">13名中共高官密集病亡 包括2名中将</a></li>
+<li><a href="/ssgc/20240617/2050949.md">〖微博谈〗只能骗骗一部分人</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240618/2051185.md" target="_blank">JD万斯在川普副手名单中遥遥领先。全网最深刻！纳瓦罗剖析川普副总统筛选标准。拜登洛杉矶筹款创纪录，身体再次出现状况。川普竞选搭档拜登</a></li>
 <li><a href="/cbnews/20240617/2051123.md" target="_blank">中国南方暴雨成灾！广东逾13万户停电、福建武平县经济损失达4.15亿元</a></li>
 <li><a href="/cbnews/20240617/2051107.md" target="_blank">日本神社遭小粉红涂鸦 中国11家旅行社或被连累</a></li>
 <li><a href="/cbnews/20240617/2051106.md" target="_blank">爆点？中共海警船和菲律宾补给船在南海相撞</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240617/2050901.md" target="_blank">直击河南干旱：“活了50年，没见过这样干旱”</a></li>
 <li><a href="/comments/20240617/2050883.md" target="_blank">剖析首场总统电视辩论规则，究竟对谁更有利？川普透露与马斯克的个人关系。马斯克呼吁废除电子投票机。电视辩论川普美国大选</a></li>
 <li><a href="/cbnews/20240617/2050877.md" target="_blank">中共若开战 海军可能最先输光</a></li>
-<li><a href="/cbnews/20240617/2050876.md" target="_blank">中共官媒痛批俄罗斯“屡屡刷新丢人记录”</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240618/2051185.md" target="_blank">JD万斯在川普副手名单中遥遥领先。全网最深刻！纳瓦罗剖析川普副总统筛选标准。拜登洛杉矶筹款创纪录，身体再次出现状况。川普竞选搭档拜登</a></li>
 <li><a href="/comments/20240617/2051115.md" target="_blank">【泽论四方】中国已经到了令西方难以容忍的限度</a></li>
 <li><a href="/comments/20240617/2051088.md" target="_blank">墨西哥人来中国上大学，不要钱</a></li>
 <li><a href="/comments/20240617/2051046.md" target="_blank">【中国广邀黄埔军校校友赴中出席庆典抢话语权】【台湾黄埔陆军官百年校庆 赖清德总统主持】</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240616/2050756.md" target="_blank">2024总统大选辩论，仿佛回到1960年</a></li>
 <li><a href="/comments/20240616/2050695.md" target="_blank">社会主义美梦和社会主义现实</a></li>
 <li><a href="/comments/20240616/2050684.md" target="_blank">【全球67个团体联署纪念&quot;612&quot;五周年 500港人曼城集会】</a></li>
-<li><a href="/comments/20240616/2050656.md" target="_blank">【杰森视角】中国7大泡沫一起破是必然！欧美贷款给乌克兰却让俄罗斯还，原因并不是你想像的！财富缩水的中国人比例惊人？俄罗斯和乌克兰都亮出停战条件！泽连斯基为何终于忍不住公开骂中共了？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
 <li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/comments/20240403/2020547.md" target="_blank">纪录片：DSM诊断与统计手册-精神病学最要命的骗局</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/topimagenews/20200514/1328456.md" target="_blank">穿越时空 谢田教授亲身体验人体特异功能</a></li>
+<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20231214/1974098.md" target="_blank">美国众议院议长：我所坚守的保守主义，具体是些什么内容？</a></li>
+<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20231130/1967587.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （一）</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
+<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
 
 </ul>
 </div>
