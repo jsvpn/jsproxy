@@ -5,9 +5,8 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/ccpdope/20240617/2050823.md">蔡奇拔刀习家军缠斗 亡党在即 三中全会破防</a></li>
-<li><a href="/topimagenews/20240617/2050855.md">英媒踢爆：这将摧毁中国许多城市！习私下认怂 拉美国垫背？</a></li>
 <li><a href="/topimagenews/20240617/2050886.md">习和中南海高官们 这幅图景令他们寝食难安、胆战心惊…</a></li>
+<li><a href="/topimagenews/20240617/2050855.md">英媒踢爆：这将摧毁中国许多城市！习私下认怂 拉美国垫背？</a></li>
 <li><a href="/cbnews/20240617/2050875.md">信号！新一轮整肃即将开始？中央办公厅发文</a></li>
 <li><a href="/topimagenews/20240617/2050857.md">美卫星拍到共军大秘密！上海长兴岛测试场惊现…【阿波罗网翻译报道】</a></li>
 <li><a href="/cnnews/20240617/2050867.md">女学生图书馆收男生纸条窃喜 打开一看当场社死</a></li>
@@ -17,17 +16,18 @@
 <li><a href="/topimagenews/20240617/2051082.md">中国疫情死了4亿多人？骇客入侵中共数据库 意外揭露绝机密</a></li>
 <li><a href="/topimagenews/20240617/2050864.md">性命攸关！买了国产电动汽车 你一定要知道的...</a></li>
 <li><a href="/topimagenews/20240617/2050951.md">一举摧毁！美军潜艇重型鱼雷将令共舰队全沉海底</a></li>
+<li><a href="/cbnews/20240617/2051083.md">彭丽媛插手人事并图官位 日媒：犹如毛晚年时的江青</a></li>
 <li><a href="/cbnews/20240617/2050876.md">中共官媒痛批俄罗斯“屡屡刷新丢人记录”</a></li>
 <li><a href="/topimagenews/20240617/2050943.md">【微博精粹】中国人在东京砍中国人 呼叫铁头</a></li>
-<li><a href="/cbnews/20240617/2051083.md">彭丽媛插手人事并图官位 日媒：犹如毛晚年时的江青</a></li>
 <li><a href="/cbnews/20240617/2050948.md">〖红朝浮世绘〗习近平真的不想打台湾吗？</a></li>
 <li><a href="/topimagenews/20240617/2050900.md">惊人大逆转！“石油美元协议终结” 沙特不跟美国玩儿了？</a></li>
-<li><a href="/cbnews/20240617/2050820.md">中共三中前西藏前书记吴英杰被查 箭指胡春华？</a></li>
-<li><a href="/topimagenews/20240617/2050874.md">最新社死神器：“花几百块让朋友出丑一个月”</a></li>
-<li><a href="/sohnews/20240617/2051002.md">反习后果：吴英杰被查住建部长陈政高被毒死，王小洪升中办主任政治局委员，中办发文特别强调忠诚。《老灯开讲第586期》</a></li>
 <li><a href="/funmedia/20240617/2050953.md">事出反常必有妖，目前广州上海正悄悄出现9大反常现象，让人深思…</a></li>
-<li><a href="/cbnews/20240617/2050821.md">桥水创办人：中国经济正在进入百年风暴</a></li>
+<li><a href="/sohnews/20240617/2051002.md">反习后果：吴英杰被查住建部长陈政高被毒死，王小洪升中办主任政治局委员，中办发文特别强调忠诚。《老灯开讲第586期》</a></li>
+<li><a href="/topimagenews/20240617/2050874.md">最新社死神器：“花几百块让朋友出丑一个月”</a></li>
 <li><a href="/cnnews/20240617/2050934.md">火了！银行女拍片告白副行长 却被放群里…老公亦在群中</a></li>
+<li><a href="/ssgc/20240617/2050840.md">乌克兰和平峰会落幕  泽连斯基再向中国喊话</a></li>
+<li><a href="/comments/20240617/2050906.md">习近平能实现独裁，原因只有一个</a></li>
+<li><a href="/comments/20240617/2050852.md">【聚焦中国】甄子丹御用替身张磊猝死年仅39岁 中国跑酷元老</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20240318/2014289.md" target="_blank">唐柏桥：民运同仁突然向法轮功开火是怎么回事？</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
 <li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
-<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
 
 </ul>
 </div>
