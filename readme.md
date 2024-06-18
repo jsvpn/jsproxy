@@ -10,8 +10,8 @@
 <li><a href="/topimagenews/20240618/2051280.md">中共更狠的来了 洗劫海外</a></li>
 <li><a href="/cbnews/20240617/2051103.md">13名中共高官密集病亡 包括2名中将</a></li>
 <li><a href="/topimagenews/20240617/2051081.md">器官配对恐怖快速！ 河南丢3童 次日直升机11分钟完成运送 武汉青年也“被捐赠”</a></li>
-<li><a href="/topimagenews/20240618/2051276.md">深圳流浪女开始明显增多</a></li>
 <li><a href="/ssgc/20240617/2051145.md">“窃国大盗”习近平闷声发大财</a></li>
+<li><a href="/topimagenews/20240618/2051276.md">深圳流浪女开始明显增多</a></li>
 <li><a href="/baitai/20240617/2051116.md">他落马创40多年纪录 前中共储君悬了</a></li>
 <li><a href="/topimagenews/20240618/2051279.md">比房地产严重 这才是中国经济最大挑战？</a></li>
 <li><a href="/topimagenews/20240617/2051122.md">战时内阁玩不下去了! 以军不听号令 重要成员退出 纳坦雅胡宣布解散</a></li>
@@ -21,13 +21,13 @@
 <li><a href="/ccpdope/20240618/2051215.md">网传清华招办主任被带走 要倒查六任释何信号？</a></li>
 <li><a href="/cbnews/20240618/2051290.md">习隐匿财产证据多多 美将公开重磅报告</a></li>
 <li><a href="/cbnews/20240618/2051291.md">事关重大！习铁哥们倒入西方怀抱 建独立供应链踢中共出局</a></li>
-<li><a href="/comments/20240618/2051198.md">拜登周二宣布大赦 这是什么情况？</a></li>
-<li><a href="/topimagenews/20240618/2051278.md">【微博精粹】习近平上不上当 只能自己想清楚</a></li>
-<li><a href="/cbnews/20240617/2051106.md">爆点？中共海警船和菲律宾补给船在南海相撞</a></li>
-<li><a href="/finance/20240617/2051124.md">这5家陆企剩皮包骨 上海鼎泰丰如何？1景象吓坏了</a></li>
 <li><a href="/topimagenews/20240618/2051416.md">北京 楼市最后的锚也松动了</a></li>
-<li><a href="/sohnews/20240618/2051188.md">反共网红与李强同酒店，中领馆异常紧张；中欧贸易战加剧，中共对欧洲进口猪肉反调查；俄乌战争陷僵局，普京访朝越引质疑；中国南方暴雨，粤闽洪灾严重，多人死亡。”</a></li>
+<li><a href="/comments/20240618/2051198.md">拜登周二宣布大赦 这是什么情况？</a></li>
+<li><a href="/cbnews/20240617/2051106.md">爆点？中共海警船和菲律宾补给船在南海相撞</a></li>
 <li><a href="/topimagenews/20240618/2051448.md">北共首次将核弹处于“高度战备状态”</a></li>
+<li><a href="/topimagenews/20240618/2051278.md">【微博精粹】习近平上不上当 只能自己想清楚</a></li>
+<li><a href="/finance/20240617/2051124.md">这5家陆企剩皮包骨 上海鼎泰丰如何？1景象吓坏了</a></li>
+<li><a href="/sohnews/20240618/2051188.md">反共网红与李强同酒店，中领馆异常紧张；中欧贸易战加剧，中共对欧洲进口猪肉反调查；俄乌战争陷僵局，普京访朝越引质疑；中国南方暴雨，粤闽洪灾严重，多人死亡。”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
 <li><a href="/comments/20240116/1984226.md" target="_blank">湖北老河口遇仙记</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/cbnews/20190701/1151453.md" target="_blank">盘点十大邪教特征 中共条条对号入座</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/cnnews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
 
 </ul>
 </div>
