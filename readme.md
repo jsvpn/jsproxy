@@ -10,12 +10,11 @@
 <li><a href="/topimagenews/20240618/2051280.md">中共更狠的来了 洗劫海外</a></li>
 <li><a href="/cbnews/20240617/2051103.md">13名中共高官密集病亡 包括2名中将</a></li>
 <li><a href="/topimagenews/20240617/2051081.md">器官配对恐怖快速！ 河南丢3童 次日直升机11分钟完成运送 武汉青年也“被捐赠”</a></li>
-<li><a href="/ssgc/20240617/2051145.md">“窃国大盗”习近平闷声发大财</a></li>
 <li><a href="/topimagenews/20240618/2051276.md">深圳流浪女开始明显增多</a></li>
+<li><a href="/ssgc/20240617/2051145.md">“窃国大盗”习近平闷声发大财</a></li>
 <li><a href="/baitai/20240617/2051116.md">他落马创40多年纪录 前中共储君悬了</a></li>
 <li><a href="/topimagenews/20240618/2051279.md">比房地产严重 这才是中国经济最大挑战？</a></li>
 <li><a href="/topimagenews/20240617/2051122.md">战时内阁玩不下去了! 以军不听号令 重要成员退出 纳坦雅胡宣布解散</a></li>
-<li><a href="/health/20240617/2051049.md">夏天，少吃牛羊肉多吃它，蛋白质含量极高，随手一煮，营养又解馋</a></li>
 <li><a href="/itnews/20240618/2051174.md">中国大型半导体公司破产引发破产潮担忧</a></li>
 <li><a href="/topimagenews/20240618/2051277.md">又一个重磅信号出现</a></li>
 <li><a href="/cbnews/20240617/2051107.md">日本神社遭小粉红涂鸦 中国11家旅行社或被连累</a></li>
@@ -23,11 +22,12 @@
 <li><a href="/cbnews/20240618/2051290.md">习隐匿财产证据多多 美将公开重磅报告</a></li>
 <li><a href="/cbnews/20240618/2051291.md">事关重大！习铁哥们倒入西方怀抱 建独立供应链踢中共出局</a></li>
 <li><a href="/comments/20240618/2051198.md">拜登周二宣布大赦 这是什么情况？</a></li>
+<li><a href="/topimagenews/20240618/2051278.md">【微博精粹】习近平上不上当 只能自己想清楚</a></li>
 <li><a href="/cbnews/20240617/2051106.md">爆点？中共海警船和菲律宾补给船在南海相撞</a></li>
 <li><a href="/finance/20240617/2051124.md">这5家陆企剩皮包骨 上海鼎泰丰如何？1景象吓坏了</a></li>
-<li><a href="/sohnews/20240618/2051188.md">反共网红与李强同酒店，中领馆异常紧张；中欧贸易战加剧，中共对欧洲进口猪肉反调查；俄乌战争陷僵局，普京访朝越引质疑；中国南方暴雨，粤闽洪灾严重，多人死亡。”</a></li>
-<li><a href="/topimagenews/20240618/2051278.md">【微博精粹】习近平上不上当 只能自己想清楚</a></li>
 <li><a href="/topimagenews/20240618/2051416.md">北京 楼市最后的锚也松动了</a></li>
+<li><a href="/sohnews/20240618/2051188.md">反共网红与李强同酒店，中领馆异常紧张；中欧贸易战加剧，中共对欧洲进口猪肉反调查；俄乌战争陷僵局，普京访朝越引质疑；中国南方暴雨，粤闽洪灾严重，多人死亡。”</a></li>
+<li><a href="/topimagenews/20240618/2051448.md">北共首次将核弹处于“高度战备状态”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/cnnews/20221211/1822144.md" target="_blank">盖盖冲马桶很可怕！瞬间“病毒炸开”？</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
-<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
-<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20240116/1984226.md" target="_blank">湖北老河口遇仙记</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/cbnews/20190701/1151453.md" target="_blank">盘点十大邪教特征 中共条条对号入座</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
 
 </ul>
 </div>
