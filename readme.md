@@ -15,19 +15,19 @@
 <li><a href="/baitai/20240617/2051116.md">他落马创40多年纪录 前中共储君悬了</a></li>
 <li><a href="/health/20240617/2051049.md">夏天，少吃牛羊肉多吃它，蛋白质含量极高，随手一煮，营养又解馋</a></li>
 <li><a href="/cnnews/20240617/2051013.md">33岁球星去世，被发现时尸体已腐烂</a></li>
-<li><a href="/itnews/20240618/2051174.md">中国大型半导体公司破产引发破产潮担忧</a></li>
 <li><a href="/cbnews/20240617/2051107.md">日本神社遭小粉红涂鸦 中国11家旅行社或被连累</a></li>
+<li><a href="/itnews/20240618/2051174.md">中国大型半导体公司破产引发破产潮担忧</a></li>
 <li><a href="/cbnews/20240617/2051106.md">爆点？中共海警船和菲律宾补给船在南海相撞</a></li>
 <li><a href="/finance/20240617/2050995.md">无一城不降！中国房价，“卷”疯了…</a></li>
 <li><a href="/finance/20240617/2051124.md">这5家陆企剩皮包骨 上海鼎泰丰如何？1景象吓坏了</a></li>
 <li><a href="/ccpdope/20240617/2051024.md">救市措施无效 中国房市跌不停</a></li>
 <li><a href="/ccpdope/20240617/2051044.md">骇客入侵中共资料库 意外揭露绝机密死亡人数</a></li>
 <li><a href="/finance/20240617/2051011.md">取款2万元以上为何要派出所同意？银行回应</a></li>
+<li><a href="/topimagenews/20240618/2051280.md">中共更狠的来了 洗劫海外</a></li>
 <li><a href="/sohnews/20240617/2051169.md">💥🌾盛况空前！废掉现联合国？断了普京粮道；美最新制裁发威 俄国一夜之间，就回到30年前；乌克兰和平峰会实际成效有限？【阿波罗网】</a></li>
-<li><a href="/cnnews/20240617/2051018.md">高考后、他拆掉儿子房间的监控：“感谢监控”</a></li>
 <li><a href="/comments/20240617/2051115.md">【泽论四方】中国已经到了令西方难以容忍的限度</a></li>
-<li><a href="/cbnews/20240617/2051105.md">江苏男警校毕业即失业 冒充乘警十多年</a></li>
-<li><a href="/cnnews/20240617/2050996.md">400俄军惨遭包围！战线后撤遭孤立 突围2次都失败 30人已投降</a></li>
+<li><a href="/cnnews/20240617/2051018.md">高考后、他拆掉儿子房间的监控：“感谢监控”</a></li>
+<li><a href="/sohnews/20240618/2051188.md">反共网红与李强同酒店，中领馆异常紧张；中欧贸易战加剧，中共对欧洲进口猪肉反调查；俄乌战争陷僵局，普京访朝越引质疑；中国南方暴雨，粤闽洪灾严重，多人死亡。”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,11 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240618/2051421.md" target="_blank">李强访澳 反共网红与其同住一酒店 中使馆紧张</a></li>
+<li><a href="/cbnews/20240618/2051420.md" target="_blank">掌控港口或失太空测控站 中国在美后院插旗陷入诡局</a></li>
+<li><a href="/cbnews/20240618/2051419.md" target="_blank">中菲南海撞船 美国务院谴责中共挑衅行为</a></li>
+<li><a href="/cbnews/20240618/2051418.md" target="_blank">中共传播菲律宾内战谣言 利用社媒打认知战</a></li>
+<li><a href="/cbnews/20240618/2051417.md" target="_blank">唐山打人案2.0：郑州6恶男围殴烧烤店老板娘</a></li>
 <li><a href="/cbnews/20240618/2051293.md" target="_blank">重大风向 美严控 要求“海外中国创始人”与中共国切割</a></li>
 <li><a href="/cbnews/20240618/2051292.md" target="_blank">“打倒共产党！”这些人一起高呼</a></li>
 <li><a href="/cbnews/20240618/2051291.md" target="_blank">事关重大！习铁哥们倒入西方怀抱 建独立供应链踢中共出局</a></li>
@@ -55,17 +60,15 @@
 <li><a href="/cbnews/20240617/2051107.md" target="_blank">日本神社遭小粉红涂鸦 中国11家旅行社或被连累</a></li>
 <li><a href="/cbnews/20240617/2051106.md" target="_blank">爆点？中共海警船和菲律宾补给船在南海相撞</a></li>
 <li><a href="/cbnews/20240617/2051105.md" target="_blank">江苏男警校毕业即失业 冒充乘警十多年</a></li>
-<li><a href="/cbnews/20240617/2051104.md" target="_blank">上海人才公寓被房产中介“倒手”牟利</a></li>
-<li><a href="/cbnews/20240617/2051103.md" target="_blank">13名中共高官密集病亡 包括2名中将</a></li>
-<li><a href="/cbnews/20240617/2051102.md" target="_blank">中国多地暴雨洪灾 广东水淹至二楼 部分镇村失联</a></li>
-<li><a href="/cbnews/20240617/2051090.md" target="_blank">博明：习不断清洗军队 表明中共准备战争</a></li>
-<li><a href="/cbnews/20240617/2051083.md" target="_blank">彭丽媛插手人事并图官位 日媒：犹如毛晚年时的江青</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240618/2051416.md" target="_blank">北京 楼市最后的锚也松动了</a></li>
+<li><a href="/topimagenews/20240618/2051415.md" target="_blank">催人泪下！“打死我也要你们还我妈妈！”他背3岁妹妹上公安局要妈妈</a></li>
+<li><a href="/topimagenews/20240618/2051414.md" target="_blank">小米扫地机器人自燃引火灾！全屋熏黑 小米冷回</a></li>
 <li><a href="/topimagenews/20240618/2051280.md" target="_blank">中共更狠的来了 洗劫海外</a></li>
 <li><a href="/topimagenews/20240618/2051279.md" target="_blank">比房地产严重 这才是中国经济最大挑战？</a></li>
 <li><a href="/topimagenews/20240618/2051278.md" target="_blank">【微博精粹】习近平上不上当 只能自己想清楚</a></li>
@@ -88,15 +91,13 @@
 <li><a href="/topimagenews/20240617/2050855.md" target="_blank">英媒踢爆：这将摧毁中国许多城市！习私下认怂 拉美国垫背？</a></li>
 <li><a href="/topimagenews/20240616/2050769.md" target="_blank">英媒曝习近平宣称“美试图怂恿中国攻击台湾” 网酸：找台阶下了</a></li>
 <li><a href="/topimagenews/20240616/2050672.md" target="_blank">习近平忘恩负义 一转身就要消灭它【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20240616/2050671.md" target="_blank">【微博精粹】克隆独裁者计划 已经从中南海魔盒放出</a></li>
-<li><a href="/topimagenews/20240616/2050644.md" target="_blank">乌和平峰会联合声明草案承认“俄罗斯侵略”</a></li>
-<li><a href="/topimagenews/20240616/2050643.md" target="_blank">中共国祭出一份公告 多少人将倾家荡产？</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240618/2051412.md" target="_blank">李强被喊“李克强”，澳总理故意？两小学生怼中共视频火遍网络，习近平吓坏？</a></li>
 <li><a href="/comments/20240618/2051346.md" target="_blank">【财经拆局】谁在地狱？ 地产商定香港楼市？</a></li>
 <li><a href="/comments/20240618/2051343.md" target="_blank">评论 &#8211; 王丹：普京与习近平同床异梦</a></li>
 <li><a href="/comments/20240618/2051342.md" target="_blank">评论 &#8211;  魏京生：什么样的民主更适合中国（之七）</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240617/2050956.md" target="_blank">非法越境者坚决反对开放边境，这是什么情况？</a></li>
 <li><a href="/comments/20240617/2050954.md" target="_blank">卓然：“窃国大盗”习近平：闷声发大财</a></li>
 <li><a href="/comments/20240617/2050944.md" target="_blank">俄国在一夜之间，就回到了1990年代苏联末期</a></li>
-<li><a href="/comments/20240617/2050930.md" target="_blank">没有莫大哥 就没有“新中国”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/comments/20231130/1967587.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （一）</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/taiwannews/20210119/1470524.md" target="_blank">纪录片《蚕食美国1》</a></li>
 
 </ul>
 </div>
