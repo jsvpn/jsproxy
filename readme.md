@@ -16,7 +16,6 @@
 <li><a href="/topimagenews/20240618/2051416.md">北京 楼市最后的锚也松动了</a></li>
 <li><a href="/topimagenews/20240618/2051448.md">北共首次将核弹处于“高度战备状态”</a></li>
 <li><a href="/baitai/20240618/2051559.md">习近平发警告透诡异 彭丽媛或被任命要职</a></li>
-<li><a href="/comments/20240618/2051198.md">拜登周二宣布大赦 这是什么情况？</a></li>
 <li><a href="/topimagenews/20240618/2051543.md">华人刚落地机场就被捕 惊人黑产业被挖</a></li>
 <li><a href="/topimagenews/20240618/2051446.md">全球最大泡泡正在破灭</a></li>
 <li><a href="/sohnews/20240618/2051489.md">王小洪特勤局毒死陈政高始末，习近平收入财产明细，习自己说美国引诱他进攻台湾。《老灯开讲第587期》</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/topimagenews/20240618/2051596.md">乌克兰在沃夫昌斯克赢得重大胜利 俄罗斯败兵集体投降</a></li>
 <li><a href="/cnnews/20240618/2051458.md">让习骑虎难下！传俄朝这次要搞“大事”</a></li>
 <li><a href="/topimagenews/20240618/2051278.md">【微博精粹】习近平上不上当 只能自己想清楚</a></li>
+<li><a href="/cbnews/20240618/2051469.md">广东韩江“史上最大洪水爆发” 恐怖空拍照曝</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240619/2051773.md" target="_blank">中国网红“扮科比”吸粉57万！被官媒点名</a></li>
 <li><a href="/cbnews/20240619/2051744.md" target="_blank">中共最强核舰艇出事？他分析3种可能</a></li>
 <li><a href="/cbnews/20240619/2051743.md" target="_blank">今年第一季度中国结婚登记量跌破200万对</a></li>
 <li><a href="/comments/20240619/2051689.md" target="_blank">何时动手？民主党四大佬联手，密谋逼拜登退选计划曝光。CNN主持人看到新民调，紧张到语无伦次。拜登奥巴马美国大选</a></li>
@@ -59,13 +60,14 @@
 <li><a href="/cbnews/20240618/2051292.md" target="_blank">“打倒共产党！”这些人一起高呼</a></li>
 <li><a href="/cbnews/20240618/2051291.md" target="_blank">事关重大！习铁哥们倒入西方怀抱 建独立供应链踢中共出局</a></li>
 <li><a href="/cbnews/20240618/2051290.md" target="_blank">习隐匿财产证据多多 美将公开重磅报告</a></li>
-<li><a href="/cbnews/20240618/2051289.md" target="_blank">尴尬！澳总理见李强直呼“李克强” 网：干得漂亮</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240619/2051771.md" target="_blank">“洋妞引进计划”，丢脸丢到国外</a></li>
+<li><a href="/topimagenews/20240619/2051770.md" target="_blank">习近平招来的 美中不祥之兆横生</a></li>
 <li><a href="/topimagenews/20240619/2051769.md" target="_blank">留给环京业主的时间不多了</a></li>
 <li><a href="/topimagenews/20240619/2051742.md" target="_blank">影片曝光：被困国产电动车喊救命 理想车撞一排</a></li>
 <li><a href="/topimagenews/20240619/2051741.md" target="_blank">国运大事 林毅夫重要预言 下个时间点是…结果呢？</a></li>
@@ -89,14 +91,15 @@
 <li><a href="/topimagenews/20240618/2051280.md" target="_blank">中共更狠的来了 洗劫海外</a></li>
 <li><a href="/topimagenews/20240618/2051279.md" target="_blank">比房地产严重 这才是中国经济最大挑战？</a></li>
 <li><a href="/topimagenews/20240618/2051278.md" target="_blank">【微博精粹】习近平上不上当 只能自己想清楚</a></li>
-<li><a href="/topimagenews/20240618/2051277.md" target="_blank">又一个重磅信号出现</a></li>
-<li><a href="/topimagenews/20240618/2051276.md" target="_blank">深圳流浪女开始明显增多</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240619/2051778.md" target="_blank">老干体v：鹤岗化全国蔓延，拳头化就必然登场</a></li>
+<li><a href="/comments/20240619/2051777.md" target="_blank">亚欧视点：普京面临生死局</a></li>
+<li><a href="/comments/20240619/2051776.md" target="_blank">颜纯钩: 敌人赞成的我就要反对：习式思维逻辑近乎儿戏</a></li>
 <li><a href="/comments/20240619/2051763.md" target="_blank">【中国对欧盟猪肉发起反倾销调查 北京市民表示影响不大】 就在欧盟表示计划对中国制造的电动汽车征收临时关税几天后，中国政府对从欧盟进口的猪肉展开调查，目标是欧洲农民而非德国汽车制造商。</a></li>
 <li><a href="/comments/20240619/2051747.md" target="_blank">四类分子的悲惨命运</a></li>
 <li><a href="/comments/20240619/2051746.md" target="_blank">觅真： 黑龙江省中共官员迫害法轮功学员犯下罪行</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20240618/2051346.md" target="_blank">【财经拆局】谁在地狱？ 地产商定香港楼市？</a></li>
 <li><a href="/comments/20240618/2051343.md" target="_blank">评论 &#8211; 王丹：普京与习近平同床异梦</a></li>
 <li><a href="/comments/20240618/2051342.md" target="_blank">评论 &#8211;  魏京生：什么样的民主更适合中国（之七）</a></li>
-<li><a href="/comments/20240618/2051316.md" target="_blank">劳东燕：有意无视房间里越来越膨胀的大象</a></li>
-<li><a href="/comments/20240618/2051315.md" target="_blank">矢板明夫：日本站起来了</a></li>
-<li><a href="/comments/20240618/2051313.md" target="_blank">2024年或为最后一届蒙古语高考【404文】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/tculture/20231217/1975364.md" target="_blank">医山夜话：张锡纯医案解读（1）根治失眠 思路清晰</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20231214/1974098.md" target="_blank">美国众议院议长：我所坚守的保守主义，具体是些什么内容？</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
 <li><a href="/taiwannews/20210119/1470524.md" target="_blank">纪录片《蚕食美国1》</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
 <li><a href="/comments/20231204/1969287.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （三）</a></li>
-<li><a href="/topimagenews/20240511/2035423.md" target="_blank">原北京学员回忆李洪志先生在东方健康博览会上所行的奇迹</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
 
 </ul>
 </div>
