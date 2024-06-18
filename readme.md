@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/topimagenews/20240617/2050886.md">习和中南海高官们 这幅图景令他们寝食难安、胆战心惊…</a></li>
 <li><a href="/topimagenews/20240617/2050899.md">李强狼狈不堪：大雨滂沱里，被夹道“大狙击”</a></li>
 <li><a href="/topimagenews/20240617/2050924.md">中共出动大批警察闯民宅 一市一天绑架30多人</a></li>
 <li><a href="/topimagenews/20240617/2051082.md">中国疫情死了4亿多人？骇客入侵中共数据库 意外揭露绝机密</a></li>
@@ -26,6 +25,7 @@
 <li><a href="/ssgc/20240617/2051145.md">“窃国大盗”习近平闷声发大财</a></li>
 <li><a href="/baitai/20240617/2051116.md">他落马创40多年纪录 前中共储君悬了</a></li>
 <li><a href="/cnnews/20240617/2051013.md">33岁球星去世，被发现时尸体已腐烂</a></li>
+<li><a href="/itnews/20240618/2051174.md">中国大型半导体公司破产引发破产潮担忧</a></li>
 <li><a href="/comments/20240617/2050957.md">多人被骗，AI已突破人类控制！OpenAI员工顶着压力泄密，透露超越你想像的AI设计！｜未解之谜 扶摇</a></li>
 <li><a href="/cbnews/20240617/2051107.md">日本神社遭小粉红涂鸦 中国11家旅行社或被连累</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240618/2051202.md" target="_blank">茅台大跌，穷鬼套餐流行，中国经济走向何方？｜秦鹏 方菲｜新闻烽火台 06/17</a></li>
 <li><a href="/comments/20240618/2051198.md" target="_blank">拜登周二宣布大赦 这是什么情况？</a></li>
 <li><a href="/comments/20240618/2051185.md" target="_blank">JD万斯在川普副手名单中遥遥领先。全网最深刻！纳瓦罗剖析川普副总统筛选标准。拜登洛杉矶筹款创纪录，身体再次出现状况。川普竞选搭档拜登</a></li>
 <li><a href="/cbnews/20240617/2051123.md" target="_blank">中国南方暴雨成灾！广东逾13万户停电、福建武平县经济损失达4.15亿元</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240617/2050903.md" target="_blank">美前高官：中共武统恐无征兆，军援应优先台湾</a></li>
 <li><a href="/cbnews/20240617/2050902.md" target="_blank">习近平拿下他 剑指胡春华？</a></li>
 <li><a href="/cbnews/20240617/2050901.md" target="_blank">直击河南干旱：“活了50年，没见过这样干旱”</a></li>
-<li><a href="/comments/20240617/2050883.md" target="_blank">剖析首场总统电视辩论规则，究竟对谁更有利？川普透露与马斯克的个人关系。马斯克呼吁废除电子投票机。电视辩论川普美国大选</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240618/2051202.md" target="_blank">茅台大跌，穷鬼套餐流行，中国经济走向何方？｜秦鹏 方菲｜新闻烽火台 06/17</a></li>
 <li><a href="/comments/20240618/2051198.md" target="_blank">拜登周二宣布大赦 这是什么情况？</a></li>
 <li><a href="/comments/20240618/2051185.md" target="_blank">JD万斯在川普副手名单中遥遥领先。全网最深刻！纳瓦罗剖析川普副总统筛选标准。拜登洛杉矶筹款创纪录，身体再次出现状况。川普竞选搭档拜登</a></li>
 <li><a href="/comments/20240617/2051115.md" target="_blank">【泽论四方】中国已经到了令西方难以容忍的限度</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240616/2050796.md" target="_blank">从零关税到高关税，西方学到了什么？</a></li>
 <li><a href="/comments/20240616/2050768.md" target="_blank">撒尿大王铁头後悔了</a></li>
 <li><a href="/comments/20240616/2050756.md" target="_blank">2024总统大选辩论，仿佛回到1960年</a></li>
-<li><a href="/comments/20240616/2050695.md" target="_blank">社会主义美梦和社会主义现实</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
+<li><a href="/comments/20231130/1967587.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （一）</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
 <li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
-<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/ssgc/20240508/2034288.md" target="_blank">《透视“进化论”》第九章 人类起源问题的终极答案</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/comments/20231204/1969287.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （三）</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/cbnews/20240603/2045072.md" target="_blank">漫谈古代科举之八股文</a></li>
+<li><a href="/comments/20231212/1972297.md" target="_blank">日本华人确诊晚期直肠癌，修炼法轮功恢复健康（图）</a></li>
+<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/cbnews/20190701/1151453.md" target="_blank">盘点十大邪教特征 中共条条对号入座</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
 <li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
-<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/tculture/20231217/1975364.md" target="_blank">医山夜话：张锡纯医案解读（1）根治失眠 思路清晰</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
 
 </ul>
 </div>
