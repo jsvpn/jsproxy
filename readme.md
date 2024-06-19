@@ -6,20 +6,18 @@
 <ul>
 
 <li><a href="/ccpdope/20240618/2051525.md">中共原住建部部长陈政高骤死有蹊跷</a></li>
-<li><a href="/topimagenews/20240618/2051448.md">北共首次将核弹处于“高度战备状态”</a></li>
 <li><a href="/baitai/20240618/2051559.md">习近平发警告透诡异 彭丽媛或被任命要职</a></li>
 <li><a href="/topimagenews/20240618/2051543.md">华人刚落地机场就被捕 惊人黑产业被挖</a></li>
 <li><a href="/topimagenews/20240619/2051771.md">“洋妞引进计划”，丢脸丢到国外</a></li>
-<li><a href="/topimagenews/20240618/2051446.md">全球最大泡泡正在破灭</a></li>
 <li><a href="/cnnews/20240618/2051556.md">中国私刑正义! 女儿遭强暴自杀 母驾车撞凶嫌与局长母亲、村长霸凌 1家6口遭灭门</a></li>
 <li><a href="/sohnews/20240618/2051489.md">王小洪特勤局毒死陈政高始末，习近平收入财产明细，习自己说美国引诱他进攻台湾。《老灯开讲第587期》</a></li>
 <li><a href="/headline/20240619/2051705.md">日媒曝彭丽媛可能获要职 分析：习近平正重演毛泽东晚年错误</a></li>
 <li><a href="/ssgc/20240618/2051502.md">倒查30年追缴稅款 中国民企噤若寒蝉</a></li>
 <li><a href="/topimagenews/20240619/2051726.md">出事了？中共最强核潜艇突然浮出海面 到底发生了什么？【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20240619/2051676.md">北京软体工程师用AI“一键脱衣”女同事裸照卖1.5元</a></li>
-<li><a href="/cnnews/20240618/2051461.md">史上最大泡沫股 股价恐将暴跌</a></li>
-<li><a href="/topimagenews/20240618/2051596.md">乌克兰在沃夫昌斯克赢得重大胜利 俄罗斯败兵集体投降</a></li>
 <li><a href="/cnnews/20240619/2051782.md">影响几亿人，养老金三个月后即将发生巨变</a></li>
+<li><a href="/cbnews/20240619/2051676.md">北京软体工程师用AI“一键脱衣”女同事裸照卖1.5元</a></li>
+<li><a href="/topimagenews/20240618/2051596.md">乌克兰在沃夫昌斯克赢得重大胜利 俄罗斯败兵集体投降</a></li>
+<li><a href="/cnnews/20240618/2051461.md">史上最大泡沫股 股价恐将暴跌</a></li>
 <li><a href="/cnnews/20240618/2051458.md">让习骑虎难下！传俄朝这次要搞“大事”</a></li>
 <li><a href="/cbnews/20240618/2051469.md">广东韩江“史上最大洪水爆发” 恐怖空拍照曝</a></li>
 <li><a href="/topimagenews/20240618/2051567.md">陷阱? 搞渗透? 网曝 : 近万人偷渡美Telegram群主竟是中国网警</a></li>
@@ -27,7 +25,9 @@
 <li><a href="/topimagenews/20240619/2051770.md">习近平招来的 美中不祥之兆横生</a></li>
 <li><a href="/topimagenews/20240619/2051742.md">影片曝光：被困国产电动车喊救命 理想车撞一排</a></li>
 <li><a href="/topimagenews/20240619/2051792.md">终结金家王朝？金日成纪念碑遭泼墨</a></li>
+<li><a href="/topimagenews/20240619/2051740.md">又一个铁饭碗被砸！比房地产好的避风港没了；中共更狠的来了，洗劫海外</a></li>
 <li><a href="/cbnews/20240619/2051744.md">中共最强核舰艇出事？他分析3种可能</a></li>
+<li><a href="/topimagenews/20240618/2051632.md">上班到一半老板跑路了！陆企再传暴雷 公司股价连续29天跌停</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240619/2051907.md" target="_blank">美参议员：情报界需全力追踪中国的科技活动</a></li>
+<li><a href="/cbnews/20240619/2051906.md" target="_blank">壮男被老人逼让座 崩溃狂喊“都欺负我”</a></li>
+<li><a href="/cbnews/20240619/2051902.md" target="_blank">江峰：习近平设置“带电高压线”警告全党；中共万吨“灭国”核潜艇浮出台海水面，原来这里出问题了；北约点名习近平便宜两头占；中共银行底线不守【江峰漫谈20240618第887期】</a></li>
 <li><a href="/cbnews/20240619/2051886.md" target="_blank">不要以为黄河长江不会倒流 有时确实会倒流</a></li>
 <li><a href="/cbnews/20240619/2051867.md" target="_blank">〖红朝浮世绘〗中共腐败的通货膨胀率太高了</a></li>
 <li><a href="/cbnews/20240619/2051838.md" target="_blank">中国观察：神秘中央科技委与中共核武</a></li>
@@ -57,9 +60,6 @@
 <li><a href="/cbnews/20240618/2051451.md" target="_blank">广东梅州洪灾至少5死15失联 水库深夜紧急泄洪</a></li>
 <li><a href="/cbnews/20240618/2051450.md" target="_blank">广州教师救人延误上课被罚惹众怒 校方回复再被骂</a></li>
 <li><a href="/cbnews/20240618/2051449.md" target="_blank">广西北海取消综合行政执法局 网民热议</a></li>
-<li><a href="/cbnews/20240618/2051435.md" target="_blank">〖红朝浮世绘〗熊猫外交不可信 错把李强称“李克强”</a></li>
-<li><a href="/cbnews/20240618/2051421.md" target="_blank">李强访澳 反共网红与其同住一酒店 中使馆紧张</a></li>
-<li><a href="/cbnews/20240618/2051420.md" target="_blank">掌控港口或失太空测控站 中国在美后院插旗陷入诡局</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230920/1936271.md" target="_blank">防止你的孩子不成功（5） &#8211;教育避坑指南</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20231204/1969287.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （三）</a></li>
-<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
 <li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
-<li><a href="/comments/20231214/1974098.md" target="_blank">美国众议院议长：我所坚守的保守主义，具体是些什么内容？</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
+<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
 
 </ul>
 </div>
