@@ -11,13 +11,13 @@
 <li><a href="/topimagenews/20240619/2051771.md">“洋妞引进计划”，丢脸丢到国外</a></li>
 <li><a href="/cnnews/20240618/2051556.md">中国私刑正义! 女儿遭强暴自杀 母驾车撞凶嫌与局长母亲、村长霸凌 1家6口遭灭门</a></li>
 <li><a href="/headline/20240619/2051705.md">日媒曝彭丽媛可能获要职 分析：习近平正重演毛泽东晚年错误</a></li>
-<li><a href="/cnnews/20240619/2051782.md">影响几亿人，养老金三个月后即将发生巨变</a></li>
 <li><a href="/cbnews/20240619/2051676.md">北京软体工程师用AI“一键脱衣”女同事裸照卖1.5元</a></li>
+<li><a href="/cnnews/20240619/2051782.md">影响几亿人，养老金三个月后即将发生巨变</a></li>
 <li><a href="/topimagenews/20240618/2051596.md">乌克兰在沃夫昌斯克赢得重大胜利 俄罗斯败兵集体投降</a></li>
-<li><a href="/topimagenews/20240619/2051726.md">出事了？中共最强核潜艇突然浮出海面 到底发生了什么？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240619/2051855.md">背景惊人！扒出联合国某组织秘书长竟是这位中国大妈</a></li>
-<li><a href="/topimagenews/20240619/2051792.md">终结金家王朝？金日成纪念碑遭泼墨</a></li>
+<li><a href="/topimagenews/20240619/2051726.md">出事了？中共最强核潜艇突然浮出海面 到底发生了什么？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240619/2051854.md">昔日带头大哥普京 竟卑微到这份上</a></li>
+<li><a href="/topimagenews/20240619/2051792.md">终结金家王朝？金日成纪念碑遭泼墨</a></li>
 <li><a href="/topimagenews/20240618/2051567.md">陷阱? 搞渗透? 网曝 : 近万人偷渡美Telegram群主竟是中国网警</a></li>
 <li><a href="/topimagenews/20240619/2051770.md">习近平招来的 美中不祥之兆横生</a></li>
 <li><a href="/topimagenews/20240619/2051742.md">影片曝光：被困国产电动车喊救命 理想车撞一排</a></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240619/2051982.md" target="_blank">【普京访问平壤 金正恩热情接待】【俄朝深化关系 联手对抗西方】</a></li>
 <li><a href="/comments/20240619/2051954.md" target="_blank">【赖清德总统就职满月记者会】【备战来达到避战】【靠实力达到的和平才是真和平】</a></li>
 <li><a href="/comments/20240619/2051841.md" target="_blank">宁德时代辟谣“896”工作制，员工反驳：传闻属实</a></li>
 <li><a href="/comments/20240619/2051840.md" target="_blank">木蹊说：打趴外国企业，打工人就幸福了吗？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240619/2051714.md" target="_blank">布林肯：中国对俄罗斯的支持“必须停止”</a></li>
 <li><a href="/comments/20240619/2051711.md" target="_blank">评论｜余杰：古有核舟，今有手工芯片</a></li>
 <li><a href="/comments/20240619/2051707.md" target="_blank">菲媒：中国海警打伤7名菲国士兵并强夺武器</a></li>
-<li><a href="/comments/20240619/2051689.md" target="_blank">何时动手？民主党四大佬联手，密谋逼拜登退选计划曝光。CNN主持人看到新民调，紧张到语无伦次。拜登奥巴马美国大选</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/comments/20231204/1969287.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （三）</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
 <li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20231130/1967587.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （一）</a></li>
+<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
 <li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/comments/20190701/1151501.md" target="_blank">【特稿】中国共产党是邪教组织</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
 
 </ul>
 </div>
