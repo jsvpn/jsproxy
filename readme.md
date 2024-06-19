@@ -19,15 +19,15 @@
 <li><a href="/topimagenews/20240618/2051446.md">全球最大泡泡正在破灭</a></li>
 <li><a href="/cnnews/20240618/2051556.md">中国私刑正义! 女儿遭强暴自杀 母驾车撞凶嫌与局长母亲、村长霸凌 1家6口遭灭门</a></li>
 <li><a href="/sohnews/20240618/2051489.md">王小洪特勤局毒死陈政高始末，习近平收入财产明细，习自己说美国引诱他进攻台湾。《老灯开讲第587期》</a></li>
+<li><a href="/headline/20240619/2051705.md">日媒曝彭丽媛可能获要职 分析：习近平正重演毛泽东晚年错误</a></li>
 <li><a href="/ssgc/20240618/2051502.md">倒查30年追缴稅款 中国民企噤若寒蝉</a></li>
 <li><a href="/cbnews/20240618/2051435.md">〖红朝浮世绘〗熊猫外交不可信 错把李强称“李克强”</a></li>
 <li><a href="/baitai/20240618/2051396.md">涉薄熙来案 绯闻王沪宁 央视美女主播姜丰生活照曝光</a></li>
 <li><a href="/cnnews/20240618/2051461.md">史上最大泡沫股 股价恐将暴跌</a></li>
 <li><a href="/topimagenews/20240618/2051596.md">乌克兰在沃夫昌斯克赢得重大胜利 俄罗斯败兵集体投降</a></li>
+<li><a href="/topimagenews/20240619/2051771.md">“洋妞引进计划”，丢脸丢到国外</a></li>
 <li><a href="/cbnews/20240619/2051676.md">北京软体工程师用AI“一键脱衣”女同事裸照卖1.5元</a></li>
-<li><a href="/headline/20240619/2051705.md">日媒曝彭丽媛可能获要职 分析：习近平正重演毛泽东晚年错误</a></li>
 <li><a href="/cnnews/20240618/2051458.md">让习骑虎难下！传俄朝这次要搞“大事”</a></li>
-<li><a href="/topimagenews/20240618/2051278.md">【微博精粹】习近平上不上当 只能自己想清楚</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20231214/1974098.md" target="_blank">美国众议院议长：我所坚守的保守主义，具体是些什么内容？</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
 <li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/comments/20231213/1973586.md" target="_blank">六道轮回之畜生道</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/topimagenews/20240511/2035423.md" target="_blank">原北京学员回忆李洪志先生在东方健康博览会上所行的奇迹</a></li>
+<li><a href="/taiwannews/20210119/1470524.md" target="_blank">纪录片《蚕食美国1》</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
 
 </ul>
 </div>
