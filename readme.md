@@ -9,8 +9,8 @@
 <li><a href="/topimagenews/20240618/2051276.md">深圳流浪女开始明显增多</a></li>
 <li><a href="/topimagenews/20240618/2051279.md">比房地产严重 这才是中国经济最大挑战？</a></li>
 <li><a href="/cbnews/20240618/2051290.md">习隐匿财产证据多多 美将公开重磅报告</a></li>
-<li><a href="/topimagenews/20240618/2051277.md">又一个重磅信号出现</a></li>
 <li><a href="/cbnews/20240618/2051291.md">事关重大！习铁哥们倒入西方怀抱 建独立供应链踢中共出局</a></li>
+<li><a href="/topimagenews/20240618/2051277.md">又一个重磅信号出现</a></li>
 <li><a href="/ccpdope/20240618/2051525.md">中共原住建部部长陈政高骤死有蹊跷</a></li>
 <li><a href="/ccpdope/20240618/2051215.md">网传清华招办主任被带走 要倒查六任释何信号？</a></li>
 <li><a href="/topimagenews/20240618/2051416.md">北京 楼市最后的锚也松动了</a></li>
@@ -22,8 +22,8 @@
 <li><a href="/cnnews/20240618/2051556.md">中国私刑正义! 女儿遭强暴自杀 母驾车撞凶嫌与局长母亲、村长霸凌 1家6口遭灭门</a></li>
 <li><a href="/ssgc/20240618/2051502.md">倒查30年追缴稅款 中国民企噤若寒蝉</a></li>
 <li><a href="/baitai/20240618/2051396.md">涉薄熙来案 绯闻王沪宁 央视美女主播姜丰生活照曝光</a></li>
-<li><a href="/cnnews/20240618/2051461.md">史上最大泡沫股 股价恐将暴跌</a></li>
 <li><a href="/cbnews/20240618/2051435.md">〖红朝浮世绘〗熊猫外交不可信 错把李强称“李克强”</a></li>
+<li><a href="/cnnews/20240618/2051461.md">史上最大泡沫股 股价恐将暴跌</a></li>
 <li><a href="/topimagenews/20240618/2051596.md">乌克兰在沃夫昌斯克赢得重大胜利 俄罗斯败兵集体投降</a></li>
 <li><a href="/cnnews/20240618/2051458.md">让习骑虎难下！传俄朝这次要搞“大事”</a></li>
 <li><a href="/topimagenews/20240618/2051278.md">【微博精粹】习近平上不上当 只能自己想清楚</a></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240619/2051793.md" target="_blank">李强访澳 前中共特工现场抗议喊话：不为中共输血</a></li>
 <li><a href="/cbnews/20240619/2051773.md" target="_blank">中国网红“扮科比”吸粉57万！被官媒点名</a></li>
 <li><a href="/cbnews/20240619/2051744.md" target="_blank">中共最强核舰艇出事？他分析3种可能</a></li>
 <li><a href="/cbnews/20240619/2051743.md" target="_blank">今年第一季度中国结婚登记量跌破200万对</a></li>
@@ -59,13 +60,13 @@
 <li><a href="/cbnews/20240618/2051293.md" target="_blank">重大风向 美严控 要求“海外中国创始人”与中共国切割</a></li>
 <li><a href="/cbnews/20240618/2051292.md" target="_blank">“打倒共产党！”这些人一起高呼</a></li>
 <li><a href="/cbnews/20240618/2051291.md" target="_blank">事关重大！习铁哥们倒入西方怀抱 建独立供应链踢中共出局</a></li>
-<li><a href="/cbnews/20240618/2051290.md" target="_blank">习隐匿财产证据多多 美将公开重磅报告</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240619/2051792.md" target="_blank">终结金家王朝？金日成纪念碑遭泼墨</a></li>
 <li><a href="/topimagenews/20240619/2051771.md" target="_blank">“洋妞引进计划”，丢脸丢到国外</a></li>
 <li><a href="/topimagenews/20240619/2051770.md" target="_blank">习近平招来的 美中不祥之兆横生</a></li>
 <li><a href="/topimagenews/20240619/2051769.md" target="_blank">留给环京业主的时间不多了</a></li>
@@ -90,13 +91,16 @@
 <li><a href="/topimagenews/20240618/2051414.md" target="_blank">小米扫地机器人自燃引火灾！全屋熏黑 小米冷回</a></li>
 <li><a href="/topimagenews/20240618/2051280.md" target="_blank">中共更狠的来了 洗劫海外</a></li>
 <li><a href="/topimagenews/20240618/2051279.md" target="_blank">比房地产严重 这才是中国经济最大挑战？</a></li>
-<li><a href="/topimagenews/20240618/2051278.md" target="_blank">【微博精粹】习近平上不上当 只能自己想清楚</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240619/2051797.md" target="_blank">倪刃：国籍跟爱国到底有没有关系？</a></li>
+<li><a href="/comments/20240619/2051796.md" target="_blank">戴书：从香港反修例到“白纸”澳洲留学生的政治创伤要如何平复？</a></li>
+<li><a href="/comments/20240619/2051795.md" target="_blank">何清涟:2024美国大选前夕台湾的“川普焦虑症”</a></li>
+<li><a href="/comments/20240619/2051787.md" target="_blank">任正非：我崇拜美国，始终不变</a></li>
 <li><a href="/comments/20240619/2051778.md" target="_blank">老干体v：鹤岗化全国蔓延，拳头化就必然登场</a></li>
 <li><a href="/comments/20240619/2051777.md" target="_blank">亚欧视点：普京面临生死局</a></li>
 <li><a href="/comments/20240619/2051776.md" target="_blank">颜纯钩: 敌人赞成的我就要反对：习式思维逻辑近乎儿戏</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20240618/2051506.md" target="_blank">【福建广东发生严重暴雨洪涝灾害】【广东梅州多地大暴雨 局部特大暴雨】</a></li>
 <li><a href="/comments/20240618/2051453.md" target="_blank">攸关身家性命，习近平应该是真怂了</a></li>
 <li><a href="/comments/20240618/2051437.md" target="_blank">社会教做人，小学生吐槽食堂之后被谈话了</a></li>
-<li><a href="/comments/20240618/2051412.md" target="_blank">李强被喊“李克强”，澳总理故意？两小学生怼中共视频火遍网络，习近平吓坏？</a></li>
-<li><a href="/comments/20240618/2051346.md" target="_blank">【财经拆局】谁在地狱？ 地产商定香港楼市？</a></li>
-<li><a href="/comments/20240618/2051343.md" target="_blank">评论 &#8211; 王丹：普京与习近平同床异梦</a></li>
-<li><a href="/comments/20240618/2051342.md" target="_blank">评论 &#8211;  魏京生：什么样的民主更适合中国（之七）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/comments/20231214/1974098.md" target="_blank">美国众议院议长：我所坚守的保守主义，具体是些什么内容？</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
+<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
+<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
 <li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/taiwannews/20210119/1470524.md" target="_blank">纪录片《蚕食美国1》</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20231204/1969287.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （三）</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20231207/1970628.md" target="_blank">民兵对官军，希望之声打造广播界的奇蹟【方伟时间-20231206】</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20231214/1974098.md" target="_blank">美国众议院议长：我所坚守的保守主义，具体是些什么内容？</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
 
 </ul>
 </div>
