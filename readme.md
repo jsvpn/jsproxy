@@ -13,21 +13,21 @@
 <li><a href="/topimagenews/20240619/2052087.md">慈禧后人长什么样子？第五世外孙女照片网络爆红</a></li>
 <li><a href="/ccpdope/20240619/2051936.md">中产「返贫五件套」！中国中产阶级梦碎</a></li>
 <li><a href="/headline/20240620/2052173.md">盛传彭丽媛上位之际 习近平到「革命圣地」释放整军讯号</a></li>
-<li><a href="/sohnews/20240619/2051948.md">上海地铁爆发恐袭死伤多人，习近平考察青海出现安保闹剧，朝鲜发生反政府抗议活动。《老灯开讲第588期》</a></li>
 <li><a href="/worldnews/20240620/2052195.md">普京金正恩干了票大的 后果不堪设想</a></li>
+<li><a href="/sohnews/20240619/2051948.md">上海地铁爆发恐袭死伤多人，习近平考察青海出现安保闹剧，朝鲜发生反政府抗议活动。《老灯开讲第588期》</a></li>
 <li><a href="/baitai/20240620/2052181.md">习在延安「寻根溯源」背后目的令人细思极恐</a></li>
 <li><a href="/cnnews/20240619/2052037.md">北京体制内女孩的相亲困境：体面是一种代价</a></li>
-<li><a href="/worldnews/20240619/2051929.md">金正恩熬夜接机普京 要这补偿恐落空</a></li>
 <li><a href="/topimagenews/20240620/2052244.md">手段毒辣！女艺人公开北京一封信…</a></li>
+<li><a href="/worldnews/20240619/2051929.md">金正恩熬夜接机普京 要这补偿恐落空</a></li>
 <li><a href="/finance/20240619/2052010.md">倒查税 直播主被逼卖房缴近90亿! 中共还抢民众遗产 网曝搜刮人民四部曲</a></li>
 <li><a href="/comments/20240619/2051991.md">“李强”改名“李克强”？国际社会没印象</a></li>
-<li><a href="/cbnews/20240619/2051925.md">北京南海袭击菲律宾船只 用意曝光</a></li>
 <li><a href="/comments/20240620/2052246.md">习花在哪里的钱最多？毛宁一句话泄密</a></li>
+<li><a href="/cbnews/20240619/2051925.md">北京南海袭击菲律宾船只 用意曝光</a></li>
 <li><a href="/headline/20240619/2051988.md">上海地铁中年汉持刀施袭3伤 目击者：满地是血吓死了</a></li>
 <li><a href="/cbnews/20240619/2052006.md">泄洪不告知下游已成SOP？广东2水库“联合泄洪”酿重大死方 官方竟还淡化灾情</a></li>
 <li><a href="/headline/20240620/2052179.md">普京访问朝鲜，对北京意味着什么？</a></li>
 <li><a href="/comments/20240619/2052048.md">和美国公民结了婚就可以拿到绿卡了吗？</a></li>
-<li><a href="/topimagenews/20240620/2052226.md">资金不知去向！中国知名理财平台爆雷</a></li>
+<li><a href="/comments/20240620/2052229.md">核弹级国际大新闻！习近平如何接招</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240620/2052342.md" target="_blank">纷纷切割 他们不再为北京效命</a></li>
+<li><a href="/cbnews/20240620/2052341.md" target="_blank">寺庙住持与女主播发生关系遭敲诈520万 判了</a></li>
+<li><a href="/cbnews/20240620/2052340.md" target="_blank">1436栋房屋倒塌！广东梅州宣布进入“战时状态”</a></li>
 <li><a href="/cbnews/20240620/2052332.md" target="_blank">欧洲新议会形成 专家：欧中关系只能变更糟</a></li>
 <li><a href="/cbnews/20240620/2052331.md" target="_blank">菲律宾军方发布17日菲中军人海上冲突视频</a></li>
 <li><a href="/cbnews/20240620/2052330.md" target="_blank">遭20年一遇洪水 桂林变成威尼斯</a></li>
@@ -57,9 +60,6 @@
 <li><a href="/cbnews/20240619/2052006.md" target="_blank">泄洪不告知下游已成SOP？广东2水库“联合泄洪”酿重大死方 官方竟还淡化灾情</a></li>
 <li><a href="/comments/20240619/2051992.md" target="_blank">非法移民能够参加大选投票吗？</a></li>
 <li><a href="/comments/20240619/2051991.md" target="_blank">“李强”改名“李克强”？国际社会没印象</a></li>
-<li><a href="/cbnews/20240619/2051925.md" target="_blank">北京南海袭击菲律宾船只 用意曝光</a></li>
-<li><a href="/cbnews/20240619/2051907.md" target="_blank">美参议员：情报界需全力追踪中国的科技活动</a></li>
-<li><a href="/cbnews/20240619/2051906.md" target="_blank">壮男被老人逼让座 崩溃狂喊“都欺负我”</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240620/2052339.md" target="_blank">【中菲南海冲突】【菲律宾: 中方故意高速撞击 致人员受伤】【中国: 菲船非法闯入仁爱礁邻近海域】</a></li>
 <li><a href="/comments/20240620/2052308.md" target="_blank">让你想不到的菩萨点化！</a></li>
 <li><a href="/comments/20240620/2052296.md" target="_blank">烟草局伪造证据被监控拍下，甘肃农民领刑五年</a></li>
 <li><a href="/comments/20240620/2052294.md" target="_blank">猫哥:一查就停产，很多大老板开始失眠了…</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240620/2052206.md" target="_blank">周晓辉：“警税合成作战中心”透杀气</a></li>
 <li><a href="/comments/20240620/2052205.md" target="_blank">王赫：中国稀土产业面临三大冲击</a></li>
 <li><a href="/comments/20240620/2052204.md" target="_blank">掸封尘：敢问中共，“党恩”何在？</a></li>
-<li><a href="/comments/20240620/2052191.md" target="_blank">天亮时分：欧布莱恩预言川普当选後，美国政策&#8230; &#8230;</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
+<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
 <li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
 
 </ul>
 </div>
