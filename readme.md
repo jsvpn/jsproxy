@@ -6,28 +6,28 @@
 <ul>
 
 <li><a href="/cbnews/20240620/2052416.md">武汉失踪青年达数百 只找到3尸体! 中国恐怖掳人割器官 专家 : 小心这种车…..</a></li>
-<li><a href="/sohnews/20240620/2052374.md">习回陕西确定自己陵墓选址，延安军队政工会议竟批判张又侠，656位军官上书中央原件。《老灯开讲第589期》</a></li>
-<li><a href="/worldnews/20240620/2052334.md">“见到乌军即刻斩首” 俄乌战场恐怖照片疯传</a></li>
 <li><a href="/topimagenews/20240621/2052631.md">遍布全球各地，北京一手养大的怪物已无法控制</a></li>
+<li><a href="/sohnews/20240620/2052374.md">习回陕西确定自己陵墓选址，延安军队政工会议竟批判张又侠，656位军官上书中央原件。《老灯开讲第589期》</a></li>
 <li><a href="/cbnews/20240620/2052342.md">纷纷切割 他们不再为北京效命</a></li>
 <li><a href="/topimagenews/20240620/2052362.md">解放军变“斧头帮”! 中菲南海冲突现场曝光 中方强势挥斧头、刀具、棍棒登船</a></li>
-<li><a href="/cnnews/20240620/2052337.md">被“圈养”的中国女博士</a></li>
-<li><a href="/baitai/20240621/2052605.md">三中全会前夕 习近平在延安召开中央军委政治会议 预示要有大事发生？</a></li>
 <li><a href="/baitai/20240620/2052397.md">华春莹刚升副部长又有新职务？</a></li>
-<li><a href="/cbnews/20240620/2052340.md">1436栋房屋倒塌！广东梅州宣布进入“战时状态”</a></li>
+<li><a href="/baitai/20240621/2052605.md">三中全会前夕 习近平在延安召开中央军委政治会议 预示要有大事发生？</a></li>
 <li><a href="/worldnews/20240621/2052633.md">普京访朝接受献花 超吸睛美女让强人羞涩</a></li>
+<li><a href="/cbnews/20240620/2052340.md">1436栋房屋倒塌！广东梅州宣布进入“战时状态”</a></li>
 <li><a href="/comments/20240620/2052476.md">复旦大学怎么变成混蛋大学的？</a></li>
-<li><a href="/cnnews/20240620/2052423.md">百姓苦! 中国南方淹大水 习近平却跑去西“藏”？ 网友：连演都不演了</a></li>
 <li><a href="/topimagenews/20240621/2052555.md">纽时：俄罗斯北朝鲜军事结盟 金正恩赚到中共头痛</a></li>
+<li><a href="/cnnews/20240620/2052423.md">百姓苦! 中国南方淹大水 习近平却跑去西“藏”？ 网友：连演都不演了</a></li>
 <li><a href="/cbnews/20240620/2052517.md">3女住酒店半夜敲门声狂响！低头一看门缝“没有脚”</a></li>
 <li><a href="/comments/20240620/2052398.md">普京和金三超级热乎，背后可能是什么原因？</a></li>
-<li><a href="/cnnews/20240620/2052351.md">北大“韦神”食堂吃饭被拍 这一幕让网友破防了</a></li>
-<li><a href="/topimagenews/20240620/2052471.md">因对中共政策闹翻！将政变? 菲律宾执政联盟走向决裂! 杜特地女儿向马可仕辞内阁职务</a></li>
 <li><a href="/topimagenews/20240621/2052629.md">史无前例事件！中共蓄意测试美国底线</a></li>
+<li><a href="/topimagenews/20240620/2052471.md">因对中共政策闹翻！将政变? 菲律宾执政联盟走向决裂! 杜特地女儿向马可仕辞内阁职务</a></li>
+<li><a href="/cnnews/20240620/2052351.md">北大“韦神”食堂吃饭被拍 这一幕让网友破防了</a></li>
 <li><a href="/cnnews/20240620/2052422.md">“献忠”杀官! 内蒙村长一家5口遭灭门、青海货车蓄意撞警局 7死2伤</a></li>
 <li><a href="/sohnews/20240620/2052365.md">一家7口套现20亿</a></li>
-<li><a href="/topimagenews/20240620/2052469.md">中国又7万散户惨遭坑杀！总裁、副总裁偷偷落跑 股价狂泻73％</a></li>
 <li><a href="/topimagenews/20240621/2052619.md">影响几亿人，养老金三个月后即将巨变；众恐慌！中共新“作战中心”屠刀向内【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20240621/2052706.md">人民币巨贬！双汇率跌新低</a></li>
+<li><a href="/topimagenews/20240620/2052469.md">中国又7万散户惨遭坑杀！总裁、副总裁偷偷落跑 股价狂泻73％</a></li>
+<li><a href="/sohnews/20240620/2052380.md">🔥🔥 突发❗中共半夜企图在广东灭村❓寺庙7000万出售...魔王毒咒已应验❗</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240621/2052766.md" target="_blank">重磅调查：中共养大缅甸四大家族这些怪兽</a></li>
 <li><a href="/comments/20240621/2052743.md" target="_blank">遭删文：中共太不要脸！从盘古开天辟地至今 人类都没这先例</a></li>
 <li><a href="/comments/20240621/2052738.md" target="_blank">习近平赴青海指挥广东抗洪救灾！普京金正恩缔结“弹尽粮绝”军事同盟，北京酸疼；“摆书革命”来了</a></li>
 <li><a href="/comments/20240621/2052730.md" target="_blank">毛泽东思想的消亡</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240621/2052590.md" target="_blank">专栏 &#8211; 中国透视: 两个和平峰会 擂台东西展开</a></li>
 <li><a href="/comments/20240621/2052567.md" target="_blank">拜登替代者高调现身？美国管理最差十大城市排名，奥克兰市长面临被罢免。拜登十大城市旧金山</a></li>
 <li><a href="/comments/20240621/2052566.md" target="_blank">赖清德总统也认“以实力求和平“！</a></li>
-<li><a href="/comments/20240621/2052562.md" target="_blank">时事大家谈：官方否认倒查30年，中国为何刮起“查税风暴”？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/comments/20240116/1984226.md" target="_blank">湖北老河口遇仙记</a></li>
-<li><a href="/comments/20231201/1968320.md" target="_blank">【非凡新闻】结合中西文化精神 美国神韵表演吸睛</a></li>
-<li><a href="/comments/20231214/1974098.md" target="_blank">美国众议院议长：我所坚守的保守主义，具体是些什么内容？</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/cnnews/20221211/1822144.md" target="_blank">盖盖冲马桶很可怕！瞬间“病毒炸开”？</a></li>
-<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
 <li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/taiwannews/20210119/1470761.md" target="_blank">独家：震撼纪录片《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20230920/1936271.md" target="_blank">防止你的孩子不成功（5） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/sohnews/20160119/493472.md" target="_blank">无效的医疗：手术刀下的谎言和药瓶里的欺骗</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
 
 </ul>
 </div>
