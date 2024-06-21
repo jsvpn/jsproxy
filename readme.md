@@ -16,18 +16,18 @@
 <li><a href="/cnnews/20240620/2052337.md">被“圈养”的中国女博士</a></li>
 <li><a href="/baitai/20240620/2052397.md">华春莹刚升副部长又有新职务？</a></li>
 <li><a href="/cbnews/20240620/2052340.md">1436栋房屋倒塌！广东梅州宣布进入“战时状态”</a></li>
+<li><a href="/topimagenews/20240621/2052631.md">遍布全球各地，北京一手养大的怪物已无法控制</a></li>
 <li><a href="/ssgc/20240620/2052289.md">〖微博谈〗中国经济已是僵尸经济</a></li>
 <li><a href="/comments/20240620/2052476.md">复旦大学怎么变成混蛋大学的？</a></li>
 <li><a href="/cnnews/20240620/2052423.md">百姓苦! 中国南方淹大水 习近平却跑去西“藏”？ 网友：连演都不演了</a></li>
+<li><a href="/topimagenews/20240621/2052555.md">纽时：俄罗斯北朝鲜军事结盟 金正恩赚到中共头痛</a></li>
 <li><a href="/comments/20240620/2052398.md">普京和金三超级热乎，背后可能是什么原因？</a></li>
 <li><a href="/topimagenews/20240620/2052471.md">因对中共政策闹翻！将政变? 菲律宾执政联盟走向决裂! 杜特地女儿向马可仕辞内阁职务</a></li>
 <li><a href="/cnnews/20240620/2052351.md">北大“韦神”食堂吃饭被拍 这一幕让网友破防了</a></li>
 <li><a href="/cbnews/20240620/2052517.md">3女住酒店半夜敲门声狂响！低头一看门缝“没有脚”</a></li>
-<li><a href="/topimagenews/20240621/2052555.md">纽时：俄罗斯北朝鲜军事结盟 金正恩赚到中共头痛</a></li>
-<li><a href="/topimagenews/20240621/2052631.md">遍布全球各地，北京一手养大的怪物已无法控制</a></li>
 <li><a href="/cnnews/20240620/2052422.md">“献忠”杀官! 内蒙村长一家5口遭灭门、青海货车蓄意撞警局 7死2伤</a></li>
-<li><a href="/sohnews/20240620/2052365.md">一家7口套现20亿</a></li>
 <li><a href="/baitai/20240621/2052605.md">三中全会前夕 习近平在延安召开中央军委政治会议 预示要有大事发生？</a></li>
+<li><a href="/sohnews/20240620/2052365.md">一家7口套现20亿</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240621/2052701.md" target="_blank">中华民国最后一位 章嘉！</a></li>
 <li><a href="/cbnews/20240621/2052688.md" target="_blank">普京抢驾驶座载金正恩兜风 中共党媒删报导</a></li>
 <li><a href="/cbnews/20240621/2052687.md" target="_blank">美媒调查：缅甸犯罪网络保护伞是中共</a></li>
 <li><a href="/comments/20240621/2052684.md" target="_blank">习近平坐看经济烂掉 四种原因哪一个正确？</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240620/2052332.md" target="_blank">欧洲新议会形成 专家：欧中关系只能变更糟</a></li>
 <li><a href="/cbnews/20240620/2052331.md" target="_blank">菲律宾军方发布17日菲中军人海上冲突视频</a></li>
 <li><a href="/cbnews/20240620/2052330.md" target="_blank">遭20年一遇洪水 桂林变成威尼斯</a></li>
-<li><a href="/cbnews/20240620/2052315.md" target="_blank">击沉“中国航母”！ 潜艇发射重型鱼雷</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240621/2052701.md" target="_blank">中华民国最后一位 章嘉！</a></li>
+<li><a href="/comments/20240621/2052691.md" target="_blank">纪永添：AI接管制空权 重大革命</a></li>
 <li><a href="/comments/20240621/2052684.md" target="_blank">习近平坐看经济烂掉 四种原因哪一个正确？</a></li>
 <li><a href="/comments/20240621/2052683.md" target="_blank">【美中举行高级别反毒品合作会谈】 美国和中国于6月20日举行了高级别的 #反毒品合作会谈，此前双方在本周的双边合作中取得突破，共同打击了一起重大涉毒洗钱行动。</a></li>
 <li><a href="/comments/20240621/2052666.md" target="_blank">中共唯有跨台的路越走越通</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240620/2052398.md" target="_blank">普京和金三超级热乎，背后可能是什么原因？</a></li>
 <li><a href="/comments/20240620/2052386.md" target="_blank">【广西“龙舟水”酿灾】 【桂林遭遇1998年以来最大洪峰】</a></li>
 <li><a href="/comments/20240620/2052378.md" target="_blank">【美国会代表团会晤达赖喇嘛】 【反对中国干涉西藏转世传统】</a></li>
-<li><a href="/comments/20240620/2052339.md" target="_blank">【中菲南海冲突】【菲律宾: 中方故意高速撞击 致人员受伤】【中国: 菲船非法闯入仁爱礁邻近海域】</a></li>
-<li><a href="/comments/20240620/2052308.md" target="_blank">让你想不到的菩萨点化！</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/cbnews/20190701/1151453.md" target="_blank">盘点十大邪教特征 中共条条对号入座</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/topimagenews/20180608/954788.md" target="_blank">安乐死根本安乐不了，别宣传了</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
 
 </ul>
 </div>
