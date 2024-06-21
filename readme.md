@@ -10,8 +10,8 @@
 <li><a href="/cbnews/20240620/2052300.md">〖红朝浮世绘〗弹尽和粮绝握手了</a></li>
 <li><a href="/cnnews/20240620/2052279.md">宋祖英攀上江泽民前曾是这对兄弟的情妇</a></li>
 <li><a href="/worldnews/20240620/2052334.md">“见到乌军即刻斩首” 俄乌战场恐怖照片疯传</a></li>
-<li><a href="/topimagenews/20240620/2052362.md">解放军变“斧头帮”! 中菲南海冲突现场曝光 中方强势挥斧头、刀具、棍棒登船</a></li>
 <li><a href="/sohnews/20240620/2052374.md">习回陕西确定自己陵墓选址，延安军队政工会议竟批判张又侠，656位军官上书中央原件。《老灯开讲第589期》</a></li>
+<li><a href="/topimagenews/20240620/2052362.md">解放军变“斧头帮”! 中菲南海冲突现场曝光 中方强势挥斧头、刀具、棍棒登船</a></li>
 <li><a href="/cbnews/20240620/2052342.md">纷纷切割 他们不再为北京效命</a></li>
 <li><a href="/cnnews/20240620/2052337.md">被“圈养”的中国女博士</a></li>
 <li><a href="/baitai/20240620/2052397.md">华春莹刚升副部长又有新职务？</a></li>
@@ -22,12 +22,12 @@
 <li><a href="/comments/20240620/2052398.md">普京和金三超级热乎，背后可能是什么原因？</a></li>
 <li><a href="/topimagenews/20240620/2052471.md">因对中共政策闹翻！将政变? 菲律宾执政联盟走向决裂! 杜特地女儿向马可仕辞内阁职务</a></li>
 <li><a href="/cnnews/20240620/2052351.md">北大“韦神”食堂吃饭被拍 这一幕让网友破防了</a></li>
-<li><a href="/topimagenews/20240621/2052555.md">纽时：俄罗斯北朝鲜军事结盟 金正恩赚到中共头痛</a></li>
 <li><a href="/cbnews/20240620/2052517.md">3女住酒店半夜敲门声狂响！低头一看门缝“没有脚”</a></li>
+<li><a href="/topimagenews/20240621/2052555.md">纽时：俄罗斯北朝鲜军事结盟 金正恩赚到中共头痛</a></li>
+<li><a href="/topimagenews/20240621/2052631.md">遍布全球各地，北京一手养大的怪物已无法控制</a></li>
 <li><a href="/cnnews/20240620/2052422.md">“献忠”杀官! 内蒙村长一家5口遭灭门、青海货车蓄意撞警局 7死2伤</a></li>
 <li><a href="/sohnews/20240620/2052365.md">一家7口套现20亿</a></li>
-<li><a href="/topimagenews/20240620/2052469.md">中国又7万散户惨遭坑杀！总裁、副总裁偷偷落跑 股价狂泻73％</a></li>
-<li><a href="/topimagenews/20240620/2052258.md">“外交豁免权”秘书长拍片道歉了</a></li>
+<li><a href="/baitai/20240621/2052605.md">三中全会前夕 习近平在延安召开中央军委政治会议 预示要有大事发生？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240621/2052688.md" target="_blank">普京抢驾驶座载金正恩兜风 中共党媒删报导</a></li>
+<li><a href="/cbnews/20240621/2052687.md" target="_blank">美媒调查：缅甸犯罪网络保护伞是中共</a></li>
+<li><a href="/comments/20240621/2052684.md" target="_blank">习近平坐看经济烂掉 四种原因哪一个正确？</a></li>
 <li><a href="/cbnews/20240621/2052632.md" target="_blank">中国偷渡客不怕厄瓜多尔撤免签 最怕另一点</a></li>
 <li><a href="/comments/20240621/2052567.md" target="_blank">拜登替代者高调现身？美国管理最差十大城市排名，奥克兰市长面临被罢免。拜登十大城市旧金山</a></li>
 <li><a href="/comments/20240621/2052566.md" target="_blank">赖清德总统也认“以实力求和平“！</a></li>
@@ -57,15 +60,14 @@
 <li><a href="/cbnews/20240620/2052331.md" target="_blank">菲律宾军方发布17日菲中军人海上冲突视频</a></li>
 <li><a href="/cbnews/20240620/2052330.md" target="_blank">遭20年一遇洪水 桂林变成威尼斯</a></li>
 <li><a href="/cbnews/20240620/2052315.md" target="_blank">击沉“中国航母”！ 潜艇发射重型鱼雷</a></li>
-<li><a href="/cbnews/20240620/2052314.md" target="_blank">山东干旱持续 农民：收成损失九成</a></li>
-<li><a href="/comments/20240620/2052308.md" target="_blank">让你想不到的菩萨点化！</a></li>
-<li><a href="/cbnews/20240620/2052300.md" target="_blank">〖红朝浮世绘〗弹尽和粮绝握手了</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240621/2052686.md" target="_blank">中共密令下发动的国家群体灭绝运动罪证</a></li>
+<li><a href="/topimagenews/20240621/2052685.md" target="_blank">兵不够打了？ 俄撤光北约边境军队赴乌前线 还向“友好国家”们购武器</a></li>
 <li><a href="/topimagenews/20240621/2052662.md" target="_blank">着急了？金正恩往脸上贴金 普京最后留这手</a></li>
 <li><a href="/topimagenews/20240621/2052661.md" target="_blank">普京沦为马童 金正恩开怀大笑</a></li>
 <li><a href="/topimagenews/20240621/2052631.md" target="_blank">遍布全球各地，北京一手养大的怪物已无法控制</a></li>
@@ -89,14 +91,14 @@
 <li><a href="/topimagenews/20240620/2052244.md" target="_blank">手段毒辣！女艺人公开北京一封信…</a></li>
 <li><a href="/topimagenews/20240620/2052243.md" target="_blank">诡异画面曝光：中共携带刀剑强行登船…</a></li>
 <li><a href="/topimagenews/20240620/2052227.md" target="_blank">习近平是普京真朋友？“他其实在给俄罗斯放血”</a></li>
-<li><a href="/topimagenews/20240620/2052226.md" target="_blank">资金不知去向！中国知名理财平台爆雷</a></li>
-<li><a href="/topimagenews/20240619/2052106.md" target="_blank">硅谷传出加强员工安全审查 防中共间谍渗透窃技术</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240621/2052684.md" target="_blank">习近平坐看经济烂掉 四种原因哪一个正确？</a></li>
+<li><a href="/comments/20240621/2052683.md" target="_blank">【美中举行高级别反毒品合作会谈】 美国和中国于6月20日举行了高级别的 #反毒品合作会谈，此前双方在本周的双边合作中取得突破，共同打击了一起重大涉毒洗钱行动。</a></li>
 <li><a href="/comments/20240621/2052666.md" target="_blank">中共唯有跨台的路越走越通</a></li>
 <li><a href="/comments/20240621/2052643.md" target="_blank">当公安撞上王小跪……</a></li>
 <li><a href="/comments/20240621/2052617.md" target="_blank">天亮时分：朝俄联盟，金正恩的如意算盘 #朝俄联盟 #普金 #金正恩 #天亮时分</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240620/2052378.md" target="_blank">【美国会代表团会晤达赖喇嘛】 【反对中国干涉西藏转世传统】</a></li>
 <li><a href="/comments/20240620/2052339.md" target="_blank">【中菲南海冲突】【菲律宾: 中方故意高速撞击 致人员受伤】【中国: 菲船非法闯入仁爱礁邻近海域】</a></li>
 <li><a href="/comments/20240620/2052308.md" target="_blank">让你想不到的菩萨点化！</a></li>
-<li><a href="/comments/20240620/2052296.md" target="_blank">烟草局伪造证据被监控拍下，甘肃农民领刑五年</a></li>
-<li><a href="/comments/20240620/2052294.md" target="_blank">猫哥:一查就停产，很多大老板开始失眠了…</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
-<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/comments/20231213/1973586.md" target="_blank">六道轮回之畜生道</a></li>
-<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
 <li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/cbnews/20190701/1151453.md" target="_blank">盘点十大邪教特征 中共条条对号入座</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
 
 </ul>
 </div>
