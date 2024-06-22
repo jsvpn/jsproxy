@@ -7,10 +7,8 @@
 
 <li><a href="/topimagenews/20240621/2052779.md">大丑闻 难怪波音常出事！假冒钛装上飞机</a></li>
 <li><a href="/sohnews/20240621/2052830.md">刺激经济政策失败，资金蜂拥出逃⋯⋯ 路透爆知情人消息，高层命令中小银行削减理财！</a></li>
-<li><a href="/cbnews/20240621/2052748.md">〖红朝浮世绘〗为人民服务是一门巨大的生意 且得努力学习呢</a></li>
-<li><a href="/cnnews/20240621/2052745.md">川普的态度，突然变了</a></li>
-<li><a href="/topimagenews/20240621/2052759.md">网传多个赴日旅游团集体“跑路”！中国人走线另辟蹊径</a></li>
 <li><a href="/topimagenews/20240621/2052758.md">最新消息：美国驻北京大使馆辖区调整</a></li>
+<li><a href="/topimagenews/20240621/2052759.md">网传多个赴日旅游团集体“跑路”！中国人走线另辟蹊径</a></li>
 <li><a href="/sohnews/20240621/2052680.md">赵薇一夜消失的真相，她得罪了你想不到的人；她经历了什么？【文昭思绪飞扬359期】</a></li>
 <li><a href="/comments/20240622/2052889.md">习近平 为什么 看着经济烂掉也不管？方伟 中国经济习近平</a></li>
 <li><a href="/sohnews/20240621/2052842.md">中国富翁移民潮来了</a></li>
@@ -22,12 +20,14 @@
 <li><a href="/cnnews/20240621/2052772.md">李嘉诚疯狂，跑得更快了</a></li>
 <li><a href="/sohnews/20240621/2052820.md">中国历史上智商最高的5个人，诸葛亮仅排第五，没想到第一个是他！｜传统文化｜知识分享｜人生智慧 【晨曦晓屋】</a></li>
 <li><a href="/cbnews/20240621/2052807.md">江峰：十年一战，军队整风为彭丽媛量身打造权力范围；普京受金正恩超规格待遇，关键一项习近平捞不到；出访朝越，普京是习盟友还是要打造前苏联对中共的围堵？【江峰漫谈20240620第888期】</a></li>
-<li><a href="/sohnews/20240622/2052868.md">“习近平承认：收复台湾今生不可能 自认-中共国无宪政主权”《今日点击》（06/21/24）</a></li>
 <li><a href="/topimagenews/20240621/2052777.md">神秘！中国边境成立多间特别授权银行 美正致力侦测</a></li>
-<li><a href="/yule/20240621/2052746.md">章小蕙去逛故宫穿得真洋气：衬衫+半身裙+穆勒鞋，61岁美出新高度 </a></li>
+<li><a href="/sohnews/20240622/2052868.md">“习近平承认：收复台湾今生不可能 自认-中共国无宪政主权”《今日点击》（06/21/24）</a></li>
+<li><a href="/sohnews/20240622/2052900.md">沙特终结石油美元意味着什么</a></li>
 <li><a href="/sohnews/20240621/2052837.md">文睿：快讯：《台独法》来了，党，你是生怕自己死的不够快啊</a></li>
 <li><a href="/sohnews/20240621/2052809.md">习近平所乘专列神出鬼没躲避暗算，习公开讲要警惕林彪似的野心家，陈一新一次受贿五百万美金。《老灯开讲第590期》</a></li>
-<li><a href="/sohnews/20240622/2052900.md">沙特终结石油美元意味着什么</a></li>
+<li><a href="/sohnews/20240622/2052906.md">中共疯了，宣布“台独判死刑终身追杀”，目标远不止赖清德！桂林特大洪灾超98年，又是人祸大于天灾！｜远见快评 唐靖远</a></li>
+<li><a href="/cbnews/20240621/2052760.md">四川男上山采菌 被熊咬掉鼻子 狂奔5公里求救</a></li>
+<li><a href="/cbnews/20240621/2052763.md">中美4个领域差距正在拉大 “值得高度警惕”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
-<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
+<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/cnnews/20221211/1822144.md" target="_blank">盖盖冲马桶很可怕！瞬间“病毒炸开”？</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20231223/1978148.md" target="_blank">医山夜话：张锡纯医案解读（三）赭石：降胃气 引火下行</a></li>
+<li><a href="/comments/20231214/1974098.md" target="_blank">美国众议院议长：我所坚守的保守主义，具体是些什么内容？</a></li>
 <li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
-<li><a href="/comments/20240116/1984226.md" target="_blank">湖北老河口遇仙记</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
 <li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
 
 </ul>
 </div>
