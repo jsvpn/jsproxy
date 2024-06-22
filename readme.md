@@ -8,8 +8,8 @@
 <li><a href="/comments/20240622/2052889.md">习近平 为什么 看着经济烂掉也不管？方伟 中国经济习近平</a></li>
 <li><a href="/sohnews/20240622/2052962.md">大批民众集聚中央电视台示威，双李联手成功阻击彭丽媛，美国政府披露中共高官集体安排后路。《老灯开讲第591期》</a></li>
 <li><a href="/comments/20240622/2052908.md">程晓农：三根绳索将中国养老金勒干，2028年恐耗尽！中国经济最后一道防线快守不住了 ｜方菲时间</a></li>
-<li><a href="/sohnews/20240622/2052906.md">中共疯了，宣布“台独判死刑终身追杀”，目标远不止赖清德！桂林特大洪灾超98年，又是人祸大于天灾！｜远见快评 唐靖远</a></li>
 <li><a href="/sohnews/20240622/2052900.md">沙特终结石油美元意味着什么</a></li>
+<li><a href="/sohnews/20240622/2052906.md">中共疯了，宣布“台独判死刑终身追杀”，目标远不止赖清德！桂林特大洪灾超98年，又是人祸大于天灾！｜远见快评 唐靖远</a></li>
 <li><a href="/sohnews/20240622/2052920.md">这2大热门国家 限制华人签证｜新闻五人行</a></li>
 <li><a href="/sohnews/20240622/2052903.md">三中全会前，中共军头全赴延安开会，凸显存亡时刻！山雨欲来风满楼，大清洗将至；李希“打虎”比赵乐际翻倍，老虎越打越多？菲中军人海上冲突视频爆光，谁是强盗？</a></li>
 <li><a href="/sohnews/20240622/2052907.md">台籍生挥拳打老师 发生了什么？</a></li>
@@ -22,10 +22,10 @@
 <li><a href="/sohnews/20240622/2052947.md">波音总出事 中共在捣鬼？</a></li>
 <li><a href="/sohnews/20240622/2052969.md">陈破空：盛传习在秦岭秘建陵墓？到青海打起龙盖！他一怒之下抛出新法，毛泽东将被追判死刑？复旦院长被扇耳光，出手者大有来头。直播与问答：美东时间6月22日早9点、中港台当日晚9点</a></li>
 <li><a href="/sohnews/20240622/2052975.md">美中冷战加剧 反习已成共识 2024习近平如坐针毡!独裁者困境 中南海最怕政变还是民变?@democraticTaiwanChannel</a></li>
-<li><a href="/sohnews/20240622/2052942.md">“连结上超级意识”到底是种什么体验？日本女子“右脑觉醒”，竟接触到世界奥秘！【地球旅馆】</a></li>
-<li><a href="/comments/20240622/2052936.md">居有其屋是美国人的美国梦 今天变成啥样？</a></li>
 <li><a href="/ssgc/20240622/2052988.md">〖微博谈〗这波是要把VE/PE动态清零啊</a></li>
 <li><a href="/ccpdope/20240622/2053009.md">中共中宣部副部长张建春被查</a></li>
+<li><a href="/sohnews/20240622/2052942.md">“连结上超级意识”到底是种什么体验？日本女子“右脑觉醒”，竟接触到世界奥秘！【地球旅馆】</a></li>
+<li><a href="/comments/20240622/2052936.md">居有其屋是美国人的美国梦 今天变成啥样？</a></li>
 <li><a href="/sohnews/20240622/2052924.md">成都地铁站塌陷惊魂，真相惊掉下巴；平远38亡2失踪，南方还有强降雨【新闻看点 李沐阳6.21】</a></li>
 <li><a href="/itnews/20240622/2052974.md">中国“618”购物节销售额首次下降</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240623/2053392.md" target="_blank">文昭：突发，人民币贬值重磅信号！惨到兑卢布都跌了；习近平急开会3天，一条谣言印证了</a></li>
 <li><a href="/comments/20240623/2053391.md" target="_blank">超级富豪出手创纪录，川普5月筹款碾压拜登。史密斯资格听证会，法官坎农烧烤检察官。川普拜登机密文件</a></li>
 <li><a href="/comments/20240623/2053335.md" target="_blank">时事大家谈：习近平在延安召开中央军委政工会议 &#160;为何不断强调“政治建军”？</a></li>
 <li><a href="/comments/20240623/2053334.md" target="_blank">时事大家谈：习近平在延安召开中央军委政工会议 &#160;为何不断强调“政治建军”？解放军战略核潜艇为何在台湾海峡上浮 ？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240622/2053138.md" target="_blank">“美国梦”变了，变成啥了？</a></li>
 <li><a href="/comments/20240622/2053088.md" target="_blank">天亮时分：彭丽媛会否三中全会进入政治局？ #天亮时分 #三中全会 #彭丽媛</a></li>
 <li><a href="/comments/20240622/2053087.md" target="_blank">天亮时分：中宣部副部长落马，阻击彭丽媛？三中全会前，沪指跌破3000点，跟台湾有关？（政论天下第1335集 20240621）天亮时分</a></li>
-<li><a href="/comments/20240622/2053086.md" target="_blank">天亮时分：习近平选择在延安开会释放什麽信号？ #天亮时分 #习近平 #延安</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/taiwannews/20210119/1470524.md" target="_blank">纪录片《蚕食美国1》</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
 <li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20231203/1969183.md" target="_blank">开盖冲马桶 ，细菌会乱飞？除非你家马桶是喷泉！</a></li>
+<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20240412/2024185.md" target="_blank">是治疗还是屠杀?化疗药品滴一滴在皮肤即灼伤，很长时间才好</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
 
 </ul>
 </div>
