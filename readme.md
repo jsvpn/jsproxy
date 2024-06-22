@@ -17,11 +17,11 @@
 <li><a href="/sohnews/20240622/2052907.md">台籍生挥拳打老师 发生了什么？</a></li>
 <li><a href="/sohnews/20240622/2052938.md">F16战斗机还没来，苏57就被乌克兰炸毁，莫斯科苏霍伊大楼突然起火！｜探索时分</a></li>
 <li><a href="/sohnews/20240621/2052856.md">🕵️‍♂️🏦神秘！中国边境成立多间特别授权银行 美正致力侦测；最新消息：美国驻北京大使馆辖区调整；中共幕后操作失败！这两国站队欧盟；这次马英九要相信习？习希望谁当选？美情报机构报告【阿波罗网】</a></li>
-<li><a href="/comments/20240622/2052936.md">居有其屋是美国人的美国梦 今天变成啥样？</a></li>
 <li><a href="/sohnews/20240622/2052887.md">中国人走线“跳板”被拆？这国取消免签；这2大热国家，限制华人签证；中共叫停偷渡，演给谁看？拜登大赦新政！涉及50万人；美国或再现九/一一？玩App也能玩出抑郁症？｜新闻五人行 06/21/2024</a></li>
+<li><a href="/sohnews/20240622/2052961.md">文睿：党，出奇招了，我，一辈子也想不出这种手段</a></li>
+<li><a href="/comments/20240622/2052936.md">居有其屋是美国人的美国梦 今天变成啥样？</a></li>
 <li><a href="/sohnews/20240622/2052942.md">“连结上超级意识”到底是种什么体验？日本女子“右脑觉醒”，竟接触到世界奥秘！【地球旅馆】</a></li>
 <li><a href="/sohnews/20240622/2052947.md">波音总出事 中共在捣鬼？</a></li>
-<li><a href="/sohnews/20240622/2052961.md">文睿：党，出奇招了，我，一辈子也想不出这种手段</a></li>
 <li><a href="/sohnews/20240622/2052924.md">成都地铁站塌陷惊魂，真相惊掉下巴；平远38亡2失踪，南方还有强降雨【新闻看点 李沐阳6.21】</a></li>
 <li><a href="/sohnews/20240622/2052911.md">中国经济衰退，Nissan常州厂停产；日本制裁11援俄实体含7中港企业；中国公司退出俄罗斯北极LNG-2；要符合西方和中共标准，shein美国上市难；美国新规限制对华芯片、量子信息等投资</a></li>
 <li><a href="/sohnews/20240622/2052945.md">中国惊现“飞天”，真实到难以置信｜大宇拍案惊奇shorts</a></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240622/2053082.md" target="_blank">江峰：倒查30年税务，税务总局不承认，那麽是谁干的呢？警税作战中心：国家名义的抢劫团伙。中国大陆医院活摘器官犯罪组织，脑死亡的标准？还在呼吸的S人？【江峰漫谈20240621第889期】</a></li>
 <li><a href="/comments/20240622/2052936.md" target="_blank">居有其屋是美国人的美国梦 今天变成啥样？</a></li>
 <li><a href="/comments/20240622/2052908.md" target="_blank">程晓农：三根绳索将中国养老金勒干，2028年恐耗尽！中国经济最后一道防线快守不住了 ｜方菲时间</a></li>
 <li><a href="/comments/20240622/2052889.md" target="_blank">习近平 为什么 看着经济烂掉也不管？方伟 中国经济习近平</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240621/2052687.md" target="_blank">美媒调查：缅甸犯罪网络保护伞是中共</a></li>
 <li><a href="/comments/20240621/2052684.md" target="_blank">习近平坐看经济烂掉 四种原因哪一个正确？</a></li>
 <li><a href="/cbnews/20240621/2052632.md" target="_blank">中国偷渡客不怕厄瓜多尔撤免签 最怕另一点</a></li>
-<li><a href="/comments/20240621/2052567.md" target="_blank">拜登替代者高调现身？美国管理最差十大城市排名，奥克兰市长面临被罢免。拜登十大城市旧金山</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,15 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240622/2053088.md" target="_blank">天亮时分：彭丽媛会否三中全会进入政治局？ #天亮时分 #三中全会 #彭丽媛</a></li>
+<li><a href="/comments/20240622/2053087.md" target="_blank">天亮时分：中宣部副部长落马，阻击彭丽媛？三中全会前，沪指跌破3000点，跟台湾有关？（政论天下第1335集 20240621）天亮时分</a></li>
+<li><a href="/comments/20240622/2053086.md" target="_blank">天亮时分：习近平选择在延安开会释放什麽信号？ #天亮时分 #习近平 #延安</a></li>
+<li><a href="/comments/20240622/2053085.md" target="_blank">李强出大洋相</a></li>
+<li><a href="/comments/20240622/2053084.md" target="_blank">滚蛋姐：电视认罪前+後……</a></li>
+<li><a href="/comments/20240622/2053083.md" target="_blank">总书记吃面要先问多大碗</a></li>
+<li><a href="/comments/20240622/2053065.md" target="_blank">陆艇破防 敲响特种作战警钟｜兵家常事（2024-6-22）</a></li>
+<li><a href="/comments/20240622/2053064.md" target="_blank">【“娜塔莎“是假人？】</a></li>
+<li><a href="/comments/20240622/2053063.md" target="_blank">习近平认怂？美国引诱打台湾 习不上当？（戴忠仁/上官乱/赖怡忠/公子沈） &#8211; 亚洲很想聊</a></li>
 <li><a href="/comments/20240622/2053017.md" target="_blank">【中国时局】中共20大以来 87名副部级正部级高官落马 名单一览</a></li>
 <li><a href="/comments/20240622/2052936.md" target="_blank">居有其屋是美国人的美国梦 今天变成啥样？</a></li>
 <li><a href="/comments/20240622/2052908.md" target="_blank">程晓农：三根绳索将中国养老金勒干，2028年恐耗尽！中国经济最后一道防线快守不住了 ｜方菲时间</a></li>
@@ -113,15 +122,6 @@
 <li><a href="/comments/20240621/2052712.md" target="_blank">美国人怎么没有年龄焦虑？</a></li>
 <li><a href="/comments/20240621/2052711.md" target="_blank">陈嘉宏：这一次，马英九要不要相信习近平？</a></li>
 <li><a href="/comments/20240621/2052710.md" target="_blank">宋国诚：中国，下一个好战的俄罗斯？</a></li>
-<li><a href="/comments/20240621/2052709.md" target="_blank">蔡仪侬：Netflix对《三体》的删减，刘慈欣对文革的省略</a></li>
-<li><a href="/comments/20240621/2052701.md" target="_blank">中华民国最后一位 章嘉！</a></li>
-<li><a href="/comments/20240621/2052691.md" target="_blank">纪永添：AI接管制空权 重大革命</a></li>
-<li><a href="/comments/20240621/2052684.md" target="_blank">习近平坐看经济烂掉 四种原因哪一个正确？</a></li>
-<li><a href="/comments/20240621/2052683.md" target="_blank">【美中举行高级别反毒品合作会谈】 美国和中国于6月20日举行了高级别的 #反毒品合作会谈，此前双方在本周的双边合作中取得突破，共同打击了一起重大涉毒洗钱行动。</a></li>
-<li><a href="/comments/20240621/2052666.md" target="_blank">中共唯有跨台的路越走越通</a></li>
-<li><a href="/comments/20240621/2052643.md" target="_blank">当公安撞上王小跪……</a></li>
-<li><a href="/comments/20240621/2052617.md" target="_blank">天亮时分：朝俄联盟，金正恩的如意算盘 #朝俄联盟 #普金 #金正恩 #天亮时分</a></li>
-<li><a href="/comments/20240621/2052616.md" target="_blank">【中国要求达赖喇嘛“彻底纠正”其政治观点】 6月19日，美国跨党派资深议员代表团会晤西藏精神领袖 #达赖喇嘛 举行会晤，中国反应强烈。#佩洛西 Show more</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
-<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
 <li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
-<li><a href="/comments/20231204/1969287.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （三）</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
+<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
+<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/topimagenews/20180608/954788.md" target="_blank">安乐死根本安乐不了，别宣传了</a></li>
+<li><a href="/comments/20240403/2020547.md" target="_blank">纪录片：DSM诊断与统计手册-精神病学最要命的骗局</a></li>
+<li><a href="/taiwannews/20210119/1470761.md" target="_blank">独家：震撼纪录片《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
 
 </ul>
 </div>
