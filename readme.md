@@ -5,8 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/topimagenews/20240621/2052706.md">人民币巨贬！双汇率跌新低</a></li>
-<li><a href="/cbnews/20240621/2052707.md">普京太丢人 习看不下去了？党媒报道发了又删</a></li>
 <li><a href="/topimagenews/20240621/2052740.md">【微博精粹】网警公然指导叛国</a></li>
 <li><a href="/topimagenews/20240621/2052779.md">大丑闻 难怪波音常出事！假冒钛装上飞机</a></li>
 <li><a href="/sohnews/20240621/2052830.md">刺激经济政策失败，资金蜂拥出逃⋯⋯ 路透爆知情人消息，高层命令中小银行削减理财！</a></li>
@@ -25,9 +23,11 @@
 <li><a href="/sohnews/20240621/2052823.md">陈破空：摊牌？习近平当面敲打张又侠！逼他在三中全会交出兵权？军委高层在延安密会。沿线戒严！刘建超公开亮出汉奸身份。普京与金正恩诡异过招。直播与问答：美东时间6月21日早9点、中港台当日晚9点</a></li>
 <li><a href="/cnnews/20240621/2052795.md">台生复旦“暴打老师”惨了！北大：不予录取</a></li>
 <li><a href="/cnnews/20240621/2052772.md">李嘉诚疯狂，跑得更快了</a></li>
-<li><a href="/cnnews/20240621/2052716.md">直言无讳刘少奇最臭的一次讲话</a></li>
 <li><a href="/sohnews/20240621/2052820.md">中国历史上智商最高的5个人，诸葛亮仅排第五，没想到第一个是他！｜传统文化｜知识分享｜人生智慧 【晨曦晓屋】</a></li>
 <li><a href="/cbnews/20240621/2052807.md">江峰：十年一战，军队整风为彭丽媛量身打造权力范围；普京受金正恩超规格待遇，关键一项习近平捞不到；出访朝越，普京是习盟友还是要打造前苏联对中共的围堵？【江峰漫谈20240620第888期】</a></li>
+<li><a href="/topimagenews/20240621/2052777.md">神秘！中国边境成立多间特别授权银行 美正致力侦测</a></li>
+<li><a href="/sohnews/20240622/2052868.md">“习近平承认：收复台湾今生不可能 自认-中共国无宪政主权”《今日点击》（06/21/24）</a></li>
+<li><a href="/yule/20240621/2052746.md">章小蕙去逛故宫穿得真洋气：衬衫+半身裙+穆勒鞋，61岁美出新高度 </a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240622/2052936.md" target="_blank">居有其屋是美国人的美国梦 今天变成啥样？</a></li>
 <li><a href="/comments/20240622/2052908.md" target="_blank">程晓农：三根绳索将中国养老金勒干，2028年恐耗尽！中国经济最后一道防线快守不住了 ｜方菲时间</a></li>
 <li><a href="/comments/20240622/2052889.md" target="_blank">习近平 为什么 看着经济烂掉也不管？方伟 中国经济习近平</a></li>
 <li><a href="/comments/20240622/2052869.md" target="_blank">起诉扎克伯格的亿万富翁双胞胎，支持川普，长文细说原因。拜登竞选团队内部现可怕情况。拜登川普文克莱沃斯</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20240621/2052684.md" target="_blank">习近平坐看经济烂掉 四种原因哪一个正确？</a></li>
 <li><a href="/cbnews/20240621/2052632.md" target="_blank">中国偷渡客不怕厄瓜多尔撤免签 最怕另一点</a></li>
 <li><a href="/comments/20240621/2052567.md" target="_blank">拜登替代者高调现身？美国管理最差十大城市排名，奥克兰市长面临被罢免。拜登十大城市旧金山</a></li>
-<li><a href="/comments/20240621/2052566.md" target="_blank">赖清德总统也认“以实力求和平“！</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240622/2052936.md" target="_blank">居有其屋是美国人的美国梦 今天变成啥样？</a></li>
 <li><a href="/comments/20240622/2052908.md" target="_blank">程晓农：三根绳索将中国养老金勒干，2028年恐耗尽！中国经济最后一道防线快守不住了 ｜方菲时间</a></li>
 <li><a href="/comments/20240622/2052889.md" target="_blank">习近平 为什么 看着经济烂掉也不管？方伟 中国经济习近平</a></li>
 <li><a href="/comments/20240622/2052869.md" target="_blank">起诉扎克伯格的亿万富翁双胞胎，支持川普，长文细说原因。拜登竞选团队内部现可怕情况。拜登川普文克莱沃斯</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240621/2052617.md" target="_blank">天亮时分：朝俄联盟，金正恩的如意算盘 #朝俄联盟 #普金 #金正恩 #天亮时分</a></li>
 <li><a href="/comments/20240621/2052616.md" target="_blank">【中国要求达赖喇嘛“彻底纠正”其政治观点】 6月19日，美国跨党派资深议员代表团会晤西藏精神领袖 #达赖喇嘛 举行会晤，中国反应强烈。#佩洛西 Show more</a></li>
 <li><a href="/comments/20240621/2052611.md" target="_blank">事实查核｜美国针对四位公民在中国遇袭 发出四级旅行警告？</a></li>
-<li><a href="/comments/20240621/2052610.md" target="_blank">《亚太报道》2024年6月20日音频</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
-<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
 <li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20231207/1970628.md" target="_blank">民兵对官军，希望之声打造广播界的奇蹟【方伟时间-20231206】</a></li>
 
 </ul>
 </div>
