@@ -6,7 +6,6 @@
 <ul>
 
 <li><a href="/sohnews/20240622/2052962.md">大批民众集聚中央电视台示威，双李联手成功阻击彭丽媛，美国政府披露中共高官集体安排后路。《老灯开讲第591期》</a></li>
-<li><a href="/sohnews/20240622/2052920.md">这2大热门国家 限制华人签证｜新闻五人行</a></li>
 <li><a href="/topimagenews/20240622/2053116.md">军队中有些事 由不得你不信</a></li>
 <li><a href="/sohnews/20240622/2052838.md">为什么中共腐败永远无法解决？</a></li>
 <li><a href="/comments/20240622/2053085.md">李强出大洋相</a></li>
@@ -15,19 +14,20 @@
 <li><a href="/sohnews/20240622/2052961.md">文睿：党，出奇招了，我，一辈子也想不出这种手段</a></li>
 <li><a href="/finance/20240622/2053160.md">北京突发人民币重磅贬值信号；疯狂“拆售时代”突然降临！一场巨大连锁反应开始</a></li>
 <li><a href="/ccpdope/20240622/2053009.md">中共中宣部副部长张建春被查</a></li>
+<li><a href="/baitai/20240623/2053363.md">习近平离京三天不放心？身边亲信失踪传与彭丽媛有关</a></li>
 <li><a href="/sohnews/20240622/2052938.md">F16战斗机还没来，苏57就被乌克兰炸毁，莫斯科苏霍伊大楼突然起火！｜探索时分</a></li>
 <li><a href="/cbnews/20240622/2053147.md">罕见表态！北京可能失去最坚定的欧洲伙伴</a></li>
-<li><a href="/sohnews/20240622/2052947.md">波音总出事 中共在捣鬼？</a></li>
 <li><a href="/ssgc/20240622/2052988.md">〖微博谈〗这波是要把VE/PE动态清零啊</a></li>
 <li><a href="/cbnews/20240622/2053146.md">和彭丽媛有关？中共宣传部老乡落马</a></li>
+<li><a href="/sohnews/20240622/2052947.md">波音总出事 中共在捣鬼？</a></li>
+<li><a href="/cbnews/20240623/2053376.md">〖红朝浮世绘〗就问问赖清德你怕了没？习近平可以判处你死刑了</a></li>
 <li><a href="/comments/20240622/2053083.md">总书记吃面要先问多大碗</a></li>
 <li><a href="/sohnews/20240622/2052969.md">陈破空：盛传习在秦岭秘建陵墓？到青海打起龙盖！他一怒之下抛出新法，毛泽东将被追判死刑？复旦院长被扇耳光，出手者大有来头。直播与问答：美东时间6月22日早9点、中港台当日晚9点</a></li>
-<li><a href="/sohnews/20240622/2052975.md">美中冷战加剧 反习已成共识 2024习近平如坐针毡!独裁者困境 中南海最怕政变还是民变?@democraticTaiwanChannel</a></li>
-<li><a href="/cbnews/20240623/2053376.md">〖红朝浮世绘〗就问问赖清德你怕了没？习近平可以判处你死刑了</a></li>
-<li><a href="/baitai/20240623/2053363.md">习近平离京三天不放心？身边亲信失踪传与彭丽媛有关</a></li>
 <li><a href="/topimagenews/20240622/2053113.md">19岁辽宁女子遭“高僧”骗上床“成佛”长达5年 实名举报</a></li>
+<li><a href="/sohnews/20240622/2052975.md">美中冷战加剧 反习已成共识 2024习近平如坐针毡!独裁者困境 中南海最怕政变还是民变?@democraticTaiwanChannel</a></li>
 <li><a href="/ccpdope/20240622/2052999.md">定陵发掘酿惨剧 天网恢恢饶过谁</a></li>
 <li><a href="/sohnews/20240622/2052942.md">“连结上超级意识”到底是种什么体验？日本女子“右脑觉醒”，竟接触到世界奥秘！【地球旅馆】</a></li>
+<li><a href="/topimagenews/20240623/2053424.md">习家族洋女婿明星公司摘牌！【阿波罗网报道】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
-<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
-<li><a href="/comments/20240403/2020547.md" target="_blank">纪录片：DSM诊断与统计手册-精神病学最要命的骗局</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
 
 </ul>
 </div>
