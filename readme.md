@@ -7,26 +7,26 @@
 
 <li><a href="/topimagenews/20240623/2053513.md">报应！北京面临致命交易</a></li>
 <li><a href="/topimagenews/20240623/2053531.md">打脸习近平 抛弃普京！这国总统一动作全球惊呼</a></li>
-<li><a href="/cnnews/20240623/2053471.md">爆雷！多米诺骨牌一片片倾倒…民生银行危险了</a></li>
 <li><a href="/topimagenews/20240623/2053541.md">热贴：美国8年 实在是没法回国定居了</a></li>
-<li><a href="/sohnews/20240623/2053607.md">习近平召见他最亲密的女人铁凝，有外交豁免权的余琦是元老余秋里的女儿，反腐成为中共的财源。《老灯开讲第592期》</a></li>
 <li><a href="/cbnews/20240623/2053533.md">又有4名中国留学生被遣返 美方追问：是不是党员</a></li>
+<li><a href="/sohnews/20240623/2053607.md">习近平召见他最亲密的女人铁凝，有外交豁免权的余琦是元老余秋里的女儿，反腐成为中共的财源。《老灯开讲第592期》</a></li>
 <li><a href="/sohnews/20240623/2053625.md">经济比想像还惨！愈来愈穷...中国人民怒了。 从软弱无力的经济中反击 再把握时间逃生！</a></li>
 <li><a href="/topimagenews/20240623/2053475.md">你以为这是中共的下限？这样中国人才可以做快乐的韭菜</a></li>
 <li><a href="/renquan/20240623/2053708.md">徐琳已被广州警方正式批捕</a></li>
 <li><a href="/ssgc/20240623/2053510.md">〖微博谈〗天朝进入了邪恶种子开花结果的时段</a></li>
 <li><a href="/finance/20240623/2053644.md">谁能想到中国银行已经成了孙子</a></li>
 <li><a href="/lifebaike/20240623/2053599.md">牙膏涂在脚底，作用太厉害了，解决很多人的烦恼，涨知识了</a></li>
-<li><a href="/lifebaike/20240623/2053645.md">【老照片】抛开道德是非 毛打倒刘少奇确实是一部政治杰作</a></li>
 <li><a href="/cbnews/20240623/2053496.md">陆初中生把女同学用“真名”写进黄色小说 结果…</a></li>
+<li><a href="/lifebaike/20240623/2053645.md">【老照片】抛开道德是非 毛打倒刘少奇确实是一部政治杰作</a></li>
+<li><a href="/funmedia/20240623/2053682.md">男子基因强大 一张“马脸”遗传全家 苦不堪言</a></li>
 <li><a href="/topimagenews/20240623/2053476.md">网炸！北京大学期刊“神论文” 结论：GG越短IQ越高</a></li>
 <li><a href="/cnnews/20240623/2053525.md">中国这两个最重要的都不听党指挥了；银行干脆不玩了，全都不挣钱时代来了</a></li>
+<li><a href="/cnnews/20240623/2053646.md">美国亚裔1家5口一夜爆火！网：活该他们火</a></li>
 <li><a href="/health/20240623/2053598.md">人能活多久，看头发状态就知道？寿命长的人，往往头发有2个特征</a></li>
 <li><a href="/baitai/20240623/2053661.md">刀刃开始向内？中宣部副部长张建春任上落马 习近平身边人瑟瑟发抖</a></li>
-<li><a href="/cnnews/20240623/2053646.md">美国亚裔1家5口一夜爆火！网：活该他们火</a></li>
-<li><a href="/funmedia/20240623/2053682.md">男子基因强大 一张“马脸”遗传全家 苦不堪言</a></li>
 <li><a href="/sohnews/20240623/2053628.md">养老金仅上调3%却为何引起民愤？为青年人让路，老年人口恐将最终被共产党抛弃！｜米国路边社 [20240623564]</a></li>
 <li><a href="/cbnews/20240623/2053498.md">习掌军不稳 非习派人马一有机会 反弹很高</a></li>
+<li><a href="/cbnews/20240623/2053495.md">现场惨烈！吉林路面大爆炸 数十车损毁</a></li>
 <li><a href="/yule/20240623/2053550.md">她曾艳压巩俐江珊、被名导垂爱，如今胖成大妈</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240624/2053784.md" target="_blank">大跳水！广州、深圳…学区房，破防了</a></li>
 <li><a href="/topimagenews/20240624/2053771.md" target="_blank">几百亿几百亿建水利之后…河南群众在求龙王降雨</a></li>
 <li><a href="/topimagenews/20240624/2053770.md" target="_blank">首富套现百亿后，用大米抵债……</a></li>
 <li><a href="/topimagenews/20240624/2053769.md" target="_blank">复旦台湾特权学生打校长背后：法学转医硕？大陆生不敢想</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20240621/2052777.md" target="_blank">神秘！中国边境成立多间特别授权银行 美正致力侦测</a></li>
 <li><a href="/topimagenews/20240621/2052759.md" target="_blank">网传多个赴日旅游团集体“跑路”！中国人走线另辟蹊径</a></li>
 <li><a href="/topimagenews/20240621/2052758.md" target="_blank">最新消息：美国驻北京大使馆辖区调整</a></li>
-<li><a href="/topimagenews/20240621/2052740.md" target="_blank">【微博精粹】网警公然指导叛国</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240624/2053783.md" target="_blank">文昭：又一项猛倒车，这一脚油门倒了300年【会员样片节选】</a></li>
 <li><a href="/comments/20240624/2053768.md" target="_blank">金正恩的超级红地毯</a></li>
 <li><a href="/comments/20240624/2053764.md" target="_blank">方伟周末问答 (一)｜06/23/24</a></li>
 <li><a href="/comments/20240624/2053750.md" target="_blank">达赖喇嘛阔别七年后重返美国</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240623/2053512.md" target="_blank">【杰森视角】大陆人为何疯买香港保险？央行放50年后的债，政府收30年前的税！中国人热情围观社会暴力事件有深意！习近平要中共军方2027年出“好成绩”！中国社会被三重压力激荡，哪里先爆？</a></li>
 <li><a href="/comments/20240623/2053504.md" target="_blank">矢板明夫：日本的道歉文化和方法</a></li>
 <li><a href="/comments/20240623/2053503.md" target="_blank">以色列战争：从人口增加/减少看以色列的“种族灭绝”</a></li>
-<li><a href="/comments/20240623/2053502.md" target="_blank">张平：评论以色列，大部分人都不合格</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20240623/2053092.md" target="_blank">章天亮：那些行于世间的觉者</a></li>
 <li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/comments/20231214/1974098.md" target="_blank">美国众议院议长：我所坚守的保守主义，具体是些什么内容？</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
 
 </ul>
 </div>
