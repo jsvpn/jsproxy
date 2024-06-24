@@ -11,7 +11,6 @@
 <li><a href="/sohnews/20240623/2053607.md">习近平召见他最亲密的女人铁凝，有外交豁免权的余琦是元老余秋里的女儿，反腐成为中共的财源。《老灯开讲第592期》</a></li>
 <li><a href="/sohnews/20240623/2053625.md">经济比想像还惨！愈来愈穷...中国人民怒了。 从软弱无力的经济中反击 再把握时间逃生！</a></li>
 <li><a href="/cbnews/20240623/2053533.md">又有4名中国留学生被遣返 美方追问：是不是党员</a></li>
-<li><a href="/ssgc/20240623/2053510.md">〖微博谈〗天朝进入了邪恶种子开花结果的时段</a></li>
 <li><a href="/renquan/20240623/2053708.md">徐琳已被广州警方正式批捕</a></li>
 <li><a href="/finance/20240623/2053644.md">谁能想到中国银行已经成了孙子</a></li>
 <li><a href="/lifebaike/20240623/2053599.md">牙膏涂在脚底，作用太厉害了，解决很多人的烦恼，涨知识了</a></li>
@@ -27,6 +26,7 @@
 <li><a href="/topimagenews/20240623/2053540.md">冤大头！中共为1句话 每年花老百姓血汗钱300亿</a></li>
 <li><a href="/cbnews/20240623/2053679.md">北京发文保党 专家：党内人心涣散 随时可能翻盘</a></li>
 <li><a href="/topimagenews/20240624/2053732.md">真的吗？民调指川普大胜拜登 惊人数字曝光</a></li>
+<li><a href="/itnews/20240623/2053601.md">京瓷将投资100亿日元扩大电池产量</a></li>
 <li><a href="/sohnews/20240624/2053736.md">俄乌战争要结束了？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240624/2053828.md" target="_blank">费城小男孩遇川普…发生难以置信的一幕。川普已确定副总统人选。攻占蓝州，在弗州和明州设19个办事处。前纽约州长说出封口费案的真正原因。川普美国大选库莫</a></li>
 <li><a href="/comments/20240624/2053811.md" target="_blank">拜登、川普周四晚首次辩论 看点是什么？</a></li>
 <li><a href="/comments/20240624/2053808.md" target="_blank">中国遭遇独生子女报复症</a></li>
 <li><a href="/cbnews/20240624/2053803.md" target="_blank">〖红朝浮世绘〗警税合作，大刀悬在头上谁敢不交？</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20240623/2053090.md" target="_blank">百年梦醒（六）：承上天之福佑，中华文化包含着更加扎牢自身根基的因素</a></li>
 <li><a href="/cbnews/20240623/2053584.md" target="_blank">小伙吐槽安装360杀毒软件如被鬼缠 惹上麻烦</a></li>
 <li><a href="/cbnews/20240623/2053575.md" target="_blank">上海40岁肥胖大妈变身“白富美” 网络相亲骗3男</a></li>
-<li><a href="/cbnews/20240623/2053574.md" target="_blank">纪念潘金莲开窗950周年 孙悟空诞生1000周年？</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240624/2053828.md" target="_blank">费城小男孩遇川普…发生难以置信的一幕。川普已确定副总统人选。攻占蓝州，在弗州和明州设19个办事处。前纽约州长说出封口费案的真正原因。川普美国大选库莫</a></li>
 <li><a href="/comments/20240624/2053817.md" target="_blank">中国人：吃穷鬼套餐 混一天赚一天</a></li>
 <li><a href="/comments/20240624/2053816.md" target="_blank">俄罗斯已经没了谈判的资格，只能等着被打败</a></li>
 <li><a href="/comments/20240624/2053815.md" target="_blank">朝俄结盟：人类正滑向一个令人不安的未来</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240623/2053663.md" target="_blank">英国5000年巨石阵遭喷漆，幕后主使与大金主曝光。希拉里和肯尼迪家族涉案。巨石阵停止石油希拉里</a></li>
 <li><a href="/comments/20240623/2053643.md" target="_blank">俄央视记者夸平壤，醉了</a></li>
 <li><a href="/comments/20240623/2053097.md" target="_blank">百年梦醒（七）：以更高深的佛家道家修炼提升体系，作为对儒家信仰体系的补充</a></li>
-<li><a href="/comments/20240623/2053090.md" target="_blank">百年梦醒（六）：承上天之福佑，中华文化包含着更加扎牢自身根基的因素</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
 <li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
 <li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/cbnews/20240603/2045072.md" target="_blank">漫谈古代科举之八股文</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
 
 </ul>
 </div>
