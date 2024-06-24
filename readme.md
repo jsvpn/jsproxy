@@ -6,21 +6,20 @@
 <ul>
 
 <li><a href="/sohnews/20240623/2053625.md">经济比想像还惨！愈来愈穷...中国人民怒了。 从软弱无力的经济中反击 再把握时间逃生！</a></li>
-<li><a href="/sohnews/20240623/2053607.md">习近平召见他最亲密的女人铁凝，有外交豁免权的余琦是元老余秋里的女儿，反腐成为中共的财源。《老灯开讲第592期》</a></li>
 <li><a href="/renquan/20240623/2053708.md">徐琳已被广州警方正式批捕</a></li>
 <li><a href="/finance/20240623/2053644.md">谁能想到中国银行已经成了孙子</a></li>
 <li><a href="/topimagenews/20240624/2053762.md">中共“台办”无用！国安曝习近平“手脚”失能</a></li>
 <li><a href="/funmedia/20240623/2053682.md">男子基因强大 一张“马脸”遗传全家 苦不堪言</a></li>
 <li><a href="/cnnews/20240624/2053787.md">余琦大秘书长的事儿：越扒越脏…</a></li>
-<li><a href="/lifebaike/20240623/2053645.md">【老照片】抛开道德是非 毛打倒刘少奇确实是一部政治杰作</a></li>
 <li><a href="/baitai/20240623/2053661.md">刀刃开始向内？中宣部副部长张建春任上落马 习近平身边人瑟瑟发抖</a></li>
+<li><a href="/lifebaike/20240623/2053645.md">【老照片】抛开道德是非 毛打倒刘少奇确实是一部政治杰作</a></li>
 <li><a href="/sohnews/20240624/2053790.md">“中共第一夫人”要保谁？</a></li>
 <li><a href="/cnnews/20240623/2053646.md">美国亚裔1家5口一夜爆火！网：活该他们火</a></li>
 <li><a href="/sohnews/20240624/2053757.md">全都说中了！</a></li>
-<li><a href="/sohnews/20240624/2053736.md">俄乌战争要结束了？</a></li>
-<li><a href="/cnnews/20240624/2053778.md">央视的欧洲杯假广告牌穿帮，比甄嬛传还好看</a></li>
 <li><a href="/ccpdope/20240623/2053705.md">三中全会空心化 中共政治经济双重烂尾</a></li>
+<li><a href="/sohnews/20240624/2053736.md">俄乌战争要结束了？</a></li>
 <li><a href="/topimagenews/20240624/2053835.md">普京正在让习遭受越来越大的损失</a></li>
+<li><a href="/cnnews/20240624/2053778.md">央视的欧洲杯假广告牌穿帮，比甄嬛传还好看</a></li>
 <li><a href="/cbnews/20240623/2053679.md">北京发文保党 专家：党内人心涣散 随时可能翻盘</a></li>
 <li><a href="/cbnews/20240624/2053803.md">〖红朝浮世绘〗警税合作，大刀悬在头上谁敢不交？</a></li>
 <li><a href="/topimagenews/20240624/2053770.md">首富套现百亿后，用大米抵债……</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/comments/20240624/2053816.md">俄罗斯已经没了谈判的资格，只能等着被打败</a></li>
 <li><a href="/topimagenews/20240624/2053732.md">真的吗？民调指川普大胜拜登 惊人数字曝光</a></li>
 <li><a href="/topimagenews/20240624/2053784.md">大跳水！广州、深圳…学区房，破防了</a></li>
+<li><a href="/yule/20240624/2053723.md">因生不出孩子被踢出豪门 二婚却儿女双全</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
 <li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
-<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/sohnews/20160119/493472.md" target="_blank">无效的医疗：手术刀下的谎言和药瓶里的欺骗</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/ssgc/20240508/2034288.md" target="_blank">《透视“进化论”》第九章 人类起源问题的终极答案</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20231213/1973586.md" target="_blank">六道轮回之畜生道</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
 
 </ul>
 </div>
