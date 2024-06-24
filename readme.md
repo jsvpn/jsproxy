@@ -13,8 +13,8 @@
 <li><a href="/cnnews/20240624/2053787.md">余琦大秘书长的事儿：越扒越脏…</a></li>
 <li><a href="/lifebaike/20240623/2053645.md">【老照片】抛开道德是非 毛打倒刘少奇确实是一部政治杰作</a></li>
 <li><a href="/sohnews/20240624/2053790.md">“中共第一夫人”要保谁？</a></li>
-<li><a href="/cnnews/20240623/2053646.md">美国亚裔1家5口一夜爆火！网：活该他们火</a></li>
 <li><a href="/sohnews/20240624/2053757.md">全都说中了！</a></li>
+<li><a href="/cnnews/20240623/2053646.md">美国亚裔1家5口一夜爆火！网：活该他们火</a></li>
 <li><a href="/topimagenews/20240624/2053835.md">普京正在让习遭受越来越大的损失</a></li>
 <li><a href="/ccpdope/20240623/2053705.md">三中全会空心化 中共政治经济双重烂尾</a></li>
 <li><a href="/sohnews/20240624/2053736.md">俄乌战争要结束了？</a></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240624/2054004.md" target="_blank">中共前官员：政治局势诡异 预示中国将陷大动荡</a></li>
 <li><a href="/comments/20240624/2053761.md" target="_blank">神韵艺术家的摇篮 — 飞天大学剪影</a></li>
 <li><a href="/cbnews/20240624/2053898.md" target="_blank">湖南新晃突发山体滑坡 8人遇难</a></li>
 <li><a href="/cbnews/20240624/2053897.md" target="_blank">大陆民众自制“茅台酒”被鉴定为真品</a></li>
@@ -59,13 +60,13 @@
 <li><a href="/cbnews/20240623/2053680.md" target="_blank">有人潜水、有人找酒店…上百中国人闯美军基地</a></li>
 <li><a href="/cbnews/20240623/2053679.md" target="_blank">北京发文保党 专家：党内人心涣散 随时可能翻盘</a></li>
 <li><a href="/cbnews/20240623/2053678.md" target="_blank">组图：洪水过后的梅州 近一半土坯房倒塌</a></li>
-<li><a href="/cbnews/20240623/2053676.md" target="_blank">又有4名中国理工科学生赴美遭遣返</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240624/2054003.md" target="_blank">你熟知的“中国高速发展”时代 其实开始没多久</a></li>
 <li><a href="/topimagenews/20240624/2053895.md" target="_blank">俄国境内挨重击！指挥部、弹药库都被炸 疑遭 JDAM轰出“蘑菇云”</a></li>
 <li><a href="/topimagenews/20240624/2053894.md" target="_blank">打脸中共！居民拍到火箭残骸“冒黄烟”坠落 险砸中民宅</a></li>
 <li><a href="/topimagenews/20240624/2053884.md" target="_blank">惊曝爱马仕销售链条 昂贵的柏金包传递出什么信息？</a></li>
@@ -90,13 +91,14 @@
 <li><a href="/topimagenews/20240623/2053531.md" target="_blank">打脸习近平 抛弃普京！这国总统一动作全球惊呼</a></li>
 <li><a href="/topimagenews/20240623/2053513.md" target="_blank">报应！北京面临致命交易</a></li>
 <li><a href="/topimagenews/20240623/2053476.md" target="_blank">网炸！北京大学期刊“神论文” 结论：GG越短IQ越高</a></li>
-<li><a href="/topimagenews/20240623/2053475.md" target="_blank">你以为这是中共的下限？这样中国人才可以做快乐的韭菜</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240624/2054005.md" target="_blank">地方政府使劲挖墙脚，习近平拼命扶危墙</a></li>
+<li><a href="/comments/20240624/2054002.md" target="_blank">【“惩治台独、分裂国家犯罪意见“ 台湾人怎么看？】</a></li>
 <li><a href="/comments/20240624/2053919.md" target="_blank">惊呆！川普手上的“巨棒”从这来</a></li>
 <li><a href="/comments/20240624/2053918.md" target="_blank">川普外交手腕！权力手段与实力原则 始终是核心</a></li>
 <li><a href="/comments/20240624/2053761.md" target="_blank">神韵艺术家的摇篮 — 飞天大学剪影</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240624/2053783.md" target="_blank">文昭：又一项猛倒车，这一脚油门倒了300年【会员样片节选】</a></li>
 <li><a href="/comments/20240624/2053768.md" target="_blank">金正恩的超级红地毯</a></li>
 <li><a href="/comments/20240624/2053764.md" target="_blank">方伟周末问答 (一)｜06/23/24</a></li>
-<li><a href="/comments/20240624/2053750.md" target="_blank">达赖喇嘛阔别七年后重返美国</a></li>
-<li><a href="/comments/20240624/2053749.md" target="_blank">什么是 “一锤定音”之六月份大判决?</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
 <li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
-<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/topimagenews/20180608/954788.md" target="_blank">安乐死根本安乐不了，别宣传了</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
 
 </ul>
 </div>
