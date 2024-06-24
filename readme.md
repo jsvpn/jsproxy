@@ -9,21 +9,21 @@
 <li><a href="/funmedia/20240623/2053682.md">男子基因强大 一张“马脸”遗传全家 苦不堪言</a></li>
 <li><a href="/topimagenews/20240624/2053762.md">中共“台办”无用！国安曝习近平“手脚”失能</a></li>
 <li><a href="/cnnews/20240624/2053787.md">余琦大秘书长的事儿：越扒越脏…</a></li>
-<li><a href="/sohnews/20240624/2053757.md">全都说中了！</a></li>
 <li><a href="/sohnews/20240624/2053790.md">“中共第一夫人”要保谁？</a></li>
+<li><a href="/sohnews/20240624/2053757.md">全都说中了！</a></li>
 <li><a href="/ccpdope/20240623/2053705.md">三中全会空心化 中共政治经济双重烂尾</a></li>
 <li><a href="/topimagenews/20240624/2053835.md">普京正在让习遭受越来越大的损失</a></li>
 <li><a href="/sohnews/20240624/2053736.md">俄乌战争要结束了？</a></li>
 <li><a href="/cbnews/20240623/2053679.md">北京发文保党 专家：党内人心涣散 随时可能翻盘</a></li>
 <li><a href="/cnnews/20240624/2053778.md">央视的欧洲杯假广告牌穿帮，比甄嬛传还好看</a></li>
+<li><a href="/sohnews/20240624/2053963.md">快讯：前副总理刘鹤被查，王小洪公布其与习的私密照片，大查税是最后的大掠夺。《老灯开讲第593期》</a></li>
 <li><a href="/cbnews/20240624/2053803.md">〖红朝浮世绘〗警税合作，大刀悬在头上谁敢不交？</a></li>
 <li><a href="/comments/20240624/2053816.md">俄罗斯已经没了谈判的资格，只能等着被打败</a></li>
-<li><a href="/sohnews/20240624/2053963.md">快讯：前副总理刘鹤被查，王小洪公布其与习的私密照片，大查税是最后的大掠夺。《老灯开讲第593期》</a></li>
 <li><a href="/topimagenews/20240624/2053770.md">首富套现百亿后，用大米抵债……</a></li>
 <li><a href="/topimagenews/20240624/2053868.md">恐怖降临！恶魔中心成立 可以明目张胆虐杀中国孩子了</a></li>
 <li><a href="/comments/20240624/2053830.md">天亮时分：王毅被查！真相非你想象；三中全会前的反腐，是政治压倒经济的信号；德国副总理这句话扎心了（政论天下第1336集 20240623）天亮时分</a></li>
-<li><a href="/topimagenews/20240624/2053732.md">真的吗？民调指川普大胜拜登 惊人数字曝光</a></li>
 <li><a href="/comments/20240624/2053808.md">中国遭遇独生子女报复症</a></li>
+<li><a href="/topimagenews/20240624/2053732.md">真的吗？民调指川普大胜拜登 惊人数字曝光</a></li>
 <li><a href="/topimagenews/20240624/2053784.md">大跳水！广州、深圳…学区房，破防了</a></li>
 <li><a href="/yule/20240624/2053723.md">因生不出孩子被踢出豪门 二婚却儿女双全</a></li>
 <li><a href="/comments/20240624/2053750.md">达赖喇嘛阔别七年后重返美国</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20231220/1976683.md" target="_blank">医山夜话：张锡纯医案解读（二）根治胃气不降之证</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20240623/2053092.md" target="_blank">章天亮：那些行于世间的觉者</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/aomi/life/20240330/2018911.md" target="_blank">挪威青年这样走出重度失眠和抑郁煎熬</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20190701/1151501.md" target="_blank">【特稿】中国共产党是邪教组织</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
 
 </ul>
 </div>
