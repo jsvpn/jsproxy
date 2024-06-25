@@ -8,26 +8,26 @@
 <li><a href="/cbnews/20240624/2054004.md">中共前官员：政治局势诡异 预示中国将陷大动荡</a></li>
 <li><a href="/topimagenews/20240624/2054103.md">“4410亿人民币”中国商银离奇命案！51岁副行长惊传坠楼 陆网热议</a></li>
 <li><a href="/topimagenews/20240625/2054215.md">中共苦求放过！需做出重大让步？</a></li>
-<li><a href="/topimagenews/20240625/2054216.md">中共封锁消息！日本母子被砍 日本驻中共使馆紧急发声</a></li>
-<li><a href="/cnnews/20240624/2054036.md">TOYOTA神预言？ 美国电动车车主后悔了 想换回燃油车比率曝</a></li>
 <li><a href="/topimagenews/20240625/2054333.md">卸磨杀驴 传钟南山等46专家被调查</a></li>
+<li><a href="/cnnews/20240624/2054036.md">TOYOTA神预言？ 美国电动车车主后悔了 想换回燃油车比率曝</a></li>
+<li><a href="/topimagenews/20240625/2054216.md">中共封锁消息！日本母子被砍 日本驻中共使馆紧急发声</a></li>
 <li><a href="/baitai/20240624/2053988.md">买不买中国制C919？越航CEO一句话回应</a></li>
 <li><a href="/cbnews/20240625/2054221.md">中共警方盖不住了！知名性感Coser惊传遭150公斤男友分尸</a></li>
 <li><a href="/cbnews/20240625/2054217.md">上海成立一新机构 中国家长后背发凉</a></li>
 <li><a href="/comments/20240624/2054005.md">地方政府使劲挖墙脚，习近平拼命扶危墙</a></li>
 <li><a href="/topimagenews/20240625/2054309.md">今天过了明天不活了？中共国资委下重手…</a></li>
-<li><a href="/topimagenews/20240625/2054214.md">老天发怒？史无前例！河北14级大风，吹翻火车</a></li>
 <li><a href="/topimagenews/20240625/2054179.md">苏州一对日本母子遭人砍伤 为近两周第2起外国人遇袭</a></li>
+<li><a href="/topimagenews/20240625/2054214.md">老天发怒？史无前例！河北14级大风，吹翻火车</a></li>
 <li><a href="/cbnews/20240625/2054265.md">文革复辟？中国常州初中试卷满是这两字</a></li>
 <li><a href="/cbnews/20240624/2054123.md">长沙1小时雨量如54个西湖 水深至成人脖子</a></li>
 <li><a href="/topimagenews/20240624/2054003.md">你熟知的“中国高速发展”时代 其实开始没多久</a></li>
 <li><a href="/cbnews/20240625/2054220.md">义和团真来了？日本母子苏州街头被砍</a></li>
 <li><a href="/topimagenews/20240625/2054280.md">心惊！看到各地没有办法注水的数据后…</a></li>
-<li><a href="/baitai/20240625/2054198.md">财政收入快速下降 外商投资持续萎缩 为防金融危机 北京祭出这招</a></li>
-<li><a href="/topimagenews/20240624/2054025.md">解放军展示“航母杀手”？800吨船“炸离海面”网笑：效果有限</a></li>
 <li><a href="/topimagenews/20240625/2054332.md">传疯了！老实人灭门村霸五口脱身 网沸腾吁路边摆放馒头和水…</a></li>
+<li><a href="/topimagenews/20240624/2054025.md">解放军展示“航母杀手”？800吨船“炸离海面”网笑：效果有限</a></li>
+<li><a href="/baitai/20240625/2054198.md">财政收入快速下降 外商投资持续萎缩 为防金融危机 北京祭出这招</a></li>
 <li><a href="/cnnews/20240624/2054037.md">被“一张纸”害的！股价雪崩75％、140亿港币飞了 惨况曝光</a></li>
-<li><a href="/cnnews/20240625/2054246.md">血亏！多名华人银行存款消失，投诉无门</a></li>
+<li><a href="/comments/20240625/2054239.md">普京金正恩唇语解密</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/taiwannews/20210119/1470761.md" target="_blank">独家：震撼纪录片《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/comments/20240126/1992876.md" target="_blank">内幕：中国留学生里女生打男生和男生打女一样普遍</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/tculture/20231217/1975364.md" target="_blank">医山夜话：张锡纯医案解读（1）根治失眠 思路清晰</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20240116/1984226.md" target="_blank">湖北老河口遇仙记</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
 <li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20231130/1967587.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （一）</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
 
 </ul>
 </div>
