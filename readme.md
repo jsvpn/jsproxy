@@ -11,23 +11,23 @@
 <li><a href="/topimagenews/20240625/2054215.md">中共苦求放过！需做出重大让步？</a></li>
 <li><a href="/topimagenews/20240625/2054216.md">中共封锁消息！日本母子被砍 日本驻中共使馆紧急发声</a></li>
 <li><a href="/cnnews/20240624/2054036.md">TOYOTA神预言？ 美国电动车车主后悔了 想换回燃油车比率曝</a></li>
-<li><a href="/baitai/20240624/2053988.md">买不买中国制C919？越航CEO一句话回应</a></li>
 <li><a href="/cbnews/20240625/2054221.md">中共警方盖不住了！知名性感Coser惊传遭150公斤男友分尸</a></li>
+<li><a href="/baitai/20240624/2053988.md">买不买中国制C919？越航CEO一句话回应</a></li>
 <li><a href="/cbnews/20240625/2054217.md">上海成立一新机构 中国家长后背发凉</a></li>
 <li><a href="/itnews/20240624/2053953.md">完美世界大规模裁员：裁掉超千人 两栋大厦几乎被搬空</a></li>
-<li><a href="/topimagenews/20240625/2054179.md">苏州一对日本母子遭人砍伤 为近两周第2起外国人遇袭</a></li>
 <li><a href="/comments/20240624/2054005.md">地方政府使劲挖墙脚，习近平拼命扶危墙</a></li>
+<li><a href="/topimagenews/20240625/2054179.md">苏州一对日本母子遭人砍伤 为近两周第2起外国人遇袭</a></li>
 <li><a href="/topimagenews/20240625/2054214.md">老天发怒？史无前例！河北14级大风，吹翻火车</a></li>
-<li><a href="/lifebaike/20240624/2053921.md">为什么有些人老年斑“密密麻麻”，有的人却几乎没有？答案在这</a></li>
 <li><a href="/headline/20240624/2053957.md">海南免税商品销售暴跌 游客：日本LV都是中国人</a></li>
-<li><a href="/cbnews/20240624/2054123.md">长沙1小时雨量如54个西湖 水深至成人脖子</a></li>
-<li><a href="/health/20240624/2053917.md">大量上市，这菜含大量“寄生虫”，肉眼看不见，很多人喜欢生吃，后果很严重</a></li>
-<li><a href="/topimagenews/20240624/2054003.md">你熟知的“中国高速发展”时代 其实开始没多久</a></li>
 <li><a href="/topimagenews/20240625/2054333.md">卸磨杀驴 传钟南山等46专家被调查</a></li>
-<li><a href="/topimagenews/20240624/2054025.md">解放军展示“航母杀手”？800吨船“炸离海面”网笑：效果有限</a></li>
+<li><a href="/cbnews/20240624/2054123.md">长沙1小时雨量如54个西湖 水深至成人脖子</a></li>
+<li><a href="/topimagenews/20240624/2054003.md">你熟知的“中国高速发展”时代 其实开始没多久</a></li>
+<li><a href="/topimagenews/20240625/2054309.md">今天过了明天不活了？中共国资委下重手…</a></li>
 <li><a href="/cbnews/20240625/2054220.md">义和团真来了？日本母子苏州街头被砍</a></li>
 <li><a href="/cbnews/20240625/2054265.md">文革复辟？中国常州初中试卷满是这两字</a></li>
+<li><a href="/topimagenews/20240624/2054025.md">解放军展示“航母杀手”？800吨船“炸离海面”网笑：效果有限</a></li>
 <li><a href="/baitai/20240625/2054198.md">财政收入快速下降 外商投资持续萎缩 为防金融危机 北京祭出这招</a></li>
+<li><a href="/cnnews/20240624/2054037.md">被“一张纸”害的！股价雪崩75％、140亿港币飞了 惨况曝光</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240625/2054391.md" target="_blank">1949年以来一场最大的全局性溃败正在上演</a></li>
+<li><a href="/comments/20240625/2054390.md" target="_blank">注意！央视突然发出重磅信号</a></li>
+<li><a href="/comments/20240625/2054389.md" target="_blank">吴祚来：习在延安军事政治会议上的讲话</a></li>
 <li><a href="/comments/20240625/2054321.md" target="_blank">量子跃迁：习近平为何主动放弃&#8221;改革开放&#8221;的巨大红利</a></li>
 <li><a href="/comments/20240625/2054320.md" target="_blank">沉默的大多数喝了很多农夫山泉</a></li>
 <li><a href="/comments/20240625/2054305.md" target="_blank">党：外商不来投资最高判死刑？黄仁勳不例外？小粉红突然崩溃哭成泪人，户晨风补刀？</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20240624/2054012.md" target="_blank">凝固！普京金正恩过招……</a></li>
 <li><a href="/comments/20240624/2054005.md" target="_blank">地方政府使劲挖墙脚，习近平拼命扶危墙</a></li>
 <li><a href="/comments/20240624/2054002.md" target="_blank">【“惩治台独、分裂国家犯罪意见“ 台湾人怎么看？】</a></li>
-<li><a href="/comments/20240624/2053919.md" target="_blank">惊呆！川普手上的“巨棒”从这来</a></li>
-<li><a href="/comments/20240624/2053918.md" target="_blank">川普外交手腕！权力手段与实力原则 始终是核心</a></li>
-<li><a href="/comments/20240624/2053761.md" target="_blank">神韵艺术家的摇篮 — 飞天大学剪影</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/topimagenews/20180608/954788.md" target="_blank">安乐死根本安乐不了，别宣传了</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20231203/1969183.md" target="_blank">开盖冲马桶 ，细菌会乱飞？除非你家马桶是喷泉！</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20231214/1974098.md" target="_blank">美国众议院议长：我所坚守的保守主义，具体是些什么内容？</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
 
 </ul>
 </div>
