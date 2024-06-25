@@ -7,27 +7,27 @@
 
 <li><a href="/sohnews/20240624/2053963.md">快讯：前副总理刘鹤被查，王小洪公布其与习的私密照片，大查税是最后的大掠夺。《老灯开讲第593期》</a></li>
 <li><a href="/cbnews/20240624/2054004.md">中共前官员：政治局势诡异 预示中国将陷大动荡</a></li>
-<li><a href="/topimagenews/20240624/2053835.md">普京正在让习遭受越来越大的损失</a></li>
 <li><a href="/topimagenews/20240624/2054103.md">“4410亿人民币”中国商银离奇命案！51岁副行长惊传坠楼 陆网热议</a></li>
 <li><a href="/topimagenews/20240624/2053868.md">恐怖降临！恶魔中心成立 可以明目张胆虐杀中国孩子了</a></li>
-<li><a href="/comments/20240624/2053830.md">天亮时分：王毅被查！真相非你想象；三中全会前的反腐，是政治压倒经济的信号；德国副总理这句话扎心了（政论天下第1336集 20240623）天亮时分</a></li>
 <li><a href="/baitai/20240624/2053988.md">买不买中国制C919？越航CEO一句话回应</a></li>
 <li><a href="/cnnews/20240624/2054036.md">TOYOTA神预言？ 美国电动车车主后悔了 想换回燃油车比率曝</a></li>
-<li><a href="/itnews/20240624/2053953.md">完美世界大规模裁员：裁掉超千人 两栋大厦几乎被搬空</a></li>
 <li><a href="/topimagenews/20240625/2054179.md">苏州一对日本母子遭人砍伤 为近两周第2起外国人遇袭</a></li>
-<li><a href="/topimagenews/20240624/2053895.md">俄国境内挨重击！指挥部、弹药库都被炸 疑遭 JDAM轰出“蘑菇云”</a></li>
-<li><a href="/comments/20240624/2054005.md">地方政府使劲挖墙脚，习近平拼命扶危墙</a></li>
+<li><a href="/itnews/20240624/2053953.md">完美世界大规模裁员：裁掉超千人 两栋大厦几乎被搬空</a></li>
 <li><a href="/topimagenews/20240625/2054216.md">中共封锁消息！日本母子被砍 日本驻中共使馆紧急发声</a></li>
+<li><a href="/comments/20240624/2054005.md">地方政府使劲挖墙脚，习近平拼命扶危墙</a></li>
+<li><a href="/topimagenews/20240624/2053895.md">俄国境内挨重击！指挥部、弹药库都被炸 疑遭 JDAM轰出“蘑菇云”</a></li>
 <li><a href="/topimagenews/20240625/2054215.md">中共苦求放过！需做出重大让步？</a></li>
-<li><a href="/headline/20240624/2053957.md">海南免税商品销售暴跌 游客：日本LV都是中国人</a></li>
-<li><a href="/cnnews/20240624/2053843.md">海淀家长群，又一次天塌了…</a></li>
-<li><a href="/cbnews/20240624/2054123.md">长沙1小时雨量如54个西湖 水深至成人脖子</a></li>
-<li><a href="/lifebaike/20240624/2053921.md">为什么有些人老年斑“密密麻麻”，有的人却几乎没有？答案在这</a></li>
 <li><a href="/cbnews/20240625/2054221.md">中共警方盖不住了！知名性感Coser惊传遭150公斤男友分尸</a></li>
+<li><a href="/headline/20240624/2053957.md">海南免税商品销售暴跌 游客：日本LV都是中国人</a></li>
+<li><a href="/lifebaike/20240624/2053921.md">为什么有些人老年斑“密密麻麻”，有的人却几乎没有？答案在这</a></li>
+<li><a href="/cbnews/20240624/2054123.md">长沙1小时雨量如54个西湖 水深至成人脖子</a></li>
 <li><a href="/topimagenews/20240624/2053894.md">打脸中共！居民拍到火箭残骸“冒黄烟”坠落 险砸中民宅</a></li>
 <li><a href="/topimagenews/20240624/2054003.md">你熟知的“中国高速发展”时代 其实开始没多久</a></li>
+<li><a href="/cbnews/20240625/2054217.md">上海成立一新机构 中国家长后背发凉</a></li>
 <li><a href="/topimagenews/20240624/2054025.md">解放军展示“航母杀手”？800吨船“炸离海面”网笑：效果有限</a></li>
 <li><a href="/health/20240624/2053917.md">大量上市，这菜含大量“寄生虫”，肉眼看不见，很多人喜欢生吃，后果很严重</a></li>
+<li><a href="/topimagenews/20240625/2054214.md">老天发怒？史无前例！河北14级大风，吹翻火车</a></li>
+<li><a href="/cnnews/20240624/2054037.md">被“一张纸”害的！股价雪崩75％、140亿港币飞了 惨况曝光</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240625/2054313.md" target="_blank">长沙1小时雨量如54个西湖 火车站地铁被淹</a></li>
 <li><a href="/cbnews/20240625/2054311.md" target="_blank">中国疫情持续延烧 频繁出现猝死现象</a></li>
 <li><a href="/cbnews/20240625/2054310.md" target="_blank">恐怖以刑化债！逮捕高层 两千多员工被停工资</a></li>
 <li><a href="/cbnews/20240625/2054283.md" target="_blank">拜登断中共金流 165页细则公布</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20240624/2054100.md" target="_blank">川普-拜登大选辩论的五个看点</a></li>
 <li><a href="/cbnews/20240624/2054064.md" target="_blank">中法天文卫星升空 有毒火箭碎片落中国人口稠密区</a></li>
 <li><a href="/comments/20240624/2054026.md" target="_blank">2024年一场大火，推翻所有金字塔研究！解开最大谜团！｜未解之谜 扶摇</a></li>
-<li><a href="/cbnews/20240624/2054017.md" target="_blank">《红色赌盘》作者沈栋： 中共国到尽头了 台湾未来10年是东亚最耀眼明星</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240625/2054321.md" target="_blank">量子跃迁：习近平为何主动放弃&#8221;改革开放&#8221;的巨大红利</a></li>
+<li><a href="/comments/20240625/2054320.md" target="_blank">沉默的大多数喝了很多农夫山泉</a></li>
 <li><a href="/comments/20240625/2054305.md" target="_blank">党：外商不来投资最高判死刑？黄仁勳不例外？小粉红突然崩溃哭成泪人，户晨风补刀？</a></li>
 <li><a href="/comments/20240625/2054286.md" target="_blank">一个人变好的方式：远离情绪内耗</a></li>
 <li><a href="/comments/20240625/2054285.md" target="_blank">杨宏基：美拟“地狱景象”挫中犯台 无人机舰真能搞定？</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240624/2053919.md" target="_blank">惊呆！川普手上的“巨棒”从这来</a></li>
 <li><a href="/comments/20240624/2053918.md" target="_blank">川普外交手腕！权力手段与实力原则 始终是核心</a></li>
 <li><a href="/comments/20240624/2053761.md" target="_blank">神韵艺术家的摇篮 — 飞天大学剪影</a></li>
-<li><a href="/comments/20240624/2053883.md" target="_blank">【中国发布惩治分裂国家新规】【赖清德: 中国没有跨域追诉台湾人的权力】【赖清德呼吁中国正视中华民国的存在】</a></li>
-<li><a href="/comments/20240624/2053856.md" target="_blank">中国养老金2028年崩塌？！｜方菲时间</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
 <li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
-<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
-<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/comments/20190701/1151501.md" target="_blank">【特稿】中国共产党是邪教组织</a></li>
-<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/topimagenews/20180608/954788.md" target="_blank">安乐死根本安乐不了，别宣传了</a></li>
-<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20231203/1969183.md" target="_blank">开盖冲马桶 ，细菌会乱飞？除非你家马桶是喷泉！</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
+<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
 
 </ul>
 </div>
