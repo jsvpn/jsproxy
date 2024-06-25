@@ -8,19 +8,19 @@
 <li><a href="/topimagenews/20240624/2054103.md">“4410亿人民币”中国商银离奇命案！51岁副行长惊传坠楼 陆网热议</a></li>
 <li><a href="/topimagenews/20240625/2054215.md">中共苦求放过！需做出重大让步？</a></li>
 <li><a href="/topimagenews/20240625/2054333.md">卸磨杀驴 传钟南山等46专家被调查</a></li>
-<li><a href="/topimagenews/20240625/2054216.md">中共封锁消息！日本母子被砍 日本驻中共使馆紧急发声</a></li>
 <li><a href="/cbnews/20240625/2054217.md">上海成立一新机构 中国家长后背发凉</a></li>
+<li><a href="/topimagenews/20240625/2054216.md">中共封锁消息！日本母子被砍 日本驻中共使馆紧急发声</a></li>
 <li><a href="/cbnews/20240625/2054221.md">中共警方盖不住了！知名性感Coser惊传遭150公斤男友分尸</a></li>
 <li><a href="/topimagenews/20240625/2054214.md">老天发怒？史无前例！河北14级大风，吹翻火车</a></li>
 <li><a href="/topimagenews/20240625/2054309.md">今天过了明天不活了？中共国资委下重手…</a></li>
-<li><a href="/topimagenews/20240625/2054179.md">苏州一对日本母子遭人砍伤 为近两周第2起外国人遇袭</a></li>
 <li><a href="/cbnews/20240625/2054265.md">文革复辟？中国常州初中试卷满是这两字</a></li>
+<li><a href="/topimagenews/20240625/2054179.md">苏州一对日本母子遭人砍伤 为近两周第2起外国人遇袭</a></li>
 <li><a href="/cnnews/20240625/2054348.md">高度机密：“我生活在主席、周总理、老帅怀抱里 每周必须…”</a></li>
 <li><a href="/cbnews/20240624/2054123.md">长沙1小时雨量如54个西湖 水深至成人脖子</a></li>
-<li><a href="/comments/20240625/2054390.md">注意！央视突然发出重磅信号</a></li>
-<li><a href="/topimagenews/20240625/2054332.md">传疯了！老实人灭门村霸五口脱身 网沸腾吁路边摆放馒头和水…</a></li>
-<li><a href="/topimagenews/20240625/2054358.md">倒吸一口凉气！干死中国所有企业？大跳水！广州深圳…学区房破防了【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20240625/2054408.md">重磅！美国对中共央企三巨头展开全面调查</a></li>
+<li><a href="/comments/20240625/2054390.md">注意！央视突然发出重磅信号</a></li>
+<li><a href="/topimagenews/20240625/2054358.md">倒吸一口凉气！干死中国所有企业？大跳水！广州深圳…学区房破防了【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20240625/2054332.md">传疯了！老实人灭门村霸五口脱身 网沸腾吁路边摆放馒头和水…</a></li>
 <li><a href="/cbnews/20240625/2054220.md">义和团真来了？日本母子苏州街头被砍</a></li>
 <li><a href="/topimagenews/20240625/2054280.md">心惊！看到各地没有办法注水的数据后…</a></li>
 <li><a href="/lifebaike/20240625/2054345.md">假如被狗咬住了，只需一招就能立马让狗松口，很多人不知道</a></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240625/2054537.md" target="_blank">最高院接变性手术案，自己要打自己脸吗？</a></li>
 <li><a href="/comments/20240625/2054526.md" target="_blank">对政治冷感吗？你是中共目标！台湾中共台海两岸覆议案中共新法</a></li>
 <li><a href="/cbnews/20240625/2054511.md" target="_blank">三中全会政治高于经济 分析：中共全线告急</a></li>
 <li><a href="/cbnews/20240625/2054510.md" target="_blank">中马声明称支持两岸统一 日经亚洲：北京对台态度更咄咄逼人</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240625/2054282.md" target="_blank">滥设机构卖万能工种证书 中共中管院被撤背后乱象多</a></li>
 <li><a href="/comments/20240625/2054273.md" target="_blank">高院一反常态，接变性案子，打脸自己？</a></li>
 <li><a href="/comments/20240625/2054270.md" target="_blank">沈伯洋：中共新法扩大对台战场；台湾应在2个层面上应对中共侵蚀 ｜新闻烽火台 06/24</a></li>
-<li><a href="/cbnews/20240625/2054269.md" target="_blank">智库学者：中共在南海采取灰色地带战术</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240625/2054537.md" target="_blank">最高院接变性手术案，自己要打自己脸吗？</a></li>
 <li><a href="/comments/20240625/2054527.md" target="_blank">【财经拆局】新晋「国家队」护航买港股？恐A股「黑历史」重蹈覆辙</a></li>
 <li><a href="/comments/20240625/2054526.md" target="_blank">对政治冷感吗？你是中共目标！台湾中共台海两岸覆议案中共新法</a></li>
 <li><a href="/comments/20240625/2054519.md" target="_blank">质疑姜萍的闹剧 越来越离谱…</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240624/2054079.md" target="_blank">【泽论四方】各怀鬼胎的新轴心国联盟</a></li>
 <li><a href="/comments/20240624/2054063.md" target="_blank">天亮时分：习近平本次反腐和以往有何不同？ #天亮时分 #习近平 #反腐</a></li>
 <li><a href="/comments/20240624/2054062.md" target="_blank">普金二人组：段延庆+慕容复？</a></li>
-<li><a href="/comments/20240624/2054026.md" target="_blank">2024年一场大火，推翻所有金字塔研究！解开最大谜团！｜未解之谜 扶摇</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
 <li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
 <li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/comments/20230920/1936271.md" target="_blank">防止你的孩子不成功（5） &#8211;教育避坑指南</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
 
 </ul>
 </div>
