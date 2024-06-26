@@ -12,9 +12,9 @@
 <li><a href="/topimagenews/20240626/2054736.md">忍不下这口气! 女友遭上司设局迷奸 广东男双刀割喉复仇</a></li>
 <li><a href="/topimagenews/20240626/2054738.md">泽连斯基：乌军将迎“历史性”一周！海王星？F-16?</a></li>
 <li><a href="/sohnews/20240626/2054776.md">注意：央视突然发出重磅信号，彭立发正式获得诺贝尔和平奖提名，双剑合璧天灭中共。《老灯开讲第595期》</a></li>
-<li><a href="/sohnews/20240626/2054772.md">山东出现地裂！</a></li>
 <li><a href="/topimagenews/20240626/2054734.md">保时捷在中国崩盘</a></li>
 <li><a href="/topimagenews/20240626/2054737.md">未来大概率只有三类大学生有前途</a></li>
+<li><a href="/sohnews/20240626/2054772.md">山东出现地裂！</a></li>
 <li><a href="/cnnews/20240626/2054685.md">小摩“看空A股小作文” 中国疯传</a></li>
 <li><a href="/topimagenews/20240626/2054693.md">重点高中也欠薪! 中国多地老师集体罢课</a></li>
 <li><a href="/comments/20240626/2054694.md">大厦倾覆！这个消息引发震动</a></li>
@@ -22,12 +22,12 @@
 <li><a href="/cbnews/20240626/2054677.md">中共国未来？多地多行业欠薪 公交停运 垃圾没人收</a></li>
 <li><a href="/ccpdope/20240626/2054703.md">日本人为苏州校车中国女工募款</a></li>
 <li><a href="/headline/20240626/2054661.md">两党「中国通」共识：不寻求推翻中共政权和体制</a></li>
-<li><a href="/cbnews/20240625/2054568.md">美国驻中大使：北京煽动反美情绪 阻碍两国人民交流</a></li>
 <li><a href="/sohnews/20240626/2054770.md">文睿：“改革开放”火了，一尊，走投无路了</a></li>
+<li><a href="/sohnews/20240626/2054791.md">陈破空：李强在大连说错话！遭全网封杀。毛宁谈日本人遇袭：中国最安全！反日小粉红整哭了！中国女骑坐日本奈良鹿，继中国男撒野之后。直播与互动：美东时间6月26日早9点、中港台当日晚9点</a></li>
+<li><a href="/sohnews/20240626/2054775.md">🔥🔥老天以极端天气警示中国人❗新疆81℃高温 四川下大雪❗长沙下了54个西湖水量大洪水❗还有更大的事要发生❗</a></li>
 <li><a href="/cnnews/20240626/2054647.md">12岁被奸少女死前拼命挣扎 非法移民嫌犯被捕前正要离美</a></li>
 <li><a href="/ccpdope/20240626/2054595.md">三大历史拐点加速世界秩序重构</a></li>
-<li><a href="/sohnews/20240626/2054775.md">🔥🔥老天以极端天气警示中国人❗新疆81℃高温 四川下大雪❗长沙下了54个西湖水量大洪水❗还有更大的事要发生❗</a></li>
-<li><a href="/sohnews/20240626/2054791.md">陈破空：李强在大连说错话！遭全网封杀。毛宁谈日本人遇袭：中国最安全！反日小粉红整哭了！中国女骑坐日本奈良鹿，继中国男撒野之后。直播与互动：美东时间6月26日早9点、中港台当日晚9点</a></li>
+<li><a href="/cnnews/20240626/2054681.md">太意外！英伟达的员工大多数来自这个学校</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240626/2054837.md" target="_blank">〖红朝浮世绘〗像保护中国公民一样保护外国人？外国人赶紧逃命吧</a></li>
 <li><a href="/comments/20240626/2054747.md" target="_blank">首场总统辩论前必知的五大背景</a></li>
 <li><a href="/cbnews/20240626/2054710.md" target="_blank">70多亿大外宣投入 中共抢占非洲散布反美信息</a></li>
 <li><a href="/cbnews/20240626/2054709.md" target="_blank">河北官员冒领环卫工556万 8年才被发现</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240625/2054380.md" target="_blank">印度称新飞弹媲美中国10年前的东风-21D 挑战北京海上霸主地位</a></li>
 <li><a href="/cbnews/20240625/2054379.md" target="_blank">副国务卿：美就中共冲击菲海军提外交交涉</a></li>
 <li><a href="/cbnews/20240625/2054378.md" target="_blank">四川甘孜突降大雪 车主被困高速打哆嗦</a></li>
-<li><a href="/cbnews/20240625/2054377.md" target="_blank">新疆火焰山热爆表 地表温度达81℃</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20240318/2014289.md" target="_blank">唐柏桥：民运同仁突然向法轮功开火是怎么回事？</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20231201/1968320.md" target="_blank">【非凡新闻】结合中西文化精神 美国神韵表演吸睛</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/topimagenews/20240511/2035423.md" target="_blank">原北京学员回忆李洪志先生在东方健康博览会上所行的奇迹</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
-<li><a href="/comments/20231214/1974098.md" target="_blank">美国众议院议长：我所坚守的保守主义，具体是些什么内容？</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20231204/1969287.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （三）</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20231223/1978148.md" target="_blank">医山夜话：张锡纯医案解读（三）赭石：降胃气 引火下行</a></li>
+<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/cnnews/20221211/1822144.md" target="_blank">盖盖冲马桶很可怕！瞬间“病毒炸开”？</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
 <li><a href="/comments/20240403/2020547.md" target="_blank">纪录片：DSM诊断与统计手册-精神病学最要命的骗局</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
 
 </ul>
 </div>
