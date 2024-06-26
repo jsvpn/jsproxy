@@ -12,14 +12,12 @@
 <li><a href="/topimagenews/20240626/2054674.md">中国个税变了！网：果然没钱了</a></li>
 <li><a href="/topimagenews/20240625/2054468.md">新的下跌开启 A股后面怕是要鬼哭狼嚎了</a></li>
 <li><a href="/baitai/20240626/2054654.md">中国百姓生活惨状不断曝光 江苏传出饿死人 赊刀人再现做惊人预言</a></li>
-<li><a href="/baitai/20240625/2054421.md">报复普京？习近平与波兰总统签署协议</a></li>
 <li><a href="/cnnews/20240626/2054684.md">在习近平领导下，这种盛况已经消失</a></li>
 <li><a href="/sohnews/20240625/2054474.md">陈破空：三中全会爆争议：老习要当党主席？某常委接任总书记。日本母子苏州遇刺！两周内第二起袭外。韩国大火，老粉红欢呼，19名中国人亡。直播与互动：美东时间6月25日早9点、中港台当日晚9点</a></li>
 <li><a href="/topimagenews/20240626/2054673.md">多家银行提取现金…他精心策划 成功逃离中国</a></li>
 <li><a href="/sohnews/20240625/2054467.md">历任中共党魁，结局惊人一致；胡锦涛20大被架出会场，不祥收场早有伏笔！｜百年真相</a></li>
 <li><a href="/topimagenews/20240626/2054736.md">忍不下这口气! 女友遭上司设局迷奸 广东男双刀割喉复仇</a></li>
 <li><a href="/sohnews/20240625/2054444.md">🔥🔥监控拍到中共“屠杀” 多省民众❗死亡人数多到你想不到❗【黄标】</a></li>
-<li><a href="/baitai/20240625/2054422.md">合作二十多年 刘少奇与毛泽东因她反目成仇？ 江青发怒疯狂报复 六个字透露毛有多恨刘！ 儿子重蹈「父辙」？传习近平已出手 知情者爆刘源鲜为人知往事</a></li>
 <li><a href="/topimagenews/20240625/2054505.md">6年级小孩哥掀起的“食堂起义” 成了多少中年人的照妖镜</a></li>
 <li><a href="/cnnews/20240625/2054470.md">这位南开教授“胆大包天”</a></li>
 <li><a href="/topimagenews/20240626/2054738.md">泽连斯基：乌军将迎“历史性”一周！海王星？F-16?</a></li>
@@ -28,6 +26,8 @@
 <li><a href="/cnnews/20240625/2054523.md">OpenAI将终止中国服务 陆新创公司恐将迎来灭顶之灾</a></li>
 <li><a href="/topimagenews/20240626/2054693.md">重点高中也欠薪! 中国多地老师集体罢课</a></li>
 <li><a href="/topimagenews/20240625/2054478.md">豆腐渣大楼晃得“像在坐船”! 佛山、武汉大楼都摇晃 职员紧急疏散</a></li>
+<li><a href="/cnnews/20240626/2054685.md">小摩“看空A股小作文” 中国疯传</a></li>
+<li><a href="/topimagenews/20240626/2054737.md">未来大概率只有三类大学生有前途</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
-<li><a href="/comments/20240418/2026391.md" target="_blank">医生劝我妻子放弃，似乎这些医生热衷让病人快点去死？</a></li>
-<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
 <li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20240116/1984226.md" target="_blank">湖北老河口遇仙记</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
+<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
 
 </ul>
 </div>
