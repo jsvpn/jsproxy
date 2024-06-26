@@ -6,7 +6,6 @@
 <ul>
 
 <li><a href="/sohnews/20240625/2054469.md">内部爆料：地方政府已穷途末路开始砸锅卖铁⋯⋯</a></li>
-<li><a href="/cnnews/20240625/2054348.md">高度机密：“我生活在主席、周总理、老帅怀抱里 每周必须…”</a></li>
 <li><a href="/ccpdope/20240625/2054476.md">看完这张图片，你就知道中共会不会攻打台湾了</a></li>
 <li><a href="/comments/20240625/2054390.md">注意！央视突然发出重磅信号</a></li>
 <li><a href="/cbnews/20240625/2054408.md">重磅！美国对中共央企三巨头展开全面调查</a></li>
@@ -14,20 +13,21 @@
 <li><a href="/topimagenews/20240625/2054358.md">倒吸一口凉气！干死中国所有企业？大跳水！广州深圳…学区房破防了【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20240625/2054511.md">三中全会政治高于经济 分析：中共全线告急</a></li>
 <li><a href="/topimagenews/20240625/2054468.md">新的下跌开启 A股后面怕是要鬼哭狼嚎了</a></li>
+<li><a href="/baitai/20240626/2054654.md">中国百姓生活惨状不断曝光 江苏传出饿死人 赊刀人再现做惊人预言</a></li>
 <li><a href="/cbnews/20240625/2054352.md">〖红朝浮世绘〗苏州男子刺伤日本籍母子 深入贯彻落实总书记的“亮剑精神”？</a></li>
 <li><a href="/topimagenews/20240625/2054376.md">在县城里 才有最真实的中国</a></li>
-<li><a href="/baitai/20240626/2054654.md">中国百姓生活惨状不断曝光 江苏传出饿死人 赊刀人再现做惊人预言</a></li>
-<li><a href="/lifebaike/20240625/2054345.md">假如被狗咬住了，只需一招就能立马让狗松口，很多人不知道</a></li>
 <li><a href="/topimagenews/20240626/2054674.md">中国个税变了！网：果然没钱了</a></li>
 <li><a href="/baitai/20240625/2054421.md">报复普京？习近平与波兰总统签署协议</a></li>
 <li><a href="/sohnews/20240625/2054474.md">陈破空：三中全会爆争议：老习要当党主席？某常委接任总书记。日本母子苏州遇刺！两周内第二起袭外。韩国大火，老粉红欢呼，19名中国人亡。直播与互动：美东时间6月25日早9点、中港台当日晚9点</a></li>
 <li><a href="/sohnews/20240625/2054467.md">历任中共党魁，结局惊人一致；胡锦涛20大被架出会场，不祥收场早有伏笔！｜百年真相</a></li>
 <li><a href="/sohnews/20240625/2054444.md">🔥🔥监控拍到中共“屠杀” 多省民众❗死亡人数多到你想不到❗【黄标】</a></li>
-<li><a href="/baitai/20240625/2054422.md">合作二十多年 刘少奇与毛泽东因她反目成仇？ 江青发怒疯狂报复 六个字透露毛有多恨刘！ 儿子重蹈「父辙」？传习近平已出手 知情者爆刘源鲜为人知往事</a></li>
 <li><a href="/worldnews/20240625/2054412.md">人民币兑美元汇率再创新低</a></li>
+<li><a href="/baitai/20240625/2054422.md">合作二十多年 刘少奇与毛泽东因她反目成仇？ 江青发怒疯狂报复 六个字透露毛有多恨刘！ 儿子重蹈「父辙」？传习近平已出手 知情者爆刘源鲜为人知往事</a></li>
 <li><a href="/cnnews/20240625/2054470.md">这位南开教授“胆大包天”</a></li>
 <li><a href="/topimagenews/20240625/2054481.md">他“杀死”的乌军比俄国人还多! 将帅无能 泽连斯基撤换中将司令</a></li>
 <li><a href="/topimagenews/20240625/2054505.md">6年级小孩哥掀起的“食堂起义” 成了多少中年人的照妖镜</a></li>
+<li><a href="/topimagenews/20240626/2054673.md">多家银行提取现金…他精心策划 成功逃离中国</a></li>
+<li><a href="/cnnews/20240626/2054684.md">在习近平领导下，这种盛况已经消失</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240626/2054759.md" target="_blank">共产中国害怕神韵的真正原因</a></li>
 <li><a href="/comments/20240626/2054747.md" target="_blank">首场总统辩论前必知的五大背景</a></li>
 <li><a href="/comments/20240626/2054696.md" target="_blank">塞尔维亚公开卖炮弹给乌克兰，说明了什么？</a></li>
 <li><a href="/comments/20240626/2054695.md" target="_blank">大人物们常常犯错，因为错误的代价是由别人承担</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240625/2054273.md" target="_blank">高院一反常态，接变性案子，打脸自己？</a></li>
 <li><a href="/comments/20240625/2054272.md" target="_blank">远鸣：俄国又遭恐袭，牛弹琴妙笔泼脏水</a></li>
 <li><a href="/comments/20240625/2054270.md" target="_blank">沈伯洋：中共新法扩大对台战场；台湾应在2个层面上应对中共侵蚀 ｜新闻烽火台 06/24</a></li>
-<li><a href="/comments/20240625/2054261.md" target="_blank">文昭：王毅被查、华春莹官运大涨！接连两件事枪口瞄准中南海；诅咒无解？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
+<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
 <li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
 
 </ul>
 </div>
