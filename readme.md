@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/ccpdope/20240627/2055053.md">丁薛祥任新职 中南海释放三大政治信号</a></li>
 <li><a href="/topimagenews/20240627/2055296.md">突发：朝鲜出兵乌克兰【阿波罗网翻译】</a></li>
 <li><a href="/baitai/20240627/2055232.md">李强发言被全面封杀 中共救亡如开启内战</a></li>
+<li><a href="/topimagenews/20240627/2055201.md">这些“真实数据”已被屏蔽：中国人需警惕…</a></li>
 <li><a href="/topimagenews/20240627/2055120.md">【微博精粹】快看！谁是它们暗中监控的“新黑五类”</a></li>
 <li><a href="/headline/20240627/2055365.md">中国前国防部长李尚福被开除中共党籍</a></li>
-<li><a href="/topimagenews/20240627/2055201.md">这些“真实数据”已被屏蔽：中国人需警惕…</a></li>
 <li><a href="/topimagenews/20240627/2055181.md">被质疑“中国安全” 毛宁露这微表情 网友炸锅了</a></li>
 <li><a href="/cbnews/20240627/2055128.md">丁薛祥首次以新身份亮相 缘何被唱衰？</a></li>
 <li><a href="/headline/20240627/2055366.md">中共原国务委员兼防长魏凤和被开除党籍终止二十大代表资格</a></li>
 <li><a href="/topimagenews/20240627/2055202.md">骇人！人肉当鹿肉烤 邀邻居聚餐</a></li>
 <li><a href="/cbnews/20240627/2055379.md">老翁要让座被拒 杖插少女“两腿间” 被捕后一通电话获释</a></li>
 <li><a href="/topimagenews/20240627/2055251.md">中国境内作恶者噩耗！美重磅制裁来了：财产冻结、禁入境美、撤销签证、经济及刑期处罚</a></li>
-<li><a href="/cbnews/20240627/2055125.md">中纪委前官员揭中共高层三大恐惧</a></li>
 <li><a href="/topimagenews/20240627/2055376.md">受贿、行贿、谋取人事利益！中共前防长李尚福遭开除党籍移送法办</a></li>
+<li><a href="/cbnews/20240627/2055125.md">中纪委前官员揭中共高层三大恐惧</a></li>
 <li><a href="/sohnews/20240627/2055356.md">习的军中大秘钟绍军中将失踪，四百义和团在苏州公安局前示威，与西方脱钩断链正是习所策划的。《老灯开讲第596期》</a></li>
 <li><a href="/topimagenews/20240627/2055200.md">麻烦了，华为陷入窘境</a></li>
 <li><a href="/topimagenews/20240627/2055314.md">肯尼亚大暴动！痛恨“一带一路”抗议者抢中国人超市 还烧了政府大楼</a></li>
 <li><a href="/ssgc/20240627/2055370.md">三中全会前 前后任国防部长魏凤和 李尚福遭开除党籍及起诉</a></li>
-<li><a href="/topimagenews/20240627/2055258.md">中共害怕至极！更大规模运动祸及世界【阿波罗网报道】</a></li>
 <li><a href="/baitai/20240627/2055409.md">习军中心腹消失 或有两大可能</a></li>
+<li><a href="/topimagenews/20240627/2055258.md">中共害怕至极！更大规模运动祸及世界【阿波罗网报道】</a></li>
 <li><a href="/worldnews/20240627/2055282.md">遭海关要求全身脱光看私密处 她哭着离开</a></li>
 <li><a href="/comments/20240627/2055283.md">苏州政府肯定恨死那个行凶者了</a></li>
 <li><a href="/cbnews/20240627/2055146.md">砍伤日本人 背后煽动黑手是它</a></li>
+<li><a href="/yule/20240627/2055288.md">她“又来中国捞钱了”“看来彻底来中国混了”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/sohnews/20160119/493472.md" target="_blank">无效的医疗：手术刀下的谎言和药瓶里的欺骗</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
 <li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/cnnews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20231220/1976683.md" target="_blank">医山夜话：张锡纯医案解读（二）根治胃气不降之证</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20231130/1967587.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （一）</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
 
 </ul>
 </div>
