@@ -11,23 +11,23 @@
 <li><a href="/baitai/20240626/2054831.md">三中全会老军头逼宫？ 传军队不稳官场震动 习近平异动频频 「习一尊」突抬毛泽东、习仲勋意欲何为</a></li>
 <li><a href="/sohnews/20240626/2054770.md">文睿：“改革开放”火了，一尊，走投无路了</a></li>
 <li><a href="/topimagenews/20240627/2055120.md">【微博精粹】快看！谁是它们暗中监控的“新黑五类”</a></li>
-<li><a href="/topimagenews/20240626/2054908.md">北京决策者正让自己越来越难堪</a></li>
 <li><a href="/baitai/20240626/2054833.md">中共官媒出现变化 习瞄准三中全会？</a></li>
+<li><a href="/topimagenews/20240626/2054908.md">北京决策者正让自己越来越难堪</a></li>
 <li><a href="/sohnews/20240626/2054775.md">🔥🔥老天以极端天气警示中国人❗新疆81℃高温 四川下大雪❗长沙下了54个西湖水量大洪水❗还有更大的事要发生❗</a></li>
 <li><a href="/ccpdope/20240626/2054851.md">中国会发生大事？！ 英国派克预测 世界迎伟大的苏醒时代</a></li>
-<li><a href="/ccpdope/20240627/2055053.md">丁薛祥任新职 中南海释放三大政治信号</a></li>
 <li><a href="/cbnews/20240627/2055128.md">丁薛祥首次以新身份亮相 缘何被唱衰？</a></li>
+<li><a href="/ccpdope/20240627/2055053.md">丁薛祥任新职 中南海释放三大政治信号</a></li>
 <li><a href="/topimagenews/20240626/2054913.md">国库空虚怎么办？</a></li>
 <li><a href="/topimagenews/20240627/2055181.md">被质疑“中国安全” 毛宁露这微表情 网友炸锅了</a></li>
+<li><a href="/topimagenews/20240627/2055202.md">骇人！人肉当鹿肉烤 邀邻居聚餐</a></li>
 <li><a href="/ssgc/20240626/2054840.md">〖微博谈〗倒是希望北京来抓判试试</a></li>
 <li><a href="/topimagenews/20240626/2054914.md">一瞬毁千年！中国暴雨 浙江1000年古城墙坍塌</a></li>
-<li><a href="/topimagenews/20240627/2055202.md">骇人！人肉当鹿肉烤 邀邻居聚餐</a></li>
 <li><a href="/finance/20240626/2054933.md">肉眼可见：中国中产返贫已在路上</a></li>
-<li><a href="/cbnews/20240626/2054837.md">〖红朝浮世绘〗像保护中国公民一样保护外国人？外国人赶紧逃命吧</a></li>
-<li><a href="/topimagenews/20240627/2055106.md">追查国际惊爆：恐怖超限监控全民大系统 凌驾中共法律之上</a></li>
 <li><a href="/cbnews/20240627/2055125.md">中纪委前官员揭中共高层三大恐惧</a></li>
+<li><a href="/topimagenews/20240627/2055106.md">追查国际惊爆：恐怖超限监控全民大系统 凌驾中共法律之上</a></li>
+<li><a href="/cbnews/20240626/2054837.md">〖红朝浮世绘〗像保护中国公民一样保护外国人？外国人赶紧逃命吧</a></li>
 <li><a href="/lishi/20240627/2055091.md">她课上得最好，但结局最惨</a></li>
-<li><a href="/cbnews/20240626/2054923.md">俄媒哀叹：大麻烦来了</a></li>
+<li><a href="/cbnews/20240627/2055146.md">砍伤日本人 背后煽动黑手是它</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240627/2055259.md" target="_blank">首次！美报告揭中共攻击神韵 迫害法轮功</a></li>
 <li><a href="/cbnews/20240627/2055249.md" target="_blank">〖红朝浮世绘〗中共默许并纵容仇日仇美行为 将来或酿成大祸</a></li>
 <li><a href="/cbnews/20240627/2055238.md" target="_blank">美国会听证 聚焦中共利用补贴主宰全球战略</a></li>
 <li><a href="/cbnews/20240627/2055206.md" target="_blank">中共女记者盯梢台湾节目 为何不早点把她抓出来</a></li>
@@ -59,13 +60,13 @@
 <li><a href="/cbnews/20240626/2054928.md" target="_blank">全日空波音客机突发机舱气压异常 11人身体不适</a></li>
 <li><a href="/cbnews/20240626/2054927.md" target="_blank">两周内2起外国人遇袭事件 矢板明夫：在中国的台湾人恐成攻击对象</a></li>
 <li><a href="/cbnews/20240626/2054926.md" target="_blank">华为在华盛顿有一个秘密盟友</a></li>
-<li><a href="/cbnews/20240626/2054925.md" target="_blank">连巴铁都被骗! 镇压叛乱关键时刻 歼-10及枭龙都故障 孟加拉也抱怨</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240627/2055258.md" target="_blank">中共害怕至极！更大规模运动祸及世界【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240627/2055251.md" target="_blank">中国境内作恶者噩耗！美重磅制裁来了：财产冻结、禁入境美、撤销签证、经济及刑期处罚</a></li>
 <li><a href="/topimagenews/20240627/2055202.md" target="_blank">骇人！人肉当鹿肉烤 邀邻居聚餐</a></li>
 <li><a href="/topimagenews/20240627/2055201.md" target="_blank">这些“真实数据”已被屏蔽：中国人需警惕…</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20240626/2054693.md" target="_blank">重点高中也欠薪! 中国多地老师集体罢课</a></li>
 <li><a href="/topimagenews/20240626/2054674.md" target="_blank">中国个税变了！网：果然没钱了</a></li>
 <li><a href="/topimagenews/20240626/2054673.md" target="_blank">多家银行提取现金…他精心策划 成功逃离中国</a></li>
-<li><a href="/topimagenews/20240625/2054506.md" target="_blank">恐慌！又一家中企巨额存款离奇消失</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
 <li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
-<li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/comments/20240418/2026391.md" target="_blank">医生劝我妻子放弃，似乎这些医生热衷让病人快点去死？</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
 
 </ul>
 </div>
