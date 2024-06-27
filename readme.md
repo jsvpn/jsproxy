@@ -7,27 +7,27 @@
 
 <li><a href="/ccpdope/20240627/2055053.md">丁薛祥任新职 中南海释放三大政治信号</a></li>
 <li><a href="/topimagenews/20240627/2055296.md">突发：朝鲜出兵乌克兰【阿波罗网翻译】</a></li>
-<li><a href="/ccpdope/20240626/2054851.md">中国会发生大事？！ 英国派克预测 世界迎伟大的苏醒时代</a></li>
 <li><a href="/topimagenews/20240626/2054908.md">北京决策者正让自己越来越难堪</a></li>
 <li><a href="/topimagenews/20240627/2055120.md">【微博精粹】快看！谁是它们暗中监控的“新黑五类”</a></li>
 <li><a href="/cbnews/20240627/2055128.md">丁薛祥首次以新身份亮相 缘何被唱衰？</a></li>
+<li><a href="/headline/20240627/2055365.md">中国前国防部长李尚福被开除中共党籍</a></li>
 <li><a href="/topimagenews/20240627/2055181.md">被质疑“中国安全” 毛宁露这微表情 网友炸锅了</a></li>
 <li><a href="/topimagenews/20240627/2055201.md">这些“真实数据”已被屏蔽：中国人需警惕…</a></li>
-<li><a href="/headline/20240627/2055365.md">中国前国防部长李尚福被开除中共党籍</a></li>
 <li><a href="/topimagenews/20240627/2055202.md">骇人！人肉当鹿肉烤 邀邻居聚餐</a></li>
 <li><a href="/baitai/20240627/2055232.md">李强发言被全面封杀 中共救亡如开启内战</a></li>
-<li><a href="/topimagenews/20240626/2054913.md">国库空虚怎么办？</a></li>
 <li><a href="/headline/20240627/2055366.md">中共原国务委员兼防长魏凤和被开除党籍终止二十大代表资格</a></li>
+<li><a href="/topimagenews/20240626/2054913.md">国库空虚怎么办？</a></li>
 <li><a href="/topimagenews/20240627/2055251.md">中国境内作恶者噩耗！美重磅制裁来了：财产冻结、禁入境美、撤销签证、经济及刑期处罚</a></li>
-<li><a href="/ssgc/20240626/2054840.md">〖微博谈〗倒是希望北京来抓判试试</a></li>
-<li><a href="/topimagenews/20240627/2055200.md">麻烦了，华为陷入窘境</a></li>
 <li><a href="/cbnews/20240627/2055125.md">中纪委前官员揭中共高层三大恐惧</a></li>
-<li><a href="/topimagenews/20240627/2055314.md">肯尼亚大暴动！痛恨“一带一路”抗议者抢中国人超市 还烧了政府大楼</a></li>
-<li><a href="/topimagenews/20240627/2055258.md">中共害怕至极！更大规模运动祸及世界【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240627/2055376.md">受贿、行贿、谋取人事利益！中共前防长李尚福遭开除党籍移送法办</a></li>
-<li><a href="/comments/20240627/2055283.md">苏州政府肯定恨死那个行凶者了</a></li>
-<li><a href="/worldnews/20240627/2055282.md">遭海关要求全身脱光看私密处 她哭着离开</a></li>
+<li><a href="/topimagenews/20240627/2055200.md">麻烦了，华为陷入窘境</a></li>
+<li><a href="/topimagenews/20240627/2055314.md">肯尼亚大暴动！痛恨“一带一路”抗议者抢中国人超市 还烧了政府大楼</a></li>
+<li><a href="/cbnews/20240627/2055379.md">老翁要让座被拒 杖插少女“两腿间” 被捕后一通电话获释</a></li>
 <li><a href="/sohnews/20240627/2055356.md">习的军中大秘钟绍军中将失踪，四百义和团在苏州公安局前示威，与西方脱钩断链正是习所策划的。《老灯开讲第596期》</a></li>
+<li><a href="/comments/20240627/2055283.md">苏州政府肯定恨死那个行凶者了</a></li>
+<li><a href="/topimagenews/20240627/2055258.md">中共害怕至极！更大规模运动祸及世界【阿波罗网报道】</a></li>
+<li><a href="/worldnews/20240627/2055282.md">遭海关要求全身脱光看私密处 她哭着离开</a></li>
+<li><a href="/cbnews/20240627/2055146.md">砍伤日本人 背后煽动黑手是它</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240627/2055441.md" target="_blank">诅咒中共？中国车牌挂“中华人民共和国1949～2028” 网热议</a></li>
 <li><a href="/topimagenews/20240627/2055416.md" target="_blank">2024美总统辩论将登场！最新民调：川普胜拜登</a></li>
 <li><a href="/topimagenews/20240627/2055376.md" target="_blank">受贿、行贿、谋取人事利益！中共前防长李尚福遭开除党籍移送法办</a></li>
 <li><a href="/topimagenews/20240627/2055314.md" target="_blank">肯尼亚大暴动！痛恨“一带一路”抗议者抢中国人超市 还烧了政府大楼</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20240626/2054909.md" target="_blank">美中科技战打地正火热 华为在华盛顿却有一个秘密盟友？！ 惨被挖出</a></li>
 <li><a href="/topimagenews/20240626/2054908.md" target="_blank">北京决策者正让自己越来越难堪</a></li>
 <li><a href="/topimagenews/20240626/2054738.md" target="_blank">泽连斯基：乌军将迎“历史性”一周！海王星？F-16?</a></li>
-<li><a href="/topimagenews/20240626/2054737.md" target="_blank">未来大概率只有三类大学生有前途</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
 <li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
 <li><a href="/comments/20231223/1978148.md" target="_blank">医山夜话：张锡纯医案解读（三）赭石：降胃气 引火下行</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
 
 </ul>
 </div>
