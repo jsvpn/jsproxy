@@ -8,7 +8,6 @@
 <li><a href="/topimagenews/20240627/2055296.md">突发：朝鲜出兵乌克兰【阿波罗网翻译】</a></li>
 <li><a href="/baitai/20240627/2055232.md">李强发言被全面封杀 中共救亡如开启内战</a></li>
 <li><a href="/topimagenews/20240627/2055201.md">这些“真实数据”已被屏蔽：中国人需警惕…</a></li>
-<li><a href="/topimagenews/20240627/2055120.md">【微博精粹】快看！谁是它们暗中监控的“新黑五类”</a></li>
 <li><a href="/headline/20240627/2055365.md">中国前国防部长李尚福被开除中共党籍</a></li>
 <li><a href="/topimagenews/20240627/2055181.md">被质疑“中国安全” 毛宁露这微表情 网友炸锅了</a></li>
 <li><a href="/cbnews/20240627/2055128.md">丁薛祥首次以新身份亮相 缘何被唱衰？</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/comments/20240627/2055283.md">苏州政府肯定恨死那个行凶者了</a></li>
 <li><a href="/cbnews/20240627/2055146.md">砍伤日本人 背后煽动黑手是它</a></li>
 <li><a href="/cbnews/20240627/2055410.md">中共前防长魏凤和、李尚福被公开宣布受查</a></li>
+<li><a href="/ccpdope/20240628/2055518.md">魏凤和李尚福谁的问题更大 秦刚软著陆</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240628/2055559.md" target="_blank">首次总统大选辩论 辛恬现身CNN总部</a></li>
 <li><a href="/comments/20240628/2055544.md" target="_blank">总统辩论前的看点之拜登如何解决房屋价格高涨的问题总统辩论方伟时间拜登房屋</a></li>
 <li><a href="/comments/20240628/2055527.md" target="_blank">川普一路凯歌，身边有神秘人相助？奥巴马外表平静，内心却对拜登十分焦虑。法官坎农遭到围攻。川普奥巴马美国大选</a></li>
 <li><a href="/cbnews/20240628/2055459.md" target="_blank">真人版霸总？ 他搭“迈巴赫”进考场…高考拿700分 显赫家世曝光</a></li>
@@ -59,13 +60,13 @@
 <li><a href="/cbnews/20240627/2055129.md" target="_blank">谁会受制裁？美众院通过法轮功保护法</a></li>
 <li><a href="/cbnews/20240627/2055128.md" target="_blank">丁薛祥首次以新身份亮相 缘何被唱衰？</a></li>
 <li><a href="/cbnews/20240627/2055125.md" target="_blank">中纪委前官员揭中共高层三大恐惧</a></li>
-<li><a href="/cbnews/20240627/2055123.md" target="_blank">着眼援菲！美重整帕劳贝里琉二战老机场 陆战队“超级力士”首降</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240628/2055556.md" target="_blank">习近平自曝绝不上钩 信息量丰富</a></li>
 <li><a href="/topimagenews/20240628/2055548.md" target="_blank">习假扮角色骗世界 牵红线普京金正恩定情？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240628/2055547.md" target="_blank">中国个税变了！网：果然没钱了；保时捷在中国崩盘【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240627/2055457.md" target="_blank">WSJ：亚马逊对抗Temu等竞争 要直接从中国出货廉价商品</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20240626/2054913.md" target="_blank">国库空虚怎么办？</a></li>
 <li><a href="/topimagenews/20240626/2054912.md" target="_blank">称投资400亿！上海半导体大厂“欠薪”破产</a></li>
 <li><a href="/topimagenews/20240626/2054911.md" target="_blank">真的Lonely了！“孤独星球”宣布关闭陆办公室 所有社媒停更</a></li>
-<li><a href="/topimagenews/20240626/2054910.md" target="_blank">无人潜艇航母！美军新型无人潜艇首次曝光</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240628/2055559.md" target="_blank">首次总统大选辩论 辛恬现身CNN总部</a></li>
 <li><a href="/comments/20240628/2055544.md" target="_blank">总统辩论前的看点之拜登如何解决房屋价格高涨的问题总统辩论方伟时间拜登房屋</a></li>
 <li><a href="/comments/20240628/2055535.md" target="_blank">异议作家邓聿文及家人遭中国网暴</a></li>
 <li><a href="/comments/20240628/2055534.md" target="_blank">专栏 &#8211; 军事无禁区：全球核武态势－战术核武器影响深远</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240627/2055239.md" target="_blank">网络民议：百年不遇年年遇，偶发事件常常发</a></li>
 <li><a href="/comments/20240627/2055237.md" target="_blank">两声“啊”！毛宁崩溃？除奸队惊现最安全国家，苏州日资逃离潮再起！党指挥刀客阻击“单方面免签引外资”</a></li>
 <li><a href="/comments/20240627/2055217.md" target="_blank">菁英论坛:水库之殇 中国人头顶“核弹”？</a></li>
-<li><a href="/comments/20240627/2055216.md" target="_blank">林保华：两岸都是国／“两国论”世代传承发扬光大</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/comments/20240403/2020547.md" target="_blank">纪录片：DSM诊断与统计手册-精神病学最要命的骗局</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/tculture/20231217/1975364.md" target="_blank">医山夜话：张锡纯医案解读（1）根治失眠 思路清晰</a></li>
-<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/aomi/life/20240330/2018911.md" target="_blank">挪威青年这样走出重度失眠和抑郁煎熬</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
 
 </ul>
 </div>
