@@ -12,8 +12,8 @@
 <li><a href="/topimagenews/20240627/2055202.md">骇人！人肉当鹿肉烤 邀邻居聚餐</a></li>
 <li><a href="/cbnews/20240627/2055379.md">老翁要让座被拒 杖插少女“两腿间” 被捕后一通电话获释</a></li>
 <li><a href="/headline/20240627/2055366.md">中共原国务委员兼防长魏凤和被开除党籍终止二十大代表资格</a></li>
-<li><a href="/topimagenews/20240627/2055251.md">中国境内作恶者噩耗！美重磅制裁来了：财产冻结、禁入境美、撤销签证、经济及刑期处罚</a></li>
 <li><a href="/ccpdope/20240628/2055518.md">魏凤和李尚福谁的问题更大 秦刚软著陆</a></li>
+<li><a href="/topimagenews/20240627/2055251.md">中国境内作恶者噩耗！美重磅制裁来了：财产冻结、禁入境美、撤销签证、经济及刑期处罚</a></li>
 <li><a href="/sohnews/20240627/2055356.md">习的军中大秘钟绍军中将失踪，四百义和团在苏州公安局前示威，与西方脱钩断链正是习所策划的。《老灯开讲第596期》</a></li>
 <li><a href="/topimagenews/20240627/2055376.md">受贿、行贿、谋取人事利益！中共前防长李尚福遭开除党籍移送法办</a></li>
 <li><a href="/baitai/20240627/2055409.md">习军中心腹消失 或有两大可能</a></li>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240628/2055621.md" target="_blank">拜登川普总统辩论 方伟评说胜负</a></li>
+<li><a href="/comments/20240628/2055620.md" target="_blank">美这个法案对中共来真的了！</a></li>
 <li><a href="/cbnews/20240628/2055606.md" target="_blank">江峰：中国混血诺亚被掳做人质，以色列特种兵大营救，内幕首次透露，惊心动魄远超好莱坞大片【历史上的今天20240627】</a></li>
 <li><a href="/cbnews/20240628/2055574.md" target="_blank">江峰：横徵暴敛催生着贺龙和菜刀</a></li>
 <li><a href="/cbnews/20240628/2055572.md" target="_blank">江峰：自家的车载了6个西瓜被罚款，因为有营运嫌疑</a></li>
@@ -58,14 +60,14 @@
 <li><a href="/cbnews/20240627/2055204.md" target="_blank">四川城管车停路中央致交通瘫痪 网嘲“没外交豁免权”</a></li>
 <li><a href="/cbnews/20240627/2055203.md" target="_blank">称有百种法让法院久拖不判 山东警察被举报制造冤案</a></li>
 <li><a href="/cbnews/20240627/2055147.md" target="_blank">不安情绪蔓延上海 日本驻中共国大使馆警示</a></li>
-<li><a href="/cbnews/20240627/2055146.md" target="_blank">砍伤日本人 背后煽动黑手是它</a></li>
-<li><a href="/cbnews/20240627/2055145.md" target="_blank">中国“绝望世代”暴增：怎样活下去是第一位的</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240628/2055613.md" target="_blank">深度揭秘：走近中共疯狂杀戮 一封信震动美政坛</a></li>
+<li><a href="/topimagenews/20240628/2055612.md" target="_blank">习爱将魏凤和倒掉出人意料 共军权力斗争白热化</a></li>
 <li><a href="/topimagenews/20240628/2055595.md" target="_blank">傻眼！两位媒体圈美女CEO互揭老底</a></li>
 <li><a href="/topimagenews/20240628/2055578.md" target="_blank">稳操胜券？知名分析师预测川普胜率</a></li>
 <li><a href="/topimagenews/20240628/2055577.md" target="_blank">彻底锁死一扇门！切断中共国与世界联系</a></li>
@@ -89,14 +91,18 @@
 <li><a href="/topimagenews/20240627/2055181.md" target="_blank">被质疑“中国安全” 毛宁露这微表情 网友炸锅了</a></li>
 <li><a href="/topimagenews/20240627/2055180.md" target="_blank">30多万股东懵了 市值500亿巨头股价逼近1元红线</a></li>
 <li><a href="/topimagenews/20240627/2055120.md" target="_blank">【微博精粹】快看！谁是它们暗中监控的“新黑五类”</a></li>
-<li><a href="/topimagenews/20240627/2055119.md" target="_blank">真准！乌克兰M2步兵战车以大毒蛇机炮击落神风无人机</a></li>
-<li><a href="/topimagenews/20240627/2055106.md" target="_blank">追查国际惊爆：恐怖超限监控全民大系统 凌驾中共法律之上</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240628/2055621.md" target="_blank">拜登川普总统辩论 方伟评说胜负</a></li>
+<li><a href="/comments/20240628/2055620.md" target="_blank">美这个法案对中共来真的了！</a></li>
+<li><a href="/comments/20240628/2055617.md" target="_blank">吴奕军：AI可能取代全球3亿个全职工作 冲击“零工经济”</a></li>
+<li><a href="/comments/20240628/2055616.md" target="_blank">唐靖远：美重磅法案 制裁中共3大招威力大</a></li>
+<li><a href="/comments/20240628/2055615.md" target="_blank">韩国火灾背后，令人心疼的东北人</a></li>
+<li><a href="/comments/20240628/2055614.md" target="_blank">别惊讶，也许拜登明天就宣布退选</a></li>
 <li><a href="/comments/20240628/2055591.md" target="_blank">文昭：突发！李尚福、魏凤被同时开除党籍军籍，地震比预料更猛！美国飓风级大招，大批中共官员恐慌</a></li>
 <li><a href="/comments/20240628/2055559.md" target="_blank">首次总统大选辩论 辛恬现身CNN总部</a></li>
 <li><a href="/comments/20240628/2055544.md" target="_blank">总统辩论前的看点之拜登如何解决房屋价格高涨的问题总统辩论方伟时间拜登房屋</a></li>
@@ -116,12 +122,6 @@
 <li><a href="/comments/20240627/2055283.md" target="_blank">苏州政府肯定恨死那个行凶者了</a></li>
 <li><a href="/comments/20240627/2055254.md" target="_blank">告别信：LonelyPlanet：祝你旅途愉快</a></li>
 <li><a href="/comments/20240627/2055244.md" target="_blank">美国现在到底是多么的堕落，让这位美女来告诉你</a></li>
-<li><a href="/comments/20240627/2055243.md" target="_blank">读《停止迫害是这些孩子们的心愿》有感</a></li>
-<li><a href="/comments/20240627/2055242.md" target="_blank">税乎网：深圳税务局税收违法案例查询链接404了</a></li>
-<li><a href="/comments/20240627/2055241.md" target="_blank">打假！论后真相时代中国社会心理出了问题</a></li>
-<li><a href="/comments/20240627/2055240.md" target="_blank">项栋梁：袭击日本人是偶发，袭击美国人是偶发，欢呼声也是偶发吗？</a></li>
-<li><a href="/comments/20240627/2055239.md" target="_blank">网络民议：百年不遇年年遇，偶发事件常常发</a></li>
-<li><a href="/comments/20240627/2055237.md" target="_blank">两声“啊”！毛宁崩溃？除奸队惊现最安全国家，苏州日资逃离潮再起！党指挥刀客阻击“单方面免签引外资”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/aomi/life/20240330/2018911.md" target="_blank">挪威青年这样走出重度失眠和抑郁煎熬</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/topimagenews/20240511/2035423.md" target="_blank">原北京学员回忆李洪志先生在东方健康博览会上所行的奇迹</a></li>
+<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/comments/20230920/1936271.md" target="_blank">防止你的孩子不成功（5） &#8211;教育避坑指南</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
 
 </ul>
 </div>
