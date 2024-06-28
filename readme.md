@@ -9,25 +9,25 @@
 <li><a href="/topimagenews/20240628/2055556.md">习近平自曝绝不上钩 信息量丰富</a></li>
 <li><a href="/baitai/20240628/2055563.md">三中全会暗流涌动 习这样做大有深意？</a></li>
 <li><a href="/topimagenews/20240628/2055595.md">傻眼！两位媒体圈美女CEO互揭老底</a></li>
+<li><a href="/comments/20240628/2055660.md">习家军反叛迅速出现？不亚于林彪事件冲击毛泽东</a></li>
 <li><a href="/topimagenews/20240628/2055655.md">是的，我开始担心银行了….</a></li>
 <li><a href="/topimagenews/20240628/2055693.md">最大新闻！点燃朝鲜战火？金正恩宣布…</a></li>
-<li><a href="/comments/20240628/2055660.md">习家军反叛迅速出现？不亚于林彪事件冲击毛泽东</a></li>
-<li><a href="/topimagenews/20240628/2055576.md">中共宣布三中全会日期 定下令人忧心“基调”？</a></li>
 <li><a href="/topimagenews/20240628/2055577.md">彻底锁死一扇门！切断中共国与世界联系</a></li>
+<li><a href="/topimagenews/20240628/2055576.md">中共宣布三中全会日期 定下令人忧心“基调”？</a></li>
 <li><a href="/cnnews/20240628/2055723.md">习家军迅速反叛 张又侠也不例外</a></li>
 <li><a href="/baitai/20240628/2055523.md">风暴果真来了？ 习再破例！三中全会日期出炉 同日抛出两前国防部长</a></li>
 <li><a href="/topimagenews/20240628/2055612.md">习爱将魏凤和倒掉出人意料 共军权力斗争白热化</a></li>
+<li><a href="/baitai/20240628/2055862.md">北京传破天荒消息 习着手筹备大事</a></li>
+<li><a href="/headline/20240628/2055808.md">秦刚传问题不严重 有可能平安着陆</a></li>
 <li><a href="/topimagenews/20240628/2055613.md">深度揭秘：走近中共疯狂杀戮 一封信震动美政坛</a></li>
 <li><a href="/topimagenews/20240628/2055674.md">【微博精粹】中共国开启“通缩繁荣”时代</a></li>
-<li><a href="/sohnews/20240628/2055526.md">“第一军委副主席何以束手就擒 ⋯ 与王小洪拼命运”No.05（06/27/24）张又侠习近平 王小洪军事政变</a></li>
-<li><a href="/topimagenews/20240628/2055673.md">习近平抛李尚福魏凤和案 留了个尾巴</a></li>
-<li><a href="/cbnews/20240628/2055633.md">从此内乱开始 北京重抛李尚福魏凤和案</a></li>
 <li><a href="/sohnews/20240628/2055771.md">石破天惊：魏凤和李尚福因刺杀习出事，全国人大制定法律恢复人民公社，卢沙野说中国内战没有结束。《老灯开讲第597期》</a></li>
-<li><a href="/headline/20240628/2055808.md">秦刚传问题不严重 有可能平安着陆</a></li>
+<li><a href="/sohnews/20240628/2055526.md">“第一军委副主席何以束手就擒 ⋯ 与王小洪拼命运”No.05（06/27/24）张又侠习近平 王小洪军事政变</a></li>
+<li><a href="/cbnews/20240628/2055633.md">从此内乱开始 北京重抛李尚福魏凤和案</a></li>
+<li><a href="/topimagenews/20240628/2055673.md">习近平抛李尚福魏凤和案 留了个尾巴</a></li>
 <li><a href="/topimagenews/20240628/2055810.md">傻眼！南京碧桂园房价从1万3跌倒3千 大陆多地房价跌跌不休</a></li>
-<li><a href="/sohnews/20240628/2055514.md">李尚福魏凤和双开，暗藏4大机关！｜中共习近平李尚福</a></li>
-<li><a href="/baitai/20240628/2055862.md">北京传破天荒消息 习着手筹备大事</a></li>
 <li><a href="/cbnews/20240628/2055670.md">〖红朝浮世绘〗两任国防部长同日被开除党籍 忠诚失节对不起寡人啊</a></li>
+<li><a href="/sohnews/20240628/2055514.md">李尚福魏凤和双开，暗藏4大机关！｜中共习近平李尚福</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240629/2055939.md" target="_blank">首场总统电视辩论，拜登惨败。高层换人计划启动？川普最精彩的借题发挥，完胜拜登。电视辩论川普拜登</a></li>
+<li><a href="/comments/20240629/2055936.md" target="_blank">你是否知道美国总统辩论的历史？方伟给你科普总统辩论方伟方伟时间辛恬面对面</a></li>
 <li><a href="/cbnews/20240628/2055925.md" target="_blank">上海迪士尼1设施被吐槽“滂臭” 网友：手洗了5遍还有味儿</a></li>
 <li><a href="/comments/20240628/2055854.md" target="_blank">日本预言家和尚：三灾七难之后，世界重新洗牌；中了1.5亿彩票，神安排他做一件事；天生能嗅到死亡的味道，并亲眼见证轮回！｜未解之谜 扶摇</a></li>
 <li><a href="/comments/20240628/2055853.md" target="_blank">拜登川普辩论 你必须知道的7个看点</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/comments/20240628/2055649.md" target="_blank">拜登、川普激辩 上半场看点总结</a></li>
 <li><a href="/cbnews/20240628/2055635.md" target="_blank">中共三中全会日期确定 “三大跃进”运动将来？</a></li>
 <li><a href="/cbnews/20240628/2055633.md" target="_blank">从此内乱开始 北京重抛李尚福魏凤和案</a></li>
-<li><a href="/cbnews/20240628/2055632.md" target="_blank">视频曝光：李强访新期间 抗议者遭袭击</a></li>
-<li><a href="/cbnews/20240628/2055625.md" target="_blank">美国总统大选首场辩论今晚9点开始</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240629/2055939.md" target="_blank">首场总统电视辩论，拜登惨败。高层换人计划启动？川普最精彩的借题发挥，完胜拜登。电视辩论川普拜登</a></li>
+<li><a href="/comments/20240629/2055936.md" target="_blank">你是否知道美国总统辩论的历史？方伟给你科普总统辩论方伟方伟时间辛恬面对面</a></li>
+<li><a href="/comments/20240629/2055930.md" target="_blank">【文韬政论】中共出招制造敌人只会自食恶果</a></li>
 <li><a href="/comments/20240628/2055922.md" target="_blank">小粉红战士！热血沸腾的一天</a></li>
 <li><a href="/comments/20240628/2055879.md" target="_blank">时事大家谈：2024美国总统大选首场辩论，谁是赢家？拜登和特朗普的中国政策有何异同？</a></li>
 <li><a href="/comments/20240628/2055875.md" target="_blank">【杜耀明评论】三料政治夹击香港经济 国安法换繁荣不攻自破</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20240628/2055629.md" target="_blank">天亮时分：官宣：李尚福魏凤和逮捕法办，秦刚躲过去了？官场动荡刚刚开始；三中全会会期确定，民间心冷，毫无期待（政论天下第1338集 20240627）天亮时分</a></li>
 <li><a href="/comments/20240628/2055621.md" target="_blank">拜登川普总统辩论 方伟评说胜负</a></li>
 <li><a href="/comments/20240628/2055620.md" target="_blank">美这个法案对中共来真的了！</a></li>
-<li><a href="/comments/20240628/2055617.md" target="_blank">吴奕军：AI可能取代全球3亿个全职工作 冲击“零工经济”</a></li>
-<li><a href="/comments/20240628/2055616.md" target="_blank">唐靖远：美重磅法案 制裁中共3大招威力大</a></li>
-<li><a href="/comments/20240628/2055615.md" target="_blank">韩国火灾背后，令人心疼的东北人</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/ssgc/20240508/2034288.md" target="_blank">《透视“进化论”》第九章 人类起源问题的终极答案</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20231220/1976789.md" target="_blank">大陆医生曝：九价HPV疫苗导致怀孕能力下降40%</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
+<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/comments/20240126/1992876.md" target="_blank">内幕：中国留学生里女生打男生和男生打女一样普遍</a></li>
+<li><a href="/cbnews/20240603/2045072.md" target="_blank">漫谈古代科举之八股文</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
 
 </ul>
 </div>
