@@ -15,19 +15,19 @@
 <li><a href="/topimagenews/20240627/2055376.md">受贿、行贿、谋取人事利益！中共前防长李尚福遭开除党籍移送法办</a></li>
 <li><a href="/topimagenews/20240627/2055314.md">肯尼亚大暴动！痛恨“一带一路”抗议者抢中国人超市 还烧了政府大楼</a></li>
 <li><a href="/ssgc/20240627/2055370.md">三中全会前 前后任国防部长魏凤和 李尚福遭开除党籍及起诉</a></li>
-<li><a href="/comments/20240627/2055283.md">苏州政府肯定恨死那个行凶者了</a></li>
-<li><a href="/worldnews/20240627/2055282.md">遭海关要求全身脱光看私密处 她哭着离开</a></li>
 <li><a href="/topimagenews/20240628/2055556.md">习近平自曝绝不上钩 信息量丰富</a></li>
 <li><a href="/cbnews/20240627/2055410.md">中共前防长魏凤和、李尚福被公开宣布受查</a></li>
 <li><a href="/topimagenews/20240627/2055441.md">诅咒中共？中国车牌挂“中华人民共和国1949～2028” 网热议</a></li>
-<li><a href="/yule/20240627/2055288.md">她“又来中国捞钱了”“看来彻底来中国混了”</a></li>
+<li><a href="/baitai/20240628/2055563.md">三中全会暗流涌动 习这样做大有深意？</a></li>
 <li><a href="/health/20240627/2055316.md">拔火罐时，后背吸出的瘀血，真的是毒素吗？医生说出了大实话</a></li>
-<li><a href="/cnnews/20240627/2055285.md">护士曝 人死前“最让人震惊3现象”</a></li>
 <li><a href="/baitai/20240628/2055523.md">风暴果真来了？ 习再破例！三中全会日期出炉 同日抛出两前国防部长</a></li>
 <li><a href="/ccpdope/20240627/2055302.md">啪！啪！台湾最新民调把党魁的脸打得火辣</a></li>
+<li><a href="/topimagenews/20240628/2055576.md">中共宣布三中全会日期 定下令人忧心“基调”？</a></li>
+<li><a href="/topimagenews/20240628/2055595.md">傻眼！两位媒体圈美女CEO互揭老底</a></li>
 <li><a href="/cnnews/20240627/2055383.md">卷火箭军丑闻！中国前防长魏凤和涉贪腐遭开除党籍 移军检审查起诉</a></li>
 <li><a href="/sohnews/20240628/2055514.md">李尚福魏凤和双开，暗藏4大机关！｜中共习近平李尚福</a></li>
-<li><a href="/baitai/20240628/2055563.md">三中全会暗流涌动 习这样做大有深意？</a></li>
+<li><a href="/cbnews/20240627/2055443.md">直播正妹突“两眼瞪大、僵硬倒地”！恐怖画面全放送</a></li>
+<li><a href="/ssgc/20240627/2055298.md">二十届三中全会将于7月15日至18日召开</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,10 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240628/2055717.md" target="_blank">拜登、川普辩论登场：北京和莫斯科此刻在想什么</a></li>
+<li><a href="/cbnews/20240628/2055716.md" target="_blank">日使馆降半旗致敬！阻袭击日本人 中国女士伤重离世</a></li>
+<li><a href="/cbnews/20240628/2055715.md" target="_blank">3岁男童堕井 河北1.2米侏儒男成功救人</a></li>
+<li><a href="/cbnews/20240628/2055714.md" target="_blank">日人遇袭不只一件！ 4月也有日本人苏州遇刺</a></li>
 <li><a href="/cbnews/20240628/2055694.md" target="_blank">山东河南大旱 水库河流干涸 农作物枯死</a></li>
 <li><a href="/cbnews/20240628/2055680.md" target="_blank">分析：战争迭起中共欲抢武器市场 但危机难解</a></li>
 <li><a href="/cbnews/20240628/2055679.md" target="_blank">菲总统称需加强抗共 白宫重申对菲铁杆承诺</a></li>
@@ -56,16 +60,15 @@
 <li><a href="/cbnews/20240628/2055574.md" target="_blank">江峰：横徵暴敛催生着贺龙和菜刀</a></li>
 <li><a href="/cbnews/20240628/2055572.md" target="_blank">江峰：自家的车载了6个西瓜被罚款，因为有营运嫌疑</a></li>
 <li><a href="/comments/20240628/2055559.md" target="_blank">首次总统大选辩论 辛恬现身CNN总部</a></li>
-<li><a href="/comments/20240628/2055544.md" target="_blank">总统辩论前的看点之拜登如何解决房屋价格高涨的问题总统辩论方伟时间拜登房屋</a></li>
-<li><a href="/comments/20240628/2055527.md" target="_blank">川普一路凯歌，身边有神秘人相助？奥巴马外表平静，内心却对拜登十分焦虑。法官坎农遭到围攻。川普奥巴马美国大选</a></li>
-<li><a href="/cbnews/20240628/2055459.md" target="_blank">真人版霸总？ 他搭“迈巴赫”进考场…高考拿700分 显赫家世曝光</a></li>
-<li><a href="/cbnews/20240627/2055444.md" target="_blank">被垃圾车撞到掉进压缩箱！广东女清洁员失踪“翻7000吨垃圾”找不到人</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240628/2055713.md" target="_blank">辩论更新 川普：拜登收中国的钱 是“满洲候选人”</a></li>
+<li><a href="/topimagenews/20240628/2055712.md" target="_blank">拜登为何在辩论多次清喉咙和咳嗽？原因曝光</a></li>
+<li><a href="/topimagenews/20240628/2055711.md" target="_blank">美国大选首场辩论 最好笑的一幕发生了</a></li>
 <li><a href="/topimagenews/20240628/2055693.md" target="_blank">最大新闻！点燃朝鲜战火？金正恩宣布…</a></li>
 <li><a href="/topimagenews/20240628/2055692.md" target="_blank">李尚福曾给谁行贿？军委副主席还是悬了【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240628/2055674.md" target="_blank">【微博精粹】中共国开启“通缩繁荣”时代</a></li>
@@ -88,15 +91,13 @@
 <li><a href="/topimagenews/20240627/2055314.md" target="_blank">肯尼亚大暴动！痛恨“一带一路”抗议者抢中国人超市 还烧了政府大楼</a></li>
 <li><a href="/topimagenews/20240627/2055313.md" target="_blank">20万乌军集结将反攻? 专家 : 45天内展开夏季“战略级”作战 主攻这2地&#8230;&#8230;.</a></li>
 <li><a href="/topimagenews/20240627/2055296.md" target="_blank">突发：朝鲜出兵乌克兰【阿波罗网翻译】</a></li>
-<li><a href="/topimagenews/20240627/2055258.md" target="_blank">中共害怕至极！更大规模运动祸及世界【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20240627/2055251.md" target="_blank">中国境内作恶者噩耗！美重磅制裁来了：财产冻结、禁入境美、撤销签证、经济及刑期处罚</a></li>
-<li><a href="/topimagenews/20240627/2055202.md" target="_blank">骇人！人肉当鹿肉烤 邀邻居聚餐</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240628/2055710.md" target="_blank">【#燕铭时评独家重磅会员文章限时免费公开】第4期-20240628 免费公开：【独家重磅】李燕铭：习近平三中全会前离京 三天紧急赶场三省 安保行动出现重大异常 三中全会或有重大人事变动</a></li>
 <li><a href="/comments/20240628/2055684.md" target="_blank">张平：哈马斯已成丧家之犬</a></li>
 <li><a href="/comments/20240628/2055683.md" target="_blank">三中全会几点讨论</a></li>
 <li><a href="/comments/20240628/2055682.md" target="_blank">方伟：美国赌盘 赌下届总统</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240628/2055527.md" target="_blank">川普一路凯歌，身边有神秘人相助？奥巴马外表平静，内心却对拜登十分焦虑。法官坎农遭到围攻。川普奥巴马美国大选</a></li>
 <li><a href="/comments/20240628/2055520.md" target="_blank">【Shein纽约上市不成，伦敦上市有戏吗？】</a></li>
 <li><a href="/comments/20240628/2055476.md" target="_blank">时事大家谈：人民币汇率再创新低，中国货币政策如何演进？</a></li>
-<li><a href="/comments/20240627/2055451.md" target="_blank">时事大家谈：贸易战真要全球开花？谁会是赢家？人民币汇率再创新低，中国货币政策如何演进？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/topimagenews/20240511/2035423.md" target="_blank">原北京学员回忆李洪志先生在东方健康博览会上所行的奇迹</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
 <li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/taiwannews/20210119/1470524.md" target="_blank">纪录片《蚕食美国1》</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
 
 </ul>
 </div>
