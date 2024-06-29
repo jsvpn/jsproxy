@@ -7,7 +7,6 @@
 
 <li><a href="/topimagenews/20240629/2056094.md">习近平签署主席令 集体经济真的来了</a></li>
 <li><a href="/topimagenews/20240629/2056095.md">爆料：原中共总参政治部主任耿燎原在家自缢身亡‼️</a></li>
-<li><a href="/yule/20240629/2055957.md">出轨十年 马伊琍偷腥夫似老头 网：变得唯唯诺诺</a></li>
 <li><a href="/topimagenews/20240629/2056014.md">盟主痛失上海滩！上海帮决定性影响中共政坛30年</a></li>
 <li><a href="/topimagenews/20240629/2056034.md">全国震惊！“万亿帝国”正式进入破产清算</a></li>
 <li><a href="/ccpdope/20240629/2056008.md">日本使馆降半旗致哀胡友平 告诉中国人两件事</a></li>
@@ -22,12 +21,13 @@
 <li><a href="/cbnews/20240629/2056139.md">六天六名中共省部级高官与高级将领病亡</a></li>
 <li><a href="/cbnews/20240629/2056078.md">他被抓很不正常！围剿赵乐际？亲信基本被团灭</a></li>
 <li><a href="/cbnews/20240629/2056183.md">从身后抱住凶手 苏州胡友平救人细节曝光</a></li>
-<li><a href="/topimagenews/20240629/2056049.md">指纹揭穿假面！明艳动人的女华裔市长背后有中共权贵撑腰吗</a></li>
 <li><a href="/ssgc/20240629/2056289.md">中共三中全会将人事大动？</a></li>
+<li><a href="/topimagenews/20240629/2056049.md">指纹揭穿假面！明艳动人的女华裔市长背后有中共权贵撑腰吗</a></li>
 <li><a href="/ssgc/20240629/2056194.md">〖微博谈〗开倒车真的悲哀</a></li>
 <li><a href="/cnnews/20240629/2056061.md">活得自在！前央视主持现身以色列</a></li>
 <li><a href="/comments/20240629/2056153.md">遭删文：体制内单身女难了</a></li>
 <li><a href="/cbnews/20240629/2056137.md">三中全会前夕 中共省部级“一把手”密集调动</a></li>
+<li><a href="/ccpdope/20240629/2056208.md">天意！灵隐寺发大水与他的到来有关？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240630/2056350.md" target="_blank">长江第1号洪水形成 中下游持续暴雨汛情严重</a></li>
 <li><a href="/comments/20240629/2056322.md" target="_blank">圣母 流泪了！</a></li>
 <li><a href="/comments/20240629/2056318.md" target="_blank">民主党换帅的办法之一方伟时间总统辩论民主党</a></li>
 <li><a href="/cbnews/20240629/2056313.md" target="_blank">一年12名将领落马 专家：中共战力遭打击</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240629/2056078.md" target="_blank">他被抓很不正常！围剿赵乐际？亲信基本被团灭</a></li>
 <li><a href="/cbnews/20240629/2056077.md" target="_blank">六月雪？北京延庆突降冰雹 堆积如积雪 街道变冰河</a></li>
 <li><a href="/comments/20240629/2056048.md" target="_blank">川拜首次辩论成大选拐点：2024， 我们还能选出总统吗？｜方菲时间</a></li>
-<li><a href="/comments/20240629/2056033.md" target="_blank">拜登-川普之辩，重现尼克松-肯尼迪电视辩论经历方伟时间电视辩论总统大选拜登川普</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240630/2056351.md" target="_blank">【创造历史：香港首举集体远程同性婚礼, 美国监礼人大屏幕证婚】</a></li>
 <li><a href="/comments/20240629/2056322.md" target="_blank">圣母 流泪了！</a></li>
 <li><a href="/comments/20240629/2056318.md" target="_blank">民主党换帅的办法之一方伟时间总统辩论民主党</a></li>
 <li><a href="/comments/20240629/2056275.md" target="_blank">天亮时分：我为什麽看了两分钟就认为拜登输了？#天亮时分 #总统辩论 #美国大选</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240629/2056080.md" target="_blank">木蹊说：李雪琴被曝高考买分，谁才是真老虎？</a></li>
 <li><a href="/comments/20240629/2056048.md" target="_blank">川拜首次辩论成大选拐点：2024， 我们还能选出总统吗？｜方菲时间</a></li>
 <li><a href="/comments/20240629/2056033.md" target="_blank">拜登-川普之辩，重现尼克松-肯尼迪电视辩论经历方伟时间电视辩论总统大选拜登川普</a></li>
-<li><a href="/comments/20240629/2056025.md" target="_blank">陈嘉宏:中共国“指导”台湾政论节目 是利用民主攻击民主</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20240511/2035423.md" target="_blank">原北京学员回忆李洪志先生在东方健康博览会上所行的奇迹</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
-<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20240126/1992876.md" target="_blank">内幕：中国留学生里女生打男生和男生打女一样普遍</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/cnnews/20221211/1822144.md" target="_blank">盖盖冲马桶很可怕！瞬间“病毒炸开”？</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
 <li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/topimagenews/20200514/1328456.md" target="_blank">穿越时空 谢田教授亲身体验人体特异功能</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
 <li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
+<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
 
 </ul>
 </div>
