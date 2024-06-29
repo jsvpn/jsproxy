@@ -6,28 +6,28 @@
 <ul>
 
 <li><a href="/baitai/20240628/2055862.md">北京传破天荒消息 习着手筹备大事</a></li>
-<li><a href="/topimagenews/20240628/2055693.md">最大新闻！点燃朝鲜战火？金正恩宣布…</a></li>
 <li><a href="/cnnews/20240628/2055723.md">习家军迅速反叛 张又侠也不例外</a></li>
 <li><a href="/headline/20240628/2055808.md">秦刚传问题不严重 有可能平安着陆</a></li>
 <li><a href="/sohnews/20240628/2055771.md">石破天惊：魏凤和李尚福因刺杀习出事，全国人大制定法律恢复人民公社，卢沙野说中国内战没有结束。《老灯开讲第597期》</a></li>
 <li><a href="/topimagenews/20240628/2055810.md">傻眼！南京碧桂园房价从1万3跌倒3千 大陆多地房价跌跌不休</a></li>
 <li><a href="/topimagenews/20240629/2056014.md">盟主痛失上海滩！上海帮决定性影响中共政坛30年</a></li>
+<li><a href="/topimagenews/20240629/2056095.md">爆料：原中共总参政治部主任耿燎原在家自缢身亡‼️</a></li>
 <li><a href="/topimagenews/20240628/2055900.md">美军爆发现非人类飞行员尸体 哈佛论文颠覆人类想像</a></li>
 <li><a href="/yule/20240629/2055957.md">出轨十年 马伊琍偷腥夫似老头 网：变得唯唯诺诺</a></li>
-<li><a href="/topimagenews/20240629/2056095.md">爆料：原中共总参政治部主任耿燎原在家自缢身亡‼️</a></li>
-<li><a href="/cbnews/20240628/2055716.md">日使馆降半旗致敬！阻袭击日本人 中国女士伤重离世</a></li>
-<li><a href="/sohnews/20240628/2055880.md">习近平非常担心发生政变兵变，军队中可能已有苗头出现</a></li>
 <li><a href="/topimagenews/20240629/2056094.md">习近平签署主席令 集体经济真的来了</a></li>
+<li><a href="/sohnews/20240628/2055880.md">习近平非常担心发生政变兵变，军队中可能已有苗头出现</a></li>
+<li><a href="/cbnews/20240628/2055716.md">日使馆降半旗致敬！阻袭击日本人 中国女士伤重离世</a></li>
 <li><a href="/health/20240628/2055839.md">惜命最好的方式 现在知道还不晚</a></li>
 <li><a href="/ccpdope/20240629/2056008.md">日本使馆降半旗致哀胡友平 告诉中国人两件事</a></li>
 <li><a href="/topimagenews/20240628/2055733.md">美大选首场辩论：拜登不时结巴 川普奚落</a></li>
 <li><a href="/topimagenews/20240629/2056015.md">“绝对是惨案+国际头条” 如果没有胡友平付出生命</a></li>
 <li><a href="/topimagenews/20240629/2056034.md">全国震惊！“万亿帝国”正式进入破产清算</a></li>
-<li><a href="/cbnews/20240628/2055734.md">中国2防长落马 王丹酸习近平：解放军就贪腐大本营</a></li>
 <li><a href="/topimagenews/20240629/2056013.md">一个时代结束！中共政府要求员工退薪;北京发“安民告示”？A股公司恐难逃一劫</a></li>
-<li><a href="/comments/20240628/2055854.md">日本预言家和尚：三灾七难之后，世界重新洗牌；中了1.5亿彩票，神安排他做一件事；天生能嗅到死亡的味道，并亲眼见证轮回！｜未解之谜 扶摇</a></li>
+<li><a href="/cbnews/20240628/2055734.md">中国2防长落马 王丹酸习近平：解放军就贪腐大本营</a></li>
 <li><a href="/cbnews/20240629/2055974.md">中印关系紧张 印度莫迪不出席上合会</a></li>
+<li><a href="/comments/20240628/2055854.md">日本预言家和尚：三灾七难之后，世界重新洗牌；中了1.5亿彩票，神安排他做一件事；天生能嗅到死亡的味道，并亲眼见证轮回！｜未解之谜 扶摇</a></li>
 <li><a href="/cnnews/20240628/2055721.md">砍日本小孩的事已经三天，氛围越来越奇怪了</a></li>
+<li><a href="/baitai/20240628/2055803.md">中共抓间谍 多地居委会上门要求别与海外通话</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240629/2056169.md" target="_blank">战狼卢沙野谈台湾问题 这句话简直丢人现眼</a></li>
+<li><a href="/cbnews/20240629/2056168.md" target="_blank">美空军上将：中共想方设法破坏美国防工业</a></li>
+<li><a href="/cbnews/20240629/2056167.md" target="_blank">党媒称赞胡友平 中国大妈：杀畜生还被畜生挡道</a></li>
 <li><a href="/cbnews/20240629/2056165.md" target="_blank">江峰：身故不予追究？秦刚缺席审查通报； 李尚福贵为防长还“行贿”，谁是受贿人？魏凤和，习最信任上将惊爆谋反；“中国人刺伤日本人”到“中国人拯救日本人”的精妙【江峰漫谈20240628第892期】</a></li>
 <li><a href="/cbnews/20240629/2056139.md" target="_blank">六天六名中共省部级高官与高级将领病亡</a></li>
 <li><a href="/cbnews/20240629/2056138.md" target="_blank">三中全会前 王沪宁为习量身打造一套话术？</a></li>
@@ -57,9 +60,6 @@
 <li><a href="/comments/20240629/2055936.md" target="_blank">你是否知道美国总统辩论的历史？方伟给你科普总统辩论方伟方伟时间辛恬面对面</a></li>
 <li><a href="/cbnews/20240628/2055925.md" target="_blank">上海迪士尼1设施被吐槽“滂臭” 网友：手洗了5遍还有味儿</a></li>
 <li><a href="/comments/20240628/2055854.md" target="_blank">日本预言家和尚：三灾七难之后，世界重新洗牌；中了1.5亿彩票，神安排他做一件事；天生能嗅到死亡的味道，并亲眼见证轮回！｜未解之谜 扶摇</a></li>
-<li><a href="/comments/20240628/2055853.md" target="_blank">拜登川普辩论 你必须知道的7个看点</a></li>
-<li><a href="/comments/20240628/2055843.md" target="_blank">重温辩论前的6大看点，现在的答案是什么？</a></li>
-<li><a href="/cbnews/20240628/2055770.md" target="_blank">澳媒：人权律师揭中共系统性活摘器官的惨烈真相</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/topimagenews/20180608/954788.md" target="_blank">安乐死根本安乐不了，别宣传了</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/cnnews/20221211/1822144.md" target="_blank">盖盖冲马桶很可怕！瞬间“病毒炸开”？</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
 <li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
-<li><a href="/comments/20231213/1973586.md" target="_blank">六道轮回之畜生道</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/cnnews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
 <li><a href="/comments/20231130/1967587.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （一）</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20231214/1974098.md" target="_blank">美国众议院议长：我所坚守的保守主义，具体是些什么内容？</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
 
 </ul>
 </div>
