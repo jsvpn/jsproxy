@@ -17,17 +17,17 @@
 <li><a href="/topimagenews/20240629/2056095.md">爆料：原中共总参政治部主任耿燎原在家自缢身亡‼️</a></li>
 <li><a href="/cbnews/20240628/2055716.md">日使馆降半旗致敬！阻袭击日本人 中国女士伤重离世</a></li>
 <li><a href="/sohnews/20240628/2055880.md">习近平非常担心发生政变兵变，军队中可能已有苗头出现</a></li>
-<li><a href="/health/20240628/2055839.md">惜命最好的方式 现在知道还不晚</a></li>
-<li><a href="/topimagenews/20240628/2055733.md">美大选首场辩论：拜登不时结巴 川普奚落</a></li>
 <li><a href="/topimagenews/20240629/2056094.md">习近平签署主席令 集体经济真的来了</a></li>
+<li><a href="/health/20240628/2055839.md">惜命最好的方式 现在知道还不晚</a></li>
 <li><a href="/ccpdope/20240629/2056008.md">日本使馆降半旗致哀胡友平 告诉中国人两件事</a></li>
+<li><a href="/topimagenews/20240628/2055733.md">美大选首场辩论：拜登不时结巴 川普奚落</a></li>
 <li><a href="/topimagenews/20240629/2056015.md">“绝对是惨案+国际头条” 如果没有胡友平付出生命</a></li>
-<li><a href="/cbnews/20240628/2055734.md">中国2防长落马 王丹酸习近平：解放军就贪腐大本营</a></li>
 <li><a href="/topimagenews/20240629/2056034.md">全国震惊！“万亿帝国”正式进入破产清算</a></li>
+<li><a href="/cbnews/20240628/2055734.md">中国2防长落马 王丹酸习近平：解放军就贪腐大本营</a></li>
 <li><a href="/topimagenews/20240629/2056013.md">一个时代结束！中共政府要求员工退薪;北京发“安民告示”？A股公司恐难逃一劫</a></li>
-<li><a href="/cnnews/20240628/2055721.md">砍日本小孩的事已经三天，氛围越来越奇怪了</a></li>
 <li><a href="/comments/20240628/2055854.md">日本预言家和尚：三灾七难之后，世界重新洗牌；中了1.5亿彩票，神安排他做一件事；天生能嗅到死亡的味道，并亲眼见证轮回！｜未解之谜 扶摇</a></li>
 <li><a href="/cbnews/20240629/2055974.md">中印关系紧张 印度莫迪不出席上合会</a></li>
+<li><a href="/cnnews/20240628/2055721.md">砍日本小孩的事已经三天，氛围越来越奇怪了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240629/2056165.md" target="_blank">江峰：身故不予追究？秦刚缺席审查通报； 李尚福贵为防长还“行贿”，谁是受贿人？魏凤和，习最信任上将惊爆谋反；“中国人刺伤日本人”到“中国人拯救日本人”的精妙【江峰漫谈20240628第892期】</a></li>
 <li><a href="/cbnews/20240629/2056139.md" target="_blank">六天六名中共省部级高官与高级将领病亡</a></li>
 <li><a href="/cbnews/20240629/2056138.md" target="_blank">三中全会前 王沪宁为习量身打造一套话术？</a></li>
 <li><a href="/cbnews/20240629/2056137.md" target="_blank">三中全会前夕 中共省部级“一把手”密集调动</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20240628/2055853.md" target="_blank">拜登川普辩论 你必须知道的7个看点</a></li>
 <li><a href="/comments/20240628/2055843.md" target="_blank">重温辩论前的6大看点，现在的答案是什么？</a></li>
 <li><a href="/cbnews/20240628/2055770.md" target="_blank">澳媒：人权律师揭中共系统性活摘器官的惨烈真相</a></li>
-<li><a href="/cbnews/20240628/2055734.md" target="_blank">中国2防长落马 王丹酸习近平：解放军就贪腐大本营</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
-<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20231220/1976683.md" target="_blank">医山夜话：张锡纯医案解读（二）根治胃气不降之证</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/topimagenews/20180608/954788.md" target="_blank">安乐死根本安乐不了，别宣传了</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
+<li><a href="/comments/20231213/1973586.md" target="_blank">六道轮回之畜生道</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/cnnews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20231130/1967587.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （一）</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20231214/1974098.md" target="_blank">美国众议院议长：我所坚守的保守主义，具体是些什么内容？</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
 
 </ul>
 </div>
