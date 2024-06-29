@@ -11,23 +11,23 @@
 <li><a href="/headline/20240628/2055808.md">秦刚传问题不严重 有可能平安着陆</a></li>
 <li><a href="/sohnews/20240628/2055771.md">石破天惊：魏凤和李尚福因刺杀习出事，全国人大制定法律恢复人民公社，卢沙野说中国内战没有结束。《老灯开讲第597期》</a></li>
 <li><a href="/topimagenews/20240628/2055810.md">傻眼！南京碧桂园房价从1万3跌倒3千 大陆多地房价跌跌不休</a></li>
-<li><a href="/topimagenews/20240628/2055673.md">习近平抛李尚福魏凤和案 留了个尾巴</a></li>
-<li><a href="/topimagenews/20240628/2055674.md">【微博精粹】中共国开启“通缩繁荣”时代</a></li>
-<li><a href="/topimagenews/20240628/2055900.md">美军爆发现非人类飞行员尸体 哈佛论文颠覆人类想像</a></li>
 <li><a href="/topimagenews/20240629/2056014.md">盟主痛失上海滩！上海帮决定性影响中共政坛30年</a></li>
+<li><a href="/topimagenews/20240628/2055900.md">美军爆发现非人类飞行员尸体 哈佛论文颠覆人类想像</a></li>
 <li><a href="/yule/20240629/2055957.md">出轨十年 马伊琍偷腥夫似老头 网：变得唯唯诺诺</a></li>
+<li><a href="/topimagenews/20240629/2056095.md">爆料：原中共总参政治部主任耿燎原在家自缢身亡‼️</a></li>
 <li><a href="/cbnews/20240628/2055716.md">日使馆降半旗致敬！阻袭击日本人 中国女士伤重离世</a></li>
 <li><a href="/sohnews/20240628/2055880.md">习近平非常担心发生政变兵变，军队中可能已有苗头出现</a></li>
 <li><a href="/health/20240628/2055839.md">惜命最好的方式 现在知道还不晚</a></li>
 <li><a href="/topimagenews/20240628/2055733.md">美大选首场辩论：拜登不时结巴 川普奚落</a></li>
-<li><a href="/topimagenews/20240629/2056095.md">爆料：原中共总参政治部主任耿燎原在家自缢身亡‼️</a></li>
-<li><a href="/cbnews/20240628/2055734.md">中国2防长落马 王丹酸习近平：解放军就贪腐大本营</a></li>
+<li><a href="/topimagenews/20240629/2056094.md">习近平签署主席令 集体经济真的来了</a></li>
 <li><a href="/ccpdope/20240629/2056008.md">日本使馆降半旗致哀胡友平 告诉中国人两件事</a></li>
 <li><a href="/topimagenews/20240629/2056015.md">“绝对是惨案+国际头条” 如果没有胡友平付出生命</a></li>
-<li><a href="/cnnews/20240628/2055721.md">砍日本小孩的事已经三天，氛围越来越奇怪了</a></li>
+<li><a href="/cbnews/20240628/2055734.md">中国2防长落马 王丹酸习近平：解放军就贪腐大本营</a></li>
+<li><a href="/topimagenews/20240629/2056034.md">全国震惊！“万亿帝国”正式进入破产清算</a></li>
 <li><a href="/topimagenews/20240629/2056013.md">一个时代结束！中共政府要求员工退薪;北京发“安民告示”？A股公司恐难逃一劫</a></li>
+<li><a href="/cnnews/20240628/2055721.md">砍日本小孩的事已经三天，氛围越来越奇怪了</a></li>
 <li><a href="/comments/20240628/2055854.md">日本预言家和尚：三灾七难之后，世界重新洗牌；中了1.5亿彩票，神安排他做一件事；天生能嗅到死亡的味道，并亲眼见证轮回！｜未解之谜 扶摇</a></li>
-<li><a href="/topimagenews/20240628/2055692.md">李尚福曾给谁行贿？军委副主席还是悬了【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20240629/2055974.md">中印关系紧张 印度莫迪不出席上合会</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240629/2056149.md" target="_blank">背叛习近平 2将军面临审判 还有人会落马</a></li>
 <li><a href="/topimagenews/20240629/2056115.md" target="_blank">拜登灾难90分钟 金主震惊“真实状态那么糟”</a></li>
 <li><a href="/topimagenews/20240629/2056114.md" target="_blank">摊牌了！民主党大分裂 纽时跟奥巴马干上了</a></li>
 <li><a href="/topimagenews/20240629/2056095.md" target="_blank">爆料：原中共总参政治部主任耿燎原在家自缢身亡‼️</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20240628/2055692.md" target="_blank">李尚福曾给谁行贿？军委副主席还是悬了【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240628/2055674.md" target="_blank">【微博精粹】中共国开启“通缩繁荣”时代</a></li>
 <li><a href="/topimagenews/20240628/2055673.md" target="_blank">习近平抛李尚福魏凤和案 留了个尾巴</a></li>
-<li><a href="/topimagenews/20240628/2055655.md" target="_blank">是的，我开始担心银行了….</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240629/2056153.md" target="_blank">遭删文：体制内单身女难了</a></li>
 <li><a href="/comments/20240629/2056123.md" target="_blank">竹不倒：把电瓶车砸掉也不给你没收，是一种什么样的声音？</a></li>
 <li><a href="/comments/20240629/2056122.md" target="_blank">三辉图书：紧急状态志事</a></li>
 <li><a href="/comments/20240629/2056121.md" target="_blank">城市的地得:善良而勇敢的人，不该如此孤立</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240629/2056021.md" target="_blank">朱高峰：李尚福的“罪名待定”</a></li>
 <li><a href="/comments/20240629/2056020.md" target="_blank">谢田：中国经济病入膏肓 固本培元为时已晚</a></li>
 <li><a href="/comments/20240629/2056019.md" target="_blank">惠虎宇：《三体》——一部无根的科幻</a></li>
-<li><a href="/comments/20240629/2056011.md" target="_blank">从094紧急上浮 看中国核潜艇部署和保养｜兵家常事（2024-6-29）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/ssgc/20240508/2034288.md" target="_blank">《透视“进化论”》第九章 人类起源问题的终极答案</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
+<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
 <li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20231220/1976683.md" target="_blank">医山夜话：张锡纯医案解读（二）根治胃气不降之证</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
 
 </ul>
 </div>
