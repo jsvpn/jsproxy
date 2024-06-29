@@ -12,22 +12,22 @@
 <li><a href="/topimagenews/20240629/2056014.md">盟主痛失上海滩！上海帮决定性影响中共政坛30年</a></li>
 <li><a href="/topimagenews/20240629/2056034.md">全国震惊！“万亿帝国”正式进入破产清算</a></li>
 <li><a href="/ccpdope/20240629/2056008.md">日本使馆降半旗致哀胡友平 告诉中国人两件事</a></li>
-<li><a href="/topimagenews/20240629/2056015.md">“绝对是惨案+国际头条” 如果没有胡友平付出生命</a></li>
 <li><a href="/cbnews/20240629/2056138.md">三中全会前 王沪宁为习量身打造一套话术？</a></li>
+<li><a href="/topimagenews/20240629/2056015.md">“绝对是惨案+国际头条” 如果没有胡友平付出生命</a></li>
 <li><a href="/topimagenews/20240629/2056013.md">一个时代结束！中共政府要求员工退薪;北京发“安民告示”？A股公司恐难逃一劫</a></li>
-<li><a href="/topimagenews/20240629/2056149.md">背叛习近平 2将军面临审判 还有人会落马</a></li>
 <li><a href="/comments/20240629/2056111.md">胡友平身後：日本下半旗、全面启动撤资！李强急躲李克强游泳池？“反倒车讲话”触怒习近平，蔡奇咋办？</a></li>
+<li><a href="/topimagenews/20240629/2056149.md">背叛习近平 2将军面临审判 还有人会落马</a></li>
 <li><a href="/cbnews/20240629/2056139.md">六天六名中共省部级高官与高级将领病亡</a></li>
-<li><a href="/topimagenews/20240629/2056049.md">指纹揭穿假面！明艳动人的女华裔市长背后有中共权贵撑腰吗</a></li>
-<li><a href="/cbnews/20240629/2056183.md">从身后抱住凶手 苏州胡友平救人细节曝光</a></li>
-<li><a href="/cbnews/20240629/2056078.md">他被抓很不正常！围剿赵乐际？亲信基本被团灭</a></li>
 <li><a href="/topimagenews/20240629/2056251.md">拜登 奥巴马和克林顿接连发声</a></li>
+<li><a href="/cbnews/20240629/2056183.md">从身后抱住凶手 苏州胡友平救人细节曝光</a></li>
+<li><a href="/topimagenews/20240629/2056049.md">指纹揭穿假面！明艳动人的女华裔市长背后有中共权贵撑腰吗</a></li>
+<li><a href="/cbnews/20240629/2056078.md">他被抓很不正常！围剿赵乐际？亲信基本被团灭</a></li>
 <li><a href="/cnnews/20240629/2056061.md">活得自在！前央视主持现身以色列</a></li>
-<li><a href="/comments/20240629/2056153.md">遭删文：体制内单身女难了</a></li>
 <li><a href="/ssgc/20240629/2056194.md">〖微博谈〗开倒车真的悲哀</a></li>
-<li><a href="/cbnews/20240629/2055974.md">中印关系紧张 印度莫迪不出席上合会</a></li>
+<li><a href="/comments/20240629/2056153.md">遭删文：体制内单身女难了</a></li>
 <li><a href="/ccpdope/20240629/2056208.md">天意！灵隐寺发大水与他的到来有关？</a></li>
-<li><a href="/cbnews/20240629/2056137.md">三中全会前夕 中共省部级“一把手”密集调动</a></li>
+<li><a href="/sohnews/20240629/2056226.md">必须死：苏州胡友平烈士被官方在医院杀害，几件令人惊悚的消息，新法律授权县级政府动用军队镇压。《老灯开讲第598期》</a></li>
+<li><a href="/cbnews/20240629/2055974.md">中印关系紧张 印度莫迪不出席上合会</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240629/2056318.md" target="_blank">民主党换帅的办法之一方伟时间总统辩论民主党</a></li>
+<li><a href="/cbnews/20240629/2056313.md" target="_blank">一年12名将领落马 专家：中共战力遭打击</a></li>
 <li><a href="/cbnews/20240629/2056277.md" target="_blank">江苏南通两船相撞 一船沉没 6人落水</a></li>
 <li><a href="/cbnews/20240629/2056276.md" target="_blank">浙江女洪水中弹古筝 哀叹：开民宿一周被冲毁</a></li>
 <li><a href="/cbnews/20240629/2056264.md" target="_blank">路透社：川普盟友向日韩保证 再次当选将深化合作对抗中国和北韩</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/comments/20240629/2056048.md" target="_blank">川拜首次辩论成大选拐点：2024， 我们还能选出总统吗？｜方菲时间</a></li>
 <li><a href="/comments/20240629/2056033.md" target="_blank">拜登-川普之辩，重现尼克松-肯尼迪电视辩论经历方伟时间电视辩论总统大选拜登川普</a></li>
 <li><a href="/cbnews/20240629/2056016.md" target="_blank">残忍 13岁男生杀害8岁女童！侮辱遗体</a></li>
-<li><a href="/cbnews/20240629/2056007.md" target="_blank">菲参议员：调查显示菲律宾小城女市长是中国人</a></li>
-<li><a href="/comments/20240629/2056006.md" target="_blank">拜登辩论惨败后，民主党会换人吗？</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240629/2056318.md" target="_blank">民主党换帅的办法之一方伟时间总统辩论民主党</a></li>
 <li><a href="/comments/20240629/2056275.md" target="_blank">天亮时分：我为什麽看了两分钟就认为拜登输了？#天亮时分 #总统辩论 #美国大选</a></li>
 <li><a href="/comments/20240629/2056257.md" target="_blank">渖涧松：她那年十九岁（连载四十二）</a></li>
 <li><a href="/comments/20240629/2056246.md" target="_blank">李强：历史倒车🚛脱钩断炼🤯割裂地区💥</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240629/2056033.md" target="_blank">拜登-川普之辩，重现尼克松-肯尼迪电视辩论经历方伟时间电视辩论总统大选拜登川普</a></li>
 <li><a href="/comments/20240629/2056025.md" target="_blank">陈嘉宏:中共国“指导”台湾政论节目 是利用民主攻击民主</a></li>
 <li><a href="/comments/20240629/2056024.md" target="_blank">蔡慎坤:习近平靠清洗将领控制枪杆子</a></li>
-<li><a href="/comments/20240629/2056023.md" target="_blank">真相惊人！黄埔军校的DNA</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/taiwannews/20210119/1470761.md" target="_blank">独家：震撼纪录片《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
 <li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/topimagenews/20180608/954788.md" target="_blank">安乐死根本安乐不了，别宣传了</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
 <li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20231201/1968320.md" target="_blank">【非凡新闻】结合中西文化精神 美国神韵表演吸睛</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
 
 </ul>
 </div>
