@@ -8,11 +8,10 @@
 <li><a href="/baitai/20240628/2055862.md">北京传破天荒消息 习着手筹备大事</a></li>
 <li><a href="/headline/20240628/2055808.md">秦刚传问题不严重 有可能平安着陆</a></li>
 <li><a href="/topimagenews/20240629/2056094.md">习近平签署主席令 集体经济真的来了</a></li>
-<li><a href="/sohnews/20240628/2055771.md">石破天惊：魏凤和李尚福因刺杀习出事，全国人大制定法律恢复人民公社，卢沙野说中国内战没有结束。《老灯开讲第597期》</a></li>
 <li><a href="/topimagenews/20240629/2056095.md">爆料：原中共总参政治部主任耿燎原在家自缢身亡‼️</a></li>
 <li><a href="/topimagenews/20240628/2055810.md">傻眼！南京碧桂园房价从1万3跌倒3千 大陆多地房价跌跌不休</a></li>
-<li><a href="/sohnews/20240628/2055880.md">习近平非常担心发生政变兵变，军队中可能已有苗头出现</a></li>
 <li><a href="/yule/20240629/2055957.md">出轨十年 马伊琍偷腥夫似老头 网：变得唯唯诺诺</a></li>
+<li><a href="/sohnews/20240628/2055880.md">习近平非常担心发生政变兵变，军队中可能已有苗头出现</a></li>
 <li><a href="/topimagenews/20240628/2055900.md">美军爆发现非人类飞行员尸体 哈佛论文颠覆人类想像</a></li>
 <li><a href="/topimagenews/20240629/2056014.md">盟主痛失上海滩！上海帮决定性影响中共政坛30年</a></li>
 <li><a href="/health/20240628/2055839.md">惜命最好的方式 现在知道还不晚</a></li>
@@ -20,14 +19,15 @@
 <li><a href="/ccpdope/20240629/2056008.md">日本使馆降半旗致哀胡友平 告诉中国人两件事</a></li>
 <li><a href="/topimagenews/20240629/2056015.md">“绝对是惨案+国际头条” 如果没有胡友平付出生命</a></li>
 <li><a href="/topimagenews/20240629/2056013.md">一个时代结束！中共政府要求员工退薪;北京发“安民告示”？A股公司恐难逃一劫</a></li>
-<li><a href="/cnnews/20240629/2056061.md">活得自在！前央视主持现身以色列</a></li>
 <li><a href="/baitai/20240628/2055803.md">中共抓间谍 多地居委会上门要求别与海外通话</a></li>
+<li><a href="/cnnews/20240629/2056061.md">活得自在！前央视主持现身以色列</a></li>
 <li><a href="/topimagenews/20240629/2056049.md">指纹揭穿假面！明艳动人的女华裔市长背后有中共权贵撑腰吗</a></li>
 <li><a href="/comments/20240628/2055854.md">日本预言家和尚：三灾七难之后，世界重新洗牌；中了1.5亿彩票，神安排他做一件事；天生能嗅到死亡的味道，并亲眼见证轮回！｜未解之谜 扶摇</a></li>
+<li><a href="/comments/20240629/2056111.md">胡友平身後：日本下半旗、全面启动撤资！李强急躲李克强游泳池？“反倒车讲话”触怒习近平，蔡奇咋办？</a></li>
+<li><a href="/cbnews/20240629/2056138.md">三中全会前 王沪宁为习量身打造一套话术？</a></li>
 <li><a href="/cbnews/20240629/2055974.md">中印关系紧张 印度莫迪不出席上合会</a></li>
 <li><a href="/cbnews/20240629/2056078.md">他被抓很不正常！围剿赵乐际？亲信基本被团灭</a></li>
 <li><a href="/finance/20240629/2056053.md">亚洲最大输家 中共国跳水85％</a></li>
-<li><a href="/cnnews/20240629/2056065.md">中国老翁用拐杖扒拉拒让座少女两腿间 后续来了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
 <li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20240418/2026391.md" target="_blank">医生劝我妻子放弃，似乎这些医生热衷让病人快点去死？</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
+<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
 <li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/comments/20231204/1969287.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （三）</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20231201/1968320.md" target="_blank">【非凡新闻】结合中西文化精神 美国神韵表演吸睛</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
 
 </ul>
 </div>
