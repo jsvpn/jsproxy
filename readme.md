@@ -14,20 +14,20 @@
 <li><a href="/sohnews/20240629/2056307.md">胡锡进惨了！</a></li>
 <li><a href="/topimagenews/20240629/2056250.md">俄军伤亡激增 装甲车消耗殆尽</a></li>
 <li><a href="/ssgc/20240630/2056349.md">全国人大常委会通过《农村集体经济组织法》 下一步人民公社？</a></li>
-<li><a href="/cnnews/20240630/2056404.md">10万元买8套房！它打败鹤岗成为最便宜城市</a></li>
 <li><a href="/topimagenews/20240630/2056511.md">惊爆：习近平疯狂情商核心</a></li>
+<li><a href="/cnnews/20240630/2056404.md">10万元买8套房！它打败鹤岗成为最便宜城市</a></li>
 <li><a href="/topimagenews/20240630/2056376.md">令人发指！中共弥天大谎 可疑事接连发生</a></li>
 <li><a href="/topimagenews/20240630/2056422.md">全网封杀：重磅！北京曾领先世界免费医疗 好成这样</a></li>
-<li><a href="/topimagenews/20240630/2056442.md">亚洲最大输家，中共国跳水85％；全国震惊！“万亿帝国”正式进入破产清算</a></li>
-<li><a href="/comments/20240630/2056363.md">对中国经济 李强说了总理该说的实话......</a></li>
-<li><a href="/topimagenews/20240630/2056396.md">法拍数据有多恐怖？看后今夜无人入睡</a></li>
 <li><a href="/topimagenews/20240630/2056502.md">习近平大势已去 枪杆子与刀把子能否让他苟且残喘？</a></li>
-<li><a href="/sohnews/20240629/2056261.md">陈破空：传秦刚降为副局级？顾忌第一夫人面子。李尚福向魏凤和行贿？张又侠危急！公安阻扰苏州民众献花。首场辩论拜登大败！民主党喊换人。直播与互动：美东时间6月29日早9点、中港台当日晚9点</a></li>
-<li><a href="/ccpdope/20240630/2056373.md">中国灾情 外国领导人为何不再慰问华人和捐款</a></li>
-<li><a href="/cbnews/20240630/2056410.md">场面血腥 广西小区保安杀害一对夫妻</a></li>
-<li><a href="/sohnews/20240629/2056294.md">两部恶法修订、通过！中国飞速奔向奴隶公社……农村集体经济组织法突发事件应对法修订</a></li>
+<li><a href="/topimagenews/20240630/2056442.md">亚洲最大输家，中共国跳水85％；全国震惊！“万亿帝国”正式进入破产清算</a></li>
 <li><a href="/baitai/20240630/2056482.md">习近平签署主席令 苦日子要回来了</a></li>
-<li><a href="/cbnews/20240629/2056276.md">浙江女洪水中弹古筝 哀叹：开民宿一周被冲毁</a></li>
+<li><a href="/comments/20240630/2056363.md">对中国经济 李强说了总理该说的实话......</a></li>
+<li><a href="/sohnews/20240629/2056261.md">陈破空：传秦刚降为副局级？顾忌第一夫人面子。李尚福向魏凤和行贿？张又侠危急！公安阻扰苏州民众献花。首场辩论拜登大败！民主党喊换人。直播与互动：美东时间6月29日早9点、中港台当日晚9点</a></li>
+<li><a href="/topimagenews/20240630/2056396.md">法拍数据有多恐怖？看后今夜无人入睡</a></li>
+<li><a href="/cbnews/20240630/2056410.md">场面血腥 广西小区保安杀害一对夫妻</a></li>
+<li><a href="/ccpdope/20240630/2056373.md">中国灾情 外国领导人为何不再慰问华人和捐款</a></li>
+<li><a href="/sohnews/20240629/2056294.md">两部恶法修订、通过！中国飞速奔向奴隶公社……农村集体经济组织法突发事件应对法修订</a></li>
+<li><a href="/topimagenews/20240630/2056471.md">【微博精粹】西韩正秒速克隆北韩</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/aomi/life/20240330/2018911.md" target="_blank">挪威青年这样走出重度失眠和抑郁煎熬</a></li>
-<li><a href="/comments/20240403/2020547.md" target="_blank">纪录片：DSM诊断与统计手册-精神病学最要命的骗局</a></li>
-<li><a href="/comments/20240412/2024185.md" target="_blank">是治疗还是屠杀?化疗药品滴一滴在皮肤即灼伤，很长时间才好</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20240418/2026391.md" target="_blank">医生劝我妻子放弃，似乎这些医生热衷让病人快点去死？</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
 <li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/cbnews/20190701/1151453.md" target="_blank">盘点十大邪教特征 中共条条对号入座</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/cnnews/20221211/1822144.md" target="_blank">盖盖冲马桶很可怕！瞬间“病毒炸开”？</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
 
 </ul>
 </div>
