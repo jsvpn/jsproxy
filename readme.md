@@ -14,19 +14,19 @@
 <li><a href="/ssgc/20240630/2056349.md">全国人大常委会通过《农村集体经济组织法》 下一步人民公社？</a></li>
 <li><a href="/topimagenews/20240630/2056502.md">习近平大势已去 枪杆子与刀把子能否让他苟且残喘？</a></li>
 <li><a href="/cnnews/20240630/2056404.md">10万元买8套房！它打败鹤岗成为最便宜城市</a></li>
-<li><a href="/topimagenews/20240630/2056376.md">令人发指！中共弥天大谎 可疑事接连发生</a></li>
 <li><a href="/comments/20240630/2056363.md">对中国经济 李强说了总理该说的实话......</a></li>
+<li><a href="/topimagenews/20240630/2056376.md">令人发指！中共弥天大谎 可疑事接连发生</a></li>
+<li><a href="/topimagenews/20240630/2056550.md">网传“数学天才”姜萍被拘禁</a></li>
 <li><a href="/baitai/20240630/2056482.md">习近平签署主席令 苦日子要回来了</a></li>
 <li><a href="/topimagenews/20240630/2056422.md">全网封杀：重磅！北京曾领先世界免费医疗 好成这样</a></li>
 <li><a href="/topimagenews/20240630/2056442.md">亚洲最大输家，中共国跳水85％；全国震惊！“万亿帝国”正式进入破产清算</a></li>
 <li><a href="/sohnews/20240629/2056294.md">两部恶法修订、通过！中国飞速奔向奴隶公社……农村集体经济组织法突发事件应对法修订</a></li>
 <li><a href="/cbnews/20240630/2056410.md">场面血腥 广西小区保安杀害一对夫妻</a></li>
-<li><a href="/topimagenews/20240630/2056550.md">网传“数学天才”姜萍被拘禁</a></li>
+<li><a href="/sohnews/20240630/2056547.md">最新：秦刚转任世界知识出版社社长，习与张最后决斗，中国经济危机演化路径。《老灯开讲第599期》</a></li>
 <li><a href="/topimagenews/20240630/2056471.md">【微博精粹】西韩正秒速克隆北韩</a></li>
 <li><a href="/cnnews/20240630/2056477.md">警惕！习近平亲自出场自打耳光</a></li>
 <li><a href="/ccpdope/20240630/2056373.md">中国灾情 外国领导人为何不再慰问华人和捐款</a></li>
 <li><a href="/topimagenews/20240630/2056396.md">法拍数据有多恐怖？看后今夜无人入睡</a></li>
-<li><a href="/sohnews/20240630/2056547.md">最新：秦刚转任世界知识出版社社长，习与张最后决斗，中国经济危机演化路径。《老灯开讲第599期》</a></li>
 <li><a href="/topimagenews/20240630/2056487.md">【微博精粹】它们迟早被义和团反杀</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240630/2056620.md" target="_blank">连小学生都不放过！发动家长这样「管」小孩</a></li>
+<li><a href="/comments/20240630/2056619.md" target="_blank">【#香港主权移交27年 时间线】 “被文明征服是幸运，被野蛮征服是灾难。真正的天堂，你可以骂它是地狱。真正的地狱，你只能夸它是天堂。 ​​​”——泰戈尔</a></li>
 <li><a href="/comments/20240630/2056608.md" target="_blank">美国的党派政治   不是常态而是错误</a></li>
 <li><a href="/comments/20240630/2056605.md" target="_blank">没钱就抢 历史在重演方菲时间中国经济</a></li>
 <li><a href="/comments/20240630/2056541.md" target="_blank">如实讲述胡女士的事迹，才是对她最好的纪念</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240630/2056400.md" target="_blank">普林斯在平壤：朝鲜八届十中全会主席台巨变！为修宪准备？</a></li>
 <li><a href="/comments/20240630/2056399.md" target="_blank">洋同学的宏观笔记：本届三中全会，这四个方面都要放低期待</a></li>
 <li><a href="/comments/20240630/2056385.md" target="_blank">如果民主党换人，拜登什么态度？方伟时间总统辩论拜登民主党</a></li>
-<li><a href="/comments/20240630/2056383.md" target="_blank">玖奌杂货店：天津为胡友平点亮天塔，纪念一个大写的人</a></li>
-<li><a href="/comments/20240630/2056363.md" target="_blank">对中国经济 李强说了总理该说的实话&#8230;&#8230;</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20190701/1151501.md" target="_blank">【特稿】中国共产党是邪教组织</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
 <li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
-<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20231212/1972297.md" target="_blank">日本华人确诊晚期直肠癌，修炼法轮功恢复健康（图）</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/cbnews/20190701/1151453.md" target="_blank">盘点十大邪教特征 中共条条对号入座</a></li>
-<li><a href="/taiwannews/20210119/1470524.md" target="_blank">纪录片《蚕食美国1》</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
 
 </ul>
 </div>
