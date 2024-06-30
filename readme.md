@@ -7,15 +7,15 @@
 
 <li><a href="/topimagenews/20240630/2056379.md">个税APP巨变，中国房东们瑟瑟发抖了</a></li>
 <li><a href="/sohnews/20240629/2056307.md">胡锡进惨了！</a></li>
-<li><a href="/topimagenews/20240630/2056511.md">惊爆：习近平疯狂情商核心</a></li>
 <li><a href="/topimagenews/20240630/2056397.md">中国正进入大冻结时代 普通人势必会越来越疼</a></li>
+<li><a href="/topimagenews/20240630/2056511.md">惊爆：习近平疯狂情商核心</a></li>
 <li><a href="/topimagenews/20240630/2056550.md">网传“数学天才”姜萍被拘禁</a></li>
 <li><a href="/ssgc/20240630/2056349.md">全国人大常委会通过《农村集体经济组织法》 下一步人民公社？</a></li>
 <li><a href="/cnnews/20240630/2056404.md">10万元买8套房！它打败鹤岗成为最便宜城市</a></li>
-<li><a href="/topimagenews/20240630/2056502.md">习近平大势已去 枪杆子与刀把子能否让他苟且残喘？</a></li>
 <li><a href="/comments/20240630/2056363.md">对中国经济 李强说了总理该说的实话......</a></li>
-<li><a href="/topimagenews/20240630/2056376.md">令人发指！中共弥天大谎 可疑事接连发生</a></li>
 <li><a href="/sohnews/20240630/2056547.md">最新：秦刚转任世界知识出版社社长，习与张最后决斗，中国经济危机演化路径。《老灯开讲第599期》</a></li>
+<li><a href="/topimagenews/20240630/2056502.md">习近平大势已去 枪杆子与刀把子能否让他苟且残喘？</a></li>
+<li><a href="/topimagenews/20240630/2056376.md">令人发指！中共弥天大谎 可疑事接连发生</a></li>
 <li><a href="/baitai/20240630/2056482.md">习近平签署主席令 苦日子要回来了</a></li>
 <li><a href="/topimagenews/20240630/2056422.md">全网封杀：重磅！北京曾领先世界免费医疗 好成这样</a></li>
 <li><a href="/topimagenews/20240630/2056442.md">亚洲最大输家，中共国跳水85％；全国震惊！“万亿帝国”正式进入破产清算</a></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240630/2056634.md" target="_blank">天亮时分：为什麽说中共是一个非法政权？</a></li>
 <li><a href="/comments/20240630/2056620.md" target="_blank">连小学生都不放过！发动家长这样「管」小孩</a></li>
 <li><a href="/comments/20240630/2056619.md" target="_blank">【#香港主权移交27年 时间线】 “被文明征服是幸运，被野蛮征服是灾难。真正的天堂，你可以骂它是地狱。真正的地狱，你只能夸它是天堂。 ​​​”——泰戈尔</a></li>
 <li><a href="/comments/20240630/2056608.md" target="_blank">美国的党派政治   不是常态而是错误</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240630/2056401.md" target="_blank">专访吴嘉隆：倒查税30年等同抢劫，中共走入朝代崩溃末期，多重危机同时爆发｜方菲时间</a></li>
 <li><a href="/comments/20240630/2056400.md" target="_blank">普林斯在平壤：朝鲜八届十中全会主席台巨变！为修宪准备？</a></li>
 <li><a href="/comments/20240630/2056399.md" target="_blank">洋同学的宏观笔记：本届三中全会，这四个方面都要放低期待</a></li>
-<li><a href="/comments/20240630/2056385.md" target="_blank">如果民主党换人，拜登什么态度？方伟时间总统辩论拜登民主党</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20240623/2053092.md" target="_blank">章天亮：那些行于世间的觉者</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20231207/1970628.md" target="_blank">民兵对官军，希望之声打造广播界的奇蹟【方伟时间-20231206】</a></li>
+<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
 <li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/comments/20190701/1151501.md" target="_blank">【特稿】中国共产党是邪教组织</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
-<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/ssgc/20240508/2034288.md" target="_blank">《透视“进化论”》第九章 人类起源问题的终极答案</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
 <li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
 
 </ul>
 </div>
