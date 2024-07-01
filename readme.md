@@ -18,16 +18,16 @@
 <li><a href="/sohnews/20240630/2056592.md">陈破空：共军乱了！上将潜逃被抓。总参政治部主任自杀。军委办公厅主任失踪。惊奇！李克强显灵：长江惊现习下李上！直播与互动：美东时间6月30日早9点、中港台当日晚9点</a></li>
 <li><a href="/baitai/20240630/2056553.md">苏州事件剧情再反转！胡女士被死亡？</a></li>
 <li><a href="/topimagenews/20240630/2056487.md">【微博精粹】它们迟早被义和团反杀</a></li>
-<li><a href="/yule/20240630/2056642.md">万茜曝上学时没人追 看校服照后网友：这谁敢追</a></li>
 <li><a href="/cnnews/20240630/2056607.md">美国近一半电动车主后悔了 头号原因是…</a></li>
+<li><a href="/yule/20240630/2056642.md">万茜曝上学时没人追 看校服照后网友：这谁敢追</a></li>
 <li><a href="/cnnews/20240630/2056508.md">川普气势大涨 传已与妻子达成协议</a></li>
 <li><a href="/cbnews/20240630/2056503.md">胡友平救人遇难 分析：中共在隐瞒什么</a></li>
 <li><a href="/yule/20240630/2056529.md">北京急了！台湾金曲奖典礼 出现一个大胆的她</a></li>
+<li><a href="/ccpdope/20240701/2056662.md">数百中国游客在越南挥血旗 旅行社被罚5150万盾</a></li>
 <li><a href="/lifebaike/20240630/2056507.md">开车10年才知道“天窗”的作用，而许多车主开到报废都不懂，浪费</a></li>
 <li><a href="/topimagenews/20240630/2056624.md">量子计算机技术 美国100分中国35分韩国2.3分</a></li>
 <li><a href="/yule/20240630/2056515.md">那英被曝染病 何炅哽咽透露…</a></li>
 <li><a href="/cbnews/20240630/2056603.md">坚不可摧 美国号航母被轰炸四周仍漂浮海上</a></li>
-<li><a href="/ccpdope/20240701/2056662.md">数百中国游客在越南挥血旗 旅行社被罚5150万盾</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240701/2056727.md" target="_blank">复刻明朝模式 中共包袱太重了方菲时间中国经济</a></li>
 <li><a href="/cbnews/20240701/2056715.md" target="_blank">台湾重申互不隶属 分析：中共才是叛乱政权</a></li>
 <li><a href="/cbnews/20240701/2056712.md" target="_blank">江峰：习近平最信任上将魏凤和「两面人」谋反？</a></li>
 <li><a href="/cbnews/20240701/2056691.md" target="_blank">他是“唯一确定的习家军”，没想到还是出事了</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20240630/2056512.md" target="_blank">首席大法官罗伯茨带头裁定J6抗议者赢，一自由派大法官反水。奥巴马密会拜登，继续支持拜登原因曝光。《纽时》与奥巴马唱反调。拜登电视辩论最高法院</a></li>
 <li><a href="/cbnews/20240630/2056504.md" target="_blank">长江形势严峻 武汉渡轮全日停航</a></li>
 <li><a href="/cbnews/20240630/2056503.md" target="_blank">胡友平救人遇难 分析：中共在隐瞒什么</a></li>
-<li><a href="/comments/20240630/2056492.md" target="_blank">神祕金属柱 诡现高山！</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240701/2056727.md" target="_blank">复刻明朝模式 中共包袱太重了方菲时间中国经济</a></li>
+<li><a href="/comments/20240701/2056716.md" target="_blank">胡友平遭中共灭口？家属声明出自谁手？</a></li>
 <li><a href="/comments/20240701/2056706.md" target="_blank">惊呆！俄向菲交付导弹系统 对付南海“某大国”</a></li>
 <li><a href="/comments/20240701/2056702.md" target="_blank">文昭：倒查30年！一场另类的内战正在进行中【会员样片节选】</a></li>
 <li><a href="/comments/20240701/2056693.md" target="_blank">情况正在反方向变 中共搬石砸脚招来坏处这么多</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240630/2056445.md" target="_blank">思琪：中国成立警税合成作战中心是何用意？</a></li>
 <li><a href="/comments/20240630/2056428.md" target="_blank">早川太基：姑苏胡氏哀辞幷序</a></li>
 <li><a href="/comments/20240630/2056427.md" target="_blank">阴霾密布大难临头，三中全会保命至上</a></li>
-<li><a href="/comments/20240630/2056426.md" target="_blank">最高法院三大案 带来广泛影响</a></li>
-<li><a href="/comments/20240630/2056420.md" target="_blank">【中国时局】上海副部级高官施平病逝 系西湖大学校长院士施一公祖父</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/comments/20230920/1936271.md" target="_blank">防止你的孩子不成功（5） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/cnnews/20221211/1822144.md" target="_blank">盖盖冲马桶很可怕！瞬间“病毒炸开”？</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
 
 </ul>
 </div>
