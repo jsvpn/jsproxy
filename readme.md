@@ -15,18 +15,18 @@
 <li><a href="/ccpdope/20240701/2056662.md">数百中国游客在越南挥血旗 旅行社被罚5150万盾</a></li>
 <li><a href="/topimagenews/20240701/2056714.md">新中国起点！风起云涌 中国各阶层纷纷对中共说“不”</a></li>
 <li><a href="/cbnews/20240701/2056841.md">两任防长落马：习家军全被淘汰，军队内斗空前</a></li>
-<li><a href="/comments/20240701/2056764.md">三中全会定高调 一男一女成死敌</a></li>
 <li><a href="/topimagenews/20240701/2056713.md">爆炸新闻！绍伊古“钱袋子”，俄前国防女副部长携款逃巴黎</a></li>
+<li><a href="/comments/20240701/2056764.md">三中全会定高调 一男一女成死敌</a></li>
 <li><a href="/topimagenews/20240701/2056672.md">神秘赊刀人再现 语出惊人！“人脱衣而出”？【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20240701/2056788.md">〖红朝浮世绘〗各大平台被日资控制了？抗日锄奸事业出师未捷身先死</a></li>
 <li><a href="/cbnews/20240701/2056836.md">传北京两天两起跳楼事件 有大学生被砸死</a></li>
-<li><a href="/ssgc/20240701/2056774.md">〖微博谈〗盒子打开了想关起来可没那么容易</a></li>
 <li><a href="/topimagenews/20240701/2056776.md">欢声笑语美女 回中国一趟变成这样了</a></li>
+<li><a href="/ssgc/20240701/2056774.md">〖微博谈〗盒子打开了想关起来可没那么容易</a></li>
+<li><a href="/topimagenews/20240701/2056888.md">耿爽不爽了! 中国外交陷困境 他整个眉头纠结在一起.....</a></li>
 <li><a href="/topimagenews/20240701/2056704.md">广州楼市，扑街了…还有更尴尬的</a></li>
 <li><a href="/topimagenews/20240701/2056687.md">29国联手警告中共</a></li>
 <li><a href="/cbnews/20240701/2056791.md">黑龙江突发重大车祸 已致5死12伤 知情者曝内幕</a></li>
 <li><a href="/topimagenews/20240701/2056737.md">快讯：马克龙政治豪赌惨输</a></li>
-<li><a href="/topimagenews/20240701/2056888.md">耿爽不爽了! 中国外交陷困境 他整个眉头纠结在一起.....</a></li>
 <li><a href="/cbnews/20240701/2056892.md">震惊！习口号震天响，三中全会要逆改革？中国人无路可逃</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240701/2056955.md" target="_blank">张伯笠：信仰自由是人类第一自由 比言论自由还重要｜观点</a></li>
 <li><a href="/comments/20240701/2056948.md" target="_blank">【泽论四方】现在并不是「集体梦游」的时候</a></li>
 <li><a href="/comments/20240701/2056943.md" target="_blank">林保华：美国大选 “老”总统面对一场可能的大战</a></li>
 <li><a href="/comments/20240701/2056923.md" target="_blank">天亮时分：中国为什麽结婚人少了，离婚的人也少了？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240701/2056755.md" target="_blank">天亮时分：李强言论被下架，到处一片萧条；亲信叛变，习普同病相怜；下一站人民公社？三中全会前颁布新法，回到1978？（政论天下第1341集 20240630）天亮时分</a></li>
 <li><a href="/comments/20240701/2056741.md" target="_blank">朝俄联手，在作死的路上飞奔</a></li>
 <li><a href="/comments/20240701/2056740.md" target="_blank">上官乱：中国这群体再成沉默韭菜 惨被收割</a></li>
-<li><a href="/comments/20240701/2056735.md" target="_blank">炸！灵异船难暗示李强联手李克强打倒习？霍文常再掀舆情，共军粮草告急：“通缩繁荣”时代开始</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20231214/1974098.md" target="_blank">美国众议院议长：我所坚守的保守主义，具体是些什么内容？</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
 <li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20231223/1978148.md" target="_blank">医山夜话：张锡纯医案解读（三）赭石：降胃气 引火下行</a></li>
-<li><a href="/tculture/20231217/1975364.md" target="_blank">医山夜话：张锡纯医案解读（1）根治失眠 思路清晰</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/cbnews/20190701/1151453.md" target="_blank">盘点十大邪教特征 中共条条对号入座</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20231214/1974098.md" target="_blank">美国众议院议长：我所坚守的保守主义，具体是些什么内容？</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
 
 </ul>
 </div>
