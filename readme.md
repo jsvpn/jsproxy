@@ -9,22 +9,22 @@
 <li><a href="/health/20240630/2056583.md">42岁男士坚持用黄芪熬水，喝了2两年，体检后医生震惊：简直神奇</a></li>
 <li><a href="/topimagenews/20240701/2056705.md">明日！中共开始整肃外国人在中国的“翻墙行为”</a></li>
 <li><a href="/sohnews/20240630/2056592.md">陈破空：共军乱了！上将潜逃被抓。总参政治部主任自杀。军委办公厅主任失踪。惊奇！李克强显灵：长江惊现习下李上！直播与互动：美东时间6月30日早9点、中港台当日晚9点</a></li>
-<li><a href="/cnnews/20240630/2056607.md">美国近一半电动车主后悔了 头号原因是…</a></li>
 <li><a href="/yule/20240630/2056642.md">万茜曝上学时没人追 看校服照后网友：这谁敢追</a></li>
+<li><a href="/cnnews/20240630/2056607.md">美国近一半电动车主后悔了 头号原因是…</a></li>
 <li><a href="/topimagenews/20240701/2056783.md">内部消息：习近平重要指示【阿波罗网报道】</a></li>
 <li><a href="/baitai/20240701/2056671.md">北京猛药失效！多地房价暴跌 女子崩溃大哭 专家：邻近崩盘</a></li>
 <li><a href="/cbnews/20240701/2056691.md">他是“唯一确定的习家军”，没想到还是出事了</a></li>
 <li><a href="/cbnews/20240701/2056686.md">江峰：传闻渐真 秦刚已亡？</a></li>
-<li><a href="/cnnews/20240701/2056694.md">陆掀“玩习”风潮 习火冒三丈发密令？</a></li>
 <li><a href="/ccpdope/20240701/2056662.md">数百中国游客在越南挥血旗 旅行社被罚5150万盾</a></li>
-<li><a href="/topimagenews/20240630/2056624.md">量子计算机技术 美国100分中国35分韩国2.3分</a></li>
+<li><a href="/cnnews/20240701/2056694.md">陆掀“玩习”风潮 习火冒三丈发密令？</a></li>
 <li><a href="/cbnews/20240630/2056603.md">坚不可摧 美国号航母被轰炸四周仍漂浮海上</a></li>
+<li><a href="/topimagenews/20240630/2056624.md">量子计算机技术 美国100分中国35分韩国2.3分</a></li>
 <li><a href="/topimagenews/20240701/2056714.md">新中国起点！风起云涌 中国各阶层纷纷对中共说“不”</a></li>
-<li><a href="/topimagenews/20240701/2056687.md">29国联手警告中共</a></li>
-<li><a href="/topimagenews/20240701/2056713.md">爆炸新闻！绍伊古“钱袋子”，俄前国防女副部长携款逃巴黎</a></li>
 <li><a href="/sohnews/20240630/2056574.md">🔥🔥当心❗中国有一大灾即将爆发...专家预测正在应验❗</a></li>
 <li><a href="/topimagenews/20240701/2056672.md">神秘赊刀人再现 语出惊人！“人脱衣而出”？【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20240701/2056687.md">29国联手警告中共</a></li>
 <li><a href="/topimagenews/20240701/2056704.md">广州楼市，扑街了…还有更尴尬的</a></li>
+<li><a href="/topimagenews/20240701/2056713.md">爆炸新闻！绍伊古“钱袋子”，俄前国防女副部长携款逃巴黎</a></li>
 <li><a href="/headline/20240630/2056587.md">印尼将对中国商品征收最高200%进口关税</a></li>
 <li><a href="/headline/20240630/2056596.md">三中全会之财税改革篇：地方要钱、民间要减税，中共可能加税</a></li>
 <li><a href="/topimagenews/20240701/2056737.md">快讯：马克龙政治豪赌惨输</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20240418/2026391.md" target="_blank">医生劝我妻子放弃，似乎这些医生热衷让病人快点去死？</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20190701/1151501.md" target="_blank">【特稿】中国共产党是邪教组织</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
 <li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20240403/2020547.md" target="_blank">纪录片：DSM诊断与统计手册-精神病学最要命的骗局</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20231203/1969183.md" target="_blank">开盖冲马桶 ，细菌会乱飞？除非你家马桶是喷泉！</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
 
 </ul>
 </div>
