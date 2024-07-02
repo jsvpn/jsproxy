@@ -16,17 +16,17 @@
 <li><a href="/yule/20240702/2057118.md">54岁“潘金莲”近照曝光！头发稀疏，苹果肌肿大</a></li>
 <li><a href="/topimagenews/20240702/2057096.md">罕见！历史性变化：中共央行出手做空</a></li>
 <li><a href="/cnnews/20240702/2057149.md">蒋介石在防空洞里吃饭的照片 和影视剧完全不同</a></li>
-<li><a href="/ssgc/20240701/2056975.md">评论 - 余杰：习近平的七宗罪</a></li>
 <li><a href="/topimagenews/20240702/2057214.md">这件事背后绝不简单！中共间谍疑冒充菲律宾人当市长</a></li>
-<li><a href="/cnnews/20240702/2057038.md">10年没抓到 犯380起强奸案 抓到纯偶然！震动北京的“双桥老流氓”</a></li>
 <li><a href="/cnnews/20240702/2057153.md">楼市之后 中国又一个永远涨的“神话”危险了</a></li>
 <li><a href="/cbnews/20240702/2057186.md">真讽刺！她申请赴美留学消息意外火爆</a></li>
+<li><a href="/cnnews/20240702/2057038.md">10年没抓到 犯380起强奸案 抓到纯偶然！震动北京的“双桥老流氓”</a></li>
 <li><a href="/cnnews/20240702/2057239.md">注意，美元也发出了最新信号</a></li>
+<li><a href="/topimagenews/20240702/2057340.md">炸药伺候! 传张家界武警强拆村中埋伏死伤重 女撞交警称“死一个算一个”</a></li>
 <li><a href="/headline/20240702/2057046.md">中国失业潮下：被吞噬的中产与挣扎的底层</a></li>
 <li><a href="/topimagenews/20240702/2057112.md">看到胡友平女士的身世背景，深深鞠躬</a></li>
-<li><a href="/cnnews/20240702/2057032.md">传中国建行大范围降薪 总行员工1成起跳 高层减更多</a></li>
 <li><a href="/sports/20240702/2057117.md">张志杰生前央视采访 黑眼圈明显 曾有去世预言</a></li>
-<li><a href="/cbnews/20240702/2057011.md">“晴格格”王艳儿子篮球专长保送北大 网翻比赛数据质疑“走后门”</a></li>
+<li><a href="/cnnews/20240702/2057032.md">传中国建行大范围降薪 总行员工1成起跳 高层减更多</a></li>
+<li><a href="/sohnews/20240702/2057324.md">习红二代内部讲话正在成为现实！人民公社、大锅饭借尸还魂中⋯⋯</a></li>
 <li><a href="/ssgc/20240702/2057242.md">〖微博谈〗狗疯起来，是见人就咬</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240702/2057417.md" target="_blank">时事大家谈：高调纪念和平共处五项原则，北京意欲摆脱战狼外交？三中全会后中国对美外交政策是否会有重大改变？</a></li>
+<li><a href="/comments/20240702/2057412.md" target="_blank">【洞察国情】对「国安指定法官」的考验</a></li>
 <li><a href="/comments/20240702/2057348.md" target="_blank">秦鹏：中共央行借入国债 无锚印钞来了？</a></li>
 <li><a href="/comments/20240702/2057347.md" target="_blank">唐靖远：“火箭军”又出大事 秦刚有下落？</a></li>
 <li><a href="/comments/20240702/2057327.md" target="_blank">李毅⚡不发工资就说实话！中国🆚美国与世界经济最真实见解</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240702/2057066.md" target="_blank">【中南海秘闻】惊爆习近平亲批：李尚福应处极刑 红二代曝李尚福两项最致命的罪名</a></li>
 <li><a href="/comments/20240702/2057059.md" target="_blank">6月高院的重大判决（之四）高院判了什么？游民问题可以改善？</a></li>
 <li><a href="/comments/20240702/2057021.md" target="_blank">【财经拆局】银行问题贷款创二十年新高 破产源于Call Loan酿结业潮</a></li>
-<li><a href="/comments/20240702/2057016.md" target="_blank">林保华观点》美国大选：“老”总统面对一场可能的大战</a></li>
-<li><a href="/comments/20240702/2057010.md" target="_blank">6月高院的重大判决（之三）五月高院又做了一个影响深远的裁决</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20231207/1970628.md" target="_blank">民兵对官军，希望之声打造广播界的奇蹟【方伟时间-20231206】</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/taiwannews/20210119/1470524.md" target="_blank">纪录片《蚕食美国1》</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20240403/2020547.md" target="_blank">纪录片：DSM诊断与统计手册-精神病学最要命的骗局</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
 <li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
-<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/topimagenews/20200514/1328456.md" target="_blank">穿越时空 谢田教授亲身体验人体特异功能</a></li>
-<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/comments/20231203/1969183.md" target="_blank">开盖冲马桶 ，细菌会乱飞？除非你家马桶是喷泉！</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
 
 </ul>
 </div>
