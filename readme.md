@@ -11,9 +11,9 @@
 <li><a href="/worldnews/20240702/2057101.md">决心已定？铁娘子上台，普京难过了</a></li>
 <li><a href="/topimagenews/20240702/2057180.md">网络热文：中共国大崩溃即将来临</a></li>
 <li><a href="/topimagenews/20240702/2057097.md">轰轰烈烈的“收房潮”已经开始了…</a></li>
+<li><a href="/yule/20240702/2057118.md">54岁“潘金莲”近照曝光！头发稀疏，苹果肌肿大</a></li>
 <li><a href="/cbnews/20240702/2057185.md">打起来了！河北爆发大规模罢工讨薪 大批保安警察镇压</a></li>
 <li><a href="/topimagenews/20240702/2057183.md">【微博精粹】中国人被撞死7个没人救援 呼唤胡友平</a></li>
-<li><a href="/yule/20240702/2057118.md">54岁“潘金莲”近照曝光！头发稀疏，苹果肌肿大</a></li>
 <li><a href="/topimagenews/20240702/2057096.md">罕见！历史性变化：中共央行出手做空</a></li>
 <li><a href="/cnnews/20240702/2057149.md">蒋介石在防空洞里吃饭的照片 和影视剧完全不同</a></li>
 <li><a href="/topimagenews/20240702/2057340.md">炸药伺候! 传张家界武警强拆村中埋伏死伤重 女撞交警称“死一个算一个”</a></li>
@@ -27,7 +27,7 @@
 <li><a href="/ssgc/20240702/2057242.md">〖微博谈〗狗疯起来，是见人就咬</a></li>
 <li><a href="/headline/20240702/2057046.md">中国失业潮下：被吞噬的中产与挣扎的底层</a></li>
 <li><a href="/topimagenews/20240702/2057112.md">看到胡友平女士的身世背景，深深鞠躬</a></li>
-<li><a href="/sports/20240702/2057117.md">张志杰生前央视采访 黑眼圈明显 曾有去世预言</a></li>
+<li><a href="/topimagenews/20240702/2057379.md">多人目击！“3层楼高UFO”诡盘旋空中 30秒后凭空消失</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240703/2057439.md" target="_blank">火箭试点火 突然飞上天？中共国航太事业一飞冲天🎆🚀🎆靠近平民住宅？</a></li>
 <li><a href="/comments/20240703/2057435.md" target="_blank">时事大家谈：高调纪念和平共处五项原则，北京意欲摆脱战狼外交？</a></li>
 <li><a href="/comments/20240702/2057417.md" target="_blank">时事大家谈：高调纪念和平共处五项原则，北京意欲摆脱战狼外交？三中全会后中国对美外交政策是否会有重大改变？</a></li>
 <li><a href="/comments/20240702/2057412.md" target="_blank">【洞察国情】对「国安指定法官」的考验</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240702/2057091.md" target="_blank">6月高院的重大判决（之五）高院的一个判决解脱了特朗普</a></li>
 <li><a href="/comments/20240702/2057089.md" target="_blank">【急救不专业？】</a></li>
 <li><a href="/comments/20240702/2057066.md" target="_blank">【中南海秘闻】惊爆习近平亲批：李尚福应处极刑 红二代曝李尚福两项最致命的罪名</a></li>
-<li><a href="/comments/20240702/2057059.md" target="_blank">6月高院的重大判决（之四）高院判了什么？游民问题可以改善？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/comments/20231203/1969183.md" target="_blank">开盖冲马桶 ，细菌会乱飞？除非你家马桶是喷泉！</a></li>
-<li><a href="/cnnews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
 <li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20240412/2024185.md" target="_blank">是治疗还是屠杀?化疗药品滴一滴在皮肤即灼伤，很长时间才好</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
 
 </ul>
 </div>
