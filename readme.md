@@ -6,28 +6,28 @@
 <ul>
 
 <li><a href="/topimagenews/20240704/2057957.md">怕脸上无光!中共停止发布又一类数据；习多次强调终烂尾，中国多地将更凄凉</a></li>
-<li><a href="/cbnews/20240704/2058071.md">秦刚渣都不剩！习震撼计划曝光 军火库频爆</a></li>
 <li><a href="/topimagenews/20240704/2058023.md">超级优秀美女 被神秘太子党公司忽悠跳楼？【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20240704/2058071.md">秦刚渣都不剩！习震撼计划曝光 军火库频爆</a></li>
 <li><a href="/ccpdope/20240704/2057950.md">李尚福为何行贿？向谁行贿？</a></li>
 <li><a href="/baitai/20240704/2057933.md">网传中国金融圈一天之内两人跳楼</a></li>
 <li><a href="/cbnews/20240704/2058013.md">中共不敢报：波兰总统会习近平 复旦演讲触三大敏感问题</a></li>
 <li><a href="/yule/20240704/2058004.md">45岁汤唯近况曝光：已分居，不离婚，独自带娃</a></li>
 <li><a href="/cnnews/20240704/2057944.md">中全会财税改革，或扼杀中国经济央企铁饭碗没了！裁员难度超想象【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20240704/2057971.md">中国大妈又在飞机上作妖了 拦都拦不住：我有病</a></li>
-<li><a href="/topimagenews/20240704/2058054.md">周恩来不怕沾血喜食“玉仙羹” 江泽民有替代品</a></li>
 <li><a href="/topimagenews/20240704/2058012.md">清华院长李稻葵 当面点名北京银行</a></li>
-<li><a href="/cbnews/20240704/2058098.md">湖北洪灾触目惊心 民众崩溃：领导连装都懒得装</a></li>
+<li><a href="/topimagenews/20240704/2058054.md">周恩来不怕沾血喜食“玉仙羹” 江泽民有替代品</a></li>
 <li><a href="/comments/20240704/2057885.md">全中！一口气看完《黄檗禅师诗》补足《推背图》遗憾，精准到2025年！预言诗神准陈述中国近代大事！中国国运早已经被安排好了｜ 未解之谜 扶摇</a></li>
-<li><a href="/topimagenews/20240704/2057964.md">习近平一通电话能结束俄乌战争？北京说话了</a></li>
+<li><a href="/cbnews/20240704/2058098.md">湖北洪灾触目惊心 民众崩溃：领导连装都懒得装</a></li>
 <li><a href="/cbnews/20240704/2058067.md">〖红朝浮世绘〗真正的“为人民服务”，不是挂羊头卖狗肉</a></li>
-<li><a href="/comments/20240704/2058011.md">文昭：中国连传惊悚消息，一张截图传疯！上海市政府都爆雷了？超长期国债透露重大问题</a></li>
-<li><a href="/worldnews/20240704/2057966.md">男子乘车12小时行驶650km不下车 工作人员一看…</a></li>
-<li><a href="/sohnews/20240704/2057913.md">“千万住所百万入帐 从没想到房价暴跌 收入腰斩 逼得年薪百万的中金女 绝世一跳”No.03（07/03/24）</a></li>
+<li><a href="/topimagenews/20240704/2057964.md">习近平一通电话能结束俄乌战争？北京说话了</a></li>
 <li><a href="/lifebaike/20240704/2058134.md">藏在身边的“补肾猛将”，建议：每周吃2次，头发黑密，朝气蓬勃</a></li>
-<li><a href="/baitai/20240704/2058032.md">习近平重提这个词释不寻常信号 中国经济只剩一条路</a></li>
+<li><a href="/comments/20240704/2058011.md">文昭：中国连传惊悚消息，一张截图传疯！上海市政府都爆雷了？超长期国债透露重大问题</a></li>
+<li><a href="/topimagenews/20240704/2058163.md">中国七只黑天鹅全出来了! 网曝多项指标爆表 随时金融大崩溃</a></li>
+<li><a href="/worldnews/20240704/2057966.md">男子乘车12小时行驶650km不下车 工作人员一看…</a></li>
+<li><a href="/topimagenews/20240704/2058166.md">中金员工跳楼外 银河首席分析师也悲惨</a></li>
+<li><a href="/topimagenews/20240704/2058189.md">你是“人矿”! 武汉24岁研究生“扭伤脚”突暴毙 器官秒分多人 官媒竟称“器官属国有”</a></li>
+<li><a href="/sohnews/20240704/2057913.md">“千万住所百万入帐 从没想到房价暴跌 收入腰斩 逼得年薪百万的中金女 绝世一跳”No.03（07/03/24）</a></li>
 <li><a href="/comments/20240704/2057909.md">7/11日的川普判刑日没了，怎么回事？</a></li>
-<li><a href="/funmedia/20240704/2058056.md">从属相看女人，越看越准</a></li>
-<li><a href="/topimagenews/20240704/2057956.md">俄7坦克2分队再也回不去了！仅仅两周内 乌军第47旅消灭975俄军</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240704/2058221.md" target="_blank">【中国时局】与胡歌同机赴台后 上海台办主任锺晓敏迅速被调职</a></li>
 <li><a href="/comments/20240704/2058207.md" target="_blank">党说跟家里吃饭还得办证？今日限____人用餐</a></li>
 <li><a href="/comments/20240704/2058130.md" target="_blank">百年梦醒（十八）：共产魔教的机制、前所未有的巨大野心</a></li>
 <li><a href="/comments/20240704/2058107.md" target="_blank">【未普评论】李魏二人「对习不忠」的政治处分</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240704/2057909.md" target="_blank">7/11日的川普判刑日没了，怎么回事？</a></li>
 <li><a href="/comments/20240704/2057906.md" target="_blank">专栏 &#8211; 劳工通讯：深圳市科莱达环保设备有限公司倒闭并拖欠工人工资（一）</a></li>
 <li><a href="/comments/20240704/2057897.md" target="_blank">为北京代言的加拿大侨领陈丙丁其律师执照被暂停</a></li>
-<li><a href="/comments/20240704/2057885.md" target="_blank">全中！一口气看完《黄檗禅师诗》补足《推背图》遗憾，精准到2025年！预言诗神准陈述中国近代大事！中国国运早已经被安排好了｜ 未解之谜 扶摇</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
 <li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
-<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20231201/1968320.md" target="_blank">【非凡新闻】结合中西文化精神 美国神韵表演吸睛</a></li>
 
 </ul>
 </div>
