@@ -6,9 +6,7 @@
 <ul>
 
 <li><a href="/cbnews/20240704/2058071.md">秦刚渣都不剩！习震撼计划曝光 军火库频爆</a></li>
-<li><a href="/topimagenews/20240704/2057957.md">怕脸上无光!中共停止发布又一类数据；习多次强调终烂尾，中国多地将更凄凉</a></li>
 <li><a href="/topimagenews/20240704/2058023.md">超级优秀美女 被神秘太子党公司忽悠跳楼？【阿波罗网报道】</a></li>
-<li><a href="/ccpdope/20240704/2057950.md">李尚福为何行贿？向谁行贿？</a></li>
 <li><a href="/cbnews/20240704/2058013.md">中共不敢报：波兰总统会习近平 复旦演讲触三大敏感问题</a></li>
 <li><a href="/yule/20240704/2058004.md">45岁汤唯近况曝光：已分居，不离婚，独自带娃</a></li>
 <li><a href="/topimagenews/20240704/2058163.md">中国七只黑天鹅全出来了! 网曝多项指标爆表 随时金融大崩溃</a></li>
@@ -16,8 +14,8 @@
 <li><a href="/topimagenews/20240704/2058012.md">清华院长李稻葵 当面点名北京银行</a></li>
 <li><a href="/topimagenews/20240704/2058189.md">你是“人矿”! 武汉24岁研究生“扭伤脚”突暴毙 器官秒分多人 官媒竟称“器官属国有”</a></li>
 <li><a href="/topimagenews/20240704/2058054.md">周恩来不怕沾血喜食“玉仙羹” 江泽民有替代品</a></li>
-<li><a href="/topimagenews/20240704/2058166.md">中金员工跳楼外 银河首席分析师也悲惨</a></li>
 <li><a href="/cbnews/20240704/2058098.md">湖北洪灾触目惊心 民众崩溃：领导连装都懒得装</a></li>
+<li><a href="/topimagenews/20240704/2058166.md">中金员工跳楼外 银河首席分析师也悲惨</a></li>
 <li><a href="/baitai/20240704/2058181.md">反抗！传母亲被打 辽宁白衣男开皮卡辗压强拆黑衣人群</a></li>
 <li><a href="/lifebaike/20240704/2058134.md">藏在身边的“补肾猛将”，建议：每周吃2次，头发黑密，朝气蓬勃</a></li>
 <li><a href="/baitai/20240704/2058198.md">习结下军中仇敌 或出现又一个林彪</a></li>
@@ -28,6 +26,8 @@
 <li><a href="/topimagenews/20240704/2058158.md">“无锚印钞”救经济? 中共发行十兆人民币特别国债 专家 : 恐引金融风暴</a></li>
 <li><a href="/topimagenews/20240704/2058202.md">抓到了! 中共战略运输机降落莫斯科 【阿波罗网翻译】</a></li>
 <li><a href="/topimagenews/20240704/2058164.md">中国银行资产恶化! 摩根史丹利退出山东、青岛 传葫芦岛行长转走116亿</a></li>
+<li><a href="/topimagenews/20240704/2058188.md">碾压共军 48架F-35隐形战机 美一口气首次部署到中共家门口</a></li>
+<li><a href="/worldnews/20240704/2057966.md">男子乘车12小时行驶650km不下车 工作人员一看…</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240705/2058329.md" target="_blank">美国国庆节 大家都干啥？还忘了啥？美国国庆方伟时间</a></li>
 <li><a href="/cbnews/20240705/2058281.md" target="_blank">吓阻北京 美宣布部署36架F-15EX、48架F-35A到日本</a></li>
 <li><a href="/cbnews/20240705/2058280.md" target="_blank">翻车？西安交大李艺飞爆与师生不当交往 被酸“学术妲己”</a></li>
 <li><a href="/cbnews/20240705/2058266.md" target="_blank">劝退员工失败！公司狠关“小黑屋”4天 断电、没收手机逼离职</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240704/2058013.md" target="_blank">中共不敢报：波兰总统会习近平 复旦演讲触三大敏感问题</a></li>
 <li><a href="/cbnews/20240704/2057992.md" target="_blank">华府议员和智库纷纷呼吁，要像打败苏联那样打败中共</a></li>
 <li><a href="/comments/20240704/2057984.md" target="_blank">重磅！首例活摘幸存者海外现身，诉说骇人听闻的罪恶！美国独立精神，对中国人有什么借鉴？｜方伟 横河 唐靖远 林晓旭 方菲｜围炉夜话 07/03</a></li>
-<li><a href="/cbnews/20240704/2057958.md" target="_blank">吉林拟成立“锅包肉办公室” 网友：吃饱撑的</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240705/2058329.md" target="_blank">美国国庆节 大家都干啥？还忘了啥？美国国庆方伟时间</a></li>
 <li><a href="/comments/20240705/2058263.md" target="_blank">没邀村民吃大餐🍗官员心虚！黑龙江村支书带党员&#8230;&#8230;</a></li>
 <li><a href="/comments/20240705/2058262.md" target="_blank">时事大家谈：北京努力吸引外资，外资逃离中国知多少？</a></li>
 <li><a href="/comments/20240705/2058261.md" target="_blank">时事大家谈：国际投行为什么在中国不进反退？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240704/2057998.md" target="_blank">颜纯钩:国旗为谁而半降？中共离文明有多远？</a></li>
 <li><a href="/comments/20240704/2057997.md" target="_blank">王赫：中国经济危机与中共三中全会</a></li>
 <li><a href="/comments/20240704/2057996.md" target="_blank">网海拾贝:谁杀死了见义勇为的胡友平？</a></li>
-<li><a href="/comments/20240704/2057995.md" target="_blank">袁斌：李尚福为何行贿？向谁行贿？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/comments/20231201/1968320.md" target="_blank">【非凡新闻】结合中西文化精神 美国神韵表演吸睛</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20240116/1984226.md" target="_blank">湖北老河口遇仙记</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
 
 </ul>
 </div>
