@@ -11,23 +11,23 @@
 <li><a href="/topimagenews/20240703/2057763.md">哈玛斯泄北京撑腰影片! 展示大量中制军武 以曝还有2中国工程兵挖地道</a></li>
 <li><a href="/topimagenews/20240704/2057957.md">怕脸上无光!中共停止发布又一类数据；习多次强调终烂尾，中国多地将更凄凉</a></li>
 <li><a href="/topimagenews/20240703/2057811.md">“最懂事女友”街访爆红！正妹本尊IG找到了 私下美照曝光</a></li>
-<li><a href="/cbnews/20240703/2057766.md">湖南村民杀死邻居一家四口 知情人透露详情</a></li>
 <li><a href="/topimagenews/20240704/2058023.md">超级优秀美女 被神秘太子党公司忽悠跳楼？【阿波罗网报道】</a></li>
-<li><a href="/ccpdope/20240704/2057950.md">李尚福为何行贿？向谁行贿？</a></li>
+<li><a href="/cbnews/20240703/2057766.md">湖南村民杀死邻居一家四口 知情人透露详情</a></li>
 <li><a href="/baitai/20240704/2057933.md">网传中国金融圈一天之内两人跳楼</a></li>
+<li><a href="/ccpdope/20240704/2057950.md">李尚福为何行贿？向谁行贿？</a></li>
 <li><a href="/cbnews/20240703/2057789.md">大陆社群平台突出现好多“momo”？年轻人新兴匿名方式曝光</a></li>
 <li><a href="/sohnews/20240703/2057759.md">陈破空：动向！此人将升任中办主任？修建习父陵墓立大功！突发：中共悍然扣押台湾渔船！全球最大规模军演直指北京。美国首次遣返走线中国人。直播：美东时间7月3日早9点、中港台当日晚9点</a></li>
 <li><a href="/cnnews/20240703/2057779.md">调查发现 中国轻松拿到NVIDIA高端芯片</a></li>
 <li><a href="/baitai/20240703/2057800.md">中南海终于被抓到 与俄罗斯往来重大越界</a></li>
-<li><a href="/baitai/20240703/2057739.md">许小年：改革难在政府成了最大的既得利益集团</a></li>
 <li><a href="/cnnews/20240704/2057971.md">中国大妈又在飞机上作妖了 拦都拦不住：我有病</a></li>
+<li><a href="/baitai/20240703/2057739.md">许小年：改革难在政府成了最大的既得利益集团</a></li>
 <li><a href="/comments/20240704/2057885.md">全中！一口气看完《黄檗禅师诗》补足《推背图》遗憾，精准到2025年！预言诗神准陈述中国近代大事！中国国运早已经被安排好了｜ 未解之谜 扶摇</a></li>
 <li><a href="/cnnews/20240704/2057944.md">中全会财税改革，或扼杀中国经济央企铁饭碗没了！裁员难度超想象【阿波罗网报道】</a></li>
-<li><a href="/sohnews/20240704/2057913.md">“千万住所百万入帐 从没想到房价暴跌 收入腰斩 逼得年薪百万的中金女 绝世一跳”No.03（07/03/24）</a></li>
 <li><a href="/yule/20240704/2058004.md">45岁汤唯近况曝光：已分居，不离婚，独自带娃</a></li>
-<li><a href="/topimagenews/20240704/2057964.md">习近平一通电话能结束俄乌战争？北京说话了</a></li>
-<li><a href="/baitai/20240703/2057762.md">突围先生｜就业率崩的越来越离谱了</a></li>
+<li><a href="/cbnews/20240704/2058071.md">秦刚渣都不剩！习震撼计划曝光 军火库频爆</a></li>
+<li><a href="/sohnews/20240704/2057913.md">“千万住所百万入帐 从没想到房价暴跌 收入腰斩 逼得年薪百万的中金女 绝世一跳”No.03（07/03/24）</a></li>
 <li><a href="/cbnews/20240704/2058013.md">中共不敢报：波兰总统会习近平 复旦演讲触三大敏感问题</a></li>
+<li><a href="/topimagenews/20240704/2057964.md">习近平一通电话能结束俄乌战争？北京说话了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
 <li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
-<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
 <li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
-<li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
 
 </ul>
 </div>
