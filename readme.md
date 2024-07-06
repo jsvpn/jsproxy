@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/worldnews/20240705/2058578.md">北朝鲜炮弹膛炸 俄兵当场惨死！2万北朝鲜兵恐赴前线 军队动员画面流出</a></li>
 <li><a href="/baitai/20240705/2058617.md">原来习仲勋这么了解共产党 全家只留下习近平当裸官 许多红二代也早已是外国人</a></li>
 <li><a href="/topimagenews/20240706/2058770.md">断人财路，杀人父母！这次信号很明确</a></li>
-<li><a href="/sohnews/20240706/2058802.md">丁薛祥情妇竟然荣升四川省长，陈一新一次受贿五百万美金，三中全会重大改革消灭农民。《老灯开讲第603期》</a></li>
 <li><a href="/topimagenews/20240706/2058747.md">突发，碧桂园清零；中国恐爆发社会动乱，失业大潮四处蔓延【阿波罗网报道】</a></li>
+<li><a href="/sohnews/20240706/2058802.md">丁薛祥情妇竟然荣升四川省长，陈一新一次受贿五百万美金，三中全会重大改革消灭农民。《老灯开讲第603期》</a></li>
 <li><a href="/topimagenews/20240705/2058613.md">靠战争发大财！世银报告俄罗斯成“高收入国”原因在这</a></li>
 <li><a href="/yule/20240706/2058781.md">61岁著名港星内地开挖掘机，已被封杀多年</a></li>
-<li><a href="/cbnews/20240706/2058831.md">美二次制裁 中国的银行真怂了</a></li>
 <li><a href="/cbnews/20240706/2058749.md">岳阳洞庭湖决堤 当局用散沙封堵失败被骂</a></li>
+<li><a href="/cbnews/20240706/2058831.md">美二次制裁 中国的银行真怂了</a></li>
 <li><a href="/cbnews/20240705/2058674.md">洪水高涨洞庭湖决堤 湖南华容全县道路封闭</a></li>
-<li><a href="/topimagenews/20240706/2058829.md">最新证据！中共大屠杀在继续进行中</a></li>
 <li><a href="/cbnews/20240706/2058892.md">〖红朝浮世绘〗洪水无情 习近平更无情</a></li>
+<li><a href="/topimagenews/20240706/2058829.md">最新证据！中共大屠杀在继续进行中</a></li>
 <li><a href="/comments/20240705/2058669.md">专访余茂春：中国将经历怎样的大变局？（戴忠仁/上官乱/余茂春）｜亚洲很想聊</a></li>
 <li><a href="/topimagenews/20240706/2058828.md">北京地铁 这个问题很严重</a></li>
 <li><a href="/lifebaike/20240706/2058755.md">太繁华了！29张彩色老照片：80多年前的广州 中共所谓的旧中国真相</a></li>
 <li><a href="/ccpdope/20240705/2058587.md">「国师」李稻葵曝中国经济内情 金融业者日子难过</a></li>
 <li><a href="/worldnews/20240706/2058797.md">印度首富29岁准儿媳惊艳！着“全钻裙”跳舞</a></li>
-<li><a href="/topimagenews/20240705/2058577.md">中国黑心医院! 上海医师传播麻醉病人裸照、讯息 四川职工注射假HPV</a></li>
 <li><a href="/topimagenews/20240706/2058845.md">傻眼!中金郑雯露公司，去年曾发过“2023年十大预测”</a></li>
-<li><a href="/comments/20240706/2058693.md">不让聚餐，酒席全被撒盐😨你的吃喝玩乐都被共产党控制</a></li>
 <li><a href="/topimagenews/20240706/2058877.md">中共放任 中老年人疯狂下单 直播间公开行骗一夜进账几十万</a></li>
+<li><a href="/comments/20240706/2058693.md">不让聚餐，酒席全被撒盐😨你的吃喝玩乐都被共产党控制</a></li>
 <li><a href="/topimagenews/20240706/2058894.md">“台中舰”出手拦截中共海警船 对峙画面曝光</a></li>
-<li><a href="/topimagenews/20240705/2058576.md">碾压共军 史上射程最远空对空导弹! 环太军演开打 美突公开这个“杀手锏”....</a></li>
+<li><a href="/topimagenews/20240706/2058769.md">不求人！美军最强秘密武器</a></li>
+<li><a href="/topimagenews/20240706/2058941.md">中共又踢铁板 2主席无惧威胁</a></li>
+<li><a href="/topimagenews/20240706/2058827.md">中国最大洪水？暴雨洪灾竟党魁需要</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240706/2058972.md" target="_blank">中共军工大地震 掌核武研发的中物院正副院长被免职 引猜测</a></li>
+<li><a href="/comments/20240706/2058953.md" target="_blank">百年梦醒（十九）：共产魔教如何从欧洲下手，又如何进入中华</a></li>
 <li><a href="/cbnews/20240706/2058942.md" target="_blank">山东惊现恐怖龙卷风 至少5死88伤</a></li>
 <li><a href="/cbnews/20240706/2058928.md" target="_blank">HSI前特工：中国洗钱组织威胁美国国家安全</a></li>
 <li><a href="/cbnews/20240706/2058911.md" target="_blank">昆明医院患者跳楼死亡 砸伤另一患者</a></li>
@@ -58,14 +60,13 @@
 <li><a href="/cbnews/20240706/2058749.md" target="_blank">岳阳洞庭湖决堤 当局用散沙封堵失败被骂</a></li>
 <li><a href="/comments/20240706/2058689.md" target="_blank">美国独立日，川普与拜登传达截然不同信息。川普预测拜登去留，司法观察传拜登下周一辞职。拜登川普美国大选</a></li>
 <li><a href="/cbnews/20240705/2058675.md" target="_blank">中国惊悚车祸 风力发电机叶片贯穿厢型车 1人惨死</a></li>
-<li><a href="/cbnews/20240705/2058674.md" target="_blank">洪水高涨洞庭湖决堤 湖南华容全县道路封闭</a></li>
-<li><a href="/cbnews/20240705/2058673.md" target="_blank">砸到路过老人！医院患者坠楼酿“1死1伤” 持续抢救中</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240706/2058971.md" target="_blank">针对中共! 美分散式海上作战概念 4主要功能曝光</a></li>
 <li><a href="/topimagenews/20240706/2058941.md" target="_blank">中共又踢铁板 2主席无惧威胁</a></li>
 <li><a href="/topimagenews/20240706/2058940.md" target="_blank">洞庭湖溃堤 全县道路封闭 禁个人对外发消息</a></li>
 <li><a href="/topimagenews/20240706/2058894.md" target="_blank">“台中舰”出手拦截中共海警船 对峙画面曝光</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20240705/2058499.md" target="_blank">未来2-3年，别折腾、别死扛</a></li>
 <li><a href="/topimagenews/20240705/2058488.md" target="_blank">英大选出口民调出炉 工党一举横扫410席 终结保守党14年执政</a></li>
 <li><a href="/topimagenews/20240705/2058463.md" target="_blank">【微博精粹】百岁老妖横行 是文明世界的耻辱</a></li>
-<li><a href="/topimagenews/20240705/2058446.md" target="_blank">昨天看到群内消息，第一反应是不敢相信</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240706/2058953.md" target="_blank">百年梦醒（十九）：共产魔教如何从欧洲下手，又如何进入中华</a></li>
 <li><a href="/comments/20240706/2058939.md" target="_blank">【黄之锋没有亲自撰写求情信】</a></li>
 <li><a href="/comments/20240706/2058932.md" target="_blank">倪刃：国家拟人化 一种非常有害的思维陷阱</a></li>
 <li><a href="/comments/20240706/2058931.md" target="_blank">“你看，她还是过不好这一生”</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240706/2058723.md" target="_blank">专栏 &#8211; 劳工通讯：深圳市科莱达环保设备有限公司倒闭并拖欠工人工资（二）</a></li>
 <li><a href="/comments/20240706/2058693.md" target="_blank">不让聚餐，酒席全被撒盐😨你的吃喝玩乐都被共产党控制</a></li>
 <li><a href="/comments/20240706/2058689.md" target="_blank">美国独立日，川普与拜登传达截然不同信息。川普预测拜登去留，司法观察传拜登下周一辞职。拜登川普美国大选</a></li>
-<li><a href="/comments/20240706/2058680.md" target="_blank">【杜耀明评论】港产口号政治「对外软弱无力，对内无补于事」</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
 <li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/taiwannews/20210119/1470761.md" target="_blank">独家：震撼纪录片《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
 
 </ul>
 </div>
