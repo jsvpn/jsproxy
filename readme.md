@@ -5,20 +5,18 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/sohnews/20240706/2058802.md">丁薛祥情妇竟然荣升四川省长，陈一新一次受贿五百万美金，三中全会重大改革消灭农民。《老灯开讲第603期》</a></li>
 <li><a href="/cbnews/20240706/2058831.md">美二次制裁 中国的银行真怂了</a></li>
 <li><a href="/topimagenews/20240706/2058829.md">最新证据！中共大屠杀在继续进行中</a></li>
 <li><a href="/baitai/20240706/2059029.md">习近平最新内部讲话热传 内容惊悚 重点是两件事</a></li>
 <li><a href="/cbnews/20240706/2058892.md">〖红朝浮世绘〗洪水无情 习近平更无情</a></li>
 <li><a href="/topimagenews/20240706/2058941.md">中共又踢铁板 2主席无惧威胁</a></li>
-<li><a href="/topimagenews/20240706/2058828.md">北京地铁 这个问题很严重</a></li>
 <li><a href="/funmedia/20240706/2058929.md">去了一趟大西北，才知道啥叫屎到临头</a></li>
+<li><a href="/topimagenews/20240706/2058828.md">北京地铁 这个问题很严重</a></li>
 <li><a href="/cbnews/20240706/2058990.md">飞机早就飞了 中国4名贵宾室旅客被“忘在机场”</a></li>
+<li><a href="/ccpdope/20240707/2059045.md">习近平内部讲话曝光 三中全会倒退70年</a></li>
 <li><a href="/cbnews/20240706/2058972.md">中共军工大地震 掌核武研发的中物院正副院长被免职 引猜测</a></li>
 <li><a href="/topimagenews/20240706/2058985.md">习1个电话可可结束俄乌战争 震撼内幕！中共需要这场战争，变相援俄使其延续</a></li>
-<li><a href="/ccpdope/20240707/2059045.md">习近平内部讲话曝光 三中全会倒退70年</a></li>
 <li><a href="/cbnews/20240706/2058989.md">洞庭湖溃堤堵不住 官方“堵嘴”文件曝光</a></li>
-<li><a href="/worldnews/20240706/2058797.md">印度首富29岁准儿媳惊艳！着“全钻裙”跳舞</a></li>
 <li><a href="/topimagenews/20240706/2058845.md">傻眼!中金郑雯露公司，去年曾发过“2023年十大预测”</a></li>
 <li><a href="/topimagenews/20240706/2058877.md">中共放任 中老年人疯狂下单 直播间公开行骗一夜进账几十万</a></li>
 <li><a href="/topimagenews/20240706/2058894.md">“台中舰”出手拦截中共海警船 对峙画面曝光</a></li>
@@ -26,8 +24,10 @@
 <li><a href="/ccpdope/20240706/2058923.md">洞庭湖突发决堤 淹没村庄 一路上全是逃难的灾民</a></li>
 <li><a href="/ssgc/20240706/2059020.md">三中全会救不了中共</a></li>
 <li><a href="/topimagenews/20240706/2058861.md">人肉盾牌? 尴尬！中共士兵冲在装甲车前面</a></li>
-<li><a href="/baitai/20240706/2058938.md">梦马笔谈｜“沉车裹头”封堵大堤，怎就成了“创举”？</a></li>
 <li><a href="/ssgc/20240706/2058853.md">〖微博谈〗苛政猛于虎</a></li>
+<li><a href="/baitai/20240706/2058938.md">梦马笔谈｜“沉车裹头”封堵大堤，怎就成了“创举”？</a></li>
+<li><a href="/finance/20240706/2058973.md">中国“小红书”爆大裁员潮</a></li>
+<li><a href="/topimagenews/20240706/2058844.md">中共封锁消息？恐怖车祸 电机叶片刺穿面包车 多人死伤</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,10 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240707/2059107.md" target="_blank">触目惊心！东北小学关停一半，趋势向全国漫延</a></li>
+<li><a href="/topimagenews/20240707/2059105.md" target="_blank">全球百万富翁大迁徙，中共国成最大输家</a></li>
+<li><a href="/topimagenews/20240707/2059104.md" target="_blank">数据惨不忍睹，学历性价比崩了</a></li>
+<li><a href="/topimagenews/20240707/2059103.md" target="_blank">两个超级事件，即将发生…</a></li>
 <li><a href="/topimagenews/20240707/2059098.md" target="_blank">等米下锅，中国又一行业面临灭顶之灾</a></li>
 <li><a href="/topimagenews/20240707/2059097.md" target="_blank">中共国引爆！货柜大乱正在世界各地发生</a></li>
 <li><a href="/topimagenews/20240707/2059079.md" target="_blank">中金郑雯露反转的人血馒头来了</a></li>
@@ -87,10 +91,6 @@
 <li><a href="/topimagenews/20240706/2058829.md" target="_blank">最新证据！中共大屠杀在继续进行中</a></li>
 <li><a href="/topimagenews/20240706/2058828.md" target="_blank">北京地铁 这个问题很严重</a></li>
 <li><a href="/topimagenews/20240706/2058827.md" target="_blank">中国最大洪水？暴雨洪灾竟党魁需要</a></li>
-<li><a href="/topimagenews/20240706/2058770.md" target="_blank">断人财路，杀人父母！这次信号很明确</a></li>
-<li><a href="/topimagenews/20240706/2058769.md" target="_blank">不求人！美军最强秘密武器</a></li>
-<li><a href="/topimagenews/20240706/2058748.md" target="_blank">现实很残酷！叶门叛军要击沉10万吨级美航母 究竟要多少飞弹？</a></li>
-<li><a href="/topimagenews/20240706/2058747.md" target="_blank">突发，碧桂园清零；中国恐爆发社会动乱，失业大潮四处蔓延【阿波罗网报道】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20240703/2057730.md" target="_blank">百年梦醒（十七）：马克思的连环计、出卖灵魂</a></li>
-<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20190701/1151501.md" target="_blank">【特稿】中国共产党是邪教组织</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
 <li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/sohnews/20160119/493472.md" target="_blank">无效的医疗：手术刀下的谎言和药瓶里的欺骗</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20231213/1973586.md" target="_blank">六道轮回之畜生道</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
 
 </ul>
 </div>
