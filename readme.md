@@ -8,7 +8,6 @@
 <li><a href="/baitai/20240706/2059029.md">习近平最新内部讲话热传 内容惊悚 重点是两件事</a></li>
 <li><a href="/ccpdope/20240707/2059045.md">习近平内部讲话曝光 三中全会倒退70年</a></li>
 <li><a href="/cbnews/20240706/2058990.md">飞机早就飞了 中国4名贵宾室旅客被“忘在机场”</a></li>
-<li><a href="/cbnews/20240706/2058972.md">中共军工大地震 掌核武研发的中物院正副院长被免职 引猜测</a></li>
 <li><a href="/cbnews/20240707/2059131.md">中国32岁女销售员以“肉体换业绩” 网友傻眼</a></li>
 <li><a href="/cbnews/20240706/2058989.md">洞庭湖溃堤堵不住 官方“堵嘴”文件曝光</a></li>
 <li><a href="/topimagenews/20240706/2058985.md">习1个电话可可结束俄乌战争 震撼内幕！中共需要这场战争，变相援俄使其延续</a></li>
@@ -19,15 +18,16 @@
 <li><a href="/topimagenews/20240707/2059097.md">中共国引爆！货柜大乱正在世界各地发生</a></li>
 <li><a href="/topimagenews/20240707/2059173.md">鲜为人知内幕：这些人危险 打掉一个 中共能省3千万</a></li>
 <li><a href="/ccpdope/20240707/2059060.md">银行坏账惊涛骇浪 金融业担心的消息来了</a></li>
-<li><a href="/topimagenews/20240707/2059118.md">地方软抵抗？害惨整个国家！中共已成一盘散沙</a></li>
 <li><a href="/comments/20240707/2059072.md">亲美派意外大胜！伊朗要变天了？</a></li>
+<li><a href="/topimagenews/20240707/2059118.md">地方软抵抗？害惨整个国家！中共已成一盘散沙</a></li>
 <li><a href="/topimagenews/20240707/2059051.md">失望…中俄关系也就那样儿！记者实地探访</a></li>
 <li><a href="/topimagenews/20240707/2059078.md">最新：菲绑架案 中国夫妇落网 孕妇策划死亡陷阱</a></li>
 <li><a href="/cbnews/20240707/2059099.md">湖南溃堤房屋几乎灭顶！卫星对比图曝</a></li>
 <li><a href="/topimagenews/20240707/2059150.md">【微博精粹】所有黑天鹅同时飞来 落在同一块土地上</a></li>
-<li><a href="/finance/20240706/2058973.md">中国“小红书”爆大裁员潮</a></li>
 <li><a href="/comments/20240707/2059113.md">【中南海秘闻】习近平军委内部惊悚讲话曝光：准备打内战 搞战时经济 必要时刺刀见红 军队要上</a></li>
 <li><a href="/worldnews/20240707/2059081.md">英前财相带着西安妻子和三个娃，搬离唐宁街</a></li>
+<li><a href="/cbnews/20240707/2059071.md">告急！中国洞庭湖第二道防线危险更难守</a></li>
+<li><a href="/topimagenews/20240707/2059117.md">中国网路一张照片红了 哲学系妹子蹲路边要饭画面曝光</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
-<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20231201/1968320.md" target="_blank">【非凡新闻】结合中西文化精神 美国神韵表演吸睛</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20240318/2014289.md" target="_blank">唐柏桥：民运同仁突然向法轮功开火是怎么回事？</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
 
 </ul>
 </div>
