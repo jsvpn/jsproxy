@@ -7,27 +7,27 @@
 
 <li><a href="/baitai/20240706/2059029.md">习近平最新内部讲话热传 内容惊悚 重点是两件事</a></li>
 <li><a href="/ccpdope/20240707/2059045.md">习近平内部讲话曝光 三中全会倒退70年</a></li>
-<li><a href="/cbnews/20240706/2058990.md">飞机早就飞了 中国4名贵宾室旅客被“忘在机场”</a></li>
 <li><a href="/cbnews/20240707/2059131.md">中国32岁女销售员以“肉体换业绩” 网友傻眼</a></li>
-<li><a href="/cbnews/20240706/2058989.md">洞庭湖溃堤堵不住 官方“堵嘴”文件曝光</a></li>
-<li><a href="/topimagenews/20240706/2058985.md">习1个电话可可结束俄乌战争 震撼内幕！中共需要这场战争，变相援俄使其延续</a></li>
 <li><a href="/cnnews/20240707/2059110.md">全都密不发丧？ 中共国基本是丧尸国度了</a></li>
 <li><a href="/topimagenews/20240707/2059079.md">中金郑雯露反转的人血馒头来了</a></li>
-<li><a href="/ssgc/20240706/2059020.md">三中全会救不了中共</a></li>
 <li><a href="/topimagenews/20240707/2059098.md">等米下锅，中国又一行业面临灭顶之灾</a></li>
-<li><a href="/topimagenews/20240707/2059173.md">鲜为人知内幕：这些人危险 打掉一个 中共能省3千万</a></li>
+<li><a href="/ssgc/20240706/2059020.md">三中全会救不了中共</a></li>
 <li><a href="/topimagenews/20240707/2059097.md">中共国引爆！货柜大乱正在世界各地发生</a></li>
+<li><a href="/topimagenews/20240707/2059173.md">鲜为人知内幕：这些人危险 打掉一个 中共能省3千万</a></li>
 <li><a href="/ccpdope/20240707/2059060.md">银行坏账惊涛骇浪 金融业担心的消息来了</a></li>
 <li><a href="/comments/20240707/2059072.md">亲美派意外大胜！伊朗要变天了？</a></li>
 <li><a href="/topimagenews/20240707/2059118.md">地方软抵抗？害惨整个国家！中共已成一盘散沙</a></li>
 <li><a href="/topimagenews/20240707/2059051.md">失望…中俄关系也就那样儿！记者实地探访</a></li>
 <li><a href="/topimagenews/20240707/2059078.md">最新：菲绑架案 中国夫妇落网 孕妇策划死亡陷阱</a></li>
 <li><a href="/cbnews/20240707/2059099.md">湖南溃堤房屋几乎灭顶！卫星对比图曝</a></li>
-<li><a href="/comments/20240707/2059113.md">【中南海秘闻】习近平军委内部惊悚讲话曝光：准备打内战 搞战时经济 必要时刺刀见红 军队要上</a></li>
 <li><a href="/topimagenews/20240707/2059150.md">【微博精粹】所有黑天鹅同时飞来 落在同一块土地上</a></li>
+<li><a href="/comments/20240707/2059113.md">【中南海秘闻】习近平军委内部惊悚讲话曝光：准备打内战 搞战时经济 必要时刺刀见红 军队要上</a></li>
 <li><a href="/worldnews/20240707/2059081.md">英前财相带着西安妻子和三个娃，搬离唐宁街</a></li>
 <li><a href="/cbnews/20240707/2059071.md">告急！中国洞庭湖第二道防线危险更难守</a></li>
 <li><a href="/topimagenews/20240707/2059129.md">国企央企，正在疯狂卖资产</a></li>
+<li><a href="/topimagenews/20240707/2059117.md">中国网路一张照片红了 哲学系妹子蹲路边要饭画面曝光</a></li>
+<li><a href="/topimagenews/20240707/2059149.md">朝野上下闻风丧胆！这里成中共官员的“东厂”</a></li>
+<li><a href="/headline/20240706/2059001.md">三中全会军队篇：解放军忠于习近平吗？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240707/2059222.md" target="_blank">百年梦醒（二十）：党性锤炼的奥秘与成就</a></li>
 <li><a href="/cbnews/20240707/2059252.md" target="_blank">湖南人：洪灾是当局突然无预警泄洪 “死了好多人” 隐瞒不报</a></li>
 <li><a href="/cbnews/20240707/2059207.md" target="_blank">朝鲜要甩了中国 另结新欢</a></li>
 <li><a href="/cbnews/20240707/2059206.md" target="_blank">将一个中国下级外交官捧成大佬！ 韩媒反思</a></li>
@@ -59,13 +60,13 @@
 <li><a href="/cbnews/20240706/2059011.md" target="_blank">环太军演运动会如迷你奥运 竞争中培养合作精神</a></li>
 <li><a href="/cbnews/20240706/2059010.md" target="_blank">中国互联网上的仇外言论煽动现实中的暴力？</a></li>
 <li><a href="/cbnews/20240706/2058991.md" target="_blank">4艘中俄军舰穿过日本大隅海峡 进入太平洋</a></li>
-<li><a href="/cbnews/20240706/2058990.md" target="_blank">飞机早就飞了 中国4名贵宾室旅客被“忘在机场”</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240707/2059268.md" target="_blank">川普回锅白宫 中俄关系将受严峻考验</a></li>
 <li><a href="/topimagenews/20240707/2059173.md" target="_blank">鲜为人知内幕：这些人危险 打掉一个 中共能省3千万</a></li>
 <li><a href="/topimagenews/20240707/2059150.md" target="_blank">【微博精粹】所有黑天鹅同时飞来 落在同一块土地上</a></li>
 <li><a href="/topimagenews/20240707/2059149.md" target="_blank">朝野上下闻风丧胆！这里成中共官员的“东厂”</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20240706/2058941.md" target="_blank">中共又踢铁板 2主席无惧威胁</a></li>
 <li><a href="/topimagenews/20240706/2058940.md" target="_blank">洞庭湖溃堤 全县道路封闭 禁个人对外发消息</a></li>
 <li><a href="/topimagenews/20240706/2058894.md" target="_blank">“台中舰”出手拦截中共海警船 对峙画面曝光</a></li>
-<li><a href="/topimagenews/20240706/2058877.md" target="_blank">中共放任 中老年人疯狂下单 直播间公开行骗一夜进账几十万</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240707/2059222.md" target="_blank">百年梦醒（二十）：党性锤炼的奥秘与成就</a></li>
 <li><a href="/comments/20240707/2059172.md" target="_blank">真炸美日的飞机航母🚢模型！塔克拉玛干沙漠惊现</a></li>
 <li><a href="/comments/20240707/2059161.md" target="_blank">罗翔:中共国爆丑闻：湖南华容决堤大坝曾花费85亿人民币进行维修加固</a></li>
 <li><a href="/comments/20240707/2059160.md" target="_blank">章天亮：我想起《狂人日记》中的几段话</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240707/2059082.md" target="_blank">曾武装反攻中国！魏李倒掉 中共军中这一派异军突起</a></li>
 <li><a href="/comments/20240707/2059080.md" target="_blank">米莱拿阿根廷给全世界上一堂经济课</a></li>
 <li><a href="/comments/20240707/2059072.md" target="_blank">亲美派意外大胜！伊朗要变天了？</a></li>
-<li><a href="/comments/20240707/2059059.md" target="_blank">英国保守党大败 问题出在什么地方？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20231201/1968320.md" target="_blank">【非凡新闻】结合中西文化精神 美国神韵表演吸睛</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/topimagenews/20200514/1328456.md" target="_blank">穿越时空 谢田教授亲身体验人体特异功能</a></li>
+<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
 
 </ul>
 </div>
