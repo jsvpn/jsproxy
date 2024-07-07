@@ -8,8 +8,8 @@
 <li><a href="/baitai/20240706/2059029.md">习近平最新内部讲话热传 内容惊悚 重点是两件事</a></li>
 <li><a href="/ccpdope/20240707/2059045.md">习近平内部讲话曝光 三中全会倒退70年</a></li>
 <li><a href="/cbnews/20240707/2059131.md">中国32岁女销售员以“肉体换业绩” 网友傻眼</a></li>
-<li><a href="/cnnews/20240707/2059110.md">全都密不发丧？ 中共国基本是丧尸国度了</a></li>
 <li><a href="/topimagenews/20240707/2059079.md">中金郑雯露反转的人血馒头来了</a></li>
+<li><a href="/cnnews/20240707/2059110.md">全都密不发丧？ 中共国基本是丧尸国度了</a></li>
 <li><a href="/topimagenews/20240707/2059098.md">等米下锅，中国又一行业面临灭顶之灾</a></li>
 <li><a href="/ssgc/20240706/2059020.md">三中全会救不了中共</a></li>
 <li><a href="/topimagenews/20240707/2059097.md">中共国引爆！货柜大乱正在世界各地发生</a></li>
@@ -20,14 +20,14 @@
 <li><a href="/topimagenews/20240707/2059051.md">失望…中俄关系也就那样儿！记者实地探访</a></li>
 <li><a href="/topimagenews/20240707/2059078.md">最新：菲绑架案 中国夫妇落网 孕妇策划死亡陷阱</a></li>
 <li><a href="/cbnews/20240707/2059099.md">湖南溃堤房屋几乎灭顶！卫星对比图曝</a></li>
-<li><a href="/topimagenews/20240707/2059150.md">【微博精粹】所有黑天鹅同时飞来 落在同一块土地上</a></li>
 <li><a href="/comments/20240707/2059113.md">【中南海秘闻】习近平军委内部惊悚讲话曝光：准备打内战 搞战时经济 必要时刺刀见红 军队要上</a></li>
-<li><a href="/worldnews/20240707/2059081.md">英前财相带着西安妻子和三个娃，搬离唐宁街</a></li>
+<li><a href="/topimagenews/20240707/2059150.md">【微博精粹】所有黑天鹅同时飞来 落在同一块土地上</a></li>
 <li><a href="/cbnews/20240707/2059071.md">告急！中国洞庭湖第二道防线危险更难守</a></li>
+<li><a href="/worldnews/20240707/2059081.md">英前财相带着西安妻子和三个娃，搬离唐宁街</a></li>
 <li><a href="/topimagenews/20240707/2059129.md">国企央企，正在疯狂卖资产</a></li>
 <li><a href="/topimagenews/20240707/2059117.md">中国网路一张照片红了 哲学系妹子蹲路边要饭画面曝光</a></li>
 <li><a href="/topimagenews/20240707/2059149.md">朝野上下闻风丧胆！这里成中共官员的“东厂”</a></li>
-<li><a href="/headline/20240706/2059001.md">三中全会军队篇：解放军忠于习近平吗？</a></li>
+<li><a href="/topimagenews/20240707/2059103.md">两个超级事件，即将发生…</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240707/2059273.md" target="_blank">美国是独一无二的“人民政府”</a></li>
 <li><a href="/comments/20240707/2059222.md" target="_blank">百年梦醒（二十）：党性锤炼的奥秘与成就</a></li>
 <li><a href="/cbnews/20240707/2059252.md" target="_blank">湖南人：洪灾是当局突然无预警泄洪 “死了好多人” 隐瞒不报</a></li>
 <li><a href="/cbnews/20240707/2059207.md" target="_blank">朝鲜要甩了中国 另结新欢</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20240706/2059022.md" target="_blank">改变美国的那17天是什么？</a></li>
 <li><a href="/cbnews/20240706/2059011.md" target="_blank">环太军演运动会如迷你奥运 竞争中培养合作精神</a></li>
 <li><a href="/cbnews/20240706/2059010.md" target="_blank">中国互联网上的仇外言论煽动现实中的暴力？</a></li>
-<li><a href="/cbnews/20240706/2058991.md" target="_blank">4艘中俄军舰穿过日本大隅海峡 进入太平洋</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240707/2059273.md" target="_blank">美国是独一无二的“人民政府”</a></li>
 <li><a href="/comments/20240707/2059222.md" target="_blank">百年梦醒（二十）：党性锤炼的奥秘与成就</a></li>
 <li><a href="/comments/20240707/2059172.md" target="_blank">真炸美日的飞机航母🚢模型！塔克拉玛干沙漠惊现</a></li>
 <li><a href="/comments/20240707/2059161.md" target="_blank">罗翔:中共国爆丑闻：湖南华容决堤大坝曾花费85亿人民币进行维修加固</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240707/2059083.md" target="_blank">桑普:香港的沦陷是对台湾极度深刻的教训</a></li>
 <li><a href="/comments/20240707/2059082.md" target="_blank">曾武装反攻中国！魏李倒掉 中共军中这一派异军突起</a></li>
 <li><a href="/comments/20240707/2059080.md" target="_blank">米莱拿阿根廷给全世界上一堂经济课</a></li>
-<li><a href="/comments/20240707/2059072.md" target="_blank">亲美派意外大胜！伊朗要变天了？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20231213/1973586.md" target="_blank">六道轮回之畜生道</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/ssgc/20240508/2034288.md" target="_blank">《透视“进化论”》第九章 人类起源问题的终极答案</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
 <li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
 
 </ul>
 </div>
