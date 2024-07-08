@@ -7,10 +7,9 @@
 
 <li><a href="/comments/20240708/2059380.md">寇文红：繁华渐逝：腹背受敌的中国经济</a></li>
 <li><a href="/topimagenews/20240708/2059331.md">中金跳楼的郑雯露，更多人生被拼出来了</a></li>
-<li><a href="/baitai/20240708/2059321.md">洞庭湖第二防线危急！ 当局号召捐款评论区炸锅了 霸王茶姬捐500万后摊上大事了</a></li>
+<li><a href="/comments/20240708/2059457.md">前中共总理李克强死因，有了新说法。体制内官员爆一个传言，李克强非死不可。李克强习近平胡春华</a></li>
 <li><a href="/topimagenews/20240708/2059426.md">中共国爆出大丑闻！视频只限私下传播 社媒都被和谐</a></li>
 <li><a href="/topimagenews/20240708/2059542.md">她“骑”上市监局局长! 偷情影片被曝光落马 华春莹也澄清 : 这不是我….</a></li>
-<li><a href="/comments/20240708/2059457.md">前中共总理李克强死因，有了新说法。体制内官员爆一个传言，李克强非死不可。李克强习近平胡春华</a></li>
 <li><a href="/topimagenews/20240708/2059355.md">催人泪下！“全世界都知道，只有中国人不知道”</a></li>
 <li><a href="/topimagenews/20240708/2059392.md">震惊！他闪电与普京握手 27国大怒</a></li>
 <li><a href="/cnnews/20240708/2059334.md">大动荡前奏？“武装反攻中国”余孽在中共军中渐受重用</a></li>
@@ -21,13 +20,14 @@
 <li><a href="/topimagenews/20240708/2059330.md">恐怖雷达影像曝光！洞庭湖区域“大片陆地消失”</a></li>
 <li><a href="/topimagenews/20240708/2059442.md">失业率激增40% 中国“经济火车头”黯然失色</a></li>
 <li><a href="/topimagenews/20240708/2059570.md">北朝鲜死囚遭枪决“脏器露出” 主播被迫观看心脏病发身亡</a></li>
-<li><a href="/topimagenews/20240708/2059541.md">中共无力救经济 台商外资纷纷逃离 这里惨变空城</a></li>
 <li><a href="/ssgc/20240708/2059590.md">评论｜魏京生：突然，习近平的日子不好过了</a></li>
+<li><a href="/topimagenews/20240708/2059541.md">中共无力救经济 台商外资纷纷逃离 这里惨变空城</a></li>
 <li><a href="/worldnews/20240708/2059368.md">炸锅了：副首相14岁陪酒 16岁当妈 17岁混迹街头</a></li>
 <li><a href="/cbnews/20240708/2059417.md">〖红朝浮世绘〗湖南华容洞庭湖大堤决堤 究竟是天灾还是人祸？</a></li>
 <li><a href="/ssgc/20240708/2059429.md">〖微博谈〗连草包都没了</a></li>
 <li><a href="/lifebaike/20240708/2059475.md">一人洗碗，全家致癌？这6个“洗碗坏习惯”不改正，就等着生病吧</a></li>
 <li><a href="/cnnews/20240708/2059467.md">突然大跌，超8万人爆仓，发生了什么？</a></li>
+<li><a href="/topimagenews/20240708/2059569.md">央视春晚前总导演袁德旺在北京病亡 死因诡异保密</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/comments/20240623/2053092.md" target="_blank">章天亮：那些行于世间的觉者</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/topimagenews/20180608/954788.md" target="_blank">安乐死根本安乐不了，别宣传了</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
 <li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
 
 </ul>
 </div>
