@@ -6,28 +6,28 @@
 <ul>
 
 <li><a href="/cbnews/20240707/2059131.md">中国32岁女销售员以“肉体换业绩” 网友傻眼</a></li>
-<li><a href="/cnnews/20240707/2059110.md">全都密不发丧？ 中共国基本是丧尸国度了</a></li>
 <li><a href="/topimagenews/20240707/2059173.md">鲜为人知内幕：这些人危险 打掉一个 中共能省3千万</a></li>
 <li><a href="/baitai/20240707/2059241.md">洞庭湖大溃堤 中共禁止外发消息 传2000人遇难</a></li>
 <li><a href="/topimagenews/20240707/2059118.md">地方软抵抗？害惨整个国家！中共已成一盘散沙</a></li>
 <li><a href="/topimagenews/20240707/2059150.md">【微博精粹】所有黑天鹅同时飞来 落在同一块土地上</a></li>
 <li><a href="/baitai/20240707/2059243.md">网络热文：大崩溃即将来临</a></li>
-<li><a href="/baitai/20240707/2059283.md">港媒突放风！习新一轮均贫富来到 爆发社会动乱闸门打开</a></li>
 <li><a href="/topimagenews/20240707/2059149.md">朝野上下闻风丧胆！这里成中共官员的“东厂”</a></li>
+<li><a href="/baitai/20240707/2059283.md">港媒突放风！习新一轮均贫富来到 爆发社会动乱闸门打开</a></li>
 <li><a href="/cbnews/20240707/2059294.md">“这段历史全世界都知道，只有我们中国人不知道”</a></li>
 <li><a href="/health/20240707/2059231.md">世卫组织呼吁：停止使用电热水壶，否则会诱发癌症？真相来了</a></li>
 <li><a href="/topimagenews/20240707/2059277.md">入境美国被错关小黑屋34小时，获赔150万美元</a></li>
 <li><a href="/cbnews/20240707/2059206.md">将一个中国下级外交官捧成大佬！ 韩媒反思</a></li>
-<li><a href="/comments/20240707/2059113.md">【中南海秘闻】习近平军委内部惊悚讲话曝光：准备打内战 搞战时经济 必要时刺刀见红 军队要上</a></li>
 <li><a href="/topimagenews/20240707/2059129.md">国企央企，正在疯狂卖资产</a></li>
 <li><a href="/baitai/20240707/2059250.md">吕洪来：解放军是习近平个人独裁的最大障碍</a></li>
-<li><a href="/cbnews/20240707/2059252.md">湖南人：洪灾是当局突然无预警泄洪 “死了好多人” 隐瞒不报</a></li>
 <li><a href="/topimagenews/20240707/2059117.md">中国网路一张照片红了 哲学系妹子蹲路边要饭画面曝光</a></li>
+<li><a href="/cbnews/20240707/2059252.md">湖南人：洪灾是当局突然无预警泄洪 “死了好多人” 隐瞒不报</a></li>
 <li><a href="/topimagenews/20240707/2059130.md">注意！中国人在美国这身份 面临双重风险</a></li>
+<li><a href="/topimagenews/20240708/2059331.md">中金跳楼的郑雯露，更多人生被拼出来了</a></li>
 <li><a href="/yule/20240707/2059281.md">当57岁周慧敏和56岁张敏同框 一个57岁好似27岁</a></li>
 <li><a href="/sohnews/20240708/2059298.md">“中共国人忽然询问：为何习近平总是远离洪水灾区？习近平端午节出生 民间有这个说法”No.01（07/07/24）</a></li>
-<li><a href="/cbnews/20240707/2059207.md">朝鲜要甩了中国 另结新欢</a></li>
 <li><a href="/cbnews/20240707/2059116.md">江峰：失业成政治大事，习近平再提“动态清零”，兜底就业抢谁的饭碗？全国进入“找工作大跃进“疯狂造假；财税改革，习近平用钱袋子控制地方彻底失败，”台独“算啥？各省独立！【江峰漫谈20240706第895期】</a></li>
+<li><a href="/cbnews/20240707/2059207.md">朝鲜要甩了中国 另结新欢</a></li>
+<li><a href="/ccpdope/20240707/2059204.md">原本不起眼！魏李倒掉 解放军中这一派冒起</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240708/2059372.md" target="_blank">西点军校的国庆音乐焰火 美国第一</a></li>
 <li><a href="/cbnews/20240708/2059358.md" target="_blank">美国防部利用量子纠缠研发新型激光技术</a></li>
 <li><a href="/cbnews/20240708/2059332.md" target="_blank">山东多地暴雨成灾 临沂成水城汽车没顶</a></li>
 <li><a href="/cbnews/20240707/2059294.md" target="_blank">“这段历史全世界都知道，只有我们中国人不知道”</a></li>
@@ -59,13 +60,13 @@
 <li><a href="/cbnews/20240707/2059108.md" target="_blank">丢人！视频曝光：意大利拦截伪装中国无人机</a></li>
 <li><a href="/cbnews/20240707/2059099.md" target="_blank">湖南溃堤房屋几乎灭顶！卫星对比图曝</a></li>
 <li><a href="/comments/20240707/2059080.md" target="_blank">米莱拿阿根廷给全世界上一堂经济课</a></li>
-<li><a href="/cbnews/20240707/2059071.md" target="_blank">告急！中国洞庭湖第二道防线危险更难守</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240708/2059365.md" target="_blank">中国房市越来越严峻！这些城市，不装了</a></li>
 <li><a href="/topimagenews/20240708/2059357.md" target="_blank">烈焰冲天相当骇人！广东化工厂炸成一团巨大火球 官方称“没伤亡”</a></li>
 <li><a href="/topimagenews/20240708/2059355.md" target="_blank">催人泪下！“全世界都知道，只有中国人不知道”</a></li>
 <li><a href="/topimagenews/20240708/2059331.md" target="_blank">中金跳楼的郑雯露，更多人生被拼出来了</a></li>
@@ -90,13 +91,17 @@
 <li><a href="/topimagenews/20240707/2059079.md" target="_blank">中金郑雯露反转的人血馒头来了</a></li>
 <li><a href="/topimagenews/20240707/2059078.md" target="_blank">最新：菲绑架案 中国夫妇落网 孕妇策划死亡陷阱</a></li>
 <li><a href="/topimagenews/20240707/2059070.md" target="_blank">这国秘研“炸药之王” 成功 可换装各类飞弹摧毁共军</a></li>
-<li><a href="/topimagenews/20240707/2059069.md" target="_blank">断人财路,杀人父母！这次信号很明确;考虑废掉人民币！“国师”支招被俄打脸</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240708/2059372.md" target="_blank">西点军校的国庆音乐焰火 美国第一</a></li>
+<li><a href="/comments/20240708/2059371.md" target="_blank">被封杀： “2014年到2024年，仅仅十年而已”</a></li>
+<li><a href="/comments/20240708/2059370.md" target="_blank">鳖扯犊子：李尚福、魏凤和双双落马，与美国一份报告有关？</a></li>
+<li><a href="/comments/20240708/2059369.md" target="_blank">老鱼时评：洞庭湖水灾：管涌到决口的系列“人祸”神操作</a></li>
+<li><a href="/comments/20240708/2059364.md" target="_blank">文昭：灯塔国的危机；改革获成功，国家进坟墓【会员样片节选】</a></li>
 <li><a href="/comments/20240708/2059312.md" target="_blank">【英国工党14年后重新执政，致力收紧移民引港人关注】</a></li>
 <li><a href="/comments/20240708/2059299.md" target="_blank">卸磨杀驴党媒有端倪！消息放出！专家李昌平吊打钟南山吴孔明</a></li>
 <li><a href="/comments/20240707/2059285.md" target="_blank">拜登接受决定命运的媒体大考，考试合格了吗？川普瞄准第三个蓝色州，争取扩大选举版图。川普拜登美国大选</a></li>
@@ -117,11 +122,6 @@
 <li><a href="/comments/20240707/2059132.md" target="_blank">美军十几辆卡车偷叙利亚的小麦，是要烙大饼给国庆献礼吗？</a></li>
 <li><a href="/comments/20240707/2059123.md" target="_blank">【杰森视角】26年前华尔街危机为转型中的中国带来什么警示？华尔街‘年轻教授’们是如何险些毁掉美国金融体系的？巴菲特一句大白话，点破一类华尔街新投资概念的致命基因！明星对冲基金一炮冲突天，咋又瞬间陨落？</a></li>
 <li><a href="/comments/20240707/2059119.md" target="_blank">人为鱼 政治为水 鱼能不关心水质吗方菲时间</a></li>
-<li><a href="/comments/20240707/2059113.md" target="_blank">【中南海秘闻】习近平军委内部惊悚讲话曝光：准备打内战 搞战时经济 必要时刺刀见红 军队要上</a></li>
-<li><a href="/comments/20240707/2059100.md" target="_blank">【首发】田北铭：农村集体化已被实践证明失败 吃二茬苦不远了</a></li>
-<li><a href="/comments/20240707/2059086.md" target="_blank">古玉明 赵冬雪：三国田丰的悲剧 现代仍不断上演</a></li>
-<li><a href="/comments/20240707/2059085.md" target="_blank">掸封尘：贵州奇石昭示中共亡 民众“三退”保平安</a></li>
-<li><a href="/comments/20240707/2059084.md" target="_blank">袁斌：中金员工郑雯露之死的启示</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
-<li><a href="/sohnews/20160119/493472.md" target="_blank">无效的医疗：手术刀下的谎言和药瓶里的欺骗</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/comments/20231212/1972297.md" target="_blank">日本华人确诊晚期直肠癌，修炼法轮功恢复健康（图）</a></li>
-<li><a href="/comments/20231220/1976683.md" target="_blank">医山夜话：张锡纯医案解读（二）根治胃气不降之证</a></li>
-<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20231204/1969287.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （三）</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
 <li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20240318/2014289.md" target="_blank">唐柏桥：民运同仁突然向法轮功开火是怎么回事？</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
 <li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
 
 </ul>
 </div>
