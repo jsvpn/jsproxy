@@ -11,23 +11,23 @@
 <li><a href="/health/20240707/2059231.md">世卫组织呼吁：停止使用电热水壶，否则会诱发癌症？真相来了</a></li>
 <li><a href="/topimagenews/20240708/2059331.md">中金跳楼的郑雯露，更多人生被拼出来了</a></li>
 <li><a href="/cbnews/20240707/2059294.md">“这段历史全世界都知道，只有我们中国人不知道”</a></li>
-<li><a href="/cbnews/20240707/2059206.md">将一个中国下级外交官捧成大佬！ 韩媒反思</a></li>
 <li><a href="/topimagenews/20240707/2059277.md">入境美国被错关小黑屋34小时，获赔150万美元</a></li>
+<li><a href="/cbnews/20240707/2059206.md">将一个中国下级外交官捧成大佬！ 韩媒反思</a></li>
 <li><a href="/comments/20240708/2059380.md">寇文红：繁华渐逝：腹背受敌的中国经济</a></li>
 <li><a href="/baitai/20240707/2059250.md">吕洪来：解放军是习近平个人独裁的最大障碍</a></li>
-<li><a href="/baitai/20240708/2059321.md">洞庭湖第二防线危急！ 当局号召捐款评论区炸锅了 霸王茶姬捐500万后摊上大事了</a></li>
 <li><a href="/topimagenews/20240708/2059355.md">催人泪下！“全世界都知道，只有中国人不知道”</a></li>
+<li><a href="/baitai/20240708/2059321.md">洞庭湖第二防线危急！ 当局号召捐款评论区炸锅了 霸王茶姬捐500万后摊上大事了</a></li>
 <li><a href="/cbnews/20240707/2059252.md">湖南人：洪灾是当局突然无预警泄洪 “死了好多人” 隐瞒不报</a></li>
 <li><a href="/yule/20240707/2059281.md">当57岁周慧敏和56岁张敏同框 一个57岁好似27岁</a></li>
 <li><a href="/sohnews/20240708/2059298.md">“中共国人忽然询问：为何习近平总是远离洪水灾区？习近平端午节出生 民间有这个说法”No.01（07/07/24）</a></li>
 <li><a href="/cnnews/20240708/2059334.md">大动荡前奏？“武装反攻中国”余孽在中共军中渐受重用</a></li>
-<li><a href="/cbnews/20240707/2059189.md">河北四川街头砍人 大陆两月连发40起持刀伤人案</a></li>
 <li><a href="/cbnews/20240707/2059207.md">朝鲜要甩了中国 另结新欢</a></li>
 <li><a href="/topimagenews/20240707/2059268.md">川普回锅白宫 中俄关系将受严峻考验</a></li>
 <li><a href="/ccpdope/20240707/2059204.md">原本不起眼！魏李倒掉 解放军中这一派冒起</a></li>
-<li><a href="/cnnews/20240707/2059270.md">川普发文 力挺拜登</a></li>
-<li><a href="/funmedia/20240707/2059192.md">新疆景区的知名旱厕，逼疯多少名媛</a></li>
 <li><a href="/topimagenews/20240708/2059330.md">恐怖雷达影像曝光！洞庭湖区域“大片陆地消失”</a></li>
+<li><a href="/cnnews/20240707/2059270.md">川普发文 力挺拜登</a></li>
+<li><a href="/topimagenews/20240708/2059365.md">中国房市越来越严峻！这些城市，不装了</a></li>
+<li><a href="/cnnews/20240707/2059212.md">月薪2万 打不起羽毛球了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
-<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/cnnews/20221211/1822144.md" target="_blank">盖盖冲马桶很可怕！瞬间“病毒炸开”？</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/taiwannews/20210119/1470524.md" target="_blank">纪录片《蚕食美国1》</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/comments/20231204/1969287.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （三）</a></li>
+<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/topimagenews/20200514/1328456.md" target="_blank">穿越时空 谢田教授亲身体验人体特异功能</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
+<li><a href="/ssgc/20240508/2034288.md" target="_blank">《透视“进化论”》第九章 人类起源问题的终极答案</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
 
 </ul>
 </div>
