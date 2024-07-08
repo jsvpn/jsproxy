@@ -6,28 +6,28 @@
 <ul>
 
 <li><a href="/comments/20240708/2059380.md">寇文红：繁华渐逝：腹背受敌的中国经济</a></li>
-<li><a href="/topimagenews/20240708/2059331.md">中金跳楼的郑雯露，更多人生被拼出来了</a></li>
 <li><a href="/comments/20240708/2059457.md">前中共总理李克强死因，有了新说法。体制内官员爆一个传言，李克强非死不可。李克强习近平胡春华</a></li>
 <li><a href="/topimagenews/20240708/2059426.md">中共国爆出大丑闻！视频只限私下传播 社媒都被和谐</a></li>
 <li><a href="/topimagenews/20240708/2059542.md">她“骑”上市监局局长! 偷情影片被曝光落马 华春莹也澄清 : 这不是我….</a></li>
 <li><a href="/topimagenews/20240708/2059355.md">催人泪下！“全世界都知道，只有中国人不知道”</a></li>
 <li><a href="/topimagenews/20240708/2059392.md">震惊！他闪电与普京握手 27国大怒</a></li>
-<li><a href="/cnnews/20240708/2059334.md">大动荡前奏？“武装反攻中国”余孽在中共军中渐受重用</a></li>
 <li><a href="/topimagenews/20240708/2059365.md">中国房市越来越严峻！这些城市，不装了</a></li>
 <li><a href="/topimagenews/20240708/2059427.md">87座水库同时泄洪不通知 陆遇难人数巨大成谜 当官的都跑了</a></li>
 <li><a href="/cnnews/20240708/2059478.md">儿子被浙大录取，母亲发朋友圈！亲戚回复寒人心</a></li>
 <li><a href="/ssgc/20240708/2059590.md">评论｜魏京生：突然，习近平的日子不好过了</a></li>
 <li><a href="/topimagenews/20240708/2059471.md">顶不住了，中国知名地产宣布：退出</a></li>
-<li><a href="/topimagenews/20240708/2059330.md">恐怖雷达影像曝光！洞庭湖区域“大片陆地消失”</a></li>
 <li><a href="/topimagenews/20240708/2059442.md">失业率激增40% 中国“经济火车头”黯然失色</a></li>
 <li><a href="/topimagenews/20240708/2059570.md">北朝鲜死囚遭枪决“脏器露出” 主播被迫观看心脏病发身亡</a></li>
 <li><a href="/topimagenews/20240708/2059541.md">中共无力救经济 台商外资纷纷逃离 这里惨变空城</a></li>
 <li><a href="/cbnews/20240708/2059417.md">〖红朝浮世绘〗湖南华容洞庭湖大堤决堤 究竟是天灾还是人祸？</a></li>
 <li><a href="/worldnews/20240708/2059368.md">炸锅了：副首相14岁陪酒 16岁当妈 17岁混迹街头</a></li>
-<li><a href="/ssgc/20240708/2059429.md">〖微博谈〗连草包都没了</a></li>
 <li><a href="/cbnews/20240708/2059602.md">老公用无人机跟踪 竟发现娇妻“野外出轨”工厂老板</a></li>
-<li><a href="/topimagenews/20240708/2059569.md">央视春晚前总导演袁德旺在北京病亡 死因诡异保密</a></li>
+<li><a href="/ssgc/20240708/2059429.md">〖微博谈〗连草包都没了</a></li>
 <li><a href="/topimagenews/20240708/2059599.md">彭博：微软要求中国区职员9月起禁用Android机 只能用iPhone</a></li>
+<li><a href="/topimagenews/20240708/2059569.md">央视春晚前总导演袁德旺在北京病亡 死因诡异保密</a></li>
+<li><a href="/cnnews/20240708/2059467.md">突然大跌，超8万人爆仓，发生了什么？</a></li>
+<li><a href="/lifebaike/20240708/2059475.md">一人洗碗，全家致癌？这6个“洗碗坏习惯”不改正，就等着生病吧</a></li>
+<li><a href="/topimagenews/20240708/2059393.md">你人跑不了！前党魁恶霸令：“哪怕你这是天上来的，也要交费”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240709/2059749.md" target="_blank">洞庭湖决堤后 动物求生视频令人落泪</a></li>
 <li><a href="/cbnews/20240709/2059651.md" target="_blank">江苏扬州发生3.6级地震 消息冲上热搜榜</a></li>
 <li><a href="/cbnews/20240709/2059650.md" target="_blank">以意念干扰司法？江苏法轮功学员遭荒唐庭审</a></li>
 <li><a href="/comments/20240708/2059640.md" target="_blank">本·卡森成为川普唯一关注的热门搭档。顶尖外科医生弃医从政，竟是因与奥巴马的一次早餐会。卡森川普竞选搭档</a></li>
@@ -59,13 +60,14 @@
 <li><a href="/comments/20240708/2059457.md" target="_blank">前中共总理李克强死因，有了新说法。体制内官员爆一个传言，李克强非死不可。李克强习近平胡春华</a></li>
 <li><a href="/cbnews/20240708/2059433.md" target="_blank">江峰：高学历外卖小哥行业，看中国的“人才”悲剧</a></li>
 <li><a href="/cbnews/20240708/2059417.md" target="_blank">〖红朝浮世绘〗湖南华容洞庭湖大堤决堤 究竟是天灾还是人祸？</a></li>
-<li><a href="/cbnews/20240708/2059395.md" target="_blank">名家专栏：全球民主力量反击中共无人机</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240709/2059748.md" target="_blank">俄军火库、油库大爆炸! 乌无人机夜袭 俄军雷达、军需受重损</a></li>
+<li><a href="/topimagenews/20240709/2059747.md" target="_blank">中国热搜：脊背发凉！沈阳铁西进入冷兵器时代</a></li>
 <li><a href="/topimagenews/20240708/2059599.md" target="_blank">彭博：微软要求中国区职员9月起禁用Android机 只能用iPhone</a></li>
 <li><a href="/topimagenews/20240708/2059571.md" target="_blank">3万散户踩巨雷！连续13年造假460亿财报 陆企下场惨爆</a></li>
 <li><a href="/topimagenews/20240708/2059570.md" target="_blank">北朝鲜死囚遭枪决“脏器露出” 主播被迫观看心脏病发身亡</a></li>
@@ -89,8 +91,6 @@
 <li><a href="/topimagenews/20240708/2059331.md" target="_blank">中金跳楼的郑雯露，更多人生被拼出来了</a></li>
 <li><a href="/topimagenews/20240708/2059330.md" target="_blank">恐怖雷达影像曝光！洞庭湖区域“大片陆地消失”</a></li>
 <li><a href="/topimagenews/20240708/2059329.md" target="_blank">全球无敌！需求大爆发 它独占辉达超微等AI订单</a></li>
-<li><a href="/topimagenews/20240707/2059277.md" target="_blank">入境美国被错关小黑屋34小时，获赔150万美元</a></li>
-<li><a href="/topimagenews/20240707/2059276.md" target="_blank">42岁黑龙江男篮原队长王楠猝死 官方称“心脏骤停”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/topimagenews/20200514/1328456.md" target="_blank">穿越时空 谢田教授亲身体验人体特异功能</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
 <li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
+<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
 <li><a href="/taiwannews/20210119/1470524.md" target="_blank">纪录片《蚕食美国1》</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20240116/1984226.md" target="_blank">湖北老河口遇仙记</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20231203/1969183.md" target="_blank">开盖冲马桶 ，细菌会乱飞？除非你家马桶是喷泉！</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
 
 </ul>
 </div>
