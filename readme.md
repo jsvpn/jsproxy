@@ -9,15 +9,13 @@
 <li><a href="/cnnews/20240709/2059753.md">风暴将至！三中全会习近平剑指这派 有人将被清算</a></li>
 <li><a href="/topimagenews/20240709/2059871.md">突发：中国又一巨头爆雷！上海几千员工一个不留 8月清场</a></li>
 <li><a href="/topimagenews/20240709/2059756.md">人民不满！神曲“习主席，你在哪里”走红</a></li>
-<li><a href="/cbnews/20240708/2059602.md">老公用无人机跟踪 竟发现娇妻“野外出轨”工厂老板</a></li>
 <li><a href="/topimagenews/20240709/2059781.md">15亿就这么干出去了，习近平在掌声中失控...【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240709/2059747.md">中国热搜：脊背发凉！沈阳铁西进入冷兵器时代</a></li>
 <li><a href="/topimagenews/20240709/2059804.md">农夫山泉崩了</a></li>
 <li><a href="/topimagenews/20240709/2059847.md">离战争结束不远了?太惨烈！两大数据说实话</a></li>
 <li><a href="/topimagenews/20240709/2059828.md">【微博精粹】北韩金三都没这么恶心</a></li>
-<li><a href="/cbnews/20240709/2059749.md">洞庭湖决堤后 动物求生视频令人落泪</a></li>
-<li><a href="/topimagenews/20240708/2059599.md">彭博：微软要求中国区职员9月起禁用Android机 只能用iPhone</a></li>
 <li><a href="/topimagenews/20240709/2059825.md">假象即将崩塌！”中共对俄罗斯感到愤怒“！前中共高级军官爆料</a></li>
+<li><a href="/cbnews/20240709/2059749.md">洞庭湖决堤后 动物求生视频令人落泪</a></li>
 <li><a href="/ssgc/20240709/2059728.md">专栏｜夜话中南海：三中全会上肯定会有和可能会有的人事异动</a></li>
 <li><a href="/sohnews/20240709/2059779.md">神秘预言-习近平的面相吉凶与命运：中共最后一任领导人将崩在任上！破解习近平面相吉凶！习近平身边高人指点，推背图、白羽鸟预言神准应验！神秘预言：第三次大瘟疫将至！【新闻最嘲点 姜光宇】</a></li>
 <li><a href="/lifebaike/20240709/2059886.md">上海满街都在穿“奶奶短裤” 洋气显瘦</a></li>
@@ -27,7 +25,9 @@
 <li><a href="/cbnews/20240709/2059858.md">〖红朝浮世绘〗中共国丧事喜办世界第一</a></li>
 <li><a href="/comments/20240709/2059751.md">晴天霹雳！出生仅两天婴儿遭割双肾 中国人无处可逃</a></li>
 <li><a href="/comments/20240709/2059859.md">中国大洪水传唱《习主席你在哪里》，习近平出国指挥救灾，蔡奇这表情；青年养老院生意火爆，咋了？</a></li>
+<li><a href="/ssgc/20240708/2059613.md">习近平恫吓军头，共产党绝地求生</a></li>
 <li><a href="/topimagenews/20240709/2059768.md">陆稚嫩女童卖唱城管粗暴抢麦 数百人合唱声援【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20240709/2059914.md">丧事喜办、摆拍、造谣、淡化灾情 中国洪涝 官方恶劣处理犯众怒</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/comments/20240116/1984226.md" target="_blank">湖北老河口遇仙记</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/comments/20240318/2014289.md" target="_blank">唐柏桥：民运同仁突然向法轮功开火是怎么回事？</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
 <li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
+<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
 
 </ul>
 </div>
