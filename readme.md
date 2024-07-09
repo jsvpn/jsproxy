@@ -7,27 +7,27 @@
 
 <li><a href="/topimagenews/20240709/2059870.md">北京紧急通知：就地销毁！其他人呢 就地处决？</a></li>
 <li><a href="/cnnews/20240709/2059753.md">风暴将至！三中全会习近平剑指这派 有人将被清算</a></li>
-<li><a href="/topimagenews/20240709/2059871.md">突发：中国又一巨头爆雷！上海几千员工一个不留 8月清场</a></li>
 <li><a href="/topimagenews/20240709/2059756.md">人民不满！神曲“习主席，你在哪里”走红</a></li>
+<li><a href="/topimagenews/20240709/2059871.md">突发：中国又一巨头爆雷！上海几千员工一个不留 8月清场</a></li>
 <li><a href="/topimagenews/20240709/2059781.md">15亿就这么干出去了，习近平在掌声中失控...【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240709/2059747.md">中国热搜：脊背发凉！沈阳铁西进入冷兵器时代</a></li>
 <li><a href="/topimagenews/20240709/2059804.md">农夫山泉崩了</a></li>
-<li><a href="/topimagenews/20240709/2059847.md">离战争结束不远了?太惨烈！两大数据说实话</a></li>
 <li><a href="/topimagenews/20240709/2059828.md">【微博精粹】北韩金三都没这么恶心</a></li>
-<li><a href="/topimagenews/20240709/2059825.md">假象即将崩塌！”中共对俄罗斯感到愤怒“！前中共高级军官爆料</a></li>
+<li><a href="/topimagenews/20240709/2059847.md">离战争结束不远了?太惨烈！两大数据说实话</a></li>
 <li><a href="/cbnews/20240709/2059749.md">洞庭湖决堤后 动物求生视频令人落泪</a></li>
+<li><a href="/topimagenews/20240709/2059825.md">假象即将崩塌！”中共对俄罗斯感到愤怒“！前中共高级军官爆料</a></li>
 <li><a href="/ssgc/20240709/2059728.md">专栏｜夜话中南海：三中全会上肯定会有和可能会有的人事异动</a></li>
 <li><a href="/sohnews/20240709/2059779.md">神秘预言-习近平的面相吉凶与命运：中共最后一任领导人将崩在任上！破解习近平面相吉凶！习近平身边高人指点，推背图、白羽鸟预言神准应验！神秘预言：第三次大瘟疫将至！【新闻最嘲点 姜光宇】</a></li>
 <li><a href="/lifebaike/20240709/2059886.md">上海满街都在穿“奶奶短裤” 洋气显瘦</a></li>
 <li><a href="/cbnews/20240708/2059636.md">“中国将迎人口死亡高峰”话题为何敏感？</a></li>
 <li><a href="/cbnews/20240709/2059894.md">中储粮回应运油丑闻引众怒 更多黑幕曝光</a></li>
-<li><a href="/cnnews/20240709/2059887.md">升学宴大摆34桌，只来4个客人！主人怒喷</a></li>
 <li><a href="/cbnews/20240709/2059858.md">〖红朝浮世绘〗中共国丧事喜办世界第一</a></li>
+<li><a href="/cnnews/20240709/2059887.md">升学宴大摆34桌，只来4个客人！主人怒喷</a></li>
 <li><a href="/comments/20240709/2059751.md">晴天霹雳！出生仅两天婴儿遭割双肾 中国人无处可逃</a></li>
-<li><a href="/comments/20240709/2059859.md">中国大洪水传唱《习主席你在哪里》，习近平出国指挥救灾，蔡奇这表情；青年养老院生意火爆，咋了？</a></li>
-<li><a href="/ssgc/20240708/2059613.md">习近平恫吓军头，共产党绝地求生</a></li>
-<li><a href="/topimagenews/20240709/2059768.md">陆稚嫩女童卖唱城管粗暴抢麦 数百人合唱声援【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20240709/2059973.md">故意释放鼠疫病毒？现场被网友抓拍！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240709/2059914.md">丧事喜办、摆拍、造谣、淡化灾情 中国洪涝 官方恶劣处理犯众怒</a></li>
+<li><a href="/comments/20240709/2059859.md">中国大洪水传唱《习主席你在哪里》，习近平出国指挥救灾，蔡奇这表情；青年养老院生意火爆，咋了？</a></li>
+<li><a href="/topimagenews/20240709/2059768.md">陆稚嫩女童卖唱城管粗暴抢麦 数百人合唱声援【阿波罗网报道】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240709/2060035.md" target="_blank">时事大家谈：北约峰会登场 战略关注转向中国？终结俄乌战争的钥匙在习近平手上？</a></li>
 <li><a href="/comments/20240709/2059997.md" target="_blank">离家打拼竟十多年不跟家人联系！不想躺平却被社会现实所困</a></li>
 <li><a href="/comments/20240709/2059963.md" target="_blank">【台湾铜锣湾书店生意惨淡打算搬家】【林荣基：租约到期 23条影响致生意骤减】</a></li>
 <li><a href="/comments/20240709/2059961.md" target="_blank">帕金森病专家8进白宫，拜登出什么事？总统豁免权裁决继续发酵，川普机密文件案审理全面停止。拜登机密文件拜登</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240709/2059734.md" target="_blank">【泽论四方】英国大选反映选民向民粹主义说不</a></li>
 <li><a href="/comments/20240709/2059695.md" target="_blank">【菲日签署防务协定 林剑以“地区人民”名义强烈抗议】</a></li>
 <li><a href="/comments/20240709/2059649.md" target="_blank">公务员横幅高挂要公正？城管也讨薪！中共党国没钱=没公正</a></li>
-<li><a href="/comments/20240708/2059640.md" target="_blank">本·卡森成为川普唯一关注的热门搭档。顶尖外科医生弃医从政，竟是因与奥巴马的一次早餐会。卡森川普竞选搭档</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
+<li><a href="/cbnews/20240603/2045072.md" target="_blank">漫谈古代科举之八股文</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/tculture/20231217/1975364.md" target="_blank">医山夜话：张锡纯医案解读（1）根治失眠 思路清晰</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20231201/1968320.md" target="_blank">【非凡新闻】结合中西文化精神 美国神韵表演吸睛</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
 <li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
 
 </ul>
 </div>
