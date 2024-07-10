@@ -15,19 +15,19 @@
 <li><a href="/ccpdope/20240710/2060139.md">袁红冰：中南海重重危机 三中全会后加速败亡</a></li>
 <li><a href="/topimagenews/20240710/2060226.md">油罐车成毒车 背后大佬是燕郊“四大地产家族”</a></li>
 <li><a href="/topimagenews/20240710/2060256.md">美国一行业正加速撤出中国</a></li>
-<li><a href="/topimagenews/20240710/2060078.md">不只经济萎靡 外媒分析大陆公民冒险偷渡美国的原因</a></li>
 <li><a href="/cbnews/20240710/2060375.md">中共下令销毁《人物》第6期杂志 引网民猜测</a></li>
-<li><a href="/cbnews/20240710/2060308.md">〖红朝浮世绘〗真让习近平说对了，中共执政就是不够格</a></li>
+<li><a href="/topimagenews/20240710/2060078.md">不只经济萎靡 外媒分析大陆公民冒险偷渡美国的原因</a></li>
 <li><a href="/topimagenews/20240710/2060436.md">万科突然抛出一颗大雷</a></li>
+<li><a href="/cbnews/20240710/2060308.md">〖红朝浮世绘〗真让习近平说对了，中共执政就是不够格</a></li>
 <li><a href="/cbnews/20240710/2060143.md">大陆大货车司机声泪俱下 讲述同行被迫自杀</a></li>
 <li><a href="/headline/20240710/2060392.md">魏凤和罪控加大 涉叛党与对敌国妥协</a></li>
 <li><a href="/cnnews/20240710/2060332.md">雄安站门前广场可以养牛了</a></li>
 <li><a href="/topimagenews/20240710/2060140.md">中国房市越来越严峻！这些城市不装了；北京无力救经济 台商及外资跑光光</a></li>
+<li><a href="/cbnews/20240710/2060418.md">魏凤和的“罪名”成为习的奇耻大辱</a></li>
 <li><a href="/topimagenews/20240710/2060158.md">有泳池、水上滑梯…卫星拍到金正恩专用豪华游船</a></li>
 <li><a href="/cnnews/20240710/2060238.md">能穿裤子吗？病态审美疯狂入侵成都太古里</a></li>
-<li><a href="/cbnews/20240710/2060418.md">魏凤和的“罪名”成为习的奇耻大辱</a></li>
-<li><a href="/topimagenews/20240710/2060157.md">恶毒辱骂女下属的高官，胆从何来</a></li>
 <li><a href="/comments/20240710/2060288.md">洞庭湖大堤刚合拢又要炸？直播被掐断，中共救灾造假穿帮了！85亿换“冰激凌”，李强不敢查？</a></li>
+<li><a href="/topimagenews/20240710/2060157.md">恶毒辱骂女下属的高官，胆从何来</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240710/2060506.md" target="_blank">时事大家谈：罐车混装形同&quot;投毒&quot;, 背后是有毒的社会?</a></li>
+<li><a href="/comments/20240710/2060505.md" target="_blank">时事大家谈：偷运英伟达芯片到中国，《华尔街日报》揭秘地下网络</a></li>
 <li><a href="/comments/20240710/2060496.md" target="_blank">煤不是可以吃的东西方菲时间中国经济</a></li>
 <li><a href="/comments/20240710/2060478.md" target="_blank">美国零元购是如何诞生的？</a></li>
 <li><a href="/comments/20240710/2060475.md" target="_blank">时事大家谈：罐车混装形同&quot;投毒&quot;, 背后是有毒的社会? 偷运英伟达芯片到中国，《华尔街日报》揭秘地下网络</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240710/2060167.md" target="_blank">李靖宇：中金女员工跳楼 时代悲剧如何避免？</a></li>
 <li><a href="/comments/20240710/2060166.md" target="_blank">掸封尘：“夺小孩饽饽”绝顶恶行 谁在干？</a></li>
 <li><a href="/comments/20240710/2060165.md" target="_blank">袁斌：中共三中全会将打着改革旗号反改革</a></li>
-<li><a href="/comments/20240710/2060164.md" target="_blank">周晓辉：忧技术被中共军方使用 德国叫停一交易</a></li>
-<li><a href="/comments/20240710/2060163.md" target="_blank">网海拾贝:洞庭湖水灾究竟是天灾还是人祸？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20240126/1992876.md" target="_blank">内幕：中国留学生里女生打男生和男生打女一样普遍</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20231204/1969287.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （三）</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
 <li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
 <li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/cnnews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
 <li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
 
 </ul>
 </div>
