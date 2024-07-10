@@ -17,17 +17,17 @@
 <li><a href="/cbnews/20240710/2060375.md">中共下令销毁《人物》第6期杂志 引网民猜测</a></li>
 <li><a href="/headline/20240710/2060392.md">魏凤和罪控加大 涉叛党与对敌国妥协</a></li>
 <li><a href="/cbnews/20240710/2060308.md">〖红朝浮世绘〗真让习近平说对了，中共执政就是不够格</a></li>
-<li><a href="/sohnews/20240710/2060397.md">习近平专机上讲话大吐苦水，前防长魏凤和失节叛国被处死刑，叛逃高官谈中共绝密内幕。《老灯开讲第606期》</a></li>
 <li><a href="/cnnews/20240710/2060332.md">雄安站门前广场可以养牛了</a></li>
+<li><a href="/sohnews/20240710/2060397.md">习近平专机上讲话大吐苦水，前防长魏凤和失节叛国被处死刑，叛逃高官谈中共绝密内幕。《老灯开讲第606期》</a></li>
 <li><a href="/cnnews/20240710/2060238.md">能穿裤子吗？病态审美疯狂入侵成都太古里</a></li>
 <li><a href="/cbnews/20240710/2060414.md">传洞庭湖三万人失联 官媒不报！淹水车打捞人还在车内 郑州又淹大水</a></li>
 <li><a href="/topimagenews/20240710/2060409.md">连GPS信号都彻底消失? 美中电子战造成菲律宾大断网? 专家这样说.....</a></li>
-<li><a href="/topimagenews/20240710/2060158.md">有泳池、水上滑梯…卫星拍到金正恩专用豪华游船</a></li>
 <li><a href="/comments/20240710/2060288.md">洞庭湖大堤刚合拢又要炸？直播被掐断，中共救灾造假穿帮了！85亿换“冰激凌”，李强不敢查？</a></li>
 <li><a href="/sohnews/20240710/2060432.md">习近平被控反人类罪</a></li>
-<li><a href="/topimagenews/20240710/2060157.md">恶毒辱骂女下属的高官，胆从何来</a></li>
-<li><a href="/health/20240710/2060316.md">不想结节癌变 千万避开3种蔬菜</a></li>
+<li><a href="/baitai/20240711/2060537.md">网络热传民众要求三中全会罢免习近平 控诉其从未到灾难现场</a></li>
 <li><a href="/topimagenews/20240710/2060408.md">伊朗变天新气象! 新总统公开反对强制女性戴头巾 还要延缓与中25年合约</a></li>
+<li><a href="/health/20240710/2060316.md">不想结节癌变 千万避开3种蔬菜</a></li>
+<li><a href="/health/20240710/2060304.md">发现癌后不治疗身体会咋样？医生说出大实话</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240711/2060600.md" target="_blank">一流的民主国家，末流的选举制度？</a></li>
 <li><a href="/cbnews/20240711/2060596.md" target="_blank">食油厂煤油厂间来回穿梭 中国罐车轨迹爆光遭速删</a></li>
 <li><a href="/cbnews/20240711/2060593.md" target="_blank">江峰：这只军队被习近平弄没了</a></li>
 <li><a href="/comments/20240711/2060562.md" target="_blank">美国零元购会这样终结吗？</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240710/2060292.md" target="_blank">郑州金水河道护坡塌方 花费25亿刚竣工半年</a></li>
 <li><a href="/cbnews/20240710/2060291.md" target="_blank">辽宁鞍山自来水发臭腥味还刺激皮肤 市民超市抢水</a></li>
 <li><a href="/cbnews/20240710/2060278.md" target="_blank">45分钟可抵台湾 美军罕见大动作</a></li>
-<li><a href="/cbnews/20240710/2060277.md" target="_blank">中共下令销毁《人物》第6期杂志 谜底揭晓？</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240711/2060600.md" target="_blank">一流的民主国家，末流的选举制度？</a></li>
+<li><a href="/comments/20240711/2060597.md" target="_blank">关胖本胖：捅破“天”的中储粮 妥妥的草台班子</a></li>
 <li><a href="/comments/20240711/2060575.md" target="_blank">事实查核｜央视“独家调查”美军偷叙利亚小麦 ？最新“证据”实为旧照片</a></li>
 <li><a href="/comments/20240711/2060562.md" target="_blank">美国零元购会这样终结吗？</a></li>
 <li><a href="/comments/20240711/2060557.md" target="_blank">白俄罗斯与中国在波兰边境附近举行联合演习</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240710/2060249.md" target="_blank">加州36号提案子弹上膛 直捣零元购</a></li>
 <li><a href="/comments/20240710/2060233.md" target="_blank">新京报记者遭泼脏水 是敌对势力？</a></li>
 <li><a href="/comments/20240710/2060231.md" target="_blank">百年真相:陷害海外中国人 中共使一阴招</a></li>
-<li><a href="/comments/20240710/2060230.md" target="_blank">中共国爆炸性丑闻出来了 在美国会怎么样</a></li>
-<li><a href="/comments/20240710/2060229.md" target="_blank">全球现象级事件打脸北京 中共最高检文件发文</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/taiwannews/20210119/1470524.md" target="_blank">纪录片《蚕食美国1》</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/aomi/life/20240330/2018911.md" target="_blank">挪威青年这样走出重度失眠和抑郁煎熬</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/comments/20240703/2057730.md" target="_blank">百年梦醒（十七）：马克思的连环计、出卖灵魂</a></li>
-<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
-<li><a href="/topimagenews/20200514/1328456.md" target="_blank">穿越时空 谢田教授亲身体验人体特异功能</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
-<li><a href="/ssgc/20240508/2034288.md" target="_blank">《透视“进化论”》第九章 人类起源问题的终极答案</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20230920/1936271.md" target="_blank">防止你的孩子不成功（5） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
 
 </ul>
 </div>
