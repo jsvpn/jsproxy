@@ -6,28 +6,28 @@
 <ul>
 
 <li><a href="/topimagenews/20240710/2060289.md">现在轮到中共难受了！中南海这时不会马上疏散 混乱程度可想而知</a></li>
-<li><a href="/cbnews/20240710/2060277.md">中共下令销毁《人物》第6期杂志 谜底揭晓？</a></li>
 <li><a href="/topimagenews/20240710/2060436.md">万科突然抛出一颗大雷</a></li>
 <li><a href="/cbnews/20240710/2060418.md">魏凤和的“罪名”成为习的奇耻大辱</a></li>
 <li><a href="/cbnews/20240710/2060375.md">中共下令销毁《人物》第6期杂志 引网民猜测</a></li>
 <li><a href="/headline/20240710/2060392.md">魏凤和罪控加大 涉叛党与对敌国妥协</a></li>
 <li><a href="/cbnews/20240710/2060308.md">〖红朝浮世绘〗真让习近平说对了，中共执政就是不够格</a></li>
 <li><a href="/cnnews/20240710/2060332.md">雄安站门前广场可以养牛了</a></li>
-<li><a href="/sohnews/20240710/2060397.md">习近平专机上讲话大吐苦水，前防长魏凤和失节叛国被处死刑，叛逃高官谈中共绝密内幕。《老灯开讲第606期》</a></li>
 <li><a href="/baitai/20240711/2060537.md">网络热传民众要求三中全会罢免习近平 控诉其从未到灾难现场</a></li>
+<li><a href="/sohnews/20240710/2060397.md">习近平专机上讲话大吐苦水，前防长魏凤和失节叛国被处死刑，叛逃高官谈中共绝密内幕。《老灯开讲第606期》</a></li>
 <li><a href="/cbnews/20240710/2060414.md">传洞庭湖三万人失联 官媒不报！淹水车打捞人还在车内 郑州又淹大水</a></li>
 <li><a href="/topimagenews/20240710/2060409.md">连GPS信号都彻底消失? 美中电子战造成菲律宾大断网? 专家这样说.....</a></li>
 <li><a href="/comments/20240710/2060288.md">洞庭湖大堤刚合拢又要炸？直播被掐断，中共救灾造假穿帮了！85亿换“冰激凌”，李强不敢查？</a></li>
 <li><a href="/topimagenews/20240711/2060595.md">内幕惊爆 中欧贸易战 中共搞砸了</a></li>
+<li><a href="/cnnews/20240711/2060598.md">日本传来重量级消息</a></li>
 <li><a href="/sohnews/20240710/2060432.md">习近平被控反人类罪</a></li>
 <li><a href="/topimagenews/20240710/2060408.md">伊朗变天新气象! 新总统公开反对强制女性戴头巾 还要延缓与中25年合约</a></li>
+<li><a href="/headline/20240711/2060572.md">中产阶级面临普遍降薪 中国泡沫经济已然破灭？</a></li>
 <li><a href="/health/20240710/2060304.md">发现癌后不治疗身体会咋样？医生说出大实话</a></li>
 <li><a href="/health/20240710/2060316.md">不想结节癌变 千万避开3种蔬菜</a></li>
-<li><a href="/headline/20240711/2060572.md">中产阶级面临普遍降薪 中国泡沫经济已然破灭？</a></li>
-<li><a href="/cnnews/20240710/2060286.md">外人不知道！中共为何总是无预警泄洪？原因令人吃惊</a></li>
+<li><a href="/topimagenews/20240711/2060665.md">骇人现场曝光！山东男拿斧头当街砍死母女</a></li>
 <li><a href="/sohnews/20240710/2060371.md">🔥🔥巴西灵媒预​​测:7月洪水将蔓延全中国❗预言正在应验❗</a></li>
-<li><a href="/cnnews/20240711/2060598.md">日本传来重量级消息</a></li>
 <li><a href="/ccpdope/20240710/2060430.md">苏州出台「过紧日子」十措施 显示政府财政困难</a></li>
+<li><a href="/topimagenews/20240710/2060411.md">恐怖偷割器官! 重庆男治疗后发现肾脏少一颗 医院竟回 : 被自身“吸收”了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240711/2060737.md" target="_blank">江峰：在所有的猎枪对准一头熊的时候，一头猪跑了进来</a></li>
+<li><a href="/cbnews/20240711/2060733.md" target="_blank">〖红朝浮世绘〗天天说日本人所谓的核废水，谁知自己天天吃煤油喝粪水</a></li>
 <li><a href="/cbnews/20240711/2060721.md" target="_blank">民调：中共国际形象不佳 尤其在邻国和富国中</a></li>
 <li><a href="/cbnews/20240711/2060697.md" target="_blank">油罐车混装丑闻波及北大等多所高校 当局急删报导</a></li>
 <li><a href="/cbnews/20240711/2060695.md" target="_blank">江峰：美国将介入支持美国公民对中共新冠病毒伤害索赔</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20240710/2060468.md" target="_blank">油罐车装食用油乱象 大陆食用油龙头金龙鱼疑涉案</a></li>
 <li><a href="/cbnews/20240710/2060450.md" target="_blank">中俄印三国泛推模糊版新一极联盟引关注</a></li>
 <li><a href="/cbnews/20240710/2060437.md" target="_blank">在美党员受中共遥控 专家：中美政治战的先锋队</a></li>
-<li><a href="/cbnews/20240710/2060418.md" target="_blank">魏凤和的“罪名”成为习的奇耻大辱</a></li>
-<li><a href="/cbnews/20240710/2060417.md" target="_blank">能防止被地面导弹拦截! 美成功试飞HTB-1高超音速飞行器 最高速度5马赫</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
+<li><a href="/comments/20240418/2026391.md" target="_blank">医生劝我妻子放弃，似乎这些医生热衷让病人快点去死？</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
 <li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/comments/20231220/1976789.md" target="_blank">大陆医生曝：九价HPV疫苗导致怀孕能力下降40%</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/cnnews/20221211/1822144.md" target="_blank">盖盖冲马桶很可怕！瞬间“病毒炸开”？</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20240318/2014289.md" target="_blank">唐柏桥：民运同仁突然向法轮功开火是怎么回事？</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
 
 </ul>
 </div>
