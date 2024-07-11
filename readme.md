@@ -8,7 +8,6 @@
 <li><a href="/topimagenews/20240710/2060436.md">万科突然抛出一颗大雷</a></li>
 <li><a href="/cbnews/20240710/2060418.md">魏凤和的“罪名”成为习的奇耻大辱</a></li>
 <li><a href="/topimagenews/20240711/2060665.md">骇人现场曝光！山东男拿斧头当街砍死母女</a></li>
-<li><a href="/cbnews/20240710/2060375.md">中共下令销毁《人物》第6期杂志 引网民猜测</a></li>
 <li><a href="/headline/20240710/2060392.md">魏凤和罪控加大 涉叛党与对敌国妥协</a></li>
 <li><a href="/sohnews/20240710/2060397.md">习近平专机上讲话大吐苦水，前防长魏凤和失节叛国被处死刑，叛逃高官谈中共绝密内幕。《老灯开讲第606期》</a></li>
 <li><a href="/baitai/20240711/2060537.md">网络热传民众要求三中全会罢免习近平 控诉其从未到灾难现场</a></li>
@@ -16,18 +15,19 @@
 <li><a href="/cnnews/20240711/2060598.md">日本传来重量级消息</a></li>
 <li><a href="/topimagenews/20240711/2060595.md">内幕惊爆 中欧贸易战 中共搞砸了</a></li>
 <li><a href="/sohnews/20240710/2060432.md">习近平被控反人类罪</a></li>
-<li><a href="/topimagenews/20240710/2060409.md">连GPS信号都彻底消失? 美中电子战造成菲律宾大断网? 专家这样说.....</a></li>
 <li><a href="/topimagenews/20240711/2060641.md">酿23万人丧生惨剧！中共蠢招：既要…又要…还要…</a></li>
-<li><a href="/topimagenews/20240711/2060640.md">美军一举 北京恐慌！普京金正恩也忙抱团</a></li>
+<li><a href="/topimagenews/20240710/2060409.md">连GPS信号都彻底消失? 美中电子战造成菲律宾大断网? 专家这样说.....</a></li>
 <li><a href="/cbnews/20240711/2060733.md">〖红朝浮世绘〗天天说日本人所谓的核废水，谁知自己天天吃煤油喝粪水</a></li>
+<li><a href="/topimagenews/20240711/2060640.md">美军一举 北京恐慌！普京金正恩也忙抱团</a></li>
 <li><a href="/cbnews/20240711/2060646.md">湖南民众：村里很多年轻人离奇死亡</a></li>
-<li><a href="/topimagenews/20240711/2060604.md">罕见，美国和盟友对中共采取一致行动</a></li>
 <li><a href="/headline/20240711/2060572.md">中产阶级面临普遍降薪 中国泡沫经济已然破灭？</a></li>
+<li><a href="/topimagenews/20240711/2060604.md">罕见，美国和盟友对中共采取一致行动</a></li>
 <li><a href="/topimagenews/20240711/2060603.md">快讯！北约发表联合宣言 印太4国首度加入</a></li>
 <li><a href="/topimagenews/20240710/2060408.md">伊朗变天新气象! 新总统公开反对强制女性戴头巾 还要延缓与中25年合约</a></li>
 <li><a href="/cnnews/20240711/2060585.md">中共央行已发出最强烈的“动手”信号</a></li>
 <li><a href="/topimagenews/20240710/2060411.md">恐怖偷割器官! 重庆男治疗后发现肾脏少一颗 医院竟回 : 被自身“吸收”了</a></li>
 <li><a href="/ccpdope/20240710/2060430.md">苏州出台「过紧日子」十措施 显示政府财政困难</a></li>
+<li><a href="/baitai/20240710/2060449.md">奇葩国度发生奇葩的事！ 他们撞脸习近平 遇上了大麻烦</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/tculture/20231217/1975364.md" target="_blank">医山夜话：张锡纯医案解读（1）根治失眠 思路清晰</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
+<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20231220/1976683.md" target="_blank">医山夜话：张锡纯医案解读（二）根治胃气不降之证</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
 <li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/cbnews/20240603/2045072.md" target="_blank">漫谈古代科举之八股文</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20231207/1970628.md" target="_blank">民兵对官军，希望之声打造广播界的奇蹟【方伟时间-20231206】</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/comments/20240623/2053092.md" target="_blank">章天亮：那些行于世间的觉者</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
 
 </ul>
 </div>
