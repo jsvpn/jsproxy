@@ -10,24 +10,24 @@
 <li><a href="/cnnews/20240711/2060598.md">日本传来重量级消息</a></li>
 <li><a href="/topimagenews/20240711/2060595.md">内幕惊爆 中欧贸易战 中共搞砸了</a></li>
 <li><a href="/topimagenews/20240711/2060641.md">酿23万人丧生惨剧！中共蠢招：既要…又要…还要…</a></li>
-<li><a href="/cbnews/20240711/2060646.md">湖南民众：村里很多年轻人离奇死亡</a></li>
-<li><a href="/cbnews/20240711/2060733.md">〖红朝浮世绘〗天天说日本人所谓的核废水，谁知自己天天吃煤油喝粪水</a></li>
 <li><a href="/cbnews/20240711/2060805.md">陆媒：“妈妈坐高铁，下车发现屁股后面湿了”</a></li>
 <li><a href="/topimagenews/20240711/2060815.md">啥意思？《解放军报》罕见痛骂部队领导层</a></li>
+<li><a href="/cbnews/20240711/2060646.md">湖南民众：村里很多年轻人离奇死亡</a></li>
+<li><a href="/cbnews/20240711/2060733.md">〖红朝浮世绘〗天天说日本人所谓的核废水，谁知自己天天吃煤油喝粪水</a></li>
 <li><a href="/topimagenews/20240711/2060640.md">美军一举 北京恐慌！普京金正恩也忙抱团</a></li>
 <li><a href="/headline/20240711/2060572.md">中产阶级面临普遍降薪 中国泡沫经济已然破灭？</a></li>
 <li><a href="/topimagenews/20240711/2060604.md">罕见，美国和盟友对中共采取一致行动</a></li>
 <li><a href="/topimagenews/20240711/2060603.md">快讯！北约发表联合宣言 印太4国首度加入</a></li>
+<li><a href="/yule/20240711/2060809.md">30岁章泽天加速衰老 有图为证</a></li>
 <li><a href="/cnnews/20240711/2060763.md">1只含6千寄生虫！ 爆中国黑心商卖假货 可致瘫痪</a></li>
 <li><a href="/cnnews/20240711/2060585.md">中共央行已发出最强烈的“动手”信号</a></li>
 <li><a href="/cbnews/20240711/2060775.md">三中全会前 马云回国现身阿里总部 引发猜测</a></li>
 <li><a href="/comments/20240711/2060760.md">抛出中储粮油罐车丑闻幕后 还有更深层次的原因</a></li>
-<li><a href="/yule/20240711/2060809.md">30岁章泽天加速衰老 有图为证</a></li>
 <li><a href="/cbnews/20240711/2060645.md">视频疯传！湖北恩施“吸粪车变送水车” 网怒</a></li>
 <li><a href="/baitai/20240711/2060714.md">中国接连发生重大危机 分析指或爆发起义</a></li>
-<li><a href="/baitai/20240710/2060465.md">真相触目惊心 污染油进入中共特供链 习近平一语成谶</a></li>
-<li><a href="/baitai/20240711/2060564.md">港媒：魏凤和被控「失节」习感到奇耻大辱？</a></li>
 <li><a href="/cnnews/20240711/2060616.md">乱了！魔幻上海：出租车司机被壮汉逼停舌吻 还两次…</a></li>
+<li><a href="/baitai/20240711/2060564.md">港媒：魏凤和被控「失节」习感到奇耻大辱？</a></li>
+<li><a href="/lifebaike/20240711/2060797.md">日本媳妇吐槽中国老公 引发47万网友共鸣</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20231223/1978148.md" target="_blank">医山夜话：张锡纯医案解读（三）赭石：降胃气 引火下行</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/topimagenews/20240511/2035423.md" target="_blank">原北京学员回忆李洪志先生在东方健康博览会上所行的奇迹</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20240703/2057730.md" target="_blank">百年梦醒（十七）：马克思的连环计、出卖灵魂</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
+<li><a href="/sohnews/20160119/493472.md" target="_blank">无效的医疗：手术刀下的谎言和药瓶里的欺骗</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
 
 </ul>
 </div>
