@@ -14,14 +14,14 @@
 <li><a href="/topimagenews/20240712/2061019.md">12万俄军阵亡！ 俄7天投800重磅炸弹仍挡不住乌军</a></li>
 <li><a href="/sohnews/20240712/2061252.md">又一副国级高官倒台，原因让人看透中共！｜百年真相</a></li>
 <li><a href="/sohnews/20240712/2061272.md">陈破空：北京突发大事！疑似习发动政变？逮捕军方高层！军队突然包围部队大院。共军战舰现身美国海岸。日本战舰罕见进入中国领海！北约指控关键纵容者，中共跳脚，却以行动坐实。直播：美东7月12日早9点、中港台晚9点</a></li>
-<li><a href="/topimagenews/20240712/2061065.md">北京因它下令销毁刊物？原文：一个美国人在东北散步</a></li>
 <li><a href="/topimagenews/20240712/2061182.md">中共摔锅了？油罐车司机亲曝…</a></li>
+<li><a href="/topimagenews/20240712/2061065.md">北京因它下令销毁刊物？原文：一个美国人在东北散步</a></li>
 <li><a href="/topimagenews/20240712/2061160.md">新京报曝光污染油的首席记者 微博被销号！人已失联</a></li>
 <li><a href="/topimagenews/20240712/2061325.md">“垃圾时间”成流行词 中共官媒批驳引讥讽</a></li>
 <li><a href="/topimagenews/20240712/2061045.md">F-35、F-15机密网上看光光? 传美军爆史上最大规模泄密案 250GB内容外流</a></li>
 <li><a href="/cbnews/20240712/2061109.md">监视解放军 日本军舰冲进中国领海</a></li>
-<li><a href="/ssgc/20240712/2061119.md">〖微博谈〗各种食品本身未必安全</a></li>
 <li><a href="/topimagenews/20240712/2061159.md">傻儿子待卖？全网笑出猪叫！俄除了核弹 还有啥大杀器？</a></li>
+<li><a href="/ssgc/20240712/2061119.md">〖微博谈〗各种食品本身未必安全</a></li>
 <li><a href="/topimagenews/20240712/2061149.md">中南海一撒手 百姓50亿美元血汗钱打水飘</a></li>
 <li><a href="/cbnews/20240712/2061230.md">韩最新情报：金正恩公然赤裸裸打脸中共 与普京走近后疏远习近平</a></li>
 <li><a href="/topimagenews/20240712/2061181.md">蓄意攻击领导人？中共国荒诞大起底</a></li>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240713/2061449.md" target="_blank">《亚太报道》07月12日音频</a></li>
+<li><a href="/comments/20240713/2061448.md" target="_blank">专栏 &#8211; 解读新疆：中国当局更名维吾尔族村庄 前同事因与境外记者有联系被判刑</a></li>
 <li><a href="/comments/20240713/2061391.md" target="_blank">摆拍淹水车後续💥网友火眼金睛抓出关键人物</a></li>
 <li><a href="/comments/20240713/2061385.md" target="_blank">时事大家谈：魏凤和“忠诚失节”指什么？中共国防部长通敌变节？</a></li>
 <li><a href="/comments/20240713/2061384.md" target="_blank">时事大家谈：政治不确定气氛笼罩北约，北约峰会中国议程收获如何？</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240712/2061113.md" target="_blank">李海鹏：梦中的新闻业和真实的新闻业</a></li>
 <li><a href="/comments/20240712/2061112.md" target="_blank">唐映红：北大国研中心调查发现人心已变，值得引起重视</a></li>
 <li><a href="/comments/20240712/2061111.md" target="_blank">罗翔：离开了对人的尊重，一切罪恶都是有可能的</a></li>
-<li><a href="/comments/20240712/2061094.md" target="_blank">油罐车轨迹查询功能下架</a></li>
-<li><a href="/comments/20240712/2061093.md" target="_blank">UP主挖出油罐车半年行驶轨迹</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/cnnews/20221211/1822144.md" target="_blank">盖盖冲马桶很可怕！瞬间“病毒炸开”？</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
 <li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/cbnews/20190701/1151453.md" target="_blank">盘点十大邪教特征 中共条条对号入座</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20231220/1976683.md" target="_blank">医山夜话：张锡纯医案解读（二）根治胃气不降之证</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20240412/2024185.md" target="_blank">是治疗还是屠杀?化疗药品滴一滴在皮肤即灼伤，很长时间才好</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
 
 </ul>
 </div>
