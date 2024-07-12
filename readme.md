@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/cbnews/20240711/2060805.md">陆媒：“妈妈坐高铁，下车发现屁股后面湿了”</a></li>
 <li><a href="/topimagenews/20240711/2060815.md">啥意思？《解放军报》罕见痛骂部队领导层</a></li>
 <li><a href="/baitai/20240712/2061054.md">出啥大事？三中全会前夕 网传中共军队突然包围北京部队家属大院视频</a></li>
 <li><a href="/cbnews/20240711/2060889.md">中储粮“投毒”事件发酵 分析：当局另有用意</a></li>
 <li><a href="/yule/20240711/2060809.md">30岁章泽天加速衰老 有图为证</a></li>
-<li><a href="/cbnews/20240712/2061020.md">习不得不出此下策？中共中央军委发文</a></li>
 <li><a href="/cbnews/20240711/2060890.md">被美卫星抓到! 存放大量坦克、装甲车 解放军在班公湖畔偷建大型地下设施</a></li>
+<li><a href="/cbnews/20240712/2061020.md">习不得不出此下策？中共中央军委发文</a></li>
 <li><a href="/topimagenews/20240711/2060888.md">躲倒查税30年? 避亏损不能倒闭? 中国多地惊传工厂爆炸 疑内情不单纯</a></li>
 <li><a href="/health/20240711/2060863.md">山东一49岁男子天天吃西红柿，坚持一年后，结果让医生都羡慕不已</a></li>
 <li><a href="/lifebaike/20240711/2060865.md">空调不制冷是缺氟？别被维修工骗了，教你一招，空调立马动力十足</a></li>
 <li><a href="/baitai/20240711/2060848.md">唐师三百手｜北大国研中心调查发现人心已变，值得引起重视</a></li>
 <li><a href="/topimagenews/20240712/2061019.md">12万俄军阵亡！ 俄7天投800重磅炸弹仍挡不住乌军</a></li>
 <li><a href="/topimagenews/20240712/2061086.md">中国经济惨况实录！深圳车站前睡满露宿“人矿”</a></li>
-<li><a href="/topimagenews/20240712/2061106.md">传三中全会再收割 中产返贫势加剧</a></li>
 <li><a href="/topimagenews/20240712/2061150.md">出大事 习抓红眼了？军队突包围北京部队大院 军人一拥而上【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20240712/2061106.md">传三中全会再收割 中产返贫势加剧</a></li>
 <li><a href="/baitai/20240711/2060921.md">矛头指向习？中国「食用油投毒」事件持续发酵或涉中共权斗</a></li>
-<li><a href="/cnnews/20240711/2060877.md">中国老百姓不忍了！ 城管长期作威作福欺压民众 当街被打如过街老鼠</a></li>
 <li><a href="/ssgc/20240712/2060983.md">评论 - 程晓农：“三中全会”去神化</a></li>
+<li><a href="/cnnews/20240711/2060877.md">中国老百姓不忍了！ 城管长期作威作福欺压民众 当街被打如过街老鼠</a></li>
 <li><a href="/ccpdope/20240712/2060993.md">大陆失业者比比皆是 80后博主大街上痛哭</a></li>
-<li><a href="/sohnews/20240711/2060870.md">陈破空：脸色难看！习突然任命上将，证明张又侠苗华都悬了！三中全会或酿惊天之变，彭丽媛非上位不可？以中央军委名义通知整军整人。北约峰会点明中国。直播：美东时间7月11日早9点、中港台当日晚9点</a></li>
 <li><a href="/worldnews/20240711/2060938.md">出国注意！护照1原因“遭拒登机” 曝血泪教训：花光积蓄</a></li>
-<li><a href="/topimagenews/20240712/2061045.md">F-35、F-15机密网上看光光? 传美军爆史上最大规模泄密案 250GB内容外流</a></li>
+<li><a href="/sohnews/20240711/2060870.md">陈破空：脸色难看！习突然任命上将，证明张又侠苗华都悬了！三中全会或酿惊天之变，彭丽媛非上位不可？以中央军委名义通知整军整人。北约峰会点明中国。直播：美东时间7月11日早9点、中港台当日晚9点</a></li>
 <li><a href="/topimagenews/20240712/2061065.md">北京因它下令销毁刊物？原文：一个美国人在东北散步</a></li>
+<li><a href="/topimagenews/20240712/2061045.md">F-35、F-15机密网上看光光? 传美军爆史上最大规模泄密案 250GB内容外流</a></li>
+<li><a href="/sohnews/20240711/2060897.md">魏凤和被爆间谍，有人向习发难！ 【远见快评】2024.7.10 精华选段</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20231212/1972297.md" target="_blank">日本华人确诊晚期直肠癌，修炼法轮功恢复健康（图）</a></li>
-<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20231220/1976683.md" target="_blank">医山夜话：张锡纯医案解读（二）根治胃气不降之证</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
 
 </ul>
 </div>
