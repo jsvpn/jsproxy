@@ -10,24 +10,24 @@
 <li><a href="/topimagenews/20240712/2061150.md">出大事 习抓红眼了？军队突包围北京部队大院 军人一拥而上【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240712/2061106.md">传三中全会再收割 中产返贫势加剧</a></li>
 <li><a href="/topimagenews/20240712/2061086.md">中国经济惨况实录！深圳车站前睡满露宿“人矿”</a></li>
-<li><a href="/topimagenews/20240712/2061019.md">12万俄军阵亡！ 俄7天投800重磅炸弹仍挡不住乌军</a></li>
-<li><a href="/ssgc/20240712/2060983.md">评论 - 程晓农：“三中全会”去神化</a></li>
-<li><a href="/worldnews/20240711/2060938.md">出国注意！护照1原因“遭拒登机” 曝血泪教训：花光积蓄</a></li>
 <li><a href="/topimagenews/20240712/2061225.md">军队大整肃信号! 三中全会就在眼前 习再次打破惯例</a></li>
-<li><a href="/topimagenews/20240712/2061065.md">北京因它下令销毁刊物？原文：一个美国人在东北散步</a></li>
+<li><a href="/ssgc/20240712/2060983.md">评论 - 程晓农：“三中全会”去神化</a></li>
+<li><a href="/topimagenews/20240712/2061019.md">12万俄军阵亡！ 俄7天投800重磅炸弹仍挡不住乌军</a></li>
+<li><a href="/worldnews/20240711/2060938.md">出国注意！护照1原因“遭拒登机” 曝血泪教训：花光积蓄</a></li>
 <li><a href="/topimagenews/20240712/2061182.md">中共摔锅了？油罐车司机亲曝…</a></li>
-<li><a href="/topimagenews/20240712/2061160.md">新京报曝光污染油的首席记者 微博被销号！人已失联</a></li>
-<li><a href="/ccpdope/20240712/2060993.md">大陆失业者比比皆是 80后博主大街上痛哭</a></li>
+<li><a href="/topimagenews/20240712/2061065.md">北京因它下令销毁刊物？原文：一个美国人在东北散步</a></li>
 <li><a href="/sohnews/20240712/2061252.md">又一副国级高官倒台，原因让人看透中共！｜百年真相</a></li>
+<li><a href="/ccpdope/20240712/2060993.md">大陆失业者比比皆是 80后博主大街上痛哭</a></li>
+<li><a href="/topimagenews/20240712/2061160.md">新京报曝光污染油的首席记者 微博被销号！人已失联</a></li>
 <li><a href="/topimagenews/20240712/2061045.md">F-35、F-15机密网上看光光? 传美军爆史上最大规模泄密案 250GB内容外流</a></li>
 <li><a href="/ssgc/20240712/2061119.md">〖微博谈〗各种食品本身未必安全</a></li>
 <li><a href="/cbnews/20240712/2061196.md">男子欠贷款330万 被强制收房！车库一幕惊呆众人</a></li>
 <li><a href="/cbnews/20240712/2061230.md">韩最新情报：金正恩公然赤裸裸打脸中共 与普京走近后疏远习近平</a></li>
 <li><a href="/topimagenews/20240712/2061159.md">傻儿子待卖？全网笑出猪叫！俄除了核弹 还有啥大杀器？</a></li>
-<li><a href="/topimagenews/20240712/2061181.md">蓄意攻击领导人？中共国荒诞大起底</a></li>
-<li><a href="/worldnews/20240712/2061050.md">全身弹孔，菲国选美皇后与外籍男友陈尸砂石场</a></li>
-<li><a href="/comments/20240712/2061002.md">【未普评论】中国农村即将倒退50年前 农业税或卷土重来</a></li>
 <li><a href="/topimagenews/20240712/2061149.md">中南海一撒手 百姓50亿美元血汗钱打水飘</a></li>
+<li><a href="/topimagenews/20240712/2061181.md">蓄意攻击领导人？中共国荒诞大起底</a></li>
+<li><a href="/cbnews/20240712/2061197.md">涉黄还是仙人跳? 按摩女技师称3980元包养10天?</a></li>
+<li><a href="/worldnews/20240712/2061050.md">全身弹孔，菲国选美皇后与外籍男友陈尸砂石场</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240712/2061353.md" target="_blank">德国将从5G网络禁止使用华为、中兴通讯组件</a></li>
+<li><a href="/comments/20240712/2061352.md" target="_blank">北约宣言指中俄无上限战略伙伴关系令外界深感担</a></li>
+<li><a href="/comments/20240712/2061351.md" target="_blank">习近平的三中全会值得被期待吗？（戴忠仁/上官乱/夏明/宋国诚）</a></li>
 <li><a href="/comments/20240712/2061322.md" target="_blank">中共党国出问题先找人！再编故事！然後解决&quot;人&quot;</a></li>
 <li><a href="/comments/20240712/2061314.md" target="_blank">巴伦首次亮相川普集会，尽显领袖风范。奥巴马策划软政变？克鲁尼要求拜登退选内幕曝光。奥巴马拜登巴伦</a></li>
 <li><a href="/comments/20240712/2061214.md" target="_blank">名人多次濒死，看到未来！地球临近第四次大毁灭？他目睹三次文明毁灭，宇宙重启全程、神圣的生命诞生、意念的巨大力量！｜未解之谜 扶摇</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20240711/2060954.md" target="_blank">美国将击沉塔拉瓦号，能否击沉中国航空母舰？｜#兵家常事</a></li>
 <li><a href="/comments/20240711/2060946.md" target="_blank">时事大家谈：美国议长推动抗中法案，当今世界有无“中国轴心”？</a></li>
 <li><a href="/comments/20240711/2060945.md" target="_blank">时事大家谈：北约宣言强硬警告北京，中白军演威胁北约边境？美国议长推动抗中法案，当今世界有无“中国轴心”？</a></li>
-<li><a href="/comments/20240711/2060944.md" target="_blank">宪法为什么不写清楚谁可以投票？方伟时间 宪法投票选举</a></li>
-<li><a href="/comments/20240711/2060873.md" target="_blank">如何笑谈 毕业生失业率！ 🧐继续升学就更好找工作？</a></li>
-<li><a href="/comments/20240711/2060872.md" target="_blank">《拯救法案》通过，5民主党人罕见反戈。克鲁尼要求拜登退选，佩洛西、舒默等民主党大佬动摇，拜登遭遇强大抵制。拜登佩洛西克鲁尼</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
 <li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/comments/20231203/1969183.md" target="_blank">开盖冲马桶 ，细菌会乱飞？除非你家马桶是喷泉！</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
 
 </ul>
 </div>
