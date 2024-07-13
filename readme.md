@@ -12,20 +12,20 @@
 <li><a href="/sohnews/20240712/2061272.md">陈破空：北京突发大事！疑似习发动政变？逮捕军方高层！军队突然包围部队大院。共军战舰现身美国海岸。日本战舰罕见进入中国领海！北约指控关键纵容者，中共跳脚，却以行动坐实。直播：美东7月12日早9点、中港台晚9点</a></li>
 <li><a href="/topimagenews/20240712/2061160.md">新京报曝光污染油的首席记者 微博被销号！人已失联</a></li>
 <li><a href="/topimagenews/20240712/2061325.md">“垃圾时间”成流行词 中共官媒批驳引讥讽</a></li>
-<li><a href="/topimagenews/20240712/2061372.md">突发！被制裁结果？俄国客机坠毁莫斯科 降落前狂绕圈</a></li>
 <li><a href="/topimagenews/20240713/2061393.md">北朝鲜30中学生遭处决！捡空投气球内《冬季戀歌》USB偷看</a></li>
+<li><a href="/topimagenews/20240712/2061372.md">突发！被制裁结果？俄国客机坠毁莫斯科 降落前狂绕圈</a></li>
 <li><a href="/cbnews/20240713/2061443.md">中共打击“换钱党” 红三代揭背后内情</a></li>
 <li><a href="/cbnews/20240712/2061230.md">韩最新情报：金正恩公然赤裸裸打脸中共 与普京走近后疏远习近平</a></li>
 <li><a href="/topimagenews/20240712/2061159.md">傻儿子待卖？全网笑出猪叫！俄除了核弹 还有啥大杀器？</a></li>
+<li><a href="/sohnews/20240713/2061474.md">传李尚福内定“极刑”，祸起一句话！习近平曝光批示曝光；“萝卜快跑”无人出租车超特斯拉？两大缺陷或决定命运 ｜远见快评 唐靖远</a></li>
 <li><a href="/topimagenews/20240712/2061149.md">中南海一撒手 百姓50亿美元血汗钱打水飘</a></li>
 <li><a href="/cbnews/20240712/2061276.md">疯了! 女子从成都打车去北京 花了多少钱?</a></li>
 <li><a href="/topimagenews/20240712/2061181.md">蓄意攻击领导人？中共国荒诞大起底</a></li>
+<li><a href="/topimagenews/20240713/2061495.md">三中全会将迎来大爆炸巨变？习当局到了对自己动刀的时候</a></li>
 <li><a href="/cbnews/20240712/2061196.md">男子欠贷款330万 被强制收房！车库一幕惊呆众人</a></li>
 <li><a href="/cbnews/20240712/2061197.md">涉黄还是仙人跳? 按摩女技师称3980元包养10天?</a></li>
-<li><a href="/sohnews/20240713/2061474.md">传李尚福内定“极刑”，祸起一句话！习近平曝光批示曝光；“萝卜快跑”无人出租车超特斯拉？两大缺陷或决定命运 ｜远见快评 唐靖远</a></li>
 <li><a href="/cbnews/20240712/2061305.md">山东男拿斧头砍伤妻女、外孙后自杀 知情人曝原因</a></li>
 <li><a href="/ccpdope/20240712/2061258.md">调查：中国人对贫富态度发生巨变</a></li>
-<li><a href="/topimagenews/20240713/2061495.md">三中全会将迎来大爆炸巨变？习当局到了对自己动刀的时候</a></li>
 <li><a href="/cbnews/20240712/2061279.md">缅军节节败退！前总统、副总理接力访中求助 北京只求保“这个”…</a></li>
 <li><a href="/lifebaike/20240712/2061235.md">不管用什么手机，只需打开这个按钮，彻底清除垃圾内存，恢复流畅</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240713/2061576.md" target="_blank">鲜为人知：中共党魁疯狂杀戮 韩战爆发原因惊人</a></li>
 <li><a href="/topimagenews/20240713/2061524.md" target="_blank">卧底雅思、托福“考团”后，我们扒出惊天黑幕</a></li>
 <li><a href="/topimagenews/20240713/2061507.md" target="_blank">重磅：以色列公布10月7日恐怖袭击的惊人内幕</a></li>
 <li><a href="/topimagenews/20240713/2061497.md" target="_blank">出境第一次被盘问 差点成边检“刀下亡魂”</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20240712/2061137.md" target="_blank">惊弓之鸟！套现17亿 波司登就被自己老板狠狠砸盘</a></li>
 <li><a href="/topimagenews/20240712/2061136.md" target="_blank">【微博精粹】创业天才！民办派出所抢了警察100单生意</a></li>
 <li><a href="/topimagenews/20240712/2061135.md" target="_blank">中共决策失算 应急厅在央视采访中泄密</a></li>
-<li><a href="/topimagenews/20240712/2061123.md" target="_blank">毛泽东陶醉在美国女记者温柔乡 贺子珍撒野</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/comments/20231223/1978148.md" target="_blank">医山夜话：张锡纯医案解读（三）赭石：降胃气 引火下行</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20231214/1974098.md" target="_blank">美国众议院议长：我所坚守的保守主义，具体是些什么内容？</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20240403/2020547.md" target="_blank">纪录片：DSM诊断与统计手册-精神病学最要命的骗局</a></li>
-<li><a href="/comments/20240126/1992876.md" target="_blank">内幕：中国留学生里女生打男生和男生打女一样普遍</a></li>
+<li><a href="/cnnews/20221211/1822144.md" target="_blank">盖盖冲马桶很可怕！瞬间“病毒炸开”？</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
+<li><a href="/comments/20240704/2058130.md" target="_blank">百年梦醒（十八）：共产魔教的机制、前所未有的巨大野心</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
 <li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20231223/1978148.md" target="_blank">医山夜话：张锡纯医案解读（三）赭石：降胃气 引火下行</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
 <li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20240703/2057730.md" target="_blank">百年梦醒（十七）：马克思的连环计、出卖灵魂</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/topimagenews/20180608/954788.md" target="_blank">安乐死根本安乐不了，别宣传了</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
 
 </ul>
 </div>
