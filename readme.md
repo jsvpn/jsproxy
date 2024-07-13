@@ -11,12 +11,12 @@
 <li><a href="/sohnews/20240712/2061272.md">陈破空：北京突发大事！疑似习发动政变？逮捕军方高层！军队突然包围部队大院。共军战舰现身美国海岸。日本战舰罕见进入中国领海！北约指控关键纵容者，中共跳脚，却以行动坐实。直播：美东7月12日早9点、中港台晚9点</a></li>
 <li><a href="/topimagenews/20240712/2061160.md">新京报曝光污染油的首席记者 微博被销号！人已失联</a></li>
 <li><a href="/topimagenews/20240712/2061325.md">“垃圾时间”成流行词 中共官媒批驳引讥讽</a></li>
+<li><a href="/sohnews/20240713/2061474.md">传李尚福内定“极刑”，祸起一句话！习近平曝光批示曝光；“萝卜快跑”无人出租车超特斯拉？两大缺陷或决定命运 ｜远见快评 唐靖远</a></li>
 <li><a href="/cbnews/20240713/2061443.md">中共打击“换钱党” 红三代揭背后内情</a></li>
 <li><a href="/topimagenews/20240712/2061372.md">突发！被制裁结果？俄国客机坠毁莫斯科 降落前狂绕圈</a></li>
 <li><a href="/topimagenews/20240713/2061393.md">北朝鲜30中学生遭处决！捡空投气球内《冬季戀歌》USB偷看</a></li>
-<li><a href="/sohnews/20240713/2061474.md">传李尚福内定“极刑”，祸起一句话！习近平曝光批示曝光；“萝卜快跑”无人出租车超特斯拉？两大缺陷或决定命运 ｜远见快评 唐靖远</a></li>
-<li><a href="/cbnews/20240712/2061230.md">韩最新情报：金正恩公然赤裸裸打脸中共 与普京走近后疏远习近平</a></li>
 <li><a href="/topimagenews/20240713/2061495.md">三中全会将迎来大爆炸巨变？习当局到了对自己动刀的时候</a></li>
+<li><a href="/cbnews/20240712/2061230.md">韩最新情报：金正恩公然赤裸裸打脸中共 与普京走近后疏远习近平</a></li>
 <li><a href="/topimagenews/20240712/2061159.md">傻儿子待卖？全网笑出猪叫！俄除了核弹 还有啥大杀器？</a></li>
 <li><a href="/cbnews/20240712/2061276.md">疯了! 女子从成都打车去北京 花了多少钱?</a></li>
 <li><a href="/topimagenews/20240712/2061181.md">蓄意攻击领导人？中共国荒诞大起底</a></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240713/2061612.md" target="_blank">中国洪灾 善心捐款全被骗！受灾户只领一罐头🥫</a></li>
 <li><a href="/comments/20240713/2061602.md" target="_blank">退党中心主席：退党是解体中共最和平之路</a></li>
 <li><a href="/comments/20240713/2061601.md" target="_blank">菁英论坛:全民躺平反共 熬出新中国？</a></li>
 <li><a href="/comments/20240713/2061600.md" target="_blank">被删文：吓坏全国人民的中储粮，妥妥的草台班子</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240713/2061476.md" target="_blank">大熊猫“云川”和“鑫宝”抵达圣地亚哥动物园</a></li>
 <li><a href="/comments/20240713/2061475.md" target="_blank">“7·20”反迫害 #法轮功 美国 #华府集会游行</a></li>
 <li><a href="/comments/20240713/2061449.md" target="_blank">《亚太报道》07月12日音频</a></li>
-<li><a href="/comments/20240713/2061448.md" target="_blank">专栏 &#8211; 解读新疆：中国当局更名维吾尔族村庄 前同事因与境外记者有联系被判刑</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/aomi/life/20240330/2018911.md" target="_blank">挪威青年这样走出重度失眠和抑郁煎熬</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20240412/2024185.md" target="_blank">是治疗还是屠杀?化疗药品滴一滴在皮肤即灼伤，很长时间才好</a></li>
-<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/cbnews/20240603/2045072.md" target="_blank">漫谈古代科举之八股文</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
 
 </ul>
 </div>
