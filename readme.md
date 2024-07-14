@@ -7,8 +7,8 @@
 
 <li><a href="/topimagenews/20240714/2061910.md">习当局软了 北京一份清单暗示求饶？</a></li>
 <li><a href="/topimagenews/20240714/2061810.md">失业大军太多祭出绝招 中国网友：国家急了</a></li>
-<li><a href="/topimagenews/20240714/2061805.md">中共棘手 这里的学生荒比东北更严重 正在“沙漠化”蔓延</a></li>
 <li><a href="/topimagenews/20240714/2061812.md">没脸见人？不寻常：中国取消GDP新闻发布会</a></li>
+<li><a href="/topimagenews/20240714/2061805.md">中共棘手 这里的学生荒比东北更严重 正在“沙漠化”蔓延</a></li>
 <li><a href="/topimagenews/20240714/2061831.md">突发！川普造势遇刺！遭枪击</a></li>
 <li><a href="/cbnews/20240714/2061814.md">出大事！东风-21D导弹竟消失了！火箭军元气大伤？</a></li>
 <li><a href="/topimagenews/20240714/2061857.md">2人身亡！川普遭暗杀险爆头 官方证实枪手死在现场</a></li>
@@ -19,8 +19,8 @@
 <li><a href="/sohnews/20240714/2062086.md">🔥🔥突发❗3大预言同时应验:川普被暗杀未遂❗深度挖掘黑幕❗帕克预测应验 并点名台湾未来 中国分裂成多个国家 习近平末日时间...</a></li>
 <li><a href="/baitai/20240714/2062073.md">涉薄熙来案 绯闻王沪宁 前央视美女主播姜丰生活照曝光｜史海秘辛｜希望视界</a></li>
 <li><a href="/topimagenews/20240714/2062016.md">遇刺后首现身 特朗普自行落机 持长枪警员戒备</a></li>
-<li><a href="/topimagenews/20240714/2062015.md">太强了！川普遇袭“美联社”照片传神 网友：预定下届普立兹新闻奖</a></li>
 <li><a href="/topimagenews/20240714/2062105.md">川普遭枪击 习近平慰问！中共媒体大幅详尽报导</a></li>
+<li><a href="/topimagenews/20240714/2062015.md">太强了！川普遇袭“美联社”照片传神 网友：预定下届普立兹新闻奖</a></li>
 <li><a href="/topimagenews/20240714/2061937.md">【微博精粹】陆网：中国将迎来前所未有的人口死亡高峰</a></li>
 <li><a href="/cnnews/20240714/2062041.md">喊出“不是你撞的，干嘛去扶”的法官 现况如何</a></li>
 <li><a href="/cnnews/20240714/2061986.md">枪击川普 凶手的身份和照片曝光</a></li>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240715/2062168.md" target="_blank">特工未能发现暗杀川普枪手 前美军狙击手批重大保安漏洞</a></li>
 <li><a href="/topimagenews/20240714/2062142.md" target="_blank">不只马斯克！贝佐斯、祖克柏都声援川普</a></li>
 <li><a href="/topimagenews/20240714/2062129.md" target="_blank">川普被瞄准“眉心”！退役将军揭保命关键</a></li>
 <li><a href="/topimagenews/20240714/2062128.md" target="_blank">枪手离川普不到135米！美媒揭“新兵都能命中” 特勤局挨轰失职</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20240714/2061884.md" target="_blank">造势遭暗杀未遂爆血 川普首发声：耳朵中弹遭贯穿</a></li>
 <li><a href="/topimagenews/20240714/2061883.md" target="_blank">中国急需拿出几万亿 发钱消费</a></li>
 <li><a href="/topimagenews/20240714/2061882.md" target="_blank">大丑闻！共军杀手锏部署10年突消失 竟是一场骗局？</a></li>
-<li><a href="/topimagenews/20240714/2061860.md" target="_blank">川普疑似中枪 马斯克表态100%支持川普</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
 <li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
 
 </ul>
 </div>
