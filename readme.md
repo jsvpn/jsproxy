@@ -17,17 +17,17 @@
 <li><a href="/topimagenews/20240714/2061805.md">中共棘手 这里的学生荒比东北更严重 正在“沙漠化”蔓延</a></li>
 <li><a href="/topimagenews/20240714/2061831.md">突发！川普造势遇刺！遭枪击</a></li>
 <li><a href="/topimagenews/20240713/2061576.md">鲜为人知：中共党魁疯狂杀戮 韩战爆发原因惊人</a></li>
-<li><a href="/yule/20240713/2061754.md">“亚洲第一美人”却自甘堕落 现在是什么下场</a></li>
 <li><a href="/lifebaike/20240713/2061579.md">惊人林彪共军打败国民党的真正原因</a></li>
-<li><a href="/cbnews/20240713/2061594.md">油罐车风波 习近平10年前发言热传遭讽“回旋镖”</a></li>
+<li><a href="/yule/20240713/2061754.md">“亚洲第一美人”却自甘堕落 现在是什么下场</a></li>
+<li><a href="/topimagenews/20240714/2061810.md">失业大军太多祭出绝招 中国网友：国家急了</a></li>
 <li><a href="/sohnews/20240714/2061771.md">“习近平成功摧毁了 江泽民最辉煌“闷声发大财”的一切”No.04（07/13/24）</a></li>
+<li><a href="/cbnews/20240713/2061594.md">油罐车风波 习近平10年前发言热传遭讽“回旋镖”</a></li>
 <li><a href="/lifebaike/20240713/2061657.md">家里有酵母粉的要留心，我也是最近才知道，看完记得提醒家里人</a></li>
 <li><a href="/lifebaike/20240713/2061658.md">原来溶解502胶水这么简单？只需滴一滴，快速溶解还不会残留</a></li>
-<li><a href="/ssgc/20240713/2061551.md">〖微博谈〗中国县城的信息茧房</a></li>
-<li><a href="/topimagenews/20240714/2061810.md">失业大军太多祭出绝招 中国网友：国家急了</a></li>
 <li><a href="/cnnews/20240713/2061582.md">耿飚回忆录曝光毛泽东遗嘱遭篡改真相</a></li>
 <li><a href="/sohnews/20240713/2061763.md">“百名防暴军人袭击包围西山军队家属院 ⋯ 视频分析：习近平急眼了 贴身军人被怀疑对其下手！”No.01（07/13/24）</a></li>
 <li><a href="/headline/20240713/2061745.md">世界公民法院对习近平发出逮捕令，控其犯有反人类罪和种族灭绝罪</a></li>
+<li><a href="/cbnews/20240713/2061593.md">衡阳保卫战电影被禁 分析：极左势力抬头</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240714/2061898.md" target="_blank">“老干妈”又出事了方菲时间中国经济</a></li>
+<li><a href="/comments/20240714/2061892.md" target="_blank">【杰森视角】华尔街传奇躲不过百万分之一概率的魔咒！一个时代迫使中金美女选择1600万豪宅！我对跌宕起伏的人生没兴趣！转型中国的生存法则:你只需致富一次！巴菲特99.8%的财富是在他52岁以后赚到的！</a></li>
+<li><a href="/comments/20240714/2061891.md" target="_blank">川普遇刺，神奇逃过一劫！(原订节目依然是正常时间播出）</a></li>
 <li><a href="/comments/20240714/2061885.md" target="_blank">川普遭遇未遂暗杀 狙击手被击毙</a></li>
 <li><a href="/comments/20240714/2061873.md" target="_blank">川普遭暗杀受轻伤，狙击手被当场击毙</a></li>
 <li><a href="/cbnews/20240714/2061864.md" target="_blank">重庆警车高速路来回变道别车 引舆论批评</a></li>
@@ -57,9 +60,6 @@
 <li><a href="/cbnews/20240713/2061712.md" target="_blank">抗衡中国软实力 澳洲加大投资印太媒体连结</a></li>
 <li><a href="/cbnews/20240713/2061711.md" target="_blank">萝卜快跑无人自动驾驶出租车被曝是有人远程代驾</a></li>
 <li><a href="/cbnews/20240713/2061710.md" target="_blank">广东11岁女孩患“公主病” 毛发结石塞满整个胃</a></li>
-<li><a href="/cbnews/20240713/2061687.md" target="_blank">央视前主播评油罐车混用内幕 背后乱象更可怕</a></li>
-<li><a href="/cbnews/20240713/2061655.md" target="_blank">中共秘密会议将透露习未来政策方向？</a></li>
-<li><a href="/cbnews/20240713/2061624.md" target="_blank">江峰：“笨萝卜”跟党走！出租车司机成社会稳定隐患，无人驾驶才放心；远程代驾内幕：百度无人驾驶背後的人工操弄，与谷歌Waymo的技术对照於安全标准差异，关键这一条无法逾越【江峰漫谈20240712第899期】</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240714/2061898.md" target="_blank">“老干妈”又出事了方菲时间中国经济</a></li>
+<li><a href="/comments/20240714/2061892.md" target="_blank">【杰森视角】华尔街传奇躲不过百万分之一概率的魔咒！一个时代迫使中金美女选择1600万豪宅！我对跌宕起伏的人生没兴趣！转型中国的生存法则:你只需致富一次！巴菲特99.8%的财富是在他52岁以后赚到的！</a></li>
+<li><a href="/comments/20240714/2061891.md" target="_blank">川普遇刺，神奇逃过一劫！(原订节目依然是正常时间播出）</a></li>
 <li><a href="/comments/20240714/2061888.md" target="_blank">王庆民：四面逢源中悄然崛起的越南</a></li>
 <li><a href="/comments/20240714/2061887.md" target="_blank">吴祚来:叛乱与内战：中共政权的合法性问题</a></li>
 <li><a href="/comments/20240714/2061886.md" target="_blank">蔡咏梅:学术红卫兵和西方伪史论</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20240713/2061602.md" target="_blank">退党中心主席：退党是解体中共最和平之路</a></li>
 <li><a href="/comments/20240713/2061601.md" target="_blank">菁英论坛:全民躺平反共 熬出新中国？</a></li>
 <li><a href="/comments/20240713/2061600.md" target="_blank">被删文：吓坏全国人民的中储粮，妥妥的草台班子</a></li>
-<li><a href="/comments/20240713/2061599.md" target="_blank">老牌恶棍：新京报，一夜之间成了汉奸</a></li>
-<li><a href="/comments/20240713/2061598.md" target="_blank">朵尔日记：食用油里掺入煤油对身体有多大危害？</a></li>
-<li><a href="/comments/20240713/2061597.md" target="_blank">群己论实：新京报记者韩福涛危险了</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
 <li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
-<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20240318/2014289.md" target="_blank">唐柏桥：民运同仁突然向法轮功开火是怎么回事？</a></li>
+<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
+<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
+<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/cbnews/20190701/1151453.md" target="_blank">盘点十大邪教特征 中共条条对号入座</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/aomi/life/20240330/2018911.md" target="_blank">挪威青年这样走出重度失眠和抑郁煎熬</a></li>
 
 </ul>
 </div>
