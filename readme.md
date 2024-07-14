@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/baitai/20240713/2061739.md">三中全会前中南海情况诡异 红二代与习动手？</a></li>
+<li><a href="/topimagenews/20240714/2061810.md">失业大军太多祭出绝招 中国网友：国家急了</a></li>
 <li><a href="/topimagenews/20240714/2061910.md">习当局软了 北京一份清单暗示求饶？</a></li>
 <li><a href="/yule/20240713/2061754.md">“亚洲第一美人”却自甘堕落 现在是什么下场</a></li>
-<li><a href="/topimagenews/20240714/2061810.md">失业大军太多祭出绝招 中国网友：国家急了</a></li>
 <li><a href="/topimagenews/20240714/2061805.md">中共棘手 这里的学生荒比东北更严重 正在“沙漠化”蔓延</a></li>
 <li><a href="/topimagenews/20240714/2061831.md">突发！川普造势遇刺！遭枪击</a></li>
-<li><a href="/topimagenews/20240714/2061857.md">2人身亡！川普遭暗杀险爆头 官方证实枪手死在现场</a></li>
 <li><a href="/topimagenews/20240714/2061812.md">没脸见人？不寻常：中国取消GDP新闻发布会</a></li>
+<li><a href="/topimagenews/20240714/2061857.md">2人身亡！川普遭暗杀险爆头 官方证实枪手死在现场</a></li>
 <li><a href="/sohnews/20240714/2061771.md">“习近平成功摧毁了 江泽民最辉煌“闷声发大财”的一切”No.04（07/13/24）</a></li>
-<li><a href="/topimagenews/20240714/2061977.md">FBI：川普遇袭为企图暗杀 枪手身份曝光！年仅约20岁</a></li>
 <li><a href="/cbnews/20240714/2061814.md">出大事！东风-21D导弹竟消失了！火箭军元气大伤？</a></li>
+<li><a href="/topimagenews/20240714/2061977.md">FBI：川普遇袭为企图暗杀 枪手身份曝光！年仅约20岁</a></li>
 <li><a href="/sohnews/20240714/2061952.md">暗杀川普枪手竟是中国男子？惊人大逆转</a></li>
 <li><a href="/sohnews/20240714/2061899.md">川普遇刺！凶手是华人？美国左右两派媒体都已疯狂</a></li>
 <li><a href="/sohnews/20240713/2061763.md">“百名防暴军人袭击包围西山军队家属院 ⋯ 视频分析：习近平急眼了 贴身军人被怀疑对其下手！”No.01（07/13/24）</a></li>
 <li><a href="/cbnews/20240714/2061833.md">中共公布新冠病例 舆论炸锅：我和大家都不傻</a></li>
+<li><a href="/topimagenews/20240714/2062016.md">遇刺后首现身 特朗普自行落机 持长枪警员戒备</a></li>
 <li><a href="/headline/20240713/2061745.md">世界公民法院对习近平发出逮捕令，控其犯有反人类罪和种族灭绝罪</a></li>
 <li><a href="/topimagenews/20240714/2061937.md">【微博精粹】陆网：中国将迎来前所未有的人口死亡高峰</a></li>
+<li><a href="/topimagenews/20240714/2062015.md">太强了！川普遇袭“美联社”照片传神 网友：预定下届普立兹新闻奖</a></li>
 <li><a href="/cnnews/20240714/2061986.md">枪击川普 凶手的身份和照片曝光</a></li>
-<li><a href="/topimagenews/20240714/2062016.md">遇刺后首现身 特朗普自行落机 持长枪警员戒备</a></li>
 <li><a href="/topimagenews/20240714/2061804.md">住建局将不存在！一个时代落幕了；国企好日子到头了！都在悄悄下调…【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240714/2061860.md">川普疑似中枪 马斯克表态100%支持川普</a></li>
-<li><a href="/topimagenews/20240714/2062015.md">太强了！川普遇袭“美联社”照片传神 网友：预定下届普立兹新闻奖</a></li>
 <li><a href="/cbnews/20240714/2061999.md">川普遭枪击…中国义乌市秒产“暗杀Ｔ”</a></li>
+<li><a href="/topimagenews/20240714/2061859.md">川普遇刺 现场急喊“趴下” 他带血起身高呼“战斗战斗战斗”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240714/2062117.md" target="_blank">马斯克挺川普！自爆也遭遇暗杀“8个月已2起”惊险过程曝</a></li>
 <li><a href="/topimagenews/20240714/2062105.md" target="_blank">川普遭枪击 习近平慰问！中共媒体大幅详尽报导</a></li>
 <li><a href="/topimagenews/20240714/2062104.md" target="_blank">川普遇袭遭射伤 特工狙击手：屋顶没人看守是特勤局疏忽</a></li>
 <li><a href="/topimagenews/20240714/2062103.md" target="_blank">川普“神之转头”躲过死神追杀</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20240714/2061859.md" target="_blank">川普遇刺 现场急喊“趴下” 他带血起身高呼“战斗战斗战斗”</a></li>
 <li><a href="/topimagenews/20240714/2061857.md" target="_blank">2人身亡！川普遭暗杀险爆头 官方证实枪手死在现场</a></li>
 <li><a href="/topimagenews/20240714/2061856.md" target="_blank">川普遭枪击险爆头最新伤势曝光 高举拳头表达奋战到底</a></li>
-<li><a href="/topimagenews/20240714/2061831.md" target="_blank">突发！川普造势遇刺！遭枪击</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
 <li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/comments/20240318/2014289.md" target="_blank">唐柏桥：民运同仁突然向法轮功开火是怎么回事？</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
 
 </ul>
 </div>
