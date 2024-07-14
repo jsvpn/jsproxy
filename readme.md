@@ -13,21 +13,21 @@
 <li><a href="/ccpdope/20240713/2061685.md">三中全会逆天保党 习近平敲向中共历史丧钟</a></li>
 <li><a href="/sohnews/20240713/2061663.md">孤家寡人：习只信任军中一个军官，十八家红二代与习正式开战，北约峰会用中文警告中共。《老灯开讲第608期》</a></li>
 <li><a href="/cnnews/20240713/2061540.md">我看了一下萝卜快跑后台，惊呆了</a></li>
-<li><a href="/sohnews/20240713/2061523.md">江泽民为和邓小平的人斗，把习近平推上台了</a></li>
 <li><a href="/topimagenews/20240713/2061654.md">中国银行被消失 美避险基金创办人：系统崩溃中恐资不抵债</a></li>
 <li><a href="/cbnews/20240713/2061586.md">〖红朝浮世绘〗中国医疗改革最大的难度就是中共</a></li>
 <li><a href="/topimagenews/20240713/2061524.md">卧底雅思、托福“考团”后，我们扒出惊天黑幕</a></li>
 <li><a href="/cbnews/20240713/2061563.md">视频疯传海外！王朝灭亡十大征兆 中共占全了</a></li>
-<li><a href="/cnnews/20240713/2061512.md">河北35岁女巨婴教科书级装瘫20年，熬死父母逼走姐夫</a></li>
 <li><a href="/topimagenews/20240713/2061576.md">鲜为人知：中共党魁疯狂杀戮 韩战爆发原因惊人</a></li>
+<li><a href="/topimagenews/20240714/2061805.md">中共棘手 这里的学生荒比东北更严重 正在“沙漠化”蔓延</a></li>
 <li><a href="/lifebaike/20240713/2061579.md">惊人林彪共军打败国民党的真正原因</a></li>
 <li><a href="/yule/20240713/2061754.md">“亚洲第一美人”却自甘堕落 现在是什么下场</a></li>
-<li><a href="/lifebaike/20240713/2061657.md">家里有酵母粉的要留心，我也是最近才知道，看完记得提醒家里人</a></li>
 <li><a href="/cbnews/20240713/2061594.md">油罐车风波 习近平10年前发言热传遭讽“回旋镖”</a></li>
+<li><a href="/lifebaike/20240713/2061657.md">家里有酵母粉的要留心，我也是最近才知道，看完记得提醒家里人</a></li>
 <li><a href="/sohnews/20240714/2061771.md">“习近平成功摧毁了 江泽民最辉煌“闷声发大财”的一切”No.04（07/13/24）</a></li>
 <li><a href="/lifebaike/20240713/2061658.md">原来溶解502胶水这么简单？只需滴一滴，快速溶解还不会残留</a></li>
 <li><a href="/ssgc/20240713/2061551.md">〖微博谈〗中国县城的信息茧房</a></li>
-<li><a href="/topimagenews/20240714/2061805.md">中共棘手 这里的学生荒比东北更严重 正在“沙漠化”蔓延</a></li>
+<li><a href="/cnnews/20240713/2061582.md">耿飚回忆录曝光毛泽东遗嘱遭篡改真相</a></li>
+<li><a href="/topimagenews/20240714/2061831.md">突发！川普造势遇刺！遭枪击</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,10 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240714/2061873.md" target="_blank">川普遭暗杀受轻伤，狙击手被当场击毙</a></li>
+<li><a href="/cbnews/20240714/2061864.md" target="_blank">重庆警车高速路来回变道别车 引舆论批评</a></li>
+<li><a href="/cbnews/20240714/2061863.md" target="_blank">广东多地现不明飞行物 目击者：持续10分钟</a></li>
+<li><a href="/cbnews/20240714/2061862.md" target="_blank">大陆殡葬员：刚放开时三尸体一起烧 现在烧年轻的</a></li>
 <li><a href="/cbnews/20240714/2061851.md" target="_blank">江峰：当兵四年，叠被子四年都落下创伤应激症了</a></li>
 <li><a href="/cbnews/20240714/2061850.md" target="_blank">江峰：北约信号很明确：如不改弦更张，普京的今天，就是习近平的明天</a></li>
 <li><a href="/cbnews/20240714/2061849.md" target="_blank">江峰：百度无人驾驶挑战特斯拉来武汉试试？</a></li>
@@ -56,16 +60,16 @@
 <li><a href="/cbnews/20240713/2061655.md" target="_blank">中共秘密会议将透露习未来政策方向？</a></li>
 <li><a href="/cbnews/20240713/2061624.md" target="_blank">江峰：“笨萝卜”跟党走！出租车司机成社会稳定隐患，无人驾驶才放心；远程代驾内幕：百度无人驾驶背後的人工操弄，与谷歌Waymo的技术对照於安全标准差异，关键这一条无法逾越【江峰漫谈20240712第899期】</a></li>
 <li><a href="/cbnews/20240713/2061614.md" target="_blank">韩国扩大对欧洲武器出口 跻身军售大国</a></li>
-<li><a href="/cbnews/20240713/2061613.md" target="_blank">中国男子持玩具枪抢劫金店 网民傻眼</a></li>
-<li><a href="/cbnews/20240713/2061594.md" target="_blank">油罐车风波 习近平10年前发言热传遭讽“回旋镖”</a></li>
-<li><a href="/cbnews/20240713/2061593.md" target="_blank">衡阳保卫战电影被禁 分析：极左势力抬头</a></li>
-<li><a href="/cbnews/20240713/2061592.md" target="_blank">武汉无人驾驶车“萝卜快跑”街头罢工 交警无奈</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240714/2061860.md" target="_blank">川普疑似中枪 马斯克表态100%支持川普</a></li>
+<li><a href="/topimagenews/20240714/2061859.md" target="_blank">川普遇刺 现场急喊“趴下” 他带血起身高呼“战斗战斗战斗”</a></li>
+<li><a href="/topimagenews/20240714/2061857.md" target="_blank">2人身亡！川普遭暗杀险爆头 官方证实枪手死在现场</a></li>
+<li><a href="/topimagenews/20240714/2061856.md" target="_blank">川普遭枪击险爆头最新伤势曝光 高举拳头表达奋战到底</a></li>
 <li><a href="/topimagenews/20240714/2061831.md" target="_blank">突发！川普造势遇刺！遭枪击</a></li>
 <li><a href="/topimagenews/20240714/2061812.md" target="_blank">没脸见人？不寻常：中国取消GDP新闻发布会</a></li>
 <li><a href="/topimagenews/20240714/2061811.md" target="_blank">大裁员5成 中共半导体独角兽栽了</a></li>
@@ -87,16 +91,13 @@
 <li><a href="/topimagenews/20240713/2061481.md" target="_blank">震憾美首都！数千人队伍横贯市中心 北约峰会代表：希望这游行在北京举行</a></li>
 <li><a href="/topimagenews/20240713/2061480.md" target="_blank">德国军火商助乌克兰抗俄被锁定！美德联手成功阻止俄罗斯暗杀计划</a></li>
 <li><a href="/topimagenews/20240713/2061464.md" target="_blank">无人机杀手! 命中率百分百 韩推激光武器Block-I 每发只要1.5美元</a></li>
-<li><a href="/topimagenews/20240713/2061463.md" target="_blank">“灭俄神器”终于到了! 布林肯亲自宣布 将与2瑞典预警机协同作战</a></li>
-<li><a href="/topimagenews/20240713/2061462.md" target="_blank">传三中全会再收割，中产返贫势加剧；习当局一声令下，两大产业受创最深</a></li>
-<li><a href="/topimagenews/20240713/2061393.md" target="_blank">北朝鲜30中学生遭处决！捡空投气球内《冬季戀歌》USB偷看</a></li>
-<li><a href="/topimagenews/20240712/2061372.md" target="_blank">突发！被制裁结果？俄国客机坠毁莫斯科 降落前狂绕圈</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240714/2061873.md" target="_blank">川普遭暗杀受轻伤，狙击手被当场击毙</a></li>
 <li><a href="/comments/20240714/2061840.md" target="_blank">日月红尘：特权与特供，超出你的想像</a></li>
 <li><a href="/comments/20240714/2061839.md" target="_blank">习近平正在失去机会！普京利用它们控制习</a></li>
 <li><a href="/comments/20240714/2061824.md" target="_blank">一直警告但没下文 那算什么？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240713/2061568.md" target="_blank">张平:美国总统选举不验证身份的实况</a></li>
 <li><a href="/comments/20240713/2061562.md" target="_blank">天亮时分：三中全会两大看点，历史垃圾时间的最后挣扎；通胀冷却，美联储降息在即，对世界有何影响（政论天下第1351集 20240712）天亮时分</a></li>
 <li><a href="/comments/20240713/2061552.md" target="_blank">北约峰会锁定中共 警告14遍 下面会怎样？</a></li>
-<li><a href="/comments/20240713/2061535.md" target="_blank">大清都亡了一百多年，仍有人觉得西方除了科技一无所是</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20231207/1970628.md" target="_blank">民兵对官军，希望之声打造广播界的奇蹟【方伟时间-20231206】</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/comments/20231201/1968320.md" target="_blank">【非凡新闻】结合中西文化精神 美国神韵表演吸睛</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/topimagenews/20180608/954788.md" target="_blank">安乐死根本安乐不了，别宣传了</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
 <li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
 
 </ul>
 </div>
