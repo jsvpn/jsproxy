@@ -9,8 +9,8 @@
 <li><a href="/topimagenews/20240714/2061810.md">失业大军太多祭出绝招 中国网友：国家急了</a></li>
 <li><a href="/topimagenews/20240714/2061812.md">没脸见人？不寻常：中国取消GDP新闻发布会</a></li>
 <li><a href="/topimagenews/20240714/2061805.md">中共棘手 这里的学生荒比东北更严重 正在“沙漠化”蔓延</a></li>
-<li><a href="/topimagenews/20240714/2061831.md">突发！川普造势遇刺！遭枪击</a></li>
 <li><a href="/cbnews/20240714/2061814.md">出大事！东风-21D导弹竟消失了！火箭军元气大伤？</a></li>
+<li><a href="/topimagenews/20240714/2061831.md">突发！川普造势遇刺！遭枪击</a></li>
 <li><a href="/topimagenews/20240714/2061857.md">2人身亡！川普遭暗杀险爆头 官方证实枪手死在现场</a></li>
 <li><a href="/sohnews/20240714/2061899.md">川普遇刺！凶手是华人？美国左右两派媒体都已疯狂</a></li>
 <li><a href="/cbnews/20240714/2061833.md">中共公布新冠病例 舆论炸锅：我和大家都不傻</a></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240715/2062173.md" target="_blank">实力带来和平，软弱招致战争</a></li>
 <li><a href="/cbnews/20240715/2062163.md" target="_blank">太恶心…山东外送员疑报复顾客 脚伸入餐盒还吐口水</a></li>
 <li><a href="/cbnews/20240715/2062162.md" target="_blank">“铂金月嫂”上岗首日 娃呛奶窒息亡 网：不是贵就专业</a></li>
 <li><a href="/cbnews/20240715/2062156.md" target="_blank">川普遭枪击恐增胜选率 台大教授张登及：美中对峙恐升高</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20240714/2061873.md" target="_blank">川普遭暗杀受轻伤，狙击手被当场击毙</a></li>
 <li><a href="/cbnews/20240714/2061864.md" target="_blank">重庆警车高速路来回变道别车 引舆论批评</a></li>
 <li><a href="/cbnews/20240714/2061863.md" target="_blank">广东多地现不明飞行物 目击者：持续10分钟</a></li>
-<li><a href="/cbnews/20240714/2061862.md" target="_blank">大陆殡葬员：刚放开时三尸体一起烧 现在烧年轻的</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240715/2062173.md" target="_blank">实力带来和平，软弱招致战争</a></li>
 <li><a href="/comments/20240715/2062155.md" target="_blank">中国梦碎！狼性青年🐺遇求职成躺平小狗🐶</a></li>
 <li><a href="/comments/20240714/2062137.md" target="_blank">凶手身份曝光 刺杀总统的都是些什么人？方伟时间川普美国大选刺杀</a></li>
 <li><a href="/comments/20240714/2062125.md" target="_blank">凶手身份曝光 刺杀总统的都是些什么人？方伟时间 川普 美国大选 刺杀</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240714/2061873.md" target="_blank">川普遭暗杀受轻伤，狙击手被当场击毙</a></li>
 <li><a href="/comments/20240714/2061840.md" target="_blank">日月红尘：特权与特供，超出你的想像</a></li>
 <li><a href="/comments/20240714/2061839.md" target="_blank">习近平正在失去机会！普京利用它们控制习</a></li>
-<li><a href="/comments/20240714/2061824.md" target="_blank">一直警告但没下文 那算什么？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
+<li><a href="/comments/20231213/1973586.md" target="_blank">六道轮回之畜生道</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20231220/1976683.md" target="_blank">医山夜话：张锡纯医案解读（二）根治胃气不降之证</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
 
 </ul>
 </div>
