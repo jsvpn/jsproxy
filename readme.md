@@ -12,22 +12,22 @@
 <li><a href="/topimagenews/20240714/2061831.md">突发！川普造势遇刺！遭枪击</a></li>
 <li><a href="/topimagenews/20240714/2061857.md">2人身亡！川普遭暗杀险爆头 官方证实枪手死在现场</a></li>
 <li><a href="/topimagenews/20240714/2061805.md">中共棘手 这里的学生荒比东北更严重 正在“沙漠化”蔓延</a></li>
-<li><a href="/topimagenews/20240714/2061810.md">失业大军太多祭出绝招 中国网友：国家急了</a></li>
 <li><a href="/yule/20240713/2061754.md">“亚洲第一美人”却自甘堕落 现在是什么下场</a></li>
+<li><a href="/topimagenews/20240714/2061810.md">失业大军太多祭出绝招 中国网友：国家急了</a></li>
 <li><a href="/topimagenews/20240714/2061812.md">没脸见人？不寻常：中国取消GDP新闻发布会</a></li>
-<li><a href="/cbnews/20240714/2061814.md">出大事！东风-21D导弹竟消失了！火箭军元气大伤？</a></li>
 <li><a href="/sohnews/20240714/2061771.md">“习近平成功摧毁了 江泽民最辉煌“闷声发大财”的一切”No.04（07/13/24）</a></li>
-<li><a href="/cbnews/20240714/2061833.md">中共公布新冠病例 舆论炸锅：我和大家都不傻</a></li>
+<li><a href="/cbnews/20240714/2061814.md">出大事！东风-21D导弹竟消失了！火箭军元气大伤？</a></li>
 <li><a href="/sohnews/20240714/2061899.md">川普遇刺！凶手是华人？美国左右两派媒体都已疯狂</a></li>
 <li><a href="/sohnews/20240714/2061952.md">暗杀川普枪手竟是中国男子？惊人大逆转</a></li>
+<li><a href="/cbnews/20240714/2061833.md">中共公布新冠病例 舆论炸锅：我和大家都不傻</a></li>
 <li><a href="/sohnews/20240713/2061763.md">“百名防暴军人袭击包围西山军队家属院 ⋯ 视频分析：习近平急眼了 贴身军人被怀疑对其下手！”No.01（07/13/24）</a></li>
 <li><a href="/headline/20240713/2061745.md">世界公民法院对习近平发出逮捕令，控其犯有反人类罪和种族灭绝罪</a></li>
+<li><a href="/topimagenews/20240714/2061977.md">FBI：川普遇袭为企图暗杀 枪手身份曝光！年仅约20岁</a></li>
+<li><a href="/topimagenews/20240714/2061937.md">【微博精粹】陆网：中国将迎来前所未有的人口死亡高峰</a></li>
 <li><a href="/topimagenews/20240714/2061860.md">川普疑似中枪 马斯克表态100%支持川普</a></li>
 <li><a href="/topimagenews/20240714/2061804.md">住建局将不存在！一个时代落幕了；国企好日子到头了！都在悄悄下调…【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20240714/2061937.md">【微博精粹】陆网：中国将迎来前所未有的人口死亡高峰</a></li>
-<li><a href="/topimagenews/20240714/2061977.md">FBI：川普遇袭为企图暗杀 枪手身份曝光！年仅约20岁</a></li>
-<li><a href="/topimagenews/20240714/2061859.md">川普遇刺 现场急喊“趴下” 他带血起身高呼“战斗战斗战斗”</a></li>
 <li><a href="/cnnews/20240714/2061821.md">可直达毛泽东的女人谢静宜</a></li>
+<li><a href="/topimagenews/20240714/2061859.md">川普遇刺 现场急喊“趴下” 他带血起身高呼“战斗战斗战斗”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
 <li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20240623/2053092.md" target="_blank">章天亮：那些行于世间的觉者</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
 <li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
-<li><a href="/cnnews/20221211/1822144.md" target="_blank">盖盖冲马桶很可怕！瞬间“病毒炸开”？</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
 
 </ul>
 </div>
