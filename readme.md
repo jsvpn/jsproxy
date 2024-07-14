@@ -9,22 +9,22 @@
 <li><a href="/topimagenews/20240713/2061709.md">中共院士终身制没了 引发热议</a></li>
 <li><a href="/topimagenews/20240714/2061910.md">习当局软了 北京一份清单暗示求饶？</a></li>
 <li><a href="/topimagenews/20240714/2061831.md">突发！川普造势遇刺！遭枪击</a></li>
-<li><a href="/topimagenews/20240714/2061857.md">2人身亡！川普遭暗杀险爆头 官方证实枪手死在现场</a></li>
-<li><a href="/yule/20240713/2061754.md">“亚洲第一美人”却自甘堕落 现在是什么下场</a></li>
 <li><a href="/topimagenews/20240714/2061805.md">中共棘手 这里的学生荒比东北更严重 正在“沙漠化”蔓延</a></li>
+<li><a href="/yule/20240713/2061754.md">“亚洲第一美人”却自甘堕落 现在是什么下场</a></li>
+<li><a href="/topimagenews/20240714/2061857.md">2人身亡！川普遭暗杀险爆头 官方证实枪手死在现场</a></li>
 <li><a href="/topimagenews/20240714/2061810.md">失业大军太多祭出绝招 中国网友：国家急了</a></li>
 <li><a href="/topimagenews/20240714/2061812.md">没脸见人？不寻常：中国取消GDP新闻发布会</a></li>
 <li><a href="/sohnews/20240714/2061771.md">“习近平成功摧毁了 江泽民最辉煌“闷声发大财”的一切”No.04（07/13/24）</a></li>
 <li><a href="/sohnews/20240714/2061899.md">川普遇刺！凶手是华人？美国左右两派媒体都已疯狂</a></li>
-<li><a href="/cbnews/20240714/2061814.md">出大事！东风-21D导弹竟消失了！火箭军元气大伤？</a></li>
 <li><a href="/sohnews/20240714/2061952.md">暗杀川普枪手竟是中国男子？惊人大逆转</a></li>
-<li><a href="/cbnews/20240714/2061833.md">中共公布新冠病例 舆论炸锅：我和大家都不傻</a></li>
+<li><a href="/cbnews/20240714/2061814.md">出大事！东风-21D导弹竟消失了！火箭军元气大伤？</a></li>
 <li><a href="/topimagenews/20240714/2061977.md">FBI：川普遇袭为企图暗杀 枪手身份曝光！年仅约20岁</a></li>
+<li><a href="/cbnews/20240714/2061833.md">中共公布新冠病例 舆论炸锅：我和大家都不傻</a></li>
 <li><a href="/sohnews/20240713/2061763.md">“百名防暴军人袭击包围西山军队家属院 ⋯ 视频分析：习近平急眼了 贴身军人被怀疑对其下手！”No.01（07/13/24）</a></li>
 <li><a href="/headline/20240713/2061745.md">世界公民法院对习近平发出逮捕令，控其犯有反人类罪和种族灭绝罪</a></li>
 <li><a href="/topimagenews/20240714/2061937.md">【微博精粹】陆网：中国将迎来前所未有的人口死亡高峰</a></li>
-<li><a href="/topimagenews/20240714/2061860.md">川普疑似中枪 马斯克表态100%支持川普</a></li>
 <li><a href="/topimagenews/20240714/2061804.md">住建局将不存在！一个时代落幕了；国企好日子到头了！都在悄悄下调…【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20240714/2061860.md">川普疑似中枪 马斯克表态100%支持川普</a></li>
 <li><a href="/cnnews/20240714/2061821.md">可直达毛泽东的女人谢静宜</a></li>
 <li><a href="/topimagenews/20240714/2061859.md">川普遇刺 现场急喊“趴下” 他带血起身高呼“战斗战斗战斗”</a></li>
 <li><a href="/cbnews/20240713/2061711.md">萝卜快跑无人自动驾驶出租车被曝是有人远程代驾</a></li>
@@ -66,6 +66,8 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240714/2062078.md" target="_blank">川普遭枪击！演的吗？网惊：你会找一个轰自己头的枪手吗</a></li>
+<li><a href="/topimagenews/20240714/2062077.md" target="_blank">川普遭枪击！20岁宾州男凶嫌自拍影片曝光：讨厌共和党、讨厌川普</a></li>
 <li><a href="/topimagenews/20240714/2062016.md" target="_blank">遇刺后首现身 特朗普自行落机 持长枪警员戒备</a></li>
 <li><a href="/topimagenews/20240714/2062015.md" target="_blank">太强了！川普遇袭“美联社”照片传神 网友：预定下届普立兹新闻奖</a></li>
 <li><a href="/topimagenews/20240714/2061998.md" target="_blank">刺杀川普枪手遭爆头 目击者曝特勤反应慢半拍</a></li>
@@ -89,8 +91,6 @@
 <li><a href="/topimagenews/20240714/2061812.md" target="_blank">没脸见人？不寻常：中国取消GDP新闻发布会</a></li>
 <li><a href="/topimagenews/20240714/2061811.md" target="_blank">大裁员5成 中共半导体独角兽栽了</a></li>
 <li><a href="/topimagenews/20240714/2061810.md" target="_blank">失业大军太多祭出绝招 中国网友：国家急了</a></li>
-<li><a href="/topimagenews/20240714/2061805.md" target="_blank">中共棘手 这里的学生荒比东北更严重 正在“沙漠化”蔓延</a></li>
-<li><a href="/topimagenews/20240714/2061804.md" target="_blank">住建局将不存在！一个时代落幕了；国企好日子到头了！都在悄悄下调…【阿波罗网报道】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/cnnews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
+<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
 
 </ul>
 </div>
