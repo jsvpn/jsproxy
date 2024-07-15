@@ -15,15 +15,15 @@
 <li><a href="/topimagenews/20240715/2062310.md">【微博精粹】一张照片载入史册：川普还没赢 有两家已经赢了</a></li>
 <li><a href="/ccpdope/20240715/2062161.md">川普遇刺后 中共外交部为何透习一举动</a></li>
 <li><a href="/comments/20240715/2062251.md">习近平终于明白了，当下最要命的是这事</a></li>
+<li><a href="/finance/20240715/2062355.md">中国股民哀嚎：A股没了</a></li>
+<li><a href="/topimagenews/20240715/2062371.md">汪文斌笑容灿烂 在机场与艳星同框照疯传</a></li>
 <li><a href="/topimagenews/20240715/2062299.md">三中全会聚焦3大看点：李尚福、秦刚将有交代</a></li>
 <li><a href="/headline/20240715/2062268.md">三中全会开幕，看点在哪？难点何在？</a></li>
-<li><a href="/baitai/20240715/2062326.md">中俄军演出事？中国海域现4艘沉船 退役军人被召备战</a></li>
 <li><a href="/cbnews/20240715/2062230.md">中共三中全会前夕 北京严密管控民众</a></li>
 <li><a href="/cbnews/20240715/2062327.md">〖红朝浮世绘〗现在中共执法者跟群众的关系升级为敌我矛盾了</a></li>
+<li><a href="/baitai/20240715/2062326.md">中俄军演出事？中国海域现4艘沉船 退役军人被召备战</a></li>
 <li><a href="/topimagenews/20240715/2062340.md">川普遇刺后自曝：中弹当下想这件事 彻底改变…</a></li>
-<li><a href="/finance/20240715/2062355.md">中国股民哀嚎：A股没了</a></li>
 <li><a href="/comments/20240715/2062187.md">杀手背景曝光 消防队长中弹前勇护妻女</a></li>
-<li><a href="/topimagenews/20240715/2062371.md">汪文斌笑容灿烂 在机场与艳星同框照疯传</a></li>
 <li><a href="/comments/20240715/2062186.md">准确预言！川普被暗杀未遂</a></li>
 <li><a href="/sohnews/20240714/2062106.md">有人在三个月前已经看到了川普遇刺的每一个细节画面！太不可思议了。</a></li>
 <li><a href="/cnnews/20240715/2062345.md">出国游20多人离奇消失，只剩领队在风中凌乱</a></li>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240715/2062463.md" target="_blank">太准了！多位预言家同步发声！川普遇刺后更多未来细节⋯预言家提前看到遇袭画面，精准度惊人；《圣经启示录》兑现；神谕：川普和美国未来！｜未解之谜 扶摇</a></li>
+<li><a href="/cbnews/20240715/2062456.md" target="_blank">官呐! 男子持刀刺警 警察不敢追、城管长期作恶遭报应 民众围观不帮忙</a></li>
 <li><a href="/cbnews/20240715/2062433.md" target="_blank">中共三中全会在内外危机中开锣 专家这样看</a></li>
 <li><a href="/cbnews/20240715/2062432.md" target="_blank">深圳大量鱼群飞出水面 游客拿盆捞</a></li>
 <li><a href="/cbnews/20240715/2062431.md" target="_blank">中国九省洪灾严重 七大水系预计将发生洪水</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/comments/20240715/2062173.md" target="_blank">实力带来和平，软弱招致战争</a></li>
 <li><a href="/cbnews/20240715/2062163.md" target="_blank">太恶心…山东外送员疑报复顾客 脚伸入餐盒还吐口水</a></li>
 <li><a href="/cbnews/20240715/2062162.md" target="_blank">“铂金月嫂”上岗首日 娃呛奶窒息亡 网：不是贵就专业</a></li>
-<li><a href="/cbnews/20240715/2062156.md" target="_blank">川普遭枪击恐增胜选率 台大教授张登及：美中对峙恐升高</a></li>
-<li><a href="/cbnews/20240714/2062153.md" target="_blank">朝鲜三十多名中学生因看韩剧遭公开处决</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240715/2062463.md" target="_blank">太准了！多位预言家同步发声！川普遇刺后更多未来细节⋯预言家提前看到遇袭画面，精准度惊人；《圣经启示录》兑现；神谕：川普和美国未来！｜未解之谜 扶摇</a></li>
+<li><a href="/comments/20240715/2062460.md" target="_blank">谁是“极端民族主义者”的主人？</a></li>
 <li><a href="/comments/20240715/2062409.md" target="_blank">SHOT‼️ 白宫证实拜登与川普通话 祈祷平安 谴责暴力</a></li>
 <li><a href="/comments/20240715/2062374.md" target="_blank">秦鹏观察：川普遇袭早有预言 两照片进历史</a></li>
 <li><a href="/comments/20240715/2062333.md" target="_blank">特勤局旋即击毙枪手 自己却陷入泥潭</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240715/2062257.md" target="_blank">昆仑：重大谜团——特勤局将最佳位置，留给了枪手</a></li>
 <li><a href="/comments/20240715/2062256.md" target="_blank">川普，神的干预</a></li>
 <li><a href="/comments/20240715/2062255.md" target="_blank">中国新闻的“两种闭环”：从改变社会到改变媒体</a></li>
-<li><a href="/comments/20240715/2062251.md" target="_blank">习近平终于明白了，当下最要命的是这事</a></li>
-<li><a href="/comments/20240715/2062245.md" target="_blank">文昭：中国行行有内幕、幕幕要你命！这个无解之局怎麽破？【会员样片节选】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
 <li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
-<li><a href="/topimagenews/20200514/1328456.md" target="_blank">穿越时空 谢田教授亲身体验人体特异功能</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
+<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20240704/2058130.md" target="_blank">百年梦醒（十八）：共产魔教的机制、前所未有的巨大野心</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
 <li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
 
 </ul>
 </div>
