@@ -9,9 +9,9 @@
 <li><a href="/sohnews/20240714/2062086.md">🔥🔥突发❗3大预言同时应验:川普被暗杀未遂❗深度挖掘黑幕❗帕克预测应验 并点名台湾未来 中国分裂成多个国家 习近平末日时间...</a></li>
 <li><a href="/cnnews/20240715/2062220.md">全网封杀！中国牛奶塌房了</a></li>
 <li><a href="/topimagenews/20240714/2062129.md">川普被瞄准“眉心”！退役将军揭保命关键</a></li>
-<li><a href="/topimagenews/20240715/2062218.md">枪手最后身影曝光！开火到毙命仅6秒 女疑喊枪手名网热议</a></li>
-<li><a href="/topimagenews/20240714/2062105.md">川普遭枪击 习近平慰问！中共媒体大幅详尽报导</a></li>
 <li><a href="/ssgc/20240714/2062092.md">紧日子﹑乱日子﹑险日子：三中全会基调是活下去</a></li>
+<li><a href="/topimagenews/20240714/2062105.md">川普遭枪击 习近平慰问！中共媒体大幅详尽报导</a></li>
+<li><a href="/topimagenews/20240715/2062218.md">枪手最后身影曝光！开火到毙命仅6秒 女疑喊枪手名网热议</a></li>
 <li><a href="/topimagenews/20240715/2062204.md">暗杀川普枪手身份确认 旧金山选民心态大转变</a></li>
 <li><a href="/topimagenews/20240715/2062229.md">李嘉诚楼盘半价抛售！这座超大城市，被做空了</a></li>
 <li><a href="/topimagenews/20240715/2062310.md">【微博精粹】一张照片载入史册：川普还没赢 有两家已经赢了</a></li>
@@ -25,9 +25,9 @@
 <li><a href="/comments/20240715/2062187.md">杀手背景曝光 消防队长中弹前勇护妻女</a></li>
 <li><a href="/topimagenews/20240714/2062077.md">川普遭枪击！20岁宾州男凶嫌自拍影片曝光：讨厌共和党、讨厌川普</a></li>
 <li><a href="/comments/20240715/2062186.md">准确预言！川普被暗杀未遂</a></li>
+<li><a href="/topimagenews/20240715/2062254.md">中共恶行逃不掉！数百人证据提交美国</a></li>
+<li><a href="/cbnews/20240715/2062327.md">〖红朝浮世绘〗现在中共执法者跟群众的关系升级为敌我矛盾了</a></li>
 <li><a href="/sohnews/20240714/2062106.md">有人在三个月前已经看到了川普遇刺的每一个细节画面！太不可思议了。</a></li>
-<li><a href="/topimagenews/20240714/2062103.md">川普“神之转头”躲过死神追杀</a></li>
-<li><a href="/topimagenews/20240715/2062168.md">特工未能发现暗杀川普枪手 前美军狙击手批重大保安漏洞</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240715/2062387.md" target="_blank">尧帝治世之道（一）</a></li>
 <li><a href="/cbnews/20240715/2062353.md" target="_blank">新西兰总理：将更多揭露中共间谍活动</a></li>
 <li><a href="/cbnews/20240715/2062352.md" target="_blank">川普中弹后3小时，淘宝已经热销2000件</a></li>
 <li><a href="/cbnews/20240715/2062351.md" target="_blank">三中全会登场 北京下“禁飞令” 街头警察密布</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20240714/2062137.md" target="_blank">凶手身份曝光 刺杀总统的都是些什么人？方伟时间川普美国大选刺杀</a></li>
 <li><a href="/comments/20240714/2062125.md" target="_blank">凶手身份曝光 刺杀总统的都是些什么人？方伟时间 川普 美国大选 刺杀</a></li>
 <li><a href="/cbnews/20240714/2062037.md" target="_blank">连云港车一路冲撞 传死伤十余人</a></li>
-<li><a href="/cbnews/20240714/2062036.md" target="_blank">内蒙古载游客车辆侧翻致3死4伤 知情人透露细节</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20190701/1151501.md" target="_blank">【特稿】中国共产党是邪教组织</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20240318/2014289.md" target="_blank">唐柏桥：民运同仁突然向法轮功开火是怎么回事？</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
 <li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
 <li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
 <li><a href="/comments/20240126/1992876.md" target="_blank">内幕：中国留学生里女生打男生和男生打女一样普遍</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
-<li><a href="/comments/20231207/1970628.md" target="_blank">民兵对官军，希望之声打造广播界的奇蹟【方伟时间-20231206】</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
 
 </ul>
 </div>
