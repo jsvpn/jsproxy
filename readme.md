@@ -12,22 +12,22 @@
 <li><a href="/cnnews/20240714/2062041.md">喊出“不是你撞的，干嘛去扶”的法官 现况如何</a></li>
 <li><a href="/topimagenews/20240715/2062218.md">枪手最后身影曝光！开火到毙命仅6秒 女疑喊枪手名网热议</a></li>
 <li><a href="/topimagenews/20240714/2062105.md">川普遭枪击 习近平慰问！中共媒体大幅详尽报导</a></li>
-<li><a href="/topimagenews/20240714/2062016.md">遇刺后首现身 特朗普自行落机 持长枪警员戒备</a></li>
 <li><a href="/topimagenews/20240714/2062015.md">太强了！川普遇袭“美联社”照片传神 网友：预定下届普立兹新闻奖</a></li>
+<li><a href="/topimagenews/20240714/2062016.md">遇刺后首现身 特朗普自行落机 持长枪警员戒备</a></li>
 <li><a href="/topimagenews/20240715/2062204.md">暗杀川普枪手身份确认 旧金山选民心态大转变</a></li>
 <li><a href="/ssgc/20240714/2062092.md">紧日子﹑乱日子﹑险日子：三中全会基调是活下去</a></li>
 <li><a href="/topimagenews/20240715/2062229.md">李嘉诚楼盘半价抛售！这座超大城市，被做空了</a></li>
 <li><a href="/cbnews/20240714/2062037.md">连云港车一路冲撞 传死伤十余人</a></li>
-<li><a href="/cbnews/20240714/2061999.md">川普遭枪击…中国义乌市秒产“暗杀Ｔ”</a></li>
-<li><a href="/topimagenews/20240714/2062078.md">川普遭枪击！演的吗？网惊：你会找一个轰自己头的枪手吗</a></li>
 <li><a href="/ccpdope/20240715/2062161.md">川普遇刺后 中共外交部为何透习一举动</a></li>
+<li><a href="/topimagenews/20240714/2062078.md">川普遭枪击！演的吗？网惊：你会找一个轰自己头的枪手吗</a></li>
 <li><a href="/cbnews/20240715/2062230.md">中共三中全会前夕 北京严密管控民众</a></li>
-<li><a href="/ccpdope/20240714/2062042.md">香港最近发生一件轰动全港的绑架案</a></li>
 <li><a href="/sohnews/20240714/2062101.md">大招来了？上海一纸文件征收民宅｜中共习近平上海</a></li>
-<li><a href="/topimagenews/20240714/2062077.md">川普遭枪击！20岁宾州男凶嫌自拍影片曝光：讨厌共和党、讨厌川普</a></li>
+<li><a href="/ccpdope/20240714/2062042.md">香港最近发生一件轰动全港的绑架案</a></li>
 <li><a href="/comments/20240715/2062187.md">杀手背景曝光 消防队长中弹前勇护妻女</a></li>
-<li><a href="/comments/20240715/2062186.md">准确预言！川普被暗杀未遂</a></li>
+<li><a href="/topimagenews/20240714/2062077.md">川普遭枪击！20岁宾州男凶嫌自拍影片曝光：讨厌共和党、讨厌川普</a></li>
 <li><a href="/cnnews/20240714/2062056.md">爬上谷仓屋顶的枪手 姓名是…</a></li>
+<li><a href="/comments/20240715/2062186.md">准确预言！川普被暗杀未遂</a></li>
+<li><a href="/topimagenews/20240715/2062310.md">【微博精粹】一张照片载入史册：川普还没赢 有两家已经赢了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,10 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240715/2062372.md" target="_blank">乌军猛力反攻！俄多线调精兵 苏-34空投“战场上的噩梦”炸弹挽颓势</a></li>
+<li><a href="/topimagenews/20240715/2062371.md" target="_blank">汪文斌笑容灿烂 在机场与艳星同框照疯传</a></li>
+<li><a href="/topimagenews/20240715/2062370.md" target="_blank">“江青月经不调” 暗藏中共肮脏政治密码</a></li>
+<li><a href="/topimagenews/20240715/2062369.md" target="_blank">中南海押宝东风26 火箭军将领吓坏</a></li>
 <li><a href="/topimagenews/20240715/2062340.md" target="_blank">川普遇刺后自曝：中弹当下想这件事 彻底改变…</a></li>
 <li><a href="/topimagenews/20240715/2062310.md" target="_blank">【微博精粹】一张照片载入史册：川普还没赢 有两家已经赢了</a></li>
 <li><a href="/topimagenews/20240715/2062299.md" target="_blank">三中全会聚焦3大看点：李尚福、秦刚将有交代</a></li>
@@ -87,16 +91,13 @@
 <li><a href="/topimagenews/20240714/2062078.md" target="_blank">川普遭枪击！演的吗？网惊：你会找一个轰自己头的枪手吗</a></li>
 <li><a href="/topimagenews/20240714/2062077.md" target="_blank">川普遭枪击！20岁宾州男凶嫌自拍影片曝光：讨厌共和党、讨厌川普</a></li>
 <li><a href="/topimagenews/20240714/2062016.md" target="_blank">遇刺后首现身 特朗普自行落机 持长枪警员戒备</a></li>
-<li><a href="/topimagenews/20240714/2062015.md" target="_blank">太强了！川普遇袭“美联社”照片传神 网友：预定下届普立兹新闻奖</a></li>
-<li><a href="/topimagenews/20240714/2061998.md" target="_blank">刺杀川普枪手遭爆头 目击者曝特勤反应慢半拍</a></li>
-<li><a href="/topimagenews/20240714/2061977.md" target="_blank">FBI：川普遇袭为企图暗杀 枪手身份曝光！年仅约20岁</a></li>
-<li><a href="/topimagenews/20240714/2061951.md" target="_blank">川普遇刺“枪手埋伏会场外高处狙击未接受安检” 2死2重伤</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240715/2062374.md" target="_blank">秦鹏观察：川普遇袭早有预言 两照片进历史</a></li>
 <li><a href="/comments/20240715/2062333.md" target="_blank">特勤局旋即击毙枪手 自己却陷入泥潭</a></li>
 <li><a href="/comments/20240715/2062317.md" target="_blank">被删文：“油瓶子”微小叙事，已被堂皇激昂的宏大叙事收编</a></li>
 <li><a href="/comments/20240715/2062316.md" target="_blank">倪刃：对提问禁言的时代</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240715/2062251.md" target="_blank">习近平终于明白了，当下最要命的是这事</a></li>
 <li><a href="/comments/20240715/2062245.md" target="_blank">文昭：中国行行有内幕、幕幕要你命！这个无解之局怎麽破？【会员样片节选】</a></li>
 <li><a href="/comments/20240715/2062205.md" target="_blank">维舟：川普要赢了吗？</a></li>
-<li><a href="/comments/20240715/2062201.md" target="_blank">欧盟对X施软硬两手 马斯克当场掀桌子</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/comments/20231212/1972297.md" target="_blank">日本华人确诊晚期直肠癌，修炼法轮功恢复健康（图）</a></li>
-<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
-<li><a href="/comments/20190701/1151501.md" target="_blank">【特稿】中国共产党是邪教组织</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
 <li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/comments/20190701/1151501.md" target="_blank">【特稿】中国共产党是邪教组织</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/topimagenews/20180608/954788.md" target="_blank">安乐死根本安乐不了，别宣传了</a></li>
+<li><a href="/comments/20231223/1978148.md" target="_blank">医山夜话：张锡纯医案解读（三）赭石：降胃气 引火下行</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
 
 </ul>
 </div>
