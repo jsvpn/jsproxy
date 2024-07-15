@@ -6,28 +6,28 @@
 <ul>
 
 <li><a href="/cnnews/20240715/2062220.md">全网封杀！中国牛奶塌房了</a></li>
-<li><a href="/topimagenews/20240714/2062129.md">川普被瞄准“眉心”！退役将军揭保命关键</a></li>
 <li><a href="/topimagenews/20240715/2062218.md">枪手最后身影曝光！开火到毙命仅6秒 女疑喊枪手名网热议</a></li>
 <li><a href="/topimagenews/20240715/2062204.md">暗杀川普枪手身份确认 旧金山选民心态大转变</a></li>
 <li><a href="/topimagenews/20240715/2062229.md">李嘉诚楼盘半价抛售！这座超大城市，被做空了</a></li>
 <li><a href="/comments/20240715/2062251.md">习近平终于明白了，当下最要命的是这事</a></li>
-<li><a href="/topimagenews/20240715/2062310.md">【微博精粹】一张照片载入史册：川普还没赢 有两家已经赢了</a></li>
 <li><a href="/ccpdope/20240715/2062161.md">川普遇刺后 中共外交部为何透习一举动</a></li>
+<li><a href="/topimagenews/20240715/2062310.md">【微博精粹】一张照片载入史册：川普还没赢 有两家已经赢了</a></li>
 <li><a href="/topimagenews/20240715/2062371.md">汪文斌笑容灿烂 在机场与艳星同框照疯传</a></li>
 <li><a href="/headline/20240715/2062268.md">三中全会开幕，看点在哪？难点何在？</a></li>
 <li><a href="/cbnews/20240715/2062230.md">中共三中全会前夕 北京严密管控民众</a></li>
-<li><a href="/finance/20240715/2062355.md">中国股民哀嚎：A股没了</a></li>
 <li><a href="/baitai/20240715/2062326.md">中俄军演出事？中国海域现4艘沉船 退役军人被召备战</a></li>
-<li><a href="/cbnews/20240715/2062327.md">〖红朝浮世绘〗现在中共执法者跟群众的关系升级为敌我矛盾了</a></li>
 <li><a href="/topimagenews/20240715/2062299.md">三中全会聚焦3大看点：李尚福、秦刚将有交代</a></li>
+<li><a href="/finance/20240715/2062355.md">中国股民哀嚎：A股没了</a></li>
+<li><a href="/cbnews/20240715/2062327.md">〖红朝浮世绘〗现在中共执法者跟群众的关系升级为敌我矛盾了</a></li>
 <li><a href="/topimagenews/20240715/2062340.md">川普遇刺后自曝：中弹当下想这件事 彻底改变…</a></li>
 <li><a href="/comments/20240715/2062187.md">杀手背景曝光 消防队长中弹前勇护妻女</a></li>
+<li><a href="/headline/20240715/2062401.md">【三中全会】央媒万言文数习近平政绩 几乎所有改革未见成效</a></li>
 <li><a href="/comments/20240715/2062186.md">准确预言！川普被暗杀未遂</a></li>
 <li><a href="/cnnews/20240715/2062345.md">出国游20多人离奇消失，只剩领队在风中凌乱</a></li>
+<li><a href="/topimagenews/20240715/2062421.md">川普和拜登，不约而同地转向了</a></li>
 <li><a href="/topimagenews/20240715/2062254.md">中共恶行逃不掉！数百人证据提交美国</a></li>
 <li><a href="/cbnews/20240714/2062153.md">朝鲜三十多名中学生因看韩剧遭公开处决</a></li>
 <li><a href="/topimagenews/20240715/2062168.md">特工未能发现暗杀川普枪手 前美军狙击手批重大保安漏洞</a></li>
-<li><a href="/cnnews/20240715/2062237.md">马斯克惊爆：美特勤局长此前竟是干这个的</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240715/2062501.md" target="_blank">时事大家谈：特朗普遇刺各方解读不一，枪击案影响总统选情？中共三中全会开幕，习近平如何“全面深化改革”？</a></li>
 <li><a href="/comments/20240715/2062474.md" target="_blank">川普最经典的演讲《永不放弃》带中文字幕）</a></li>
 <li><a href="/comments/20240715/2062463.md" target="_blank">太准了！多位预言家同步发声！川普遇刺后更多未来细节⋯预言家提前看到遇袭画面，精准度惊人；《圣经启示录》兑现；神谕：川普和美国未来！｜未解之谜 扶摇</a></li>
 <li><a href="/comments/20240715/2062460.md" target="_blank">谁是“极端民族主义者”的主人？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240715/2062275.md" target="_blank">天亮时分：刺杀川普！曝光几多惊人事！天意昭昭，一切早已注定；特勤局失职遭调查，预言家三月前精准描述了现场情况（政论天下第1353集 20240714）天亮时分</a></li>
 <li><a href="/comments/20240715/2062258.md" target="_blank">两个杀手？特勤局里有内鬼</a></li>
 <li><a href="/comments/20240715/2062257.md" target="_blank">昆仑：重大谜团——特勤局将最佳位置，留给了枪手</a></li>
-<li><a href="/comments/20240715/2062256.md" target="_blank">川普，神的干预</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20240318/2014289.md" target="_blank">唐柏桥：民运同仁突然向法轮功开火是怎么回事？</a></li>
+<li><a href="/comments/20231201/1968320.md" target="_blank">【非凡新闻】结合中西文化精神 美国神韵表演吸睛</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/comments/20240623/2053092.md" target="_blank">章天亮：那些行于世间的觉者</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
 
 </ul>
 </div>
