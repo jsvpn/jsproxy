@@ -18,14 +18,14 @@
 <li><a href="/headline/20240715/2062401.md">【三中全会】央媒万言文数习近平政绩 几乎所有改革未见成效</a></li>
 <li><a href="/topimagenews/20240715/2062421.md">川普和拜登，不约而同地转向了</a></li>
 <li><a href="/cbnews/20240715/2062230.md">中共三中全会前夕 北京严密管控民众</a></li>
-<li><a href="/finance/20240715/2062355.md">中国股民哀嚎：A股没了</a></li>
 <li><a href="/baitai/20240715/2062468.md">北京有灭顶之灾 三中全会就谈一件事</a></li>
+<li><a href="/finance/20240715/2062355.md">中国股民哀嚎：A股没了</a></li>
 <li><a href="/cbnews/20240715/2062327.md">〖红朝浮世绘〗现在中共执法者跟群众的关系升级为敌我矛盾了</a></li>
 <li><a href="/lifebaike/20240715/2062400.md">尿毒症是喝出来的？医生直言：即使是铁打的肾，这3种水也要少喝</a></li>
 <li><a href="/topimagenews/20240715/2062340.md">川普遇刺后自曝：中弹当下想这件事 彻底改变…</a></li>
 <li><a href="/cnnews/20240715/2062423.md">连云港爆重大车祸! 疑自杀式攻击 网传7死19伤 官方数字差甚远被打脸</a></li>
-<li><a href="/cnnews/20240715/2062345.md">出国游20多人离奇消失，只剩领队在风中凌乱</a></li>
 <li><a href="/topimagenews/20240715/2062477.md">中弹为何坚持先穿鞋？川普亲解释</a></li>
+<li><a href="/cnnews/20240715/2062345.md">出国游20多人离奇消失，只剩领队在风中凌乱</a></li>
 <li><a href="/topimagenews/20240715/2062370.md">“江青月经不调” 暗藏中共肮脏政治密码</a></li>
 <li><a href="/topimagenews/20240715/2062254.md">中共恶行逃不掉！数百人证据提交美国</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240716/2062650.md" target="_blank">方伟时间</a></li>
 <li><a href="/comments/20240716/2062624.md" target="_blank">川普获重生，首次专访谈内心巨变，重写演讲稿。梅兰妮娅声明，尽显第一夫人风范。议长约翰逊准备调查特勤局。川普枪击案梅兰妮娅</a></li>
 <li><a href="/comments/20240716/2062611.md" target="_blank">暗杀案过后，竞选盘面剧烈变动方伟时间美国大选</a></li>
 <li><a href="/cbnews/20240716/2062577.md" target="_blank">“小马宝莉”的诱惑：一张卡喊价16万 有13岁女生一个月刷5万买卡</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20240715/2062289.md" target="_blank">川普一意外安排和动作，躲过暗杀，川普发帖感谢神。民调飙升，商界领袖支持并惊呼：竞选已经结束。汤普森的主管发仇恨帖子被解雇。川普枪击案暗杀</a></li>
 <li><a href="/cbnews/20240715/2062231.md" target="_blank">混运丑闻中，中国涉事企业曾向澳洲出口食用油</a></li>
 <li><a href="/cbnews/20240715/2062230.md" target="_blank">中共三中全会前夕 北京严密管控民众</a></li>
-<li><a href="/comments/20240715/2062201.md" target="_blank">欧盟对X施软硬两手 马斯克当场掀桌子</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240716/2062650.md" target="_blank">方伟时间</a></li>
 <li><a href="/comments/20240716/2062624.md" target="_blank">川普获重生，首次专访谈内心巨变，重写演讲稿。梅兰妮娅声明，尽显第一夫人风范。议长约翰逊准备调查特勤局。川普枪击案梅兰妮娅</a></li>
 <li><a href="/comments/20240716/2062611.md" target="_blank">暗杀案过后，竞选盘面剧烈变动方伟时间美国大选</a></li>
 <li><a href="/comments/20240716/2062582.md" target="_blank">【文韬政论】英国政党轮替改变不了经济状况处于第二个失落的十年</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240715/2062284.md" target="_blank">殷盛琳：农村医保“催缴员”：380元的现实重量</a></li>
 <li><a href="/comments/20240715/2062283.md" target="_blank">皮尤：美国3/4受访者认为 中国经济对美国影响负面</a></li>
 <li><a href="/comments/20240715/2062282.md" target="_blank">褚朝新：当人丧失良知之后</a></li>
-<li><a href="/comments/20240715/2062281.md" target="_blank">汤名晖：一个内忧外患 之后还可能没有美国的北约</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20230920/1936271.md" target="_blank">防止你的孩子不成功（5） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/cnnews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
 
 </ul>
 </div>
