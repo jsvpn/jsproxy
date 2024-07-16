@@ -10,24 +10,24 @@
 <li><a href="/baitai/20240715/2062468.md">北京有灭顶之灾 三中全会就谈一件事</a></li>
 <li><a href="/lifebaike/20240715/2062400.md">尿毒症是喝出来的？医生直言：即使是铁打的肾，这3种水也要少喝</a></li>
 <li><a href="/finance/20240715/2062355.md">中国股民哀嚎：A股没了</a></li>
-<li><a href="/topimagenews/20240715/2062421.md">川普和拜登，不约而同地转向了</a></li>
 <li><a href="/cnnews/20240716/2062691.md">三中全会召开 立刻传来一个坏消息</a></li>
+<li><a href="/topimagenews/20240715/2062421.md">川普和拜登，不约而同地转向了</a></li>
 <li><a href="/cnnews/20240715/2062423.md">连云港爆重大车祸! 疑自杀式攻击 网传7死19伤 官方数字差甚远被打脸</a></li>
 <li><a href="/topimagenews/20240715/2062340.md">川普遇刺后自曝：中弹当下想这件事 彻底改变…</a></li>
 <li><a href="/headline/20240716/2062597.md">【三中全会】推迟近1年终开幕 习近平抛出新口号：不能「食洋不化」</a></li>
 <li><a href="/topimagenews/20240715/2062477.md">中弹为何坚持先穿鞋？川普亲解释</a></li>
 <li><a href="/cnnews/20240715/2062345.md">出国游20多人离奇消失，只剩领队在风中凌乱</a></li>
+<li><a href="/cnnews/20240716/2062676.md">50岁“晴格格”王艳惨状被揭露 15亿豪宅没了…</a></li>
 <li><a href="/topimagenews/20240715/2062370.md">“江青月经不调” 暗藏中共肮脏政治密码</a></li>
 <li><a href="/topimagenews/20240715/2062491.md">刺川普枪手曾现身资产管理巨头贝莱德广告 公司急下架影片</a></li>
+<li><a href="/cbnews/20240716/2062673.md">遍地献忠非错觉！数据证实中国民众心理恶化</a></li>
 <li><a href="/cbnews/20240715/2062351.md">三中全会登场 北京下“禁飞令” 街头警察密布</a></li>
-<li><a href="/cnnews/20240716/2062676.md">50岁“晴格格”王艳惨状被揭露 15亿豪宅没了…</a></li>
 <li><a href="/headline/20240715/2062407.md">中共二十届三中全会围绕习近平开幕 笼罩经济放缓阴影</a></li>
 <li><a href="/baitai/20240715/2062399.md">中国储户转帐被限额度 连交房租都不够</a></li>
 <li><a href="/topimagenews/20240715/2062489.md">中国经济最严重威胁 这问题胜过关税</a></li>
 <li><a href="/topimagenews/20240715/2062372.md">乌军猛力反攻！俄多线调精兵 苏-34空投“战场上的噩梦”炸弹挽颓势</a></li>
-<li><a href="/ssgc/20240715/2062337.md">〖微博谈〗中国的社会火山“正在冒泡”</a></li>
-<li><a href="/cbnews/20240716/2062673.md">遍地献忠非错觉！数据证实中国民众心理恶化</a></li>
 <li><a href="/cbnews/20240715/2062456.md">官呐! 男子持刀刺警 警察不敢追、城管长期作恶遭报应 民众围观不帮忙</a></li>
+<li><a href="/baitai/20240715/2062467.md">汪文斌履新柬埔寨 艳星彭丹同框亮相 她靠山是谁引猜测</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240716/2062804.md" target="_blank">江峰：枪手是谁？特勤局的功与罚&#8212;放下仇恨，川普遇刺後人气大涨，左派科技大佬纷纷背书；阴谋论为何站不住脚，团结的美国中共最为惊恐；两场总统行刺的神蹟与暗示【江峰漫谈20240715第900期】</a></li>
+<li><a href="/cbnews/20240716/2062800.md" target="_blank">〖红朝浮世绘〗川普被刺杀是美国民主的耻辱</a></li>
 <li><a href="/cbnews/20240716/2062780.md" target="_blank">正魔大战！“我愿加入正义队伍！魔能比佛还厉害吗？”</a></li>
 <li><a href="/cbnews/20240716/2062770.md" target="_blank">军中互称“老大”“老二” 中共整治引讥讽</a></li>
 <li><a href="/cbnews/20240716/2062769.md" target="_blank">三峡大坝连日泄洪 加重洪水泛滥</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20240715/2062387.md" target="_blank">尧帝治世之道（一）</a></li>
 <li><a href="/cbnews/20240715/2062353.md" target="_blank">新西兰总理：将更多揭露中共间谍活动</a></li>
 <li><a href="/cbnews/20240715/2062352.md" target="_blank">川普中弹后3小时，淘宝已经热销2000件</a></li>
-<li><a href="/cbnews/20240715/2062351.md" target="_blank">三中全会登场 北京下“禁飞令” 街头警察密布</a></li>
-<li><a href="/cbnews/20240715/2062350.md" target="_blank">瘫痪武汉交通! “萝卜快跑”自动驾驶又闯祸 还把乘客困车里</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
 <li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20240126/1992876.md" target="_blank">内幕：中国留学生里女生打男生和男生打女一样普遍</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/cbnews/20190701/1151453.md" target="_blank">盘点十大邪教特征 中共条条对号入座</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
+<li><a href="/comments/20231130/1967587.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （一）</a></li>
+<li><a href="/comments/20230920/1936271.md" target="_blank">防止你的孩子不成功（5） &#8211;教育避坑指南</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
 
 </ul>
 </div>
