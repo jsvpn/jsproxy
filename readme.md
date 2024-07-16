@@ -6,8 +6,8 @@
 <ul>
 
 <li><a href="/headline/20240715/2062401.md">【三中全会】央媒万言文数习近平政绩 几乎所有改革未见成效</a></li>
-<li><a href="/cnnews/20240716/2062691.md">三中全会召开 立刻传来一个坏消息</a></li>
 <li><a href="/baitai/20240715/2062468.md">北京有灭顶之灾 三中全会就谈一件事</a></li>
+<li><a href="/cnnews/20240716/2062691.md">三中全会召开 立刻传来一个坏消息</a></li>
 <li><a href="/lifebaike/20240715/2062400.md">尿毒症是喝出来的？医生直言：即使是铁打的肾，这3种水也要少喝</a></li>
 <li><a href="/topimagenews/20240715/2062421.md">川普和拜登，不约而同地转向了</a></li>
 <li><a href="/cnnews/20240715/2062423.md">连云港爆重大车祸! 疑自杀式攻击 网传7死19伤 官方数字差甚远被打脸</a></li>
@@ -17,17 +17,17 @@
 <li><a href="/cnnews/20240716/2062712.md">她是豪门玩物：几年被折磨成牙齿全脱落 似骷髅</a></li>
 <li><a href="/cnnews/20240716/2062676.md">50岁“晴格格”王艳惨状被揭露 15亿豪宅没了…</a></li>
 <li><a href="/topimagenews/20240715/2062491.md">刺川普枪手曾现身资产管理巨头贝莱德广告 公司急下架影片</a></li>
-<li><a href="/cbnews/20240716/2062673.md">遍地献忠非错觉！数据证实中国民众心理恶化</a></li>
 <li><a href="/topimagenews/20240716/2062706.md">中共变相承认彻底失败？视它为首要任务</a></li>
+<li><a href="/cbnews/20240716/2062673.md">遍地献忠非错觉！数据证实中国民众心理恶化</a></li>
 <li><a href="/topimagenews/20240716/2062705.md">怕大雷炸了？中共央行举动不寻常</a></li>
 <li><a href="/headline/20240715/2062407.md">中共二十届三中全会围绕习近平开幕 笼罩经济放缓阴影</a></li>
 <li><a href="/topimagenews/20240716/2062727.md">揭秘！川普为何选他做副总统</a></li>
-<li><a href="/baitai/20240715/2062399.md">中国储户转帐被限额度 连交房租都不够</a></li>
+<li><a href="/sohnews/20240716/2062740.md">华春莹被查？秦刚还活着？官媒吹赞习近平，安保风声鹤唳；川普遇刺拜登慰问，中国官民反应两极【新闻看点 李沐阳7.15】</a></li>
 <li><a href="/topimagenews/20240715/2062489.md">中国经济最严重威胁 这问题胜过关税</a></li>
 <li><a href="/cbnews/20240715/2062456.md">官呐! 男子持刀刺警 警察不敢追、城管长期作恶遭报应 民众围观不帮忙</a></li>
-<li><a href="/sohnews/20240716/2062740.md">华春莹被查？秦刚还活着？官媒吹赞习近平，安保风声鹤唳；川普遇刺拜登慰问，中国官民反应两极【新闻看点 李沐阳7.15】</a></li>
 <li><a href="/baitai/20240716/2062602.md">中国最富城市之一苏州也要过紧日子了！ 向全民宣战？ 习近平当局祭出疯狂举措 14亿人要过回到60多年前可怕的苦日子？</a></li>
 <li><a href="/baitai/20240715/2062467.md">汪文斌履新柬埔寨 艳星彭丹同框亮相 她靠山是谁引猜测</a></li>
+<li><a href="/cnnews/20240715/2062528.md">“世界第一排球美少女”被批整坏 嫁富商3年近照曝</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/aomi/life/20240330/2018911.md" target="_blank">挪威青年这样走出重度失眠和抑郁煎熬</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/comments/20240318/2014289.md" target="_blank">唐柏桥：民运同仁突然向法轮功开火是怎么回事？</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/comments/20240126/1992876.md" target="_blank">内幕：中国留学生里女生打男生和男生打女一样普遍</a></li>
+<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
 
 </ul>
 </div>
