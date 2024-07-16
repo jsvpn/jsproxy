@@ -5,10 +5,8 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/headline/20240715/2062401.md">【三中全会】央媒万言文数习近平政绩 几乎所有改革未见成效</a></li>
 <li><a href="/baitai/20240715/2062468.md">北京有灭顶之灾 三中全会就谈一件事</a></li>
 <li><a href="/cnnews/20240716/2062691.md">三中全会召开 立刻传来一个坏消息</a></li>
-<li><a href="/lifebaike/20240715/2062400.md">尿毒症是喝出来的？医生直言：即使是铁打的肾，这3种水也要少喝</a></li>
 <li><a href="/topimagenews/20240715/2062421.md">川普和拜登，不约而同地转向了</a></li>
 <li><a href="/cnnews/20240715/2062423.md">连云港爆重大车祸! 疑自杀式攻击 网传7死19伤 官方数字差甚远被打脸</a></li>
 <li><a href="/headline/20240716/2062597.md">【三中全会】推迟近1年终开幕 习近平抛出新口号：不能「食洋不化」</a></li>
@@ -20,13 +18,15 @@
 <li><a href="/topimagenews/20240716/2062706.md">中共变相承认彻底失败？视它为首要任务</a></li>
 <li><a href="/cbnews/20240716/2062673.md">遍地献忠非错觉！数据证实中国民众心理恶化</a></li>
 <li><a href="/topimagenews/20240716/2062705.md">怕大雷炸了？中共央行举动不寻常</a></li>
+<li><a href="/sohnews/20240716/2062740.md">华春莹被查？秦刚还活着？官媒吹赞习近平，安保风声鹤唳；川普遇刺拜登慰问，中国官民反应两极【新闻看点 李沐阳7.15】</a></li>
 <li><a href="/headline/20240715/2062407.md">中共二十届三中全会围绕习近平开幕 笼罩经济放缓阴影</a></li>
 <li><a href="/topimagenews/20240716/2062727.md">揭秘！川普为何选他做副总统</a></li>
-<li><a href="/sohnews/20240716/2062740.md">华春莹被查？秦刚还活着？官媒吹赞习近平，安保风声鹤唳；川普遇刺拜登慰问，中国官民反应两极【新闻看点 李沐阳7.15】</a></li>
-<li><a href="/topimagenews/20240715/2062489.md">中国经济最严重威胁 这问题胜过关税</a></li>
 <li><a href="/cbnews/20240715/2062456.md">官呐! 男子持刀刺警 警察不敢追、城管长期作恶遭报应 民众围观不帮忙</a></li>
+<li><a href="/topimagenews/20240715/2062489.md">中国经济最严重威胁 这问题胜过关税</a></li>
+<li><a href="/topimagenews/20240716/2062767.md">【微博精粹】刚大卖几小时 淘宝就把川普下架了</a></li>
 <li><a href="/baitai/20240716/2062602.md">中国最富城市之一苏州也要过紧日子了！ 向全民宣战？ 习近平当局祭出疯狂举措 14亿人要过回到60多年前可怕的苦日子？</a></li>
 <li><a href="/baitai/20240715/2062467.md">汪文斌履新柬埔寨 艳星彭丹同框亮相 她靠山是谁引猜测</a></li>
+<li><a href="/topimagenews/20240716/2062768.md">你信吗 武汉研究生扭伤腿致脑死亡？四名带着他器官的人活了下来</a></li>
 <li><a href="/cnnews/20240715/2062528.md">“世界第一排球美少女”被批整坏 嫁富商3年近照曝</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/comments/20240318/2014289.md" target="_blank">唐柏桥：民运同仁突然向法轮功开火是怎么回事？</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
 <li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
 <li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/comments/20240126/1992876.md" target="_blank">内幕：中国留学生里女生打男生和男生打女一样普遍</a></li>
-<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
 
 </ul>
 </div>
