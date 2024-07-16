@@ -11,22 +11,22 @@
 <li><a href="/cnnews/20240716/2062676.md">50岁“晴格格”王艳惨状被揭露 15亿豪宅没了…</a></li>
 <li><a href="/topimagenews/20240716/2062838.md">主任，快摘表！央视直播她忙摘180万表 流落金边汪文斌与“波神”齐现身</a></li>
 <li><a href="/cnnews/20240716/2062813.md">三中全会开幕当天 习被冠上新头衔</a></li>
-<li><a href="/cbnews/20240716/2062673.md">遍地献忠非错觉！数据证实中国民众心理恶化</a></li>
 <li><a href="/cnnews/20240716/2062935.md">传中国第四季将解除禁令</a></li>
+<li><a href="/cbnews/20240716/2062673.md">遍地献忠非错觉！数据证实中国民众心理恶化</a></li>
 <li><a href="/sohnews/20240716/2062740.md">华春莹被查？秦刚还活着？官媒吹赞习近平，安保风声鹤唳；川普遇刺拜登慰问，中国官民反应两极【新闻看点 李沐阳7.15】</a></li>
 <li><a href="/topimagenews/20240716/2062706.md">中共变相承认彻底失败？视它为首要任务</a></li>
-<li><a href="/sohnews/20240716/2062851.md">查办宋祖英给三中全会献礼，江苏又爆发大型恐袭事件，再有一大批高级军官落马。《老灯开讲第611期》</a></li>
 <li><a href="/topimagenews/20240716/2062705.md">怕大雷炸了？中共央行举动不寻常</a></li>
+<li><a href="/sohnews/20240716/2062851.md">查办宋祖英给三中全会献礼，江苏又爆发大型恐袭事件，再有一大批高级军官落马。《老灯开讲第611期》</a></li>
 <li><a href="/sohnews/20240716/2062919.md">陈破空：不会吧？网传老习会上中风。三中全会路线确立：他改革一个成语！剩下都是秘密事项。特朗普获正式提名！副总统搭档是黑马，年仅39岁，曾出版畅销书。直播与互动：美东时间7月16日早9点、中港台当日晚9点</a></li>
 <li><a href="/topimagenews/20240716/2062767.md">【微博精粹】刚大卖几小时 淘宝就把川普下架了</a></li>
 <li><a href="/sohnews/20240716/2062882.md">文睿：他，中风了？</a></li>
 <li><a href="/cbnews/20240716/2062824.md">好大的面子！他们内战，因中共三中全会而暂停</a></li>
-<li><a href="/topimagenews/20240716/2062837.md">银行没钱了！小心你的存款</a></li>
-<li><a href="/topimagenews/20240716/2062913.md">这才是北大精神！教授毕典高呼自由 还称无西方化肥中国人饿死一半</a></li>
 <li><a href="/topimagenews/20240716/2062908.md">习要对江派出手了? 宋祖英、曾庆淮惊传被查 涉挪公款办3海外演唱会</a></li>
-<li><a href="/topimagenews/20240716/2062727.md">揭秘！川普为何选他做副总统</a></li>
-<li><a href="/cbnews/20240716/2062822.md">组图：中共开三中全会 京西宾馆外被警力包围</a></li>
+<li><a href="/topimagenews/20240716/2062913.md">这才是北大精神！教授毕典高呼自由 还称无西方化肥中国人饿死一半</a></li>
+<li><a href="/topimagenews/20240716/2062837.md">银行没钱了！小心你的存款</a></li>
 <li><a href="/topimagenews/20240716/2062726.md">就这成绩单！三中全会要根据它定调、发力了？</a></li>
+<li><a href="/cbnews/20240716/2062822.md">组图：中共开三中全会 京西宾馆外被警力包围</a></li>
+<li><a href="/topimagenews/20240716/2062727.md">揭秘！川普为何选他做副总统</a></li>
 <li><a href="/topimagenews/20240716/2062768.md">你信吗 武汉研究生扭伤腿致脑死亡？四名带着他器官的人活了下来</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240717/2063038.md" target="_blank">继欠薪之後 现在要吐钱还给党了</a></li>
 <li><a href="/comments/20240716/2063030.md" target="_blank">刺杀两天后，复盘完整过程</a></li>
 <li><a href="/comments/20240716/2063012.md" target="_blank">时事大家谈：特朗普遇刺后出席党代会 公布副手万斯</a></li>
 <li><a href="/comments/20240716/2063011.md" target="_blank">美国之音记者连线：特朗普副手J.D.万斯在中国议题上的立场</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240716/2062735.md" target="_blank">吕一舟：喊着“已老实，求放过”的年轻人，没锋芒了？</a></li>
 <li><a href="/comments/20240716/2062734.md" target="_blank">维舟：写作是我不屈的表达欲</a></li>
 <li><a href="/comments/20240716/2062733.md" target="_blank">龙之朱：工资卡转账额度被降到500元，银行这份“关心”太沉重</a></li>
-<li><a href="/comments/20240716/2062732.md" target="_blank">川普遇刺，川大智胜涨停</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/comments/20240403/2020547.md" target="_blank">纪录片：DSM诊断与统计手册-精神病学最要命的骗局</a></li>
-<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
 <li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/tculture/20231217/1975364.md" target="_blank">医山夜话：张锡纯医案解读（1）根治失眠 思路清晰</a></li>
-<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20240418/2026391.md" target="_blank">医生劝我妻子放弃，似乎这些医生热衷让病人快点去死？</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
 <li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
 <li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
-<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
 
 </ul>
 </div>
