@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/topimagenews/20240715/2062371.md">汪文斌笑容灿烂 在机场与艳星同框照疯传</a></li>
 <li><a href="/headline/20240715/2062401.md">【三中全会】央媒万言文数习近平政绩 几乎所有改革未见成效</a></li>
 <li><a href="/cnnews/20240716/2062691.md">三中全会召开 立刻传来一个坏消息</a></li>
 <li><a href="/baitai/20240715/2062468.md">北京有灭顶之灾 三中全会就谈一件事</a></li>
@@ -14,20 +13,21 @@
 <li><a href="/cnnews/20240715/2062423.md">连云港爆重大车祸! 疑自杀式攻击 网传7死19伤 官方数字差甚远被打脸</a></li>
 <li><a href="/headline/20240716/2062597.md">【三中全会】推迟近1年终开幕 习近平抛出新口号：不能「食洋不化」</a></li>
 <li><a href="/topimagenews/20240715/2062477.md">中弹为何坚持先穿鞋？川普亲解释</a></li>
-<li><a href="/cnnews/20240716/2062676.md">50岁“晴格格”王艳惨状被揭露 15亿豪宅没了…</a></li>
 <li><a href="/ccpdope/20240715/2062534.md">三中全会乱象 习近平还没放大招就被放鸽子</a></li>
-<li><a href="/topimagenews/20240715/2062491.md">刺川普枪手曾现身资产管理巨头贝莱德广告 公司急下架影片</a></li>
-<li><a href="/topimagenews/20240715/2062370.md">“江青月经不调” 暗藏中共肮脏政治密码</a></li>
-<li><a href="/cbnews/20240716/2062673.md">遍地献忠非错觉！数据证实中国民众心理恶化</a></li>
 <li><a href="/cnnews/20240716/2062712.md">她是豪门玩物：几年被折磨成牙齿全脱落 似骷髅</a></li>
+<li><a href="/cnnews/20240716/2062676.md">50岁“晴格格”王艳惨状被揭露 15亿豪宅没了…</a></li>
+<li><a href="/topimagenews/20240715/2062491.md">刺川普枪手曾现身资产管理巨头贝莱德广告 公司急下架影片</a></li>
+<li><a href="/cbnews/20240716/2062673.md">遍地献忠非错觉！数据证实中国民众心理恶化</a></li>
 <li><a href="/topimagenews/20240716/2062706.md">中共变相承认彻底失败？视它为首要任务</a></li>
+<li><a href="/topimagenews/20240716/2062705.md">怕大雷炸了？中共央行举动不寻常</a></li>
 <li><a href="/headline/20240715/2062407.md">中共二十届三中全会围绕习近平开幕 笼罩经济放缓阴影</a></li>
 <li><a href="/baitai/20240715/2062399.md">中国储户转帐被限额度 连交房租都不够</a></li>
-<li><a href="/topimagenews/20240716/2062705.md">怕大雷炸了？中共央行举动不寻常</a></li>
-<li><a href="/topimagenews/20240715/2062372.md">乌军猛力反攻！俄多线调精兵 苏-34空投“战场上的噩梦”炸弹挽颓势</a></li>
-<li><a href="/topimagenews/20240715/2062489.md">中国经济最严重威胁 这问题胜过关税</a></li>
 <li><a href="/topimagenews/20240716/2062727.md">揭秘！川普为何选他做副总统</a></li>
+<li><a href="/topimagenews/20240715/2062489.md">中国经济最严重威胁 这问题胜过关税</a></li>
 <li><a href="/cbnews/20240715/2062456.md">官呐! 男子持刀刺警 警察不敢追、城管长期作恶遭报应 民众围观不帮忙</a></li>
+<li><a href="/baitai/20240716/2062602.md">中国最富城市之一苏州也要过紧日子了！ 向全民宣战？ 习近平当局祭出疯狂举措 14亿人要过回到60多年前可怕的苦日子？</a></li>
+<li><a href="/baitai/20240715/2062467.md">汪文斌履新柬埔寨 艳星彭丹同框亮相 她靠山是谁引猜测</a></li>
+<li><a href="/cnnews/20240715/2062528.md">“世界第一排球美少女”被批整坏 嫁富商3年近照曝</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240716/2062840.md" target="_blank">吓谁啊？菲海军少将：解放军欠经验 航母作战还很远</a></li>
+<li><a href="/cbnews/20240716/2062839.md" target="_blank">华盛顿号航母部署日本 搭载F-35C中队</a></li>
 <li><a href="/comments/20240716/2062834.md" target="_blank">枪手开枪前，被警察发现但未能阻止</a></li>
 <li><a href="/cbnews/20240716/2062824.md" target="_blank">好大的面子！他们内战，因中共三中全会而暂停</a></li>
 <li><a href="/cbnews/20240716/2062823.md" target="_blank">川普遇刺 大陆微博相关词条阅读量近10亿次</a></li>
@@ -58,14 +60,14 @@
 <li><a href="/comments/20240716/2062546.md" target="_blank">特勤局的表现到底如何？</a></li>
 <li><a href="/comments/20240715/2062474.md" target="_blank">川普最经典的演讲《永不放弃》带中文字幕）</a></li>
 <li><a href="/comments/20240715/2062463.md" target="_blank">太准了！多位预言家同步发声！川普遇刺后更多未来细节⋯预言家提前看到遇袭画面，精准度惊人；《圣经启示录》兑现；神谕：川普和美国未来！｜未解之谜 扶摇</a></li>
-<li><a href="/cbnews/20240715/2062456.md" target="_blank">官呐! 男子持刀刺警 警察不敢追、城管长期作恶遭报应 民众围观不帮忙</a></li>
-<li><a href="/cbnews/20240715/2062433.md" target="_blank">中共三中全会在内外危机中开锣 专家这样看</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240716/2062838.md" target="_blank">主任，快摘表！央视直播她忙摘180万表 流落金边汪文斌与“波神”齐现身</a></li>
+<li><a href="/topimagenews/20240716/2062837.md" target="_blank">银行没钱了！小心你的存款</a></li>
 <li><a href="/topimagenews/20240716/2062779.md" target="_blank">华日：砸钱力挺川普 马斯克惊人举动曝光</a></li>
 <li><a href="/topimagenews/20240716/2062768.md" target="_blank">你信吗 武汉研究生扭伤腿致脑死亡？四名带着他器官的人活了下来</a></li>
 <li><a href="/topimagenews/20240716/2062767.md" target="_blank">【微博精粹】刚大卖几小时 淘宝就把川普下架了</a></li>
@@ -89,14 +91,13 @@
 <li><a href="/topimagenews/20240715/2062491.md" target="_blank">刺川普枪手曾现身资产管理巨头贝莱德广告 公司急下架影片</a></li>
 <li><a href="/topimagenews/20240715/2062489.md" target="_blank">中国经济最严重威胁 这问题胜过关税</a></li>
 <li><a href="/topimagenews/20240715/2062479.md" target="_blank">川普遇刺后首受访！揭死里逃生关键 爆血“握拳喊战斗”原因曝光</a></li>
-<li><a href="/topimagenews/20240715/2062478.md" target="_blank">讽川普遭枪击竟酸“下次别失手” 民主党议员幕僚下场曝</a></li>
-<li><a href="/topimagenews/20240715/2062477.md" target="_blank">中弹为何坚持先穿鞋？川普亲解释</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240716/2062841.md" target="_blank">说了什么？清华孙立平教授微信发文遭秒杀</a></li>
 <li><a href="/comments/20240716/2062834.md" target="_blank">枪手开枪前，被警察发现但未能阻止</a></li>
 <li><a href="/comments/20240716/2062786.md" target="_blank">天亮时分：三中全会前，欧洲法院向习发出逮捕令；川普选定副手万斯，机密文件案被驳回；川普的重生与未知的险境（政论天下第1354集 20240715）天亮时分</a></li>
 <li><a href="/comments/20240716/2062762.md" target="_blank">最全！全景视频还原刺杀川普前前後後：预言家、凶手、特勤局、支持者、总统拜登……</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240716/2062582.md" target="_blank">【文韬政论】英国政党轮替改变不了经济状况处于第二个失落的十年</a></li>
 <li><a href="/comments/20240716/2062554.md" target="_blank">时事大家谈：中共三中全会开幕，习近平如何“全面深化改革”？</a></li>
 <li><a href="/comments/20240716/2062546.md" target="_blank">特勤局的表现到底如何？</a></li>
-<li><a href="/comments/20240716/2062538.md" target="_blank">口国能自由发表意见？人民讽刺暗喻狂酸袭击事件</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20230920/1936271.md" target="_blank">防止你的孩子不成功（5） &#8211;教育避坑指南</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20240418/2026391.md" target="_blank">医生劝我妻子放弃，似乎这些医生热衷让病人快点去死？</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20231220/1976789.md" target="_blank">大陆医生曝：九价HPV疫苗导致怀孕能力下降40%</a></li>
-<li><a href="/comments/20231212/1972297.md" target="_blank">日本华人确诊晚期直肠癌，修炼法轮功恢复健康（图）</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
+<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
+<li><a href="/aomi/life/20240330/2018911.md" target="_blank">挪威青年这样走出重度失眠和抑郁煎熬</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
 <li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
 
 </ul>
 </div>
