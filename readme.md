@@ -18,16 +18,16 @@
 <li><a href="/ccpdope/20240717/2063080.md">「萝卜快跑」暴露了中共的傻与坏图</a></li>
 <li><a href="/sohnews/20240717/2063328.md">惊传：习近平在三中全会上发怒中风病倒，中宣部让习穿越回1978年，习的导师再次出手批习。《老灯开讲第612期》</a></li>
 <li><a href="/cnnews/20240717/2063153.md">快讯：郭文贵9项罪名成立</a></li>
-<li><a href="/finance/20240717/2063282.md">中国富豪们突然变了</a></li>
 <li><a href="/cbnews/20240717/2063403.md">前中共官员：三中全会封锁信息 与会高官手机被收</a></li>
+<li><a href="/finance/20240717/2063282.md">中国富豪们突然变了</a></li>
 <li><a href="/topimagenews/20240717/2063229.md">将极为惨烈！大收割与大萧条</a></li>
-<li><a href="/topimagenews/20240717/2063270.md">川普出席共和党全代会再传枪响</a></li>
 <li><a href="/baitai/20240717/2063416.md">超级诡异！ 党媒万字特稿捧习文「改革家习近平」被删 民间热传他已中风停摆</a></li>
-<li><a href="/comments/20240717/2063271.md">信号混乱！习幕僚不知所措？</a></li>
+<li><a href="/topimagenews/20240717/2063270.md">川普出席共和党全代会再传枪响</a></li>
 <li><a href="/sohnews/20240717/2063187.md">宋祖英贴身女兵爆料文工团淫乱内幕；九头鸟和蛤蟆的“爱情”？｜薇羽看世间 20240716</a></li>
+<li><a href="/comments/20240717/2063271.md">信号混乱！习幕僚不知所措？</a></li>
 <li><a href="/topimagenews/20240717/2063145.md">华尔街日报：三中全会将为习近平愿景背书 拖累中国经济</a></li>
 <li><a href="/cbnews/20240717/2063147.md">北京清华大学教授孙立平微信发文遭秒删</a></li>
-<li><a href="/finance/20240717/2063281.md">港媒放风 三中全会无关救市</a></li>
+<li><a href="/baitai/20240717/2063360.md">恒大帝国轰然倒塌！许老板已早早布局 高层再传新消息 许家印真实身份曝光 美女如云恒大歌舞团立下怎样功劳？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240718/2063514.md" target="_blank">【梁京评论】中共二十届三中全会的历史意义</a></li>
 <li><a href="/comments/20240718/2063503.md" target="_blank">【财经拆局】「超人又赢」！拆解长和系的「政治保险」</a></li>
 <li><a href="/comments/20240718/2063500.md" target="_blank">三中全会倒车精华习没出镜📷</a></li>
 <li><a href="/comments/20240717/2063491.md" target="_blank">时事大家谈：拜登特朗普同喊团结, 枪击案能否化危机为契机?</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240717/2063228.md" target="_blank">三中全会出事？习近平摔倒中风是真事还是反习派信息战？川普战胜刺客引中国某A股涨停，李强被夺权，蔡奇急了</a></li>
 <li><a href="/comments/20240717/2063211.md" target="_blank">当战争叙事充斥网络中国人真的已经准备好甚至渴求战争了吗？</a></li>
 <li><a href="/comments/20240717/2063210.md" target="_blank">胡锡进是怎么混淆视听的？解析胡锡进的威权主义话术</a></li>
-<li><a href="/comments/20240717/2063209.md" target="_blank">蔡明芳:通缩加PPI衰退 中国电动车销售却大幅成长？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20231130/1967587.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （一）</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/ssgc/20240508/2034288.md" target="_blank">《透视“进化论”》第九章 人类起源问题的终极答案</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
 <li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/comments/20240116/1984226.md" target="_blank">湖北老河口遇仙记</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
+<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
 
 </ul>
 </div>
