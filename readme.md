@@ -10,18 +10,18 @@
 <li><a href="/sohnews/20240716/2062919.md">陈破空：不会吧？网传老习会上中风。三中全会路线确立：他改革一个成语！剩下都是秘密事项。特朗普获正式提名！副总统搭档是黑马，年仅39岁，曾出版畅销书。直播与互动：美东时间7月16日早9点、中港台当日晚9点</a></li>
 <li><a href="/topimagenews/20240716/2062908.md">习要对江派出手了? 宋祖英、曾庆淮惊传被查 涉挪公款办3海外演唱会</a></li>
 <li><a href="/comments/20240717/2063228.md">三中全会出事？习近平摔倒中风是真事还是反习派信息战？川普战胜刺客引中国某A股涨停，李强被夺权，蔡奇急了</a></li>
-<li><a href="/cbnews/20240716/2062928.md">起飞前机票跳水3000元 中国女子买低退高引质疑</a></li>
 <li><a href="/topimagenews/20240716/2062913.md">这才是北大精神！教授毕典高呼自由 还称无西方化肥中国人饿死一半</a></li>
+<li><a href="/cbnews/20240716/2062928.md">起飞前机票跳水3000元 中国女子买低退高引质疑</a></li>
 <li><a href="/topimagenews/20240717/2063186.md">新华社用力过猛 把习近平整穿越了</a></li>
-<li><a href="/sohnews/20240717/2063069.md">要解决李尚福？习近平大祸将临｜李尚福习近平中共</a></li>
 <li><a href="/baitai/20240717/2063117.md">他精准预言川普遇刺 再次语出惊人：人类将迎来一场更大瘟疫 约3亿5千万人死亡</a></li>
+<li><a href="/sohnews/20240717/2063069.md">要解决李尚福？习近平大祸将临｜李尚福习近平中共</a></li>
 <li><a href="/topimagenews/20240716/2062911.md">川普此举恐让人民币大跌10%</a></li>
 <li><a href="/ccpdope/20240717/2063080.md">「萝卜快跑」暴露了中共的傻与坏图</a></li>
 <li><a href="/cnnews/20240717/2063181.md">邹市明夫妇变卖全部房产 给所有中国人提了个醒</a></li>
 <li><a href="/ccpdope/20240717/2063265.md">宋祖英被抓狱中寻短见 传习对曾庆红哥俩出手了图</a></li>
 <li><a href="/topimagenews/20240716/2062993.md">卖一辆C级奔驰赔30万 德系豪车集体退出中国市场价格战</a></li>
-<li><a href="/topimagenews/20240717/2063229.md">将极为惨烈！大收割与大萧条</a></li>
 <li><a href="/baitai/20240717/2063160.md">习近平的罪行终于公之于众了</a></li>
+<li><a href="/topimagenews/20240717/2063229.md">将极为惨烈！大收割与大萧条</a></li>
 <li><a href="/cnnews/20240717/2063153.md">快讯：郭文贵9项罪名成立</a></li>
 <li><a href="/sohnews/20240717/2063187.md">宋祖英贴身女兵爆料文工团淫乱内幕；九头鸟和蛤蟆的“爱情”？｜薇羽看世间 20240716</a></li>
 <li><a href="/topimagenews/20240716/2062967.md">脱北外交官曾和金正恩喝茶 爆金主爱不可能是朝鲜接班人</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20231207/1970628.md" target="_blank">民兵对官军，希望之声打造广播界的奇蹟【方伟时间-20231206】</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
 <li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/ssgc/20240508/2034288.md" target="_blank">《透视“进化论”》第九章 人类起源问题的终极答案</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/topimagenews/20240511/2035423.md" target="_blank">原北京学员回忆李洪志先生在东方健康博览会上所行的奇迹</a></li>
+<li><a href="/comments/20231201/1968320.md" target="_blank">【非凡新闻】结合中西文化精神 美国神韵表演吸睛</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/topimagenews/20200514/1328456.md" target="_blank">穿越时空 谢田教授亲身体验人体特异功能</a></li>
+<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
 
 </ul>
 </div>
