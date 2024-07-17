@@ -9,23 +9,23 @@
 <li><a href="/comments/20240717/2063228.md">三中全会出事？习近平摔倒中风是真事还是反习派信息战？川普战胜刺客引中国某A股涨停，李强被夺权，蔡奇急了</a></li>
 <li><a href="/sohnews/20240717/2063069.md">要解决李尚福？习近平大祸将临｜李尚福习近平中共</a></li>
 <li><a href="/baitai/20240717/2063117.md">他精准预言川普遇刺 再次语出惊人：人类将迎来一场更大瘟疫 约3亿5千万人死亡</a></li>
-<li><a href="/topimagenews/20240717/2063186.md">新华社用力过猛 把习近平整穿越了</a></li>
 <li><a href="/comments/20240717/2063380.md">有事！习近平气到中风？蔡奇李强是喜是忧？</a></li>
+<li><a href="/topimagenews/20240717/2063186.md">新华社用力过猛 把习近平整穿越了</a></li>
 <li><a href="/baitai/20240717/2063160.md">习近平的罪行终于公之于众了</a></li>
-<li><a href="/comments/20240717/2063312.md">疯传习中风？虚虚实实让人无限遐想</a></li>
 <li><a href="/ccpdope/20240717/2063265.md">宋祖英被抓狱中寻短见 传习对曾庆红哥俩出手了图</a></li>
-<li><a href="/ccpdope/20240717/2063080.md">「萝卜快跑」暴露了中共的傻与坏图</a></li>
+<li><a href="/comments/20240717/2063312.md">疯传习中风？虚虚实实让人无限遐想</a></li>
 <li><a href="/cnnews/20240717/2063181.md">邹市明夫妇变卖全部房产 给所有中国人提了个醒</a></li>
+<li><a href="/ccpdope/20240717/2063080.md">「萝卜快跑」暴露了中共的傻与坏图</a></li>
 <li><a href="/sohnews/20240717/2063328.md">惊传：习近平在三中全会上发怒中风病倒，中宣部让习穿越回1978年，习的导师再次出手批习。《老灯开讲第612期》</a></li>
 <li><a href="/cnnews/20240717/2063153.md">快讯：郭文贵9项罪名成立</a></li>
 <li><a href="/finance/20240717/2063282.md">中国富豪们突然变了</a></li>
 <li><a href="/topimagenews/20240717/2063229.md">将极为惨烈！大收割与大萧条</a></li>
-<li><a href="/topimagenews/20240717/2063270.md">川普出席共和党全代会再传枪响</a></li>
 <li><a href="/cbnews/20240717/2063403.md">前中共官员：三中全会封锁信息 与会高官手机被收</a></li>
+<li><a href="/topimagenews/20240717/2063270.md">川普出席共和党全代会再传枪响</a></li>
+<li><a href="/baitai/20240717/2063416.md">超级诡异！ 党媒万字特稿捧习文「改革家习近平」被删 民间热传他已中风停摆</a></li>
 <li><a href="/comments/20240717/2063271.md">信号混乱！习幕僚不知所措？</a></li>
 <li><a href="/sohnews/20240717/2063187.md">宋祖英贴身女兵爆料文工团淫乱内幕；九头鸟和蛤蟆的“爱情”？｜薇羽看世间 20240716</a></li>
 <li><a href="/topimagenews/20240717/2063145.md">华尔街日报：三中全会将为习近平愿景背书 拖累中国经济</a></li>
-<li><a href="/baitai/20240717/2063416.md">超级诡异！ 党媒万字特稿捧习文「改革家习近平」被删 民间热传他已中风停摆</a></li>
 <li><a href="/cbnews/20240717/2063147.md">北京清华大学教授孙立平微信发文遭秒删</a></li>
 <li><a href="/finance/20240717/2063281.md">港媒放风 三中全会无关救市</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240718/2063500.md" target="_blank">三中全会倒车精华习没出镜📷</a></li>
 <li><a href="/comments/20240717/2063491.md" target="_blank">时事大家谈：拜登特朗普同喊团结, 枪击案能否化危机为契机?</a></li>
 <li><a href="/comments/20240717/2063488.md" target="_blank">专栏 &#8211; 纵横大历史：文革系列 第九十六讲 天下开始大乱（六）</a></li>
 <li><a href="/comments/20240717/2063466.md" target="_blank">时事大家谈：比肩邓小平，习近平堪称“改革家”？拜登特朗普同喊团结, 枪击案能否化危机为契机?</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240717/2063210.md" target="_blank">胡锡进是怎么混淆视听的？解析胡锡进的威权主义话术</a></li>
 <li><a href="/comments/20240717/2063209.md" target="_blank">蔡明芳:通缩加PPI衰退 中国电动车销售却大幅成长？</a></li>
 <li><a href="/comments/20240717/2063174.md" target="_blank">tuzhuxi：川普选的不是副手，而是接班人</a></li>
-<li><a href="/comments/20240717/2063173.md" target="_blank">倪刃：马斯克为什么支持川普？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/comments/20240704/2058130.md" target="_blank">百年梦醒（十八）：共产魔教的机制、前所未有的巨大野心</a></li>
-<li><a href="/cbnews/20190701/1151453.md" target="_blank">盘点十大邪教特征 中共条条对号入座</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20240403/2020547.md" target="_blank">纪录片：DSM诊断与统计手册-精神病学最要命的骗局</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20231204/1969287.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （三）</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/comments/20231223/1978148.md" target="_blank">医山夜话：张锡纯医案解读（三）赭石：降胃气 引火下行</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/cbnews/20240715/2062387.md" target="_blank">尧帝治世之道（一）</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
 
 </ul>
 </div>
