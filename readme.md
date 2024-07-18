@@ -8,12 +8,10 @@
 <li><a href="/comments/20240717/2063380.md">有事！习近平气到中风？蔡奇李强是喜是忧？</a></li>
 <li><a href="/comments/20240717/2063312.md">疯传习中风？虚虚实实让人无限遐想</a></li>
 <li><a href="/sohnews/20240717/2063328.md">惊传：习近平在三中全会上发怒中风病倒，中宣部让习穿越回1978年，习的导师再次出手批习。《老灯开讲第612期》</a></li>
-<li><a href="/finance/20240717/2063282.md">中国富豪们突然变了</a></li>
 <li><a href="/cbnews/20240717/2063403.md">前中共官员：三中全会封锁信息 与会高官手机被收</a></li>
 <li><a href="/baitai/20240717/2063416.md">超级诡异！ 党媒万字特稿捧习文「改革家习近平」被删 民间热传他已中风停摆</a></li>
 <li><a href="/comments/20240718/2063500.md">三中全会倒车精华习没出镜📷</a></li>
 <li><a href="/cbnews/20240718/2063572.md">国产电动豪车撞护栏打不开门 传成都美女副处被烧死</a></li>
-<li><a href="/finance/20240717/2063281.md">港媒放风 三中全会无关救市</a></li>
 <li><a href="/cnnews/20240717/2063410.md">成都牵手门女主“石油姐”又上了热搜</a></li>
 <li><a href="/baitai/20240717/2063360.md">恒大帝国轰然倒塌！许老板已早早布局 高层再传新消息 许家印真实身份曝光 美女如云恒大歌舞团立下怎样功劳？</a></li>
 <li><a href="/sohnews/20240717/2063381.md">陈破空：消息：老习摔倒？新华社捧习长文突然消失！共和党会场又传枪声。中国赶造的特朗普遇刺T恤衫突遭下架。直播与互动：美东时间7月17日早9点、中港台当日晚9点</a></li>
@@ -22,12 +20,14 @@
 <li><a href="/cnnews/20240717/2063411.md">影片疯传之际 北大教授张维迎惊传被消失</a></li>
 <li><a href="/worldnews/20240717/2063408.md">10天内阵亡11人! 印度边境再爆冲突 4士兵遭反杀身亡</a></li>
 <li><a href="/headline/20240718/2063501.md">官媒捧文《改革家习近平》突下架 有评论忧三中全会出状况</a></li>
+<li><a href="/worldnews/20240718/2063618.md">登机前被发现护照上有这东西 情侣被赶出机场</a></li>
 <li><a href="/baitai/20240718/2063561.md">三中全会「重头戏」？以改革之名进行人事大清洗</a></li>
 <li><a href="/cbnews/20240717/2063303.md">中印边界最新冲突影片曝光？疑印加速水电站工程 解放军冲上来了….</a></li>
 <li><a href="/cbnews/20240717/2063463.md">丈夫落水妻跟着跳下去！登山网红夫妻双亡</a></li>
 <li><a href="/topimagenews/20240717/2063479.md">中博主娶越南妻 “免彩礼还送1块地” 儿也入越籍…网炸锅</a></li>
 <li><a href="/baitai/20240717/2063361.md">对自己人也不信任？三中全会现史上最严封锁 经济衰退被甩锅 习近平再获新头衔</a></li>
 <li><a href="/comments/20240718/2063545.md">新华社特稿《改革家习近平》被下架 "习式改革"到底是什么？</a></li>
+<li><a href="/lifebaike/20240717/2063338.md">为啥关灯蚊子嗡嗡叫，开灯却找不到？学会妙招，一觉睡到天亮</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240718/2063749.md" target="_blank">四川34岁青年画家去世 网友表示惋惜</a></li>
+<li><a href="/cbnews/20240718/2063748.md" target="_blank">24岁网红“吃太多了” 在直播中猝死</a></li>
 <li><a href="/cbnews/20240718/2063727.md" target="_blank">日本分析解放军去年演习 研判封锁后发动登陆时间缩到1周</a></li>
 <li><a href="/cbnews/20240718/2063726.md" target="_blank">四川自贡九鼎大楼火灾 16人遇难</a></li>
 <li><a href="/cbnews/20240718/2063699.md" target="_blank">〖红朝浮世绘〗《改革家习近平》突然下架 这是没拍好习帝马屁？</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20240717/2063344.md" target="_blank">发生在我身边的轮回故事</a></li>
 <li><a href="/comments/20240717/2063431.md" target="_blank">习近平能接班 全托老爹福</a></li>
 <li><a href="/cbnews/20240717/2063430.md" target="_blank">中共对破网软件开发者判重刑 美国务院关注</a></li>
-<li><a href="/cbnews/20240717/2063406.md" target="_blank">F-22猛禽展雄风 飞机 垂直高空窜升、360度翻滚、后空翻掉头、落叶飘</a></li>
-<li><a href="/cbnews/20240717/2063405.md" target="_blank">摆明抗中！美国海军宣布F-35C战机中队部署日本 将登“华盛顿号”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
-<li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/comments/20231220/1976789.md" target="_blank">大陆医生曝：九价HPV疫苗导致怀孕能力下降40%</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/ssgc/20240508/2034288.md" target="_blank">《透视“进化论”》第九章 人类起源问题的终极答案</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
 
 </ul>
 </div>
