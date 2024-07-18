@@ -18,15 +18,15 @@
 <li><a href="/sohnews/20240717/2063381.md">陈破空：消息：老习摔倒？新华社捧习长文突然消失！共和党会场又传枪声。中国赶造的特朗普遇刺T恤衫突遭下架。直播与互动：美东时间7月17日早9点、中港台当日晚9点</a></li>
 <li><a href="/sohnews/20240717/2063419.md">网传宋祖英被查？！</a></li>
 <li><a href="/worldnews/20240718/2063618.md">登机前被发现护照上有这东西 情侣被赶出机场</a></li>
-<li><a href="/cnnews/20240717/2063411.md">影片疯传之际 北大教授张维迎惊传被消失</a></li>
-<li><a href="/topimagenews/20240718/2063632.md">猛！上海2人参与破了中共防火墙 美国务院关注中共重判他们</a></li>
 <li><a href="/sohnews/20240718/2063509.md">“3小时 100万浏览量 ⋯ X 著名英文博主今晨报导”No.01（07/17/24）习近平中风</a></li>
+<li><a href="/cnnews/20240717/2063411.md">影片疯传之际 北大教授张维迎惊传被消失</a></li>
 <li><a href="/comments/20240718/2063630.md">文昭：三中全会期间疯传习近平中风不起，历史提速了？除了谣言、还有更可怕的妖言</a></li>
-<li><a href="/cnnews/20240718/2063595.md">“我就是大牌” 郝海东街头与人对骂视频疯传</a></li>
-<li><a href="/topimagenews/20240718/2063614.md">习近平一追求 使中国经济雪上加霜</a></li>
-<li><a href="/worldnews/20240717/2063408.md">10天内阵亡11人! 印度边境再爆冲突 4士兵遭反杀身亡</a></li>
+<li><a href="/topimagenews/20240718/2063632.md">猛！上海2人参与破了中共防火墙 美国务院关注中共重判他们</a></li>
 <li><a href="/baitai/20240718/2063561.md">三中全会「重头戏」？以改革之名进行人事大清洗</a></li>
-<li><a href="/cbnews/20240717/2063463.md">丈夫落水妻跟着跳下去！登山网红夫妻双亡</a></li>
+<li><a href="/topimagenews/20240718/2063614.md">习近平一追求 使中国经济雪上加霜</a></li>
+<li><a href="/cnnews/20240718/2063595.md">“我就是大牌” 郝海东街头与人对骂视频疯传</a></li>
+<li><a href="/worldnews/20240717/2063408.md">10天内阵亡11人! 印度边境再爆冲突 4士兵遭反杀身亡</a></li>
+<li><a href="/cbnews/20240718/2063699.md">〖红朝浮世绘〗《改革家习近平》突然下架 这是没拍好习帝马屁？</a></li>
 <li><a href="/baitai/20240717/2063361.md">对自己人也不信任？三中全会现史上最严封锁 经济衰退被甩锅 习近平再获新头衔</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240718/2063790.md" target="_blank">可以避免川普被刺的三次机会</a></li>
 <li><a href="/cbnews/20240718/2063775.md" target="_blank">疯传！三中大会“董事长”突嘴巴歪了？ 菜头不许股东们拍照</a></li>
 <li><a href="/comments/20240718/2063754.md" target="_blank">枪击案对RNC大会是什么影响？</a></li>
 <li><a href="/cbnews/20240718/2063749.md" target="_blank">四川34岁青年画家去世 网友表示惋惜</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240718/2063551.md" target="_blank">江峰：川普遇刺反促美国团结，拜登撤攻击性广告</a></li>
 <li><a href="/comments/20240718/2063535.md" target="_blank">0717</a></li>
 <li><a href="/cbnews/20240717/2063463.md" target="_blank">丈夫落水妻跟着跳下去！登山网红夫妻双亡</a></li>
-<li><a href="/cbnews/20240717/2063344.md" target="_blank">发生在我身边的轮回故事</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240718/2063790.md" target="_blank">可以避免川普被刺的三次机会</a></li>
 <li><a href="/comments/20240718/2063781.md" target="_blank">【香港记者郑嘉如当选记协新一届主席】【遭《华尔街日报》解雇】</a></li>
 <li><a href="/comments/20240718/2063754.md" target="_blank">枪击案对RNC大会是什么影响？</a></li>
 <li><a href="/comments/20240718/2063709.md" target="_blank">杨乃悟：看起来很刑的人越来越多了</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240718/2063586.md" target="_blank">天亮时分：共和党新任副总统候选人万斯的中国政策</a></li>
 <li><a href="/comments/20240718/2063574.md" target="_blank">蔡慎坤:三中全会将出台什么样的政经政策？</a></li>
 <li><a href="/comments/20240718/2063555.md" target="_blank">【洞察国情】三中全会再一次提醒国民 习近平过去12年「劣迹斑斑」</a></li>
-<li><a href="/comments/20240718/2063554.md" target="_blank">你可以不喜欢黑利，但不能不看她这次在RNC上的演讲。求同存异，必须送川普返回白宫。感谢“听懂”的字幕。</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
+<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20231130/1967587.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （一）</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
 <li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
 
 </ul>
 </div>
