@@ -6,8 +6,8 @@
 <ul>
 
 <li><a href="/comments/20240718/2063500.md">三中全会倒车精华习没出镜📷</a></li>
-<li><a href="/sohnews/20240718/2063510.md">“伴随着 没什么人信 却全网疯传 习近平摔倒中风⋯”《今日点击》（07/17/24）3中全会习近平出事</a></li>
 <li><a href="/cbnews/20240718/2063775.md">疯传！三中大会“董事长”突嘴巴歪了？ 菜头不许股东们拍照</a></li>
+<li><a href="/sohnews/20240718/2063510.md">“伴随着 没什么人信 却全网疯传 习近平摔倒中风⋯”《今日点击》（07/17/24）3中全会习近平出事</a></li>
 <li><a href="/cbnews/20240718/2063572.md">国产电动豪车撞护栏打不开门 传成都美女副处被烧死</a></li>
 <li><a href="/headline/20240718/2063501.md">官媒捧文《改革家习近平》突下架 有评论忧三中全会出状况</a></li>
 <li><a href="/sohnews/20240718/2063777.md">内幕：习近平中风替身救场，蔡奇暂代总书记职责，失败且混乱的三中全会。《老灯开讲第613期》</a></li>
@@ -17,17 +17,17 @@
 <li><a href="/comments/20240718/2063630.md">文昭：三中全会期间疯传习近平中风不起，历史提速了？除了谣言、还有更可怕的妖言</a></li>
 <li><a href="/worldnews/20240718/2063618.md">登机前被发现护照上有这东西 情侣被赶出机场</a></li>
 <li><a href="/topimagenews/20240718/2063773.md">整座山头没了！ 三峡大坝11孔全开 湖北山体滑波、大淹水 陕西大桥被冲走</a></li>
-<li><a href="/cbnews/20240718/2063699.md">〖红朝浮世绘〗《改革家习近平》突然下架 这是没拍好习帝马屁？</a></li>
 <li><a href="/headline/20240718/2063821.md">三中全会闭幕 发布会议公报 未有闭幕及习近平照片</a></li>
+<li><a href="/cbnews/20240718/2063699.md">〖红朝浮世绘〗《改革家习近平》突然下架 这是没拍好习帝马屁？</a></li>
 <li><a href="/topimagenews/20240718/2063632.md">猛！上海2人参与破了中共防火墙 美国务院关注中共重判他们</a></li>
 <li><a href="/comments/20240718/2063704.md">三中全会出大事：长安街管制？ “改革家习近平”下架！更多摔跤细节风传，北京抹黑美军偷麦子撞万斯枪口</a></li>
 <li><a href="/topimagenews/20240718/2063614.md">习近平一追求 使中国经济雪上加霜</a></li>
 <li><a href="/cnnews/20240718/2063595.md">“我就是大牌” 郝海东街头与人对骂视频疯传</a></li>
-<li><a href="/topimagenews/20240717/2063479.md">中博主娶越南妻 “免彩礼还送1块地” 儿也入越籍…网炸锅</a></li>
 <li><a href="/headline/20240718/2063805.md">三中全会刚刚说：免去秦刚中央委员会委员职务 确认开除李尚福等三人党籍</a></li>
 <li><a href="/comments/20240718/2063545.md">新华社特稿《改革家习近平》被下架 "习式改革"到底是什么？</a></li>
+<li><a href="/topimagenews/20240717/2063479.md">中博主娶越南妻 “免彩礼还送1块地” 儿也入越籍…网炸锅</a></li>
 <li><a href="/cbnews/20240717/2063463.md">丈夫落水妻跟着跳下去！登山网红夫妻双亡</a></li>
-<li><a href="/topimagenews/20240718/2063772.md">这部队太能打了! 已攻到俄边境 白宫急声明F-16不攻入俄境</a></li>
+<li><a href="/comments/20240718/2063639.md">“走火入魔”？习近平又指明方向了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240718/2063894.md" target="_blank">被意大利查获的中国翼龙无人机，战场表现如何？｜#兵家常事</a></li>
 <li><a href="/comments/20240718/2063863.md" target="_blank">马斯克出手顶川 月捐4500万</a></li>
 <li><a href="/comments/20240718/2063847.md" target="_blank">枪手三小时前曾试图闯入集会。特勤局做法十分诡异。议长约翰逊要求特勤局局长辞职。川普枪击案特勤局</a></li>
 <li><a href="/comments/20240718/2063792.md" target="_blank">百年梦醒（二十八）共产魔鬼用奇计掩盖自己真身</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240718/2063638.md" target="_blank">苏暁康：天下硬是跟“黑川”过不去</a></li>
 <li><a href="/comments/20240718/2063630.md" target="_blank">文昭：三中全会期间疯传习近平中风不起，历史提速了？除了谣言、还有更可怕的妖言</a></li>
 <li><a href="/comments/20240718/2063620.md" target="_blank">《BBC》分析：川普选择搭档万斯的两大政治盘算</a></li>
-<li><a href="/comments/20240718/2063619.md" target="_blank">三中全会下一盘大棋？！习找对问题开错药方</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
-<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
+<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
 <li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
+<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
 
 </ul>
 </div>
