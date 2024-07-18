@@ -23,11 +23,11 @@
 <li><a href="/sohnews/20240717/2063381.md">陈破空：消息：老习摔倒？新华社捧习长文突然消失！共和党会场又传枪声。中国赶造的特朗普遇刺T恤衫突遭下架。直播与互动：美东时间7月17日早9点、中港台当日晚9点</a></li>
 <li><a href="/comments/20240717/2063248.md">天亮时分：三中全会，官民皆卖力造谣，习近平脑梗，宋祖英被查；川普接受采访，透露未来重大经济政治走向（政论天下第1355集 20240716）天亮时分</a></li>
 <li><a href="/cbnews/20240717/2063264.md">〖红朝浮世绘〗美国签证共产党员及其家属签证只给一个月，而且是单次？</a></li>
-<li><a href="/yule/20240717/2063194.md">激吻拍臀 香港女星回应出轨人夫 男方背景被扒</a></li>
 <li><a href="/sohnews/20240717/2063419.md">网传宋祖英被查？！</a></li>
 <li><a href="/cnnews/20240717/2063411.md">影片疯传之际 北大教授张维迎惊传被消失</a></li>
 <li><a href="/worldnews/20240717/2063408.md">10天内阵亡11人! 印度边境再爆冲突 4士兵遭反杀身亡</a></li>
 <li><a href="/cbnews/20240717/2063303.md">中印边界最新冲突影片曝光？疑印加速水电站工程 解放军冲上来了….</a></li>
+<li><a href="/headline/20240718/2063501.md">官媒捧文《改革家习近平》突下架 有评论忧三中全会出状况</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240718/2063645.md" target="_blank">川普挑副总统的别具一个</a></li>
+<li><a href="/cbnews/20240718/2063633.md" target="_blank">当当网创始人曝萝卜快跑账单明细 引热议</a></li>
 <li><a href="/cbnews/20240718/2063617.md" target="_blank">中共停止美中军控谈判 美回应：效仿俄</a></li>
 <li><a href="/cbnews/20240718/2063616.md" target="_blank">嫌事不够大？中俄演给谁看呢</a></li>
 <li><a href="/cbnews/20240718/2063615.md" target="_blank">四川百货大楼突发大火 已有11人遇难</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/comments/20240717/2063389.md" target="_blank">对JD万斯影响最重要的三个人。一个助他成名，做回自己；一个助他弃商从政；还有一个贤内助。虎妈万斯副总统候选人</a></li>
 <li><a href="/comments/20240717/2063336.md" target="_blank">警察撞见枪手，然后乖乖退下，怎么回事？</a></li>
 <li><a href="/cbnews/20240717/2063303.md" target="_blank">中印边界最新冲突影片曝光？疑印加速水电站工程 解放军冲上来了….</a></li>
-<li><a href="/cbnews/20240717/2063280.md" target="_blank">解放军山东号编队“增胖”7艘 日防省：7天起降380架次</a></li>
-<li><a href="/cbnews/20240717/2063264.md" target="_blank">〖红朝浮世绘〗美国签证共产党员及其家属签证只给一个月，而且是单次？</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240718/2063645.md" target="_blank">川普挑副总统的别具一个</a></li>
+<li><a href="/comments/20240718/2063639.md" target="_blank">“走火入魔”？习近平又指明方向了</a></li>
+<li><a href="/comments/20240718/2063638.md" target="_blank">苏暁康：天下硬是跟“黑川”过不去</a></li>
 <li><a href="/comments/20240718/2063630.md" target="_blank">文昭：三中全会期间疯传习近平中风不起，历史提速了？除了谣言、还有更可怕的妖言</a></li>
 <li><a href="/comments/20240718/2063620.md" target="_blank">《BBC》分析：川普选择搭档万斯的两大政治盘算</a></li>
 <li><a href="/comments/20240718/2063619.md" target="_blank">三中全会下一盘大棋？！习找对问题开错药方</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20240717/1772250.md" target="_blank">细语人生：见证法轮功的神奇（第二十四集）奇迹彰显</a></li>
 <li><a href="/comments/20240717/2063431.md" target="_blank">习近平能接班 全托老爹福</a></li>
 <li><a href="/comments/20240717/2063389.md" target="_blank">对JD万斯影响最重要的三个人。一个助他成名，做回自己；一个助他弃商从政；还有一个贤内助。虎妈万斯副总统候选人</a></li>
-<li><a href="/comments/20240717/2063380.md" target="_blank">有事！习近平气到中风？蔡奇李强是喜是忧？</a></li>
-<li><a href="/comments/20240717/2063336.md" target="_blank">警察撞见枪手，然后乖乖退下，怎么回事？</a></li>
-<li><a href="/comments/20240717/2063312.md" target="_blank">疯传习中风？虚虚实实让人无限遐想</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
-<li><a href="/tculture/20231217/1975364.md" target="_blank">医山夜话：张锡纯医案解读（1）根治失眠 思路清晰</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20240704/2058130.md" target="_blank">百年梦醒（十八）：共产魔教的机制、前所未有的巨大野心</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/comments/20231214/1974098.md" target="_blank">美国众议院议长：我所坚守的保守主义，具体是些什么内容？</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
 <li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
+<li><a href="/comments/20231220/1976789.md" target="_blank">大陆医生曝：九价HPV疫苗导致怀孕能力下降40%</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
 
 </ul>
 </div>
