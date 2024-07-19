@@ -8,26 +8,26 @@
 <li><a href="/headline/20240718/2063821.md">三中全会闭幕 发布会议公报 未有闭幕及习近平照片</a></li>
 <li><a href="/topimagenews/20240718/2063912.md">习近平被传脑中风！央视急发三中全会“闭幕画面”</a></li>
 <li><a href="/headline/20240719/2063981.md">习近平现身了</a></li>
-<li><a href="/headline/20240719/2064035.md">三中全会胡春华与习近平并排而坐</a></li>
 <li><a href="/baitai/20240718/2063836.md">传北京长安街戒严！三中全会报导习未现身 秦刚再辞职 李尚福开除党籍</a></li>
+<li><a href="/headline/20240719/2064035.md">三中全会胡春华与习近平并排而坐</a></li>
 <li><a href="/cbnews/20240718/2063873.md">三中全会发公报 专家大揭底</a></li>
 <li><a href="/sohnews/20240718/2063839.md">陈破空：闭幕，三中全会开砸了！习中风消息满天飞。公报暗示秦刚死亡。北京异常！长安街首次全面封锁。一律不准向北。公报惊无一句新意，他败了！直播与互动：美东时间7月18日早9点、中港台当日晚9点</a></li>
 <li><a href="/baitai/20240719/2064073.md">习近平中风蔡奇主持中央工作是谣言</a></li>
 <li><a href="/yule/20240719/2064149.md">导演孙孟晋透露著名演员郑佩佩今日去世 享年78岁</a></li>
 <li><a href="/headline/20240718/2063822.md">软着陆：三中全会仍称秦刚是“同志”</a></li>
 <li><a href="/sohnews/20240719/2064021.md">“习近平露面无法平息网友纷争 ⋯ 胡春华诡异露面坐在习近平身旁”No.05（07/18/24）习近平中风习近平中风三中全会</a></li>
-<li><a href="/headline/20240718/2063805.md">三中全会刚刚说：免去秦刚中央委员会委员职务 确认开除李尚福等三人党籍</a></li>
 <li><a href="/cbnews/20240719/2064206.md">"大有深意"！胡春华与习近平并排坐</a></li>
+<li><a href="/headline/20240718/2063805.md">三中全会刚刚说：免去秦刚中央委员会委员职务 确认开除李尚福等三人党籍</a></li>
 <li><a href="/topimagenews/20240719/2064056.md">阵前倒戈？打输了就不用还房贷、车贷了</a></li>
 <li><a href="/sohnews/20240719/2064088.md">三中兵变未遂？ 张又侠座次变了；平中风传闻是假？公报降捧习调门；安落地？秦刚究竟啥问题？【新闻看点 李沐阳7.18】</a></li>
 <li><a href="/sohnews/20240718/2063530.md">坊间关于宋祖英的传言，是真是假？</a></li>
-<li><a href="/cnnews/20240718/2063854.md">中国大抢劫时代开始! 数字人民币8月全落地、收缴百姓土地证进行销毁</a></li>
 <li><a href="/topimagenews/20240719/2064203.md">【微博精粹】帝未崩 网上洋溢着欢乐的气氛</a></li>
+<li><a href="/cnnews/20240718/2063854.md">中国大抢劫时代开始! 数字人民币8月全落地、收缴百姓土地证进行销毁</a></li>
 <li><a href="/topimagenews/20240719/2064055.md">崩溃前最后一搏？习开始打这些人主意；邹市明夫妇变卖全部房产，给所有中国人提了个醒</a></li>
 <li><a href="/ssgc/20240718/2063843.md">三中全会公报“习近平”出现6次 “捧习”调子降低</a></li>
+<li><a href="/topimagenews/20240719/2064076.md">“替大家试过了，回县城真的会后悔”</a></li>
 <li><a href="/topimagenews/20240718/2063913.md">朝鲜5高中生看韩剧被判终身监禁！双手遭捆影片流出 父母都怒了</a></li>
 <li><a href="/topimagenews/20240718/2063954.md">官方质疑娃哈哈创办人独生女接班 宗馥莉宣布请辞</a></li>
-<li><a href="/topimagenews/20240719/2064076.md">“替大家试过了，回县城真的会后悔”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/topimagenews/20240511/2035423.md" target="_blank">原北京学员回忆李洪志先生在东方健康博览会上所行的奇迹</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
 <li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
+<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/sohnews/20160119/493472.md" target="_blank">无效的医疗：手术刀下的谎言和药瓶里的欺骗</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
 
 </ul>
 </div>
