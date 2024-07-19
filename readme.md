@@ -12,22 +12,22 @@
 <li><a href="/topimagenews/20240718/2063658.md">中共也有低头求人的时候</a></li>
 <li><a href="/comments/20240718/2063630.md">文昭：三中全会期间疯传习近平中风不起，历史提速了？除了谣言、还有更可怕的妖言</a></li>
 <li><a href="/baitai/20240718/2063836.md">传北京长安街戒严！三中全会报导习未现身 秦刚再辞职 李尚福开除党籍</a></li>
-<li><a href="/worldnews/20240718/2063618.md">登机前被发现护照上有这东西 情侣被赶出机场</a></li>
 <li><a href="/comments/20240718/2063704.md">三中全会出大事：长安街管制？ “改革家习近平”下架！更多摔跤细节风传，北京抹黑美军偷麦子撞万斯枪口</a></li>
-<li><a href="/cbnews/20240718/2063873.md">三中全会发公报 专家大揭底</a></li>
 <li><a href="/topimagenews/20240718/2063773.md">整座山头没了！ 三峡大坝11孔全开 湖北山体滑波、大淹水 陕西大桥被冲走</a></li>
-<li><a href="/topimagenews/20240718/2063632.md">猛！上海2人参与破了中共防火墙 美国务院关注中共重判他们</a></li>
 <li><a href="/sohnews/20240718/2063839.md">陈破空：闭幕，三中全会开砸了！习中风消息满天飞。公报暗示秦刚死亡。北京异常！长安街首次全面封锁。一律不准向北。公报惊无一句新意，他败了！直播与互动：美东时间7月18日早9点、中港台当日晚9点</a></li>
-<li><a href="/cbnews/20240718/2063699.md">〖红朝浮世绘〗《改革家习近平》突然下架 这是没拍好习帝马屁？</a></li>
+<li><a href="/topimagenews/20240718/2063632.md">猛！上海2人参与破了中共防火墙 美国务院关注中共重判他们</a></li>
+<li><a href="/cbnews/20240718/2063873.md">三中全会发公报 专家大揭底</a></li>
 <li><a href="/headline/20240719/2063981.md">习近平现身了</a></li>
+<li><a href="/cbnews/20240718/2063699.md">〖红朝浮世绘〗《改革家习近平》突然下架 这是没拍好习帝马屁？</a></li>
 <li><a href="/sohnews/20240718/2063697.md">陈破空：疯传习近平摔倒，中风！蔡奇把持三中全会。党媒捧习长文紧急下架！王沪宁蔡奇开始算计夺权。害怕联想，急忙下架特朗普T恤衫。直播：美东时间7月17日晚10点45、中港台18日早10点45</a></li>
 <li><a href="/headline/20240718/2063805.md">三中全会刚刚说：免去秦刚中央委员会委员职务 确认开除李尚福等三人党籍</a></li>
-<li><a href="/topimagenews/20240718/2063614.md">习近平一追求 使中国经济雪上加霜</a></li>
 <li><a href="/headline/20240718/2063822.md">软着陆：三中全会仍称秦刚是“同志”</a></li>
+<li><a href="/headline/20240719/2064035.md">三中全会胡春华与习近平并排而坐</a></li>
 <li><a href="/topimagenews/20240718/2063772.md">这部队太能打了! 已攻到俄边境 白宫急声明F-16不攻入俄境</a></li>
 <li><a href="/sohnews/20240718/2063530.md">坊间关于宋祖英的传言，是真是假？</a></li>
-<li><a href="/cbnews/20240718/2063748.md">24岁网红“吃太多了” 在直播中猝死</a></li>
 <li><a href="/cnnews/20240718/2063854.md">中国大抢劫时代开始! 数字人民币8月全落地、收缴百姓土地证进行销毁</a></li>
+<li><a href="/cbnews/20240718/2063748.md">24岁网红“吃太多了” 在直播中猝死</a></li>
+<li><a href="/ssgc/20240718/2063843.md">三中全会公报“习近平”出现6次 “捧习”调子降低</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240719/2064080.md" target="_blank">春城暖爸：为什么竞争对手纷纷“皈依”：不一样的川普</a></li>
+<li><a href="/comments/20240719/2064079.md" target="_blank">字母榜：与川普共情，马斯克们的“暗杀焦虑”</a></li>
 <li><a href="/comments/20240719/2064011.md" target="_blank">7月17日 中国四川省自贡市一家百货商场发生火灾</a></li>
 <li><a href="/comments/20240719/2063988.md" target="_blank">川普亲邀，黑莉归队</a></li>
 <li><a href="/comments/20240719/2063987.md" target="_blank">0718方伟时间</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240718/2063690.md" target="_blank">曾建元:达赖喇嘛访美的政治成就</a></li>
 <li><a href="/comments/20240718/2063689.md" target="_blank">龚平 ： 股票市场为什么会变成诈骗市场？</a></li>
 <li><a href="/comments/20240718/2063681.md" target="_blank">白宫宣布拜登染疫，金里奇论美国的危机之道</a></li>
-<li><a href="/comments/20240718/2063680.md" target="_blank">副总统候选人万斯 RNC发当选yan演说</a></li>
-<li><a href="/comments/20240718/2063676.md" target="_blank">计画打台湾？无胜算方菲时间中共台湾</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20231204/1969287.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （三）</a></li>
-<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20240412/2024185.md" target="_blank">是治疗还是屠杀?化疗药品滴一滴在皮肤即灼伤，很长时间才好</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
-<li><a href="/ssgc/20240508/2034288.md" target="_blank">《透视“进化论”》第九章 人类起源问题的终极答案</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
 <li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/topimagenews/20180608/954788.md" target="_blank">安乐死根本安乐不了，别宣传了</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/ssgc/20240508/2034288.md" target="_blank">《透视“进化论”》第九章 人类起源问题的终极答案</a></li>
+<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
+<li><a href="/aomi/life/20240330/2018911.md" target="_blank">挪威青年这样走出重度失眠和抑郁煎熬</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/cbnews/20240715/2062387.md" target="_blank">尧帝治世之道（一）</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
 
 </ul>
 </div>
