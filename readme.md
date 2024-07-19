@@ -5,14 +5,13 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/cbnews/20240718/2063775.md">疯传！三中大会“董事长”突嘴巴歪了？ 菜头不许股东们拍照</a></li>
 <li><a href="/headline/20240718/2063821.md">三中全会闭幕 发布会议公报 未有闭幕及习近平照片</a></li>
 <li><a href="/topimagenews/20240718/2063912.md">习近平被传脑中风！央视急发三中全会“闭幕画面”</a></li>
 <li><a href="/sohnews/20240718/2063777.md">内幕：习近平中风替身救场，蔡奇暂代总书记职责，失败且混乱的三中全会。《老灯开讲第613期》</a></li>
 <li><a href="/headline/20240719/2064035.md">三中全会胡春华与习近平并排而坐</a></li>
 <li><a href="/baitai/20240718/2063836.md">传北京长安街戒严！三中全会报导习未现身 秦刚再辞职 李尚福开除党籍</a></li>
-<li><a href="/cbnews/20240718/2063873.md">三中全会发公报 专家大揭底</a></li>
 <li><a href="/headline/20240719/2063981.md">习近平现身了</a></li>
+<li><a href="/cbnews/20240718/2063873.md">三中全会发公报 专家大揭底</a></li>
 <li><a href="/sohnews/20240718/2063839.md">陈破空：闭幕，三中全会开砸了！习中风消息满天飞。公报暗示秦刚死亡。北京异常！长安街首次全面封锁。一律不准向北。公报惊无一句新意，他败了！直播与互动：美东时间7月18日早9点、中港台当日晚9点</a></li>
 <li><a href="/baitai/20240719/2064073.md">习近平中风蔡奇主持中央工作是谣言</a></li>
 <li><a href="/yule/20240719/2064149.md">导演孙孟晋透露著名演员郑佩佩今日去世 享年78岁</a></li>
@@ -20,13 +19,14 @@
 <li><a href="/sohnews/20240719/2064021.md">“习近平露面无法平息网友纷争 ⋯ 胡春华诡异露面坐在习近平身旁”No.05（07/18/24）习近平中风习近平中风三中全会</a></li>
 <li><a href="/headline/20240718/2063805.md">三中全会刚刚说：免去秦刚中央委员会委员职务 确认开除李尚福等三人党籍</a></li>
 <li><a href="/topimagenews/20240719/2064056.md">阵前倒戈？打输了就不用还房贷、车贷了</a></li>
+<li><a href="/sohnews/20240719/2064088.md">三中兵变未遂？ 张又侠座次变了；平中风传闻是假？公报降捧习调门；安落地？秦刚究竟啥问题？【新闻看点 李沐阳7.18】</a></li>
 <li><a href="/sohnews/20240718/2063530.md">坊间关于宋祖英的传言，是真是假？</a></li>
 <li><a href="/cnnews/20240718/2063854.md">中国大抢劫时代开始! 数字人民币8月全落地、收缴百姓土地证进行销毁</a></li>
 <li><a href="/ssgc/20240718/2063843.md">三中全会公报“习近平”出现6次 “捧习”调子降低</a></li>
-<li><a href="/topimagenews/20240718/2063954.md">官方质疑娃哈哈创办人独生女接班 宗馥莉宣布请辞</a></li>
-<li><a href="/sohnews/20240719/2064088.md">三中兵变未遂？ 张又侠座次变了；平中风传闻是假？公报降捧习调门；安落地？秦刚究竟啥问题？【新闻看点 李沐阳7.18】</a></li>
 <li><a href="/topimagenews/20240719/2064055.md">崩溃前最后一搏？习开始打这些人主意；邹市明夫妇变卖全部房产，给所有中国人提了个醒</a></li>
+<li><a href="/topimagenews/20240718/2063954.md">官方质疑娃哈哈创办人独生女接班 宗馥莉宣布请辞</a></li>
 <li><a href="/topimagenews/20240719/2064076.md">“替大家试过了，回县城真的会后悔”</a></li>
+<li><a href="/topimagenews/20240718/2063913.md">朝鲜5高中生看韩剧被判终身监禁！双手遭捆影片流出 父母都怒了</a></li>
 <li><a href="/cbnews/20240718/2063872.md">三中全会公报 秦刚处分特殊 军方三高层被开除 首次披露...</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240719/1772244.md" target="_blank">细语人生：女孩误食了大麻饼干的患重病  修炼法轮功康复</a></li>
 <li><a href="/cbnews/20240719/2064229.md" target="_blank">男子驾特斯拉走川藏线带发电机 特斯拉回应</a></li>
 <li><a href="/cbnews/20240719/2064228.md" target="_blank">中国警救国旗成功救人失败 老翁生死不明</a></li>
 <li><a href="/cbnews/20240719/2064206.md" target="_blank">&#8220;大有深意&#8221;！胡春华与习近平并排坐</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20240719/2063987.md" target="_blank">0718方伟时间</a></li>
 <li><a href="/comments/20240719/2063970.md" target="_blank">川普17岁长孙女凯，主动要求在RNC上演讲。分享枪击案后感受，感动全场。川普RNC孙女</a></li>
 <li><a href="/comments/20240718/2063956.md" target="_blank">川普说，是神救了自己的命</a></li>
-<li><a href="/cbnews/20240718/2063915.md" target="_blank">被控是中共间谍 菲律宾华裔市长郭华萍“人间蒸发”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
-<li><a href="/comments/20240403/2020547.md" target="_blank">纪录片：DSM诊断与统计手册-精神病学最要命的骗局</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/topimagenews/20180608/954788.md" target="_blank">安乐死根本安乐不了，别宣传了</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
+<li><a href="/cbnews/20240603/2045072.md" target="_blank">漫谈古代科举之八股文</a></li>
 <li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
 <li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20231220/1976683.md" target="_blank">医山夜话：张锡纯医案解读（二）根治胃气不降之证</a></li>
+<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20240318/2014289.md" target="_blank">唐柏桥：民运同仁突然向法轮功开火是怎么回事？</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
 <li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20231223/1978148.md" target="_blank">医山夜话：张锡纯医案解读（三）赭石：降胃气 引火下行</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
 
 </ul>
 </div>
