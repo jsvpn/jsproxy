@@ -8,21 +8,21 @@
 <li><a href="/cbnews/20240719/2064206.md">"大有深意"！胡春华与习近平并排坐</a></li>
 <li><a href="/bblog/20240719/2064287.md">习近平大概率没参三中全会加闭幕式</a></li>
 <li><a href="/sohnews/20240719/2064088.md">三中兵变未遂？ 张又侠座次变了；平中风传闻是假？公报降捧习调门；安落地？秦刚究竟啥问题？【新闻看点 李沐阳7.18】</a></li>
-<li><a href="/topimagenews/20240719/2064203.md">【微博精粹】帝未崩 网上洋溢着欢乐的气氛</a></li>
 <li><a href="/cnnews/20240719/2064194.md">习近平到底得了什么病？这个病名，绝对是头等机密</a></li>
+<li><a href="/topimagenews/20240719/2064203.md">【微博精粹】帝未崩 网上洋溢着欢乐的气氛</a></li>
 <li><a href="/yule/20240719/2064149.md">导演孙孟晋透露著名演员郑佩佩今日去世 享年78岁</a></li>
 <li><a href="/sohnews/20240719/2064286.md">中共耍什么招数？习近平现身，三中全会结束！</a></li>
 <li><a href="/cbnews/20240719/2064094.md">意图闭关锁国？习三中全会高喊四字暗示</a></li>
 <li><a href="/cnnews/20240719/2064294.md">中国医院真乱! 汕头院长不断重金诱奸已婚妇、南京新人培训大跳热舞</a></li>
 <li><a href="/cbnews/20240719/2064200.md">江峰：三中全会公告再现此句，习近平失守？辟谣习近平健康传闻，视频难辨开幕闭幕，百度禁搜“中风”指数，究竟怕什麽； 秦刚还是同志，海外媒体被处决一说依然无法证伪【江峰漫谈20240718第902期】</a></li>
 <li><a href="/topimagenews/20240719/2064091.md">饭碗恐怕不保！外卖小哥悬了?</a></li>
+<li><a href="/sohnews/20240719/2064301.md">习坐兵变火山口，中共陷两困境，大崩溃要来了⋯⋯</a></li>
 <li><a href="/topimagenews/20240719/2064254.md">压轴演说再提中共武统台湾！川普说本不该站在这里</a></li>
 <li><a href="/cnnews/20240719/2064143.md">习近平现身三中全会破除中风谣言！网酸：中国股市没大涨就辟谣了</a></li>
-<li><a href="/sohnews/20240719/2064301.md">习坐兵变火山口，中共陷两困境，大崩溃要来了⋯⋯</a></li>
 <li><a href="/baitai/20240719/2064237.md">突发！英国利兹发生大规模暴乱</a></li>
 <li><a href="/cnnews/20240719/2064235.md">中国原国务院副总理陈永贵孙女 出任新职</a></li>
-<li><a href="/lifebaike/20240719/2064269.md">5件“良心已坏”的家电，网络专供只坑国人，看谁上赶着当冤种？</a></li>
 <li><a href="/cnnews/20240719/2064328.md">没人敢说他! 中共曝污上亿人民币贪官排行榜 网批 : 漏了一个最大咖</a></li>
+<li><a href="/lifebaike/20240719/2064269.md">5件“良心已坏”的家电，网络专供只坑国人，看谁上赶着当冤种？</a></li>
 <li><a href="/headline/20240719/2064274.md">秦刚案：官方禁止妄议中国高层人事黑箱</a></li>
 <li><a href="/ccpdope/20240719/2064277.md">三中全会落幕 中国网友热议秦刚人事案图</a></li>
 <li><a href="/ccpdope/20240719/2064317.md">三峡大坝撑不住了！开12孔泄洪 禁飞无人机！视频</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20231220/1976683.md" target="_blank">医山夜话：张锡纯医案解读（二）根治胃气不降之证</a></li>
-<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20231207/1970628.md" target="_blank">民兵对官军，希望之声打造广播界的奇蹟【方伟时间-20231206】</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
 <li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
 
 </ul>
 </div>
