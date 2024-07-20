@@ -9,25 +9,25 @@
 <li><a href="/bblog/20240719/2064287.md">习近平大概率没参三中全会加闭幕式</a></li>
 <li><a href="/cnnews/20240719/2064194.md">习近平到底得了什么病？这个病名，绝对是头等机密</a></li>
 <li><a href="/topimagenews/20240719/2064203.md">【微博精粹】帝未崩 网上洋溢着欢乐的气氛</a></li>
-<li><a href="/yule/20240719/2064149.md">导演孙孟晋透露著名演员郑佩佩今日去世 享年78岁</a></li>
 <li><a href="/sohnews/20240719/2064286.md">中共耍什么招数？习近平现身，三中全会结束！</a></li>
 <li><a href="/cnnews/20240719/2064294.md">中国医院真乱! 汕头院长不断重金诱奸已婚妇、南京新人培训大跳热舞</a></li>
 <li><a href="/cbnews/20240719/2064200.md">江峰：三中全会公告再现此句，习近平失守？辟谣习近平健康传闻，视频难辨开幕闭幕，百度禁搜“中风”指数，究竟怕什麽； 秦刚还是同志，海外媒体被处决一说依然无法证伪【江峰漫谈20240718第902期】</a></li>
 <li><a href="/sohnews/20240719/2064301.md">习坐兵变火山口，中共陷两困境，大崩溃要来了⋯⋯</a></li>
 <li><a href="/baitai/20240719/2064237.md">突发！英国利兹发生大规模暴乱</a></li>
-<li><a href="/cnnews/20240719/2064143.md">习近平现身三中全会破除中风谣言！网酸：中国股市没大涨就辟谣了</a></li>
 <li><a href="/topimagenews/20240719/2064254.md">压轴演说再提中共武统台湾！川普说本不该站在这里</a></li>
-<li><a href="/cnnews/20240719/2064235.md">中国原国务院副总理陈永贵孙女 出任新职</a></li>
 <li><a href="/cnnews/20240719/2064328.md">没人敢说他! 中共曝污上亿人民币贪官排行榜 网批 : 漏了一个最大咖</a></li>
+<li><a href="/cnnews/20240719/2064235.md">中国原国务院副总理陈永贵孙女 出任新职</a></li>
 <li><a href="/lifebaike/20240719/2064269.md">5件“良心已坏”的家电，网络专供只坑国人，看谁上赶着当冤种？</a></li>
 <li><a href="/headline/20240719/2064274.md">秦刚案：官方禁止妄议中国高层人事黑箱</a></li>
 <li><a href="/ccpdope/20240719/2064277.md">三中全会落幕 中国网友热议秦刚人事案图</a></li>
-<li><a href="/ccpdope/20240719/2064317.md">三峡大坝撑不住了！开12孔泄洪 禁飞无人机！视频</a></li>
 <li><a href="/cbnews/20240719/2064196.md">〖红朝浮世绘〗中共养蛊自噬 汉奸的帽子向官员头上扣去</a></li>
+<li><a href="/ccpdope/20240719/2064317.md">三峡大坝撑不住了！开12孔泄洪 禁飞无人机！视频</a></li>
 <li><a href="/headline/20240719/2064347.md">习近平中风住院？ 矢板明夫分析称一眼就看出来是假新闻</a></li>
+<li><a href="/sohnews/20240720/2064466.md">“欲盖弥彰的手法太粗糙 ⋯ 被中风派捕捉到：主治医生消息”No.04（07/19/24）习近平出事中风习近平露面</a></li>
 <li><a href="/lifebaike/20240719/2064270.md">为啥大蒜放在超市就不生芽，买回家几天就发芽？看完涨知识了</a></li>
-<li><a href="/topimagenews/20240719/2064128.md">一局大棋?娃哈哈到底是谁的</a></li>
-<li><a href="/cbnews/20240719/2064129.md">停飞！又一家著名航司告别中国</a></li>
+<li><a href="/headline/20240719/2064276.md">三中全会立改革300项 习近平再任文件起草组长</a></li>
+<li><a href="/sohnews/20240719/2064199.md">邓小平家族财富令人咋舌，邓家二子赌场一掷亿金</a></li>
+<li><a href="/ccpdope/20240720/2064443.md">三中全会烂尾 开了个寂寞画了张旧饼</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240720/2064592.md" target="_blank">参议员霍利爆猛料，安保并非特勤局特工。枪手有海外加密账号。川普演讲：细述枪击案，为何大喊战斗？团结一半不是胜利。川普枪击案特勤局</a></li>
 <li><a href="/cbnews/20240720/2064547.md" target="_blank">这原因，让“感谢微软”登上中国微博热搜</a></li>
 <li><a href="/comments/20240720/2064532.md" target="_blank">万斯的妈妈和外婆的故事</a></li>
 <li><a href="/comments/20240720/2064530.md" target="_blank">拜登如退选，谁上？川普RNC全新表现 ｜陈立简 ｜方菲时间</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240719/2064204.md" target="_blank">三中公报53次提改革 中共前官员：转圈子、扯犊子</a></li>
 <li><a href="/cbnews/20240719/2064200.md" target="_blank">江峰：三中全会公告再现此句，习近平失守？辟谣习近平健康传闻，视频难辨开幕闭幕，百度禁搜“中风”指数，究竟怕什麽； 秦刚还是同志，海外媒体被处决一说依然无法证伪【江峰漫谈20240718第902期】</a></li>
 <li><a href="/cbnews/20240719/2064196.md" target="_blank">〖红朝浮世绘〗中共养蛊自噬 汉奸的帽子向官员头上扣去</a></li>
-<li><a href="/comments/20240719/2064189.md" target="_blank">拥抱美利坚王者归来</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240720/2064592.md" target="_blank">参议员霍利爆猛料，安保并非特勤局特工。枪手有海外加密账号。川普演讲：细述枪击案，为何大喊战斗？团结一半不是胜利。川普枪击案特勤局</a></li>
 <li><a href="/comments/20240720/2064532.md" target="_blank">万斯的妈妈和外婆的故事</a></li>
 <li><a href="/comments/20240720/2064530.md" target="_blank">拜登如退选，谁上？川普RNC全新表现 ｜陈立简 ｜方菲时间</a></li>
 <li><a href="/comments/20240720/2064521.md" target="_blank">文昭：三中全会上胡春华与习近平并排坐、会议公报有异常，邻近最後一刻有事发生？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240719/2064302.md" target="_blank">民主党逼宫 会有效吗？</a></li>
 <li><a href="/comments/20240719/2064258.md" target="_blank">重大政策上万斯都看法是啥？</a></li>
 <li><a href="/comments/20240719/2064232.md" target="_blank">德语媒体：世界最强大统治者的软肋</a></li>
-<li><a href="/comments/20240719/2064201.md" target="_blank">辱毛了！毛腊肉请吃腊肉？谁看得懂？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20231203/1969183.md" target="_blank">开盖冲马桶 ，细菌会乱飞？除非你家马桶是喷泉！</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20240703/2057730.md" target="_blank">百年梦醒（十七）：马克思的连环计、出卖灵魂</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
+<li><a href="/comments/20231213/1973586.md" target="_blank">六道轮回之畜生道</a></li>
 <li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
 
 </ul>
 </div>
