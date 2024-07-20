@@ -15,19 +15,19 @@
 <li><a href="/sohnews/20240720/2064505.md">新华社紧急辟谣露了什么馅？为什么说越共总书记去世打击了习近平？揭开三中全会公报“了无新意”的真正底牌｜远见快评 唐靖远</a></li>
 <li><a href="/headline/20240720/2064478.md">微软全球大宕机 中国对美国的科技依赖引热议</a></li>
 <li><a href="/ccpdope/20240720/2064443.md">三中全会烂尾 开了个寂寞画了张旧饼</a></li>
+<li><a href="/cnnews/20240720/2064725.md">上海大润发门口传惊悚砍头事件 多人死亡、温州医院医师被杀 杀人者跳楼</a></li>
 <li><a href="/worldnews/20240720/2064581.md">震惊！中国2大邻国有意改名</a></li>
 <li><a href="/headline/20240720/2064701.md">秦刚案不简单 软着陆人大再添厚鹅绒</a></li>
 <li><a href="/comments/20240720/2064598.md">习近平中风十有八九，中共党面临生死之交</a></li>
-<li><a href="/cnnews/20240720/2064725.md">上海大润发门口传惊悚砍头事件 多人死亡、温州医院医师被杀 杀人者跳楼</a></li>
-<li><a href="/comments/20240720/2064641.md">官媒火拼，王沪宁蔡奇齐开枪？新华网用习近平旧闻刷存在，三中全会闭幕式发生啥？“改革家习近平”败给“自信自立”</a></li>
 <li><a href="/cbnews/20240720/2064742.md">再现？传央视偷梁换柱 习近平到底在哪？</a></li>
+<li><a href="/comments/20240720/2064641.md">官媒火拼，王沪宁蔡奇齐开枪？新华网用习近平旧闻刷存在，三中全会闭幕式发生啥？“改革家习近平”败给“自信自立”</a></li>
 <li><a href="/cbnews/20240720/2064419.md">暴雨狂炸中国陕西 宝鸡“街道变黄河”画面曝</a></li>
 <li><a href="/topimagenews/20240720/2064545.md">放出这个信号 北京判断川普会当选</a></li>
+<li><a href="/cbnews/20240720/2064660.md">江峰：习近平传闻不断，长安街管制，央视视频越抹越黑；越共总书记突然去世，告诫共产国家最高权力交接灾难；全球电脑蓝屏，微软三方软体出错，彷佛战争降临【江峰漫谈20240719第903期】</a></li>
 <li><a href="/sohnews/20240720/2064681.md">🔥🔥10月台海有大冲突❓中国爆发革命习近平垮台中共灭亡❗帕克最新预言惊爆人类未来...❗</a></li>
 <li><a href="/ssgc/20240720/2064647.md">〖微博谈〗当今中国大陆有点像文革末期</a></li>
-<li><a href="/cbnews/20240720/2064660.md">江峰：习近平传闻不断，长安街管制，央视视频越抹越黑；越共总书记突然去世，告诫共产国家最高权力交接灾难；全球电脑蓝屏，微软三方软体出错，彷佛战争降临【江峰漫谈20240719第903期】</a></li>
-<li><a href="/comments/20240720/2064499.md">香港微生物学家袁国勇警告另一场病毒大流行不可避免</a></li>
-<li><a href="/topimagenews/20240720/2064523.md">上海二手豪宅 屠龙刀成了客户进场标配</a></li>
+<li><a href="/topimagenews/20240720/2064777.md">习近平中风疑云！ 专家批央视造假闭幕影片 另有3点有蹊跷......</a></li>
+<li><a href="/sohnews/20240720/2064540.md">如此出丑习近平，三大官媒闹鬼；胡春华坐习身旁，大有深意？宗馥莉非独生女？辞职因无法履职；娃哈哈是国企，党的利益被动了【新闻看点 李沐阳7.19】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
+<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
 <li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
 <li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
+<li><a href="/comments/20231203/1969183.md" target="_blank">开盖冲马桶 ，细菌会乱飞？除非你家马桶是喷泉！</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
 
 </ul>
 </div>
