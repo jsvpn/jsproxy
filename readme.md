@@ -14,20 +14,20 @@
 <li><a href="/cnnews/20240719/2064328.md">没人敢说他! 中共曝污上亿人民币贪官排行榜 网批 : 漏了一个最大咖</a></li>
 <li><a href="/sohnews/20240720/2064466.md">“欲盖弥彰的手法太粗糙 ⋯ 被中风派捕捉到：主治医生消息”No.04（07/19/24）习近平出事中风习近平露面</a></li>
 <li><a href="/topimagenews/20240720/2064580.md">中共就阮富仲逝世致唁电 习近平打破一惯例</a></li>
-<li><a href="/headline/20240719/2064274.md">秦刚案：官方禁止妄议中国高层人事黑箱</a></li>
 <li><a href="/headline/20240719/2064347.md">习近平中风住院？ 矢板明夫分析称一眼就看出来是假新闻</a></li>
-<li><a href="/comments/20240720/2064521.md">文昭：三中全会上胡春华与习近平并排坐、会议公报有异常，邻近最後一刻有事发生？</a></li>
 <li><a href="/topimagenews/20240720/2064632.md">突发！中共元级潜舰近全舰消失</a></li>
+<li><a href="/comments/20240720/2064521.md">文昭：三中全会上胡春华与习近平并排坐、会议公报有异常，邻近最後一刻有事发生？</a></li>
 <li><a href="/ccpdope/20240719/2064277.md">三中全会落幕 中国网友热议秦刚人事案图</a></li>
-<li><a href="/headline/20240720/2064478.md">微软全球大宕机 中国对美国的科技依赖引热议</a></li>
 <li><a href="/topimagenews/20240720/2064643.md">三中全会 习近平暗示将有第四任期</a></li>
+<li><a href="/headline/20240720/2064478.md">微软全球大宕机 中国对美国的科技依赖引热议</a></li>
 <li><a href="/sohnews/20240720/2064505.md">新华社紧急辟谣露了什么馅？为什么说越共总书记去世打击了习近平？揭开三中全会公报“了无新意”的真正底牌｜远见快评 唐靖远</a></li>
 <li><a href="/ccpdope/20240720/2064443.md">三中全会烂尾 开了个寂寞画了张旧饼</a></li>
 <li><a href="/ccpdope/20240719/2064317.md">三峡大坝撑不住了！开12孔泄洪 禁飞无人机！视频</a></li>
 <li><a href="/worldnews/20240720/2064581.md">震惊！中国2大邻国有意改名</a></li>
-<li><a href="/headline/20240719/2064276.md">三中全会立改革300项 习近平再任文件起草组长</a></li>
 <li><a href="/topimagenews/20240720/2064545.md">放出这个信号 北京判断川普会当选</a></li>
 <li><a href="/comments/20240720/2064598.md">习近平中风十有八九，中共党面临生死之交</a></li>
+<li><a href="/cbnews/20240720/2064419.md">暴雨狂炸中国陕西 宝鸡“街道变黄河”画面曝</a></li>
+<li><a href="/baitai/20240719/2064316.md">娃哈哈公主宗馥莉突请辞掀轩然大波 令公司一众高层措手不及</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240720/2064711.md" target="_blank">拜登退不退选，不是媒体说了就算回事</a></li>
 <li><a href="/cbnews/20240720/2064660.md" target="_blank">江峰：习近平传闻不断，长安街管制，央视视频越抹越黑；越共总书记突然去世，告诫共产国家最高权力交接灾难；全球电脑蓝屏，微软三方软体出错，彷佛战争降临【江峰漫谈20240719第903期】</a></li>
 <li><a href="/cbnews/20240720/2064645.md" target="_blank">〖红朝浮世绘〗7·20反迫害世界各国法轮功学员大游行抗议中共</a></li>
 <li><a href="/cbnews/20240720/2064633.md" target="_blank">温州病患家属捅伤医生后跳楼 两人生死未卜</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240719/1772244.md" target="_blank">细语人生：女孩误食了大麻饼干的患重病  修炼法轮功康复</a></li>
 <li><a href="/cbnews/20240719/2064229.md" target="_blank">男子驾特斯拉走川藏线带发电机 特斯拉回应</a></li>
 <li><a href="/cbnews/20240719/2064228.md" target="_blank">中国警救国旗成功救人失败 老翁生死不明</a></li>
-<li><a href="/cbnews/20240719/2064206.md" target="_blank">&#8220;大有深意&#8221;！胡春华与习近平并排坐</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240720/2064711.md" target="_blank">拜登退不退选，不是媒体说了就算回事</a></li>
 <li><a href="/comments/20240720/2064655.md" target="_blank">天亮时分：川普遇刺之後首次演讲，他要做全美国人的总统</a></li>
 <li><a href="/comments/20240720/2064644.md" target="_blank">“被指居者”之死：嫌犯身体遭长时间束缚，警方称指居使用械具是惯例</a></li>
 <li><a href="/comments/20240720/2064641.md" target="_blank">官媒火拼，王沪宁蔡奇齐开枪？新华网用习近平旧闻刷存在，三中全会闭幕式发生啥？“改革家习近平”败给“自信自立”</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240719/2064402.md" target="_blank">【杜耀明评论】三中全会不接地气 中国经济迷失方向</a></li>
 <li><a href="/comments/20240719/2064392.md" target="_blank">天亮时分：解读三中全会习近平之改革</a></li>
 <li><a href="/comments/20240719/2064364.md" target="_blank">关于人类的最新预言！</a></li>
-<li><a href="/comments/20240719/2064362.md" target="_blank">川普的政策和性格冲突怎么办？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/sohnews/20160119/493472.md" target="_blank">无效的医疗：手术刀下的谎言和药瓶里的欺骗</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/ssgc/20240508/2034288.md" target="_blank">《透视“进化论”》第九章 人类起源问题的终极答案</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20231201/1968320.md" target="_blank">【非凡新闻】结合中西文化精神 美国神韵表演吸睛</a></li>
+<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20240403/2020547.md" target="_blank">纪录片：DSM诊断与统计手册-精神病学最要命的骗局</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
+<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/cbnews/20240603/2045072.md" target="_blank">漫谈古代科举之八股文</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
 
 </ul>
 </div>
