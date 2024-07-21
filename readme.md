@@ -7,27 +7,27 @@
 
 <li><a href="/cnnews/hknews/20240721/2064886.md">女子深夜直播轻生 被曝“性成瘾”私密照遭公开</a></li>
 <li><a href="/topimagenews/20240721/2064953.md">继续加速！惊爆：中国多地鞭炮白酒疯抢断货 民众准备庆祝了？</a></li>
-<li><a href="/topimagenews/20240721/2064872.md">中共将不遗余力让你钱变草纸！中国百姓使出浑身解数严防死守</a></li>
 <li><a href="/topimagenews/20240721/2064954.md">【微博精粹】比躺平、唱衰更炸裂 这个词组把党吓得半死</a></li>
-<li><a href="/cbnews/20240721/2064873.md">中共三中全会定下“两大马车”？</a></li>
 <li><a href="/topimagenews/20240721/2064907.md">中国网友傻眼 “这种人也曾位居高位，悲哀”</a></li>
 <li><a href="/baitai/20240721/2065041.md">习近平露面吊唁阮富仲 然而中风传闻却越演越烈</a></li>
 <li><a href="/cbnews/20240721/2065050.md">院长偷吃美女企业家 丑事曝光</a></li>
 <li><a href="/ccpdope/20240721/2064978.md">军中出大事 中共搞死龙脉引发大分裂多图</a></li>
 <li><a href="/cnnews/20240721/2064910.md">多国发生中国游客脱团跑路 押金护照全弃</a></li>
-<li><a href="/sohnews/20240721/2064874.md">习近平露面辟谣“中风”，也许是好事？｜习近平 中共三中全会</a></li>
-<li><a href="/topimagenews/20240721/2064871.md">现在的中国，外资不来富豪润</a></li>
 <li><a href="/topimagenews/20240721/2065044.md">启用不到6年陕西高速桥梁倒塌25车坠河！ 中国网友轰“豆腐渣狂魔”</a></li>
+<li><a href="/sohnews/20240721/2064874.md">习近平露面辟谣“中风”，也许是好事？｜习近平 中共三中全会</a></li>
 <li><a href="/sohnews/20240721/2064902.md">范冰冰被封杀的真相，绝对不是最初你知道的那样，水太深，鱼太大【文昭思绪飞扬368期】</a></li>
-<li><a href="/comments/20240721/2064869.md">杜文（上）：一方要我咬出胡春华，一方要我死；12年冤狱九死一生，千钧一发之际逃出中国｜方菲时间</a></li>
+<li><a href="/baitai/20240722/2065097.md">中共三中公报有看点 习近平集权受阻？秦刚平安了 他不安了</a></li>
+<li><a href="/topimagenews/20240722/2065110.md">快讯：拜登退出2024总统大选</a></li>
 <li><a href="/cnnews/20240721/2064893.md">“人类史上最大的泡沫”即将破裂</a></li>
 <li><a href="/funmedia/20240721/2065089.md">日本温泉双人房含2客早餐“住1晚价格曝光”网笑了：所以穷人才出国</a></li>
 <li><a href="/health/20240721/2064958.md">每一口都加速衰老！广东医科大学发现，常吃这些食物，加速衰老，寿命或缩短50% </a></li>
 <li><a href="/health/20240721/2065020.md">越来越多人得癌症，医生提醒：洗碗时几个坏习惯，看看占了几个？</a></li>
-<li><a href="/baitai/20240721/2064867.md">新华社特稿《改革家习近平》下网的真相</a></li>
-<li><a href="/topimagenews/20240722/2065110.md">快讯：拜登退出2024总统大选</a></li>
+<li><a href="/cbnews/20240721/2065086.md">江峰：全球电脑瘫痪蓝屏如同战争，为何中国这边独好</a></li>
 <li><a href="/topimagenews/20240721/2064971.md">突发：川普庆祝对普利策新闻委员会提起诽谤诉讼 再次赢得法律胜利</a></li>
-<li><a href="/baitai/20240722/2065097.md">中共三中公报有看点 习近平集权受阻？秦刚平安了 他不安了</a></li>
+<li><a href="/headline/20240721/2065011.md">特朗普遇刺后首场竞选造势赞扬多名独裁者 并称习近平慰问信“文情并茂”</a></li>
+<li><a href="/sohnews/20240721/2065003.md">替身频出习到底健康如何，共军093A潜艇在港口沉没，草台班子与垃圾时间珠联璧合。《老灯开讲第615期》</a></li>
+<li><a href="/ccpdope/20240721/2065043.md">知名教授称人民无信心 暗批三中全会作用不大图</a></li>
+<li><a href="/cbnews/20240721/2064926.md">传咸阳湖5天跳7人 多地网民：我这也一样</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240722/2065165.md" target="_blank">文昭：遇刺以後的川普行情大涨，带来了什麽不一样的辣招？【会员样片节选】</a></li>
 <li><a href="/comments/20240722/2065152.md" target="_blank">杜文（下）：跟了中共是我最大失败；人人贪腐，中共政治秩序已失控｜方菲时间</a></li>
 <li><a href="/comments/20240722/2065131.md" target="_blank">拜登退选，引发民主党大地震</a></li>
 <li><a href="/comments/20240721/2065088.md" target="_blank">越共总书记去世 习近平效仿阮富仲得&quot;第三任期&quot;？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240721/2064876.md" target="_blank">飞狐 ：谁是“极端民族主义者”的主人？</a></li>
 <li><a href="/comments/20240721/2064875.md" target="_blank">译丛:要求中共国对当代最灾难性的疫情——新冠肺炎疫情负责</a></li>
 <li><a href="/comments/20240721/2064869.md" target="_blank">杜文（上）：一方要我咬出胡春华，一方要我死；12年冤狱九死一生，千钧一发之际逃出中国｜方菲时间</a></li>
-<li><a href="/comments/20240721/2064856.md" target="_blank">汤名晖:今日的美国未必不是一个传奇时代</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
 <li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20240418/2026391.md" target="_blank">医生劝我妻子放弃，似乎这些医生热衷让病人快点去死？</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/comments/20190701/1151501.md" target="_blank">【特稿】中国共产党是邪教组织</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/taiwannews/20210119/1470524.md" target="_blank">纪录片《蚕食美国1》</a></li>
+<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
 
 </ul>
 </div>
