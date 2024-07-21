@@ -9,25 +9,25 @@
 <li><a href="/cbnews/20240720/2064742.md">再现？传央视偷梁换柱 习近平到底在哪？</a></li>
 <li><a href="/topimagenews/20240720/2064777.md">习近平中风疑云！ 专家批央视造假闭幕影片 另有3点有蹊跷......</a></li>
 <li><a href="/headline/20240720/2064701.md">秦刚案不简单 软着陆人大再添厚鹅绒</a></li>
-<li><a href="/ccpdope/20240721/2064828.md">习近平不发唁电而去使馆吊唁很反常图</a></li>
 <li><a href="/topimagenews/20240721/2064851.md">超规格！习近平突现身灵堂 中国巨变或比预期快【阿波罗网报道】</a></li>
+<li><a href="/ccpdope/20240721/2064828.md">习近平不发唁电而去使馆吊唁很反常图</a></li>
 <li><a href="/headline/20240720/2064796.md">习近平赴越南使馆吊唁阮富仲 央视播出4分钟画面称步履正常</a></li>
 <li><a href="/sohnews/20240720/2064731.md">“习近平现状果真入谜 蔡奇王小洪必然防范张又侠何卫东军变”《今日点击》（07/19/24））习近平出事中风习近平露面</a></li>
 <li><a href="/cbnews/20240721/2064825.md">江峰：三中全会公告之秘：前任党魁都回来了</a></li>
 <li><a href="/cnnews/20240721/2064853.md">川普释出两个中国信号，下周将有“大事”发生？</a></li>
 <li><a href="/cbnews/20240720/2064752.md">他才真有“死亡之握”! 阮富仲逝世、这些国家元首也都GG了 网惊习近平好厉害</a></li>
-<li><a href="/sohnews/20240720/2064681.md">🔥🔥10月台海有大冲突❓中国爆发革命习近平垮台中共灭亡❗帕克最新预言惊爆人类未来...❗</a></li>
-<li><a href="/topimagenews/20240721/2064872.md">中共将不遗余力让你钱变草纸！中国百姓使出浑身解数严防死守</a></li>
 <li><a href="/cnnews/hknews/20240721/2064886.md">女子深夜直播轻生 被曝“性成瘾”私密照遭公开</a></li>
+<li><a href="/topimagenews/20240721/2064872.md">中共将不遗余力让你钱变草纸！中国百姓使出浑身解数严防死守</a></li>
+<li><a href="/sohnews/20240720/2064681.md">🔥🔥10月台海有大冲突❓中国爆发革命习近平垮台中共灭亡❗帕克最新预言惊爆人类未来...❗</a></li>
 <li><a href="/cbnews/20240720/2064660.md">江峰：习近平传闻不断，长安街管制，央视视频越抹越黑；越共总书记突然去世，告诫共产国家最高权力交接灾难；全球电脑蓝屏，微软三方软体出错，彷佛战争降临【江峰漫谈20240719第903期】</a></li>
 <li><a href="/cbnews/20240720/2064740.md">“改革家习近平”刚下架 党媒再释信号：不走老路</a></li>
 <li><a href="/comments/20240721/2064812.md">三中全会开完 如丧考妣😵</a></li>
 <li><a href="/cnnews/20240720/2064724.md">川普刺客手机难破解? 连FBI都搞不定 求助这国40分钟就解决了…..</a></li>
-<li><a href="/yule/20240721/2064827.md">49岁周迅和好友私下聚会 没了滤镜脸上坑坑洼洼</a></li>
 <li><a href="/headline/20240720/2064736.md">台媒：中国一元级潜舰遭疑港口出事沉没</a></li>
+<li><a href="/yule/20240721/2064827.md">49岁周迅和好友私下聚会 没了滤镜脸上坑坑洼洼</a></li>
 <li><a href="/sohnews/20240720/2064732.md">陈破空：党媒接连提示他出事了？今天说他有批示。传御医两天没回家！北京高速被封。彭丽媛忽然亮相。人大开口，这样解释秦刚同志。糗大了！又有共军潜艇就地沉没。直播与互动：美东时间7月20日早9点、中港台当日晚9点</a></li>
-<li><a href="/sohnews/20240720/2064768.md">新华社辟谣露馅，党内乱套了！【远见快评】2024.7.19 精华选段</a></li>
 <li><a href="/topimagenews/20240721/2064855.md">惊世骇俗，他决定不印钞了</a></li>
+<li><a href="/cbnews/20240721/2064873.md">中共三中全会定下“两大马车”？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
 <li><a href="/comments/20231130/1967587.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （一）</a></li>
-<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20240703/2057730.md" target="_blank">百年梦醒（十七）：马克思的连环计、出卖灵魂</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/comments/20240403/2020547.md" target="_blank">纪录片：DSM诊断与统计手册-精神病学最要命的骗局</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
+<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/comments/20190701/1151501.md" target="_blank">【特稿】中国共产党是邪教组织</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
 
 </ul>
 </div>
