@@ -5,14 +5,12 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/cnnews/20240720/2064725.md">上海大润发门口传惊悚砍头事件 多人死亡、温州医院医师被杀 杀人者跳楼</a></li>
 <li><a href="/cbnews/20240720/2064742.md">再现？传央视偷梁换柱 习近平到底在哪？</a></li>
 <li><a href="/headline/20240720/2064796.md">习近平赴越南使馆吊唁阮富仲 央视播出4分钟画面称步履正常</a></li>
-<li><a href="/topimagenews/20240720/2064777.md">习近平中风疑云！ 专家批央视造假闭幕影片 另有3点有蹊跷......</a></li>
 <li><a href="/topimagenews/20240721/2064851.md">超规格！习近平突现身灵堂 中国巨变或比预期快【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20240720/2064777.md">习近平中风疑云！ 专家批央视造假闭幕影片 另有3点有蹊跷......</a></li>
 <li><a href="/cnnews/hknews/20240721/2064886.md">女子深夜直播轻生 被曝“性成瘾”私密照遭公开</a></li>
 <li><a href="/ccpdope/20240721/2064828.md">习近平不发唁电而去使馆吊唁很反常图</a></li>
-<li><a href="/sohnews/20240720/2064731.md">“习近平现状果真入谜 蔡奇王小洪必然防范张又侠何卫东军变”《今日点击》（07/19/24））习近平出事中风习近平露面</a></li>
 <li><a href="/cnnews/20240721/2064853.md">川普释出两个中国信号，下周将有“大事”发生？</a></li>
 <li><a href="/cbnews/20240721/2064825.md">江峰：三中全会公告之秘：前任党魁都回来了</a></li>
 <li><a href="/topimagenews/20240721/2064954.md">【微博精粹】比躺平、唱衰更炸裂 这个词组把党吓得半死</a></li>
@@ -24,10 +22,12 @@
 <li><a href="/cbnews/20240721/2064873.md">中共三中全会定下“两大马车”？</a></li>
 <li><a href="/comments/20240721/2064812.md">三中全会开完 如丧考妣😵</a></li>
 <li><a href="/topimagenews/20240721/2064855.md">惊世骇俗，他决定不印钞了</a></li>
-<li><a href="/cnnews/20240720/2064724.md">川普刺客手机难破解? 连FBI都搞不定 求助这国40分钟就解决了…..</a></li>
 <li><a href="/cnnews/20240721/2064910.md">多国发生中国游客脱团跑路 押金护照全弃</a></li>
-<li><a href="/sohnews/20240720/2064732.md">陈破空：党媒接连提示他出事了？今天说他有批示。传御医两天没回家！北京高速被封。彭丽媛忽然亮相。人大开口，这样解释秦刚同志。糗大了！又有共军潜艇就地沉没。直播与互动：美东时间7月20日早9点、中港台当日晚9点</a></li>
+<li><a href="/ccpdope/20240721/2064978.md">军中出大事 中共搞死龙脉引发大分裂多图</a></li>
 <li><a href="/yule/20240721/2064827.md">49岁周迅和好友私下聚会 没了滤镜脸上坑坑洼洼</a></li>
+<li><a href="/lifebaike/20240721/2064840.md">100多年前喀什：香妃墓还未被盗 维族姑娘好漂亮集</a></li>
+<li><a href="/headline/20240720/2064736.md">台媒：中国一元级潜舰遭疑港口出事沉没</a></li>
+<li><a href="/sohnews/20240720/2064768.md">新华社辟谣露馅，党内乱套了！【远见快评】2024.7.19 精华选段</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/comments/20240116/1984226.md" target="_blank">湖北老河口遇仙记</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/sohnews/20160119/493472.md" target="_blank">无效的医疗：手术刀下的谎言和药瓶里的欺骗</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/cbnews/20240715/2062387.md" target="_blank">尧帝治世之道（一）</a></li>
+<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
+<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
 
 </ul>
 </div>
