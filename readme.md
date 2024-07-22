@@ -19,15 +19,15 @@
 <li><a href="/cbnews/20240722/2065253.md">〖红朝浮世绘〗“指居”成为中共戕害百姓工具 南方周末呼吁废除</a></li>
 <li><a href="/topimagenews/20240722/2065319.md">想毕业 就要被“潜规则”喔! 中共国再爆学术丑闻 教授逼女学生陪睡</a></li>
 <li><a href="/topimagenews/20240722/2065209.md">南韩反击屎攻放大绝！ 金正恩最怕的来了</a></li>
-<li><a href="/topimagenews/20240722/2065122.md">得知拜登退选 川普：他是史上最糟总统 贺锦丽更易对付</a></li>
+<li><a href="/sohnews/20240722/2065420.md">震撼弹：三中全会后房地产税来了……</a></li>
 <li><a href="/sohnews/20240722/2065360.md">陈破空：三中全会《决定》泄密：李强彻底靠边站！突发：拜登宣布退选！冲微博热搜，热文《把他赶下台》遭删。中国游客纷纷脱团跑路，丢弃护照和押金。直播与互动：美东时间7月22日早9点、中港台当日晚9点</a></li>
 <li><a href="/cbnews/20240722/2065315.md">上海年轻人跑医院集体“吊颈” 引发热议</a></li>
-<li><a href="/sohnews/20240722/2065420.md">震撼弹：三中全会后房地产税来了……</a></li>
 <li><a href="/topimagenews/20240722/2065386.md">以色列12架F-35奔袭1700里轰炸胡赛！史上首次隐形战机群大作战 胡塞雷达测不到</a></li>
 <li><a href="/sohnews/20240722/2065378.md">又一匹黑马：何宏军</a></li>
 <li><a href="/topimagenews/20240722/2065167.md">婚姻幸福协会女主席被捉在床，汕头姘头院长淡定抠脚</a></li>
 <li><a href="/cbnews/20240722/2065171.md">中共高调吊唁越共总书记 专家解析四大原因</a></li>
 <li><a href="/topimagenews/20240722/2065239.md">【微博精粹】越共总书记中风挂了 中国人民浮想联翩</a></li>
+<li><a href="/comments/20240722/2065187.md">编制改聘任制！铁饭碗，从教师开始碎了？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240723/2065515.md" target="_blank">【财经拆局】4.7%的「留白」 三中释出低增长成常态 对香港有何启示？</a></li>
 <li><a href="/comments/20240723/2065501.md" target="_blank">人大女博士生实名举报性骚扰   博导遭解聘、开除党籍</a></li>
 <li><a href="/comments/20240723/2065500.md" target="_blank">美国务卿布林肯将与中国外长王毅在老挝会晤</a></li>
 <li><a href="/comments/20240723/2065492.md" target="_blank">时事大家谈：拜登退选，谁将代表民主党迎战特朗普？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240722/2065228.md" target="_blank">汤名晖：川普“付费论”可以“租借法案”为鉴</a></li>
 <li><a href="/comments/20240722/2065227.md" target="_blank">韩媒：朝鲜处决30多名观看韩剧的中学生</a></li>
 <li><a href="/comments/20240722/2065226.md" target="_blank">项栋梁：别怕！我们经济增速5.0</a></li>
-<li><a href="/comments/20240722/2065225.md" target="_blank">王之言：3个月20次洪水，中国陷入“救灾疲惫”时刻</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20240623/2053092.md" target="_blank">章天亮：那些行于世间的觉者</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
 <li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
 <li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
 
 </ul>
 </div>
