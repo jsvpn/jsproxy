@@ -17,8 +17,8 @@
 <li><a href="/topimagenews/20240722/2065110.md">快讯：拜登退出2024总统大选</a></li>
 <li><a href="/topimagenews/20240722/2065210.md">马斯克响应川普发一图：第三是中国 第一是…</a></li>
 <li><a href="/topimagenews/20240722/2065314.md">中共国“指居”地狱! 陆媒曝滥用成新刑讯逼供工具 已有多人死亡</a></li>
-<li><a href="/cbnews/20240722/2065253.md">〖红朝浮世绘〗“指居”成为中共戕害百姓工具 南方周末呼吁废除</a></li>
 <li><a href="/topimagenews/20240722/2065319.md">想毕业 就要被“潜规则”喔! 中共国再爆学术丑闻 教授逼女学生陪睡</a></li>
+<li><a href="/cbnews/20240722/2065253.md">〖红朝浮世绘〗“指居”成为中共戕害百姓工具 南方周末呼吁废除</a></li>
 <li><a href="/topimagenews/20240722/2065209.md">南韩反击屎攻放大绝！ 金正恩最怕的来了</a></li>
 <li><a href="/topimagenews/20240722/2065122.md">得知拜登退选 川普：他是史上最糟总统 贺锦丽更易对付</a></li>
 <li><a href="/sohnews/20240722/2065360.md">陈破空：三中全会《决定》泄密：李强彻底靠边站！突发：拜登宣布退选！冲微博热搜，热文《把他赶下台》遭删。中国游客纷纷脱团跑路，丢弃护照和押金。直播与互动：美东时间7月22日早9点、中港台当日晚9点</a></li>
@@ -27,7 +27,7 @@
 <li><a href="/cbnews/20240722/2065171.md">中共高调吊唁越共总书记 专家解析四大原因</a></li>
 <li><a href="/topimagenews/20240722/2065239.md">【微博精粹】越共总书记中风挂了 中国人民浮想联翩</a></li>
 <li><a href="/comments/20240722/2065187.md">编制改聘任制！铁饭碗，从教师开始碎了？</a></li>
-<li><a href="/cnnews/20240722/2065126.md">爆积欠租金！大陆知名私中倒闭“1000名师生被赶出”</a></li>
+<li><a href="/comments/20240722/2065352.md">你听得懂川普讲话真正的意思吗？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240723/2065492.md" target="_blank">时事大家谈：拜登退选，谁将代表民主党迎战特朗普？</a></li>
 <li><a href="/comments/20240723/2065477.md" target="_blank">时事大家谈：越南阮富仲去世，习近平为何成众矢之的？</a></li>
 <li><a href="/comments/20240723/2065469.md" target="_blank">天亮时分：如何看拜登任内的国内政策？</a></li>
 <li><a href="/comments/20240722/2065458.md" target="_blank">【泽论四方】中国作为美国首要敌人已成全民共识</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240722/2065225.md" target="_blank">王之言：3个月20次洪水，中国陷入“救灾疲惫”时刻</a></li>
 <li><a href="/comments/20240722/2065224.md" target="_blank">韩谦：多名被“指居”者死亡，背后的制度陷存废之争</a></li>
 <li><a href="/comments/20240722/2065223.md" target="_blank">陕西高速桥垮塌获救者：和工友返乡途中，只有他打开了车窗</a></li>
-<li><a href="/comments/20240722/2065222.md" target="_blank">刑辩昊宸：我从未见过一次正常的指居</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
 <li><a href="/comments/20240418/2026391.md" target="_blank">医生劝我妻子放弃，似乎这些医生热衷让病人快点去死？</a></li>
-<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20240126/1992876.md" target="_blank">内幕：中国留学生里女生打男生和男生打女一样普遍</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
+<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
+<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20240703/2057730.md" target="_blank">百年梦醒（十七）：马克思的连环计、出卖灵魂</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
 
 </ul>
 </div>
