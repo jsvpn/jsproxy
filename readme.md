@@ -7,18 +7,17 @@
 
 <li><a href="/ssgc/20240723/2065574.md">事实查核｜华春莹被查，家中搜出500万美金？</a></li>
 <li><a href="/topimagenews/20240723/2065645.md">中国房市突传重磅消息</a></li>
-<li><a href="/topimagenews/20240723/2065533.md">编制改聘任制！铁饭碗，从这开始碎了？中国突发重磅！央行刚降息，离岸人民币急跌</a></li>
 <li><a href="/topimagenews/20240723/2065692.md">三中全会改革第一发子弹射向老百姓</a></li>
 <li><a href="/sohnews/20240723/2065762.md">惊传：三中全会张又侠发动军变，股市暴跌反映市场绝望，房地产税将彻底摧垮经济。《老灯开讲第617期》</a></li>
 <li><a href="/topimagenews/20240723/2065611.md">遭灭口！中共军用雷达专家被双手吊在门梁上毒打一个星期</a></li>
 <li><a href="/topimagenews/20240723/2065612.md">专家：三中全会内斗 中共自制黑天鹅灰犀牛</a></li>
 <li><a href="/topimagenews/20240723/2065802.md">《网易》抬着赵紫阳冲塔! 中国言论管控松动了？ 大量网友讨论“非正能量”</a></li>
 <li><a href="/topimagenews/20240723/2065736.md">习近平拒绝大规模经济刺激的原因在这</a></li>
-<li><a href="/topimagenews/20240723/2065562.md">“点个新鲜的肺 33分钟送到”全网追问“老杨”是谁</a></li>
 <li><a href="/ssgc/20240723/2065865.md">三中全会的人事传言和人事安排</a></li>
+<li><a href="/topimagenews/20240723/2065562.md">“点个新鲜的肺 33分钟送到”全网追问“老杨”是谁</a></li>
 <li><a href="/topimagenews/20240723/2065689.md">彻底打输这一仗 北京黯然投降</a></li>
-<li><a href="/ssgc/20240723/2065683.md">〖微博谈〗习近平不再在乎人民的感受了</a></li>
 <li><a href="/comments/20240723/2065668.md">【中南海秘闻】秦刚偷录李尚福魏凤和私下谈话 并交到彭丽媛手中 戴罪立功免去牢狱之灾</a></li>
+<li><a href="/ssgc/20240723/2065683.md">〖微博谈〗习近平不再在乎人民的感受了</a></li>
 <li><a href="/cbnews/20240723/2065820.md">纪念赵紫阳文章现身网易 10小时后遭封杀</a></li>
 <li><a href="/cnnews/20240723/2065861.md">大陆资深男星被爆“当众性侵未成年”花30万私了！身份线索曝光</a></li>
 <li><a href="/topimagenews/20240723/2065590.md">时空错乱！习在联合国总部演讲洋洋洒洒…</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/cbnews/20240723/2065548.md">官逼民反” 上海外卖员怒殴交警</a></li>
 <li><a href="/health/20240723/2065758.md">肺癌一查就是晚期？其实双腿早早给了暗示！有3个迹象，尽早筛查</a></li>
 <li><a href="/sports/20240723/2065599.md">跨栏女神证件照修太大！网：选手村都进不去</a></li>
+<li><a href="/topimagenews/20240723/2065740.md">中共又一次错失了良机</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/comments/20231207/1970628.md" target="_blank">民兵对官军，希望之声打造广播界的奇蹟【方伟时间-20231206】</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/comments/20240703/2057730.md" target="_blank">百年梦醒（十七）：马克思的连环计、出卖灵魂</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
 <li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20240723/2065714.md" target="_blank">台湾民视：解谜法轮功 气功或宗教？</a></li>
+<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
 
 </ul>
 </div>
