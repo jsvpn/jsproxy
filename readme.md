@@ -13,13 +13,11 @@
 <li><a href="/topimagenews/20240723/2065736.md">习近平拒绝大规模经济刺激的原因在这</a></li>
 <li><a href="/topimagenews/20240723/2065802.md">《网易》抬着赵紫阳冲塔! 中国言论管控松动了？ 大量网友讨论“非正能量”</a></li>
 <li><a href="/comments/20240723/2065668.md">【中南海秘闻】秦刚偷录李尚福魏凤和私下谈话 并交到彭丽媛手中 戴罪立功免去牢狱之灾</a></li>
-<li><a href="/ssgc/20240723/2065865.md">三中全会的人事传言和人事安排</a></li>
 <li><a href="/topimagenews/20240723/2065689.md">彻底打输这一仗 北京黯然投降</a></li>
+<li><a href="/ssgc/20240723/2065865.md">三中全会的人事传言和人事安排</a></li>
 <li><a href="/ssgc/20240723/2065683.md">〖微博谈〗习近平不再在乎人民的感受了</a></li>
 <li><a href="/cbnews/20240723/2065820.md">纪念赵紫阳文章现身网易 10小时后遭封杀</a></li>
 <li><a href="/cnnews/20240723/2065861.md">大陆资深男星被爆“当众性侵未成年”花30万私了！身份线索曝光</a></li>
-<li><a href="/topimagenews/20240723/2065590.md">时空错乱！习在联合国总部演讲洋洋洒洒…</a></li>
-<li><a href="/topimagenews/20240723/2065589.md">利剑悬起! 中国房地产税倒计时开启</a></li>
 <li><a href="/cbnews/20240723/2065707.md">〖红朝浮世绘〗拜登退选登热搜 “把他赶下台”映射习近平？</a></li>
 <li><a href="/health/20240723/2065758.md">肺癌一查就是晚期？其实双腿早早给了暗示！有3个迹象，尽早筛查</a></li>
 <li><a href="/topimagenews/20240723/2065793.md">巴菲特突然出手了…</a></li>
@@ -28,6 +26,8 @@
 <li><a href="/cnnews/20240723/2065745.md">奥巴马为何没挺贺锦丽 原因曝光</a></li>
 <li><a href="/health/20240723/2065757.md">天然“溶栓剂”公布，并非木耳，医生建议：经常吃，血管或变干净</a></li>
 <li><a href="/topimagenews/20240723/2065688.md">现在这个情况 千万别这么干了</a></li>
+<li><a href="/cbnews/20240723/2065694.md">习口径悄悄变化 现在打这张牌</a></li>
+<li><a href="/topimagenews/20240723/2065671.md">楼市泡沫破灭残酷现实：2015年买房的都亏了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240724/2066056.md" target="_blank">川普遇刺现场，特勤局有哪些失误？｜方菲时间</a></li>
 <li><a href="/cbnews/20240724/2066043.md" target="_blank">评论：中共最怕川普当选总统 川普出手难以预料</a></li>
 <li><a href="/cbnews/20240724/2066042.md" target="_blank">细思极恐：“从不缺货” ！深圳空运肺所涉医生每天做数例肺移植</a></li>
 <li><a href="/cbnews/20240724/2066041.md" target="_blank">昆明广告牌突掉落3死多伤 小姐妹阴阳永隔</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20240723/2065807.md" target="_blank">究竟是什么让拜登突改主意，退出竞选？枪手有9个可疑联系人，直通FBI？特勤局局长被拷问，两党国会议员要求她辞职。枪击案拜登特勤局</a></li>
 <li><a href="/comments/20240723/2065714.md" target="_blank">台湾民视：解谜法轮功 气功或宗教？</a></li>
 <li><a href="/cbnews/20240723/2065707.md" target="_blank">〖红朝浮世绘〗拜登退选登热搜 “把他赶下台”映射习近平？</a></li>
-<li><a href="/comments/20240723/2065701.md" target="_blank">新预言：川普将再次遇刺，杀手是金发美女</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240724/2066056.md" target="_blank">川普遇刺现场，特勤局有哪些失误？｜方菲时间</a></li>
 <li><a href="/comments/20240724/2065946.md" target="_blank">最新预言 川普将再度遭遇暗S？！</a></li>
 <li><a href="/comments/20240724/2065944.md" target="_blank">特勤局长切特尔  宣布辞职！</a></li>
 <li><a href="/comments/20240724/2065932.md" target="_blank">特勤局长国会应询的灾难</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240723/2065644.md" target="_blank">天亮时分：现在就将拜登赶下台？压垮拜登的最後一根稻草；三中全会後，中共放三大招；秦刚将成正部级研究员？（政论天下第1361集 20240722）天亮时分</a></li>
 <li><a href="/comments/20240723/2065642.md" target="_blank">【节选】川普RNC接受总统提名演讲，亲述枪击案全过程。能躲过致命枪击，全靠上帝恩典。并呼吁美国团结，说赢得半个美国不算胜利。川普RNC共和党提名</a></li>
 <li><a href="/comments/20240723/2065619.md" target="_blank">吴奕军：中国现在是外资不来富豪润</a></li>
-<li><a href="/comments/20240723/2065618.md" target="_blank">陕西S30水阳高速严坪村2号大桥垮塌过程推测</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20231220/1976789.md" target="_blank">大陆医生曝：九价HPV疫苗导致怀孕能力下降40%</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
 
 </ul>
 </div>
