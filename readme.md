@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/topimagenews/20240724/2065997.md">立场软化 习近平被迫向现实低头</a></li>
 <li><a href="/topimagenews/20240724/2066017.md">惊见习近平“穿东北花衬衫” 网民吓傻</a></li>
 <li><a href="/cnnews/20240724/2066018.md">北京饭局：高潮永远是小道消息</a></li>
 <li><a href="/topimagenews/20240724/2066081.md">乱局蔓延 共军内部人心惶惶</a></li>
@@ -21,13 +20,14 @@
 <li><a href="/cnnews/20240724/2066019.md">三中全会授权地方“割韭菜”！人人跑不掉</a></li>
 <li><a href="/cnnews/20240724/2066135.md">要家家带孝！“让出西安以东 拿12亿人打核战”？</a></li>
 <li><a href="/ssgc/20240724/2066241.md">三中全会起草组由王沪宁续任副组长 中共顶层权力分布引关注</a></li>
-<li><a href="/sohnews/20240724/2066140.md">死4亿人也要拿下台湾？牺牲西安以东和美国打核战？荒唐言论被怒斥！</a></li>
 <li><a href="/sohnews/20240724/2066252.md">陈破空：老习真的病倒了？王沪宁罕见代他出国。接班人排除李强。孟加拉人民抗争！终结特权。中国股市暴跌。日本退出中国宝钢。直播与互动：美东时间7月24日早9点、中港台当日晚9点</a></li>
+<li><a href="/sohnews/20240724/2066140.md">死4亿人也要拿下台湾？牺牲西安以东和美国打核战？荒唐言论被怒斥！</a></li>
 <li><a href="/lifebaike/20240724/2066045.md">知道杨贵妃的真实体重后，现代女孩笑不出来了</a></li>
 <li><a href="/baitai/20240724/2066192.md">北京罕撤对美制裁 原因难以启齿？</a></li>
-<li><a href="/cnnews/20240724/2065999.md">神准！他年初就预测拜登退选 还预测了这些事</a></li>
 <li><a href="/topimagenews/20240724/2066275.md">拼多多濒破产？无故扣罚20多万商家 维权民众包围番禺讨说法</a></li>
 <li><a href="/baitai/20240724/2066021.md">一位开了天目的和尚 1992年见到释迦牟尼佛法身 得知惊天大事</a></li>
+<li><a href="/cbnews/20240724/2066062.md">时隔5天，北京这道贺电实在是不情不愿</a></li>
+<li><a href="/finance/20240724/2066280.md">限薪、退钱… 这个行业开始了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240725/2066426.md" target="_blank">众议院听证会 川普遇刺未遂案更多细节曝光</a></li>
 <li><a href="/cbnews/20240725/2066404.md" target="_blank">江峰：他对党和国家最大贡献，就是下台</a></li>
 <li><a href="/cbnews/20240725/2066403.md" target="_blank">江峰：这是动物园麽？中共黑天鹅灰犀牛太多了</a></li>
 <li><a href="/cbnews/20240725/2066402.md" target="_blank">江峰：扭了脚被治成脑死亡，最後肺还被杨振宁儿子用上了</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240724/2066041.md" target="_blank">昆明广告牌突掉落3死多伤 小姐妹阴阳永隔</a></li>
 <li><a href="/cbnews/20240724/2066040.md" target="_blank">中共公安维稳 这里赫然打出“战区”两字</a></li>
 <li><a href="/cbnews/20240724/2066011.md" target="_blank">深圳直升机33分钟送器官 患者身份引质疑</a></li>
-<li><a href="/comments/20240724/2065946.md" target="_blank">最新预言 川普将再度遭遇暗S？！</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240725/2066428.md" target="_blank">特朗普说台湾要交保护费 日韩交了吗？- 兵家常事（2024-7-25）</a></li>
 <li><a href="/comments/20240725/2066379.md" target="_blank">布林肯与奥斯汀亚洲之行：剑指中国 加强印太联盟</a></li>
 <li><a href="/comments/20240725/2066373.md" target="_blank">【中国卷入危险的地缘冲突？】 #巴勒斯坦 14个派别的高级别代表日前在北京举行“和解对话”，同意结束分歧，组建临时民族和解政府，并签署了《#北京宣言》。#以色列 迅速表示强烈谴责。</a></li>
 <li><a href="/comments/20240725/2066365.md" target="_blank">【未普评论】《改革家习近平》下架 《新华社》弄巧成拙</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240724/2066108.md" target="_blank">网络民议：“生我时嫌我多，我生时嫌我少，找工作嫌我老，等退休嫌我小”</a></li>
 <li><a href="/comments/20240724/2066107.md" target="_blank">第一财经:中央研究开征“地方附加税”，研究割韭菜新法</a></li>
 <li><a href="/comments/20240724/2066102.md" target="_blank">上海屁民造反：爆捶公安！官方怕杨佳效应，公开向外卖小哥认怂？盘点外卖小哥直击灵魂瞬间…</a></li>
-<li><a href="/comments/20240724/2066088.md" target="_blank">王维洛：谈谈三峡水库的泄洪</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
+<li><a href="/aomi/life/20240330/2018911.md" target="_blank">挪威青年这样走出重度失眠和抑郁煎熬</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
 <li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20240418/2026391.md" target="_blank">医生劝我妻子放弃，似乎这些医生热衷让病人快点去死？</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
 
 </ul>
 </div>
