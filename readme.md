@@ -14,8 +14,8 @@
 <li><a href="/topimagenews/20240725/2066491.md">马斯克罕见吐露心声 被忽悠傻了</a></li>
 <li><a href="/lifebaike/20240725/2066619.md">手机出现这6种情况，很有可能已经被“监听”，请马上关机</a></li>
 <li><a href="/cbnews/20240725/2066402.md">江峰：扭了脚被治成脑死亡，最後肺还被杨振宁儿子用上了</a></li>
-<li><a href="/topimagenews/20240725/2066443.md">天然气武器失败 俄罗斯自我毁灭，彻底失败</a></li>
 <li><a href="/sohnews/20240725/2066673.md">陈破空：盛传习近平遭兵变推翻？更像是重病。决定稿暗示王沪宁临时接班？拜登演讲：我上任时都说中国将超过美国，现在没这回事了！直播与互动：美东时间7月25日早9点、中港台当日晚9点</a></li>
+<li><a href="/topimagenews/20240725/2066443.md">天然气武器失败 俄罗斯自我毁灭，彻底失败</a></li>
 <li><a href="/topimagenews/20240725/2066472.md">令人发指！废掉中国人眼睛舌头 中国油企偷笑</a></li>
 <li><a href="/baitai/20240725/2066708.md">学者网民都在问 中南海究竟出了什么事？</a></li>
 <li><a href="/cnnews/20240725/2066543.md">文革中被秘密处决的中共政治局常委</a></li>
@@ -24,10 +24,10 @@
 <li><a href="/ssgc/20240725/2066579.md">〖微博谈〗总书记何止是中国的首席经济学家</a></li>
 <li><a href="/headline/20240725/2066388.md">解放军国防大学教授公开痛斥中共武统派 评论：体制内鲜有的理性声音</a></li>
 <li><a href="/topimagenews/20240725/2066677.md">中国大学一堆“叫兽”！用权势“潜规则”女学生 还骗女高中生开房 全被抖出来</a></li>
-<li><a href="/ccpdope/20240725/2066590.md">军报一再强调「党中央」不寻常 兵谏传言是真？图</a></li>
 <li><a href="/yule/20240725/2066547.md">41岁江一燕现状曝光！定居云南小县城结婚生女，街边买菜似普通人</a></li>
+<li><a href="/ccpdope/20240725/2066590.md">军报一再强调「党中央」不寻常 兵谏传言是真？图</a></li>
 <li><a href="/cbnews/20240725/2066555.md">中共央企高管暴力侵犯女下属 被带走调查</a></li>
-<li><a href="/cbnews/20240725/2066434.md">广州82岁老人被迫转院16次 戳穿中共医保假象</a></li>
+<li><a href="/cbnews/20240725/2066597.md">男子称在阿勒泰发现石油大喊“发财了” 官方通报</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240726/2066783.md" target="_blank">【中俄军机在阿拉斯加附近联合巡逻 不针对谁？】 #俄罗斯 和 #中国 军机在楚科奇海、白令海以及北太平洋海域进行联合空中巡逻。 中国国防部表示，此次联合空中巡逻不针对第三国。</a></li>
 <li><a href="/comments/20240726/2066760.md" target="_blank">时事大家谈：习近平“中国式现代化” 全靠割韭菜？</a></li>
 <li><a href="/comments/20240725/2066753.md" target="_blank">凝固成雕塑的外卖小哥：他还活着？</a></li>
 <li><a href="/comments/20240725/2066752.md" target="_blank">【中国时局】中共中将原兰州军区副司令员关凯去世</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240725/2066467.md" target="_blank">中共国衰败重大征兆 北大清华这样干</a></li>
 <li><a href="/comments/20240725/2066463.md" target="_blank">文昭：中共此举彻底激怒以色列！她找上门来狮子大开口，让习偬的大计尴尬，不欢而散</a></li>
 <li><a href="/comments/20240725/2066455.md" target="_blank">贺锦丽迅速获得背书，对川普是挑战？马斯克说没给川普捐4500万；【零日攻击】直面台海之战，会产生什么效果？｜方伟 唐靖远 Jason David 方菲｜围炉夜话07/24</a></li>
-<li><a href="/comments/20240725/2066428.md" target="_blank">特朗普说台湾要交保护费 日韩交了吗？- 兵家常事（2024-7-25）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20231213/1973586.md" target="_blank">六道轮回之畜生道</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/cnnews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20240116/1984226.md" target="_blank">湖北老河口遇仙记</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
+<li><a href="/comments/20240126/1992876.md" target="_blank">内幕：中国留学生里女生打男生和男生打女一样普遍</a></li>
+<li><a href="/sohnews/20160119/493472.md" target="_blank">无效的医疗：手术刀下的谎言和药瓶里的欺骗</a></li>
+<li><a href="/topimagenews/20180608/954788.md" target="_blank">安乐死根本安乐不了，别宣传了</a></li>
+<li><a href="/comments/20231212/1972297.md" target="_blank">日本华人确诊晚期直肠癌，修炼法轮功恢复健康（图）</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
 
 </ul>
 </div>
