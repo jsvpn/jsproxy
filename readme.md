@@ -9,7 +9,6 @@
 <li><a href="/topimagenews/20240725/2066432.md">猛料：秦刚最致命告密 把他们录音交彭丽媛</a></li>
 <li><a href="/topimagenews/20240725/2066488.md">惊悚照疯传！中国女在麦当劳用餐 突觉有东西钻进裤档</a></li>
 <li><a href="/cbnews/20240725/2066433.md">触目惊心！中国一高档社区现代化车库成车主葬身之地</a></li>
-<li><a href="/sohnews/20240724/2066347.md">“名人深叹：看来当今圣上 很忌讳替身呀⋯”No.01（07/24/24））习近平出事替身习近平露面</a></li>
 <li><a href="/topimagenews/20240725/2066421.md">狂欢后原形毕露！国家跨不过去了 百姓还能喝口汤吗</a></li>
 <li><a href="/cbnews/20240725/2066549.md">〖红朝浮世绘〗小学生博士都当上首席经济学家了 中国经济彻底完蛋</a></li>
 <li><a href="/topimagenews/20240725/2066491.md">马斯克罕见吐露心声 被忽悠傻了</a></li>
@@ -21,12 +20,13 @@
 <li><a href="/cbnews/20240725/2066474.md">疯了！“拿全国12亿人跟美打核战？”体制内鲜有公开发声</a></li>
 <li><a href="/headline/20240725/2066388.md">解放军国防大学教授公开痛斥中共武统派 评论：体制内鲜有的理性声音</a></li>
 <li><a href="/ssgc/20240725/2066579.md">〖微博谈〗总书记何止是中国的首席经济学家</a></li>
+<li><a href="/sohnews/20240725/2066673.md">陈破空：盛传习近平遭兵变推翻？更像是重病。决定稿暗示王沪宁临时接班？拜登演讲：我上任时都说中国将超过美国，现在没这回事了！直播与互动：美东时间7月25日早9点、中港台当日晚9点</a></li>
 <li><a href="/yule/20240725/2066547.md">41岁江一燕现状曝光！定居云南小县城结婚生女，街边买菜似普通人</a></li>
 <li><a href="/itnews/20240725/2066371.md">闲鱼“二手空调”暗藏涉黄？ 回应：加大对网络整改的力度</a></li>
-<li><a href="/cbnews/20240725/2066434.md">广州82岁老人被迫转院16次 戳穿中共医保假象</a></li>
-<li><a href="/sohnews/20240725/2066673.md">陈破空：盛传习近平遭兵变推翻？更像是重病。决定稿暗示王沪宁临时接班？拜登演讲：我上任时都说中国将超过美国，现在没这回事了！直播与互动：美东时间7月25日早9点、中港台当日晚9点</a></li>
-<li><a href="/cbnews/20240725/2066555.md">中共央企高管暴力侵犯女下属 被带走调查</a></li>
 <li><a href="/ccpdope/20240725/2066590.md">军报一再强调「党中央」不寻常 兵谏传言是真？图</a></li>
+<li><a href="/cbnews/20240725/2066434.md">广州82岁老人被迫转院16次 戳穿中共医保假象</a></li>
+<li><a href="/cbnews/20240725/2066555.md">中共央企高管暴力侵犯女下属 被带走调查</a></li>
+<li><a href="/cbnews/20240725/2066597.md">男子称在阿勒泰发现石油大喊“发财了” 官方通报</a></li>
 <li><a href="/ccpdope/20240725/2066550.md">北京大萧条，餐饮商舖成片倒闭！视频</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240725/2066748.md" target="_blank">港府紧咬不放 参与示威男事隔4年返港后被起诉</a></li>
+<li><a href="/comments/20240725/2066747.md" target="_blank">日本制铁与中国宝钢拆伙 分析指战略调整避险</a></li>
 <li><a href="/comments/20240725/2066733.md" target="_blank">贺锦丽能否得提名？礼拜六是关键方菲时间美国大选</a></li>
 <li><a href="/comments/20240725/2066726.md" target="_blank">时事大家谈：习近平“中国式现代化” 全靠割韭菜？恶性事件频发 中国真是“最安全国家”？</a></li>
 <li><a href="/comments/20240725/2066724.md" target="_blank">奥巴马不支持哈里斯，真正原因曝光。拜登退选后首次白宫演讲，四大特征揭示微妙健康状况。拜登哈里斯奥巴马</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240725/2066379.md" target="_blank">布林肯与奥斯汀亚洲之行：剑指中国 加强印太联盟</a></li>
 <li><a href="/comments/20240725/2066373.md" target="_blank">【中国卷入危险的地缘冲突？】 #巴勒斯坦 14个派别的高级别代表日前在北京举行“和解对话”，同意结束分歧，组建临时民族和解政府，并签署了《#北京宣言》。#以色列 迅速表示强烈谴责。</a></li>
 <li><a href="/comments/20240725/2066365.md" target="_blank">【未普评论】《改革家习近平》下架 《新华社》弄巧成拙</a></li>
-<li><a href="/comments/20240725/2066359.md" target="_blank">时事大家谈：政商关系错综复杂，马云为何有国难返？</a></li>
-<li><a href="/comments/20240725/2066358.md" target="_blank">时事大家谈：拜登退选哈里斯呼声高涨，特朗普压力陡增？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/comments/20231212/1972297.md" target="_blank">日本华人确诊晚期直肠癌，修炼法轮功恢复健康（图）</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
-<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
-<li><a href="/sohnews/20160119/493472.md" target="_blank">无效的医疗：手术刀下的谎言和药瓶里的欺骗</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
+<li><a href="/comments/20240318/2014289.md" target="_blank">唐柏桥：民运同仁突然向法轮功开火是怎么回事？</a></li>
 <li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/topimagenews/20240511/2035423.md" target="_blank">原北京学员回忆李洪志先生在东方健康博览会上所行的奇迹</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/topimagenews/20200514/1328456.md" target="_blank">穿越时空 谢田教授亲身体验人体特异功能</a></li>
+<li><a href="/comments/20231204/1969287.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （三）</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
 
 </ul>
 </div>
