@@ -10,24 +10,24 @@
 <li><a href="/lifebaike/20240725/2066619.md">手机出现这6种情况，很有可能已经被“监听”，请马上关机</a></li>
 <li><a href="/topimagenews/20240725/2066491.md">马斯克罕见吐露心声 被忽悠傻了</a></li>
 <li><a href="/baitai/20240725/2066708.md">学者网民都在问 中南海究竟出了什么事？</a></li>
+<li><a href="/sohnews/20240725/2066673.md">陈破空：盛传习近平遭兵变推翻？更像是重病。决定稿暗示王沪宁临时接班？拜登演讲：我上任时都说中国将超过美国，现在没这回事了！直播与互动：美东时间7月25日早9点、中港台当日晚9点</a></li>
 <li><a href="/topimagenews/20240725/2066472.md">令人发指！废掉中国人眼睛舌头 中国油企偷笑</a></li>
 <li><a href="/ssgc/20240725/2066715.md">三中全会后 党政机关效忠表演现异常</a></li>
-<li><a href="/sohnews/20240725/2066673.md">陈破空：盛传习近平遭兵变推翻？更像是重病。决定稿暗示王沪宁临时接班？拜登演讲：我上任时都说中国将超过美国，现在没这回事了！直播与互动：美东时间7月25日早9点、中港台当日晚9点</a></li>
 <li><a href="/cnnews/20240725/2066543.md">文革中被秘密处决的中共政治局常委</a></li>
 <li><a href="/ssgc/20240725/2066579.md">〖微博谈〗总书记何止是中国的首席经济学家</a></li>
 <li><a href="/cbnews/20240725/2066474.md">疯了！“拿全国12亿人跟美打核战？”体制内鲜有公开发声</a></li>
-<li><a href="/topimagenews/20240725/2066677.md">中国大学一堆“叫兽”！用权势“潜规则”女学生 还骗女高中生开房 全被抖出来</a></li>
 <li><a href="/ccpdope/20240726/2066781.md">习遭严重挑战？秦刚已死？三中公报暗藏不寻常</a></li>
+<li><a href="/topimagenews/20240725/2066677.md">中国大学一堆“叫兽”！用权势“潜规则”女学生 还骗女高中生开房 全被抖出来</a></li>
 <li><a href="/yule/20240725/2066547.md">41岁江一燕现状曝光！定居云南小县城结婚生女，街边买菜似普通人</a></li>
 <li><a href="/ccpdope/20240725/2066590.md">军报一再强调「党中央」不寻常 兵谏传言是真？图</a></li>
 <li><a href="/cbnews/20240725/2066555.md">中共央企高管暴力侵犯女下属 被带走调查</a></li>
 <li><a href="/sohnews/20240725/2066699.md">文睿：风向，变了</a></li>
 <li><a href="/topimagenews/20240725/2066709.md">高盛：川普可能已影响大陆经济议程</a></li>
 <li><a href="/cbnews/20240725/2066597.md">男子称在阿勒泰发现石油大喊“发财了” 官方通报</a></li>
+<li><a href="/topimagenews/20240726/2066841.md">遭急撤“改革家习近平” 猫腻大</a></li>
+<li><a href="/cnnews/20240726/2066770.md">美国男8300美元买“超巨水管”被笑 洪水来了只有他家保住</a></li>
 <li><a href="/ccpdope/20240725/2066550.md">北京大萧条，餐饮商舖成片倒闭！视频</a></li>
 <li><a href="/cbnews/20240725/2066613.md">拜登退选 让中、俄等国家元首忧心起这事…</a></li>
-<li><a href="/cnnews/20240726/2066770.md">美国男8300美元买“超巨水管”被笑 洪水来了只有他家保住</a></li>
-<li><a href="/topimagenews/20240726/2066841.md">遭急撤“改革家习近平” 猫腻大</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/comments/20240403/2020547.md" target="_blank">纪录片：DSM诊断与统计手册-精神病学最要命的骗局</a></li>
+<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/topimagenews/20180608/954788.md" target="_blank">安乐死根本安乐不了，别宣传了</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
 
 </ul>
 </div>
