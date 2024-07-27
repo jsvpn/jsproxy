@@ -19,15 +19,15 @@
 <li><a href="/comments/20240726/2067123.md">一齐指向2025年！众多预言呼应《推背图》大地震来了？英国帕克、日本预言家、美国先知凯西、星象家⋯⋯描述世界和中国⋯⋯太惊悚了！｜未解之谜</a></li>
 <li><a href="/baitai/20240726/2067164.md">尴尬一幕！2024巴黎奥运开幕 传中国代表团遭「软禁」见外媒面露惊慌</a></li>
 <li><a href="/baitai/20240726/2067106.md">又惊现民杀官惨剧！ 广东村民当场捅死村书记</a></li>
+<li><a href="/topimagenews/20240727/2067302.md">中国女公开脱光开腿向美警“示威”！中共政府指派“秘密任务”？</a></li>
 <li><a href="/topimagenews/20240726/2067021.md">俄军发动近来最大规模进攻! 11坦克45战车遭挫败 快艇也被乌军炸了</a></li>
 <li><a href="/topimagenews/20240726/2067002.md">川普：若我遇刺身亡 美国要消灭伊朗</a></li>
 <li><a href="/cnnews/20240726/2067054.md">书记性侵下属女书记 女书记要举报遭纪委带走</a></li>
 <li><a href="/health/20240726/2067087.md">为什么建议高血压患者少吃面条？不仅是面条，还有这2类食物</a></li>
 <li><a href="/cbnews/20240726/2067024.md">300多项改革出台 中国人的生活将有啥变化</a></li>
-<li><a href="/topimagenews/20240727/2067302.md">中国女公开脱光开腿向美警“示威”！中共政府指派“秘密任务”？</a></li>
-<li><a href="/cbnews/20240726/2067061.md">9天内17名中共院士教授密集病亡</a></li>
 <li><a href="/ccpdope/20240726/2067195.md">北京出现七个异常现象透何信息？图</a></li>
-<li><a href="/finance/20240726/2067110.md">投资的钱全没了! 中国养老基金今年一半被“清盘” 彭博社 : 习使经济加速恶化</a></li>
+<li><a href="/topimagenews/20240726/2067202.md">悬赏1000万美元！朝鲜特务骇入NASA、美军基地和医院 美国法院起诉</a></li>
+<li><a href="/cbnews/20240726/2067061.md">9天内17名中共院士教授密集病亡</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240727/2067384.md" target="_blank">佛州中共特工被起诉，猫神公开补刀。中共拟在美国境内建军队？川普重申驱逐非法移民，尤其来自中共国年轻力壮的人。中共特工非法移民川普</a></li>
 <li><a href="/cbnews/20240727/2067375.md" target="_blank">台风登陆中国 多省降特大暴雨 沈阳破73年纪录</a></li>
 <li><a href="/comments/20240727/2067372.md" target="_blank">哈里斯旋风上位 选盘如何变动</a></li>
 <li><a href="/cbnews/20240727/2067345.md" target="_blank">江峰：解决了医保养老，老百姓不用逼，自然就愿意消费啦</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240726/2067024.md" target="_blank">300多项改革出台 中国人的生活将有啥变化</a></li>
 <li><a href="/cbnews/20240726/2067023.md" target="_blank">菲国华裔女市长疑已整容潜逃 警方曝惊人内情</a></li>
 <li><a href="/cbnews/20240726/2067022.md" target="_blank">29国环太军演 “快沉”武器震慑中共海军</a></li>
-<li><a href="/cbnews/20240726/2067000.md" target="_blank">〖红朝浮世绘〗一路绿灯，跑了半年</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240727/2067384.md" target="_blank">佛州中共特工被起诉，猫神公开补刀。中共拟在美国境内建军队？川普重申驱逐非法移民，尤其来自中共国年轻力壮的人。中共特工非法移民川普</a></li>
+<li><a href="/comments/20240727/2067377.md" target="_blank">鲜为人知：1991年，美国曾努力避免苏联解体…苏联解体的台前幕后</a></li>
+<li><a href="/comments/20240727/2067376.md" target="_blank">管见：新桂冠·新“基本点”·旧体制现代化</a></li>
 <li><a href="/comments/20240727/2067372.md" target="_blank">哈里斯旋风上位 选盘如何变动</a></li>
 <li><a href="/comments/20240727/2067346.md" target="_blank">文昭：中共出新规，这类人想出国难了！又一种「深圳速度」，吓坏10几亿中国人</a></li>
 <li><a href="/comments/20240727/2067331.md" target="_blank">川普刺案大反转？“很多人响应号召…”</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20240726/2066974.md" target="_blank">最会&quot;搞&quot;经济📉首席专家？#习近平</a></li>
 <li><a href="/comments/20240726/2066960.md" target="_blank">前外交部长秦刚二三事</a></li>
 <li><a href="/comments/20240726/2066959.md" target="_blank">“无论是为胡友平，还是为我们自己，我们都不能忘”</a></li>
-<li><a href="/comments/20240726/2066942.md" target="_blank">陈碧：中国人民大学性骚扰事件，为何不能仅仅是师德问题？</a></li>
-<li><a href="/comments/20240726/2066941.md" target="_blank">敏敏郡主：什么反对文化入侵。这是违法，是反智，是在反对改革开放</a></li>
-<li><a href="/comments/20240726/2066940.md" target="_blank">李晟医生门诊中遇害，针对中国医生的暴力为什么越来越激进？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/comments/20240318/2014289.md" target="_blank">唐柏桥：民运同仁突然向法轮功开火是怎么回事？</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/comments/20231204/1969287.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （三）</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
 <li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
 <li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
 
 </ul>
 </div>
