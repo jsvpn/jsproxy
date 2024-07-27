@@ -11,23 +11,23 @@
 <li><a href="/baitai/20240727/2067247.md">官二代炫富闯大祸？ 开保时捷上班 下班打高尔夫 网友扒出其父背景强大</a></li>
 <li><a href="/topimagenews/20240727/2067302.md">中国女公开脱光开腿向美警“示威”！中共政府指派“秘密任务”？</a></li>
 <li><a href="/topimagenews/20240726/2067094.md">习近平成为恐怖分子背后的总教父？</a></li>
+<li><a href="/baitai/20240726/2067164.md">尴尬一幕！2024巴黎奥运开幕 传中国代表团遭「软禁」见外媒面露惊慌</a></li>
 <li><a href="/topimagenews/20240726/2067109.md">中国经济危机！本田减产30万辆、周大福关180店、上海梅龙镇歇业</a></li>
 <li><a href="/comments/20240726/2067123.md">一齐指向2025年！众多预言呼应《推背图》大地震来了？英国帕克、日本预言家、美国先知凯西、星象家⋯⋯描述世界和中国⋯⋯太惊悚了！｜未解之谜</a></li>
-<li><a href="/baitai/20240726/2067164.md">尴尬一幕！2024巴黎奥运开幕 传中国代表团遭「软禁」见外媒面露惊慌</a></li>
 <li><a href="/headline/20240727/2067306.md">中国最新潮语：「习式萧条」 社会对三中全会彻底失望</a></li>
-<li><a href="/topimagenews/20240727/2067303.md">中国将迎哀嚎一片！多地回收商品房价上限披露；巴菲特真的、彻底地跑了</a></li>
 <li><a href="/topimagenews/20240727/2067327.md">偷跑没成功！中共30万吨超大型油轮深夜被扣押</a></li>
+<li><a href="/topimagenews/20240727/2067303.md">中国将迎哀嚎一片！多地回收商品房价上限披露；巴菲特真的、彻底地跑了</a></li>
 <li><a href="/baitai/20240726/2067106.md">又惊现民杀官惨剧！ 广东村民当场捅死村书记</a></li>
 <li><a href="/topimagenews/20240727/2067349.md">县委书记性侵女下属，这个事情不简单</a></li>
 <li><a href="/ccpdope/20240726/2067195.md">北京出现七个异常现象透何信息？图</a></li>
-<li><a href="/cnnews/20240726/2067054.md">书记性侵下属女书记 女书记要举报遭纪委带走</a></li>
 <li><a href="/topimagenews/20240727/2067348.md">中国大学生有出路了？一图疯传</a></li>
-<li><a href="/health/20240726/2067087.md">为什么建议高血压患者少吃面条？不仅是面条，还有这2类食物</a></li>
 <li><a href="/topimagenews/20240727/2067326.md">踢爆！香港秘密链条 撑起北京野心</a></li>
-<li><a href="/topimagenews/20240726/2067202.md">悬赏1000万美元！朝鲜特务骇入NASA、美军基地和医院 美国法院起诉</a></li>
 <li><a href="/topimagenews/20240727/2067347.md">厉害！5000条红头文件泄密习近平多年行踪</a></li>
+<li><a href="/health/20240726/2067087.md">为什么建议高血压患者少吃面条？不仅是面条，还有这2类食物</a></li>
+<li><a href="/topimagenews/20240726/2067202.md">悬赏1000万美元！朝鲜特务骇入NASA、美军基地和医院 美国法院起诉</a></li>
 <li><a href="/cbnews/20240726/2067061.md">9天内17名中共院士教授密集病亡</a></li>
 <li><a href="/finance/20240726/2067110.md">投资的钱全没了! 中国养老基金今年一半被“清盘” 彭博社 : 习使经济加速恶化</a></li>
+<li><a href="/sohnews/20240727/2067291.md">曹德旺美国福耀玻璃遭突击检查，巴黎奥运开幕前高铁遭协调破坏，亲共侨领陈军在纽约认罪，中国延迟退休遭反弹｜横河评论 2024.07.26</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/cnnews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
-<li><a href="/comments/20240412/2024185.md" target="_blank">是治疗还是屠杀?化疗药品滴一滴在皮肤即灼伤，很长时间才好</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/cnnews/20221211/1822144.md" target="_blank">盖盖冲马桶很可怕！瞬间“病毒炸开”？</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20231203/1969183.md" target="_blank">开盖冲马桶 ，细菌会乱飞？除非你家马桶是喷泉！</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20190701/1151501.md" target="_blank">【特稿】中国共产党是邪教组织</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
 <li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
 
 </ul>
 </div>
