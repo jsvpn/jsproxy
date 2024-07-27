@@ -8,10 +8,9 @@
 <li><a href="/cbnews/20240726/2067025.md">共军中将关凯在北京突然去世 知情者曝其死因</a></li>
 <li><a href="/cbnews/20240726/2067095.md">北戴河会前集体躺平？习开常委会称“年景偏差”</a></li>
 <li><a href="/ccpdope/20240726/2067168.md">不是政变胜似政变 党魁成三中全会最大输家图</a></li>
-<li><a href="/baitai/20240727/2067247.md">官二代炫富闯大祸？ 开保时捷上班 下班打高尔夫 网友扒出其父背景强大</a></li>
 <li><a href="/sohnews/20240726/2067068.md">陈破空：央视泄漏：老习病得不轻！这个会根本就没开，三大疑点。兵变传言继续。中国奥运代表团不敢说一句话。直播与互动：美东时间7月26日早9点、中港台当日晚9点</a></li>
+<li><a href="/baitai/20240727/2067247.md">官二代炫富闯大祸？ 开保时捷上班 下班打高尔夫 网友扒出其父背景强大</a></li>
 <li><a href="/topimagenews/20240727/2067302.md">中国女公开脱光开腿向美警“示威”！中共政府指派“秘密任务”？</a></li>
-<li><a href="/ccpdope/20240726/2067017.md">三中后 王小洪两次重要场合不提党魁很诡异</a></li>
 <li><a href="/topimagenews/20240726/2067094.md">习近平成为恐怖分子背后的总教父？</a></li>
 <li><a href="/topimagenews/20240726/2067109.md">中国经济危机！本田减产30万辆、周大福关180店、上海梅龙镇歇业</a></li>
 <li><a href="/comments/20240726/2067123.md">一齐指向2025年！众多预言呼应《推背图》大地震来了？英国帕克、日本预言家、美国先知凯西、星象家⋯⋯描述世界和中国⋯⋯太惊悚了！｜未解之谜</a></li>
@@ -20,13 +19,14 @@
 <li><a href="/headline/20240727/2067306.md">中国最新潮语：「习式萧条」 社会对三中全会彻底失望</a></li>
 <li><a href="/baitai/20240726/2067106.md">又惊现民杀官惨剧！ 广东村民当场捅死村书记</a></li>
 <li><a href="/topimagenews/20240727/2067349.md">县委书记性侵女下属，这个事情不简单</a></li>
+<li><a href="/topimagenews/20240727/2067327.md">偷跑没成功！中共30万吨超大型油轮深夜被扣押</a></li>
 <li><a href="/topimagenews/20240726/2067021.md">俄军发动近来最大规模进攻! 11坦克45战车遭挫败 快艇也被乌军炸了</a></li>
 <li><a href="/cnnews/20240726/2067054.md">书记性侵下属女书记 女书记要举报遭纪委带走</a></li>
 <li><a href="/ccpdope/20240726/2067195.md">北京出现七个异常现象透何信息？图</a></li>
-<li><a href="/topimagenews/20240727/2067327.md">偷跑没成功！中共30万吨超大型油轮深夜被扣押</a></li>
 <li><a href="/health/20240726/2067087.md">为什么建议高血压患者少吃面条？不仅是面条，还有这2类食物</a></li>
 <li><a href="/topimagenews/20240726/2067202.md">悬赏1000万美元！朝鲜特务骇入NASA、美军基地和医院 美国法院起诉</a></li>
 <li><a href="/cbnews/20240726/2067024.md">300多项改革出台 中国人的生活将有啥变化</a></li>
+<li><a href="/topimagenews/20240727/2067348.md">中国大学生有出路了？一图疯传</a></li>
 <li><a href="/cbnews/20240726/2067061.md">9天内17名中共院士教授密集病亡</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
 <li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20240721/2065039.md" target="_blank">王建勋：川普主义是雅各宾主义的克星</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/comments/20231203/1969183.md" target="_blank">开盖冲马桶 ，细菌会乱飞？除非你家马桶是喷泉！</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
 
 </ul>
 </div>
