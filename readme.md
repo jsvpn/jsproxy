@@ -7,12 +7,9 @@
 
 <li><a href="/bblog/20240727/2067526.md">习的替身被杀，王小洪当场“倒戈”，耸人听闻的谣言</a></li>
 <li><a href="/cbnews/20240727/2067561.md">据谣传：习近平的家人都已逃离中共国，但其胞弟被军方限制出境</a></li>
-<li><a href="/topimagenews/20240727/2067348.md">中国大学生有出路了？一图疯传</a></li>
 <li><a href="/bblog/20240727/2067524.md">北京啥情况？习被控制？东北火车不许进山海关</a></li>
 <li><a href="/baitai/20240727/2067564.md">习被控制？解放军报头版，习近平的照片名字都没有了</a></li>
 <li><a href="/cbnews/20240727/2067567.md">据谣传，北戴河在开会，习近平正在等待发落</a></li>
-<li><a href="/topimagenews/20240727/2067349.md">县委书记性侵女下属，这个事情不简单</a></li>
-<li><a href="/topimagenews/20240727/2067347.md">厉害！5000条红头文件泄密习近平多年行踪</a></li>
 <li><a href="/comments/20240727/2067414.md">王沪宁战胜蔡奇！习近平三中全会玩了谁？中国代表团巴黎奥运出丑，党逼党员生三胎</a></li>
 <li><a href="/cbnews/20240727/2067441.md">〖红朝浮世绘〗现在皇上撒币都不出声了，悄悄地就把钱给出去了</a></li>
 <li><a href="/baitai/20240727/2067582.md">今晚央视新闻联播，习近平继续隐身，太不正常了</a></li>
@@ -22,12 +19,15 @@
 <li><a href="/topimagenews/20240727/2067373.md">习近平砸盘！中国养老基金今年一半被“清盘”</a></li>
 <li><a href="/sohnews/20240727/2067423.md">大事不妙：王小洪突然发难，所有亲信都在疏远习近平，中共疯狂发展核武。《老灯开讲第619期》</a></li>
 <li><a href="/sports/20240727/2067457.md">巴黎奥运开幕式爆最大乌龙</a></li>
-<li><a href="/sohnews/20240727/2067481.md">陈破空：华春莹放风：老习病情稳住了？将接待东帝汶总统。毛宁特意公布亮相细节。李强忽然有事做。王小洪变调。进京列车突然受阻，北戴河会议悄悄准备中？直播与互动：美东时间7月27日早9点、中港台当日晚9点</a></li>
 <li><a href="/ccpdope/20240727/2067443.md">新华社特稿《改革家习近平》被枪毙的真相图</a></li>
-<li><a href="/cnnews/20240727/2067360.md">兵马俑里，有一张“脸”至今无法用科学解释</a></li>
+<li><a href="/sohnews/20240727/2067481.md">陈破空：华春莹放风：老习病情稳住了？将接待东帝汶总统。毛宁特意公布亮相细节。李强忽然有事做。王小洪变调。进京列车突然受阻，北戴河会议悄悄准备中？直播与互动：美东时间7月27日早9点、中港台当日晚9点</a></li>
 <li><a href="/topimagenews/20240727/2067374.md">小粉红素质？在日本撒尿搞破坏 回国碰瓷被报警</a></li>
 <li><a href="/sohnews/20240727/2067439.md">“弱化习近平与思想 已成方针 ⋯ 北戴河会议冲突或决定？”No.07（07/26/24）习近平北戴河</a></li>
 <li><a href="/sohnews/20240727/2067447.md">巴黎奥运开幕式，“异象”频现槽点多！美国网友热议，他们都看到什么？最后晚餐、金牛犊、天启第四骑士？｜大宇拍案惊奇 live 奥运会巴黎olympics</a></li>
+<li><a href="/bblog/20240727/2067563.md">异象：四川天空现三个太阳，中共要完犊子！</a></li>
+<li><a href="/sohnews/20240728/2067600.md">“7月26日-真正的3个太阳出现！习近平凶多吉少 ⋯ “三日并出者 国君必亡其位”《孝经内记》”No.02（07/27/24）习近平北戴河中风</a></li>
+<li><a href="/baitai/20240727/2067554.md">民间哀声一片 三中全会后中共开始抢钱</a></li>
+<li><a href="/sohnews/20240727/2067579.md">蓬佩奥爆川普的和平计划，他竟然准备这么出卖乌克兰？普京哭晕在厕所</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240728/2067673.md" target="_blank">疯传！碧桂园老总选美盛宴 直通高官后宫团？</a></li>
 <li><a href="/topimagenews/20240728/2067645.md" target="_blank">巴黎奥运开幕 他来了！“有权杀害地上四分之一的人”？</a></li>
 <li><a href="/topimagenews/20240728/2067644.md" target="_blank">列出惊人黑暗细节 美司法部要锤死TikTok</a></li>
 <li><a href="/topimagenews/20240728/2067643.md" target="_blank">45万的手表、几万的球拍…中信事件刺痛牛马</a></li>
@@ -90,13 +91,14 @@
 <li><a href="/topimagenews/20240726/2067021.md" target="_blank">俄军发动近来最大规模进攻! 11坦克45战车遭挫败 快艇也被乌军炸了</a></li>
 <li><a href="/topimagenews/20240726/2067003.md" target="_blank">再炸俄空军机地毁战机! 乌自研导弹成功 泽连斯基 : 将转变对俄攻势</a></li>
 <li><a href="/topimagenews/20240726/2067002.md" target="_blank">川普：若我遇刺身亡 美国要消灭伊朗</a></li>
-<li><a href="/topimagenews/20240726/2066996.md" target="_blank">习近平要随心所欲了？严防对他的批评在中国蔓延【阿波罗网报道】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240728/2067677.md" target="_blank">上官乱：“娃哈哈”撕开了“中国民族企业”遮羞布</a></li>
+<li><a href="/comments/20240728/2067672.md" target="_blank">【“我没精神病，我只是批评中共” — 逃法异议人士奥运发声】</a></li>
 <li><a href="/comments/20240728/2067631.md" target="_blank">横河：25年的坚持 &#8211; 再谈“法轮功现象”</a></li>
 <li><a href="/comments/20240728/2067614.md" target="_blank">民主党和共和党的大选策略会如何不同</a></li>
 <li><a href="/comments/20240728/2067613.md" target="_blank">【法国纵火瘫痪高铁难挡热情，巴黎奥运如期拉开帷幕】</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240727/2067346.md" target="_blank">文昭：中共出新规，这类人想出国难了！又一种「深圳速度」，吓坏10几亿中国人</a></li>
 <li><a href="/comments/20240727/2067331.md" target="_blank">川普刺案大反转？“很多人响应号召…”</a></li>
 <li><a href="/comments/20240727/2067313.md" target="_blank">加州州长纽森 为什么要扫荡游民？</a></li>
-<li><a href="/comments/20240727/2067312.md" target="_blank">【环球骑行者的“世界观” 】 中国 #单车环球骑行者 朱志文 youtube/@Zhuadventure 在 #奥运 开幕前赶到巴黎。 走过世界几十个国家后，他这样看待世界。你怎么看他？</a></li>
-<li><a href="/comments/20240727/2067293.md" target="_blank">枪击案内幕曝光，特勤局多次拒绝使用无人机。FBI局长作证，质疑川普枪伤。过了媒体蜜月期，哈里斯对川普胜算有多少？美国大选川普枪击案</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/aomi/life/20240330/2018911.md" target="_blank">挪威青年这样走出重度失眠和抑郁煎熬</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20240623/2053092.md" target="_blank">章天亮：那些行于世间的觉者</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/taiwannews/20210119/1470524.md" target="_blank">纪录片《蚕食美国1》</a></li>
+<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20240126/1992876.md" target="_blank">内幕：中国留学生里女生打男生和男生打女一样普遍</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
+<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/comments/20190701/1151501.md" target="_blank">【特稿】中国共产党是邪教组织</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
 
 </ul>
 </div>
