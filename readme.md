@@ -13,20 +13,20 @@
 <li><a href="/topimagenews/20240728/2067741.md">一盘大棋 “习近平元年”开始？</a></li>
 <li><a href="/topimagenews/20240728/2067645.md">巴黎奥运开幕 他来了！“有权杀害地上四分之一的人”？</a></li>
 <li><a href="/bblog/20240728/2067754.md">军报喊：消灭“江湖习气”，很容易联想到江泽民胡锦涛习近平</a></li>
-<li><a href="/sohnews/20240728/2067781.md">揭秘：习近平神隐十二天之谜，张又侠成为林彪第二，与百姓无关的奥运会。《老灯开讲第620期》</a></li>
-<li><a href="/comments/20240728/2067700.md">王沪宁暗战蔡奇，胜出</a></li>
 <li><a href="/comments/20240728/2067868.md">北京消息：张又侠反习近平不是空穴来风</a></li>
-<li><a href="/topimagenews/20240728/2067637.md">泄露涉密资料，他扔下一颗“核弹”</a></li>
+<li><a href="/sohnews/20240728/2067781.md">揭秘：习近平神隐十二天之谜，张又侠成为林彪第二，与百姓无关的奥运会。《老灯开讲第620期》</a></li>
 <li><a href="/comments/20240728/2067859.md">最新消息侧面佐证习近平的确是出事了？</a></li>
+<li><a href="/comments/20240728/2067700.md">王沪宁暗战蔡奇，胜出</a></li>
+<li><a href="/topimagenews/20240728/2067637.md">泄露涉密资料，他扔下一颗“核弹”</a></li>
 <li><a href="/topimagenews/20240728/2067703.md">上海商银剧变！时代的眼泪</a></li>
 <li><a href="/topimagenews/20240728/2067759.md">中国房贷市场持续恶化！中国银行祭“秘招”</a></li>
-<li><a href="/lifebaike/20240728/2067796.md">家里最大的“偷电贼”是它，比空调都耗电，快关了！电费能省很多</a></li>
-<li><a href="/topimagenews/20240728/2067643.md">45万的手表、几万的球拍…中信事件刺痛牛马</a></li>
-<li><a href="/sohnews/20240728/2067746.md">陈破空：秦皇岛异常！老习出事还是北戴河密会？传彭丽媛遭党内抵制，欲上位遭挫败。三中全会激怒全国，掀起批习潮！一个新词钉死习时代。直播与互动：美东时间7月28日早9点、中港台当日晚9点</a></li>
 <li><a href="/comments/20240728/2067866.md">7月28日人民日报头版现煤山照片，习近平继续失踪</a></li>
+<li><a href="/lifebaike/20240728/2067796.md">家里最大的“偷电贼”是它，比空调都耗电，快关了！电费能省很多</a></li>
 <li><a href="/bblog/20240728/2067875.md">谣传：三中全会张又侠起义,要求开放中国,进行体制改革</a></li>
-<li><a href="/comments/20240728/2067694.md">奥运变装王后引发全球愤怒 巴黎陷入黑暗</a></li>
+<li><a href="/sohnews/20240728/2067746.md">陈破空：秦皇岛异常！老习出事还是北戴河密会？传彭丽媛遭党内抵制，欲上位遭挫败。三中全会激怒全国，掀起批习潮！一个新词钉死习时代。直播与互动：美东时间7月28日早9点、中港台当日晚9点</a></li>
+<li><a href="/topimagenews/20240728/2067643.md">45万的手表、几万的球拍…中信事件刺痛牛马</a></li>
 <li><a href="/headline/20240728/2067621.md">共产党越管越严 致富之路越走越窄 中国人把矛头对准制度不公和习近平恶政</a></li>
+<li><a href="/comments/20240728/2067694.md">奥运变装王后引发全球愤怒 巴黎陷入黑暗</a></li>
 <li><a href="/comments/20240728/2067698.md">【杰森视角】习近平自信，孤独，拒绝抄西方作业！中共内部文件揭未来中国走向！巴黎奥运开幕式藏惊人暗示？习近平对经济困局的解读让中共官员失眠！习为何破例让王沪宁进三中全会《决定》起草组？计划经济降临中国！</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20240116/1984226.md" target="_blank">湖北老河口遇仙记</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
+<li><a href="/comments/20240126/1992876.md" target="_blank">内幕：中国留学生里女生打男生和男生打女一样普遍</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
 <li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
 
 </ul>
 </div>
