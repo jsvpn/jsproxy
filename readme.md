@@ -12,10 +12,9 @@
 <li><a href="/comments/20240728/2067868.md">北京消息：张又侠反习近平不是空穴来风</a></li>
 <li><a href="/comments/20240728/2067859.md">最新消息侧面佐证习近平的确是出事了？</a></li>
 <li><a href="/topimagenews/20240728/2067741.md">一盘大棋 “习近平元年”开始？</a></li>
-<li><a href="/topimagenews/20240728/2067645.md">巴黎奥运开幕 他来了！“有权杀害地上四分之一的人”？</a></li>
 <li><a href="/bblog/20240728/2067754.md">军报喊：消灭“江湖习气”，很容易联想到江泽民胡锦涛习近平</a></li>
-<li><a href="/bblog/20240728/2067875.md">谣传：三中全会张又侠起义,要求开放中国,进行体制改革</a></li>
 <li><a href="/sohnews/20240728/2067781.md">揭秘：习近平神隐十二天之谜，张又侠成为林彪第二，与百姓无关的奥运会。《老灯开讲第620期》</a></li>
+<li><a href="/bblog/20240728/2067875.md">谣传：三中全会张又侠起义,要求开放中国,进行体制改革</a></li>
 <li><a href="/comments/20240728/2067866.md">7月28日人民日报头版现煤山照片，习近平继续失踪</a></li>
 <li><a href="/comments/20240728/2067700.md">王沪宁暗战蔡奇，胜出</a></li>
 <li><a href="/bblog/20240728/2067871.md">习近平中风事件或引发内战，军头割剧时代又将在中国上演？</a></li>
@@ -23,11 +22,12 @@
 <li><a href="/topimagenews/20240728/2067759.md">中国房贷市场持续恶化！中国银行祭“秘招”</a></li>
 <li><a href="/lifebaike/20240728/2067796.md">家里最大的“偷电贼”是它，比空调都耗电，快关了！电费能省很多</a></li>
 <li><a href="/sohnews/20240728/2067746.md">陈破空：秦皇岛异常！老习出事还是北戴河密会？传彭丽媛遭党内抵制，欲上位遭挫败。三中全会激怒全国，掀起批习潮！一个新词钉死习时代。直播与互动：美东时间7月28日早9点、中港台当日晚9点</a></li>
-<li><a href="/topimagenews/20240728/2067643.md">45万的手表、几万的球拍…中信事件刺痛牛马</a></li>
 <li><a href="/comments/20240728/2067698.md">【杰森视角】习近平自信，孤独，拒绝抄西方作业！中共内部文件揭未来中国走向！巴黎奥运开幕式藏惊人暗示？习近平对经济困局的解读让中共官员失眠！习为何破例让王沪宁进三中全会《决定》起草组？计划经济降临中国！</a></li>
 <li><a href="/comments/20240728/2067694.md">奥运变装王后引发全球愤怒 巴黎陷入黑暗</a></li>
 <li><a href="/baitai/20240728/2067816.md">认定三中全会要搞事 美正式推出1新法</a></li>
-<li><a href="/sohnews/20240728/2067652.md">“众议：王沪宁代表习近平 赴越凭吊越共总书记阮富仲 ⋯”No 02（07 25 24）习近平出事替身习近平露面</a></li>
+<li><a href="/worldnews/20240728/2067765.md">知名金融大佬 被查</a></li>
+<li><a href="/ssgc/20240728/2067739.md">〖微博谈〗对中共的一种威慑</a></li>
+<li><a href="/cnnews/20240728/2067678.md">“遗臭万年”的毛书记，何以色胆包天</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20240704/2058130.md" target="_blank">百年梦醒（十八）：共产魔教的机制、前所未有的巨大野心</a></li>
-<li><a href="/topimagenews/20200514/1328456.md" target="_blank">穿越时空 谢田教授亲身体验人体特异功能</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/aomi/life/20240330/2018911.md" target="_blank">挪威青年这样走出重度失眠和抑郁煎熬</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20240318/2014289.md" target="_blank">唐柏桥：民运同仁突然向法轮功开火是怎么回事？</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/cbnews/20190701/1151453.md" target="_blank">盘点十大邪教特征 中共条条对号入座</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
 <li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
 
 </ul>
 </div>
