@@ -7,8 +7,6 @@
 
 <li><a href="/comments/20240729/2068022.md">谣传：习近平沉睡一个多星期了，即使还能醒来，很有可能是植物人</a></li>
 <li><a href="/baitai/20240729/2068140.md">习近平露面了 李强陪同意大利总理梅洛尼检阅三军仪仗队引关注</a></li>
-<li><a href="/topimagenews/20240729/2067983.md">中共怕了！国防部记者会泄密</a></li>
-<li><a href="/topimagenews/20240729/2067982.md">中央定调编制精简！开始了？</a></li>
 <li><a href="/baitai/20240729/2068097.md">「习近平中风 张又侠趁机发动『政变』并控制了习」最劲爆传闻不断延烧 体制内、自媒体大V们纷纷登场解说</a></li>
 <li><a href="/topimagenews/20240729/2068049.md">【微博精粹】一神句 爆出三中全会精髓</a></li>
 <li><a href="/topimagenews/20240729/2068009.md">银行破产倒闭! 中国储户存款这些风险太大</a></li>
@@ -27,7 +25,9 @@
 <li><a href="/topimagenews/20240729/2068071.md">川普：若当选 将取消中国最惠国贸易待遇</a></li>
 <li><a href="/topimagenews/20240729/2068008.md">逃不掉了! 今年的中国法拍房数据太吓人了</a></li>
 <li><a href="/comments/20240729/2068034.md">准确预测拜登退选的占星师，预测2024年美国大选结果。川普承诺，上任第一天将开除一个人。川普哈里斯美国大选</a></li>
+<li><a href="/sohnews/20240729/2068212.md">“三中全会后：为什么蔡奇张又侠消失 军委更三缄其口”No.02（07/29/24）习近平出事习近平露面</a></li>
 <li><a href="/baitai/20240729/2068115.md">巴黎奥运开幕式：一个犹太同性恋，强奸了法兰西，玷污了体育，猥亵了全世界</a></li>
+<li><a href="/ssgc/20240729/2068042.md">〖微博谈〗中共对民众监控已走火入魔</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240730/2068392.md" target="_blank">美国爆火占星师 最新预言！</a></li>
 <li><a href="/cbnews/20240730/2068381.md" target="_blank">大陆三中全会月 酷暑暴雨洪水台风等齐降</a></li>
 <li><a href="/cbnews/20240730/2068380.md" target="_blank">浙江绍兴一名公安6年遭两次强拆 上网维权</a></li>
 <li><a href="/comments/20240730/2068376.md" target="_blank">巴黎一场冒犯所有人的奥运开幕式。演出泄露天机，预示人类大灾难即将到来？巴黎奥运会开幕式</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20240729/2068034.md" target="_blank">准确预测拜登退选的占星师，预测2024年美国大选结果。川普承诺，上任第一天将开除一个人。川普哈里斯美国大选</a></li>
 <li><a href="/comments/20240729/2067962.md" target="_blank">一个跟了85次川普集会的人 是什么人</a></li>
 <li><a href="/cbnews/20240729/2067949.md" target="_blank">吃惊！他成了中共间谍收集信息的目标</a></li>
-<li><a href="/cbnews/20240729/2067948.md" target="_blank">鸭绿江漫堤 临江大撤离 丹东封闭10坝门</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,13 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240730/2068397.md" target="_blank">项栋梁：奥运开幕式的节目居然没有审查！太可怕了…</a></li>
+<li><a href="/comments/20240730/2068396.md" target="_blank">为什么没有人愿意主办奥运会了？答案惊人</a></li>
+<li><a href="/comments/20240730/2068395.md" target="_blank">“破处案”人大教授李炳海至今仍在逍遥法外，人大是西门庆大学？</a></li>
+<li><a href="/comments/20240730/2068394.md" target="_blank">张丰：放开外资进入中国娱乐业，比买波音飞机“更开放”</a></li>
+<li><a href="/comments/20240730/2068393.md" target="_blank">清华毕业生举报局长，需更高一级部门介入调查</a></li>
+<li><a href="/comments/20240730/2068392.md" target="_blank">美国爆火占星师 最新预言！</a></li>
+<li><a href="/comments/20240730/2068391.md" target="_blank">杨乃悟：小马和他们不一样</a></li>
 <li><a href="/comments/20240730/2068376.md" target="_blank">巴黎一场冒犯所有人的奥运开幕式。演出泄露天机，预示人类大灾难即将到来？巴黎奥运会开幕式</a></li>
 <li><a href="/comments/20240730/2068375.md" target="_blank">文昭：习近平身边异常状况频发，亲信突然变脸、还有一件疯狂的事正在进行</a></li>
 <li><a href="/comments/20240730/2068355.md" target="_blank">【TEMU电商被罚巨款 谁还敢跨境？】 7月21-22日，网曝 #temu 无故扣罚商家，有的被罚几百万。上百商家到广州拼多多维权讨说法。7月28日，商家再次围堵抗议。 Translate post</a></li>
@@ -115,13 +122,6 @@
 <li><a href="/comments/20240729/2068034.md" target="_blank">准确预测拜登退选的占星师，预测2024年美国大选结果。川普承诺，上任第一天将开除一个人。川普哈里斯美国大选</a></li>
 <li><a href="/comments/20240729/2068033.md" target="_blank">巴黎奥运会开幕式的28个看点：有种不顾观众死活的美</a></li>
 <li><a href="/comments/20240729/2068028.md" target="_blank">天亮时分：正部级官员主动投案，习近平兴於反腐亡於反腐；拜登打乱了奥巴马的安排；投行实习生大肆炫富，让谁破防？（政论天下第1366集 20240728）天亮时分</a></li>
-<li><a href="/comments/20240729/2068022.md" target="_blank">谣传：习近平沉睡一个多星期了，即使还能醒来，很有可能是植物人</a></li>
-<li><a href="/comments/20240729/2068019.md" target="_blank">花2亿分手，俞敏洪和董宇辉留下的8大疑问</a></li>
-<li><a href="/comments/20240729/2068018.md" target="_blank">俞敏洪和董宇辉，带了一个很坏的头</a></li>
-<li><a href="/comments/20240729/2068017.md" target="_blank">唐一水：怎么，巴黎开幕吓到你了？</a></li>
-<li><a href="/comments/20240729/2068016.md" target="_blank">这世界有太多过去，未来却不断缩水</a></li>
-<li><a href="/comments/20240729/2068015.md" target="_blank">歌手2024——史上最牛的黑幕：你面前必须是中国人</a></li>
-<li><a href="/comments/20240729/2068014.md" target="_blank">“央视有史以来尺度最大的一次直播”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/comments/20240412/2024185.md" target="_blank">是治疗还是屠杀?化疗药品滴一滴在皮肤即灼伤，很长时间才好</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
 <li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
 <li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
 
 </ul>
 </div>
