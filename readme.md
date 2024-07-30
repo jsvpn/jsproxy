@@ -21,13 +21,13 @@
 <li><a href="/comments/20240730/2068471.md">视频造假：习近平与东帝汶总统举行会谈</a></li>
 <li><a href="/sohnews/20240730/2068357.md">红极一时的央视名嘴罗京死后，被有功能的人看到竟然在。。。</a></li>
 <li><a href="/cbnews/20240730/2068560.md">谁关心中国老百姓？ 投票结果让人大跌眼镜</a></li>
-<li><a href="/cnnews/20240730/2068425.md">大上海楼市保卫战两个月：结果来了</a></li>
-<li><a href="/ssgc/20240730/2068437.md">〖微博谈〗老百姓是最大受害者</a></li>
 <li><a href="/comments/20240730/2068598.md">三中全会十天后 一次重大调整出现</a></li>
-<li><a href="/cbnews/20240730/2068358.md">上海金融女手持身份证自曝与多人钱色交易</a></li>
-<li><a href="/topimagenews/20240730/2068508.md">河南跌倒，越南吃饱</a></li>
+<li><a href="/ssgc/20240730/2068437.md">〖微博谈〗老百姓是最大受害者</a></li>
+<li><a href="/cnnews/20240730/2068425.md">大上海楼市保卫战两个月：结果来了</a></li>
 <li><a href="/topimagenews/20240730/2068559.md">这几年有点上进心的年轻人 都负债累累了</a></li>
-<li><a href="/topimagenews/20240730/2068334.md">中共央行要扛不住？一图看泡沫越来越逼近</a></li>
+<li><a href="/cbnews/20240730/2068358.md">上海金融女手持身份证自曝与多人钱色交易</a></li>
+<li><a href="/headline/20240730/2068582.md">妄议三中全会 胡锡进微博被禁言 分析：吹捧非公有经济犯习近平大忌</a></li>
+<li><a href="/topimagenews/20240730/2068508.md">河南跌倒，越南吃饱</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240731/2068685.md" target="_blank">真的没刻意！爸 我认识一个种地的扛很重农作物！主播返乡&#8230;&#8230; #习近平</a></li>
 <li><a href="/comments/20240730/2068670.md" target="_blank">【文韬政论】美国总统大选结果对台湾的可能影响</a></li>
 <li><a href="/comments/20240730/2068669.md" target="_blank">【泽论四方】香港被严厉制裁机会大增</a></li>
 <li><a href="/comments/20240730/2068658.md" target="_blank">时事大家谈：巴黎奥运背后的文明与制度之争;中国选手拼金牌 背后代价知多少？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240730/2068392.md" target="_blank">美国爆火占星师 最新预言！</a></li>
 <li><a href="/comments/20240730/2068391.md" target="_blank">杨乃悟：小马和他们不一样</a></li>
 <li><a href="/comments/20240730/2068376.md" target="_blank">巴黎一场冒犯所有人的奥运开幕式。演出泄露天机，预示人类大灾难即将到来？巴黎奥运会开幕式</a></li>
-<li><a href="/comments/20240730/2068375.md" target="_blank">文昭：习近平身边异常状况频发，亲信突然变脸、还有一件疯狂的事正在进行</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/sohnews/20160119/493472.md" target="_blank">无效的医疗：手术刀下的谎言和药瓶里的欺骗</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/taiwannews/20210119/1470761.md" target="_blank">独家：震撼纪录片《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20240418/2026391.md" target="_blank">医生劝我妻子放弃，似乎这些医生热衷让病人快点去死？</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
 <li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
 
 </ul>
 </div>
