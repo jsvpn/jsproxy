@@ -10,24 +10,24 @@
 <li><a href="/comments/20240730/2068337.md">未来二选一！习近平正作“困兽之斗”</a></li>
 <li><a href="/yule/20240730/2068348.md">16岁已是“人间尤物” 4年换19个男人 现况被曝</a></li>
 <li><a href="/topimagenews/20240730/2068342.md">奥地利拒绝中国东航，打响欧洲第一枪</a></li>
-<li><a href="/cnnews/20240730/2068401.md">毛奇大瓜，背后内幕逐一浮出</a></li>
 <li><a href="/yule/20240730/2068431.md">44岁“汤唯去世”网疯传！2周前最后发文 死讯冲上热门</a></li>
-<li><a href="/cbnews/20240730/2068485.md">矢板明夫：习结束神隐出镜 传言又落空？</a></li>
+<li><a href="/cnnews/20240730/2068401.md">毛奇大瓜，背后内幕逐一浮出</a></li>
 <li><a href="/comments/20240730/2068375.md">文昭：习近平身边异常状况频发，亲信突然变脸、还有一件疯狂的事正在进行</a></li>
+<li><a href="/cbnews/20240730/2068485.md">矢板明夫：习结束神隐出镜 传言又落空？</a></li>
 <li><a href="/baitai/20240730/2068527.md">习与意大利总理和东帝汶总统会面 胡被禁言？</a></li>
-<li><a href="/topimagenews/20240730/2068506.md">梅洛尼见习近平这些内容 党媒不敢提</a></li>
 <li><a href="/topimagenews/20240730/2068450.md">罪魁祸首 习近平表示他要进行国家干预？</a></li>
+<li><a href="/topimagenews/20240730/2068506.md">梅洛尼见习近平这些内容 党媒不敢提</a></li>
 <li><a href="/cnnews/20240730/2068347.md">这款咖啡100％有毒！医示警：恐致中风甚至死亡</a></li>
 <li><a href="/comments/20240730/2068471.md">视频造假：习近平与东帝汶总统举行会谈</a></li>
 <li><a href="/sohnews/20240730/2068357.md">红极一时的央视名嘴罗京死后，被有功能的人看到竟然在。。。</a></li>
 <li><a href="/cbnews/20240730/2068560.md">谁关心中国老百姓？ 投票结果让人大跌眼镜</a></li>
 <li><a href="/cnnews/20240730/2068425.md">大上海楼市保卫战两个月：结果来了</a></li>
 <li><a href="/ssgc/20240730/2068437.md">〖微博谈〗老百姓是最大受害者</a></li>
-<li><a href="/topimagenews/20240730/2068508.md">河南跌倒，越南吃饱</a></li>
+<li><a href="/comments/20240730/2068598.md">三中全会十天后 一次重大调整出现</a></li>
 <li><a href="/cbnews/20240730/2068358.md">上海金融女手持身份证自曝与多人钱色交易</a></li>
+<li><a href="/topimagenews/20240730/2068508.md">河南跌倒，越南吃饱</a></li>
 <li><a href="/topimagenews/20240730/2068559.md">这几年有点上进心的年轻人 都负债累累了</a></li>
 <li><a href="/topimagenews/20240730/2068334.md">中共央行要扛不住？一图看泡沫越来越逼近</a></li>
-<li><a href="/headline/20240730/2068278.md">中国队失意奥运泳池 药检真的过度了吗？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240730/2068670.md" target="_blank">【文韬政论】美国总统大选结果对台湾的可能影响</a></li>
+<li><a href="/comments/20240730/2068669.md" target="_blank">【泽论四方】香港被严厉制裁机会大增</a></li>
 <li><a href="/comments/20240730/2068658.md" target="_blank">时事大家谈：巴黎奥运背后的文明与制度之争;中国选手拼金牌 背后代价知多少？</a></li>
 <li><a href="/comments/20240730/2068654.md" target="_blank">【财经拆局】蚀让卖楼成常态 楼市「跳跌」加快「价崩」</a></li>
 <li><a href="/comments/20240730/2068634.md" target="_blank">【IPAC决议 联大2758号决议未涉台】【中国干预IPAC成员赴台与会 未成功】</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240730/2068391.md" target="_blank">杨乃悟：小马和他们不一样</a></li>
 <li><a href="/comments/20240730/2068376.md" target="_blank">巴黎一场冒犯所有人的奥运开幕式。演出泄露天机，预示人类大灾难即将到来？巴黎奥运会开幕式</a></li>
 <li><a href="/comments/20240730/2068375.md" target="_blank">文昭：习近平身边异常状况频发，亲信突然变脸、还有一件疯狂的事正在进行</a></li>
-<li><a href="/comments/20240730/2068355.md" target="_blank">【TEMU电商被罚巨款 谁还敢跨境？】 7月21-22日，网曝 #temu 无故扣罚商家，有的被罚几百万。上百商家到广州拼多多维权讨说法。7月28日，商家再次围堵抗议。 Translate post</a></li>
-<li><a href="/comments/20240730/2068343.md" target="_blank">方柏林：看巴黎奥运会开幕式，明白美国大选症结所在？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20231201/1968320.md" target="_blank">【非凡新闻】结合中西文化精神 美国神韵表演吸睛</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/comments/20240723/2065714.md" target="_blank">台湾民视：解谜法轮功 气功或宗教？</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/sohnews/20160119/493472.md" target="_blank">无效的医疗：手术刀下的谎言和药瓶里的欺骗</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/taiwannews/20210119/1470761.md" target="_blank">独家：震撼纪录片《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
 
 </ul>
 </div>
