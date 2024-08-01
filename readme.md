@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/comments/20240731/2069034.md">“罢免总书记”口号响彻湖南街头，地方官完了！ #习近平</a></li>
 <li><a href="/topimagenews/20240731/2069063.md">中国体操掉杠哥苏炜德下场？知情人曝：他崩溃了</a></li>
 <li><a href="/ssgc/20240801/2069176.md">事实查核｜网传图片显示习近平在三中全会上"被架走"？</a></li>
 <li><a href="/baitai/20240731/2069056.md">兵变？重病？习的传言有几成可能？政治局例会曝危机</a></li>
 <li><a href="/baitai/20240801/2069149.md">习近平身边出现新面孔 频现习会见外宾场合中</a></li>
-<li><a href="/cbnews/20240731/2069038.md">外媒发现不对劲! 中国加速囤粮囤原油 百辆战车5小时能横跨台海</a></li>
 <li><a href="/topimagenews/20240801/2069212.md">习近平“演都懒得演” 被批连金正恩都不如</a></li>
 <li><a href="/topimagenews/20240801/2069221.md">暗潮汹涌！金正恩下令驻中外交官不甩北京</a></li>
 <li><a href="/topimagenews/20240801/2069330.md">习近平身边 多了一张陌生脸孔 生于1971年</a></li>
 <li><a href="/headline/20240801/2069202.md">事实查核｜网传图片显示习近平在三中全会上「被架走」？</a></li>
 <li><a href="/cnnews/hknews/20240801/2069287.md">老板偷吃超嫩女员工 整夜“深入交流” 还拍照</a></li>
 <li><a href="/cbnews/20240801/2069222.md">中共如丧考妣 灰网悼念黑老大</a></li>
+<li><a href="/sohnews/20240801/2069405.md">八一惊雷：习近平缺席建军节招待会，中央警卫局局长王少军发动政变始末，南部战区司令王秀斌上将涉案被查。《老灯开讲第624期》</a></li>
 <li><a href="/cbnews/20240801/2069199.md">中共严重变态！几千万的民企董事长赢了官司 却被关进监狱</a></li>
 <li><a href="/cbnews/20240801/2069325.md">〖红朝浮世绘〗上梁不正下梁歪，小学生治国蔚然成风</a></li>
-<li><a href="/sohnews/20240801/2069405.md">八一惊雷：习近平缺席建军节招待会，中央警卫局局长王少军发动政变始末，南部战区司令王秀斌上将涉案被查。《老灯开讲第624期》</a></li>
 <li><a href="/comments/20240801/2069224.md">短命王朝！习迅速进入毛晚年时期</a></li>
 <li><a href="/topimagenews/20240801/2069283.md">血腥交易！“你给我一百万，我给你找个身体非常健康的”</a></li>
-<li><a href="/cnnews/20240731/2069046.md">贺锦丽赢川普？选举预测鬼才说话了</a></li>
 <li><a href="/topimagenews/20240801/2069285.md">2连败垫底 中国女篮跌落神坛 矛头直指姚明</a></li>
 <li><a href="/cnnews/20240731/2069126.md">男童拒亲吻！土耳其总统“当众变脸”打男孩巴掌 官员吓坏</a></li>
 <li><a href="/lifebaike/20240801/2069316.md">贫协主席蒋大杆 把妇救会的女人都睡遍了</a></li>
 <li><a href="/topimagenews/20240801/2069284.md">伊朗最高领袖下令“直接打击以色列”</a></li>
 <li><a href="/sohnews/20240801/2069215.md">哈马斯“1号”哈尼亚被灭，一细节让伊朗颤抖；24小时“Z首”3巨头，中东要大乱？川普遇刺新视频曝光，颠覆所有人认知！｜远见快评 唐靖远</a></li>
+<li><a href="/cbnews/20240801/2069359.md">中国南部战区司令忽然换人 原司令去向不明</a></li>
+<li><a href="/topimagenews/20240731/2069092.md">拼多多旗下Temu惹怒卖家 数百名商家赴广州总部抗议</a></li>
+<li><a href="/sohnews/20240801/2069256.md">地铁跑酷？北京突发大事件；习爱将被抄家？火箭军又出事？中共网控新措施，数位监狱成型【新闻看点 李沐阳7.31】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240801/2069493.md" target="_blank">不畏独裁统治者！委内瑞拉站出来的人民 有够帅</a></li>
 <li><a href="/comments/20240801/2069416.md" target="_blank">无神论和有神论深度解析</a></li>
 <li><a href="/comments/20240801/2069412.md" target="_blank">轰6逼近阿拉斯加 轰6战时能够轰炸美国么？｜兵家常事（2024-8-1）</a></li>
 <li><a href="/comments/20240801/2069352.md" target="_blank">哈里斯民调飙升，顶级专家做出惊人的不同预测，你信哪一个？委内瑞拉抗议马杜罗“偷走选举”，下一个是美国？美国大选委内瑞拉哈里斯</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240801/2069206.md" target="_blank">天亮时分：胡锡进被禁言到底是因为什麽？</a></li>
 <li><a href="/comments/20240801/2069187.md" target="_blank">委内瑞拉的今天是中国或美国的明天？</a></li>
 <li><a href="/comments/20240801/2069167.md" target="_blank">湖南新化重现四通桥标语事件 播放&quot;要自由民主罢免习近平&quot;口号</a></li>
-<li><a href="/comments/20240801/2069163.md" target="_blank">专栏 &#8211; 劳工通讯：长春威卡威汽车零配件工厂搬迁不愿支付补偿金 工人连续多日罢工 (十)</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/cnnews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
-<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
-<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/ssgc/20240508/2034288.md" target="_blank">《透视“进化论”》第九章 人类起源问题的终极答案</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20230920/1936271.md" target="_blank">防止你的孩子不成功（5） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
+<li><a href="/cnnews/20170717/792917.md" target="_blank">无神论是最大的迷信</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
+<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
 
 </ul>
 </div>
