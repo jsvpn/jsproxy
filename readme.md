@@ -9,16 +9,16 @@
 <li><a href="/yule/20240802/2069608.md">梅婷养他6年 李小冉为他堕胎2次 如今他55岁娶...</a></li>
 <li><a href="/topimagenews/20240802/2069706.md">中国游泳队终于全球第一！ 一招迅速传遍全世界</a></li>
 <li><a href="/topimagenews/20240802/2069688.md">中共疯狂！大规模绑架民众</a></li>
-<li><a href="/cnnews/20240802/2069680.md">丑闻！碧桂园高管“选妃”视频被曝光</a></li>
 <li><a href="/topimagenews/20240802/2069803.md">【微博精粹】哈马斯头头刚离开北京就被爆头 最合理解释来了</a></li>
+<li><a href="/cnnews/20240802/2069680.md">丑闻！碧桂园高管“选妃”视频被曝光</a></li>
 <li><a href="/topimagenews/20240802/2069670.md">多亏她救我一命！川普找到恩人： “我馀生都要和它睡一起”</a></li>
 <li><a href="/topimagenews/20240802/2069725.md">中国C919客机出大糗！空少发纸巾擦水</a></li>
 <li><a href="/sohnews/20240802/2069859.md">网传消息：二百斤终于倒下了！退役官兵八一节上街抗议，中国正在进入大乱而终。《老灯开讲第625期》</a></li>
 <li><a href="/topimagenews/20240802/2069678.md">前所未见！农民挖出宋朝古墓 千年鲜艳壁画曝光</a></li>
 <li><a href="/ssgc/20240802/2069637.md">李强亲赴湖南灾区视察 习近平在哪里？</a></li>
 <li><a href="/topimagenews/20240802/2069848.md">委民众占领首都？ 传马杜洛逃难 中共3.7兆打水漂了</a></li>
-<li><a href="/sohnews/20240802/2069880.md">陈破空：习病重失权信号：李强终于能去灾区！党媒降调是彭丽媛要求？惊传他换肝后养病中。直播与互动：美东时间8月2日早10点、中港台当日晚9点</a></li>
 <li><a href="/baitai/20240802/2069936.md">七千人大会或重现？日媒：李强公开挑衅习近平</a></li>
+<li><a href="/sohnews/20240802/2069880.md">陈破空：习病重失权信号：李强终于能去灾区！党媒降调是彭丽媛要求？惊传他换肝后养病中。直播与互动：美东时间8月2日早10点、中港台当日晚9点</a></li>
 <li><a href="/topimagenews/20240802/2069821.md">日本球员和教练全中文对话引热议 原因曝光</a></li>
 <li><a href="/cbnews/20240802/2069796.md">〖红朝浮世绘〗物伤其类 中共为恐怖分子哭丧</a></li>
 <li><a href="/topimagenews/20240802/2069767.md">乱世生存绝技：“谁占领这里 钱就是谁的”</a></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240803/2070003.md" target="_blank">【杜耀明评论】沟通无助解决两岸矛盾 实力竞赛主导未来关系</a></li>
 <li><a href="/comments/20240802/2069993.md" target="_blank">印太地区军演频繁 多国联合应对中国影响力</a></li>
 <li><a href="/comments/20240802/2069978.md" target="_blank">时事大家谈：中国官场受困“指尖上的形式主义”，政治局出手能如何？高手普京在操控中国，这才是中俄关系的真相？</a></li>
 <li><a href="/comments/20240802/2069968.md" target="_blank">奥运会出现男打女？意大利女运动的哭诉</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240802/2069666.md" target="_blank">【物伤其类？中国强烈谴责暗杀哈尼亚】</a></li>
 <li><a href="/comments/20240802/2069639.md" target="_blank">【潘展乐夺中国游泳首金 中国观众扬眉吐气反击兴奋剂指控】 “中华民族是一个有底线、有信仰的民族。” “最起码的信任都没有，谈什么公平呢？” “中国在比赛当中是非常讲规矩原则的。” &#8230;&#8230;</a></li>
 <li><a href="/comments/20240802/2069632.md" target="_blank">【中国时局】中共大使异常缺席朝鲜官方活动 金正恩下令驻中外交官不要避讳摩擦 叛逃朝鲜外交官：若川普再次当选平壤或愿与美国重启核谈判</a></li>
-<li><a href="/comments/20240802/2069624.md" target="_blank">事实查核｜路透社爆料“美国趁奥运会逮捕中国游泳运动员”？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20240412/2024185.md" target="_blank">是治疗还是屠杀?化疗药品滴一滴在皮肤即灼伤，很长时间才好</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
 <li><a href="/comments/20240418/2026391.md" target="_blank">医生劝我妻子放弃，似乎这些医生热衷让病人快点去死？</a></li>
-<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
 
 </ul>
 </div>
