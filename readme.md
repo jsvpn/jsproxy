@@ -8,8 +8,8 @@
 <li><a href="/cnnews/hknews/20240801/2069287.md">老板偷吃超嫩女员工 整夜“深入交流” 还拍照</a></li>
 <li><a href="/topimagenews/20240801/2069330.md">习近平身边 多了一张陌生脸孔 生于1971年</a></li>
 <li><a href="/sohnews/20240801/2069405.md">八一惊雷：习近平缺席建军节招待会，中央警卫局局长王少军发动政变始末，南部战区司令王秀斌上将涉案被查。《老灯开讲第624期》</a></li>
-<li><a href="/ssgc/20240801/2069509.md">中共三中全会泄露了党内的分歧</a></li>
 <li><a href="/cbnews/20240801/2069325.md">〖红朝浮世绘〗上梁不正下梁歪，小学生治国蔚然成风</a></li>
+<li><a href="/ssgc/20240801/2069509.md">中共三中全会泄露了党内的分歧</a></li>
 <li><a href="/topimagenews/20240801/2069283.md">血腥交易！“你给我一百万，我给你找个身体非常健康的”</a></li>
 <li><a href="/topimagenews/20240801/2069573.md">哈尼雅在伊朗遇刺 纽时：死于2个月前秘密藏入宾馆的炸弹</a></li>
 <li><a href="/topimagenews/20240801/2069467.md">哈玛斯又一要角遭击毙 以军证实靠精确打击</a></li>
@@ -20,14 +20,14 @@
 <li><a href="/cnnews/20240801/2069456.md">爆炸性消息：民主党最重要的金主之一 宣布支持川普及共和党</a></li>
 <li><a href="/cnnews/20240801/2069407.md">习近平使中共国陷入了4重僵局</a></li>
 <li><a href="/health/20240801/2069446.md">如何知晓自身免疫力强弱？医生：免疫力强的人，一般有6个特征</a></li>
-<li><a href="/headline/20240801/2069486.md">巴黎奥运｜羽毛球男双「中台战」外国观众高声撑台湾 央视疑不敢直播</a></li>
-<li><a href="/topimagenews/20240801/2069382.md">哈玛斯首脑哈尼亚遇刺细节曝光 传遭导弹直接击中</a></li>
-<li><a href="/sports/20240801/2069479.md">“中国马”吃药被爆药检未过 取消奥运赛</a></li>
-<li><a href="/sohnews/20240801/2069256.md">地铁跑酷？北京突发大事件；习爱将被抄家？火箭军又出事？中共网控新措施，数位监狱成型【新闻看点 李沐阳7.31】</a></li>
 <li><a href="/yule/20240802/2069608.md">梅婷养他6年 李小冉为他堕胎2次 如今他55岁娶...</a></li>
+<li><a href="/topimagenews/20240802/2069672.md">大规模抗争运动蓄势待发！中国民众不怕“喝茶”了</a></li>
+<li><a href="/headline/20240801/2069486.md">巴黎奥运｜羽毛球男双「中台战」外国观众高声撑台湾 央视疑不敢直播</a></li>
+<li><a href="/sports/20240801/2069479.md">“中国马”吃药被爆药检未过 取消奥运赛</a></li>
+<li><a href="/topimagenews/20240801/2069382.md">哈玛斯首脑哈尼亚遇刺细节曝光 传遭导弹直接击中</a></li>
+<li><a href="/sohnews/20240801/2069256.md">地铁跑酷？北京突发大事件；习爱将被抄家？火箭军又出事？中共网控新措施，数位监狱成型【新闻看点 李沐阳7.31】</a></li>
 <li><a href="/ssgc/20240801/2069311.md">〖微博谈〗每个反抗行为都有意义</a></li>
 <li><a href="/topimagenews/20240801/2069383.md">惊人发现 美国政治对立是假象</a></li>
-<li><a href="/cbnews/20240801/2069331.md">哈尔滨天空出现“飞龙” 异常壮观</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
 <li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/cnnews/20150914/449521.md" target="_blank">无神论和有神论，乡下老太太驳倒三个博士</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/comments/20231220/1976789.md" target="_blank">大陆医生曝：九价HPV疫苗导致怀孕能力下降40%</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20240403/2020547.md" target="_blank">纪录片：DSM诊断与统计手册-精神病学最要命的骗局</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20240703/2057730.md" target="_blank">百年梦醒（十七）：马克思的连环计、出卖灵魂</a></li>
+<li><a href="/ssgc/20240508/2034288.md" target="_blank">《透视“进化论”》第九章 人类起源问题的终极答案</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/sohnews/20160119/493472.md" target="_blank">无效的医疗：手术刀下的谎言和药瓶里的欺骗</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
 
 </ul>
 </div>
