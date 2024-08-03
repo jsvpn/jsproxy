@@ -6,7 +6,6 @@
 <ul>
 
 <li><a href="/baitai/20240802/2069936.md">七千人大会或重现？日媒：李强公开挑衅习近平</a></li>
-<li><a href="/sohnews/20240802/2069859.md">网传消息：二百斤终于倒下了！退役官兵八一节上街抗议，中国正在进入大乱而终。《老灯开讲第625期》</a></li>
 <li><a href="/topimagenews/20240803/2070110.md">中南海内部政变？习心腹突然被替换且突然消失</a></li>
 <li><a href="/topimagenews/20240803/2070135.md">铁了心，北京断然拒绝“救命稻草”</a></li>
 <li><a href="/sohnews/20240802/2069880.md">陈破空：习病重失权信号：李强终于能去灾区！党媒降调是彭丽媛要求？惊传他换肝后养病中。直播与互动：美东时间8月2日早10点、中港台当日晚9点</a></li>
@@ -17,7 +16,6 @@
 <li><a href="/topimagenews/20240802/2069942.md">“普京非常有效地操纵中共”</a></li>
 <li><a href="/cbnews/20240803/2070082.md">中共风声鹤唳 知乎评论区关闭频率突上升</a></li>
 <li><a href="/sports/20240803/2070147.md">土耳其女排简直就是名模团！主攻手更是冰山美人</a></li>
-<li><a href="/lifebaike/20240802/2069858.md">蚊子最讨厌什么？大多数人都不知道！教你3招，蚊子不敢进家门</a></li>
 <li><a href="/sohnews/20240803/2070077.md">习近平又传住院手术，这次是肝癌换肝？网号网证有多可怕？这是全民“囚犯化”的大招！湖南“彭立发”视频露面，已有“死狱中”准备｜远见快评 唐靖远</a></li>
 <li><a href="/topimagenews/20240803/2070027.md">美股大跳水！ “全球1巨头”超级惨单日竟崩跌逾28%</a></li>
 <li><a href="/cbnews/20240803/2070079.md">丑闻！“中国好人”行恶多年 骗患儿妈妈陪睡才给捐款</a></li>
@@ -25,9 +23,11 @@
 <li><a href="/topimagenews/20240803/2070066.md">真主党开复仇第一枪! 向以色列发动大规模袭击 数十枚火箭弹呼啸升空</a></li>
 <li><a href="/yule/20240803/2070028.md">“万人迷”陈好：30岁嫁二婚刘海峰 婚后连生3胎</a></li>
 <li><a href="/topimagenews/20240802/2069909.md">连义总理都开轰! 拳击性别争议炎上 JK罗琳又开炮 : 要等女拳手被害死?</a></li>
-<li><a href="/comments/20240803/2070025.md">【在湖南新化致敬彭立发的是他！ 传已遭当局抓捕】</a></li>
 <li><a href="/yule/20240803/2070160.md">拿千万片酬却用三十多个替身 拍戏只会读123</a></li>
+<li><a href="/comments/20240803/2070025.md">【在湖南新化致敬彭立发的是他！ 传已遭当局抓捕】</a></li>
+<li><a href="/cbnews/20240803/2070201.md">〖红朝浮世绘〗习总想错了 李嘉诚不再看好中国</a></li>
 <li><a href="/worldnews/20240803/2070114.md">亡命22年！比哈尼亚更重要的哈马斯领导，死了</a></li>
+<li><a href="/cnnews/20240803/2070119.md">哈马斯领导人就剩他了 但他出门必带铜墙铁壁</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/cbnews/20190701/1151453.md" target="_blank">盘点十大邪教特征 中共条条对号入座</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
 <li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20240116/1984226.md" target="_blank">湖北老河口遇仙记</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20240412/2024185.md" target="_blank">是治疗还是屠杀?化疗药品滴一滴在皮肤即灼伤，很长时间才好</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
 
 </ul>
 </div>
