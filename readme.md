@@ -10,24 +10,24 @@
 <li><a href="/yule/20240804/2070403.md">横店二十万群演现状：美女泛滥</a></li>
 <li><a href="/yule/20240804/2070489.md">中共娱乐圈又爆出惊天大瓜！ 真相比我们想的更可怕…</a></li>
 <li><a href="/topimagenews/20240804/2070430.md">吓人！山东炭疽病人烂肉烂骨头截肢 封医院楼层封村</a></li>
-<li><a href="/cbnews/20240804/2070571.md">习换肝能活多久 酗酒致肝硬化恶化？</a></li>
 <li><a href="/cbnews/20240804/2070444.md">证实了! 美军小试牛刀 北京坐立不安</a></li>
-<li><a href="/cbnews/20240804/2070443.md">习近平制造寒蝉效应 大清洗江家电信王国</a></li>
+<li><a href="/cbnews/20240804/2070571.md">习换肝能活多久 酗酒致肝硬化恶化？</a></li>
 <li><a href="/sports/20240804/2070431.md">演员级美貌！巴黎奥运 日24岁长跑女神超甜</a></li>
-<li><a href="/topimagenews/20240804/2070507.md">中共后悔了！ 搬起石头砸了自己的脚</a></li>
+<li><a href="/cbnews/20240804/2070443.md">习近平制造寒蝉效应 大清洗江家电信王国</a></li>
 <li><a href="/baitai/20240804/2070617.md">又一位冲塔勇士！继湖南出现四通桥标语后 北京街头也惊现反共标语</a></li>
+<li><a href="/topimagenews/20240804/2070507.md">中共后悔了！ 搬起石头砸了自己的脚</a></li>
 <li><a href="/topimagenews/20240804/2070464.md">五角大楼“披萨指数”暴增 恐有大事发生</a></li>
 <li><a href="/sohnews/20240804/2070587.md">奇葩：傅晓田私生子经鉴定竟然不属于秦刚，网传政治局扩大会议推举新党魁，山东勇士因网证起诉公安部。《老灯开讲第627期》</a></li>
 <li><a href="/topimagenews/20240804/2070506.md">【微博精粹】坐等亡党亡国</a></li>
 <li><a href="/baitai/20240804/2070591.md">蔡霞：习近平接下来五年要做什么？</a></li>
 <li><a href="/cbnews/20240804/2070458.md">压7亿货 传安徽华为问界经销商跳楼自杀</a></li>
-<li><a href="/comments/20240804/2070388.md">吴祚来：习近平还魂鬼门关，阎王爷收了阮书记</a></li>
 <li><a href="/cbnews/20240804/2070459.md">恐怖！大白重现 进饭店消杀</a></li>
 <li><a href="/topimagenews/20240804/2070441.md">美帝要是动作再慢点，新加坡就要造反了</a></li>
-<li><a href="/sohnews/20240804/2070389.md">“东帝汶官方视频爆光 ⋯ 中共不给看的部份”No.05（08/03/24）习近平出事习近平露面</a></li>
 <li><a href="/topimagenews/20240804/2070577.md">中南海坐不住了！美军轰炸机精确完成最后一击</a></li>
 <li><a href="/lifebaike/20240804/2070500.md">女面试官：“我肚子疼，能帮我接杯热水吗？”男子一句话，当场被录用</a></li>
 <li><a href="/cnnews/20240804/2070434.md">终究是祝局长扛下了所有</a></li>
+<li><a href="/topimagenews/20240804/2070457.md">文件证明中共参与暗杀川普？中国公民闯海湖庄园</a></li>
+<li><a href="/baitai/20240804/2070616.md">失业潮来势更加凶猛！最繁华经济之都上海一片惨淡 三家日企撤离中国 数万家庭面临失业 中年人找工难 年轻陷入失眠迷茫焦虑</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/cbnews/20240715/2062387.md" target="_blank">尧帝治世之道（一）</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
+<li><a href="/comments/20231220/1976683.md" target="_blank">医山夜话：张锡纯医案解读（二）根治胃气不降之证</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
 <li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20190701/1151501.md" target="_blank">【特稿】中国共产党是邪教组织</a></li>
-<li><a href="/comments/20230920/1936271.md" target="_blank">防止你的孩子不成功（5） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/comments/20231223/1978148.md" target="_blank">医山夜话：张锡纯医案解读（三）赭石：降胃气 引火下行</a></li>
-<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
 
 </ul>
 </div>
