@@ -10,24 +10,24 @@
 <li><a href="/cbnews/20240803/2070204.md">传深圳发生汽车冲撞行人恶性事件曝光</a></li>
 <li><a href="/topimagenews/20240803/2070335.md">中国，突然哑火了</a></li>
 <li><a href="/baitai/20240803/2070330.md">习近平身边出现新面孔 连蔡奇都靠边站？ 中共军队现两不寻常变动</a></li>
-<li><a href="/yule/20240803/2070160.md">拿千万片酬却用三十多个替身 拍戏只会读123</a></li>
-<li><a href="/topimagenews/20240803/2070348.md">曾有望出征巴黎奥运！体操正妹惨遭哈玛斯“爆头枪毙” 绝望求饶画面曝</a></li>
 <li><a href="/topimagenews/20240804/2070418.md">重要信号！习近平突然承认了</a></li>
-<li><a href="/baitai/20240803/2070166.md">习八一讲话气势汹汹 共军罕见举措值得警惕</a></li>
+<li><a href="/topimagenews/20240803/2070348.md">曾有望出征巴黎奥运！体操正妹惨遭哈玛斯“爆头枪毙” 绝望求饶画面曝</a></li>
 <li><a href="/sohnews/20240803/2070288.md">李强公然造反张又侠小型反叛，湖南新化反习事件主角露面，习共的灭亡时间最多六年。《老灯开讲第626期》</a></li>
 <li><a href="/ccpdope/20240803/2070364.md">党媒惊现「去习近平化」 中南海要变天？图</a></li>
 <li><a href="/yule/20240804/2070403.md">横店二十万群演现状：美女泛滥</a></li>
-<li><a href="/topimagenews/20240803/2070312.md">习近平承认中国“经济困难”释放3信号！ 专家：6大危机恐影响中共政权</a></li>
 <li><a href="/cbnews/20240803/2070314.md">深圳龙岗区 汽车直接“从人行道铲过去”！ 官方称2死5伤遭质疑</a></li>
+<li><a href="/topimagenews/20240803/2070312.md">习近平承认中国“经济困难”释放3信号！ 专家：6大危机恐影响中共政权</a></li>
 <li><a href="/baitai/20240803/2070272.md">马建：无声的丧钟</a></li>
 <li><a href="/topimagenews/20240803/2070347.md">县委书记毛奇“录音门”事件：6人受影响 来自三个家庭</a></li>
 <li><a href="/baitai/20240803/2070329.md">专家示警 习若迈出这一步 美国受毁灭性影响</a></li>
 <li><a href="/baitai/20240803/2070269.md">睡觉时出现3个症状？你很可能是糖尿病</a></li>
 <li><a href="/cnnews/20240803/2070217.md">落马女厅官陈丽萍 行贿细节首次曝光</a></li>
-<li><a href="/comments/20240804/2070388.md">吴祚来：习近平还魂鬼门关，阎王爷收了阮书记</a></li>
 <li><a href="/cbnews/20240803/2070203.md">中国妙龄女吃顿烧烤 “多器官衰竭”差点丧命</a></li>
-<li><a href="/cbnews/20240803/2070187.md">习近平一定要做这事 会对美国造成毁灭性影响</a></li>
+<li><a href="/comments/20240804/2070388.md">吴祚来：习近平还魂鬼门关，阎王爷收了阮书记</a></li>
 <li><a href="/sohnews/20240804/2070389.md">“东帝汶官方视频爆光 ⋯ 中共不给看的部份”No.05（08/03/24）习近平出事习近平露面</a></li>
+<li><a href="/cbnews/20240803/2070187.md">习近平一定要做这事 会对美国造成毁灭性影响</a></li>
+<li><a href="/cnnews/20240803/2070239.md">解放军中将突然死亡 3月露面还非常不错</a></li>
+<li><a href="/cnnews/20240803/2070325.md">他10天前还谈廉洁 现被带走 同事越境跑路</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/lifebaike/20180527/948531.md" target="_blank">无神论是最大的迷信（上）：科学无法证实神不存在</a></li>
-<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
 <li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
 
 </ul>
 </div>
