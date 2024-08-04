@@ -15,15 +15,15 @@
 <li><a href="/cbnews/20240804/2070443.md">习近平制造寒蝉效应 大清洗江家电信王国</a></li>
 <li><a href="/sports/20240804/2070431.md">演员级美貌！巴黎奥运 日24岁长跑女神超甜</a></li>
 <li><a href="/topimagenews/20240804/2070507.md">中共后悔了！ 搬起石头砸了自己的脚</a></li>
-<li><a href="/topimagenews/20240804/2070464.md">五角大楼“披萨指数”暴增 恐有大事发生</a></li>
-<li><a href="/sohnews/20240804/2070587.md">奇葩：傅晓田私生子经鉴定竟然不属于秦刚，网传政治局扩大会议推举新党魁，山东勇士因网证起诉公安部。《老灯开讲第627期》</a></li>
-<li><a href="/topimagenews/20240804/2070506.md">【微博精粹】坐等亡党亡国</a></li>
 <li><a href="/baitai/20240804/2070617.md">又一位冲塔勇士！继湖南出现四通桥标语后 北京街头也惊现反共标语</a></li>
+<li><a href="/sohnews/20240804/2070587.md">奇葩：傅晓田私生子经鉴定竟然不属于秦刚，网传政治局扩大会议推举新党魁，山东勇士因网证起诉公安部。《老灯开讲第627期》</a></li>
+<li><a href="/topimagenews/20240804/2070464.md">五角大楼“披萨指数”暴增 恐有大事发生</a></li>
+<li><a href="/topimagenews/20240804/2070506.md">【微博精粹】坐等亡党亡国</a></li>
+<li><a href="/baitai/20240804/2070591.md">蔡霞：习近平接下来五年要做什么？</a></li>
 <li><a href="/comments/20240804/2070388.md">吴祚来：习近平还魂鬼门关，阎王爷收了阮书记</a></li>
 <li><a href="/cbnews/20240804/2070458.md">压7亿货 传安徽华为问界经销商跳楼自杀</a></li>
 <li><a href="/cbnews/20240804/2070459.md">恐怖！大白重现 进饭店消杀</a></li>
 <li><a href="/topimagenews/20240804/2070441.md">美帝要是动作再慢点，新加坡就要造反了</a></li>
-<li><a href="/baitai/20240804/2070591.md">蔡霞：习近平接下来五年要做什么？</a></li>
 <li><a href="/sohnews/20240804/2070389.md">“东帝汶官方视频爆光 ⋯ 中共不给看的部份”No.05（08/03/24）习近平出事习近平露面</a></li>
 <li><a href="/topimagenews/20240804/2070577.md">中南海坐不住了！美军轰炸机精确完成最后一击</a></li>
 <li><a href="/lifebaike/20240804/2070500.md">女面试官：“我肚子疼，能帮我接杯热水吗？”男子一句话，当场被录用</a></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240805/2070665.md" target="_blank">分享关注！保护22岁勇士方艺融！白底红字！罢免独裁国贼 #习近平</a></li>
 <li><a href="/comments/20240804/2070654.md" target="_blank">男子闯川普海湖庄园，是有问题还是真有事？</a></li>
 <li><a href="/comments/20240804/2070631.md" target="_blank">【水库泄洪】成淹水主因！洪灾是天灾还是人祸？</a></li>
 <li><a href="/comments/20240804/2070534.md" target="_blank">月球 神祕洞穴未来 可供人类居住！</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240803/2070302.md" target="_blank">奥运会连续出现男打女，意大利女警察为父出征，却跪地放弃。职业拳手男人打女人，危险系数惊人。巴黎奥运会拳击比赛意大利选手</a></li>
 <li><a href="/comments/20240803/2070299.md" target="_blank">湖南娄底孤勇者现身！他叫方艺融…… #中国</a></li>
 <li><a href="/comments/20240803/2070291.md" target="_blank">袁红冰：《唯美之灵》 第七卷 在死亡之巅凝视生命的意义（第一部分）</a></li>
-<li><a href="/comments/20240803/2070215.md" target="_blank">中国共产党是有史以来最大、最可耻的汉奸</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
 <li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20231204/1969287.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （三）</a></li>
-<li><a href="/topimagenews/20200514/1328456.md" target="_blank">穿越时空 谢田教授亲身体验人体特异功能</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20240403/2020547.md" target="_blank">纪录片：DSM诊断与统计手册-精神病学最要命的骗局</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
 <li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/comments/20230920/1936271.md" target="_blank">防止你的孩子不成功（5） &#8211;教育避坑指南</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
 
 </ul>
 </div>
