@@ -11,8 +11,8 @@
 <li><a href="/ccpdope/20240805/2070673.md">李强罕见慰问灾民 穿皮鞋在作秀？图</a></li>
 <li><a href="/topimagenews/20240805/2070750.md">极其炸裂！深圳女大战交警 整个小区重考驾照</a></li>
 <li><a href="/topimagenews/20240805/2070776.md">怕挨打？习近平这段最新讲话还很真实</a></li>
-<li><a href="/topimagenews/20240805/2070716.md">大杀器来了！干掉北京等全国军政核武航天中心 【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20240805/2070718.md">无锡医院两主任为情打架后续：美女护士跑路…</a></li>
+<li><a href="/topimagenews/20240805/2070716.md">大杀器来了！干掉北京等全国军政核武航天中心 【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240805/2070820.md">日股暴跌触发熔断！全球股市继续重挫</a></li>
 <li><a href="/baitai/20240805/2070889.md">感恩死里逃生！ 赵立坚妻子高调秀恩爱 战狼秒变小鲜肉</a></li>
 <li><a href="/cbnews/20240805/2070836.md">中国饭局看现状：都在混吃等死 躺平心态严重</a></li>
@@ -20,14 +20,14 @@
 <li><a href="/topimagenews/20240805/2070798.md">【微博精粹】洪水 炭疽 网证……谁知道明天还有什么降临苦难中国</a></li>
 <li><a href="/cbnews/20240805/2070812.md">〖红朝浮世绘〗中国所有的难题都出在“改政府”太难 中共才是万恶之源</a></li>
 <li><a href="/cbnews/20240805/2070726.md">网传美团外送员遭封号跳楼亡 遗言让人泪目</a></li>
+<li><a href="/baitai/20240805/2070913.md">公认的“升糖王”找出来了，爱吃也要忍着，血糖或许能回归正常</a></li>
 <li><a href="/cnnews/20240805/2070735.md">在中共央视支招哈马斯！以色列下一个定点干掉他？</a></li>
 <li><a href="/ccpdope/20240805/2070676.md">江西上饶「书记性侵书记」 揭中共腐败黑幕一角图</a></li>
 <li><a href="/topimagenews/20240805/2070695.md">铁了心，北京断然拒绝“救命稻草”；最新消息：中共正式批准安邦破产【阿波罗网报道】</a></li>
-<li><a href="/baitai/20240805/2070913.md">公认的“升糖王”找出来了，爱吃也要忍着，血糖或许能回归正常</a></li>
 <li><a href="/finance/20240805/2070728.md">2024中国新能源汽车最大的雷，炸了</a></li>
+<li><a href="/cbnews/20240805/2070936.md">北戴河会议？高层集体隐身</a></li>
 <li><a href="/cbnews/20240805/2070827.md">“又阳了”成热搜词 民众：猝死现象增多</a></li>
 <li><a href="/lifebaike/20240805/2070786.md">田纪云：我很怀念胡赵时代的中南海大院</a></li>
-<li><a href="/headline/20240805/2070670.md">江旻憓论文震撼力巨大 突宣布告别运动员生涯</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240806/2071035.md" target="_blank">时事大家谈：凭证上网，中国网络身份认证是为防诈骗?</a></li>
+<li><a href="/comments/20240806/2071034.md" target="_blank">时事大家谈：网络禁言，胡锡进踩了妄议中央的红线？</a></li>
+<li><a href="/comments/20240806/2071031.md" target="_blank">【泽论四方】体育从来都与政治有关</a></li>
 <li><a href="/comments/20240805/2071028.md" target="_blank">太羡慕台湾的民主！学生的早餐补助！ #中国</a></li>
 <li><a href="/comments/20240805/2071022.md" target="_blank">时事大家谈：凭证上网，中国网络身份认证是为防诈骗? 网络禁言，胡锡进踩了妄议中央的红线？</a></li>
 <li><a href="/comments/20240805/2071010.md" target="_blank">天亮时分：中国经济是哪里出了问题？习近平能对症下药？</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20240805/2070774.md" target="_blank">天亮时分：一朝亡国工程，中共全力推进；中共攻台指挥官突然失踪；出了什麽事儿，赵立坚死里逃生？（政论天下第1373集 20240804）天亮时分</a></li>
 <li><a href="/comments/20240805/2070765.md" target="_blank">奥运在美国是草根运动方菲时间奥运</a></li>
 <li><a href="/comments/20240805/2070762.md" target="_blank">维舟：总得有人发出点不同的声音</a></li>
-<li><a href="/comments/20240805/2070761.md" target="_blank">突围美国大学排名？皇帝的新衣下面…</a></li>
-<li><a href="/comments/20240805/2070760.md" target="_blank">米米亚娜：逃离体制</a></li>
-<li><a href="/comments/20240805/2070759.md" target="_blank">被封杀文：“网号”“网证”来了，一点个人看法</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
-<li><a href="/ssgc/20240508/2034288.md" target="_blank">《透视“进化论”》第九章 人类起源问题的终极答案</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20231220/1976789.md" target="_blank">大陆医生曝：九价HPV疫苗导致怀孕能力下降40%</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/lifebaike/20180527/948531.md" target="_blank">无神论是最大的迷信（上）：科学无法证实神不存在</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
 <li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
 
 </ul>
 </div>
