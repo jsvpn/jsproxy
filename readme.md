@@ -13,14 +13,13 @@
 <li><a href="/topimagenews/20240804/2070506.md">【微博精粹】坐等亡党亡国</a></li>
 <li><a href="/yule/20240804/2070649.md">“玉女”陈乔恩：当众脱内衣 又当又立… 简直让人难以置信</a></li>
 <li><a href="/topimagenews/20240804/2070577.md">中南海坐不住了！美军轰炸机精确完成最后一击</a></li>
-<li><a href="/baitai/20240804/2070616.md">失业潮来势更加凶猛！最繁华经济之都上海一片惨淡 三家日企撤离中国 数万家庭面临失业 中年人找工难 年轻陷入失眠迷茫焦虑</a></li>
 <li><a href="/baitai/20240805/2070698.md">中南海真有大事发生？北戴河会议登场 央媒高调报导蔡奇异动</a></li>
-<li><a href="/cbnews/20240804/2070657.md">山东省过紧日子：10万事业编制转企编</a></li>
+<li><a href="/baitai/20240804/2070616.md">失业潮来势更加凶猛！最繁华经济之都上海一片惨淡 三家日企撤离中国 数万家庭面临失业 中年人找工难 年轻陷入失眠迷茫焦虑</a></li>
 <li><a href="/topimagenews/20240805/2070696.md">这些党官要惨！美现在有权出手了</a></li>
+<li><a href="/cbnews/20240804/2070657.md">山东省过紧日子：10万事业编制转企编</a></li>
 <li><a href="/sports/20240805/2070697.md">举国倾巢惨败！央视尴尬撤直播 网崩溃</a></li>
 <li><a href="/topimagenews/20240804/2070579.md">传拜登飙骂内塔尼亚胡“不要再耍我”</a></li>
 <li><a href="/cbnews/20240804/2070508.md">赌输了 女直播主卫生纸点火烧下体 观众傻眼</a></li>
-<li><a href="/comments/20240804/2070505.md">习吓病了，但不是肝癌！22岁勇士方艺融毕业即革命，湖南娄底高贵灵魂震撼华人世界！ 中共大扫荡开始了</a></li>
 <li><a href="/cbnews/20240804/2070509.md">秦刚与傅筱田之间出现第三者？私生子身份扑朔迷离【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20240804/2070545.md">二十大上被架走的视频很快疯传全世界｜百年真相shorts</a></li>
 <li><a href="/ccpdope/20240805/2070673.md">李强罕见慰问灾民 穿皮鞋在作秀？图</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/topimagenews/20240804/2070570.md">陕西千亿元级钢企破产 涉及近两万员工</a></li>
 <li><a href="/ssgc/20240804/2070656.md">巴黎奥运羽球男子双打两岸对决  央视播不播金牌赛？</a></li>
 <li><a href="/sports/20240804/2070566.md">蔡振华回国，一个叫倪夏莲的女人决定出走…</a></li>
+<li><a href="/ccpdope/20240804/2070590.md">深夜高速桥突发垮塌 无数车辆坠落失联！视频</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240805/2070812.md" target="_blank">〖红朝浮世绘〗中国所有的难题都出在“改政府”太难 中共才是万恶之源</a></li>
 <li><a href="/comments/20240805/2070809.md" target="_blank">德州女子行刺川普被捕。年轻黑人女活动家犀利抨击哈里斯，活泼搞怪，抢川普风头。特勤局背锅侠反击。川普哈里斯特勤局</a></li>
 <li><a href="/cbnews/20240805/2070780.md" target="_blank">中共社科院4名学部委员13名研究员接连病亡</a></li>
 <li><a href="/cbnews/20240805/2070779.md" target="_blank">中国法学硕士替换寺庙功德箱二维码 盗三万多</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240804/2070459.md" target="_blank">恐怖！大白重现 进饭店消杀</a></li>
 <li><a href="/cbnews/20240804/2070458.md" target="_blank">压7亿货 传安徽华为问界经销商跳楼自杀</a></li>
 <li><a href="/cbnews/20240804/2070444.md" target="_blank">证实了! 美军小试牛刀 北京坐立不安</a></li>
-<li><a href="/cbnews/20240804/2070443.md" target="_blank">习近平制造寒蝉效应 大清洗江家电信王国</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240805/2070815.md" target="_blank">打倒共产党！武警被打败！勇士放出横幅後没被抓‼️是谁？喊出中国人民的愿望 #习近平</a></li>
 <li><a href="/comments/20240805/2070809.md" target="_blank">德州女子行刺川普被捕。年轻黑人女活动家犀利抨击哈里斯，活泼搞怪，抢川普风头。特勤局背锅侠反击。川普哈里斯特勤局</a></li>
 <li><a href="/comments/20240805/2070801.md" target="_blank">才是真正的顶级三观</a></li>
 <li><a href="/comments/20240805/2070785.md" target="_blank">胡平：举国体制可以休矣</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240805/2070691.md" target="_blank">马斯克网上单挑马杜罗</a></li>
 <li><a href="/comments/20240805/2070665.md" target="_blank">分享关注！保护22岁勇士方艺融！白底红字！罢免独裁国贼 #习近平</a></li>
 <li><a href="/comments/20240804/2070654.md" target="_blank">男子闯川普海湖庄园，是有问题还是真有事？</a></li>
-<li><a href="/comments/20240804/2070631.md" target="_blank">【水库泄洪】成淹水主因！洪灾是天灾还是人祸？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20240116/1984226.md" target="_blank">湖北老河口遇仙记</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
-<li><a href="/topimagenews/20180608/954788.md" target="_blank">安乐死根本安乐不了，别宣传了</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/taiwannews/20210119/1470761.md" target="_blank">独家：震撼纪录片《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20231204/1969287.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （三）</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/tculture/20231217/1975364.md" target="_blank">医山夜话：张锡纯医案解读（1）根治失眠 思路清晰</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
+<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/sohnews/20160119/493472.md" target="_blank">无效的医疗：手术刀下的谎言和药瓶里的欺骗</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20231223/1978148.md" target="_blank">医山夜话：张锡纯医案解读（三）赭石：降胃气 引火下行</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
 
 </ul>
 </div>
