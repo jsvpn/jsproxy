@@ -14,20 +14,20 @@
 <li><a href="/topimagenews/20240805/2070750.md">极其炸裂！深圳女大战交警 整个小区重考驾照</a></li>
 <li><a href="/topimagenews/20240805/2070776.md">怕挨打？习近平这段最新讲话还很真实</a></li>
 <li><a href="/topimagenews/20240805/2070716.md">大杀器来了！干掉北京等全国军政核武航天中心 【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20240805/2070820.md">日股暴跌触发熔断！全球股市继续重挫</a></li>
 <li><a href="/renquan/20240804/2070658.md">习天下的“历史垃圾时间”有多长？</a></li>
+<li><a href="/topimagenews/20240805/2070820.md">日股暴跌触发熔断！全球股市继续重挫</a></li>
 <li><a href="/cnnews/20240805/2070718.md">无锡医院两主任为情打架后续：美女护士跑路…</a></li>
 <li><a href="/cbnews/20240805/2070836.md">中国饭局看现状：都在混吃等死 躺平心态严重</a></li>
-<li><a href="/ssgc/20240804/2070656.md">巴黎奥运羽球男子双打两岸对决  央视播不播金牌赛？</a></li>
 <li><a href="/topimagenews/20240805/2070798.md">【微博精粹】洪水 炭疽 网证……谁知道明天还有什么降临苦难中国</a></li>
+<li><a href="/ssgc/20240804/2070656.md">巴黎奥运羽球男子双打两岸对决  央视播不播金牌赛？</a></li>
+<li><a href="/sohnews/20240805/2070873.md">陈破空：最新内幕：习病倒，因家族遗传病发！需药物控制。胡锡进承认遭禁言，认可网上传言。中东大战一触即发？黎巴嫩人往外跑，以色列人往回跑。直播与互动：美东时间8月5日早9点、中港台当日晚9点</a></li>
 <li><a href="/cbnews/20240805/2070726.md">网传美团外送员遭封号跳楼亡 遗言让人泪目</a></li>
 <li><a href="/cbnews/20240805/2070812.md">〖红朝浮世绘〗中国所有的难题都出在“改政府”太难 中共才是万恶之源</a></li>
 <li><a href="/cnnews/20240805/2070735.md">在中共央视支招哈马斯！以色列下一个定点干掉他？</a></li>
 <li><a href="/ccpdope/20240805/2070676.md">江西上饶「书记性侵书记」 揭中共腐败黑幕一角图</a></li>
 <li><a href="/topimagenews/20240805/2070695.md">铁了心，北京断然拒绝“救命稻草”；最新消息：中共正式批准安邦破产【阿波罗网报道】</a></li>
-<li><a href="/sohnews/20240804/2070639.md">农业部长唐仁健无预警突然落马，高层动荡不息，整肃不止；曾是习近平特使和刘鹤爱将，能人出事暗藏政治玄机；任内力推转基因农作物，催动“农管”政策 引众怒</a></li>
-<li><a href="/sohnews/20240805/2070873.md">陈破空：最新内幕：习病倒，因家族遗传病发！需药物控制。胡锡进承认遭禁言，认可网上传言。中东大战一触即发？黎巴嫩人往外跑，以色列人往回跑。直播与互动：美东时间8月5日早9点、中港台当日晚9点</a></li>
 <li><a href="/finance/20240805/2070728.md">2024中国新能源汽车最大的雷，炸了</a></li>
+<li><a href="/headline/20240805/2070670.md">江旻憓论文震撼力巨大 突宣布告别运动员生涯</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240805/2070976.md" target="_blank">张戎：习近平的中国梦 传承自毛泽东｜观点</a></li>
 <li><a href="/comments/20240805/2070967.md" target="_blank">杨宏基：从2024环太军演击沉演习看台湾误触“能做不能说”禁忌诡雷</a></li>
 <li><a href="/comments/20240805/2070944.md" target="_blank">美军和外星人军事基地曝光！超多枪手监控！几千年前的超时代技术、分形转换巨大电能⋯一场中国地下核爆，意外证实阿拉斯加UFO太空充电站！｜未解之谜</a></li>
 <li><a href="/comments/20240805/2070930.md" target="_blank">【羽球男子双打台湾选手夺金 全场欢呼】【演奏“中华台北奥会会歌” 台湾人高唱“国旗歌”歌词】</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240805/2070757.md" target="_blank">我们纪念您，更重要的是奠垫自己的良知</a></li>
 <li><a href="/comments/20240805/2070756.md" target="_blank">微信淘宝小红书等App试点“网络身份证”</a></li>
 <li><a href="/comments/20240805/2070755.md" target="_blank">温克坚：举债的艺术</a></li>
-<li><a href="/comments/20240805/2070754.md" target="_blank">网号网证要来了、网络身份证要来了</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/comments/20231213/1973586.md" target="_blank">六道轮回之畜生道</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/comments/20240723/2065714.md" target="_blank">台湾民视：解谜法轮功 气功或宗教？</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/cnnews/20150914/449521.md" target="_blank">无神论和有神论，乡下老太太驳倒三个博士</a></li>
 <li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
-<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/taiwannews/20210119/1470761.md" target="_blank">独家：震撼纪录片《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
 
 </ul>
 </div>
