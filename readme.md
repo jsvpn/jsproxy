@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240807/2071504.md" target="_blank">世界大乱！中东战争与俄乌战争合流? 传俄驰援胡塞、多架运输机飞伊朗</a></li>
 <li><a href="/comments/20240807/2071471.md" target="_blank">扎克伯格耍酷，透露出什么信息？</a></li>
 <li><a href="/comments/20240806/2071421.md" target="_blank">小扎给川普多次打电话道歉 真道歉还是假的？</a></li>
 <li><a href="/cbnews/20240806/2071366.md" target="_blank">陕西安康高层居民楼突发大火 有人从高楼坠下</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20240806/2071093.md" target="_blank">JD万斯犀利抨击哈里斯，预测川普为何能赢2024年大选，原因只有一个……。万斯哈里斯美国大选</a></li>
 <li><a href="/cbnews/20240806/2071070.md" target="_blank">共军暗流涌动 习的危险时刻 董军缺位 杀机四伏</a></li>
 <li><a href="/cbnews/20240806/2071036.md" target="_blank">不同于有钱人移民新加坡 中国的中产阶级移居马来西亚</a></li>
-<li><a href="/cbnews/20240805/2070966.md" target="_blank">柬埔寨云壤：中国如何协助柬方建造海军基地？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20231130/1967587.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （一）</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
 <li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
 <li><a href="/cnnews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
 
 </ul>
 </div>
