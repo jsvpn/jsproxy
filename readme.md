@@ -13,8 +13,8 @@
 <li><a href="/cbnews/20240806/2071148.md">蔡奇现身！北戴河会议遭习严重弱化</a></li>
 <li><a href="/cnnews/20240806/2071136.md">中国体操最强女将 奥运全满分夺金 却投奔美国</a></li>
 <li><a href="/baitai/20240806/2071343.md">不当背锅侠！陈志伟爆「唐山烧烤打人」更多内幕 当局秒删举报内容</a></li>
-<li><a href="/finance/20240806/2071368.md">中国半导体突传重量级消息</a></li>
 <li><a href="/cbnews/20240806/2071167.md">淡化蔡奇角色？ 习近平的新官高调亮相</a></li>
+<li><a href="/finance/20240806/2071368.md">中国半导体突传重量级消息</a></li>
 <li><a href="/topimagenews/20240806/2071234.md">强烈信号！中共登陆舰一发击沉 美隐形轰炸机现身太平洋</a></li>
 <li><a href="/topimagenews/20240806/2071283.md">一切朝着大战方向发展! 伊政府转移 军事指挥进地道 以“锡安核堡垒”就位</a></li>
 <li><a href="/baitai/20240806/2071292.md">神秘北戴河会议登场 习近平担忧军事政变？ 军队密集换帅 传有上将被抄家</a></li>
@@ -27,7 +27,7 @@
 <li><a href="/cnnews/20240806/2071275.md">传统金融圈突传一则罕见“大户”爆雷</a></li>
 <li><a href="/cbnews/20240806/2071115.md">首都南京vs北京 网民喊“北伐”</a></li>
 <li><a href="/sohnews/20240806/2071375.md">文睿：李强，又出手了</a></li>
-<li><a href="/headline/20240806/2071329.md">中国体育总局官员被指在网上发表不当言论 遭调查处理</a></li>
+<li><a href="/worldnews/20240806/2071370.md">中国23岁富二代日本开豪车狂飙 创下大祸</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240807/2071518.md" target="_blank">【媒体观察：中国代表团在 #奥运会 上与外界缺少沟通】</a></li>
 <li><a href="/comments/20240807/2071486.md" target="_blank">【#张雨霏：为什么不断质疑我们？】 中国游泳运动员张雨霏于周一在法国巴黎接受媒体采访时，对在赛后采访和新闻发布会上反复被质疑 #兴奋剂 问题感到无奈，</a></li>
 <li><a href="/comments/20240807/2071483.md" target="_blank">官媒痛批饭圈文化 陈梦卫冕冠军遭冷落到底触动了谁？</a></li>
 <li><a href="/comments/20240807/2071471.md" target="_blank">扎克伯格耍酷，透露出什么信息？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240806/2071151.md" target="_blank">黄裕生：真正的现代化国家绝对不是“编户齐民”的国家</a></li>
 <li><a href="/comments/20240806/2071150.md" target="_blank">内塔尼亚胡：战前动员讲话全文</a></li>
 <li><a href="/comments/20240806/2071144.md" target="_blank">文昭：中国新能源车行业迄今最大的一个雷，爆了！玩得之大，让你叹为观止</a></li>
-<li><a href="/comments/20240806/2071124.md" target="_blank">摩萨德为什么这么厉害？一个因素让摩萨德在全球称雄 ｜周子定｜方菲时间</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
 <li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/cnnews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
 <li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/comments/20240623/2053092.md" target="_blank">章天亮：那些行于世间的觉者</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
 
 </ul>
 </div>
