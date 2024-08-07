@@ -18,16 +18,16 @@
 <li><a href="/sports/20240807/2071566.md">对陈梦竖中指的女子身份曝光！是伊利公司经理</a></li>
 <li><a href="/topimagenews/20240807/2071650.md">惨绝人寰！中共把全国人拉进这场大运动</a></li>
 <li><a href="/cbnews/20240807/2071654.md">〖红朝浮世绘〗生死攸关的“敬业”精神</a></li>
-<li><a href="/sohnews/20240807/2071710.md">真出大事了：中共外交部突然全体休假，习明泽竟发表文章攻击反腐运动，习近平急需一场战争来维护权力。《老灯开讲第629期》</a></li>
 <li><a href="/topimagenews/20240807/2071823.md">他不“潜规则”女下属! 重庆荣昌区长自费嫖娼 竟招广大网民按赞支持</a></li>
+<li><a href="/sohnews/20240807/2071710.md">真出大事了：中共外交部突然全体休假，习明泽竟发表文章攻击反腐运动，习近平急需一场战争来维护权力。《老灯开讲第629期》</a></li>
 <li><a href="/topimagenews/20240807/2071540.md">她就是幕后黑手！ 影像曝光 中国女子指挥奥会人员抢夺台湾标语</a></li>
 <li><a href="/yule/20240807/2071573.md">1年半4次手术也要和小鲜肉纵欲的萧亚轩 如今…</a></li>
-<li><a href="/comments/20240807/2071483.md">官媒痛批饭圈文化 陈梦卫冕冠军遭冷落到底触动了谁？</a></li>
 <li><a href="/cbnews/20240807/2071756.md">两办主任三大战区换帅 习到底在防谁？</a></li>
+<li><a href="/comments/20240807/2071483.md">官媒痛批饭圈文化 陈梦卫冕冠军遭冷落到底触动了谁？</a></li>
 <li><a href="/topimagenews/20240807/2071614.md">中国房地产真回不去了…</a></li>
-<li><a href="/yule/20240807/2071572.md">福建36岁美女主持林丽娴 被公公12刀砍死死前哀求</a></li>
-<li><a href="/comments/20240807/2071651.md">张平：胡耀邦被逼下台时 说了10个字放声大哭</a></li>
 <li><a href="/cnnews/20240807/2071544.md">扒一扒福耀玻璃在美被查那些龌龊事</a></li>
+<li><a href="/cbnews/20240807/2071542.md">贵州再传警民抢尸大战 爆炸声四起如战场</a></li>
+<li><a href="/yule/20240807/2071572.md">福建36岁美女主持林丽娴 被公公12刀砍死死前哀求</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240808/2071899.md" target="_blank">专栏 &#8211; 纵横大历史：文革系列 第九十九讲 天下开始大乱（九）</a></li>
+<li><a href="/comments/20240808/2071898.md" target="_blank">意大利拟引入中国汽车设厂 舆论担忧双面刃</a></li>
 <li><a href="/comments/20240808/2071895.md" target="_blank">天亮时分：中共官员袁昊然巴黎奥运会後叛逃？</a></li>
 <li><a href="/comments/20240808/2071894.md" target="_blank">国际大事🇧🇩人民上街 却被断网路！孟加拉女总理逃出国！ #孟加拉</a></li>
 <li><a href="/comments/20240808/2071893.md" target="_blank">【切阳什姐未获奥运马拉松竞走奖牌 望藏族选手下届接棒】 来自青海的藏族选手切阳什姐（Choeying Kyi）表示，比赛成绩虽然不令人满意，但她很高兴现在已经有很多藏族选手参与到竞技体育中。</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240807/2071632.md" target="_blank">被封杀文：上网，不是一种奢侈品</a></li>
 <li><a href="/comments/20240807/2071631.md" target="_blank">亮见：这件事如果属实，那就太令人发指了</a></li>
 <li><a href="/comments/20240807/2071626.md" target="_blank">打倒一党独裁💥北京现反共标语！要下令拆掉所有机车後备箱？ #习近平 #中国</a></li>
-<li><a href="/comments/20240807/2071617.md" target="_blank">挟患儿以睡其母，曝光之前都是楷模，曝光之后都是恶魔</a></li>
-<li><a href="/comments/20240807/2071604.md" target="_blank">蔡慎坤:美国民主党哈里斯竞选搭档和中共国的业务关系</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/topimagenews/20200514/1328456.md" target="_blank">穿越时空 谢田教授亲身体验人体特异功能</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20240623/2053092.md" target="_blank">章天亮：那些行于世间的觉者</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/aomi/life/20240330/2018911.md" target="_blank">挪威青年这样走出重度失眠和抑郁煎熬</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20231207/1970628.md" target="_blank">民兵对官军，希望之声打造广播界的奇蹟【方伟时间-20231206】</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
 
 </ul>
 </div>
