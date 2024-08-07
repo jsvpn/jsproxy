@@ -7,10 +7,8 @@
 
 <li><a href="/topimagenews/20240807/2071526.md">“习明泽”揭露中共高官洗钱海外</a></li>
 <li><a href="/topimagenews/20240807/2071524.md">不敢相信！中南海停摆？【阿波罗网报道】</a></li>
-<li><a href="/baitai/20240806/2071383.md">中共割韭菜现三大变化 个人资产或被公有化</a></li>
 <li><a href="/cbnews/20240807/2071560.md">赵立坚妻子再发文：放弃化疗 生命进入倒计时</a></li>
 <li><a href="/topimagenews/20240807/2071615.md">越南突然对中共国出手了</a></li>
-<li><a href="/sohnews/20240806/2071375.md">文睿：李强，又出手了</a></li>
 <li><a href="/topimagenews/20240807/2071601.md">特权？赵立坚老婆临终前再恶心一下草民们</a></li>
 <li><a href="/cbnews/20240807/2071528.md">最新：巴黎奥运党官判逃？惊爆内幕</a></li>
 <li><a href="/ccpdope/20240807/2071550.md">炸锅了！传中共奥运官员在巴黎叛逃多图</a></li>
@@ -22,12 +20,14 @@
 <li><a href="/sports/20240807/2071566.md">对陈梦竖中指的女子身份曝光！是伊利公司经理</a></li>
 <li><a href="/topimagenews/20240807/2071540.md">她就是幕后黑手！ 影像曝光 中国女子指挥奥会人员抢夺台湾标语</a></li>
 <li><a href="/comments/20240807/2071483.md">官媒痛批饭圈文化 陈梦卫冕冠军遭冷落到底触动了谁？</a></li>
+<li><a href="/sohnews/20240807/2071710.md">真出大事了：中共外交部突然全体休假，习明泽竟发表文章攻击反腐运动，习近平急需一场战争来维护权力。《老灯开讲第629期》</a></li>
 <li><a href="/topimagenews/20240806/2071418.md">朝鲜叛逃高官曝月薪仅500美元 轰金正恩要求绝对忠诚</a></li>
 <li><a href="/yule/20240807/2071573.md">1年半4次手术也要和小鲜肉纵欲的萧亚轩 如今…</a></li>
 <li><a href="/topimagenews/20240807/2071614.md">中国房地产真回不去了…</a></li>
-<li><a href="/sohnews/20240807/2071710.md">真出大事了：中共外交部突然全体休假，习明泽竟发表文章攻击反腐运动，习近平急需一场战争来维护权力。《老灯开讲第629期》</a></li>
+<li><a href="/baitai/20240807/2071730.md">习近平处境危险？中共官媒减少与习相关的报导</a></li>
 <li><a href="/cbnews/20240807/2071542.md">贵州再传警民抢尸大战 爆炸声四起如战场</a></li>
 <li><a href="/cnnews/20240807/2071544.md">扒一扒福耀玻璃在美被查那些龌龊事</a></li>
+<li><a href="/yule/20240807/2071572.md">福建36岁美女主持林丽娴 被公公12刀砍死死前哀求</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240807/2071805.md" target="_blank">中东战云密布！美吁哈玛斯新领袖“大屠杀策划者”辛瓦尔接受停火</a></li>
 <li><a href="/cbnews/20240807/2071785.md" target="_blank">8印佣兵在俄乌战场被杀 俄曾说会放人 印度政府发飙</a></li>
 <li><a href="/cbnews/20240807/2071784.md" target="_blank">德国将派兵驻扎韩国 联合国军扩至18国 中国怒批非法</a></li>
 <li><a href="/cbnews/20240807/2071783.md" target="_blank">5年来首次! 越南新领导人刚就位 中军用无人机就飞向海岸线 专家：搞威慑</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20240807/2071581.md" target="_blank">股灾还会再来吗？美国经济会进入衰退？｜俞伟雄</a></li>
 <li><a href="/cbnews/20240807/2071561.md" target="_blank">尖锐批评网号网证！清华大学教授遭永久禁言</a></li>
 <li><a href="/cbnews/20240807/2071560.md" target="_blank">赵立坚妻子再发文：放弃化疗 生命进入倒计时</a></li>
-<li><a href="/cbnews/20240807/2071559.md" target="_blank">不信法律 中共警察法官上网实名举报内幕</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240807/2071810.md" target="_blank">奥运开幕式争议：不是别人想多了，而是你想少了</a></li>
+<li><a href="/comments/20240807/2071809.md" target="_blank">这个上天眷顾的国家是如何毁掉的？</a></li>
 <li><a href="/comments/20240807/2071774.md" target="_blank">赖清德：政府补助！韭菜：只剩无助🌧️ 台风後淹水民众叹</a></li>
 <li><a href="/comments/20240807/2071763.md" target="_blank">哈里斯选沃尔兹为副手的真实原因。川普不敢相信自己的运气，只回应了二个字。再现1984？川普哈里斯沃尔兹</a></li>
 <li><a href="/comments/20240807/2071702.md" target="_blank">唐浩：孟加拉变天 北京最怕的三件事来了</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240807/2071518.md" target="_blank">【媒体观察：中国代表团在 #奥运会 上与外界缺少沟通】</a></li>
 <li><a href="/comments/20240807/2071486.md" target="_blank">【#张雨霏：为什么不断质疑我们？】 中国游泳运动员张雨霏于周一在法国巴黎接受媒体采访时，对在赛后采访和新闻发布会上反复被质疑 #兴奋剂 问题感到无奈，</a></li>
 <li><a href="/comments/20240807/2071483.md" target="_blank">官媒痛批饭圈文化 陈梦卫冕冠军遭冷落到底触动了谁？</a></li>
-<li><a href="/comments/20240807/2071471.md" target="_blank">扎克伯格耍酷，透露出什么信息？</a></li>
-<li><a href="/comments/20240807/2071450.md" target="_blank">撒币50亿💸7月才贷款给孟加拉！8月政府垮台 #中国 共党是不是带衰？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
-<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
-<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/cnnews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/comments/20231214/1974098.md" target="_blank">美国众议院议长：我所坚守的保守主义，具体是些什么内容？</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20240318/2014289.md" target="_blank">唐柏桥：民运同仁突然向法轮功开火是怎么回事？</a></li>
-<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/comments/20240418/2026391.md" target="_blank">医生劝我妻子放弃，似乎这些医生热衷让病人快点去死？</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
 
 </ul>
 </div>
