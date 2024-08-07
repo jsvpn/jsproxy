@@ -9,25 +9,25 @@
 <li><a href="/topimagenews/20240807/2071526.md">“习明泽”揭露中共高官洗钱海外</a></li>
 <li><a href="/finance/20240806/2071368.md">中国半导体突传重量级消息</a></li>
 <li><a href="/baitai/20240806/2071292.md">神秘北戴河会议登场 习近平担忧军事政变？ 军队密集换帅 传有上将被抄家</a></li>
-<li><a href="/cbnews/20240806/2071235.md">户籍制度大改革？中共背后算计曝光</a></li>
 <li><a href="/topimagenews/20240807/2071524.md">不敢相信！中南海停摆？【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20240806/2071234.md">强烈信号！中共登陆舰一发击沉 美隐形轰炸机现身太平洋</a></li>
 <li><a href="/baitai/20240806/2071383.md">中共割韭菜现三大变化 个人资产或被公有化</a></li>
 <li><a href="/topimagenews/20240806/2071283.md">一切朝着大战方向发展! 伊政府转移 军事指挥进地道 以“锡安核堡垒”就位</a></li>
 <li><a href="/cbnews/20240807/2071560.md">赵立坚妻子再发文：放弃化疗 生命进入倒计时</a></li>
 <li><a href="/baitai/20240806/2071322.md">合作二十年 刘少奇与毛泽东因她反目成仇？掀两个女人战争 六个字透露毛有多恨刘！ 儿子重蹈「父辙」？ 知情者爆刘源鲜为人知往事</a></li>
 <li><a href="/cnnews/20240806/2071275.md">传统金融圈突传一则罕见“大户”爆雷</a></li>
-<li><a href="/sohnews/20240806/2071375.md">文睿：李强，又出手了</a></li>
 <li><a href="/cbnews/20240807/2071528.md">最新：巴黎奥运党官判逃？惊爆内幕</a></li>
+<li><a href="/sohnews/20240806/2071375.md">文睿：李强，又出手了</a></li>
+<li><a href="/topimagenews/20240807/2071615.md">越南突然对中共国出手了</a></li>
+<li><a href="/topimagenews/20240807/2071539.md">暴力镇压! 广东百姓被打头破血流 济南民众被喷辣椒水</a></li>
 <li><a href="/topimagenews/20240806/2071390.md">威慑中共 美驻日大使提2大必杀技 “他们内部就会动乱”</a></li>
 <li><a href="/worldnews/20240806/2071370.md">中国23岁富二代日本开豪车狂飙 创下大祸</a></li>
-<li><a href="/topimagenews/20240807/2071539.md">暴力镇压! 广东百姓被打头破血流 济南民众被喷辣椒水</a></li>
-<li><a href="/topimagenews/20240807/2071615.md">越南突然对中共国出手了</a></li>
-<li><a href="/cbnews/20240806/2071252.md">江峰：赵立坚夫人公布病况遭人酸；爱国铁拳促中国奥委会代表出逃；中共抓狂：台湾首面金牌，全球同唱中华民国国歌；孟加拉独裁者出逃，习近平少了一个“姐们儿”。【江峰漫谈20240805第910期】</a></li>
 <li><a href="/ccpdope/20240807/2071550.md">炸锅了！传中共奥运官员在巴黎叛逃多图</a></li>
-<li><a href="/headline/20240806/2071329.md">中国体育总局官员被指在网上发表不当言论 遭调查处理</a></li>
+<li><a href="/cbnews/20240806/2071252.md">江峰：赵立坚夫人公布病况遭人酸；爱国铁拳促中国奥委会代表出逃；中共抓狂：台湾首面金牌，全球同唱中华民国国歌；孟加拉独裁者出逃，习近平少了一个“姐们儿”。【江峰漫谈20240805第910期】</a></li>
 <li><a href="/cbnews/20240806/2071284.md">北京大学五名教授密集病亡 全是中共党员</a></li>
+<li><a href="/headline/20240806/2071329.md">中国体育总局官员被指在网上发表不当言论 遭调查处理</a></li>
 <li><a href="/sohnews/20240806/2071271.md">重磅：中共高官在巴黎叛逃申请庇护，政治局会议研究防止美军空袭，全民惯蛋是历史垃圾时间的重要标志。《老灯开讲第628期》</a></li>
+<li><a href="/topimagenews/20240807/2071540.md">她就是幕后黑手！ 影像曝光 中国女子指挥奥会人员抢夺台湾标语</a></li>
+<li><a href="/topimagenews/20240806/2071418.md">朝鲜叛逃高官曝月薪仅500美元 轰金正恩要求绝对忠诚</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240807/2071665.md" target="_blank">华裔女子冒名顶替，选当菲律宾市长，案发后失踪。细思极恐，被替代的真人恐已死亡。中共女间谍菲律宾女市长</a></li>
 <li><a href="/cbnews/20240807/2071654.md" target="_blank">〖红朝浮世绘〗生死攸关的“敬业”精神</a></li>
 <li><a href="/cbnews/20240807/2071602.md" target="_blank">王书君“中共代理人”等四项罪成 面临最高25年监禁</a></li>
 <li><a href="/cbnews/20240807/2071584.md" target="_blank">陕西高层住宅起火有人坠楼 当地政府封锁消息</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240806/2071254.md" target="_blank">河北石家庄连环车祸 传电动车起火致多车焚毁</a></li>
 <li><a href="/cbnews/20240806/2071252.md" target="_blank">江峰：赵立坚夫人公布病况遭人酸；爱国铁拳促中国奥委会代表出逃；中共抓狂：台湾首面金牌，全球同唱中华民国国歌；孟加拉独裁者出逃，习近平少了一个“姐们儿”。【江峰漫谈20240805第910期】</a></li>
 <li><a href="/comments/20240806/2071241.md" target="_blank">大法官戈萨奇严厉警告拜登，揭改革最高法院真相。凯利神秘贴引疯狂猜测，究竟是出局了还是当选了哈里斯副手？戈萨奇哈里斯最高法院改革</a></li>
-<li><a href="/cbnews/20240806/2071235.md" target="_blank">户籍制度大改革？中共背后算计曝光</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240807/2071665.md" target="_blank">华裔女子冒名顶替，选当菲律宾市长，案发后失踪。细思极恐，被替代的真人恐已死亡。中共女间谍菲律宾女市长</a></li>
 <li><a href="/comments/20240807/2071651.md" target="_blank">张平：胡耀邦被逼下台时 说了10个字放声大哭</a></li>
 <li><a href="/comments/20240807/2071635.md" target="_blank">码头水鬼：泡在洪水里看奥运</a></li>
 <li><a href="/comments/20240807/2071634.md" target="_blank">王维洛：原三峡集团董事长曹广晶案再次暴露三峡工程是“政治工程”</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240806/2071431.md" target="_blank">时事大家谈：北京更倾向谁当选，哈里斯还是特朗普？</a></li>
 <li><a href="/comments/20240806/2071430.md" target="_blank">时事大家谈：北京更倾向谁当选，哈里斯还是特朗普？哈里斯与特朗普的对华策略将会有何不同？</a></li>
 <li><a href="/comments/20240806/2071421.md" target="_blank">小扎给川普多次打电话道歉 真道歉还是假的？</a></li>
-<li><a href="/comments/20240806/2071389.md" target="_blank">把女总理赶下台！孟加拉人民：我们只示范一次！#孟加拉</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/comments/20231220/1976789.md" target="_blank">大陆医生曝：九价HPV疫苗导致怀孕能力下降40%</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/cnnews/20170717/792917.md" target="_blank">无神论是最大的迷信</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/comments/20240116/1984226.md" target="_blank">湖北老河口遇仙记</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20240126/1992876.md" target="_blank">内幕：中国留学生里女生打男生和男生打女一样普遍</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20231204/1969287.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （三）</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
 
 </ul>
 </div>
