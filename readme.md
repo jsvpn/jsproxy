@@ -12,14 +12,13 @@
 <li><a href="/topimagenews/20240808/2071997.md">住建部镰刀准备好了！继续作，必须把中国房产市场弄死</a></li>
 <li><a href="/baitai/20240808/2071973.md">习近平新时代——中国社会进入全过程“残废”的年代</a></li>
 <li><a href="/topimagenews/20240808/2072047.md">北京下悔棋！习变相承认简单粗暴；突如其来的下岗，政府真缺钱了【阿波罗网报道】</a></li>
-<li><a href="/comments/20240808/2071966.md">凤姐说出这句话 网友排队向她道歉</a></li>
 <li><a href="/sohnews/20240808/2072196.md">普京在核武器问题上再次公开打脸习近平</a></li>
 <li><a href="/sohnews/20240808/2072174.md">军队不稳：习突然采取紧急措施，三中全会后正式开始文革，网络举报成天朝特色。《老灯开讲第630期》</a></li>
 <li><a href="/topimagenews/20240808/2072112.md">上一次是希特勒！ 二战后首度外国战车攻入俄境 库尔斯克居民吓坏了</a></li>
+<li><a href="/baitai/20240809/2072304.md">美政经专家：谁将取代习近平？</a></li>
 <li><a href="/ssgc/20240808/2072077.md">〖微博谈〗这才是当代的终极良民证</a></li>
 <li><a href="/sohnews/20240808/2072138.md">陈破空：内幕：习遭军方抛弃？原因多重。中朝关系突变！边境打桩。乌军闪电攻入俄罗斯 ，普京竟要求国际谴责。直播与互动：美东时间8月8日早9点、中港台当日晚9点</a></li>
 <li><a href="/cbnews/20240808/2072212.md">惊悚! 中国惊传火葬场盗卖遗体 做骨骼移植材料获利3.8亿 75人被捕</a></li>
-<li><a href="/baitai/20240809/2072304.md">美政经专家：谁将取代习近平？</a></li>
 <li><a href="/topimagenews/20240808/2072210.md">F-16来了 快撤！克里米亚俄战机数量骤降2/3 5机场中2个空无一机</a></li>
 <li><a href="/topimagenews/20240808/2072135.md">普京发飙了! 竟让乌军攻入库尔斯克 俄副防长在紧急会议上称已挡住</a></li>
 <li><a href="/finance/20240808/2072214.md">大批工人涌向郑州富士康</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/topimagenews/20240808/2072111.md">报复恐招来毁灭性后果… 伊朗总统恳求最高领袖不要打以色列</a></li>
 <li><a href="/baitai/20240808/2072188.md">心脏骤停前5大征兆，千万警惕</a></li>
 <li><a href="/topimagenews/20240808/2072190.md">无人机打下直升机 全球首例! 乌FPV空中首杀 2磅炸弹击落12吨俄米-8</a></li>
+<li><a href="/topimagenews/20240808/2071976.md">主宰国家命脉最神秘企业押宝中共国后 转投美国怀抱【阿波罗网报道】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240809/2072393.md" target="_blank">保守派华人的心路：护卫美国自由，对抗中共微信封杀 ｜Lydid (陌上美国）｜方菲时间</a></li>
 <li><a href="/comments/20240809/2072383.md" target="_blank">钻石 不再值钱？！</a></li>
 <li><a href="/cbnews/20240809/2072360.md" target="_blank">山西奥瑞非法买卖数千具尸体 引发舆论海啸</a></li>
 <li><a href="/cbnews/20240808/2072281.md" target="_blank">陈文清王小洪被列“恶人榜”递44国备制裁</a></li>
@@ -59,13 +60,14 @@
 <li><a href="/cbnews/20240807/2071784.md" target="_blank">德国将派兵驻扎韩国 联合国军扩至18国 中国怒批非法</a></li>
 <li><a href="/cbnews/20240807/2071783.md" target="_blank">5年来首次! 越南新领导人刚就位 中军用无人机就飞向海岸线 专家：搞威慑</a></li>
 <li><a href="/cbnews/20240807/2071782.md" target="_blank">乌军中出现中国人脸孔? 为佣军高薪远渡重洋 万里之外精锐老兵赴战场</a></li>
-<li><a href="/cbnews/20240807/2071781.md" target="_blank">南海掀波！解放军南部战区发布 黄岩岛周边海空联合战巡</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240809/2072391.md" target="_blank">惊人预言：美将迎大变局！大选前她成女总统 笑到最后的却是他</a></li>
+<li><a href="/topimagenews/20240809/2072390.md" target="_blank">全红婵横扫巴黎奥运 队友爆猛料她有致命两怕</a></li>
 <li><a href="/topimagenews/20240809/2072382.md" target="_blank">代拆陪玩爆款！全红婵爆买“乌龟盲盒”玩法曝光</a></li>
 <li><a href="/topimagenews/20240809/2072381.md" target="_blank">震惊！俄乌交战把弹药打空了 武器大厂出大招</a></li>
 <li><a href="/topimagenews/20240809/2072380.md" target="_blank">撼动全球！日本将重塑芯片制造设备产业？</a></li>
@@ -89,14 +91,13 @@
 <li><a href="/topimagenews/20240808/2071953.md" target="_blank">废掉中共“大疆”霸主地位！乌每月数十万架无人机 普京招架得住吗？</a></li>
 <li><a href="/topimagenews/20240807/2071823.md" target="_blank">他不“潜规则”女下属! 重庆荣昌区长自费嫖娼 竟招广大网民按赞支持</a></li>
 <li><a href="/topimagenews/20240807/2071798.md" target="_blank">中南海为何迟迟不愿下猛药</a></li>
-<li><a href="/topimagenews/20240807/2071779.md" target="_blank">用俄导弹打中共战机！印度坚持买S-400系统 模拟攻击多次都成功 称非常准</a></li>
-<li><a href="/topimagenews/20240807/2071778.md" target="_blank">中国割器官割到日本去? 假脑死真谋杀 黑暗的器官移植产业链</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240809/2072393.md" target="_blank">保守派华人的心路：护卫美国自由，对抗中共微信封杀 ｜Lydid (陌上美国）｜方菲时间</a></li>
 <li><a href="/comments/20240809/2072383.md" target="_blank">钻石 不再值钱？！</a></li>
 <li><a href="/comments/20240809/2072365.md" target="_blank">【“#熊猫外交”再起？】 8月8日，两只大熊猫在 #圣地亚哥动物园 公开亮相。这对 #大熊猫 是21年来首批进入美国的熊猫。</a></li>
 <li><a href="/comments/20240809/2072353.md" target="_blank">【台湾拳击手林郁婷挺进决赛】</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240808/2071981.md" target="_blank">没什么看头的美国大选</a></li>
 <li><a href="/comments/20240808/2071966.md" target="_blank">凤姐说出这句话 网友排队向她道歉</a></li>
 <li><a href="/comments/20240808/2071965.md" target="_blank">梁启智：谁是台独推手 香港人首次赞成台湾独立</a></li>
-<li><a href="/comments/20240808/2071964.md" target="_blank">林保华：中国经墨西哥对美发动“芬太尼战争”？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20240801/2069416.md" target="_blank">无神论和有神论深度解析</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/cbnews/20190701/1151453.md" target="_blank">盘点十大邪教特征 中共条条对号入座</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20231207/1970628.md" target="_blank">民兵对官军，希望之声打造广播界的奇蹟【方伟时间-20231206】</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
 <li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/lifebaike/20180527/948531.md" target="_blank">无神论是最大的迷信（上）：科学无法证实神不存在</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20240704/2058130.md" target="_blank">百年梦醒（十八）：共产魔教的机制、前所未有的巨大野心</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20240403/2020547.md" target="_blank">纪录片：DSM诊断与统计手册-精神病学最要命的骗局</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
 
 </ul>
 </div>
