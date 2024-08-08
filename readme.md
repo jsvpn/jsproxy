@@ -9,7 +9,6 @@
 <li><a href="/yule/20240808/2071985.md">疑似王丽坤老公被抓 王丽坤欲切割求生</a></li>
 <li><a href="/topimagenews/20240808/2071998.md">成绩亮眼！她被踢出中共国家队 转身加入法国国家队</a></li>
 <li><a href="/topimagenews/20240808/2072012.md">把天聊死！全红婵堪称“记者杀手”</a></li>
-<li><a href="/topimagenews/20240808/2071953.md">废掉中共“大疆”霸主地位！乌每月数十万架无人机 普京招架得住吗？</a></li>
 <li><a href="/topimagenews/20240808/2071997.md">住建部镰刀准备好了！继续作，必须把中国房产市场弄死</a></li>
 <li><a href="/baitai/20240808/2071973.md">习近平新时代——中国社会进入全过程“残废”的年代</a></li>
 <li><a href="/topimagenews/20240808/2072047.md">北京下悔棋！习变相承认简单粗暴；突如其来的下岗，政府真缺钱了【阿波罗网报道】</a></li>
@@ -20,10 +19,11 @@
 <li><a href="/ssgc/20240808/2072077.md">〖微博谈〗这才是当代的终极良民证</a></li>
 <li><a href="/sohnews/20240808/2072138.md">陈破空：内幕：习遭军方抛弃？原因多重。中朝关系突变！边境打桩。乌军闪电攻入俄罗斯 ，普京竟要求国际谴责。直播与互动：美东时间8月8日早9点、中港台当日晚9点</a></li>
 <li><a href="/cbnews/20240808/2072212.md">惊悚! 中国惊传火葬场盗卖遗体 做骨骼移植材料获利3.8亿 75人被捕</a></li>
+<li><a href="/topimagenews/20240808/2072210.md">F-16来了 快撤！克里米亚俄战机数量骤降2/3 5机场中2个空无一机</a></li>
 <li><a href="/topimagenews/20240808/2072135.md">普京发飙了! 竟让乌军攻入库尔斯克 俄副防长在紧急会议上称已挡住</a></li>
 <li><a href="/finance/20240808/2072214.md">大批工人涌向郑州富士康</a></li>
-<li><a href="/topimagenews/20240808/2072210.md">F-16来了 快撤！克里米亚俄战机数量骤降2/3 5机场中2个空无一机</a></li>
 <li><a href="/lifebaike/20240808/2072171.md">大补的鱼不是鲈鱼鲫鱼，而是这3种，强骨骼增免疫，高钙高蛋白</a></li>
+<li><a href="/baitai/20240809/2072304.md">美政经专家：谁将取代习近平？</a></li>
 <li><a href="/cnnews/20240808/2072199.md">全中国只剩这一家! 曾遍布多个城市、组上海“最强天际线” 如今快撤光</a></li>
 <li><a href="/topimagenews/20240808/2072111.md">报复恐招来毁灭性后果… 伊朗总统恳求最高领袖不要打以色列</a></li>
 <li><a href="/baitai/20240808/2072188.md">心脏骤停前5大征兆，千万警惕</a></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240809/2072383.md" target="_blank">钻石 不再值钱？！</a></li>
 <li><a href="/cbnews/20240809/2072360.md" target="_blank">山西奥瑞非法买卖数千具尸体 引发舆论海啸</a></li>
 <li><a href="/cbnews/20240808/2072281.md" target="_blank">陈文清王小洪被列“恶人榜”递44国备制裁</a></li>
 <li><a href="/comments/20240808/2072266.md" target="_blank">哈里斯自认不敌川普，沃尔兹上位内幕。首次对话，川普准备接受马斯克专访。特勤局举报人新证词，现场首席特工被怀疑。川普马斯克沃尔兹</a></li>
@@ -59,13 +60,15 @@
 <li><a href="/cbnews/20240807/2071783.md" target="_blank">5年来首次! 越南新领导人刚就位 中军用无人机就飞向海岸线 专家：搞威慑</a></li>
 <li><a href="/cbnews/20240807/2071782.md" target="_blank">乌军中出现中国人脸孔? 为佣军高薪远渡重洋 万里之外精锐老兵赴战场</a></li>
 <li><a href="/cbnews/20240807/2071781.md" target="_blank">南海掀波！解放军南部战区发布 黄岩岛周边海空联合战巡</a></li>
-<li><a href="/cbnews/20240807/2071780.md" target="_blank">离奇！ 云南村民被四川气象炮弹砸断腿 相关单位 : 不能透露</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240809/2072382.md" target="_blank">代拆陪玩爆款！全红婵爆买“乌龟盲盒”玩法曝光</a></li>
+<li><a href="/topimagenews/20240809/2072381.md" target="_blank">震惊！俄乌交战把弹药打空了 武器大厂出大招</a></li>
+<li><a href="/topimagenews/20240809/2072380.md" target="_blank">撼动全球！日本将重塑芯片制造设备产业？</a></li>
 <li><a href="/topimagenews/20240808/2072210.md" target="_blank">F-16来了 快撤！克里米亚俄战机数量骤降2/3 5机场中2个空无一机</a></li>
 <li><a href="/topimagenews/20240808/2072209.md" target="_blank">北朝鲜民众“步行”穿越汉江归顺韩国？ 军方称全程监控、曾发现2小点</a></li>
 <li><a href="/topimagenews/20240808/2072208.md" target="_blank">“大跃进”发展产业 北京在此碰壁</a></li>
@@ -88,15 +91,13 @@
 <li><a href="/topimagenews/20240807/2071798.md" target="_blank">中南海为何迟迟不愿下猛药</a></li>
 <li><a href="/topimagenews/20240807/2071779.md" target="_blank">用俄导弹打中共战机！印度坚持买S-400系统 模拟攻击多次都成功 称非常准</a></li>
 <li><a href="/topimagenews/20240807/2071778.md" target="_blank">中国割器官割到日本去? 假脑死真谋杀 黑暗的器官移植产业链</a></li>
-<li><a href="/topimagenews/20240807/2071777.md" target="_blank">深入俄境10公里! 乌军突破库尔斯克防线占领4据点 俄军无力反击惨遭包围</a></li>
-<li><a href="/topimagenews/20240807/2071776.md" target="_blank">中国两大房地产龙头都遭抄家! 恒大母公司破产清算 碧桂园销售额也暴跌72%</a></li>
-<li><a href="/topimagenews/20240807/2071775.md" target="_blank">复仇行动第一波! 真主党袭以基地酿多伤 “巴铁”还要供导弹 这6国协防以军&#8230;..</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240809/2072383.md" target="_blank">钻石 不再值钱？！</a></li>
 <li><a href="/comments/20240809/2072365.md" target="_blank">【“#熊猫外交”再起？】 8月8日，两只大熊猫在 #圣地亚哥动物园 公开亮相。这对 #大熊猫 是21年来首批进入美国的熊猫。</a></li>
 <li><a href="/comments/20240809/2072353.md" target="_blank">【台湾拳击手林郁婷挺进决赛】</a></li>
 <li><a href="/comments/20240809/2072299.md" target="_blank">幸福生活的捷径！不婚？！42岁活出&quot;光棍&quot;风采 不做中国梦</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240808/2071966.md" target="_blank">凤姐说出这句话 网友排队向她道歉</a></li>
 <li><a href="/comments/20240808/2071965.md" target="_blank">梁启智：谁是台独推手 香港人首次赞成台湾独立</a></li>
 <li><a href="/comments/20240808/2071964.md" target="_blank">林保华：中国经墨西哥对美发动“芬太尼战争”？</a></li>
-<li><a href="/comments/20240808/2071962.md" target="_blank">天亮时分：贺锦丽副手华兹曾赴中国广州教书</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
-<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20231220/1976683.md" target="_blank">医山夜话：张锡纯医案解读（二）根治胃气不降之证</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20230920/1936271.md" target="_blank">防止你的孩子不成功（5） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
+<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
+<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
+<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
 
 </ul>
 </div>
