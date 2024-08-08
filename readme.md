@@ -5,8 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/topimagenews/20240807/2071615.md">越南突然对中共国出手了</a></li>
-<li><a href="/topimagenews/20240807/2071613.md">独裁一触即溃！爆炸声响 百万雄师成鸟兽散</a></li>
 <li><a href="/baitai/20240807/2071730.md">习近平处境危险？中共官媒减少与习相关的报导</a></li>
 <li><a href="/topimagenews/20240807/2071823.md">他不“潜规则”女下属! 重庆荣昌区长自费嫖娼 竟招广大网民按赞支持</a></li>
 <li><a href="/sohnews/20240807/2071710.md">真出大事了：中共外交部突然全体休假，习明泽竟发表文章攻击反腐运动，习近平急需一场战争来维护权力。《老灯开讲第629期》</a></li>
@@ -14,10 +12,9 @@
 <li><a href="/cbnews/20240807/2071654.md">〖红朝浮世绘〗生死攸关的“敬业”精神</a></li>
 <li><a href="/cbnews/20240807/2071756.md">两办主任三大战区换帅 习到底在防谁？</a></li>
 <li><a href="/topimagenews/20240807/2071798.md">中南海为何迟迟不愿下猛药</a></li>
-<li><a href="/topimagenews/20240807/2071614.md">中国房地产真回不去了…</a></li>
 <li><a href="/comments/20240807/2071651.md">张平：胡耀邦被逼下台时 说了10个字放声大哭</a></li>
-<li><a href="/ccpdope/20240807/2071769.md">上海现状，肉眼可见的大萧条！视频</a></li>
 <li><a href="/topimagenews/20240808/2071953.md">废掉中共“大疆”霸主地位！乌每月数十万架无人机 普京招架得住吗？</a></li>
+<li><a href="/ccpdope/20240807/2071769.md">上海现状，肉眼可见的大萧条！视频</a></li>
 <li><a href="/cbnews/20240807/2071687.md">大连大货车“献忠”传逾30死伤！长沙报复性撞人8死 新闻惨被“404”</a></li>
 <li><a href="/cnnews/20240807/2071814.md">曾经的同学和同事 赵立坚华春莹毛宁都变了</a></li>
 <li><a href="/sohnews/20240807/2071636.md">20240807直播：孟加拉成功加大了中国的难度，委内瑞拉已开始谈判；伊朗就这么泄了，俄中都在给美国送礼；哈里斯选了个老好人大叔当副手；禁言封号大字报！劳东燕：见证历史时刻。</a></li>
@@ -25,9 +22,12 @@
 <li><a href="/cbnews/20240807/2071698.md">中国新冠警报再响 两种变异毒株凶猛</a></li>
 <li><a href="/cbnews/20240807/2071700.md">中共体总官员趁奥运落跑？蔡慎坤：能跑还是跑</a></li>
 <li><a href="/baitai/20240808/2071901.md">受贿过亿元 前深圳市长陈如桂轻判无期 专家：出问题都是习不喜欢的人</a></li>
-<li><a href="/sohnews/20240807/2071608.md">习招牌不见了，中南海出大事了？唐山火速回应，陈志伟2次被抓？跨省抓捕找上门，陈志伟晒力证；出警延误真相，领导脱岗离所饮酒；被逼读稿说假话，便衣领导是谁？【新闻看点 李沐阳8.6】</a></li>
 <li><a href="/comments/20240807/2071763.md">哈里斯选沃尔兹为副手的真实原因。川普不敢相信自己的运气，只回应了二个字。再现1984？川普哈里斯沃尔兹</a></li>
 <li><a href="/sohnews/20240807/2071764.md">备战？出大事？中共狂扫全球五成粮食 台海危机隐现…中共囤粮惊人内幕 准备战争不一定在台海！@democratictaiwanchannel</a></li>
+<li><a href="/sohnews/20240808/2071938.md">“著名预言家金.克莱门特：全新的灵性觉醒 始于今秋中国 ⋯ 贯穿2025年 深刻影响全球”No.03（08/07/24）毕格斯Brandon Biggs</a></li>
+<li><a href="/cbnews/20240807/2071699.md">多地惊传爆炸、大火! 珠海、广州、常州、菏泽市商场与工厂都传灾 官方隐匿伤亡</a></li>
+<li><a href="/lifebaike/20240807/2071703.md">妈劝儿子：女人少这3样再漂亮也不能娶</a></li>
+<li><a href="/worldnews/20240807/2071672.md">她不太可能成为朝鲜女王</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,8 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240808/2072047.md" target="_blank">北京下悔棋！习变相承认简单粗暴；突如其来的下岗，政府真缺钱了【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20240808/2072046.md" target="_blank">反共才是爱国 大陆公安干警逃到香港成为大作家</a></li>
 <li><a href="/topimagenews/20240808/2072012.md" target="_blank">把天聊死！全红婵堪称“记者杀手”</a></li>
 <li><a href="/topimagenews/20240808/2072011.md" target="_blank">傻眼！她是台独顽固分子？</a></li>
 <li><a href="/topimagenews/20240808/2072010.md" target="_blank">乌军突破防线 深入俄境8公里 占领4据点</a></li>
@@ -89,14 +91,14 @@
 <li><a href="/topimagenews/20240807/2071600.md" target="_blank">“斩首哈梅内伊&#8230;&#8221;！摩萨德撂狠话</a></li>
 <li><a href="/topimagenews/20240807/2071582.md" target="_blank">扫底全球海洋接！中共船只悬挂15个国家国旗</a></li>
 <li><a href="/topimagenews/20240807/2071558.md" target="_blank">55无人机大进击! 乌夜袭俄机场 毁航空炸弹仓库</a></li>
-<li><a href="/topimagenews/20240807/2071540.md" target="_blank">她就是幕后黑手！ 影像曝光 中国女子指挥奥会人员抢夺台湾标语</a></li>
-<li><a href="/topimagenews/20240807/2071539.md" target="_blank">暴力镇压! 广东百姓被打头破血流 济南民众被喷辣椒水</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240808/2072049.md" target="_blank">现实的模样｜网络举报，成了这世道的“救命稻草”</a></li>
+<li><a href="/comments/20240808/2072048.md" target="_blank">老牌恶棍:如何看待网络举报？我的建议是直接申遗</a></li>
 <li><a href="/comments/20240808/2072019.md" target="_blank">2024年孟加拉国反配额抗议与镇压：默默无闻之国反特权风潮的来龙去脉</a></li>
 <li><a href="/comments/20240808/2072018.md" target="_blank">贺锦丽选择沃尔兹摒弃夏皮罗的主要原因</a></li>
 <li><a href="/comments/20240808/2072002.md" target="_blank">哈里斯为何抛弃几乎能让她进白宫的他 反选更左沃尔兹</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240808/2071885.md" target="_blank">时事大家谈：孟加拉人民起义成功, 军队扮演了什么角色?</a></li>
 <li><a href="/comments/20240808/2071884.md" target="_blank">时事大家谈：孟加拉变天，中国利益受到多大冲击和影响？</a></li>
 <li><a href="/comments/20240807/2071864.md" target="_blank">恩德培机场事件方菲时间 摩萨德以色列</a></li>
-<li><a href="/comments/20240807/2071856.md" target="_blank">时事大家谈：热点快评：哈里斯挑选沃尔兹为其竞选伙伴和副总统候选人；孟加拉人民起义成功, 军队扮演了什么角色? 孟加拉变天，中国利益受到多大冲击和影响？</a></li>
-<li><a href="/comments/20240807/2071850.md" target="_blank">【梁京评论】全球股灾的中国因素</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/cbnews/20190701/1151453.md" target="_blank">盘点十大邪教特征 中共条条对号入座</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
-<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/cnnews/20150914/449521.md" target="_blank">无神论和有神论，乡下老太太驳倒三个博士</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/taiwannews/20210119/1470524.md" target="_blank">纪录片《蚕食美国1》</a></li>
 <li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/cbnews/20240603/2045072.md" target="_blank">漫谈古代科举之八股文</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
 
 </ul>
 </div>
