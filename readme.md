@@ -7,8 +7,8 @@
 
 <li><a href="/baitai/20240807/2071730.md">习近平处境危险？中共官媒减少与习相关的报导</a></li>
 <li><a href="/topimagenews/20240807/2071823.md">他不“潜规则”女下属! 重庆荣昌区长自费嫖娼 竟招广大网民按赞支持</a></li>
-<li><a href="/sohnews/20240807/2071710.md">真出大事了：中共外交部突然全体休假，习明泽竟发表文章攻击反腐运动，习近平急需一场战争来维护权力。《老灯开讲第629期》</a></li>
 <li><a href="/topimagenews/20240807/2071650.md">惨绝人寰！中共把全国人拉进这场大运动</a></li>
+<li><a href="/sohnews/20240807/2071710.md">真出大事了：中共外交部突然全体休假，习明泽竟发表文章攻击反腐运动，习近平急需一场战争来维护权力。《老灯开讲第629期》</a></li>
 <li><a href="/cbnews/20240807/2071654.md">〖红朝浮世绘〗生死攸关的“敬业”精神</a></li>
 <li><a href="/cbnews/20240807/2071756.md">两办主任三大战区换帅 习到底在防谁？</a></li>
 <li><a href="/topimagenews/20240807/2071798.md">中南海为何迟迟不愿下猛药</a></li>
@@ -18,13 +18,13 @@
 <li><a href="/cbnews/20240807/2071687.md">大连大货车“献忠”传逾30死伤！长沙报复性撞人8死 新闻惨被“404”</a></li>
 <li><a href="/cnnews/20240807/2071814.md">曾经的同学和同事 赵立坚华春莹毛宁都变了</a></li>
 <li><a href="/sohnews/20240807/2071636.md">20240807直播：孟加拉成功加大了中国的难度，委内瑞拉已开始谈判；伊朗就这么泄了，俄中都在给美国送礼；哈里斯选了个老好人大叔当副手；禁言封号大字报！劳东燕：见证历史时刻。</a></li>
-<li><a href="/cnnews/20240807/2071622.md">大字报上了！劳东燕最新发声</a></li>
 <li><a href="/cbnews/20240807/2071698.md">中国新冠警报再响 两种变异毒株凶猛</a></li>
 <li><a href="/cbnews/20240807/2071700.md">中共体总官员趁奥运落跑？蔡慎坤：能跑还是跑</a></li>
 <li><a href="/baitai/20240808/2071901.md">受贿过亿元 前深圳市长陈如桂轻判无期 专家：出问题都是习不喜欢的人</a></li>
 <li><a href="/comments/20240807/2071763.md">哈里斯选沃尔兹为副手的真实原因。川普不敢相信自己的运气，只回应了二个字。再现1984？川普哈里斯沃尔兹</a></li>
-<li><a href="/sohnews/20240807/2071764.md">备战？出大事？中共狂扫全球五成粮食 台海危机隐现…中共囤粮惊人内幕 准备战争不一定在台海！@democratictaiwanchannel</a></li>
 <li><a href="/sohnews/20240808/2071938.md">“著名预言家金.克莱门特：全新的灵性觉醒 始于今秋中国 ⋯ 贯穿2025年 深刻影响全球”No.03（08/07/24）毕格斯Brandon Biggs</a></li>
+<li><a href="/sohnews/20240807/2071764.md">备战？出大事？中共狂扫全球五成粮食 台海危机隐现…中共囤粮惊人内幕 准备战争不一定在台海！@democratictaiwanchannel</a></li>
+<li><a href="/topimagenews/20240808/2071998.md">成绩亮眼！她被踢出中共国家队 转身加入法国国家队</a></li>
 <li><a href="/cbnews/20240807/2071699.md">多地惊传爆炸、大火! 珠海、广州、常州、菏泽市商场与工厂都传灾 官方隐匿伤亡</a></li>
 <li><a href="/lifebaike/20240807/2071703.md">妈劝儿子：女人少这3样再漂亮也不能娶</a></li>
 <li><a href="/worldnews/20240807/2071672.md">她不太可能成为朝鲜女王</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
 <li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
+<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
 <li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/taiwannews/20210119/1470524.md" target="_blank">纪录片《蚕食美国1》</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
 
 </ul>
 </div>
