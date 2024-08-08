@@ -17,14 +17,14 @@
 <li><a href="/ccpdope/20240807/2071769.md">上海现状，肉眼可见的大萧条！视频</a></li>
 <li><a href="/cbnews/20240807/2071687.md">大连大货车“献忠”传逾30死伤！长沙报复性撞人8死 新闻惨被“404”</a></li>
 <li><a href="/cnnews/20240807/2071814.md">曾经的同学和同事 赵立坚华春莹毛宁都变了</a></li>
-<li><a href="/sohnews/20240807/2071636.md">20240807直播：孟加拉成功加大了中国的难度，委内瑞拉已开始谈判；伊朗就这么泄了，俄中都在给美国送礼；哈里斯选了个老好人大叔当副手；禁言封号大字报！劳东燕：见证历史时刻。</a></li>
 <li><a href="/cbnews/20240807/2071698.md">中国新冠警报再响 两种变异毒株凶猛</a></li>
 <li><a href="/cbnews/20240807/2071700.md">中共体总官员趁奥运落跑？蔡慎坤：能跑还是跑</a></li>
 <li><a href="/baitai/20240808/2071901.md">受贿过亿元 前深圳市长陈如桂轻判无期 专家：出问题都是习不喜欢的人</a></li>
-<li><a href="/comments/20240807/2071763.md">哈里斯选沃尔兹为副手的真实原因。川普不敢相信自己的运气，只回应了二个字。再现1984？川普哈里斯沃尔兹</a></li>
-<li><a href="/sohnews/20240808/2071938.md">“著名预言家金.克莱门特：全新的灵性觉醒 始于今秋中国 ⋯ 贯穿2025年 深刻影响全球”No.03（08/07/24）毕格斯Brandon Biggs</a></li>
-<li><a href="/sohnews/20240807/2071764.md">备战？出大事？中共狂扫全球五成粮食 台海危机隐现…中共囤粮惊人内幕 准备战争不一定在台海！@democratictaiwanchannel</a></li>
 <li><a href="/topimagenews/20240808/2071998.md">成绩亮眼！她被踢出中共国家队 转身加入法国国家队</a></li>
+<li><a href="/sohnews/20240808/2071938.md">“著名预言家金.克莱门特：全新的灵性觉醒 始于今秋中国 ⋯ 贯穿2025年 深刻影响全球”No.03（08/07/24）毕格斯Brandon Biggs</a></li>
+<li><a href="/yule/20240808/2071985.md">疑似王丽坤老公被抓 王丽坤欲切割求生</a></li>
+<li><a href="/comments/20240807/2071763.md">哈里斯选沃尔兹为副手的真实原因。川普不敢相信自己的运气，只回应了二个字。再现1984？川普哈里斯沃尔兹</a></li>
+<li><a href="/sohnews/20240807/2071764.md">备战？出大事？中共狂扫全球五成粮食 台海危机隐现…中共囤粮惊人内幕 准备战争不一定在台海！@democratictaiwanchannel</a></li>
 <li><a href="/cbnews/20240807/2071699.md">多地惊传爆炸、大火! 珠海、广州、常州、菏泽市商场与工厂都传灾 官方隐匿伤亡</a></li>
 <li><a href="/lifebaike/20240807/2071703.md">妈劝儿子：女人少这3样再漂亮也不能娶</a></li>
 <li><a href="/worldnews/20240807/2071672.md">她不太可能成为朝鲜女王</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
-<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/tculture/20231217/1975364.md" target="_blank">医山夜话：张锡纯医案解读（1）根治失眠 思路清晰</a></li>
+<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/cnnews/20170717/792917.md" target="_blank">无神论是最大的迷信</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
 
 </ul>
 </div>
