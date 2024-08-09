@@ -9,25 +9,25 @@
 <li><a href="/topimagenews/20240809/2072435.md">要造反？！北京官媒带头发话 各地官媒群起反攻</a></li>
 <li><a href="/sohnews/20240809/2072355.md">“更传言：习近平最终如何 将于8月15日有说法 ⋯ 😂”No.03（08/08/24）习近平中风习近平出事</a></li>
 <li><a href="/cnnews/20240809/2072409.md">什么信号？北京突然举办这一大型活动</a></li>
-<li><a href="/sohnews/20240809/2072494.md">突发：重庆坦克300上街横冲直撞，北戴河解除习的军委主席职务，江苏四川因惯蛋跟北京发生冲突。《老灯开讲第631期》</a></li>
 <li><a href="/topimagenews/20240809/2072456.md">如此不要脸！陆强制高校做这事</a></li>
+<li><a href="/sohnews/20240809/2072494.md">突发：重庆坦克300上街横冲直撞，北戴河解除习的军委主席职务，江苏四川因惯蛋跟北京发生冲突。《老灯开讲第631期》</a></li>
 <li><a href="/cnnews/20240809/2072407.md">深圳原市长陈如桂与消失的傅晓田</a></li>
 <li><a href="/topimagenews/20240809/2072391.md">惊人预言：美将迎大变局！大选前她成女总统 笑到最后的却是他</a></li>
 <li><a href="/sohnews/20240809/2072321.md">袁昊然触怒当局，真正原因是这！</a></li>
 <li><a href="/sohnews/20240809/2072404.md">颜面尽失的习特使</a></li>
 <li><a href="/sohnews/20240809/2072495.md">陈破空：传言越来越猛：老习被逼辞两职？丁薛祥代理。暂保国家主席。乌军攻势迅猛，攻占俄地400公里！直播与互动：美东时间8月9日早9点、中港台当日晚9点</a></li>
 <li><a href="/yule/20240809/2072347.md">内娱最美八女星出炉：刘亦菲落榜 第一意料外</a></li>
+<li><a href="/baitai/20240809/2072526.md">习家军全面上位 习近平依然遇挫？ 凸显北戴河会议神秘莫测 北京最高层更是动作频频 专家：很反常，这几个会开得很反常</a></li>
 <li><a href="/topimagenews/20240809/2072403.md">震惊全网！中国著名教授倒卖4000具尸体</a></li>
 <li><a href="/topimagenews/20240809/2072390.md">全红婵横扫巴黎奥运 队友爆猛料她有致命两怕</a></li>
-<li><a href="/baitai/20240809/2072526.md">习家军全面上位 习近平依然遇挫？ 凸显北戴河会议神秘莫测 北京最高层更是动作频频 专家：很反常，这几个会开得很反常</a></li>
 <li><a href="/cnnews/20240809/2072406.md">美女教师爬到副县长仅用6年 背后多位男性贵人</a></li>
 <li><a href="/topimagenews/20240809/2072381.md">震惊！俄乌交战把弹药打空了 武器大厂出大招</a></li>
+<li><a href="/sohnews/20240809/2072511.md">罹癌换肝？政变软禁？失踪统治术？解开习近平神隐之谜！红朝末日 习近平失踪成谜 夫人干政 替身露面？@democratictaiwanchannel</a></li>
 <li><a href="/yule/20240809/2072322.md">55岁陈红咋老成这样了？满脸皱纹 身形臃肿</a></li>
 <li><a href="/cbnews/20240809/2072360.md">山西奥瑞非法买卖数千具尸体 引发舆论海啸</a></li>
+<li><a href="/baitai/20240809/2072672.md">文革怪象重现 习或已失去全盘掌控</a></li>
 <li><a href="/lishi/20240809/2072413.md">共产共妻 中共高官秽乱秘闻</a></li>
-<li><a href="/sohnews/20240809/2072511.md">罹癌换肝？政变软禁？失踪统治术？解开习近平神隐之谜！红朝末日 习近平失踪成谜 夫人干政 替身露面？@democratictaiwanchannel</a></li>
 <li><a href="/sohnews/20240809/2072470.md">江绵恒和江志成父子被软禁？富可敌国的江家是怎样空手套白狼的？｜薇羽看世间 20240808</a></li>
-<li><a href="/topimagenews/20240809/2072434.md">俄本土近80年首被攻破！乌军占领近400平方公里</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240810/2072741.md" target="_blank">时事大家谈：王书君是中共秘密特工，如何看民运圈首例间谍案？</a></li>
+<li><a href="/comments/20240810/2072739.md" target="_blank">【杜耀明评论】隐不去的政治立场 避不开的诚信挑战</a></li>
 <li><a href="/comments/20240809/2072732.md" target="_blank">更开放的奥运 更封闭的中国？（戴忠仁/上官乱/陈破空）｜亚洲很想聊（2024-8-9）</a></li>
 <li><a href="/comments/20240809/2072724.md" target="_blank">时事大家谈：围绕沃尔兹的中国谜团：熊猫派还是屠龙派？王书君是中共秘密特工，如何看民运圈首例间谍案？</a></li>
 <li><a href="/comments/20240809/2072686.md" target="_blank">何清涟：这次美国大选的几个决定因素</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240809/2072556.md" target="_blank">天亮时分：“掼蛋”也涉中南海权斗？北京与地方媒体互相批驳；中共财政状况多惨？大外宣都没钱了（政论天下第1376集 20240808）天亮时分</a></li>
 <li><a href="/comments/20240809/2072472.md" target="_blank">川普召开新闻发布会，回答50分钟问题。公布3场辩论时间，抨击哈里斯18天躲避媒体。川普哈里斯电视辩论</a></li>
 <li><a href="/comments/20240809/2072393.md" target="_blank">保守派华人的心路：护卫美国自由，对抗中共微信封杀 ｜Lydid (陌上美国）｜方菲时间</a></li>
-<li><a href="/comments/20240809/2072383.md" target="_blank">钻石 不再值钱？！</a></li>
-<li><a href="/comments/20240809/2072365.md" target="_blank">【“#熊猫外交”再起？】 8月8日，两只大熊猫在 #圣地亚哥动物园 公开亮相。这对 #大熊猫 是21年来首批进入美国的熊猫。</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
+<li><a href="/comments/20240623/2053092.md" target="_blank">章天亮：那些行于世间的觉者</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
 <li><a href="/comments/20231214/1974098.md" target="_blank">美国众议院议长：我所坚守的保守主义，具体是些什么内容？</a></li>
-<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20190701/1151501.md" target="_blank">【特稿】中国共产党是邪教组织</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/topimagenews/20200514/1328456.md" target="_blank">穿越时空 谢田教授亲身体验人体特异功能</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/comments/20240703/2057730.md" target="_blank">百年梦醒（十七）：马克思的连环计、出卖灵魂</a></li>
 
 </ul>
 </div>
