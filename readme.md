@@ -7,27 +7,27 @@
 
 <li><a href="/baitai/20240809/2072304.md">美政经专家：谁将取代习近平？</a></li>
 <li><a href="/sohnews/20240808/2072174.md">军队不稳：习突然采取紧急措施，三中全会后正式开始文革，网络举报成天朝特色。《老灯开讲第630期》</a></li>
-<li><a href="/sohnews/20240808/2072196.md">普京在核武器问题上再次公开打脸习近平</a></li>
 <li><a href="/topimagenews/20240809/2072435.md">要造反？！北京官媒带头发话 各地官媒群起反攻</a></li>
+<li><a href="/sohnews/20240808/2072196.md">普京在核武器问题上再次公开打脸习近平</a></li>
 <li><a href="/finance/20240808/2072214.md">大批工人涌向郑州富士康</a></li>
 <li><a href="/cbnews/20240808/2072212.md">惊悚! 中国惊传火葬场盗卖遗体 做骨骼移植材料获利3.8亿 75人被捕</a></li>
 <li><a href="/topimagenews/20240809/2072391.md">惊人预言：美将迎大变局！大选前她成女总统 笑到最后的却是他</a></li>
 <li><a href="/topimagenews/20240808/2072210.md">F-16来了 快撤！克里米亚俄战机数量骤降2/3 5机场中2个空无一机</a></li>
-<li><a href="/cnnews/20240809/2072407.md">深圳原市长陈如桂与消失的傅晓田</a></li>
 <li><a href="/topimagenews/20240809/2072456.md">如此不要脸！陆强制高校做这事</a></li>
+<li><a href="/cnnews/20240809/2072407.md">深圳原市长陈如桂与消失的傅晓田</a></li>
 <li><a href="/sohnews/20240809/2072355.md">“更传言：习近平最终如何 将于8月15日有说法 ⋯ 😂”No.03（08/08/24）习近平中风习近平出事</a></li>
 <li><a href="/lifebaike/20240808/2072171.md">大补的鱼不是鲈鱼鲫鱼，而是这3种，强骨骼增免疫，高钙高蛋白</a></li>
 <li><a href="/yule/20240809/2072347.md">内娱最美八女星出炉：刘亦菲落榜 第一意料外</a></li>
 <li><a href="/cnnews/20240808/2072199.md">全中国只剩这一家! 曾遍布多个城市、组上海“最强天际线” 如今快撤光</a></li>
-<li><a href="/topimagenews/20240809/2072390.md">全红婵横扫巴黎奥运 队友爆猛料她有致命两怕</a></li>
 <li><a href="/sohnews/20240809/2072321.md">袁昊然触怒当局，真正原因是这！</a></li>
+<li><a href="/topimagenews/20240809/2072390.md">全红婵横扫巴黎奥运 队友爆猛料她有致命两怕</a></li>
 <li><a href="/cnnews/20240809/2072409.md">什么信号？北京突然举办这一大型活动</a></li>
 <li><a href="/topimagenews/20240809/2072403.md">震惊全网！中国著名教授倒卖4000具尸体</a></li>
 <li><a href="/baitai/20240808/2072188.md">心脏骤停前5大征兆，千万警惕</a></li>
 <li><a href="/sohnews/20240809/2072404.md">颜面尽失的习特使</a></li>
 <li><a href="/topimagenews/20240808/2072190.md">无人机打下直升机 全球首例! 乌FPV空中首杀 2磅炸弹击落12吨俄米-8</a></li>
-<li><a href="/cnnews/20240809/2072406.md">美女教师爬到副县长仅用6年 背后多位男性贵人</a></li>
 <li><a href="/topimagenews/20240809/2072381.md">震惊！俄乌交战把弹药打空了 武器大厂出大招</a></li>
+<li><a href="/cnnews/20240809/2072406.md">美女教师爬到副县长仅用6年 背后多位男性贵人</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
 <li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/ssgc/20240508/2034288.md" target="_blank">《透视“进化论”》第九章 人类起源问题的终极答案</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/cnnews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/taiwannews/20210119/1470761.md" target="_blank">独家：震撼纪录片《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/cnnews/20150914/449521.md" target="_blank">无神论和有神论，乡下老太太驳倒三个博士</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
+<li><a href="/comments/20231214/1974098.md" target="_blank">美国众议院议长：我所坚守的保守主义，具体是些什么内容？</a></li>
+<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
 
 </ul>
 </div>
