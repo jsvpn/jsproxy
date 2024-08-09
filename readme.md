@@ -10,14 +10,12 @@
 <li><a href="/sohnews/20240809/2072494.md">突发：重庆坦克300上街横冲直撞，北戴河解除习的军委主席职务，江苏四川因惯蛋跟北京发生冲突。《老灯开讲第631期》</a></li>
 <li><a href="/topimagenews/20240809/2072456.md">如此不要脸！陆强制高校做这事</a></li>
 <li><a href="/cnnews/20240809/2072407.md">深圳原市长陈如桂与消失的傅晓田</a></li>
-<li><a href="/topimagenews/20240809/2072391.md">惊人预言：美将迎大变局！大选前她成女总统 笑到最后的却是他</a></li>
 <li><a href="/sohnews/20240809/2072404.md">颜面尽失的习特使</a></li>
 <li><a href="/sohnews/20240809/2072495.md">陈破空：传言越来越猛：老习被逼辞两职？丁薛祥代理。暂保国家主席。乌军攻势迅猛，攻占俄地400公里！直播与互动：美东时间8月9日早9点、中港台当日晚9点</a></li>
 <li><a href="/baitai/20240809/2072526.md">习家军全面上位 习近平依然遇挫？ 凸显北戴河会议神秘莫测 北京最高层更是动作频频 专家：很反常，这几个会开得很反常</a></li>
 <li><a href="/baitai/20240809/2072672.md">文革怪象重现 习或已失去全盘掌控</a></li>
 <li><a href="/topimagenews/20240809/2072403.md">震惊全网！中国著名教授倒卖4000具尸体</a></li>
 <li><a href="/sohnews/20240809/2072511.md">罹癌换肝？政变软禁？失踪统治术？解开习近平神隐之谜！红朝末日 习近平失踪成谜 夫人干政 替身露面？@democratictaiwanchannel</a></li>
-<li><a href="/topimagenews/20240809/2072390.md">全红婵横扫巴黎奥运 队友爆猛料她有致命两怕</a></li>
 <li><a href="/topimagenews/20240809/2072572.md">向中共总理李强喊话 知名企业家顾雏军发举报信</a></li>
 <li><a href="/cnnews/20240809/2072406.md">美女教师爬到副县长仅用6年 背后多位男性贵人</a></li>
 <li><a href="/topimagenews/20240809/2072571.md">被以色列公布这张图吓坏了？伊朗不敢报复攻以 还与美这强硬表态有关...</a></li>
@@ -28,6 +26,8 @@
 <li><a href="/cnnews/20240809/2072410.md">杭州女便秘20多年险撑爆肚子 开刀惊见巨蟒肠</a></li>
 <li><a href="/cbnews/20240809/2072531.md">〖红朝浮世绘〗围美救赵 秋后算账</a></li>
 <li><a href="/topimagenews/20240809/2072434.md">俄本土近80年首被攻破！乌军占领近400平方公里</a></li>
+<li><a href="/cbnews/20240809/2072436.md">数个神秘超大圆柱体 美卫星发现新疆荒漠秘密</a></li>
+<li><a href="/cbnews/20240809/2072457.md">新冠变种凶猛 中国多地医院殡仪馆爆满</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240810/2072865.md" target="_blank">中共寝食难安！揭秘中共跨国迫害最新计划</a></li>
+<li><a href="/cbnews/20240810/2072864.md" target="_blank">新冠阳性率攀升 警察染疫身亡</a></li>
+<li><a href="/cbnews/20240810/2072863.md" target="_blank">贵州三穗县龙庭大桥瞬间垮塌</a></li>
 <li><a href="/comments/20240810/2072792.md" target="_blank">川普发起三场电视辩论，真正原因揭秘。哈里斯选择性回应。宾州警方发布枪击案震撼视频，责任一目了然。川普哈里斯美国大选</a></li>
 <li><a href="/cbnews/20240809/2072728.md" target="_blank">陆媒报道被急速404 央企买尸大案水有多深？</a></li>
 <li><a href="/cbnews/20240809/2072683.md" target="_blank">用遗体作骨骼移植材料 民众吃肉惊见钢钉</a></li>
@@ -57,9 +60,6 @@
 <li><a href="/cbnews/20240809/2072555.md" target="_blank">江峰：坦克攻入俄国！总参谋长当面撒谎，普京搓火；俄居民逃离，嚐战争滋味；乌军20小时突破俄军两道上亿美元防线，直逼库尔斯克核电站；泽连斯基面对胜利为何一直沉默【江峰漫谈20240808第912期】</a></li>
 <li><a href="/cbnews/20240809/2072531.md" target="_blank">〖红朝浮世绘〗围美救赵 秋后算账</a></li>
 <li><a href="/comments/20240809/2072472.md" target="_blank">川普召开新闻发布会，回答50分钟问题。公布3场辩论时间，抨击哈里斯18天躲避媒体。川普哈里斯电视辩论</a></li>
-<li><a href="/cbnews/20240809/2072458.md" target="_blank">怒火攻心 中共国台办上演“大戏”</a></li>
-<li><a href="/cbnews/20240809/2072457.md" target="_blank">新冠变种凶猛 中国多地医院殡仪馆爆满</a></li>
-<li><a href="/cbnews/20240809/2072437.md" target="_blank">美全方位打击中共渗透 华人如何应对中共诱惑</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
-<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
 <li><a href="/comments/20231220/1976789.md" target="_blank">大陆医生曝：九价HPV疫苗导致怀孕能力下降40%</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
+<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
+<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
 <li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/comments/20231207/1970628.md" target="_blank">民兵对官军，希望之声打造广播界的奇蹟【方伟时间-20231206】</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/comments/20231213/1973586.md" target="_blank">六道轮回之畜生道</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
 
 </ul>
 </div>
