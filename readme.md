@@ -8,9 +8,9 @@
 <li><a href="/baitai/20240809/2072304.md">美政经专家：谁将取代习近平？</a></li>
 <li><a href="/topimagenews/20240809/2072435.md">要造反？！北京官媒带头发话 各地官媒群起反攻</a></li>
 <li><a href="/sohnews/20240809/2072355.md">“更传言：习近平最终如何 将于8月15日有说法 ⋯ 😂”No.03（08/08/24）习近平中风习近平出事</a></li>
+<li><a href="/cnnews/20240809/2072409.md">什么信号？北京突然举办这一大型活动</a></li>
 <li><a href="/sohnews/20240809/2072494.md">突发：重庆坦克300上街横冲直撞，北戴河解除习的军委主席职务，江苏四川因惯蛋跟北京发生冲突。《老灯开讲第631期》</a></li>
 <li><a href="/topimagenews/20240809/2072456.md">如此不要脸！陆强制高校做这事</a></li>
-<li><a href="/cnnews/20240809/2072409.md">什么信号？北京突然举办这一大型活动</a></li>
 <li><a href="/cnnews/20240809/2072407.md">深圳原市长陈如桂与消失的傅晓田</a></li>
 <li><a href="/topimagenews/20240809/2072391.md">惊人预言：美将迎大变局！大选前她成女总统 笑到最后的却是他</a></li>
 <li><a href="/sohnews/20240809/2072321.md">袁昊然触怒当局，真正原因是这！</a></li>
@@ -19,14 +19,14 @@
 <li><a href="/yule/20240809/2072347.md">内娱最美八女星出炉：刘亦菲落榜 第一意料外</a></li>
 <li><a href="/topimagenews/20240809/2072403.md">震惊全网！中国著名教授倒卖4000具尸体</a></li>
 <li><a href="/topimagenews/20240809/2072390.md">全红婵横扫巴黎奥运 队友爆猛料她有致命两怕</a></li>
-<li><a href="/cnnews/20240809/2072406.md">美女教师爬到副县长仅用6年 背后多位男性贵人</a></li>
 <li><a href="/baitai/20240809/2072526.md">习家军全面上位 习近平依然遇挫？ 凸显北戴河会议神秘莫测 北京最高层更是动作频频 专家：很反常，这几个会开得很反常</a></li>
+<li><a href="/cnnews/20240809/2072406.md">美女教师爬到副县长仅用6年 背后多位男性贵人</a></li>
 <li><a href="/topimagenews/20240809/2072381.md">震惊！俄乌交战把弹药打空了 武器大厂出大招</a></li>
 <li><a href="/yule/20240809/2072322.md">55岁陈红咋老成这样了？满脸皱纹 身形臃肿</a></li>
 <li><a href="/cbnews/20240809/2072360.md">山西奥瑞非法买卖数千具尸体 引发舆论海啸</a></li>
 <li><a href="/lishi/20240809/2072413.md">共产共妻 中共高官秽乱秘闻</a></li>
-<li><a href="/sohnews/20240809/2072470.md">江绵恒和江志成父子被软禁？富可敌国的江家是怎样空手套白狼的？｜薇羽看世间 20240808</a></li>
 <li><a href="/sohnews/20240809/2072511.md">罹癌换肝？政变软禁？失踪统治术？解开习近平神隐之谜！红朝末日 习近平失踪成谜 夫人干政 替身露面？@democratictaiwanchannel</a></li>
+<li><a href="/sohnews/20240809/2072470.md">江绵恒和江志成父子被软禁？富可敌国的江家是怎样空手套白狼的？｜薇羽看世间 20240808</a></li>
 <li><a href="/topimagenews/20240809/2072434.md">俄本土近80年首被攻破！乌军占领近400平方公里</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240809/2072732.md" target="_blank">更开放的奥运 更封闭的中国？（戴忠仁/上官乱/陈破空）｜亚洲很想聊（2024-8-9）</a></li>
 <li><a href="/comments/20240809/2072724.md" target="_blank">时事大家谈：围绕沃尔兹的中国谜团：熊猫派还是屠龙派？王书君是中共秘密特工，如何看民运圈首例间谍案？</a></li>
 <li><a href="/comments/20240809/2072686.md" target="_blank">何清涟：这次美国大选的几个决定因素</a></li>
 <li><a href="/comments/20240809/2072681.md" target="_blank">天亮时分：「打狗不看主人」？地方与北京媒体唱反调</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240809/2072393.md" target="_blank">保守派华人的心路：护卫美国自由，对抗中共微信封杀 ｜Lydid (陌上美国）｜方菲时间</a></li>
 <li><a href="/comments/20240809/2072383.md" target="_blank">钻石 不再值钱？！</a></li>
 <li><a href="/comments/20240809/2072365.md" target="_blank">【“#熊猫外交”再起？】 8月8日，两只大熊猫在 #圣地亚哥动物园 公开亮相。这对 #大熊猫 是21年来首批进入美国的熊猫。</a></li>
-<li><a href="/comments/20240809/2072353.md" target="_blank">【台湾拳击手林郁婷挺进决赛】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20231130/1967587.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （一）</a></li>
-<li><a href="/comments/20231204/1969287.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （三）</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20231214/1974098.md" target="_blank">美国众议院议长：我所坚守的保守主义，具体是些什么内容？</a></li>
+<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
 <li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20190701/1151501.md" target="_blank">【特稿】中国共产党是邪教组织</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
 
 </ul>
 </div>
