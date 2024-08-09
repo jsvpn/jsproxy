@@ -9,25 +9,25 @@
 <li><a href="/sohnews/20240808/2072174.md">军队不稳：习突然采取紧急措施，三中全会后正式开始文革，网络举报成天朝特色。《老灯开讲第630期》</a></li>
 <li><a href="/baitai/20240809/2072304.md">美政经专家：谁将取代习近平？</a></li>
 <li><a href="/sohnews/20240808/2072196.md">普京在核武器问题上再次公开打脸习近平</a></li>
-<li><a href="/ssgc/20240808/2072077.md">〖微博谈〗这才是当代的终极良民证</a></li>
 <li><a href="/topimagenews/20240808/2072112.md">上一次是希特勒！ 二战后首度外国战车攻入俄境 库尔斯克居民吓坏了</a></li>
-<li><a href="/cbnews/20240808/2072212.md">惊悚! 中国惊传火葬场盗卖遗体 做骨骼移植材料获利3.8亿 75人被捕</a></li>
 <li><a href="/sohnews/20240808/2072138.md">陈破空：内幕：习遭军方抛弃？原因多重。中朝关系突变！边境打桩。乌军闪电攻入俄罗斯 ，普京竟要求国际谴责。直播与互动：美东时间8月8日早9点、中港台当日晚9点</a></li>
 <li><a href="/finance/20240808/2072214.md">大批工人涌向郑州富士康</a></li>
+<li><a href="/cbnews/20240808/2072212.md">惊悚! 中国惊传火葬场盗卖遗体 做骨骼移植材料获利3.8亿 75人被捕</a></li>
 <li><a href="/topimagenews/20240808/2072210.md">F-16来了 快撤！克里米亚俄战机数量骤降2/3 5机场中2个空无一机</a></li>
 <li><a href="/topimagenews/20240808/2072135.md">普京发飙了! 竟让乌军攻入库尔斯克 俄副防长在紧急会议上称已挡住</a></li>
 <li><a href="/topimagenews/20240809/2072391.md">惊人预言：美将迎大变局！大选前她成女总统 笑到最后的却是他</a></li>
+<li><a href="/sohnews/20240809/2072355.md">“更传言：习近平最终如何 将于8月15日有说法 ⋯ 😂”No.03（08/08/24）习近平中风习近平出事</a></li>
+<li><a href="/topimagenews/20240809/2072435.md">要造反？！北京官媒带头发话 各地官媒群起反攻</a></li>
 <li><a href="/lifebaike/20240808/2072171.md">大补的鱼不是鲈鱼鲫鱼，而是这3种，强骨骼增免疫，高钙高蛋白</a></li>
 <li><a href="/yule/20240809/2072347.md">内娱最美八女星出炉：刘亦菲落榜 第一意料外</a></li>
 <li><a href="/cnnews/20240808/2072199.md">全中国只剩这一家! 曾遍布多个城市、组上海“最强天际线” 如今快撤光</a></li>
-<li><a href="/sohnews/20240809/2072355.md">“更传言：习近平最终如何 将于8月15日有说法 ⋯ 😂”No.03（08/08/24）习近平中风习近平出事</a></li>
 <li><a href="/sohnews/20240809/2072321.md">袁昊然触怒当局，真正原因是这！</a></li>
-<li><a href="/topimagenews/20240809/2072435.md">要造反？！北京官媒带头发话 各地官媒群起反攻</a></li>
 <li><a href="/baitai/20240808/2072188.md">心脏骤停前5大征兆，千万警惕</a></li>
 <li><a href="/topimagenews/20240808/2072111.md">报复恐招来毁灭性后果… 伊朗总统恳求最高领袖不要打以色列</a></li>
 <li><a href="/topimagenews/20240808/2072190.md">无人机打下直升机 全球首例! 乌FPV空中首杀 2磅炸弹击落12吨俄米-8</a></li>
 <li><a href="/baitai/20240808/2072157.md">金融领域成中共反腐重点 暗藏习近平惊人目的？</a></li>
 <li><a href="/yule/20240809/2072322.md">55岁陈红咋老成这样了？满脸皱纹 身形臃肿</a></li>
+<li><a href="/cbnews/20240808/2072281.md">陈文清王小洪被列“恶人榜”递44国备制裁</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20240808/2071869.md" target="_blank">【新纪元】被误解的大脑</a></li>
-<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
 <li><a href="/comments/20231207/1970628.md" target="_blank">民兵对官军，希望之声打造广播界的奇蹟【方伟时间-20231206】</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20231220/1976683.md" target="_blank">医山夜话：张锡纯医案解读（二）根治胃气不降之证</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/comments/20240703/2057730.md" target="_blank">百年梦醒（十七）：马克思的连环计、出卖灵魂</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20240704/2058130.md" target="_blank">百年梦醒（十八）：共产魔教的机制、前所未有的巨大野心</a></li>
+<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
 
 </ul>
 </div>
