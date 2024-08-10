@@ -8,26 +8,26 @@
 <li><a href="/baitai/20240809/2072672.md">文革怪象重现 习或已失去全盘掌控</a></li>
 <li><a href="/sohnews/20240810/2072824.md">“网络炸传💥 上将之子杨小平宣告：本月将爆出比奥运 俄乌战争的最惊爆国内新闻！”No.03（09/08/24）习近平习近平出事习近平中风习近平下台</a></li>
 <li><a href="/sohnews/20240810/2072841.md">“3权分属3个人 ⋯ 九名常委：很像军政权过度结构”No.04（09/08/24）习近平习近平出事习近平中风习近平下台</a></li>
-<li><a href="/sohnews/20240809/2072598.md">文睿：人民日报，突然出现严重异常</a></li>
 <li><a href="/topimagenews/20240810/2072921.md">习近平认错，恐怕为时已晚</a></li>
 <li><a href="/sohnews/20240810/2072828.md">“传王小洪顶掉蔡奇 ⋯ 习近平中风后 只能军头主持！”No.04（09/08/24）习近平习近平出事习近平中风习近平下台</a></li>
-<li><a href="/topimagenews/20240810/2072862.md">中国炭疽疫情已扩散 张文宏呼吁…</a></li>
 <li><a href="/comments/20240810/2073031.md">丁薛祥代理总书记及军委主席？习近平成了中共的敌人？</a></li>
+<li><a href="/topimagenews/20240810/2072862.md">中国炭疽疫情已扩散 张文宏呼吁…</a></li>
 <li><a href="/topimagenews/20240810/2072896.md">双汇火腿肠出大事儿了 惊现尸块、眼睛？</a></li>
 <li><a href="/comments/20240810/2073033.md">习近平的最新情况！军方将领不想再找一位新的独裁大哥了！</a></li>
-<li><a href="/comments/20240810/2073029.md">8月9日，习近平的最新动态！</a></li>
 <li><a href="/comments/20240810/2073030.md">传言，王小洪因参与政变有功，出任中央办公厅主任。蔡奇因反政变失败，被军方控制。</a></li>
-<li><a href="/baitai/20240810/2072844.md">英媒：北戴会议习近平能改变方向吗？</a></li>
+<li><a href="/comments/20240810/2073029.md">8月9日，习近平的最新动态！</a></li>
 <li><a href="/comments/20240810/2072884.md">普京准备跑路？金正恩为难了</a></li>
+<li><a href="/baitai/20240810/2072844.md">英媒：北戴会议习近平能改变方向吗？</a></li>
 <li><a href="/topimagenews/20240810/2072982.md">日本姐姐营救中国妹妹 日多位议员到东京中共大使馆前要求无条件释放</a></li>
 <li><a href="/comments/20240810/2072895.md">文昭：离奇放假、军队异动，中南海有大事发生？一股新力量放倒独裁者</a></li>
 <li><a href="/baitai/20240810/2072856.md">中国奥运史上最年轻三金得主 17岁全红婵一句老实话震惊体坛</a></li>
 <li><a href="/comments/20240810/2072899.md">重大异常信号！内战？三战？铁链部门集体随时待命…</a></li>
 <li><a href="/topimagenews/20240810/2072924.md">乌军打到俄国本土后，扎哈罗娃闹了一个大笑话</a></li>
-<li><a href="/cnnews/20240810/2072866.md">“白富美”陈梦到底多有钱？一个水杯6千元</a></li>
 <li><a href="/comments/20240810/2073035.md">呼吁解放军将领及全体官兵，不要再相信任何独裁者了。</a></li>
+<li><a href="/cnnews/20240810/2072866.md">“白富美”陈梦到底多有钱？一个水杯6千元</a></li>
 <li><a href="/topimagenews/20240810/2072933.md">两万乌军围攻库尔斯克</a></li>
 <li><a href="/topimagenews/20240810/2072799.md">库尔斯克之战第4日，乌军连下27城</a></li>
+<li><a href="/yule/20240810/2072769.md">左小青含泪谈家庭 提起63岁富豪老公梨花带雨</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/comments/20240723/2065714.md" target="_blank">台湾民视：解谜法轮功 气功或宗教？</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
-<li><a href="/taiwannews/20210119/1470761.md" target="_blank">独家：震撼纪录片《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
+<li><a href="/comments/20231207/1970628.md" target="_blank">民兵对官军，希望之声打造广播界的奇蹟【方伟时间-20231206】</a></li>
+<li><a href="/cnnews/20150914/449521.md" target="_blank">无神论和有神论，乡下老太太驳倒三个博士</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/sohnews/20160119/493472.md" target="_blank">无效的医疗：手术刀下的谎言和药瓶里的欺骗</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
 <li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
 
 </ul>
 </div>
