@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/baitai/20240809/2072526.md">习家军全面上位 习近平依然遇挫？ 凸显北戴河会议神秘莫测 北京最高层更是动作频频 专家：很反常，这几个会开得很反常</a></li>
 <li><a href="/baitai/20240809/2072672.md">文革怪象重现 习或已失去全盘掌控</a></li>
 <li><a href="/sohnews/20240810/2072824.md">“网络炸传💥 上将之子杨小平宣告：本月将爆出比奥运 俄乌战争的最惊爆国内新闻！”No.03（09/08/24）习近平习近平出事习近平中风习近平下台</a></li>
 <li><a href="/topimagenews/20240810/2072921.md">习近平认错，恐怕为时已晚</a></li>
-<li><a href="/sohnews/20240809/2072511.md">罹癌换肝？政变软禁？失踪统治术？解开习近平神隐之谜！红朝末日 习近平失踪成谜 夫人干政 替身露面？@democratictaiwanchannel</a></li>
 <li><a href="/sohnews/20240809/2072598.md">文睿：人民日报，突然出现严重异常</a></li>
 <li><a href="/sohnews/20240810/2072841.md">“3权分属3个人 ⋯ 九名常委：很像军政权过度结构”No.04（09/08/24）习近平习近平出事习近平中风习近平下台</a></li>
 <li><a href="/sohnews/20240810/2072828.md">“传王小洪顶掉蔡奇 ⋯ 习近平中风后 只能军头主持！”No.04（09/08/24）习近平习近平出事习近平中风习近平下台</a></li>
-<li><a href="/topimagenews/20240809/2072572.md">向中共总理李强喊话 知名企业家顾雏军发举报信</a></li>
 <li><a href="/topimagenews/20240810/2072862.md">中国炭疽疫情已扩散 张文宏呼吁…</a></li>
+<li><a href="/topimagenews/20240809/2072572.md">向中共总理李强喊话 知名企业家顾雏军发举报信</a></li>
 <li><a href="/topimagenews/20240810/2072896.md">双汇火腿肠出大事儿了 惊现尸块、眼睛？</a></li>
-<li><a href="/topimagenews/20240809/2072571.md">被以色列公布这张图吓坏了？伊朗不敢报复攻以 还与美这强硬表态有关...</a></li>
 <li><a href="/comments/20240810/2073031.md">丁薛祥代理总书记及军委主席？习近平成了中共的敌人？</a></li>
-<li><a href="/baitai/20240809/2072527.md">北京试点中考改革 外界忧：毛时代重返</a></li>
-<li><a href="/baitai/20240810/2072844.md">英媒：北戴会议习近平能改变方向吗？</a></li>
-<li><a href="/cbnews/20240809/2072531.md">〖红朝浮世绘〗围美救赵 秋后算账</a></li>
-<li><a href="/comments/20240810/2072884.md">普京准备跑路？金正恩为难了</a></li>
+<li><a href="/topimagenews/20240809/2072571.md">被以色列公布这张图吓坏了？伊朗不敢报复攻以 还与美这强硬表态有关...</a></li>
 <li><a href="/comments/20240810/2073033.md">习近平的最新情况！军方将领不想再找一位新的独裁大哥了！</a></li>
-<li><a href="/topimagenews/20240810/2072982.md">日本姐姐营救中国妹妹 日多位议员到东京中共大使馆前要求无条件释放</a></li>
-<li><a href="/comments/20240810/2072895.md">文昭：离奇放假、军队异动，中南海有大事发生？一股新力量放倒独裁者</a></li>
+<li><a href="/baitai/20240810/2072844.md">英媒：北戴会议习近平能改变方向吗？</a></li>
+<li><a href="/comments/20240810/2072884.md">普京准备跑路？金正恩为难了</a></li>
 <li><a href="/comments/20240810/2073029.md">8月9日，习近平的最新动态！</a></li>
 <li><a href="/comments/20240810/2073030.md">传言，王小洪因参与政变有功，出任中央办公厅主任。蔡奇因反政变失败，被军方控制。</a></li>
+<li><a href="/topimagenews/20240810/2072982.md">日本姐姐营救中国妹妹 日多位议员到东京中共大使馆前要求无条件释放</a></li>
+<li><a href="/comments/20240810/2072895.md">文昭：离奇放假、军队异动，中南海有大事发生？一股新力量放倒独裁者</a></li>
 <li><a href="/comments/20240810/2072899.md">重大异常信号！内战？三战？铁链部门集体随时待命…</a></li>
+<li><a href="/topimagenews/20240810/2072924.md">乌军打到俄国本土后，扎哈罗娃闹了一个大笑话</a></li>
+<li><a href="/baitai/20240810/2072856.md">中国奥运史上最年轻三金得主 17岁全红婵一句老实话震惊体坛</a></li>
+<li><a href="/cnnews/20240810/2072866.md">“白富美”陈梦到底多有钱？一个水杯6千元</a></li>
+<li><a href="/topimagenews/20240810/2072933.md">两万乌军围攻库尔斯克</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240810/2073084.md" target="_blank">杨金一重大举措，川普称赞干得好！哈里斯小额捐款平台被查，真相令人震惊。一投票机老板被查处。川普哈里斯美国大选</a></li>
 <li><a href="/comments/20240810/2073035.md" target="_blank">呼吁解放军将领及全体官兵，不要再相信任何独裁者了。</a></li>
 <li><a href="/comments/20240810/2073034.md" target="_blank">王书君被定罪。我亲身经历的王书君背后的故事。中共在美国建立了100多个中国民主党组织。</a></li>
 <li><a href="/comments/20240810/2073033.md" target="_blank">习近平的最新情况！军方将领不想再找一位新的独裁大哥了！</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240810/2072961.md" target="_blank">山东版“周公子”！“厅长叔叔说，两年内让我干上国企集团董事长”</a></li>
 <li><a href="/cbnews/20240810/2072960.md" target="_blank">中企盗卖尸体案震惊海内外 更多案情细节曝光</a></li>
 <li><a href="/cbnews/20240810/2072959.md" target="_blank">停飞中国为何成风？</a></li>
-<li><a href="/comments/20240810/2072930.md" target="_blank">性别争议拳手 打倒四位女生抢到金牌</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240810/2073084.md" target="_blank">杨金一重大举措，川普称赞干得好！哈里斯小额捐款平台被查，真相令人震惊。一投票机老板被查处。川普哈里斯美国大选</a></li>
+<li><a href="/comments/20240810/2073082.md" target="_blank">袁红冰：《唯美之灵》 第七卷 在死亡之巅凝视生命的意义（第二部分）</a></li>
 <li><a href="/comments/20240810/2073035.md" target="_blank">呼吁解放军将领及全体官兵，不要再相信任何独裁者了。</a></li>
 <li><a href="/comments/20240810/2073034.md" target="_blank">王书君被定罪。我亲身经历的王书君背后的故事。中共在美国建立了100多个中国民主党组织。</a></li>
 <li><a href="/comments/20240810/2073033.md" target="_blank">习近平的最新情况！军方将领不想再找一位新的独裁大哥了！</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240810/2072877.md" target="_blank">【性别疑云中，#林郁婷、#哈利夫 打进决赛】 您会为她们加油吗？</a></li>
 <li><a href="/comments/20240810/2072876.md" target="_blank">【奥运接近尾声 再聊 “举国体制”】 本台记者王允 @Jeff23Wang ：#举国体制，#金牌战略 在中国根深蒂固。</a></li>
 <li><a href="/comments/20240810/2072860.md" target="_blank">天亮时分：美国中文电视，中共海外党媒的运作 #天亮时分 美国中文电视 #党媒</a></li>
-<li><a href="/comments/20240810/2072794.md" target="_blank">中国威胁印太 加拿大和澳大利亚联手国防合作</a></li>
-<li><a href="/comments/20240810/2072793.md" target="_blank">专栏 &#8211; 财经时时听：铁饭碗也砸了！山东率先全面将事业单位转制为企业</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20240715/2062387.md" target="_blank">尧帝治世之道（一）</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20240412/2024185.md" target="_blank">是治疗还是屠杀?化疗药品滴一滴在皮肤即灼伤，很长时间才好</a></li>
-<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20240801/2069416.md" target="_blank">无神论和有神论深度解析</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20240116/1984226.md" target="_blank">湖北老河口遇仙记</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20240318/2014289.md" target="_blank">唐柏桥：民运同仁突然向法轮功开火是怎么回事？</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
 <li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20240412/2024185.md" target="_blank">是治疗还是屠杀?化疗药品滴一滴在皮肤即灼伤，很长时间才好</a></li>
+<li><a href="/sohnews/20160119/493472.md" target="_blank">无效的医疗：手术刀下的谎言和药瓶里的欺骗</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
 
 </ul>
 </div>
