@@ -10,23 +10,23 @@
 <li><a href="/baitai/20240809/2072526.md">习家军全面上位 习近平依然遇挫？ 凸显北戴河会议神秘莫测 北京最高层更是动作频频 专家：很反常，这几个会开得很反常</a></li>
 <li><a href="/baitai/20240809/2072672.md">文革怪象重现 习或已失去全盘掌控</a></li>
 <li><a href="/sohnews/20240810/2072824.md">“网络炸传💥 上将之子杨小平宣告：本月将爆出比奥运 俄乌战争的最惊爆国内新闻！”No.03（09/08/24）习近平习近平出事习近平中风习近平下台</a></li>
-<li><a href="/sohnews/20240810/2072841.md">“3权分属3个人 ⋯ 九名常委：很像军政权过度结构”No.04（09/08/24）习近平习近平出事习近平中风习近平下台</a></li>
 <li><a href="/sohnews/20240809/2072511.md">罹癌换肝？政变软禁？失踪统治术？解开习近平神隐之谜！红朝末日 习近平失踪成谜 夫人干政 替身露面？@democratictaiwanchannel</a></li>
+<li><a href="/sohnews/20240810/2072841.md">“3权分属3个人 ⋯ 九名常委：很像军政权过度结构”No.04（09/08/24）习近平习近平出事习近平中风习近平下台</a></li>
 <li><a href="/sohnews/20240809/2072598.md">文睿：人民日报，突然出现严重异常</a></li>
 <li><a href="/topimagenews/20240810/2072862.md">中国炭疽疫情已扩散 张文宏呼吁…</a></li>
-<li><a href="/sohnews/20240810/2072828.md">“传王小洪顶掉蔡奇 ⋯ 习近平中风后 只能军头主持！”No.04（09/08/24）习近平习近平出事习近平中风习近平下台</a></li>
-<li><a href="/topimagenews/20240809/2072572.md">向中共总理李强喊话 知名企业家顾雏军发举报信</a></li>
 <li><a href="/topimagenews/20240810/2072921.md">习近平认错，恐怕为时已晚</a></li>
+<li><a href="/topimagenews/20240809/2072572.md">向中共总理李强喊话 知名企业家顾雏军发举报信</a></li>
+<li><a href="/sohnews/20240810/2072828.md">“传王小洪顶掉蔡奇 ⋯ 习近平中风后 只能军头主持！”No.04（09/08/24）习近平习近平出事习近平中风习近平下台</a></li>
 <li><a href="/topimagenews/20240809/2072571.md">被以色列公布这张图吓坏了？伊朗不敢报复攻以 还与美这强硬表态有关...</a></li>
-<li><a href="/baitai/20240809/2072527.md">北京试点中考改革 外界忧：毛时代重返</a></li>
 <li><a href="/topimagenews/20240810/2072896.md">双汇火腿肠出大事儿了 惊现尸块、眼睛？</a></li>
+<li><a href="/baitai/20240809/2072527.md">北京试点中考改革 外界忧：毛时代重返</a></li>
 <li><a href="/cbnews/20240809/2072531.md">〖红朝浮世绘〗围美救赵 秋后算账</a></li>
-<li><a href="/baitai/20240810/2072844.md">英媒：北戴会议习近平能改变方向吗？</a></li>
 <li><a href="/comments/20240810/2072884.md">普京准备跑路？金正恩为难了</a></li>
+<li><a href="/baitai/20240810/2072844.md">英媒：北戴会议习近平能改变方向吗？</a></li>
 <li><a href="/baitai/20240810/2072856.md">中国奥运史上最年轻三金得主 17岁全红婵一句老实话震惊体坛</a></li>
+<li><a href="/comments/20240810/2072895.md">文昭：离奇放假、军队异动，中南海有大事发生？一股新力量放倒独裁者</a></li>
 <li><a href="/cnnews/20240810/2072866.md">“白富美”陈梦到底多有钱？一个水杯6千元</a></li>
 <li><a href="/yule/20240810/2072769.md">左小青含泪谈家庭 提起63岁富豪老公梨花带雨</a></li>
-<li><a href="/comments/20240810/2072895.md">文昭：离奇放假、军队异动，中南海有大事发生？一股新力量放倒独裁者</a></li>
 <li><a href="/topimagenews/20240810/2072799.md">库尔斯克之战第4日，乌军连下27城</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/ssgc/20240508/2034288.md" target="_blank">《透视“进化论”》第九章 人类起源问题的终极答案</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/cbnews/20240715/2062387.md" target="_blank">尧帝治世之道（一）</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
 <li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
 <li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20240403/2020547.md" target="_blank">纪录片：DSM诊断与统计手册-精神病学最要命的骗局</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20231220/1976789.md" target="_blank">大陆医生曝：九价HPV疫苗导致怀孕能力下降40%</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
 
 </ul>
 </div>
