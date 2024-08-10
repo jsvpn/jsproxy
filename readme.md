@@ -12,9 +12,9 @@
 <li><a href="/sohnews/20240809/2072511.md">罹癌换肝？政变软禁？失踪统治术？解开习近平神隐之谜！红朝末日 习近平失踪成谜 夫人干政 替身露面？@democratictaiwanchannel</a></li>
 <li><a href="/sohnews/20240809/2072598.md">文睿：人民日报，突然出现严重异常</a></li>
 <li><a href="/sohnews/20240810/2072841.md">“3权分属3个人 ⋯ 九名常委：很像军政权过度结构”No.04（09/08/24）习近平习近平出事习近平中风习近平下台</a></li>
-<li><a href="/sohnews/20240810/2072828.md">“传王小洪顶掉蔡奇 ⋯ 习近平中风后 只能军头主持！”No.04（09/08/24）习近平习近平出事习近平中风习近平下台</a></li>
-<li><a href="/topimagenews/20240809/2072572.md">向中共总理李强喊话 知名企业家顾雏军发举报信</a></li>
 <li><a href="/topimagenews/20240810/2072862.md">中国炭疽疫情已扩散 张文宏呼吁…</a></li>
+<li><a href="/topimagenews/20240809/2072572.md">向中共总理李强喊话 知名企业家顾雏军发举报信</a></li>
+<li><a href="/sohnews/20240810/2072828.md">“传王小洪顶掉蔡奇 ⋯ 习近平中风后 只能军头主持！”No.04（09/08/24）习近平习近平出事习近平中风习近平下台</a></li>
 <li><a href="/topimagenews/20240809/2072571.md">被以色列公布这张图吓坏了？伊朗不敢报复攻以 还与美这强硬表态有关...</a></li>
 <li><a href="/topimagenews/20240810/2072896.md">双汇火腿肠出大事儿了 惊现尸块、眼睛？</a></li>
 <li><a href="/baitai/20240809/2072527.md">北京试点中考改革 外界忧：毛时代重返</a></li>
@@ -22,12 +22,12 @@
 <li><a href="/comments/20240810/2072884.md">普京准备跑路？金正恩为难了</a></li>
 <li><a href="/baitai/20240810/2072844.md">英媒：北戴会议习近平能改变方向吗？</a></li>
 <li><a href="/comments/20240810/2072895.md">文昭：离奇放假、军队异动，中南海有大事发生？一股新力量放倒独裁者</a></li>
-<li><a href="/comments/20240810/2072899.md">重大异常信号！内战？三战？铁链部门集体随时待命…</a></li>
 <li><a href="/topimagenews/20240810/2072924.md">乌军打到俄国本土后，扎哈罗娃闹了一个大笑话</a></li>
+<li><a href="/comments/20240810/2072899.md">重大异常信号！内战？三战？铁链部门集体随时待命…</a></li>
 <li><a href="/baitai/20240810/2072856.md">中国奥运史上最年轻三金得主 17岁全红婵一句老实话震惊体坛</a></li>
 <li><a href="/topimagenews/20240810/2072982.md">日本姐姐营救中国妹妹 日多位议员到东京中共大使馆前要求无条件释放</a></li>
-<li><a href="/cnnews/20240810/2072866.md">“白富美”陈梦到底多有钱？一个水杯6千元</a></li>
 <li><a href="/yule/20240810/2072769.md">左小青含泪谈家庭 提起63岁富豪老公梨花带雨</a></li>
+<li><a href="/topimagenews/20240810/2072799.md">库尔斯克之战第4日，乌军连下27城</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/cnnews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
 <li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
 <li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
 
 </ul>
 </div>
