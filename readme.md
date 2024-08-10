@@ -8,8 +8,8 @@
 <li><a href="/sohnews/20240809/2072494.md">突发：重庆坦克300上街横冲直撞，北戴河解除习的军委主席职务，江苏四川因惯蛋跟北京发生冲突。《老灯开讲第631期》</a></li>
 <li><a href="/sohnews/20240809/2072495.md">陈破空：传言越来越猛：老习被逼辞两职？丁薛祥代理。暂保国家主席。乌军攻势迅猛，攻占俄地400公里！直播与互动：美东时间8月9日早9点、中港台当日晚9点</a></li>
 <li><a href="/baitai/20240809/2072526.md">习家军全面上位 习近平依然遇挫？ 凸显北戴河会议神秘莫测 北京最高层更是动作频频 专家：很反常，这几个会开得很反常</a></li>
-<li><a href="/baitai/20240809/2072672.md">文革怪象重现 习或已失去全盘掌控</a></li>
 <li><a href="/sohnews/20240810/2072824.md">“网络炸传💥 上将之子杨小平宣告：本月将爆出比奥运 俄乌战争的最惊爆国内新闻！”No.03（09/08/24）习近平习近平出事习近平中风习近平下台</a></li>
+<li><a href="/baitai/20240809/2072672.md">文革怪象重现 习或已失去全盘掌控</a></li>
 <li><a href="/sohnews/20240809/2072511.md">罹癌换肝？政变软禁？失踪统治术？解开习近平神隐之谜！红朝末日 习近平失踪成谜 夫人干政 替身露面？@democratictaiwanchannel</a></li>
 <li><a href="/sohnews/20240810/2072841.md">“3权分属3个人 ⋯ 九名常委：很像军政权过度结构”No.04（09/08/24）习近平习近平出事习近平中风习近平下台</a></li>
 <li><a href="/sohnews/20240809/2072598.md">文睿：人民日报，突然出现严重异常</a></li>
@@ -18,13 +18,13 @@
 <li><a href="/sohnews/20240810/2072828.md">“传王小洪顶掉蔡奇 ⋯ 习近平中风后 只能军头主持！”No.04（09/08/24）习近平习近平出事习近平中风习近平下台</a></li>
 <li><a href="/baitai/20240809/2072527.md">北京试点中考改革 外界忧：毛时代重返</a></li>
 <li><a href="/cbnews/20240809/2072531.md">〖红朝浮世绘〗围美救赵 秋后算账</a></li>
-<li><a href="/yule/20240810/2072769.md">左小青含泪谈家庭 提起63岁富豪老公梨花带雨</a></li>
 <li><a href="/topimagenews/20240810/2072862.md">中国炭疽疫情已扩散 张文宏呼吁…</a></li>
+<li><a href="/yule/20240810/2072769.md">左小青含泪谈家庭 提起63岁富豪老公梨花带雨</a></li>
+<li><a href="/topimagenews/20240810/2072799.md">库尔斯克之战第4日，乌军连下27城</a></li>
 <li><a href="/cbnews/20240809/2072683.md">用遗体作骨骼移植材料 民众吃肉惊见钢钉</a></li>
 <li><a href="/sohnews/20240809/2072432.md">王牌特种兵杀奔中南海，70年里离《推背图》应验最近的一次！一人单挑1000军警！【文昭思绪飞扬372期】</a></li>
-<li><a href="/topimagenews/20240810/2072799.md">库尔斯克之战第4日，乌军连下27城</a></li>
-<li><a href="/health/20240809/2072618.md">78岁女院士公开：绿豆有一搭档，大口吃，不出49天，肝脏比牛强壮</a></li>
 <li><a href="/baitai/20240810/2072844.md">英媒：北戴会议习近平能改变方向吗？</a></li>
+<li><a href="/health/20240809/2072618.md">78岁女院士公开：绿豆有一搭档，大口吃，不出49天，肝脏比牛强壮</a></li>
 <li><a href="/cnnews/20240810/2072789.md">饶毅前妻吴瑛离世 网传因陷入中共千人计划而轻生</a></li>
 <li><a href="/cbnews/20240809/2072580.md">女子要买18万元黄金首饰 店员果断报警</a></li>
 <li><a href="/funmedia/20240809/2072599.md">女子在航班上用膳 忽然闻到强烈恶臭</a></li>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240810/2072972.md" target="_blank">〖红朝浮世绘〗中共为了诋毁法轮功和神韵 不惜血本把社群媒体武器化</a></li>
+<li><a href="/cbnews/20240810/2072971.md" target="_blank">〖红朝浮世绘〗中国人矿：生被摘取器官 死被倒卖尸骨</a></li>
 <li><a href="/cbnews/20240810/2072961.md" target="_blank">山东版“周公子”！“厅长叔叔说，两年内让我干上国企集团董事长”</a></li>
 <li><a href="/cbnews/20240810/2072960.md" target="_blank">中企盗卖尸体案震惊海内外 更多案情细节曝光</a></li>
 <li><a href="/cbnews/20240810/2072959.md" target="_blank">停飞中国为何成风？</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20240809/2072584.md" target="_blank">法院裁定 中国未婚女性无权冷冻卵子</a></li>
 <li><a href="/cbnews/20240809/2072583.md" target="_blank">大陆灾情严重 宁夏连发上百条预警</a></li>
 <li><a href="/cbnews/20240809/2072582.md" target="_blank">四川医院天花板脱落 砸中产妇</a></li>
-<li><a href="/cbnews/20240809/2072581.md" target="_blank">华为智能电视监控民众 专家揭内情</a></li>
-<li><a href="/cbnews/20240809/2072580.md" target="_blank">女子要买18万元黄金首饰 店员果断报警</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240810/2072963.md" target="_blank">赵君朔:王志安 明目张胆大外宣</a></li>
 <li><a href="/comments/20240810/2072937.md" target="_blank">辛瓦尔号称哈马斯之魂，以色列的下一个暗杀目标？</a></li>
 <li><a href="/comments/20240810/2072936.md" target="_blank">枫叶君：关于乌克兰领土，梅德韦杰夫终于说实话了</a></li>
 <li><a href="/comments/20240810/2072930.md" target="_blank">性别争议拳手 打倒四位女生抢到金牌</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240809/2072686.md" target="_blank">何清涟：这次美国大选的几个决定因素</a></li>
 <li><a href="/comments/20240809/2072681.md" target="_blank">天亮时分：「打狗不看主人」？地方与北京媒体唱反调</a></li>
 <li><a href="/comments/20240809/2072680.md" target="_blank">关注以哈冲突【中共战争砖家】当心报复！李绍先拍片甩责任？ #中国</a></li>
-<li><a href="/comments/20240809/2072679.md" target="_blank">中共国师急认怂：摩萨德别定点我！给哈马斯支招的不是我！习近平保党助手大流失：御用牌不灵了？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/cnnews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
 <li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20240723/2065714.md" target="_blank">台湾民视：解谜法轮功 气功或宗教？</a></li>
-<li><a href="/comments/20231130/1967587.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （一）</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/topimagenews/20200514/1328456.md" target="_blank">穿越时空 谢田教授亲身体验人体特异功能</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
+<li><a href="/comments/20240703/2057730.md" target="_blank">百年梦醒（十七）：马克思的连环计、出卖灵魂</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
 
 </ul>
 </div>
