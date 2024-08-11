@@ -13,21 +13,21 @@
 <li><a href="/baitai/20240810/2073103.md">政变传闻越来越夸张 习近平是否另有打算？</a></li>
 <li><a href="/sohnews/20240810/2073062.md">杨勇上将之子杨小平少将爆料称：八月底政局天翻地覆，召开四中全会高层换血，青岛市公安局长于瑞波霸占女干警。《老灯开讲第632期》</a></li>
 <li><a href="/topimagenews/20240811/2073192.md">惊传开国上将之子发布超级特大重磅消息【阿波罗网报道】</a></li>
-<li><a href="/comments/20240810/2073035.md">呼吁解放军将领及全体官兵，不要再相信任何独裁者了。</a></li>
-<li><a href="/topimagenews/20240810/2072982.md">日本姐姐营救中国妹妹 日多位议员到东京中共大使馆前要求无条件释放</a></li>
 <li><a href="/comments/20240811/2073193.md">吴祚来：北戴河会议，习母发动“太后政变”？</a></li>
+<li><a href="/comments/20240810/2073035.md">呼吁解放军将领及全体官兵，不要再相信任何独裁者了。</a></li>
+<li><a href="/topimagenews/20240811/2073219.md">北京变天了？有图为证 传习近平像遭撤下</a></li>
 <li><a href="/sohnews/20240810/2073132.md">“传言2个版本 ⋯ 小胡开价蛮高”No.01（09/10/24）习近平出事中共内讧</a></li>
 <li><a href="/sohnews/20240811/2073155.md">“趁习近平‘出事’ 王小洪卖主求生 ⋯ ”No.03（08/10/24）习近平出事中共内讧</a></li>
-<li><a href="/topimagenews/20240811/2073219.md">北京变天了？有图为证 传习近平像遭撤下</a></li>
 <li><a href="/sohnews/20240810/2073043.md">文睿：天，要变了</a></li>
 <li><a href="/topimagenews/20240811/2073191.md">全城大搜捕！中共下通缉令 美助理国务卿：我们把他带到了美国</a></li>
 <li><a href="/sohnews/20240810/2073138.md">“只有习近平‘中风’ 拖后诡异的北戴河会议 成为历史关键”No.02（09/10/24）习近平出事中共内讧</a></li>
-<li><a href="/sohnews/20240811/2073153.md">“为什么？中风或出事疯传20余天 ⋯ 竟无任何官方辟谣”No.05（08/10/24）习近平出事中共内讧</a></li>
 <li><a href="/topimagenews/20240811/2073181.md">习近平认错，恐怕为时已晚；10年新低！习近平又做出一大“成就”【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20240810/2073025.md">陈破空：开国上将之子暗示政变：八月将有大事发生！老习病重遭控制？两万乌军攻入俄国，声势震天！莫斯科军用机场遭轰炸。直播与互动：美东时间8月10日早9点、中港台当日晚9点</a></li>
+<li><a href="/sohnews/20240811/2073153.md">“为什么？中风或出事疯传20余天 ⋯ 竟无任何官方辟谣”No.05（08/10/24）习近平出事中共内讧</a></li>
+<li><a href="/cnnews/20240811/2073225.md">上海深圳出现4大怪现象 已经开始蔓延</a></li>
 <li><a href="/health/20240810/2073066.md">再三提醒：65岁以上的人，最好少做这3项运动，一个都别中招</a></li>
 <li><a href="/topimagenews/20240811/2073197.md">普京别无选择 只能靠“合并领土”？</a></li>
-<li><a href="/cbnews/20240810/2073002.md">两天四名中共省部级高官及高级将领病亡</a></li>
+<li><a href="/sohnews/20240811/2073144.md">🔥北戴河会议结束？中共党媒头版现异常；中共真缺钱！习准备承受经济与地缘政治冲击以统一台湾？；大外宣侨报停周末版 美国中文关电视；北京商人长城脚下挖洞建私人庄园 遭女子举报【阿波罗网】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
-<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
 <li><a href="/cbnews/20190701/1151453.md" target="_blank">盘点十大邪教特征 中共条条对号入座</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
 <li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
 <li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
 
 </ul>
 </div>
