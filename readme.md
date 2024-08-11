@@ -22,12 +22,12 @@
 <li><a href="/ssgc/20240811/2073360.md">中共《民主集中制读本》印发全军 释放重大信号</a></li>
 <li><a href="/comments/20240811/2073221.md">高瑜：“引蛇出洞”，“一网打尽”</a></li>
 <li><a href="/topimagenews/20240811/2073233.md">朝鲜接班人？金与正恭敬向金主爱行礼</a></li>
-<li><a href="/topimagenews/20240811/2073269.md">【微博精粹】这国股市暴涨 预言中国股民翻身日</a></li>
 <li><a href="/topimagenews/20240811/2073270.md">这时间够直捣莫斯科！乌军继续前进 俄民众恐慌</a></li>
+<li><a href="/topimagenews/20240811/2073269.md">【微博精粹】这国股市暴涨 预言中国股民翻身日</a></li>
 <li><a href="/ssgc/20240811/2073362.md">流言四起局势凶险，中共生死到临界点</a></li>
 <li><a href="/sohnews/20240811/2073376.md">井冈山上毛泽东混乱的男女关系</a></li>
-<li><a href="/ssgc/20240811/2073265.md">〖微博谈〗中共故伎重演，越描越黑</a></li>
 <li><a href="/sohnews/20240812/2073414.md">张又侠发文向习近平表忠，解放军报却发文跟习近平对照干。是新华社造假？还是此地无银三百两？</a></li>
+<li><a href="/ssgc/20240811/2073265.md">〖微博谈〗中共故伎重演，越描越黑</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240812/2073457.md" target="_blank">乌军又攻入俄另一州， 离俄核电站仅10公里；泽连斯基攻俄三大目的｜方菲时间</a></li>
 <li><a href="/cbnews/20240812/2073444.md" target="_blank">从“改革一代”到“习近平一代”：他看到的中国</a></li>
 <li><a href="/cbnews/20240812/2073407.md" target="_blank">中共政法系统掀举报风 大批官员上网“鸣冤”</a></li>
 <li><a href="/cbnews/20240811/2073395.md" target="_blank">陕西爆发特大洪水 四川强降雨8万余人撤离</a></li>
@@ -59,13 +60,13 @@
 <li><a href="/comments/20240811/2073228.md" target="_blank">大选白热化之际 美国年轻人会怎么投票？</a></li>
 <li><a href="/comments/20240811/2073212.md" target="_blank">通灵师预测美国大选将迎来大变局。川普、拜登和哈里斯的最终结果。与主流媒体说法不一样。川普美国大选哈里斯</a></li>
 <li><a href="/cbnews/20240811/2073205.md" target="_blank">中共搞体育样板 少儿运动员训练视频遭质疑</a></li>
-<li><a href="/cbnews/20240811/2073203.md" target="_blank">广东肺移植男子：等供体最短一两天</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240812/2073456.md" target="_blank">中国血淋淋的恐怖！把你套住脚拖下水再打捞尸体黑产业</a></li>
 <li><a href="/topimagenews/20240812/2073443.md" target="_blank">房价破发？北京豪宅，也在劫难逃…</a></li>
 <li><a href="/topimagenews/20240812/2073442.md" target="_blank">“实在太酷”！日本陆自潜入东京“地下神殿” 演习场景壮观</a></li>
 <li><a href="/topimagenews/20240812/2073441.md" target="_blank">中国多个省市纷纷裁撤这一部门，什么信号？</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20240810/2072921.md" target="_blank">习近平认错，恐怕为时已晚</a></li>
 <li><a href="/topimagenews/20240810/2072896.md" target="_blank">双汇火腿肠出大事儿了 惊现尸块、眼睛？</a></li>
 <li><a href="/topimagenews/20240810/2072880.md" target="_blank">伊朗真怂了！传他们打算这样报复以色列</a></li>
-<li><a href="/topimagenews/20240810/2072862.md" target="_blank">中国炭疽疫情已扩散 张文宏呼吁…</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240812/2073457.md" target="_blank">乌军又攻入俄另一州， 离俄核电站仅10公里；泽连斯基攻俄三大目的｜方菲时间</a></li>
 <li><a href="/comments/20240812/2073445.md" target="_blank">自打脸疼不？夹头帮主突语出惊人</a></li>
 <li><a href="/comments/20240812/2073436.md" target="_blank">【女子拳击林郁婷夺冠，支持者: 她就是有处女膜啊!】</a></li>
 <li><a href="/comments/20240812/2073433.md" target="_blank">【林郁婷性别争议中夺冠: &quot;让世界看见台湾&quot;】</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240811/2073239.md" target="_blank">他们以为川普是美国的笑话方菲时间美国大选中共干预</a></li>
 <li><a href="/comments/20240811/2073236.md" target="_blank">连晨：考证一段“托克维尔名言”的出处</a></li>
 <li><a href="/comments/20240811/2073228.md" target="_blank">大选白热化之际 美国年轻人会怎么投票？</a></li>
-<li><a href="/comments/20240811/2073222.md" target="_blank">李政道与巫宁坤：不同选择 不同命运</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20240721/2065039.md" target="_blank">王建勋：川普主义是雅各宾主义的克星</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
 <li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/cnnews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
 <li><a href="/comments/20240403/2020547.md" target="_blank">纪录片：DSM诊断与统计手册-精神病学最要命的骗局</a></li>
-<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
 
 </ul>
 </div>
