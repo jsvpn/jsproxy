@@ -11,23 +11,23 @@
 <li><a href="/ccpdope/20240811/2073365.md">大量空姐失业 进退两难 经济太差 躺平！视频</a></li>
 <li><a href="/ssgc/20240811/2073360.md">中共《民主集中制读本》印发全军 释放重大信号</a></li>
 <li><a href="/ssgc/20240811/2073362.md">流言四起局势凶险，中共生死到临界点</a></li>
-<li><a href="/topimagenews/20240812/2073464.md">更惨的未来？孩子的话让中国中产晴天霹雳</a></li>
 <li><a href="/ccpdope/20240812/2073560.md">习近平高调露面 张又侠表态异常 政治局会暗批蔡奇？视频</a></li>
+<li><a href="/topimagenews/20240812/2073464.md">更惨的未来？孩子的话让中国中产晴天霹雳</a></li>
 <li><a href="/sohnews/20240812/2073415.md">“张又侠实控大局！赞习为虚 造舆论军委实权为实？”No.03（08/11/24）习近平出事中共内讧</a></li>
 <li><a href="/sohnews/20240811/2073376.md">井冈山上毛泽东混乱的男女关系</a></li>
 <li><a href="/headline/20240812/2073556.md">习近平最新状况频传之际 张又侠发文全力挺习</a></li>
 <li><a href="/topimagenews/20240812/2073472.md">直捣莫斯科？乌克兰人这次是玩真的了</a></li>
 <li><a href="/cbnews/20240811/2073382.md">中国至少12名殡仪馆馆长被查</a></li>
+<li><a href="/topimagenews/20240812/2073580.md">俄乌重磅！乌军进入俄领土后传最新消息</a></li>
 <li><a href="/cbnews/20240812/2073444.md">从“改革一代”到“习近平一代”：他看到的中国</a></li>
 <li><a href="/baitai/20240812/2073470.md">俄乌打仗，中国损失惨重，高达数千亿美元，未来损失不可估量</a></li>
-<li><a href="/topimagenews/20240812/2073580.md">俄乌重磅！乌军进入俄领土后传最新消息</a></li>
 <li><a href="/cnnews/20240812/2073452.md">中国跨境电商巨头，“爆雷”</a></li>
 <li><a href="/topimagenews/20240812/2073456.md">中国血淋淋的恐怖！把你套住脚拖下水再打捞尸体黑产业</a></li>
 <li><a href="/sohnews/20240812/2073405.md">“老干部冷杰甫教授：防党被清算 建议成立“联合政府”No.02（08/11/24）习近平出事中共内讧</a></li>
 <li><a href="/topimagenews/20240812/2073497.md">乌军已控1000平方公里俄土 莫斯科震惊：FSB屈辱挥白旗供全世界欣赏</a></li>
 <li><a href="/topimagenews/20240812/2073443.md">房价破发？北京豪宅，也在劫难逃…</a></li>
-<li><a href="/cbnews/20240811/2073381.md">上海男子1年被右转车撞40次</a></li>
 <li><a href="/cbnews/20240812/2073537.md">〖红朝浮世绘〗又搞亲民秀 金三胖又又在难为习近平？</a></li>
+<li><a href="/cbnews/20240811/2073381.md">上海男子1年被右转车撞40次</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,10 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240812/2073651.md" target="_blank">为躲抓奸真拼命! 贵阳高楼“蜘蛛人”徒手攀爬30楼外墙 震惊网友</a></li>
+<li><a href="/cbnews/20240812/2073650.md" target="_blank">4医师联手割卖51颗肾！ 重庆高二生遭绑架 发现尸体时肾脏已割除</a></li>
+<li><a href="/cbnews/20240812/2073649.md" target="_blank">常州凉亭雷击坍塌致6人遇难10人受伤 遭遇雷击该怎么办【阿波罗网报道】</a></li>
+<li><a href="/comments/20240812/2073646.md" target="_blank">刚刚发生、不得不信！开天眼人、高僧、通灵师⋯多位高手相助⋯天王巨星的前世今生！2024年震惊泰国的真实现世报真相！｜未解之谜</a></li>
 <li><a href="/comments/20240812/2073644.md" target="_blank">哈里斯改变立场，学川普取消小费税，川普愤怒回应。佩洛西自爆与拜登关系破裂内幕。拜登做出回应。川普哈里斯拜登</a></li>
 <li><a href="/comments/20240812/2073632.md" target="_blank">提升最低工资 为什么效果适得其反？</a></li>
 <li><a href="/comments/20240812/2073581.md" target="_blank">美国年轻人喜欢的政策是什么？</a></li>
@@ -56,16 +60,13 @@
 <li><a href="/cbnews/20240811/2073304.md" target="_blank">越南与菲律宾举行首次联合海防演习 对中国“分而治之”战略说不？</a></li>
 <li><a href="/cbnews/20240811/2073289.md" target="_blank">广西瀑布景区 1死60伤</a></li>
 <li><a href="/comments/20240811/2073284.md" target="_blank">拳击选手克莉芙是怎么拿到金牌的？</a></li>
-<li><a href="/cbnews/20240811/2073232.md" target="_blank">山东炭疽或已流传到河北 风险难估</a></li>
-<li><a href="/cbnews/20240811/2073272.md" target="_blank">整个中国黑暗无人能幸免！“刀把子”们也纷纷鸣冤</a></li>
-<li><a href="/cbnews/20240811/2073271.md" target="_blank">广西景区“魔毯”故障1死60伤 目击者述恐怖细节</a></li>
-<li><a href="/comments/20240811/2073258.md" target="_blank">【杰森视角】中国司法系统开始反噬？我在炼猪油，别烦我！这个央企为何要在每个大城市建人骨加工基地？中国多地为何要扩建监狱！中国人从火化场抱回来的是什么？中国不会崩溃，但在&#8230;&#8230;</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240812/2073647.md" target="_blank">杭州小区保安让外卖员下跪交罚款 惹怒众怒【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240812/2073592.md" target="_blank">俄境被攻 恼羞成怒报复? 扎波罗热核电站传纵火 乌控俄以核威胁</a></li>
 <li><a href="/topimagenews/20240812/2073591.md" target="_blank">乌军攻俄第6天! 乌军重兵压境 疑俄民众也起义了 俄境又多2州冒战火</a></li>
 <li><a href="/topimagenews/20240812/2073590.md" target="_blank">乌F-16打到俄国无空优! 电战干扰 俄指挥瘫痪 不但找不到乌军 无人机也废了</a></li>
@@ -90,13 +91,14 @@
 <li><a href="/topimagenews/20240811/2073219.md" target="_blank">北京变天了？有图为证 传习近平像遭撤下</a></li>
 <li><a href="/topimagenews/20240811/2073197.md" target="_blank">普京别无选择 只能靠“合并领土”？</a></li>
 <li><a href="/topimagenews/20240811/2073196.md" target="_blank">拦截新利器！美“超高速弹丸”极快速度打击目标</a></li>
-<li><a href="/topimagenews/20240811/2073192.md" target="_blank">惊传开国上将之子发布超级特大重磅消息【阿波罗网报道】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240812/2073646.md" target="_blank">刚刚发生、不得不信！开天眼人、高僧、通灵师⋯多位高手相助⋯天王巨星的前世今生！2024年震惊泰国的真实现世报真相！｜未解之谜</a></li>
+<li><a href="/comments/20240812/2073645.md" target="_blank">这一暗喻您看懂了？海外中共政坛内幕作家 最新发文！ #中国</a></li>
 <li><a href="/comments/20240812/2073644.md" target="_blank">哈里斯改变立场，学川普取消小费税，川普愤怒回应。佩洛西自爆与拜登关系破裂内幕。拜登做出回应。川普哈里斯拜登</a></li>
 <li><a href="/comments/20240812/2073632.md" target="_blank">提升最低工资 为什么效果适得其反？</a></li>
 <li><a href="/comments/20240812/2073618.md" target="_blank">【美国民主党众议员访团访台】【向世界传递美台关系强健信息】</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240812/2073477.md" target="_blank">泽连斯基关键抉择！他暗示还有更大计划</a></li>
 <li><a href="/comments/20240812/2073465.md" target="_blank">被封杀：关于倒卖尸体，补充一些其他角度</a></li>
 <li><a href="/comments/20240812/2073462.md" target="_blank">文昭：「躺平」的力量让这个国家火速变天！世界再陷衰退边缘，战争离中国人更近？【会员样片节选】</a></li>
-<li><a href="/comments/20240812/2073457.md" target="_blank">乌军又攻入俄另一州， 离俄核电站仅10公里；泽连斯基攻俄三大目的｜方菲时间</a></li>
-<li><a href="/comments/20240812/2073445.md" target="_blank">自打脸疼不？夹头帮主突语出惊人</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
 
 </ul>
 </div>
