@@ -7,8 +7,8 @@
 
 <li><a href="/topimagenews/20240812/2073441.md">中国多个省市纷纷裁撤这一部门，什么信号？</a></li>
 <li><a href="/baitai/20240812/2073640.md">习近平出事传闻越来越火！ 张又侠现不寻常举动</a></li>
-<li><a href="/topimagenews/20240812/2073464.md">更惨的未来？孩子的话让中国中产晴天霹雳</a></li>
 <li><a href="/ccpdope/20240812/2073560.md">习近平高调露面 张又侠表态异常 政治局会暗批蔡奇？视频</a></li>
+<li><a href="/topimagenews/20240812/2073464.md">更惨的未来？孩子的话让中国中产晴天霹雳</a></li>
 <li><a href="/headline/20240812/2073556.md">习近平最新状况频传之际 张又侠发文全力挺习</a></li>
 <li><a href="/topimagenews/20240812/2073472.md">直捣莫斯科？乌克兰人这次是玩真的了</a></li>
 <li><a href="/baitai/20240812/2073470.md">俄乌打仗，中国损失惨重，高达数千亿美元，未来损失不可估量</a></li>
@@ -19,14 +19,14 @@
 <li><a href="/cbnews/20240812/2073658.md">邓小平翻译回答“习两个错误” 笑翻全场</a></li>
 <li><a href="/topimagenews/20240812/2073456.md">中国血淋淋的恐怖！把你套住脚拖下水再打捞尸体黑产业</a></li>
 <li><a href="/headline/20240812/2073636.md">聿文视界：再现政变谣言，如何看待北京当下谜局</a></li>
-<li><a href="/cbnews/20240812/2073659.md">中共高层隐身 传闻四起 分析：人心思变</a></li>
 <li><a href="/sohnews/20240812/2073582.md">陈破空：习近平大权旁落！军方紧急发放《民主集中制》手册。中组部长重提任期制。他是否露面 ？外交部发言人口风大变。乌军攻占俄土1000平方公里，普京逃离克宫？直播与互动：美东8月12日早9点、中港台当日晚9点</a></li>
+<li><a href="/cbnews/20240812/2073659.md">中共高层隐身 传闻四起 分析：人心思变</a></li>
 <li><a href="/sohnews/20240812/2073585.md">当局停开各地往返佳木斯和海拉尔的列车，腾出运力紧急增兵中俄、中朝边境。中共国和俄朝之间很可能爆发战争。</a></li>
 <li><a href="/topimagenews/20240812/2073497.md">乌军已控1000平方公里俄土 莫斯科震惊：FSB屈辱挥白旗供全世界欣赏</a></li>
 <li><a href="/topimagenews/20240812/2073677.md">中国突传罕见消息! 房地产和制造业劳资纠纷激增</a></li>
+<li><a href="/ssgc/20240812/2073689.md">中共驻外大使表态现异常 再证北京不平静</a></li>
 <li><a href="/cbnews/20240812/2073537.md">〖红朝浮世绘〗又搞亲民秀 金三胖又又在难为习近平？</a></li>
 <li><a href="/comments/20240812/2073495.md">习近平真不行了？蔡奇李强为何大战北戴河？脱口秀翻身，“掼蛋”遭贬；普京强烈谴责乌克兰入侵俄罗斯</a></li>
-<li><a href="/ssgc/20240812/2073689.md">中共驻外大使表态现异常 再证北京不平静</a></li>
 <li><a href="/comments/20240812/2073496.md">天亮时分：挺习反习？军方释双重信号；中共高官公布秦刚新消息；10年新低，习近平再创记录 （政论天下第1378集 20240811）天亮时分</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20240721/2065039.md" target="_blank">王建勋：川普主义是雅各宾主义的克星</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20240801/2069416.md" target="_blank">无神论和有神论深度解析</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/cbnews/20240603/2045072.md" target="_blank">漫谈古代科举之八股文</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
 <li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/lifebaike/20180527/948531.md" target="_blank">无神论是最大的迷信（上）：科学无法证实神不存在</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20231204/1969287.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （三）</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
 
 </ul>
 </div>
