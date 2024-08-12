@@ -19,8 +19,8 @@
 <li><a href="/sohnews/20240812/2073582.md">陈破空：习近平大权旁落！军方紧急发放《民主集中制》手册。中组部长重提任期制。他是否露面 ？外交部发言人口风大变。乌军攻占俄土1000平方公里，普京逃离克宫？直播与互动：美东8月12日早9点、中港台当日晚9点</a></li>
 <li><a href="/headline/20240812/2073636.md">聿文视界：再现政变谣言，如何看待北京当下谜局</a></li>
 <li><a href="/cbnews/20240812/2073659.md">中共高层隐身 传闻四起 分析：人心思变</a></li>
-<li><a href="/ssgc/20240812/2073689.md">中共驻外大使表态现异常 再证北京不平静</a></li>
 <li><a href="/sohnews/20240812/2073585.md">当局停开各地往返佳木斯和海拉尔的列车，腾出运力紧急增兵中俄、中朝边境。中共国和俄朝之间很可能爆发战争。</a></li>
+<li><a href="/ssgc/20240812/2073689.md">中共驻外大使表态现异常 再证北京不平静</a></li>
 <li><a href="/topimagenews/20240812/2073677.md">中国突传罕见消息! 房地产和制造业劳资纠纷激增</a></li>
 <li><a href="/cbnews/20240812/2073537.md">〖红朝浮世绘〗又搞亲民秀 金三胖又又在难为习近平？</a></li>
 <li><a href="/topimagenews/20240812/2073497.md">乌军已控1000平方公里俄土 莫斯科震惊：FSB屈辱挥白旗供全世界欣赏</a></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240813/2073823.md" target="_blank">为什么最低投票年龄定在18岁？</a></li>
 <li><a href="/comments/20240813/2073787.md" target="_blank">房租控制，反而带来房租疯长，为什么？</a></li>
 <li><a href="/cbnews/20240813/2073769.md" target="_blank">人大教授再发信吁中共退场 建联邦共和国</a></li>
 <li><a href="/cbnews/20240813/2073757.md" target="_blank">“掼蛋”犹明末叶子戏 官媒互怼显末日征兆</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20240812/2073457.md" target="_blank">乌军又攻入俄另一州， 离俄核电站仅10公里；泽连斯基攻俄三大目的｜方菲时间</a></li>
 <li><a href="/cbnews/20240812/2073444.md" target="_blank">从“改革一代”到“习近平一代”：他看到的中国</a></li>
 <li><a href="/cbnews/20240812/2073407.md" target="_blank">中共政法系统掀举报风 大批官员上网“鸣冤”</a></li>
-<li><a href="/cbnews/20240811/2073395.md" target="_blank">陕西爆发特大洪水 四川强降雨8万余人撤离</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240813/2073823.md" target="_blank">为什么最低投票年龄定在18岁？</a></li>
+<li><a href="/comments/20240813/2073821.md" target="_blank">【黎智英、李柱铭等七人就和平集会权上诉遭香港终院驳回】</a></li>
+<li><a href="/comments/20240813/2073820.md" target="_blank">【起来，不愿做奴隶的人们！- 孟加拉一周】</a></li>
 <li><a href="/comments/20240813/2073809.md" target="_blank">【外卖骑手起义 #杭州保安与外卖员冲突 登热搜】</a></li>
 <li><a href="/comments/20240813/2073787.md" target="_blank">房租控制，反而带来房租疯长，为什么？</a></li>
 <li><a href="/comments/20240813/2073762.md" target="_blank">乌克兰势如破竹！土共俄爹还能手牵手？ #中国 #普京</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20240812/2073511.md" target="_blank">为什么最低工资应该是0</a></li>
 <li><a href="/comments/20240812/2073507.md" target="_blank">李承鹏：关于未来的无题 请保护好自己和家人</a></li>
 <li><a href="/comments/20240812/2073506.md" target="_blank">毛泽东周恩来跪谢尼克松 最大仇敌一秒变亲爹</a></li>
-<li><a href="/comments/20240812/2073505.md" target="_blank">周松清：盗卖骨骼产业链 医美业可能粘包了 隆鼻填下巴很可疑</a></li>
-<li><a href="/comments/20240812/2073504.md" target="_blank">乔迟：8年终消掉的“犯罪记录”</a></li>
-<li><a href="/comments/20240812/2073503.md" target="_blank">王左中右：奥运会采访区挤满了孔乙己</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/sohnews/20160119/493472.md" target="_blank">无效的医疗：手术刀下的谎言和药瓶里的欺骗</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20231220/1976789.md" target="_blank">大陆医生曝：九价HPV疫苗导致怀孕能力下降40%</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/taiwannews/20210119/1470761.md" target="_blank">独家：震撼纪录片《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/cbnews/20240603/2045072.md" target="_blank">漫谈古代科举之八股文</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
+<li><a href="/cnnews/20170717/792917.md" target="_blank">无神论是最大的迷信</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/cbnews/20240715/2062387.md" target="_blank">尧帝治世之道（一）</a></li>
+<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
 <li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20240704/2058130.md" target="_blank">百年梦醒（十八）：共产魔教的机制、前所未有的巨大野心</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
 
 </ul>
 </div>
