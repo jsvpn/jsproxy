@@ -8,13 +8,13 @@
 <li><a href="/ccpdope/20240812/2073560.md">习近平高调露面 张又侠表态异常 政治局会暗批蔡奇？视频</a></li>
 <li><a href="/baitai/20240812/2073640.md">习近平出事传闻越来越火！ 张又侠现不寻常举动</a></li>
 <li><a href="/headline/20240812/2073556.md">习近平最新状况频传之际 张又侠发文全力挺习</a></li>
-<li><a href="/topimagenews/20240812/2073580.md">俄乌重磅！乌军进入俄领土后传最新消息</a></li>
 <li><a href="/sohnews/20240812/2073635.md">重要信号：军报社论公开反习，前中央军委领导声称政变，耿爽与夫人叛逃事件。《老灯开讲第633期》</a></li>
+<li><a href="/topimagenews/20240812/2073580.md">俄乌重磅！乌军进入俄领土后传最新消息</a></li>
 <li><a href="/cbnews/20240812/2073658.md">邓小平翻译回答“习两个错误” 笑翻全场</a></li>
 <li><a href="/sohnews/20240812/2073585.md">当局停开各地往返佳木斯和海拉尔的列车，腾出运力紧急增兵中俄、中朝边境。中共国和俄朝之间很可能爆发战争。</a></li>
 <li><a href="/headline/20240812/2073636.md">聿文视界：再现政变谣言，如何看待北京当下谜局</a></li>
-<li><a href="/sohnews/20240812/2073582.md">陈破空：习近平大权旁落！军方紧急发放《民主集中制》手册。中组部长重提任期制。他是否露面 ？外交部发言人口风大变。乌军攻占俄土1000平方公里，普京逃离克宫？直播与互动：美东8月12日早9点、中港台当日晚9点</a></li>
 <li><a href="/cbnews/20240812/2073659.md">中共高层隐身 传闻四起 分析：人心思变</a></li>
+<li><a href="/sohnews/20240812/2073582.md">陈破空：习近平大权旁落！军方紧急发放《民主集中制》手册。中组部长重提任期制。他是否露面 ？外交部发言人口风大变。乌军攻占俄土1000平方公里，普京逃离克宫？直播与互动：美东8月12日早9点、中港台当日晚9点</a></li>
 <li><a href="/ssgc/20240812/2073689.md">中共驻外大使表态现异常 再证北京不平静</a></li>
 <li><a href="/ccpdope/20240812/2073741.md">王小洪张又侠发文挺习 京城政局吊诡图</a></li>
 <li><a href="/ccpdope/20240813/2073817.md">习近平不见踪影 出事传闻并非空穴来风多图</a></li>
@@ -27,7 +27,7 @@
 <li><a href="/cbnews/20240812/2073651.md">为躲抓奸真拼命! 贵阳高楼“蜘蛛人”徒手攀爬30楼外墙 震惊网友</a></li>
 <li><a href="/topimagenews/20240812/2073591.md">乌军攻俄第6天! 乌军重兵压境 疑俄民众也起义了 俄境又多2州冒战火</a></li>
 <li><a href="/cnnews/20240812/2073575.md">普丁逃了？ 传乌军前锋只距400多里 无人机轰莫斯科 克宫直升机紧急落跑</a></li>
-<li><a href="/cbnews/20240812/2073650.md">4医师联手割卖51颗肾！ 重庆高二生遭绑架 发现尸体时肾脏已割除</a></li>
+<li><a href="/cbnews/20240813/2073769.md">人大教授再发信吁中共退场 建联邦共和国</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240813/2073935.md" target="_blank">瓜田农妇：五道口秘书帮的覆灭，一语成谶</a></li>
 <li><a href="/comments/20240813/2073929.md" target="_blank">这是你今晚最诚实的一句话方菲时间</a></li>
 <li><a href="/comments/20240813/2073928.md" target="_blank">孟加拉国现状 你想到了什么？方菲时间</a></li>
 <li><a href="/comments/20240813/2073903.md" target="_blank">【慎入】突破人类底线，揭开中共国盗卖S体黑金产业链真相。部分遗体进入食品加工行业！中共遗体同种异体骨</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240813/2073809.md" target="_blank">【外卖骑手起义 #杭州保安与外卖员冲突 登热搜】</a></li>
 <li><a href="/comments/20240813/2073787.md" target="_blank">房租控制，反而带来房租疯长，为什么？</a></li>
 <li><a href="/comments/20240813/2073762.md" target="_blank">乌克兰势如破竹！土共俄爹还能手牵手？ #中国 #普京</a></li>
-<li><a href="/comments/20240813/2073756.md" target="_blank">时事大家谈：尸体盗卖案引爆舆情, 中共紧急灭火能平众怒?</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20231203/1969183.md" target="_blank">开盖冲马桶 ，细菌会乱飞？除非你家马桶是喷泉！</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
-<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/comments/20240723/2065714.md" target="_blank">台湾民视：解谜法轮功 气功或宗教？</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/cbnews/20190701/1151453.md" target="_blank">盘点十大邪教特征 中共条条对号入座</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/comments/20240412/2024185.md" target="_blank">是治疗还是屠杀?化疗药品滴一滴在皮肤即灼伤，很长时间才好</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/cbnews/20240603/2045072.md" target="_blank">漫谈古代科举之八股文</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
 
 </ul>
 </div>
