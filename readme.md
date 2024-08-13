@@ -18,16 +18,16 @@
 <li><a href="/ssgc/20240812/2073689.md">中共驻外大使表态现异常 再证北京不平静</a></li>
 <li><a href="/topimagenews/20240812/2073677.md">中国突传罕见消息! 房地产和制造业劳资纠纷激增</a></li>
 <li><a href="/topimagenews/20240813/2073842.md">建联邦共和国？人大教授公开信：习病重 党政军工作落在张又侠何卫东身上？</a></li>
-<li><a href="/cnnews/20240812/2073570.md">网友亲测：移民之后把全部国内资产合法转出</a></li>
 <li><a href="/ccpdope/20240813/2073758.md">从军报官媒近期异常再说北京内部有事发生图</a></li>
 <li><a href="/topimagenews/20240812/2073647.md">杭州小区保安让外卖员下跪交罚款 惹怒众怒【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20240812/2073651.md">为躲抓奸真拼命! 贵阳高楼“蜘蛛人”徒手攀爬30楼外墙 震惊网友</a></li>
-<li><a href="/cnnews/20240812/2073575.md">普丁逃了？ 传乌军前锋只距400多里 无人机轰莫斯科 克宫直升机紧急落跑</a></li>
-<li><a href="/topimagenews/20240812/2073591.md">乌军攻俄第6天! 乌军重兵压境 疑俄民众也起义了 俄境又多2州冒战火</a></li>
-<li><a href="/topimagenews/20240813/2073812.md">帮美国打赢与中共战争！他们在造利器</a></li>
-<li><a href="/cbnews/20240813/2073769.md">人大教授再发信吁中共退场 建联邦共和国</a></li>
 <li><a href="/baitai/20240813/2073819.md">乌军奇袭俄本土，引发莫斯科保卫战，俄或将再次解体</a></li>
+<li><a href="/topimagenews/20240812/2073591.md">乌军攻俄第6天! 乌军重兵压境 疑俄民众也起义了 俄境又多2州冒战火</a></li>
+<li><a href="/cbnews/20240813/2073769.md">人大教授再发信吁中共退场 建联邦共和国</a></li>
+<li><a href="/topimagenews/20240813/2073812.md">帮美国打赢与中共战争！他们在造利器</a></li>
 <li><a href="/lifebaike/20240812/2073584.md">【老照片】陈梦拒不让球而夺冠 都动了谁的利益？她为啥不怕？</a></li>
+<li><a href="/topimagenews/20240813/2073811.md">中国多个省市纷纷裁撤这一部门，什么信号？杀伤力已动摇国本！中国经济到谷底了吗？</a></li>
+<li><a href="/cbnews/20240812/2073650.md">4医师联手割卖51颗肾！ 重庆高二生遭绑架 发现尸体时肾脏已割除</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240813/2073971.md" target="_blank">〖红朝浮世绘〗一根苦藤上两个瓜 生活底层的何苦相互为难？</a></li>
 <li><a href="/cbnews/20240813/2073967.md" target="_blank">上海新冠患者晒“阳历” 直呼这一波凶猛</a></li>
 <li><a href="/cbnews/20240813/2073958.md" target="_blank">中南海传真：张又侠，就是『谶曰』中的那个带弓的人？</a></li>
 <li><a href="/cbnews/20240813/2073952.md" target="_blank">消灭中共！中国这么多英雄站在我们前面</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240812/2073659.md" target="_blank">中共高层隐身 传闻四起 分析：人心思变</a></li>
 <li><a href="/cbnews/20240812/2073658.md" target="_blank">邓小平翻译回答“习两个错误” 笑翻全场</a></li>
 <li><a href="/cbnews/20240812/2073657.md" target="_blank">中东紧张飙升！美下令可携154枚战斧SSGN乔治亚号核潜舰部署中东</a></li>
-<li><a href="/cbnews/20240812/2073651.md" target="_blank">为躲抓奸真拼命! 贵阳高楼“蜘蛛人”徒手攀爬30楼外墙 震惊网友</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240813/2073978.md" target="_blank">张又侠就是“谶曰”中的那个带弓的人？</a></li>
 <li><a href="/comments/20240813/2073953.md" target="_blank">突发！审查川普？欧盟刚刚向马斯克发出一封公函</a></li>
 <li><a href="/comments/20240813/2073951.md" target="_blank">普京乘直升机逃离莫斯科？司马南谴责俄爹！习近平再消失，知情人爆习惊人算计！金正恩躺赢？</a></li>
 <li><a href="/comments/20240813/2073935.md" target="_blank">瓜田农妇：五道口秘书帮的覆灭，一语成谶</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240813/2073823.md" target="_blank">为什么最低投票年龄定在18岁？</a></li>
 <li><a href="/comments/20240813/2073821.md" target="_blank">【黎智英、李柱铭等七人就和平集会权上诉遭香港终院驳回】</a></li>
 <li><a href="/comments/20240813/2073820.md" target="_blank">【起来，不愿做奴隶的人们！- 孟加拉一周】</a></li>
-<li><a href="/comments/20240813/2073809.md" target="_blank">【外卖骑手起义 #杭州保安与外卖员冲突 登热搜】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/cnnews/20150914/449521.md" target="_blank">无神论和有神论，乡下老太太驳倒三个博士</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/comments/20240126/1992876.md" target="_blank">内幕：中国留学生里女生打男生和男生打女一样普遍</a></li>
+<li><a href="/comments/20240703/2057730.md" target="_blank">百年梦醒（十七）：马克思的连环计、出卖灵魂</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/cnnews/20221211/1822144.md" target="_blank">盖盖冲马桶很可怕！瞬间“病毒炸开”？</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20240808/2071869.md" target="_blank">【新纪元】被误解的大脑</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
 
 </ul>
 </div>
