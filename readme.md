@@ -11,23 +11,23 @@
 <li><a href="/ccpdope/20240812/2073741.md">王小洪张又侠发文挺习 京城政局吊诡图</a></li>
 <li><a href="/ccpdope/20240813/2073817.md">习近平不见踪影 出事传闻并非空穴来风多图</a></li>
 <li><a href="/ssgc/20240812/2073689.md">中共驻外大使表态现异常 再证北京不平静</a></li>
+<li><a href="/sohnews/20240813/2073970.md">李强辞职，蔡奇被隔离审查，北京封城戒严，82集团军进京，大批民众去天安门广场，公安局24小时执勤。大风暴要来了！</a></li>
 <li><a href="/cbnews/20240812/2073659.md">中共高层隐身 传闻四起 分析：人心思变</a></li>
 <li><a href="/headline/20240812/2073636.md">聿文视界：再现政变谣言，如何看待北京当下谜局</a></li>
-<li><a href="/sohnews/20240813/2073970.md">李强辞职，蔡奇被隔离审查，北京封城戒严，82集团军进京，大批民众去天安门广场，公安局24小时执勤。大风暴要来了！</a></li>
 <li><a href="/topimagenews/20240813/2073842.md">建联邦共和国？人大教授公开信：习病重 党政军工作落在张又侠何卫东身上？</a></li>
 <li><a href="/topimagenews/20240813/2073966.md">太子党找到突破口？习近平官心丧尽最致命死穴【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240813/2073932.md">轰动中国！一颗百亿骗局大雷，爆了</a></li>
 <li><a href="/topimagenews/20240812/2073677.md">中国突传罕见消息! 房地产和制造业劳资纠纷激增</a></li>
 <li><a href="/ccpdope/20240813/2073758.md">从军报官媒近期异常再说北京内部有事发生图</a></li>
-<li><a href="/topimagenews/20240813/2073875.md">影片疯传：中共智库遭全球耻笑！还说“你永远也不会再见到秦刚”</a></li>
 <li><a href="/topimagenews/20240813/2073931.md">党中央终于把自己套里出不来了</a></li>
+<li><a href="/topimagenews/20240813/2073875.md">影片疯传：中共智库遭全球耻笑！还说“你永远也不会再见到秦刚”</a></li>
 <li><a href="/topimagenews/20240812/2073647.md">杭州小区保安让外卖员下跪交罚款 惹怒众怒【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20240812/2073651.md">为躲抓奸真拼命! 贵阳高楼“蜘蛛人”徒手攀爬30楼外墙 震惊网友</a></li>
 <li><a href="/baitai/20240813/2073819.md">乌军奇袭俄本土，引发莫斯科保卫战，俄或将再次解体</a></li>
+<li><a href="/cbnews/20240812/2073651.md">为躲抓奸真拼命! 贵阳高楼“蜘蛛人”徒手攀爬30楼外墙 震惊网友</a></li>
 <li><a href="/sohnews/20240813/2073833.md">“外媒宣布：越共新总书记苏林 北京拜见习近平 ⋯ 党媒默不作声？”No.04（08/12/24）习近平出事北戴河中风</a></li>
 <li><a href="/cbnews/20240813/2073769.md">人大教授再发信吁中共退场 建联邦共和国</a></li>
-<li><a href="/topimagenews/20240813/2073812.md">帮美国打赢与中共战争！他们在造利器</a></li>
 <li><a href="/lifebaike/20240813/2073868.md">慎入 清朝末年，一名土匪被抓凌迟全过程，震慑人心</a></li>
+<li><a href="/topimagenews/20240813/2073812.md">帮美国打赢与中共战争！他们在造利器</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20240412/2024185.md" target="_blank">是治疗还是屠杀?化疗药品滴一滴在皮肤即灼伤，很长时间才好</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
 <li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
-<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/lifebaike/20180527/948531.md" target="_blank">无神论是最大的迷信（上）：科学无法证实神不存在</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
 <li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
 
 </ul>
 </div>
