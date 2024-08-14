@@ -11,19 +11,19 @@
 <li><a href="/comments/20240814/2074255.md">他架走习近平？厉声责问近平老弟 “勇士后门入帝宫” ？</a></li>
 <li><a href="/topimagenews/20240813/2074129.md">千亿大型集团破产！子公司同时崩溃 逾1.8万员工失业了</a></li>
 <li><a href="/topimagenews/20240814/2074287.md">极强暗示！与习分歧公开 张又侠紧急传达内部警告？【阿波罗网报道】</a></li>
-<li><a href="/comments/20240813/2074169.md">时事大家谈：“北戴河时间”传闻四起 习近平权力现状评估</a></li>
 <li><a href="/topimagenews/20240814/2074388.md">红色家族逼退习近平让他上？传胡春华欲掀翻案风【阿波罗网报道】</a></li>
+<li><a href="/comments/20240813/2074169.md">时事大家谈：“北戴河时间”传闻四起 习近平权力现状评估</a></li>
 <li><a href="/sohnews/20240814/2074449.md">各省书记省长进京，进京道路设卡检查进京车辆，文官主张习近平软着陆，将领要求清算习近平！</a></li>
 <li><a href="/topimagenews/20240814/2074371.md">国家玩火？习近平与普京达成新合作协议</a></li>
 <li><a href="/topimagenews/20240814/2074288.md">震惊！这地官员全部落马</a></li>
 <li><a href="/topimagenews/20240814/2074300.md">你死我活！秦刚被干掉？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240814/2074322.md">崩了！中国大学生永久失业？</a></li>
 <li><a href="/topimagenews/20240814/2074301.md">太膈应人了！跳水为什么几乎全世界都玩不过中国？</a></li>
-<li><a href="/topimagenews/20240814/2074321.md">北京颜面扫地！美以打狗不看主人</a></li>
 <li><a href="/baitai/20240814/2074460.md">习近平出事传闻越来越玄乎 军中红二代暗示：将有最惊爆大事发生 天安门广场再度戒严？</a></li>
-<li><a href="/cnnews/20240813/2074096.md">尽管晚了1年 还真的被他说中了</a></li>
+<li><a href="/topimagenews/20240814/2074321.md">北京颜面扫地！美以打狗不看主人</a></li>
 <li><a href="/sohnews/20240814/2074211.md">“最新大V承认：秦刚可能于去年离世 ⋯ 只是他觉得中共不该那么狠”No.03（08/13/24）习近平出事秦刚</a></li>
 <li><a href="/cbnews/20240814/2074410.md">江峰：八月要出大事？政变与过渡政府名单真假？习近平饱受传言攻击，中共是这样反击的！物价飞涨，十五年六千万毕业生失业。【江峰漫谈20240813第915期】</a></li>
+<li><a href="/headline/20240814/2074439.md">党媒再高举邓小平威望与功绩 4800字长文提习近平一次</a></li>
 <li><a href="/baitai/20240814/2074297.md">习近平下台传闻将打破？越共书记18日计划面见习近平</a></li>
 <li><a href="/topimagenews/20240814/2074354.md">中国楼市再传坏消息</a></li>
 <li><a href="/topimagenews/20240813/2074156.md">信息量爆炸！特朗普与马斯克对谈两个多小时，除了聊遇刺还说了啥？</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20240412/2024185.md" target="_blank">是治疗还是屠杀?化疗药品滴一滴在皮肤即灼伤，很长时间才好</a></li>
-<li><a href="/comments/20240318/2014289.md" target="_blank">唐柏桥：民运同仁突然向法轮功开火是怎么回事？</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
 <li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/tculture/20190708/1154978.md" target="_blank">揭开“神用泥土造人”的秘密</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
 
 </ul>
 </div>
