@@ -15,19 +15,19 @@
 <li><a href="/topimagenews/20240814/2074371.md">国家玩火？习近平与普京达成新合作协议</a></li>
 <li><a href="/topimagenews/20240814/2074300.md">你死我活！秦刚被干掉？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240814/2074288.md">震惊！这地官员全部落马</a></li>
-<li><a href="/topimagenews/20240814/2074322.md">崩了！中国大学生永久失业？</a></li>
 <li><a href="/cbnews/20240814/2074548.md">习近平消失了 ? 矢板明夫﹔权威确实受到挑战 但很快会露面</a></li>
+<li><a href="/topimagenews/20240814/2074322.md">崩了！中国大学生永久失业？</a></li>
 <li><a href="/topimagenews/20240814/2074301.md">太膈应人了！跳水为什么几乎全世界都玩不过中国？</a></li>
 <li><a href="/topimagenews/20240814/2074321.md">北京颜面扫地！美以打狗不看主人</a></li>
 <li><a href="/headline/20240814/2074439.md">党媒再高举邓小平威望与功绩 4800字长文提习近平一次</a></li>
 <li><a href="/cbnews/20240814/2074410.md">江峰：八月要出大事？政变与过渡政府名单真假？习近平饱受传言攻击，中共是这样反击的！物价飞涨，十五年六千万毕业生失业。【江峰漫谈20240813第915期】</a></li>
-<li><a href="/topimagenews/20240814/2074354.md">中国楼市再传坏消息</a></li>
 <li><a href="/topimagenews/20240814/2074528.md">瓦格纳兵变以来第二次! 普丁躲至莫斯科郊外地堡？ 中媒报导意外泄机密</a></li>
-<li><a href="/cbnews/20240814/2074395.md">〖红朝浮世绘〗中国的专家居然不知道库尔斯克的重要性 普京又要哭晕在厕所</a></li>
-<li><a href="/sohnews/20240814/2074211.md">“最新大V承认：秦刚可能于去年离世 ⋯ 只是他觉得中共不该那么狠”No.03（08/13/24）习近平出事秦刚</a></li>
+<li><a href="/topimagenews/20240814/2074354.md">中国楼市再传坏消息</a></li>
 <li><a href="/headline/20240814/2074501.md">解放军5大军区司令员换3人引猜测</a></li>
+<li><a href="/cbnews/20240814/2074395.md">〖红朝浮世绘〗中国的专家居然不知道库尔斯克的重要性 普京又要哭晕在厕所</a></li>
 <li><a href="/baitai/20240814/2074342.md">杭州爆冲突 警方内部通知曝光</a></li>
 <li><a href="/baitai/20240814/2074297.md">习近平下台传闻将打破？越共书记18日计划面见习近平</a></li>
+<li><a href="/sohnews/20240814/2074438.md">陈破空：习因病辞职，已经传达到省部级？习生死不明，斐济总理到中国后离奇失踪。邓翻译断言：秦刚已死。普京诉苦：没有任何国家谴责乌克兰入侵！包括中国。直播与互动：美东时间8月13日早9点、中港台当日晚9点</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
 <li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/cnnews/20221211/1822144.md" target="_blank">盖盖冲马桶很可怕！瞬间“病毒炸开”？</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20240723/2065714.md" target="_blank">台湾民视：解谜法轮功 气功或宗教？</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/comments/20240801/2069416.md" target="_blank">无神论和有神论深度解析</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
 <li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/tculture/20231202/1968819.md" target="_blank">六道轮回之天神道</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20240412/2024185.md" target="_blank">是治疗还是屠杀?化疗药品滴一滴在皮肤即灼伤，很长时间才好</a></li>
-<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
+<li><a href="/aomi/life/20240330/2018911.md" target="_blank">挪威青年这样走出重度失眠和抑郁煎熬</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
 
 </ul>
 </div>
