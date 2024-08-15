@@ -8,13 +8,10 @@
 <li><a href="/comments/20240815/2074805.md">文昭：习近平的最新消息终於来了！未来或有重大反覆发生</a></li>
 <li><a href="/topimagenews/20240815/2074818.md">习近平憋不住了？1周内2次露面</a></li>
 <li><a href="/yule/20240815/2074712.md">48岁的小燕子赵薇又老又肿 几经起伏惨被封杀</a></li>
-<li><a href="/ccpdope/20240815/2074704.md">分析﹔习近平权威确实受到挑战 但很快会露面</a></li>
 <li><a href="/sohnews/20240815/2074944.md">习近平的最新消息来了，三十八军进入北京，温家宝放话疯传党内。《老灯开讲第636期》</a></li>
 <li><a href="/sohnews/20240815/2074972.md">军方邀温家宝任总书记，中央委员回京开四中全会，越南总书记访华是情报侦察，李强与习近平平起平坐签署命令！</a></li>
 <li><a href="/cbnews/20240815/2074763.md">反习之道而行！不是出大事是什么？</a></li>
-<li><a href="/ccpdope/20240815/2074702.md">最近北京诡异动作频繁 2442消失了图</a></li>
 <li><a href="/topimagenews/20240815/2074817.md">拿命换钱！中央军委突抛新条例 南部战区军官进京…</a></li>
-<li><a href="/yule/20240815/2074699.md">58岁鞠萍近照被曝出 一脸凶相让人不敢靠近</a></li>
 <li><a href="/ssgc/20240815/2074869.md">〖微博谈〗中共政局可能突变</a></li>
 <li><a href="/topimagenews/20240815/2075020.md">中国婚姻登记 将有重大变革 网炸锅：娶多少个都没问题</a></li>
 <li><a href="/comments/20240815/2074870.md">外交部不承认习要见越共总书记？首都老兵微博喊“重要转折”！蔡奇李强动手内情流出，发言人沉默61秒</a></li>
@@ -24,10 +21,13 @@
 <li><a href="/yule/20240815/2074748.md">曾志伟拍电影传女星假戏真做 她忍34年说出内幕</a></li>
 <li><a href="/cbnews/20240815/2074943.md">江峰：指望着习近平消停一段时间，结果，又开始折腾了</a></li>
 <li><a href="/sohnews/20240815/2075010.md">确实出事了，习权威受到挑战！历史垃圾时间如何渡过？</a></li>
+<li><a href="/ccpdope/20240815/2075096.md">传彭丽媛被赶出军委考评小组 钟绍军办公室被撤图</a></li>
 <li><a href="/topimagenews/20240815/2075015.md">乌军攻俄“蜜月期”过了? 普丁钦点接班人上前线 俄6万大军杀向库尔斯克</a></li>
 <li><a href="/topimagenews/20240815/2075040.md">比尔盖兹前妻曝见已故亿万淫魔细节 感受深了</a></li>
 <li><a href="/cbnews/20240815/2074910.md">王小洪张又侠发文挺习辟谣 政局吊诡</a></li>
-<li><a href="/ccpdope/20240815/2075096.md">传彭丽媛被赶出军委考评小组 钟绍军办公室被撤图</a></li>
+<li><a href="/worldnews/20240815/2074765.md">俄将军嚎啕大哭！华府披萨指数爆表</a></li>
+<li><a href="/topimagenews/20240815/2074787.md">不得妄议！某物业公司通知太牛了…滚出本小区</a></li>
+<li><a href="/baitai/20240815/2074978.md">天安门限行武警巡逻 评：在这个时间点后党内矛盾爆发</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240816/2075153.md" target="_blank">天亮时分：习近平减少露面实是为卸责？</a></li>
+<li><a href="/comments/20240816/2075152.md" target="_blank">【《逆行人生》 vs.杭州下跪的外卖骑手，哪个更真实？】</a></li>
 <li><a href="/comments/20240816/2075121.md" target="_blank">跟 #习近平合影！人民冲塔也要有创意！反共浪潮准备席卷中国音乐节&#8230; #中国</a></li>
 <li><a href="/comments/20240815/2075089.md" target="_blank">时事大家谈：巴黎台资酒店没挂五星旗 中国网红退房抵制</a></li>
 <li><a href="/comments/20240815/2075088.md" target="_blank">时事大家谈：中共称破获千余起台谍案 北京对台认知战？</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240815/2074815.md" target="_blank">解决通货膨胀 政府要放松监管方菲时间美国大选</a></li>
 <li><a href="/comments/20240815/2074807.md" target="_blank">未普:习近平口中的“全面深化改革”是什么意思？</a></li>
 <li><a href="/comments/20240815/2074805.md" target="_blank">文昭：习近平的最新消息终於来了！未来或有重大反覆发生</a></li>
-<li><a href="/comments/20240815/2074795.md" target="_blank">美国国债现在离谱到什么程度</a></li>
-<li><a href="/comments/20240815/2074727.md" target="_blank">川普对马斯克的高度赞扬</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
-<li><a href="/comments/20240801/2069416.md" target="_blank">无神论和有神论深度解析</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
-<li><a href="/cnnews/20170717/792917.md" target="_blank">无神论是最大的迷信</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/comments/20231203/1969183.md" target="_blank">开盖冲马桶 ，细菌会乱飞？除非你家马桶是喷泉！</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/comments/20231220/1976683.md" target="_blank">医山夜话：张锡纯医案解读（二）根治胃气不降之证</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20231212/1972297.md" target="_blank">日本华人确诊晚期直肠癌，修炼法轮功恢复健康（图）</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
+<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/tculture/20231208/1971390.md" target="_blank">传统文化之汉字的内涵</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
 
 </ul>
 </div>
