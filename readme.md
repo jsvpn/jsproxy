@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/baitai/20240814/2074460.md">习近平出事传闻越来越玄乎 军中红二代暗示：将有最惊爆大事发生 天安门广场再度戒严？</a></li>
 <li><a href="/cbnews/20240814/2074548.md">习近平消失了 ? 矢板明夫﹔权威确实受到挑战 但很快会露面</a></li>
 <li><a href="/comments/20240815/2074805.md">文昭：习近平的最新消息终於来了！未来或有重大反覆发生</a></li>
 <li><a href="/topimagenews/20240815/2074818.md">习近平憋不住了？1周内2次露面</a></li>
@@ -14,20 +13,21 @@
 <li><a href="/ccpdope/20240815/2074704.md">分析﹔习近平权威确实受到挑战 但很快会露面</a></li>
 <li><a href="/yule/20240815/2074712.md">48岁的小燕子赵薇又老又肿 几经起伏惨被封杀</a></li>
 <li><a href="/baitai/20240814/2074504.md">就叫熊太行也行｜千挑万选接班人，选中一个精神病</a></li>
-<li><a href="/headline/20240814/2074501.md">解放军5大军区司令员换3人引猜测</a></li>
 <li><a href="/topimagenews/20240815/2074817.md">拿命换钱！中央军委突抛新条例 南部战区军官进京…</a></li>
-<li><a href="/sohnews/20240814/2074462.md">直播采访红三代：习近平的健康与近况，高层的政治斗争，习的最终结局。《老灯开讲第635期》</a></li>
+<li><a href="/headline/20240814/2074501.md">解放军5大军区司令员换3人引猜测</a></li>
 <li><a href="/cnnews/20240815/2074680.md">壳牌中国首位女主席因病去世！孩子才6岁 曝死因</a></li>
 <li><a href="/ccpdope/20240815/2074702.md">最近北京诡异动作频繁 2442消失了图</a></li>
 <li><a href="/sohnews/20240814/2074646.md">“结果在线？习近平‘低调’露面 ⋯ 北戴河会议结束？”No.01（08/14/24）习近平出事中共内讧</a></li>
 <li><a href="/ssgc/20240815/2074869.md">〖微博谈〗中共政局可能突变</a></li>
-<li><a href="/topimagenews/20240814/2074629.md">解密红色政权！习近平抓“枪杆子”防政变</a></li>
 <li><a href="/yule/20240815/2074699.md">58岁鞠萍近照被曝出 一脸凶相让人不敢靠近</a></li>
+<li><a href="/topimagenews/20240814/2074629.md">解密红色政权！习近平抓“枪杆子”防政变</a></li>
 <li><a href="/yule/20240815/2074748.md">曾志伟拍电影传女星假戏真做 她忍34年说出内幕</a></li>
 <li><a href="/ccpdope/20240814/2074497.md">疫情突升温 广东沦陷 上海疫情凶猛！视频</a></li>
+<li><a href="/comments/20240815/2074870.md">外交部不承认习要见越共总书记？首都老兵微博喊“重要转折”！蔡奇李强动手内情流出，发言人沉默61秒</a></li>
 <li><a href="/cbnews/20240815/2074843.md">北京现新毒王！疫情升级</a></li>
 <li><a href="/topimagenews/20240814/2074649.md">中国多地接连演练 应对“不明原因肺炎聚集性疫情”</a></li>
 <li><a href="/sohnews/20240814/2074559.md">🔥🤯红色家族逼退习近平让他上？传胡春华欲掀翻案风；国家玩火？习近平与普京达成新合作协议；乌军正在逼近世界最大核电站！基辅：战斗持续，战局在握</a></li>
+<li><a href="/baitai/20240814/2074482.md">习近平敲打港商投资 富豪反应冷淡</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/lifebaike/20180527/948531.md" target="_blank">无神论是最大的迷信（上）：科学无法证实神不存在</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20231213/1973586.md" target="_blank">六道轮回之畜生道</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/tculture/20231217/1975364.md" target="_blank">医山夜话：张锡纯医案解读（1）根治失眠 思路清晰</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
+<li><a href="/comments/20240116/1984226.md" target="_blank">湖北老河口遇仙记</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20231223/1978148.md" target="_blank">医山夜话：张锡纯医案解读（三）赭石：降胃气 引火下行</a></li>
+<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
+<li><a href="/tculture/20190708/1154978.md" target="_blank">揭开“神用泥土造人”的秘密</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20210819/1609103.md" target="_blank">浅谈中医与西医的不同之处</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
 
 </ul>
 </div>
