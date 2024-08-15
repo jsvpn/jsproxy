@@ -14,20 +14,20 @@
 <li><a href="/topimagenews/20240814/2074528.md">瓦格纳兵变以来第二次! 普丁躲至莫斯科郊外地堡？ 中媒报导意外泄机密</a></li>
 <li><a href="/ccpdope/20240815/2074704.md">分析﹔习近平权威确实受到挑战 但很快会露面</a></li>
 <li><a href="/yule/20240815/2074712.md">48岁的小燕子赵薇又老又肿 几经起伏惨被封杀</a></li>
+<li><a href="/cbnews/20240815/2074763.md">反习之道而行！不是出大事是什么？</a></li>
 <li><a href="/headline/20240814/2074501.md">解放军5大军区司令员换3人引猜测</a></li>
+<li><a href="/comments/20240815/2074805.md">文昭：习近平的最新消息终於来了！未来或有重大反覆发生</a></li>
+<li><a href="/baitai/20240814/2074504.md">就叫熊太行也行｜千挑万选接班人，选中一个精神病</a></li>
 <li><a href="/sohnews/20240814/2074438.md">陈破空：习因病辞职，已经传达到省部级？习生死不明，斐济总理到中国后离奇失踪。邓翻译断言：秦刚已死。普京诉苦：没有任何国家谴责乌克兰入侵！包括中国。直播与互动：美东时间8月13日早9点、中港台当日晚9点</a></li>
 <li><a href="/ccpdope/20240815/2074702.md">最近北京诡异动作频繁 2442消失了图</a></li>
-<li><a href="/cbnews/20240815/2074763.md">反习之道而行！不是出大事是什么？</a></li>
-<li><a href="/baitai/20240814/2074504.md">就叫熊太行也行｜千挑万选接班人，选中一个精神病</a></li>
-<li><a href="/comments/20240815/2074805.md">文昭：习近平的最新消息终於来了！未来或有重大反覆发生</a></li>
 <li><a href="/cnnews/20240815/2074680.md">壳牌中国首位女主席因病去世！孩子才6岁 曝死因</a></li>
-<li><a href="/sohnews/20240814/2074407.md">习如此对待胡，令许多人感到不可思议｜百年真相shorts</a></li>
 <li><a href="/sohnews/20240814/2074462.md">直播采访红三代：习近平的健康与近况，高层的政治斗争，习的最终结局。《老灯开讲第635期》</a></li>
 <li><a href="/topimagenews/20240814/2074629.md">解密红色政权！习近平抓“枪杆子”防政变</a></li>
 <li><a href="/yule/20240815/2074699.md">58岁鞠萍近照被曝出 一脸凶相让人不敢靠近</a></li>
+<li><a href="/topimagenews/20240815/2074818.md">习近平憋不住了？1周内2次露面</a></li>
 <li><a href="/sohnews/20240814/2074646.md">“结果在线？习近平‘低调’露面 ⋯ 北戴河会议结束？”No.01（08/14/24）习近平出事中共内讧</a></li>
 <li><a href="/ccpdope/20240814/2074497.md">疫情突升温 广东沦陷 上海疫情凶猛！视频</a></li>
-<li><a href="/topimagenews/20240815/2074818.md">习近平憋不住了？1周内2次露面</a></li>
+<li><a href="/lifebaike/20240814/2074455.md">为什么家里不建议安装监控？其中原因，看完明白了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/cnnews/20221211/1822144.md" target="_blank">盖盖冲马桶很可怕！瞬间“病毒炸开”？</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20240704/2058130.md" target="_blank">百年梦醒（十八）：共产魔教的机制、前所未有的巨大野心</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
 <li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20240116/1984226.md" target="_blank">湖北老河口遇仙记</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
 
 </ul>
 </div>
