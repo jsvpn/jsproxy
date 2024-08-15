@@ -7,7 +7,6 @@
 
 <li><a href="/comments/20240815/2074805.md">文昭：习近平的最新消息终於来了！未来或有重大反覆发生</a></li>
 <li><a href="/topimagenews/20240815/2074818.md">习近平憋不住了？1周内2次露面</a></li>
-<li><a href="/yule/20240815/2074712.md">48岁的小燕子赵薇又老又肿 几经起伏惨被封杀</a></li>
 <li><a href="/sohnews/20240815/2074944.md">习近平的最新消息来了，三十八军进入北京，温家宝放话疯传党内。《老灯开讲第636期》</a></li>
 <li><a href="/sohnews/20240815/2074972.md">军方邀温家宝任总书记，中央委员回京开四中全会，越南总书记访华是情报侦察，李强与习近平平起平坐签署命令！</a></li>
 <li><a href="/cbnews/20240815/2074763.md">反习之道而行！不是出大事是什么？</a></li>
@@ -22,11 +21,12 @@
 <li><a href="/cbnews/20240815/2074943.md">江峰：指望着习近平消停一段时间，结果，又开始折腾了</a></li>
 <li><a href="/sohnews/20240815/2075010.md">确实出事了，习权威受到挑战！历史垃圾时间如何渡过？</a></li>
 <li><a href="/ccpdope/20240815/2075096.md">传彭丽媛被赶出军委考评小组 钟绍军办公室被撤图</a></li>
-<li><a href="/topimagenews/20240815/2075015.md">乌军攻俄“蜜月期”过了? 普丁钦点接班人上前线 俄6万大军杀向库尔斯克</a></li>
 <li><a href="/topimagenews/20240815/2075040.md">比尔盖兹前妻曝见已故亿万淫魔细节 感受深了</a></li>
+<li><a href="/topimagenews/20240815/2075015.md">乌军攻俄“蜜月期”过了? 普丁钦点接班人上前线 俄6万大军杀向库尔斯克</a></li>
 <li><a href="/cbnews/20240815/2074910.md">王小洪张又侠发文挺习辟谣 政局吊诡</a></li>
 <li><a href="/worldnews/20240815/2074765.md">俄将军嚎啕大哭！华府披萨指数爆表</a></li>
 <li><a href="/topimagenews/20240815/2074787.md">不得妄议！某物业公司通知太牛了…滚出本小区</a></li>
+<li><a href="/cbnews/20240815/2074887.md">〖红朝浮世绘〗美国共产党现在已经是无孔不入了，看看民主党的总统候选人在干什么？</a></li>
 <li><a href="/baitai/20240815/2074978.md">天安门限行武警巡逻 评：在这个时间点后党内矛盾爆发</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240816/2075164.md" target="_blank">川普、马斯克如何看美国犯罪</a></li>
 <li><a href="/cbnews/20240815/2075050.md" target="_blank">孙志刚主政贵州时贪8亿 铲除近800万亩玉米</a></li>
 <li><a href="/cbnews/20240815/2075038.md" target="_blank">江峰：谣言的诞生、传播与力量，看中共下场</a></li>
 <li><a href="/comments/20240815/2075034.md" target="_blank">美国债务100年涨了10000倍！</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20240815/2074795.md" target="_blank">美国国债现在离谱到什么程度</a></li>
 <li><a href="/cbnews/20240815/2074788.md" target="_blank">中国多地接连演练 应对“不明疫情”</a></li>
 <li><a href="/cbnews/20240815/2074763.md" target="_blank">反习之道而行！不是出大事是什么？</a></li>
-<li><a href="/cbnews/20240815/2074762.md" target="_blank">合肥长丰城管队与多名摊贩爆冲突</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240816/2075164.md" target="_blank">川普、马斯克如何看美国犯罪</a></li>
 <li><a href="/comments/20240816/2075153.md" target="_blank">天亮时分：习近平减少露面实是为卸责？</a></li>
 <li><a href="/comments/20240816/2075152.md" target="_blank">【《逆行人生》 vs.杭州下跪的外卖骑手，哪个更真实？】</a></li>
 <li><a href="/comments/20240816/2075121.md" target="_blank">跟 #习近平合影！人民冲塔也要有创意！反共浪潮准备席卷中国音乐节&#8230; #中国</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240815/2074816.md" target="_blank">通货膨胀是变相征税方菲时间美国大选</a></li>
 <li><a href="/comments/20240815/2074815.md" target="_blank">解决通货膨胀 政府要放松监管方菲时间美国大选</a></li>
 <li><a href="/comments/20240815/2074807.md" target="_blank">未普:习近平口中的“全面深化改革”是什么意思？</a></li>
-<li><a href="/comments/20240815/2074805.md" target="_blank">文昭：习近平的最新消息终於来了！未来或有重大反覆发生</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/comments/20231220/1976683.md" target="_blank">医山夜话：张锡纯医案解读（二）根治胃气不降之证</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20231212/1972297.md" target="_blank">日本华人确诊晚期直肠癌，修炼法轮功恢复健康（图）</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
-<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
 <li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
 <li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/tculture/20231208/1971390.md" target="_blank">传统文化之汉字的内涵</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/lifebaike/20180529/949787.md" target="_blank">无神论是最大的迷信（下）：科学家大多是有神论</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
 
 </ul>
 </div>
