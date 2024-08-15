@@ -17,17 +17,17 @@
 <li><a href="/ccpdope/20240815/2075096.md">传彭丽媛被赶出军委考评小组 钟绍军办公室被撤图</a></li>
 <li><a href="/cbnews/20240815/2074843.md">北京现新毒王！疫情升级</a></li>
 <li><a href="/cbnews/20240815/2074946.md">谣言不断 上海书展登场 习核心没有靠边站</a></li>
-<li><a href="/yule/20240815/2074748.md">曾志伟拍电影传女星假戏真做 她忍34年说出内幕</a></li>
 <li><a href="/headline/20240815/2074991.md">台媒近日罕见多谈习近平接班人</a></li>
-<li><a href="/cbnews/20240815/2074943.md">江峰：指望着习近平消停一段时间，结果，又开始折腾了</a></li>
 <li><a href="/topimagenews/20240815/2075103.md">习近平因为“他”神隐半月 政权不稳、重病传言再起</a></li>
+<li><a href="/cbnews/20240815/2074943.md">江峰：指望着习近平消停一段时间，结果，又开始折腾了</a></li>
 <li><a href="/topimagenews/20240815/2075040.md">比尔盖兹前妻曝见已故亿万淫魔细节 感受深了</a></li>
 <li><a href="/sohnews/20240815/2075010.md">确实出事了，习权威受到挑战！历史垃圾时间如何渡过？</a></li>
 <li><a href="/topimagenews/20240815/2075015.md">乌军攻俄“蜜月期”过了? 普丁钦点接班人上前线 俄6万大军杀向库尔斯克</a></li>
 <li><a href="/cbnews/20240815/2074910.md">王小洪张又侠发文挺习辟谣 政局吊诡</a></li>
-<li><a href="/baitai/20240815/2074978.md">天安门限行武警巡逻 评：在这个时间点后党内矛盾爆发</a></li>
 <li><a href="/cbnews/20240815/2074887.md">〖红朝浮世绘〗美国共产党现在已经是无孔不入了，看看民主党的总统候选人在干什么？</a></li>
+<li><a href="/baitai/20240815/2074978.md">天安门限行武警巡逻 评：在这个时间点后党内矛盾爆发</a></li>
 <li><a href="/worldnews/20240815/2074765.md">俄将军嚎啕大哭！华府披萨指数爆表</a></li>
+<li><a href="/topimagenews/20240815/2074787.md">不得妄议！某物业公司通知太牛了…滚出本小区</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240816/2075187.md" target="_blank">【如何评价他的”勇气“？】</a></li>
 <li><a href="/comments/20240816/2075164.md" target="_blank">川普、马斯克如何看美国犯罪</a></li>
 <li><a href="/comments/20240816/2075153.md" target="_blank">天亮时分：习近平减少露面实是为卸责？</a></li>
 <li><a href="/comments/20240816/2075152.md" target="_blank">【《逆行人生》 vs.杭州下跪的外卖骑手，哪个更真实？】</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240815/2074823.md" target="_blank">《动物农场》权力的腐败与乌托邦的幻灭</a></li>
 <li><a href="/comments/20240815/2074816.md" target="_blank">通货膨胀是变相征税方菲时间美国大选</a></li>
 <li><a href="/comments/20240815/2074815.md" target="_blank">解决通货膨胀 政府要放松监管方菲时间美国大选</a></li>
-<li><a href="/comments/20240815/2074807.md" target="_blank">未普:习近平口中的“全面深化改革”是什么意思？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/tculture/20240815/2074891.md" target="_blank">松果体 谜一样的器官</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
 <li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/topimagenews/20240511/2035423.md" target="_blank">原北京学员回忆李洪志先生在东方健康博览会上所行的奇迹</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
 
 </ul>
 </div>
