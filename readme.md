@@ -9,8 +9,8 @@
 <li><a href="/sohnews/20240815/2074972.md">军方邀温家宝任总书记，中央委员回京开四中全会，越南总书记访华是情报侦察，李强与习近平平起平坐签署命令！</a></li>
 <li><a href="/topimagenews/20240815/2075020.md">中国婚姻登记 将有重大变革 网炸锅：娶多少个都没问题</a></li>
 <li><a href="/ccpdope/20240815/2075096.md">传彭丽媛被赶出军委考评小组 钟绍军办公室被撤图</a></li>
-<li><a href="/cbnews/20240815/2074946.md">谣言不断 上海书展登场 习核心没有靠边站</a></li>
 <li><a href="/cbnews/20240816/2075199.md">副国级领导人秦刚生死已定 中共如此残忍</a></li>
+<li><a href="/cbnews/20240815/2074946.md">谣言不断 上海书展登场 习核心没有靠边站</a></li>
 <li><a href="/headline/20240815/2074991.md">台媒近日罕见多谈习近平接班人</a></li>
 <li><a href="/topimagenews/20240815/2075103.md">习近平因为“他”神隐半月 政权不稳、重病传言再起</a></li>
 <li><a href="/cbnews/20240815/2074943.md">江峰：指望着习近平消停一段时间，结果，又开始折腾了</a></li>
@@ -20,14 +20,14 @@
 <li><a href="/topimagenews/20240815/2075040.md">比尔盖兹前妻曝见已故亿万淫魔细节 感受深了</a></li>
 <li><a href="/comments/20240816/2075201.md">习近平不听显然是不行了？</a></li>
 <li><a href="/baitai/20240816/2075146.md">北戴河会议结束？ 中共外交部：习近平邀请苏林访华</a></li>
-<li><a href="/topimagenews/20240815/2075015.md">乌军攻俄“蜜月期”过了? 普丁钦点接班人上前线 俄6万大军杀向库尔斯克</a></li>
 <li><a href="/topimagenews/20240816/2075258.md">原正部官员道出潜规则 如今成中共官场至理名言</a></li>
-<li><a href="/cbnews/20240815/2074910.md">王小洪张又侠发文挺习辟谣 政局吊诡</a></li>
-<li><a href="/baitai/20240815/2074978.md">天安门限行武警巡逻 评：在这个时间点后党内矛盾爆发</a></li>
+<li><a href="/topimagenews/20240815/2075015.md">乌军攻俄“蜜月期”过了? 普丁钦点接班人上前线 俄6万大军杀向库尔斯克</a></li>
 <li><a href="/topimagenews/20240816/2075198.md">中国学历大放水呼啸而至</a></li>
+<li><a href="/baitai/20240815/2074978.md">天安门限行武警巡逻 评：在这个时间点后党内矛盾爆发</a></li>
 <li><a href="/topimagenews/20240815/2075019.md">被乌军攻入3个州！俄军尸体遍地 无力反击 专家 : 普丁面临4大困境.....</a></li>
 <li><a href="/baitai/20240815/2074987.md">富士康回来了！ 5万年轻人进厂还太少？ 传还在大规模招人 嘲讽声引出真相让中国人傻眼</a></li>
-<li><a href="/topimagenews/20240815/2074909.md">乌军拟在库尔斯克设指挥部！深入俄境96里 更大军事行动将打这里.....</a></li>
+<li><a href="/topimagenews/20240815/2075011.md">中美大型打架现场曝光！新疆男篮与美球队发生激烈冲突 比赛中断</a></li>
+<li><a href="/topimagenews/20240815/2075039.md">一直强撑的奔驰 迟迟公开了电池制造商信息</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/cbnews/20240715/2062387.md" target="_blank">尧帝治世之道（一）</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20230920/1936271.md" target="_blank">防止你的孩子不成功（5） &#8211;教育避坑指南</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
 <li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
 <li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
 
 </ul>
 </div>
