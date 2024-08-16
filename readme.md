@@ -12,19 +12,19 @@
 <li><a href="/sohnews/20240816/2075371.md">最新消息：老人帮果断对习动手，北戴河达成九项协议，民不畏死再有青年冲塔。《老灯开讲第637期》</a></li>
 <li><a href="/sohnews/20240816/2075296.md">北戴河会议“内部运作”曝光！矢板：恰如黑帮决议过程！习近平权力确受挑战，党媒“含习量”降低如同毛当年遭遇；中共驻美大使谢锋刚吹捧完“熊猫外交”，就突然回国？上海企业家指高层动向不寻常｜大宇拍案惊奇</a></li>
 <li><a href="/topimagenews/20240816/2075228.md">俄罗斯被入侵！普里格津预言生前影片疯传</a></li>
+<li><a href="/ccpdope/20240817/2075574.md">李强露面再有异常图</a></li>
 <li><a href="/headline/20240816/2075410.md">公开喊出习近平下台 中国青年冒大风险拍片「冲塔」</a></li>
 <li><a href="/cbnews/20240816/2075423.md">保利集团连出状况 太子党利益地盘震荡</a></li>
 <li><a href="/topimagenews/20240816/2075304.md">【微博精粹】设计共产党徽章的俄爹 绝想不到黄俄如此神奇</a></li>
 <li><a href="/sohnews/20240816/2075374.md">陈破空：又有猛料：习多种重病缠身。遭老同志严厉批评！即将露面是回光返照。已经进入过渡时期，多人急欲取代。乌军在俄土建军事总部，普京败局已定。直播与互动：美东时间8月16日早9点、中港台当日晚9点</a></li>
-<li><a href="/ccpdope/20240817/2075574.md">李强露面再有异常图</a></li>
 <li><a href="/comments/20240816/2075322.md">高喊“习近平下台”，田野彭载舟火了！胡锡进偷偷登录微博；华春莹紧急帮习辟谣，张又侠麻烦了</a></li>
 <li><a href="/cbnews/20240816/2075442.md">他一人灭了三家门! 中国杀官成流行 不满拆迁不公 山西转业兵杀书记、主任、局长全家</a></li>
 <li><a href="/topimagenews/20240816/2075282.md">如入无人之境！乌轰炸4座俄军机场</a></li>
 <li><a href="/topimagenews/20240816/2075231.md">全红婵遭南方日报记者“攻击” 网民集体举报</a></li>
 <li><a href="/ssgc/20240816/2075279.md">〖微博谈〗独裁有风险，后来人慎重</a></li>
 <li><a href="/yule/20240816/2075236.md">“超雄体质”李天一 未成年就作恶多端今怎样了</a></li>
-<li><a href="/ccpdope/20240816/2075302.md">正国级老同志提议恢复集体决策制度 习能听吗？</a></li>
 <li><a href="/topimagenews/20240816/2075257.md">痛断肝肠！去年高价接盘，今年卷铺盖散伙</a></li>
+<li><a href="/ccpdope/20240816/2075302.md">正国级老同志提议恢复集体决策制度 习能听吗？</a></li>
 <li><a href="/topimagenews/20240816/2075517.md">巴西62死空难黑盒子曝光！副机师问“1句话” 秒坠毁</a></li>
 <li><a href="/sohnews/20240816/2075216.md">普京呆了，俄军精锐全建制投降！兵行诡道，乌军突曝大批集结，下个目标是它？多地紧急“不明肺炎”演练，出事了？！｜远见快评 唐靖远</a></li>
 <li><a href="/cbnews/20240816/2075345.md">江峰：敢骂习近平？秦刚朋友受访，死亡疑云再起；张教官的长荣挂旗事件看爱国主义的绝境；中共再出昏招：结婚容易离婚难；地方政府穷疯了，组成联合舰队，四处抢罚民企【江峰漫谈20240815第916期】</a></li>
@@ -66,6 +66,8 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240817/2075650.md" target="_blank">中共政权出事 反贼们有盼头了</a></li>
+<li><a href="/topimagenews/20240817/2075649.md" target="_blank">喊习下台 英雄有约定 真实身份曝光</a></li>
 <li><a href="/topimagenews/20240817/2075636.md" target="_blank">习健康绝密文件 中共中央办公厅干这事？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240817/2075613.md" target="_blank">信号来了！中国经济寒冬到底有多漫长；中国学历大放水呼啸而至【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240816/2075517.md" target="_blank">巴西62死空难黑盒子曝光！副机师问“1句话” 秒坠毁</a></li>
@@ -89,16 +91,14 @@
 <li><a href="/topimagenews/20240815/2075040.md" target="_blank">比尔盖兹前妻曝见已故亿万淫魔细节 感受深了</a></li>
 <li><a href="/topimagenews/20240815/2075039.md" target="_blank">一直强撑的奔驰 迟迟公开了电池制造商信息</a></li>
 <li><a href="/topimagenews/20240815/2075020.md" target="_blank">中国婚姻登记 将有重大变革 网炸锅：娶多少个都没问题</a></li>
-<li><a href="/topimagenews/20240815/2075019.md" target="_blank">被乌军攻入3个州！俄军尸体遍地 无力反击 专家 : 普丁面临4大困境&#8230;..</a></li>
-<li><a href="/topimagenews/20240815/2075015.md" target="_blank">乌军攻俄“蜜月期”过了? 普丁钦点接班人上前线 俄6万大军杀向库尔斯克</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
-<li><a href="/comments/20240817/2075638.md" target="_blank">蔡慎坤：“老同志提30条意见”软性狙击习；“谣言”逼张又侠，王小洪出面维稳 ｜方菲时间</a></li>
 <li><a href="/comments/20240817/2075639.md" target="_blank">吴祚来：批习 北戴河会议老人帮发言以及8点共识</a></li>
+<li><a href="/comments/20240817/2075638.md" target="_blank">蔡慎坤：“老同志提30条意见”软性狙击习；“谣言”逼张又侠，王小洪出面维稳 ｜方菲时间</a></li>
 <li><a href="/comments/20240817/2075635.md" target="_blank">天亮时分：一篇文章暴露了习近平的焦虑</a></li>
 <li><a href="/comments/20240817/2075609.md" target="_blank">【炎夏威胁香港贫困老人健康】 专家警告，预计 2024 年将是有记录以来最热的一年，住在 #香港 狭小、通风不良的单位的老年人将面临更大的风险。 #劏房</a></li>
 <li><a href="/comments/20240817/2075608.md" target="_blank">【“习主席最害怕这个联盟”】 美国众议院外交事务委员会共和党主席迈克尔·麦考尔8月16日在悉尼表示，#澳大利亚 #美国 联合生产 #高超音速导弹 将减轻美国国防工业基础压力，增强在印太地区威慑力。</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
+<li><a href="/comments/20240704/2058130.md" target="_blank">百年梦醒（十八）：共产魔教的机制、前所未有的巨大野心</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
 <li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/cbnews/20240715/2062387.md" target="_blank">尧帝治世之道（一）</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/sohnews/20160119/493472.md" target="_blank">无效的医疗：手术刀下的谎言和药瓶里的欺骗</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
 
 </ul>
 </div>
