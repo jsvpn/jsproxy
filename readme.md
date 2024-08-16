@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/ccpdope/20240815/2075096.md">传彭丽媛被赶出军委考评小组 钟绍军办公室被撤图</a></li>
 <li><a href="/cbnews/20240816/2075199.md">副国级领导人秦刚生死已定 中共如此残忍</a></li>
 <li><a href="/topimagenews/20240815/2075103.md">习近平因为“他”神隐半月 政权不稳、重病传言再起</a></li>
 <li><a href="/comments/20240816/2075201.md">习近平不听显然是不行了？</a></li>
@@ -15,19 +14,20 @@
 <li><a href="/cbnews/20240816/2075318.md">〖红朝浮世绘〗习近平被控制的谣言并非空穴来风</a></li>
 <li><a href="/topimagenews/20240816/2075258.md">原正部官员道出潜规则 如今成中共官场至理名言</a></li>
 <li><a href="/baitai/20240816/2075380.md">习近平可能出大事？淡化习的权威 去习化成官场趋势</a></li>
-<li><a href="/sohnews/20240816/2075371.md">最新消息：老人帮果断对习动手，北戴河达成九项协议，民不畏死再有青年冲塔。《老灯开讲第637期》</a></li>
 <li><a href="/sohnews/20240816/2075395.md">北京市民聚集天安门广场周边，武警上街执勤，央视重播温家宝的政改讲话，央视准备再次造假，习近平辞总书记军委主席！</a></li>
+<li><a href="/sohnews/20240816/2075371.md">最新消息：老人帮果断对习动手，北戴河达成九项协议，民不畏死再有青年冲塔。《老灯开讲第637期》</a></li>
 <li><a href="/topimagenews/20240816/2075198.md">中国学历大放水呼啸而至</a></li>
 <li><a href="/sohnews/20240816/2075296.md">北戴河会议“内部运作”曝光！矢板：恰如黑帮决议过程！习近平权力确受挑战，党媒“含习量”降低如同毛当年遭遇；中共驻美大使谢锋刚吹捧完“熊猫外交”，就突然回国？上海企业家指高层动向不寻常｜大宇拍案惊奇</a></li>
 <li><a href="/topimagenews/20240816/2075228.md">俄罗斯被入侵！普里格津预言生前影片疯传</a></li>
 <li><a href="/topimagenews/20240816/2075304.md">【微博精粹】设计共产党徽章的俄爹 绝想不到黄俄如此神奇</a></li>
 <li><a href="/sohnews/20240816/2075154.md">“习近平将“高调”接见奥运健儿 越共总书记苏林 斐济总理 ⋯ 四中全会将水落石出？”No.03（08/15/24）习近平中风</a></li>
+<li><a href="/sohnews/20240816/2075374.md">陈破空：又有猛料：习多种重病缠身。遭老同志严厉批评！即将露面是回光返照。已经进入过渡时期，多人急欲取代。乌军在俄土建军事总部，普京败局已定。直播与互动：美东时间8月16日早9点、中港台当日晚9点</a></li>
 <li><a href="/topimagenews/20240816/2075282.md">如入无人之境！乌轰炸4座俄军机场</a></li>
 <li><a href="/comments/20240816/2075322.md">高喊“习近平下台”，田野彭载舟火了！胡锡进偷偷登录微博；华春莹紧急帮习辟谣，张又侠麻烦了</a></li>
 <li><a href="/topimagenews/20240816/2075231.md">全红婵遭南方日报记者“攻击” 网民集体举报</a></li>
 <li><a href="/ssgc/20240816/2075279.md">〖微博谈〗独裁有风险，后来人慎重</a></li>
-<li><a href="/sohnews/20240816/2075374.md">陈破空：又有猛料：习多种重病缠身。遭老同志严厉批评！即将露面是回光返照。已经进入过渡时期，多人急欲取代。乌军在俄土建军事总部，普京败局已定。直播与互动：美东时间8月16日早9点、中港台当日晚9点</a></li>
 <li><a href="/yule/20240816/2075236.md">“超雄体质”李天一 未成年就作恶多端今怎样了</a></li>
+<li><a href="/ccpdope/20240816/2075302.md">正国级老同志提议恢复集体决策制度 习能听吗？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240816/2075514.md" target="_blank">北戴河假期 中共政权挂病号？谣言的社会心理学（戴忠仁/上官乱/宋国诚/杜文）｜亚洲很想聊（2024-08-16）</a></li>
+<li><a href="/comments/20240816/2075502.md" target="_blank">时事大家谈：习近平你在哪里？为何这则“寻人启事”频频再现？越共新书记苏林首次外访去北京，他想收获什么？</a></li>
 <li><a href="/comments/20240816/2075491.md" target="_blank">天亮时分：对习近平不利的消息传闻并非空穴来风？</a></li>
 <li><a href="/comments/20240816/2075459.md" target="_blank">【杜耀明评论】终院没答好：警方让170万和平示威者同堕法网是否合法合理？</a></li>
 <li><a href="/comments/20240816/2075438.md" target="_blank">《华尔街日报》称乌克兰军头炸毁北溪管道，报导时机让人浮想联翩。美国大选背后的又一场较量？北溪管道拜登乌克兰</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240816/2075268.md" target="_blank">倪刃：养老金，将于2035年耗尽</a></li>
 <li><a href="/comments/20240816/2075267.md" target="_blank">张3丰的世界：绝不怕事 劳东燕教授无惧围攻回国</a></li>
 <li><a href="/comments/20240816/2075266.md" target="_blank">杨乃悟：富士康来都来了 回来的原因你想不到</a></li>
-<li><a href="/comments/20240816/2075265.md" target="_blank">叶克飞：一个地方宜居与否，老天给了什么不重要，重要的是人</a></li>
-<li><a href="/comments/20240816/2075264.md" target="_blank">蔡照明：代张维为锐评洞庭湖决口</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
 <li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/aomi/life/20240330/2018911.md" target="_blank">挪威青年这样走出重度失眠和抑郁煎熬</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/comments/20240126/1992876.md" target="_blank">内幕：中国留学生里女生打男生和男生打女一样普遍</a></li>
-<li><a href="/comments/20240418/2026391.md" target="_blank">医生劝我妻子放弃，似乎这些医生热衷让病人快点去死？</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20240723/2065714.md" target="_blank">台湾民视：解谜法轮功 气功或宗教？</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
 
 </ul>
 </div>
