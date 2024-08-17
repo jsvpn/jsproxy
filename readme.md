@@ -24,8 +24,8 @@
 <li><a href="/cbnews/20240817/2075734.md">习近平正在筹谋大型军事计划？</a></li>
 <li><a href="/cbnews/20240817/2075774.md">〖红朝浮世绘〗习近平要露面了 在求是网连续发文刷存在感</a></li>
 <li><a href="/comments/20240817/2075754.md">吴祚来：朱镕基发言？一夜返贫 整个国家开始走向破产</a></li>
-<li><a href="/comments/20240817/2075756.md">吴祚来：王岐山说话？各种危机大爆发时，尽可能不要流血</a></li>
 <li><a href="/sohnews/20240817/2075915.md">“今天8月15日 李强大胆公开承认：中共国出了大问题！”No.01（08/17/24）习近平中风</a></li>
+<li><a href="/comments/20240817/2075756.md">吴祚来：王岐山说话？各种危机大爆发时，尽可能不要流血</a></li>
 <li><a href="/headline/20240817/2075870.md">中国官方查处4年前翻墙上网福建男子</a></li>
 <li><a href="/ccpdope/20240817/2075830.md">中共文宣系统「把事情搞砸了」 大批官员落马</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240818/2075972.md" target="_blank">闹巴黎长荣酒店 中国网红爆：有统促会审核</a></li>
 <li><a href="/cbnews/20240818/2075968.md" target="_blank">四川达州宝马车高速冲入集市 传多人伤亡</a></li>
 <li><a href="/cbnews/20240818/2075967.md" target="_blank">海内外热传！女孩饿死在西安出租屋</a></li>
 <li><a href="/comments/20240818/2075952.md" target="_blank">刺杀川普案的后续调查披露的细节</a></li>
@@ -59,13 +60,13 @@
 <li><a href="/cbnews/20240817/2075732.md" target="_blank">导弹到家门口 北京担忧！他透露与王毅谈话内容</a></li>
 <li><a href="/cbnews/20240817/2075731.md" target="_blank">将来这样的形势会越来越严重</a></li>
 <li><a href="/comments/20240817/2075728.md" target="_blank">哈里斯的经济政策是什么？管制物价有效吗？</a></li>
-<li><a href="/cbnews/20240817/2075667.md" target="_blank">北戴河会议散场 中共政治老人的影响引关注</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240818/2075971.md" target="_blank">中共秘密文件：计划动员海外…</a></li>
 <li><a href="/topimagenews/20240818/2075966.md" target="_blank">为了它 中共跑去30多国发疯</a></li>
 <li><a href="/topimagenews/20240818/2075965.md" target="_blank">共军太虚弱！500枚核弹头 仅24枚处于部署状态</a></li>
 <li><a href="/topimagenews/20240818/2075964.md" target="_blank">好消息来了？李强国务院第五次全体会议下猛药；中国超50家银行解散，数千银行网点关停</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20240816/2075230.md" target="_blank">当今世界最强人！破烂不堪国家被他妙手回春【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240816/2075229.md" target="_blank">中共国巨大挑战！百姓怎么活？社会服务正在消失【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240816/2075228.md" target="_blank">俄罗斯被入侵！普里格津预言生前影片疯传</a></li>
-<li><a href="/topimagenews/20240816/2075214.md" target="_blank">空战中打败歼20 美军四代战机很轻松</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/comments/20240412/2024185.md" target="_blank">是治疗还是屠杀?化疗药品滴一滴在皮肤即灼伤，很长时间才好</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20240703/2057730.md" target="_blank">百年梦醒（十七）：马克思的连环计、出卖灵魂</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20231213/1973586.md" target="_blank">六道轮回之畜生道</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
+<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
 <li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
-<li><a href="/comments/20240723/2065714.md" target="_blank">台湾民视：解谜法轮功 气功或宗教？</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
 <li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
+<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
+<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20240126/1992876.md" target="_blank">内幕：中国留学生里女生打男生和男生打女一样普遍</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
 
 </ul>
 </div>
