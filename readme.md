@@ -8,25 +8,25 @@
 <li><a href="/ccpdope/20240817/2075574.md">李强露面再有异常图</a></li>
 <li><a href="/comments/20240817/2075639.md">吴祚来：批习 北戴河会议老人帮发言以及8点共识</a></li>
 <li><a href="/topimagenews/20240817/2075636.md">习健康绝密文件 中共中央办公厅干这事？【阿波罗网报道】</a></li>
-<li><a href="/comments/20240817/2075757.md">吴祚来：传北戴河习与元老最终达成八条共识</a></li>
 <li><a href="/topimagenews/20240817/2075650.md">中共政权出事 反贼们有盼头了</a></li>
-<li><a href="/cbnews/20240816/2075442.md">他一人灭了三家门! 中国杀官成流行 不满拆迁不公 山西转业兵杀书记、主任、局长全家</a></li>
+<li><a href="/comments/20240817/2075757.md">吴祚来：传北戴河习与元老最终达成八条共识</a></li>
 <li><a href="/comments/20240817/2075752.md">吴祚来：北戴河会议习近平检讨 胡锦涛书面意见？</a></li>
 <li><a href="/sohnews/20240816/2075525.md">“温家宝是被托办者选择 还是被利用？”No.02（08/16/24）习近平出事中共内讧</a></li>
-<li><a href="/topimagenews/20240817/2075705.md">形势严峻！引爆俄政权垮台？一重大迹象惊现 【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20240817/2075667.md">北戴河会议散场 中共政治老人的影响引关注</a></li>
+<li><a href="/topimagenews/20240817/2075705.md">形势严峻！引爆俄政权垮台？一重大迹象惊现 【阿波罗网报道】</a></li>
 <li><a href="/comments/20240817/2075638.md">蔡慎坤：“老同志提30条意见”软性狙击习；“谣言”逼张又侠，王小洪出面维稳 ｜方菲时间</a></li>
 <li><a href="/topimagenews/20240816/2075517.md">巴西62死空难黑盒子曝光！副机师问“1句话” 秒坠毁</a></li>
 <li><a href="/topimagenews/20240817/2075664.md">两人背对镜头 朝天安门毛泽东画像竖起中指</a></li>
 <li><a href="/comments/20240817/2075534.md">习近平下台 谁会上？共党内部会不会开赌盘啊？中风 换肝 胰腺癌😵北戴河开完会谣言怎麽还在传...... #习近平 #李强 #中国</a></li>
-<li><a href="/cbnews/20240817/2075768.md">江峰：习近平“呛水”北戴河，身体原因让出最高权力是选项？驻美大使谢峰紧急召回，中俄关系悄然发生巨变，中资银行停止与俄交易！疫情已多地爆发，中共再瞒真相，催生战时机制？【江峰漫谈20240816第917期】</a></li>
-<li><a href="/topimagenews/20240817/2075665.md">就怕“这件事”炸开 北京痛下杀手</a></li>
-<li><a href="/sohnews/20240817/2075623.md">“150万人浏览 大V主动传言：习近平遭正国级大佬 集体砲轰！”No.03（08/16/24）习近平出事中共内讧</a></li>
-<li><a href="/cbnews/20240817/2075734.md">习近平正在筹谋大型军事计划？</a></li>
-<li><a href="/topimagenews/20240817/2075704.md">暴露秘密？中国删除一篇雄文 美方手速已存</a></li>
 <li><a href="/sohnews/20240817/2075826.md">最新动态：中央警卫局长周洪许与习有夺妻之恨，王岐山痛批习近平刀刀入骨，一盘死棋中共难免五年内崩溃。《老灯开讲第638期》</a></li>
+<li><a href="/cbnews/20240817/2075768.md">江峰：习近平“呛水”北戴河，身体原因让出最高权力是选项？驻美大使谢峰紧急召回，中俄关系悄然发生巨变，中资银行停止与俄交易！疫情已多地爆发，中共再瞒真相，催生战时机制？【江峰漫谈20240816第917期】</a></li>
+<li><a href="/cbnews/20240817/2075734.md">习近平正在筹谋大型军事计划？</a></li>
+<li><a href="/sohnews/20240817/2075623.md">“150万人浏览 大V主动传言：习近平遭正国级大佬 集体砲轰！”No.03（08/16/24）习近平出事中共内讧</a></li>
+<li><a href="/topimagenews/20240817/2075665.md">就怕“这件事”炸开 北京痛下杀手</a></li>
+<li><a href="/topimagenews/20240817/2075704.md">暴露秘密？中国删除一篇雄文 美方手速已存</a></li>
 <li><a href="/comments/20240816/2075491.md">天亮时分：对习近平不利的消息传闻并非空穴来风？</a></li>
 <li><a href="/comments/20240817/2075754.md">吴祚来：朱镕基发言？一夜返贫 整个国家开始走向破产</a></li>
+<li><a href="/cbnews/20240817/2075774.md">〖红朝浮世绘〗习近平要露面了 在求是网连续发文刷存在感</a></li>
 <li><a href="/sports/20240816/2075454.md">女球迷在奥运赛场朝陈梦比中指 回国遭拘留</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
-<li><a href="/comments/20231223/1978148.md" target="_blank">医山夜话：张锡纯医案解读（三）赭石：降胃气 引火下行</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
-<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20210819/1609103.md" target="_blank">浅谈中医与西医的不同之处</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/taiwannews/20210119/1470524.md" target="_blank">纪录片《蚕食美国1》</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20231220/1976789.md" target="_blank">大陆医生曝：九价HPV疫苗导致怀孕能力下降40%</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20240703/2057730.md" target="_blank">百年梦醒（十七）：马克思的连环计、出卖灵魂</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
 <li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20240723/2065714.md" target="_blank">台湾民视：解谜法轮功 气功或宗教？</a></li>
+<li><a href="/comments/20231207/1970628.md" target="_blank">民兵对官军，希望之声打造广播界的奇蹟【方伟时间-20231206】</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
 
 </ul>
 </div>
