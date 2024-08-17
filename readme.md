@@ -7,27 +7,27 @@
 
 <li><a href="/sohnews/20240816/2075395.md">北京市民聚集天安门广场周边，武警上街执勤，央视重播温家宝的政改讲话，央视准备再次造假，习近平辞总书记军委主席！</a></li>
 <li><a href="/baitai/20240816/2075380.md">习近平可能出大事？淡化习的权威 去习化成官场趋势</a></li>
-<li><a href="/sohnews/20240816/2075371.md">最新消息：老人帮果断对习动手，北戴河达成九项协议，民不畏死再有青年冲塔。《老灯开讲第637期》</a></li>
 <li><a href="/ccpdope/20240817/2075574.md">李强露面再有异常图</a></li>
-<li><a href="/topimagenews/20240817/2075636.md">习健康绝密文件 中共中央办公厅干这事？【阿波罗网报道】</a></li>
 <li><a href="/comments/20240817/2075639.md">吴祚来：批习 北戴河会议老人帮发言以及8点共识</a></li>
+<li><a href="/topimagenews/20240817/2075636.md">习健康绝密文件 中共中央办公厅干这事？【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20240816/2075423.md">保利集团连出状况 太子党利益地盘震荡</a></li>
 <li><a href="/headline/20240816/2075410.md">公开喊出习近平下台 中国青年冒大风险拍片「冲塔」</a></li>
 <li><a href="/topimagenews/20240817/2075650.md">中共政权出事 反贼们有盼头了</a></li>
-<li><a href="/sohnews/20240816/2075374.md">陈破空：又有猛料：习多种重病缠身。遭老同志严厉批评！即将露面是回光返照。已经进入过渡时期，多人急欲取代。乌军在俄土建军事总部，普京败局已定。直播与互动：美东时间8月16日早9点、中港台当日晚9点</a></li>
 <li><a href="/cbnews/20240816/2075442.md">他一人灭了三家门! 中国杀官成流行 不满拆迁不公 山西转业兵杀书记、主任、局长全家</a></li>
+<li><a href="/sohnews/20240816/2075374.md">陈破空：又有猛料：习多种重病缠身。遭老同志严厉批评！即将露面是回光返照。已经进入过渡时期，多人急欲取代。乌军在俄土建军事总部，普京败局已定。直播与互动：美东时间8月16日早9点、中港台当日晚9点</a></li>
 <li><a href="/cbnews/20240817/2075667.md">北戴河会议散场 中共政治老人的影响引关注</a></li>
 <li><a href="/sohnews/20240816/2075525.md">“温家宝是被托办者选择 还是被利用？”No.02（08/16/24）习近平出事中共内讧</a></li>
-<li><a href="/topimagenews/20240816/2075517.md">巴西62死空难黑盒子曝光！副机师问“1句话” 秒坠毁</a></li>
 <li><a href="/topimagenews/20240817/2075705.md">形势严峻！引爆俄政权垮台？一重大迹象惊现 【阿波罗网报道】</a></li>
-<li><a href="/comments/20240817/2075638.md">蔡慎坤：“老同志提30条意见”软性狙击习；“谣言”逼张又侠，王小洪出面维稳 ｜方菲时间</a></li>
-<li><a href="/topimagenews/20240817/2075664.md">两人背对镜头 朝天安门毛泽东画像竖起中指</a></li>
 <li><a href="/comments/20240817/2075757.md">吴祚来：传北戴河习与元老最终达成八条共识</a></li>
+<li><a href="/topimagenews/20240816/2075517.md">巴西62死空难黑盒子曝光！副机师问“1句话” 秒坠毁</a></li>
+<li><a href="/topimagenews/20240817/2075664.md">两人背对镜头 朝天安门毛泽东画像竖起中指</a></li>
+<li><a href="/comments/20240817/2075638.md">蔡慎坤：“老同志提30条意见”软性狙击习；“谣言”逼张又侠，王小洪出面维稳 ｜方菲时间</a></li>
 <li><a href="/cbnews/20240816/2075421.md">F-16一天打下3架图-95! 俄战机不断被击落 -22M3也 “技术问题坠毁”</a></li>
 <li><a href="/topimagenews/20240817/2075665.md">就怕“这件事”炸开 北京痛下杀手</a></li>
 <li><a href="/sohnews/20240817/2075623.md">“150万人浏览 大V主动传言：习近平遭正国级大佬 集体砲轰！”No.03（08/16/24）习近平出事中共内讧</a></li>
+<li><a href="/comments/20240817/2075752.md">吴祚来：北戴河会议习近平检讨 胡锦涛书面意见？</a></li>
 <li><a href="/comments/20240817/2075534.md">习近平下台 谁会上？共党内部会不会开赌盘啊？中风 换肝 胰腺癌😵北戴河开完会谣言怎麽还在传...... #习近平 #李强 #中国</a></li>
-<li><a href="/comments/20240816/2075491.md">天亮时分：对习近平不利的消息传闻并非空穴来风？</a></li>
+<li><a href="/topimagenews/20240817/2075704.md">暴露秘密？中国删除一篇雄文 美方手速已存</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20240403/2020547.md" target="_blank">纪录片：DSM诊断与统计手册-精神病学最要命的骗局</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
 <li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20231130/1967587.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （一）</a></li>
-<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20231220/1976683.md" target="_blank">医山夜话：张锡纯医案解读（二）根治胃气不降之证</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/aomi/life/20240330/2018911.md" target="_blank">挪威青年这样走出重度失眠和抑郁煎熬</a></li>
-<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/taiwannews/20210119/1470761.md" target="_blank">独家：震撼纪录片《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
 
 </ul>
 </div>
