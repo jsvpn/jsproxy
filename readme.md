@@ -11,12 +11,12 @@
 <li><a href="/topimagenews/20240816/2075258.md">原正部官员道出潜规则 如今成中共官场至理名言</a></li>
 <li><a href="/sohnews/20240816/2075371.md">最新消息：老人帮果断对习动手，北戴河达成九项协议，民不畏死再有青年冲塔。《老灯开讲第637期》</a></li>
 <li><a href="/sohnews/20240816/2075296.md">北戴河会议“内部运作”曝光！矢板：恰如黑帮决议过程！习近平权力确受挑战，党媒“含习量”降低如同毛当年遭遇；中共驻美大使谢锋刚吹捧完“熊猫外交”，就突然回国？上海企业家指高层动向不寻常｜大宇拍案惊奇</a></li>
-<li><a href="/topimagenews/20240816/2075228.md">俄罗斯被入侵！普里格津预言生前影片疯传</a></li>
 <li><a href="/ccpdope/20240817/2075574.md">李强露面再有异常图</a></li>
+<li><a href="/topimagenews/20240816/2075228.md">俄罗斯被入侵！普里格津预言生前影片疯传</a></li>
 <li><a href="/headline/20240816/2075410.md">公开喊出习近平下台 中国青年冒大风险拍片「冲塔」</a></li>
 <li><a href="/cbnews/20240816/2075423.md">保利集团连出状况 太子党利益地盘震荡</a></li>
-<li><a href="/topimagenews/20240816/2075304.md">【微博精粹】设计共产党徽章的俄爹 绝想不到黄俄如此神奇</a></li>
 <li><a href="/sohnews/20240816/2075374.md">陈破空：又有猛料：习多种重病缠身。遭老同志严厉批评！即将露面是回光返照。已经进入过渡时期，多人急欲取代。乌军在俄土建军事总部，普京败局已定。直播与互动：美东时间8月16日早9点、中港台当日晚9点</a></li>
+<li><a href="/topimagenews/20240816/2075304.md">【微博精粹】设计共产党徽章的俄爹 绝想不到黄俄如此神奇</a></li>
 <li><a href="/comments/20240816/2075322.md">高喊“习近平下台”，田野彭载舟火了！胡锡进偷偷登录微博；华春莹紧急帮习辟谣，张又侠麻烦了</a></li>
 <li><a href="/cbnews/20240816/2075442.md">他一人灭了三家门! 中国杀官成流行 不满拆迁不公 山西转业兵杀书记、主任、局长全家</a></li>
 <li><a href="/topimagenews/20240816/2075282.md">如入无人之境！乌轰炸4座俄军机场</a></li>
@@ -26,7 +26,7 @@
 <li><a href="/topimagenews/20240816/2075257.md">痛断肝肠！去年高价接盘，今年卷铺盖散伙</a></li>
 <li><a href="/ccpdope/20240816/2075302.md">正国级老同志提议恢复集体决策制度 习能听吗？</a></li>
 <li><a href="/topimagenews/20240816/2075517.md">巴西62死空难黑盒子曝光！副机师问“1句话” 秒坠毁</a></li>
-<li><a href="/sohnews/20240816/2075216.md">普京呆了，俄军精锐全建制投降！兵行诡道，乌军突曝大批集结，下个目标是它？多地紧急“不明肺炎”演练，出事了？！｜远见快评 唐靖远</a></li>
+<li><a href="/cbnews/20240816/2075421.md">F-16一天打下3架图-95! 俄战机不断被击落 -22M3也 “技术问题坠毁”</a></li>
 <li><a href="/cbnews/20240816/2075345.md">江峰：敢骂习近平？秦刚朋友受访，死亡疑云再起；张教官的长荣挂旗事件看爱国主义的绝境；中共再出昏招：结婚容易离婚难；地方政府穷疯了，组成联合舰队，四处抢罚民企【江峰漫谈20240815第916期】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,8 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
-<li><a href="/comments/20240817/2075639.md" target="_blank">吴祚来：批习 北戴河会议老人帮发言以及8点共识</a></li>
+<li><a href="/comments/20240817/2075654.md" target="_blank">乌军神速 俄军官自揭：不要以为俄罗斯不会炸自己的平民</a></li>
 <li><a href="/comments/20240817/2075638.md" target="_blank">蔡慎坤：“老同志提30条意见”软性狙击习；“谣言”逼张又侠，王小洪出面维稳 ｜方菲时间</a></li>
+<li><a href="/comments/20240817/2075639.md" target="_blank">吴祚来：批习 北戴河会议老人帮发言以及8点共识</a></li>
 <li><a href="/comments/20240817/2075635.md" target="_blank">天亮时分：一篇文章暴露了习近平的焦虑</a></li>
 <li><a href="/comments/20240817/2075609.md" target="_blank">【炎夏威胁香港贫困老人健康】 专家警告，预计 2024 年将是有记录以来最热的一年，住在 #香港 狭小、通风不良的单位的老年人将面临更大的风险。 #劏房</a></li>
 <li><a href="/comments/20240817/2075608.md" target="_blank">【“习主席最害怕这个联盟”】 美国众议院外交事务委员会共和党主席迈克尔·麦考尔8月16日在悉尼表示，#澳大利亚 #美国 联合生产 #高超音速导弹 将减轻美国国防工业基础压力，增强在印太地区威慑力。</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240816/2075333.md" target="_blank">黑格尔谬论：中国文字成为科学发展的大障碍</a></li>
 <li><a href="/comments/20240816/2075332.md" target="_blank">横跨两大洲，看到“两个中国”</a></li>
 <li><a href="/comments/20240816/2075331.md" target="_blank">当前中国社会的八大阶级</a></li>
-<li><a href="/comments/20240816/2075330.md" target="_blank">中国没有逻辑学，不讲逻辑，只看立场</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
-<li><a href="/comments/20240704/2058130.md" target="_blank">百年梦醒（十八）：共产魔教的机制、前所未有的巨大野心</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/cbnews/20240715/2062387.md" target="_blank">尧帝治世之道（一）</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/comments/20240318/2014289.md" target="_blank">唐柏桥：民运同仁突然向法轮功开火是怎么回事？</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20240703/2057730.md" target="_blank">百年梦醒（十七）：马克思的连环计、出卖灵魂</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
 <li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/sohnews/20160119/493472.md" target="_blank">无效的医疗：手术刀下的谎言和药瓶里的欺骗</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20240412/2024185.md" target="_blank">是治疗还是屠杀?化疗药品滴一滴在皮肤即灼伤，很长时间才好</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/comments/20240721/2065039.md" target="_blank">王建勋：川普主义是雅各宾主义的克星</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
 
 </ul>
 </div>
