@@ -20,14 +20,14 @@
 <li><a href="/comments/20240816/2075322.md">高喊“习近平下台”，田野彭载舟火了！胡锡进偷偷登录微博；华春莹紧急帮习辟谣，张又侠麻烦了</a></li>
 <li><a href="/topimagenews/20240816/2075282.md">如入无人之境！乌轰炸4座俄军机场</a></li>
 <li><a href="/ssgc/20240816/2075279.md">〖微博谈〗独裁有风险，后来人慎重</a></li>
-<li><a href="/topimagenews/20240816/2075257.md">痛断肝肠！去年高价接盘，今年卷铺盖散伙</a></li>
 <li><a href="/ccpdope/20240816/2075302.md">正国级老同志提议恢复集体决策制度 习能听吗？</a></li>
+<li><a href="/topimagenews/20240816/2075257.md">痛断肝肠！去年高价接盘，今年卷铺盖散伙</a></li>
 <li><a href="/topimagenews/20240816/2075517.md">巴西62死空难黑盒子曝光！副机师问“1句话” 秒坠毁</a></li>
 <li><a href="/cbnews/20240816/2075421.md">F-16一天打下3架图-95! 俄战机不断被击落 -22M3也 “技术问题坠毁”</a></li>
 <li><a href="/cbnews/20240816/2075345.md">江峰：敢骂习近平？秦刚朋友受访，死亡疑云再起；张教官的长荣挂旗事件看爱国主义的绝境；中共再出昏招：结婚容易离婚难；地方政府穷疯了，组成联合舰队，四处抢罚民企【江峰漫谈20240815第916期】</a></li>
+<li><a href="/topimagenews/20240817/2075636.md">习健康绝密文件 中共中央办公厅干这事？【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20240816/2075525.md">“温家宝是被托办者选择 还是被利用？”No.02（08/16/24）习近平出事中共内讧</a></li>
-<li><a href="/headline/20240816/2075383.md">习近平罕见回信中国志工</a></li>
-<li><a href="/cnnews/20240816/2075294.md">突如其来一棒敲晕北京 时间窗口已不多</a></li>
+<li><a href="/sports/20240816/2075454.md">女球迷在奥运赛场朝陈梦比中指 回国遭拘留</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -100,8 +100,8 @@
 <li><a href="/comments/20240817/2075672.md" target="_blank">乌空天军血洗俄军增援/补给车队</a></li>
 <li><a href="/comments/20240817/2075662.md" target="_blank">文昭：中共元老重出江湖，对习出手了？秦刚之死间接确认，习被孤立的导火线？</a></li>
 <li><a href="/comments/20240817/2075654.md" target="_blank">乌军神速 俄军官自揭：不要以为俄罗斯不会炸自己的平民</a></li>
-<li><a href="/comments/20240817/2075638.md" target="_blank">蔡慎坤：“老同志提30条意见”软性狙击习；“谣言”逼张又侠，王小洪出面维稳 ｜方菲时间</a></li>
 <li><a href="/comments/20240817/2075639.md" target="_blank">吴祚来：批习 北戴河会议老人帮发言以及8点共识</a></li>
+<li><a href="/comments/20240817/2075638.md" target="_blank">蔡慎坤：“老同志提30条意见”软性狙击习；“谣言”逼张又侠，王小洪出面维稳 ｜方菲时间</a></li>
 <li><a href="/comments/20240817/2075635.md" target="_blank">天亮时分：一篇文章暴露了习近平的焦虑</a></li>
 <li><a href="/comments/20240817/2075609.md" target="_blank">【炎夏威胁香港贫困老人健康】 专家警告，预计 2024 年将是有记录以来最热的一年，住在 #香港 狭小、通风不良的单位的老年人将面临更大的风险。 #劏房</a></li>
 <li><a href="/comments/20240817/2075608.md" target="_blank">【“习主席最害怕这个联盟”】 美国众议院外交事务委员会共和党主席迈克尔·麦考尔8月16日在悉尼表示，#澳大利亚 #美国 联合生产 #高超音速导弹 将减轻美国国防工业基础压力，增强在印太地区威慑力。</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20180527/948531.md" target="_blank">无神论是最大的迷信（上）：科学无法证实神不存在</a></li>
-<li><a href="/cnnews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/tculture/20231119/1962827.md" target="_blank">六道轮回之地狱道</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/ssgc/20240508/2034288.md" target="_blank">《透视“进化论”》第九章 人类起源问题的终极答案</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/topimagenews/20240511/2035423.md" target="_blank">原北京学员回忆李洪志先生在东方健康博览会上所行的奇迹</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
+<li><a href="/cnnews/20170717/792917.md" target="_blank">无神论是最大的迷信</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/taiwannews/20210119/1470524.md" target="_blank">纪录片《蚕食美国1》</a></li>
+<li><a href="/cbnews/20240603/2045072.md" target="_blank">漫谈古代科举之八股文</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
 
 </ul>
 </div>
