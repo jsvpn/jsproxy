@@ -14,18 +14,18 @@
 <li><a href="/cbnews/20240817/2075667.md">北戴河会议散场 中共政治老人的影响引关注</a></li>
 <li><a href="/sohnews/20240816/2075525.md">“温家宝是被托办者选择 还是被利用？”No.02（08/16/24）习近平出事中共内讧</a></li>
 <li><a href="/topimagenews/20240817/2075705.md">形势严峻！引爆俄政权垮台？一重大迹象惊现 【阿波罗网报道】</a></li>
-<li><a href="/comments/20240817/2075638.md">蔡慎坤：“老同志提30条意见”软性狙击习；“谣言”逼张又侠，王小洪出面维稳 ｜方菲时间</a></li>
 <li><a href="/sohnews/20240817/2075826.md">最新动态：中央警卫局长周洪许与习有夺妻之恨，王岐山痛批习近平刀刀入骨，一盘死棋中共难免五年内崩溃。《老灯开讲第638期》</a></li>
+<li><a href="/comments/20240817/2075638.md">蔡慎坤：“老同志提30条意见”软性狙击习；“谣言”逼张又侠，王小洪出面维稳 ｜方菲时间</a></li>
 <li><a href="/topimagenews/20240817/2075664.md">两人背对镜头 朝天安门毛泽东画像竖起中指</a></li>
 <li><a href="/topimagenews/20240816/2075517.md">巴西62死空难黑盒子曝光！副机师问“1句话” 秒坠毁</a></li>
 <li><a href="/comments/20240817/2075534.md">习近平下台 谁会上？共党内部会不会开赌盘啊？中风 换肝 胰腺癌😵北戴河开完会谣言怎麽还在传...... #习近平 #李强 #中国</a></li>
 <li><a href="/cbnews/20240817/2075768.md">江峰：习近平“呛水”北戴河，身体原因让出最高权力是选项？驻美大使谢峰紧急召回，中俄关系悄然发生巨变，中资银行停止与俄交易！疫情已多地爆发，中共再瞒真相，催生战时机制？【江峰漫谈20240816第917期】</a></li>
 <li><a href="/cbnews/20240817/2075734.md">习近平正在筹谋大型军事计划？</a></li>
 <li><a href="/sohnews/20240817/2075623.md">“150万人浏览 大V主动传言：习近平遭正国级大佬 集体砲轰！”No.03（08/16/24）习近平出事中共内讧</a></li>
+<li><a href="/sohnews/20240817/2075812.md">陈破空：独家！重大内幕：北戴河已经完成和平政变？年内公布。他还没醒过来？斐济总理已经等了六天。突发：中共购买的俄国航母起火烧毁。直播与互动：美东时间8月17日早9点、中港台当日晚9点</a></li>
 <li><a href="/topimagenews/20240817/2075665.md">就怕“这件事”炸开 北京痛下杀手</a></li>
 <li><a href="/topimagenews/20240817/2075704.md">暴露秘密？中国删除一篇雄文 美方手速已存</a></li>
 <li><a href="/comments/20240817/2075754.md">吴祚来：朱镕基发言？一夜返贫 整个国家开始走向破产</a></li>
-<li><a href="/sohnews/20240817/2075812.md">陈破空：独家！重大内幕：北戴河已经完成和平政变？年内公布。他还没醒过来？斐济总理已经等了六天。突发：中共购买的俄国航母起火烧毁。直播与互动：美东时间8月17日早9点、中港台当日晚9点</a></li>
 <li><a href="/comments/20240816/2075491.md">天亮时分：对习近平不利的消息传闻并非空穴来风？</a></li>
 <li><a href="/cbnews/20240817/2075774.md">〖红朝浮世绘〗习近平要露面了 在求是网连续发文刷存在感</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240817/2075898.md" target="_blank">【达赖喇嘛：如果没流亡，我也许坐上拉萨宝座了】</a></li>
 <li><a href="/comments/20240817/2075884.md" target="_blank">川普宣布白宫过渡团队，5主席名单藏玄机。民点开始反转。马斯克将在川普政府任职，帮助解决最棘手的问题。马斯克川普哈里斯</a></li>
 <li><a href="/comments/20240817/2075867.md" target="_blank">哭啊！马英九泪洒长城！为中国！四万万💬网路自由而泣！墙国真感谢小马哥 #中国</a></li>
 <li><a href="/comments/20240817/2075860.md" target="_blank">解放军73049坦克部队大规模转移方菲时间中共</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240817/2075662.md" target="_blank">文昭：中共元老重出江湖，对习出手了？秦刚之死间接确认，习被孤立的导火线？</a></li>
 <li><a href="/comments/20240817/2075654.md" target="_blank">乌军神速 俄军官自揭：不要以为俄罗斯不会炸自己的平民</a></li>
 <li><a href="/comments/20240817/2075638.md" target="_blank">蔡慎坤：“老同志提30条意见”软性狙击习；“谣言”逼张又侠，王小洪出面维稳 ｜方菲时间</a></li>
-<li><a href="/comments/20240817/2075639.md" target="_blank">吴祚来：批习 北戴河会议老人帮发言以及8点共识</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
-<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20231204/1969287.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （三）</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
 
 </ul>
 </div>
