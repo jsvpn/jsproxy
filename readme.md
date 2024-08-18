@@ -9,25 +9,25 @@
 <li><a href="/sohnews/20240817/2075812.md">陈破空：独家！重大内幕：北戴河已经完成和平政变？年内公布。他还没醒过来？斐济总理已经等了六天。突发：中共购买的俄国航母起火烧毁。直播与互动：美东时间8月17日早9点、中港台当日晚9点</a></li>
 <li><a href="/comments/20240817/2075860.md">解放军73049坦克部队大规模转移方菲时间中共</a></li>
 <li><a href="/cbnews/20240818/2075967.md">海内外热传！女孩饿死在西安出租屋</a></li>
-<li><a href="/topimagenews/20240817/2075834.md">俄军后勤断了 库斯克关键大桥被炸毁</a></li>
-<li><a href="/topimagenews/20240818/2075964.md">好消息来了？李强国务院第五次全体会议下猛药；中国超50家银行解散，数千银行网点关停</a></li>
 <li><a href="/cbnews/20240818/2075986.md">中共总理李强开会 有个人尴尬台下坐</a></li>
-<li><a href="/cbnews/20240817/2075774.md">〖红朝浮世绘〗习近平要露面了 在求是网连续发文刷存在感</a></li>
+<li><a href="/topimagenews/20240818/2075964.md">好消息来了？李强国务院第五次全体会议下猛药；中国超50家银行解散，数千银行网点关停</a></li>
+<li><a href="/topimagenews/20240817/2075834.md">俄军后勤断了 库斯克关键大桥被炸毁</a></li>
 <li><a href="/sohnews/20240817/2075915.md">“今天8月15日 李强大胆公开承认：中共国出了大问题！”No.01（08/17/24）习近平中风</a></li>
 <li><a href="/topimagenews/20240818/2075971.md">中共秘密文件：计划动员海外…</a></li>
 <li><a href="/headline/20240817/2075870.md">中国官方查处4年前翻墙上网福建男子</a></li>
 <li><a href="/topimagenews/20240818/2075995.md">酒池肉林是真的 朝鲜“性招待所”揭密</a></li>
 <li><a href="/topimagenews/20240818/2075996.md">《求是》重磅长文 习用这一套 统一邓江胡？</a></li>
 <li><a href="/sohnews/20240818/2075957.md">“《一个外地女孩，死在了我出租的公寓》⋯⋯ 看得让所有人窒息 😭”No.06（08/17/24）</a></li>
+<li><a href="/topimagenews/20240818/2076073.md">爆料：传温家宝拿头来拼 习无奈向太子党低头</a></li>
 <li><a href="/sohnews/20240817/2075926.md">🚨💥北戴河会议习近平检讨？胡锦涛书面意见？；乌军入侵俄罗斯11天最新消息：继续推进并“巩固阵地”；北戴河会议散场 中共政治老人的影响引关注【阿波罗网】</a></li>
 <li><a href="/ccpdope/20240817/2075830.md">中共文宣系统「把事情搞砸了」 大批官员落马</a></li>
 <li><a href="/cnnews/20240817/2075795.md">飞机上前往中国乘客太少 可免费升等座位随便躺</a></li>
-<li><a href="/cbnews/20240817/2075919.md">形势越来越严重 中共称钢笔和打火机威胁政权安全</a></li>
 <li><a href="/topimagenews/20240818/2075966.md">为了它 中共跑去30多国发疯</a></li>
+<li><a href="/cbnews/20240817/2075919.md">形势越来越严重 中共称钢笔和打火机威胁政权安全</a></li>
 <li><a href="/ccpdope/20240817/2075844.md">不得了！中学生反内卷联盟触动中共高压线图</a></li>
+<li><a href="/cbnews/20240818/2076051.md">突发网传：中南海内发生激烈枪战</a></li>
 <li><a href="/health/20240817/2075825.md">医生提醒：过了70岁要少散步，多做4件事，许多老年人不重视</a></li>
-<li><a href="/sohnews/20240817/2075914.md">“北戴河8条后 习近平检讨书内容 ⋯ 蛮顺理成章”No.02（08/17/24）习近平中风</a></li>
-<li><a href="/cnnews/20240818/2075990.md">前上海首富周正毅复出商圈 染黄毛出席官方会议</a></li>
+<li><a href="/topimagenews/20240818/2075983.md">习近平根本不在乎它 它却几十年来跪舔</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240818/2076085.md" target="_blank">易富贤：老龄化中国社会 导致民众更依赖中央政府 ｜观点</a></li>
 <li><a href="/comments/20240818/2076081.md" target="_blank">古老板的老巢:面对社保危机，政府和民众不能当鸵鸟</a></li>
 <li><a href="/comments/20240818/2076080.md" target="_blank">宋志标｜饭圈文化开新篇：批评全红婵要付出怎样的代价？</a></li>
 <li><a href="/comments/20240818/2076079.md" target="_blank">被封杀文：卖杏花｜所以，连运动员都不能批评了？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240818/2075988.md" target="_blank">当场拍桌怒骂！北京揪“双面人”误伤友军</a></li>
 <li><a href="/comments/20240818/2075979.md" target="_blank">专访周晓（上）：我们都被中共迫害，也都被洗脑；美国左翼助中共夺权 ｜方菲时间</a></li>
 <li><a href="/comments/20240818/2075952.md" target="_blank">刺杀川普案的后续调查披露的细节</a></li>
-<li><a href="/comments/20240818/2075930.md" target="_blank">歌手真情流露🎶给这些贪官献歌？贪污不用负责？只能高唱一首《牡丹之歌》蚁民又能如何？ #中国</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/sohnews/20160119/493472.md" target="_blank">无效的医疗：手术刀下的谎言和药瓶里的欺骗</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/comments/20240813/2074068.md" target="_blank">天眼所见自杀者的悲惨境况，人一定要珍惜生命</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
-<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/taiwannews/20210119/1470524.md" target="_blank">纪录片《蚕食美国1》</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/cnnews/20221211/1822144.md" target="_blank">盖盖冲马桶很可怕！瞬间“病毒炸开”？</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/cbnews/20240715/2062387.md" target="_blank">尧帝治世之道（一）</a></li>
+<li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
+<li><a href="/comments/20230920/1936271.md" target="_blank">防止你的孩子不成功（5） &#8211;教育避坑指南</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
 
 </ul>
 </div>
