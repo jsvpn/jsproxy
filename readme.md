@@ -8,26 +8,26 @@
 <li><a href="/cbnews/20240818/2076051.md">突发网传：中南海内发生激烈枪战</a></li>
 <li><a href="/topimagenews/20240818/2076073.md">爆料：传温家宝拿头来拼 习无奈向太子党低头</a></li>
 <li><a href="/cbnews/20240818/2075967.md">海内外热传！女孩饿死在西安出租屋</a></li>
-<li><a href="/cbnews/20240818/2075986.md">中共总理李强开会 有个人尴尬台下坐</a></li>
 <li><a href="/comments/20240817/2075860.md">解放军73049坦克部队大规模转移方菲时间中共</a></li>
+<li><a href="/cbnews/20240818/2075986.md">中共总理李强开会 有个人尴尬台下坐</a></li>
 <li><a href="/sohnews/20240817/2075915.md">“今天8月15日 李强大胆公开承认：中共国出了大问题！”No.01（08/17/24）习近平中风</a></li>
 <li><a href="/topimagenews/20240818/2075964.md">好消息来了？李强国务院第五次全体会议下猛药；中国超50家银行解散，数千银行网点关停</a></li>
-<li><a href="/topimagenews/20240817/2075834.md">俄军后勤断了 库斯克关键大桥被炸毁</a></li>
 <li><a href="/topimagenews/20240818/2075971.md">中共秘密文件：计划动员海外…</a></li>
 <li><a href="/topimagenews/20240818/2075995.md">酒池肉林是真的 朝鲜“性招待所”揭密</a></li>
-<li><a href="/headline/20240817/2075870.md">中国官方查处4年前翻墙上网福建男子</a></li>
 <li><a href="/comments/20240818/2076076.md">军中大案 重创习近平</a></li>
-<li><a href="/topimagenews/20240818/2075996.md">《求是》重磅长文 习用这一套 统一邓江胡？</a></li>
+<li><a href="/headline/20240817/2075870.md">中国官方查处4年前翻墙上网福建男子</a></li>
 <li><a href="/sohnews/20240817/2075926.md">🚨💥北戴河会议习近平检讨？胡锦涛书面意见？；乌军入侵俄罗斯11天最新消息：继续推进并“巩固阵地”；北戴河会议散场 中共政治老人的影响引关注【阿波罗网】</a></li>
-<li><a href="/cbnews/20240817/2075919.md">形势越来越严重 中共称钢笔和打火机威胁政权安全</a></li>
-<li><a href="/sohnews/20240818/2075957.md">“《一个外地女孩，死在了我出租的公寓》⋯⋯ 看得让所有人窒息 😭”No.06（08/17/24）</a></li>
-<li><a href="/ccpdope/20240817/2075830.md">中共文宣系统「把事情搞砸了」 大批官员落马</a></li>
+<li><a href="/topimagenews/20240818/2075996.md">《求是》重磅长文 习用这一套 统一邓江胡？</a></li>
 <li><a href="/cbnews/20240818/2076104.md">秦刚的含赵量远高于习近平 被习密令处死？</a></li>
+<li><a href="/sohnews/20240818/2075957.md">“《一个外地女孩，死在了我出租的公寓》⋯⋯ 看得让所有人窒息 😭”No.06（08/17/24）</a></li>
+<li><a href="/cbnews/20240817/2075919.md">形势越来越严重 中共称钢笔和打火机威胁政权安全</a></li>
 <li><a href="/topimagenews/20240818/2075983.md">习近平根本不在乎它 它却几十年来跪舔</a></li>
 <li><a href="/ccpdope/20240817/2075844.md">不得了！中学生反内卷联盟触动中共高压线图</a></li>
 <li><a href="/topimagenews/20240818/2075966.md">为了它 中共跑去30多国发疯</a></li>
-<li><a href="/cnnews/20240818/2075990.md">前上海首富周正毅复出商圈 染黄毛出席官方会议</a></li>
 <li><a href="/sohnews/20240817/2075914.md">“北戴河8条后 习近平检讨书内容 ⋯ 蛮顺理成章”No.02（08/17/24）习近平中风</a></li>
+<li><a href="/cnnews/20240818/2075990.md">前上海首富周正毅复出商圈 染黄毛出席官方会议</a></li>
+<li><a href="/cnnews/20240817/2075879.md">4年前“翻墙”浏览外网 今遭处罚</a></li>
+<li><a href="/sohnews/20240818/2076012.md">🚨💥习近平霸王硬上弓？人民日报诡异2字昭告；王岐山说话？各种危机大爆发时，尽可能不要流血；中国降薪风潮愈演愈烈 他们却逆风全面加薪；喊习下台 反共青年有约定 真实身份曝光【阿波罗网】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20190701/1151501.md" target="_blank">【特稿】中国共产党是邪教组织</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20231130/1967587.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （一）</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/cnnews/20170717/792917.md" target="_blank">无神论是最大的迷信</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20240418/2026391.md" target="_blank">医生劝我妻子放弃，似乎这些医生热衷让病人快点去死？</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20231223/1978148.md" target="_blank">医山夜话：张锡纯医案解读（三）赭石：降胃气 引火下行</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20240116/1984226.md" target="_blank">湖北老河口遇仙记</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
 <li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/tculture/20231208/1971390.md" target="_blank">传统文化之汉字的内涵</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
 
 </ul>
 </div>
