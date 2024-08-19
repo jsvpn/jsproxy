@@ -19,15 +19,15 @@
 <li><a href="/topimagenews/20240818/2076150.md">乌军攻入库尔斯克 俄罗斯竟然这样找面子</a></li>
 <li><a href="/comments/20240818/2076164.md">大陆各省低调密集防疫演练，北京惊现环京“新城墙”。习近平出事？还是新一波疫情再次爆发？新冠病毒习近平疫情</a></li>
 <li><a href="/headline/20240818/2076168.md">越南最高领导人苏林今抵中国 稍后见习近平与李强</a></li>
-<li><a href="/yule/20240818/2076102.md">中国尺度最大引进片! 太恐怖未成年谨慎观看</a></li>
+<li><a href="/baitai/20240819/2076265.md">北戴河老同志围攻罢免习近平是政治谣言</a></li>
+<li><a href="/sohnews/20240819/2076239.md">“习近平自身难保 ⋯ 导致后果难料”No.04（08/18/24）</a></li>
 <li><a href="/health/20240818/2076135.md">心衰与午睡有关？再三提醒：过了55岁，牢记午睡“四不要”</a></li>
+<li><a href="/yule/20240818/2076102.md">中国尺度最大引进片! 太恐怖未成年谨慎观看</a></li>
 <li><a href="/topimagenews/20240818/2076072.md">从早烧到晚 中共航母骇人画面曝光</a></li>
 <li><a href="/cbnews/20240818/2076186.md">它跪舔几十年 习近平根本不在乎它</a></li>
-<li><a href="/sohnews/20240819/2076239.md">“习近平自身难保 ⋯ 导致后果难料”No.04（08/18/24）</a></li>
-<li><a href="/baitai/20240819/2076265.md">北戴河老同志围攻罢免习近平是政治谣言</a></li>
 <li><a href="/comments/20240818/2076059.md">【微博精粹】帝都草民又去天安门散步了</a></li>
-<li><a href="/cnnews/20240818/2076037.md">咸丰皇帝短命的4个特殊癖好 想不死都难</a></li>
 <li><a href="/baitai/20240818/2076172.md">李强国务院会议下猛药</a></li>
+<li><a href="/sohnews/20240819/2076225.md">“中元节 苏共总书记到访 ⋯ 在经久不衰中风谣言中”（08/18/24）</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240819/2076313.md" target="_blank">中国建教合作乱象:空头支票致学历就业两头空</a></li>
 <li><a href="/comments/20240819/2076293.md" target="_blank">神韵艺术团：美国的成功故事激励成长型企业</a></li>
 <li><a href="/cbnews/20240819/2076278.md" target="_blank">〖红朝浮世绘〗习近平反水了 中俄友谊不再无上限</a></li>
 <li><a href="/cbnews/20240819/2076271.md" target="_blank">中国海关紧急发新规！赴华入境需接受猴痘筛查</a></li>
@@ -59,13 +60,14 @@
 <li><a href="/comments/20240818/2076048.md" target="_blank">【杰森视角】中国裁员降薪花样翻新，让人步步惊心！中国金融的&#8221;动态清零&#8221;来了？“口红效应”到中国变成了什么？未来至少三分之一大学生将永远失业？中国人消费习惯在一夜间转变！中国就业寒冬至少要持续15年！</a></li>
 <li><a href="/cbnews/20240818/2076014.md" target="_blank">美军飞跃！首艘配备完整无人作战中心超级航母</a></li>
 <li><a href="/cbnews/20240818/2075997.md" target="_blank">中共无耻预案，网络热议</a></li>
-<li><a href="/cbnews/20240818/2075986.md" target="_blank">中共总理李强开会 有个人尴尬台下坐</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240819/2076312.md" target="_blank">巨大挑战！中共“种族纯洁”不破防难以解决</a></li>
+<li><a href="/topimagenews/20240819/2076311.md" target="_blank">中共害怕了：“要解放要自由” 少年英雄组联盟发公告 迅速发展千人</a></li>
 <li><a href="/topimagenews/20240819/2076297.md" target="_blank">北京房市的购房需求，断档了…</a></li>
 <li><a href="/topimagenews/20240819/2076296.md" target="_blank">摩萨德强到匪夷所思！ 伊朗和真主党彻底吓傻</a></li>
 <li><a href="/comments/20240819/2076293.md" target="_blank">神韵艺术团：美国的成功故事激励成长型企业</a></li>
@@ -89,14 +91,20 @@
 <li><a href="/topimagenews/20240817/2075705.md" target="_blank">形势严峻！引爆俄政权垮台？一重大迹象惊现 【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240817/2075704.md" target="_blank">暴露秘密？中国删除一篇雄文 美方手速已存</a></li>
 <li><a href="/topimagenews/20240817/2075703.md" target="_blank">中国降薪风潮愈演愈烈 他们却逆风全面加薪</a></li>
-<li><a href="/topimagenews/20240817/2075665.md" target="_blank">就怕“这件事”炸开 北京痛下杀手</a></li>
-<li><a href="/topimagenews/20240817/2075664.md" target="_blank">两人背对镜头 朝天安门毛泽东画像竖起中指</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240819/2076322.md" target="_blank">乌克兰转守为攻，中俄无上限合作不知如何收场</a></li>
+<li><a href="/comments/20240819/2076321.md" target="_blank">被封杀文：厦门大学：尽快启动台湾接管准备</a></li>
+<li><a href="/comments/20240819/2076320.md" target="_blank">巴拿马难民营里的众生相： “走线”去美国的人，穿越雨林后在这里喘了口气</a></li>
+<li><a href="/comments/20240819/2076319.md" target="_blank">李井奎：为什么“结婚不用户口簿”触动人们的神经？</a></li>
+<li><a href="/comments/20240819/2076318.md" target="_blank">那个攻击奥运冠军的体育记者</a></li>
+<li><a href="/comments/20240819/2076317.md" target="_blank">被封杀文： 南方小朱能不能批评南方小全</a></li>
+<li><a href="/comments/20240819/2076316.md" target="_blank">“俄粉”是怎样炼成的？</a></li>
+<li><a href="/comments/20240819/2076315.md" target="_blank">别拿自己的过去 忽悠现在可怜的孩子</a></li>
 <li><a href="/comments/20240819/2076301.md" target="_blank">解放军把坦克大炮拉上渔船 对抗1996年美军航母</a></li>
 <li><a href="/comments/20240819/2076300.md" target="_blank">深度工场：中俄高铁危险了!乌军导弹可覆盖整个列车站</a></li>
 <li><a href="/comments/20240819/2076299.md" target="_blank">哈马斯有信仰还爱孩子，以色列为何不放过他们？</a></li>
@@ -114,14 +122,6 @@
 <li><a href="/comments/20240818/2076170.md" target="_blank">哈里斯准备管控物价 这是对的吗？</a></li>
 <li><a href="/comments/20240818/2076164.md" target="_blank">大陆各省低调密集防疫演练，北京惊现环京“新城墙”。习近平出事？还是新一波疫情再次爆发？新冠病毒习近平疫情</a></li>
 <li><a href="/comments/20240818/2076085.md" target="_blank">易富贤：老龄化中国社会 导致民众更依赖中央政府 ｜观点</a></li>
-<li><a href="/comments/20240818/2076081.md" target="_blank">古老板的老巢:面对社保危机，政府和民众不能当鸵鸟</a></li>
-<li><a href="/comments/20240818/2076080.md" target="_blank">宋志标｜饭圈文化开新篇：批评全红婵要付出怎样的代价？</a></li>
-<li><a href="/comments/20240818/2076079.md" target="_blank">被封杀文：卖杏花｜所以，连运动员都不能批评了？</a></li>
-<li><a href="/comments/20240818/2076078.md" target="_blank">立此存照:厦门大学｜尽快启动台湾接管准备</a></li>
-<li><a href="/comments/20240818/2076076.md" target="_blank">军中大案 重创习近平</a></li>
-<li><a href="/comments/20240818/2076071.md" target="_blank">俄军大批投降，乌军运俘虏压力山大！金正恩拒绝普京履约支援：你大儿子在哪？华人雇佣兵惨透！憋招逃离</a></li>
-<li><a href="/comments/20240818/2076059.md" target="_blank">【微博精粹】帝都草民又去天安门散步了</a></li>
-<li><a href="/comments/20240818/2076056.md" target="_blank">方伟+辛恬去芝加哥吃披萨啦</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
-<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/tculture/20231202/1968819.md" target="_blank">六道轮回之天神道</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/ssgc/20240508/2034288.md" target="_blank">《透视“进化论”》第九章 人类起源问题的终极答案</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
 <li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
-<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
-<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
-<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
-<li><a href="/comments/20231130/1967587.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （一）</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/cbnews/20231208/1971389.md" target="_blank">话说中医之祝由科</a></li>
+<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/tculture/20231202/1968819.md" target="_blank">六道轮回之天神道</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
 <li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
 
 </ul>
 </div>
