@@ -11,8 +11,8 @@
 <li><a href="/sohnews/20240818/2076090.md">陈破空：实锤！老习仍陷昏迷。当局安排越共总书记先到广州。斐济总理苦等七天，仍无法进京会见。党媒连发两篇长文，捧邓贬习。直播与互动：美东时间8月18日早9点、中港台当晚9点。</a></li>
 <li><a href="/sohnews/20240818/2076129.md">决裂：李强在国务院常会上公开贬低主子，六千万大学生失业潮恐持续15年，毕业于北京名校的女孩饿死。《老灯开讲第639期》</a></li>
 <li><a href="/sohnews/20240818/2076088.md">忧俄罗斯核武攻击，南部中部战区紧急转移疏散！秦刚因中共大太子地位，被秘密处死！李强藐视习近平，说明习近平已经下台了！</a></li>
-<li><a href="/sohnews/20240818/2076163.md">💥🔥军中大案 重创习近平；警告中共：“如果你打我，我就宣布独立”；；为了它 中共跑去30多国发疯</a></li>
 <li><a href="/lifebaike/20240818/2076193.md">一个外地女孩，死在了我出租的公寓</a></li>
+<li><a href="/sohnews/20240818/2076163.md">💥🔥军中大案 重创习近平；警告中共：“如果你打我，我就宣布独立”；；为了它 中共跑去30多国发疯</a></li>
 <li><a href="/headline/20240818/2076139.md">越南最高领导人苏林抵达中国展开为期三天访问 将会见习近平</a></li>
 <li><a href="/cbnews/20240818/2076106.md">据传，共军向中俄边界和中朝边界增兵，应对俄国讹诈</a></li>
 <li><a href="/baitai/20240819/2076265.md">北戴河老同志围攻罢免习近平是政治谣言</a></li>
@@ -27,7 +27,7 @@
 <li><a href="/topimagenews/20240819/2076250.md">中共国代价惨重！接下来世界或走向更危险</a></li>
 <li><a href="/sohnews/20240819/2076225.md">“中元节 苏共总书记到访 ⋯ 在经久不衰中风谣言中”（08/18/24）</a></li>
 <li><a href="/baitai/20240818/2076172.md">李强国务院会议下猛药</a></li>
-<li><a href="/ssgc/20240818/2076189.md">乌克兰尽遣精锐 莫斯科北京都揪心</a></li>
+<li><a href="/cbnews/20240819/2076278.md">〖红朝浮世绘〗习近平反水了 中俄友谊不再无上限</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240819/2076346.md" target="_blank">中共对巴以局势火上浇油</a></li>
 <li><a href="/comments/20240819/2076339.md" target="_blank">民主党大会期间，谈232年的民主党历史</a></li>
 <li><a href="/cbnews/20240819/2076313.md" target="_blank">中国建教合作乱象:空头支票致学历就业两头空</a></li>
 <li><a href="/comments/20240819/2076293.md" target="_blank">神韵艺术团：美国的成功故事激励成长型企业</a></li>
@@ -59,13 +60,16 @@
 <li><a href="/cbnews/20240818/2076053.md" target="_blank">云南前首富被监视居住 2年半6家烟草类公司出事</a></li>
 <li><a href="/cbnews/20240818/2076052.md" target="_blank">江苏男子逃出国 揭中共精神病院凶残黑幕</a></li>
 <li><a href="/comments/20240818/2076048.md" target="_blank">【杰森视角】中国裁员降薪花样翻新，让人步步惊心！中国金融的&#8221;动态清零&#8221;来了？“口红效应”到中国变成了什么？未来至少三分之一大学生将永远失业？中国人消费习惯在一夜间转变！中国就业寒冬至少要持续15年！</a></li>
-<li><a href="/cbnews/20240818/2076014.md" target="_blank">美军飞跃！首艘配备完整无人作战中心超级航母</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240819/2076345.md" target="_blank">北约援助装甲车辆涌向俄 乌克兰不断增兵</a></li>
+<li><a href="/topimagenews/20240819/2076344.md" target="_blank">乌军攻势猛烈！白俄急调3分之1兵力驻边境防入侵</a></li>
+<li><a href="/topimagenews/20240819/2076343.md" target="_blank">周晓辉：中央党校报刊及多家党刊纪念邓小平透何信息</a></li>
+<li><a href="/topimagenews/20240819/2076342.md" target="_blank">泽连斯基揭露乌军攻打库尔斯克目的</a></li>
 <li><a href="/topimagenews/20240819/2076312.md" target="_blank">巨大挑战！中共“种族纯洁”不破防难以解决</a></li>
 <li><a href="/topimagenews/20240819/2076311.md" target="_blank">中共害怕了：“要解放要自由” 少年英雄组联盟发公告 迅速发展千人</a></li>
 <li><a href="/topimagenews/20240819/2076297.md" target="_blank">北京房市的购房需求，断档了…</a></li>
@@ -87,10 +91,6 @@
 <li><a href="/topimagenews/20240818/2075966.md" target="_blank">为了它 中共跑去30多国发疯</a></li>
 <li><a href="/topimagenews/20240818/2075965.md" target="_blank">共军太虚弱！500枚核弹头 仅24枚处于部署状态</a></li>
 <li><a href="/topimagenews/20240818/2075964.md" target="_blank">好消息来了？李强国务院第五次全体会议下猛药；中国超50家银行解散，数千银行网点关停</a></li>
-<li><a href="/topimagenews/20240817/2075834.md" target="_blank">俄军后勤断了 库斯克关键大桥被炸毁</a></li>
-<li><a href="/topimagenews/20240817/2075705.md" target="_blank">形势严峻！引爆俄政权垮台？一重大迹象惊现 【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20240817/2075704.md" target="_blank">暴露秘密？中国删除一篇雄文 美方手速已存</a></li>
-<li><a href="/topimagenews/20240817/2075703.md" target="_blank">中国降薪风潮愈演愈烈 他们却逆风全面加薪</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/topimagenews/20200514/1328456.md" target="_blank">穿越时空 谢田教授亲身体验人体特异功能</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/lifebaike/20180527/948531.md" target="_blank">无神论是最大的迷信（上）：科学无法证实神不存在</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/tculture/20231217/1975364.md" target="_blank">医山夜话：张锡纯医案解读（1）根治失眠 思路清晰</a></li>
+<li><a href="/comments/20240704/2058130.md" target="_blank">百年梦醒（十八）：共产魔教的机制、前所未有的巨大野心</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20240801/2069416.md" target="_blank">无神论和有神论深度解析</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
 <li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20231223/1978148.md" target="_blank">医山夜话：张锡纯医案解读（三）赭石：降胃气 引火下行</a></li>
-<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
 
 </ul>
 </div>
