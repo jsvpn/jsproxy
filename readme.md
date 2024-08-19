@@ -13,15 +13,15 @@
 <li><a href="/sohnews/20240819/2076239.md">“习近平自身难保 ⋯ 导致后果难料”No.04（08/18/24）</a></li>
 <li><a href="/sohnews/20240819/2076414.md">陈破空：重大穿帮！习近平露面了？但央视只有远镜头！人影小得无法辨认。全程特殊安排。同以往形式大不同。替身？重病！党媒加工影像偷忙一整天。直播与互动：美东时间8月19日早9点、中港台当晚9点。</a></li>
 <li><a href="/topimagenews/20240819/2076358.md">【微博精粹】中共垮塌加速：太子党钱庄崩盘</a></li>
-<li><a href="/topimagenews/20240819/2076250.md">中共国代价惨重！接下来世界或走向更危险</a></li>
-<li><a href="/sohnews/20240819/2076225.md">“中元节 苏共总书记到访 ⋯ 在经久不衰中风谣言中”（08/18/24）</a></li>
 <li><a href="/comments/20240819/2076460.md">吴祚来：北戴河八共识大闹京城 胡被架出20大内幕</a></li>
 <li><a href="/topimagenews/20240819/2076473.md">“北戴河八条”限制习近平? 陆网还疯传彭丽媛、锺绍军被赶出军委考评会</a></li>
-<li><a href="/sohnews/20240819/2076412.md">还是替身：习近平犹抱琵琶半遮面，中南海昨夜枪战之谜，中国模式已经彻底失败。《老灯开讲第640期》</a></li>
+<li><a href="/topimagenews/20240819/2076250.md">中共国代价惨重！接下来世界或走向更危险</a></li>
+<li><a href="/sohnews/20240819/2076225.md">“中元节 苏共总书记到访 ⋯ 在经久不衰中风谣言中”（08/18/24）</a></li>
 <li><a href="/cbnews/20240819/2076389.md">唱的哪一出? 涉黄手办竟在上海公开展出</a></li>
+<li><a href="/sohnews/20240819/2076412.md">还是替身：习近平犹抱琵琶半遮面，中南海昨夜枪战之谜，中国模式已经彻底失败。《老灯开讲第640期》</a></li>
 <li><a href="/topimagenews/20240819/2076270.md">中国金融圈，最近带走多少人了？</a></li>
-<li><a href="/topimagenews/20240819/2076257.md">普京称他为“我的儿子” 走向台前</a></li>
 <li><a href="/baitai/20240819/2076454.md">习近平神隐21天首度露面 央视直播镜头引关注</a></li>
+<li><a href="/topimagenews/20240819/2076257.md">普京称他为“我的儿子” 走向台前</a></li>
 <li><a href="/comments/20240819/2076462.md">吴祚来：习做检讨，毛新宇邓朴方吵架</a></li>
 <li><a href="/topimagenews/20240819/2076280.md">跌破眼镜！中国职业运动员就是和这样的美国选手比赛</a></li>
 <li><a href="/comments/20240819/2076420.md">【习近平时隔3周首度公开现身】【与越共总书记苏林会面】</a></li>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240820/2076594.md" target="_blank">神韵艺术团回应近期媒体报导的声明</a></li>
+<li><a href="/cbnews/20240820/2076593.md" target="_blank">武汉疾控中心通报新冠疫情回升 引热议</a></li>
 <li><a href="/cbnews/20240819/2076583.md" target="_blank">菲中海警船南海碰撞 美大使斥中共危及人命</a></li>
 <li><a href="/comments/20240819/2076548.md" target="_blank">前CNN主播街头采访新泽西，选民一致反馈令他吃惊。JD万斯一语定义民调。DNC大会在即，哈里斯给民主党带来的希望与担忧。美国大选万斯哈里斯</a></li>
 <li><a href="/comments/20240819/2076500.md" target="_blank">他遥视看太空，吓出一身冷汗！超越电子仪器、手绘图流出⋯ 解密资料证实，美国早有准备⋯｜未解之谜</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/comments/20240818/2076214.md" target="_blank">政府送钱25000元买房，好事还是坏事？</a></li>
 <li><a href="/cbnews/20240818/2076206.md" target="_blank">中国多地推“零首付买房” 业界：谨慎选择</a></li>
 <li><a href="/cbnews/20240818/2076186.md" target="_blank">它跪舔几十年 习近平根本不在乎它</a></li>
-<li><a href="/cbnews/20240818/2076177.md" target="_blank">国际密切关注 陆对台“灰色地带战术”升级</a></li>
-<li><a href="/cbnews/20240818/2076176.md" target="_blank">浙江一火锅店开业半月 十多名顾客晕倒躺地</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240820/2076601.md" target="_blank">正常人关入精神病院？！在玉米田喊 #习近平 下台！田野彭载舟冲塔勇士 让我们持续关注！ #中国</a></li>
 <li><a href="/comments/20240819/2076567.md" target="_blank">时事大家谈：众所瞩目习近平，如何解读他的神隐和复出？</a></li>
 <li><a href="/comments/20240819/2076566.md" target="_blank">时事大家谈：越共领导人首站访华，两个共产党国家貌合神离？众所瞩目习近平，如何解读他的神隐和复出？</a></li>
 <li><a href="/comments/20240819/2076548.md" target="_blank">前CNN主播街头采访新泽西，选民一致反馈令他吃惊。JD万斯一语定义民调。DNC大会在即，哈里斯给民主党带来的希望与担忧。美国大选万斯哈里斯</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240819/2076320.md" target="_blank">巴拿马难民营里的众生相： “走线”去美国的人，穿越雨林后在这里喘了口气</a></li>
 <li><a href="/comments/20240819/2076319.md" target="_blank">李井奎：为什么“结婚不用户口簿”触动人们的神经？</a></li>
 <li><a href="/comments/20240819/2076318.md" target="_blank">那个攻击奥运冠军的体育记者</a></li>
-<li><a href="/comments/20240819/2076317.md" target="_blank">被封杀文： 南方小朱能不能批评南方小全</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/tculture/20231208/1971390.md" target="_blank">传统文化之汉字的内涵</a></li>
-<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/tculture/20231202/1968819.md" target="_blank">六道轮回之天神道</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/cbnews/20231208/1971389.md" target="_blank">话说中医之祝由科</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
 
 </ul>
 </div>
