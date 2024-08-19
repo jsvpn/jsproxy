@@ -10,24 +10,24 @@
 <li><a href="/cbnews/20240819/2076278.md">〖红朝浮世绘〗习近平反水了 中俄友谊不再无上限</a></li>
 <li><a href="/topimagenews/20240819/2076359.md">首次！中共公开将领导干部以权谋色合理化 官方定性李佩霞</a></li>
 <li><a href="/headline/20240819/2076423.md">习近平与越共总书记会面 央媒两小时后才发布习近平近镜影片</a></li>
-<li><a href="/headline/20240818/2076168.md">越南最高领导人苏林今抵中国 稍后见习近平与李强</a></li>
 <li><a href="/sohnews/20240819/2076239.md">“习近平自身难保 ⋯ 导致后果难料”No.04（08/18/24）</a></li>
 <li><a href="/topimagenews/20240819/2076358.md">【微博精粹】中共垮塌加速：太子党钱庄崩盘</a></li>
 <li><a href="/sohnews/20240819/2076414.md">陈破空：重大穿帮！习近平露面了？但央视只有远镜头！人影小得无法辨认。全程特殊安排。同以往形式大不同。替身？重病！党媒加工影像偷忙一整天。直播与互动：美东时间8月19日早9点、中港台当晚9点。</a></li>
 <li><a href="/sohnews/20240819/2076225.md">“中元节 苏共总书记到访 ⋯ 在经久不衰中风谣言中”（08/18/24）</a></li>
 <li><a href="/topimagenews/20240819/2076250.md">中共国代价惨重！接下来世界或走向更危险</a></li>
-<li><a href="/cbnews/20240818/2076186.md">它跪舔几十年 习近平根本不在乎它</a></li>
-<li><a href="/cbnews/20240819/2076389.md">唱的哪一出? 涉黄手办竟在上海公开展出</a></li>
 <li><a href="/baitai/20240818/2076172.md">李强国务院会议下猛药</a></li>
+<li><a href="/cbnews/20240819/2076389.md">唱的哪一出? 涉黄手办竟在上海公开展出</a></li>
+<li><a href="/cbnews/20240818/2076186.md">它跪舔几十年 习近平根本不在乎它</a></li>
 <li><a href="/topimagenews/20240819/2076257.md">普京称他为“我的儿子” 走向台前</a></li>
 <li><a href="/sohnews/20240819/2076412.md">还是替身：习近平犹抱琵琶半遮面，中南海昨夜枪战之谜，中国模式已经彻底失败。《老灯开讲第640期》</a></li>
+<li><a href="/topimagenews/20240819/2076459.md">习近平同越共总书记苏林会谈 王丹疑 : 为何一个近身正脸的画面都没有?</a></li>
+<li><a href="/topimagenews/20240819/2076270.md">中国金融圈，最近带走多少人了？</a></li>
 <li><a href="/topimagenews/20240819/2076296.md">摩萨德强到匪夷所思！ 伊朗和真主党彻底吓傻</a></li>
 <li><a href="/topimagenews/20240819/2076280.md">跌破眼镜！中国职业运动员就是和这样的美国选手比赛</a></li>
-<li><a href="/topimagenews/20240819/2076270.md">中国金融圈，最近带走多少人了？</a></li>
-<li><a href="/topimagenews/20240819/2076459.md">习近平同越共总书记苏林会谈 王丹疑 : 为何一个近身正脸的画面都没有?</a></li>
-<li><a href="/ssgc/20240818/2076189.md">乌克兰尽遣精锐 莫斯科北京都揪心</a></li>
 <li><a href="/sohnews/20240819/2076410.md">苏林不如不去北京！暴露了党国秘密？党媒报导太尴尬，越南共产党新任总书记到访，习近平哪去了？继续问！｜大宇拍案惊奇</a></li>
+<li><a href="/ssgc/20240818/2076189.md">乌克兰尽遣精锐 莫斯科北京都揪心</a></li>
 <li><a href="/baitai/20240819/2076263.md">内藏习近平「秘辛」 中共与美国争夺李锐日记</a></li>
+<li><a href="/comments/20240819/2076420.md">【习近平时隔3周首度公开现身】【与越共总书记苏林会面】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240819/2076500.md" target="_blank">他遥视看太空，吓出一身冷汗！超越电子仪器、手绘图流出⋯ 解密资料证实，美国早有准备⋯｜未解之谜</a></li>
 <li><a href="/cbnews/20240819/2076442.md" target="_blank">中菲今爆南海仙宾暗沙撞船冲突 菲海巡船被撞出大洞结构性损坏</a></li>
 <li><a href="/cbnews/20240819/2076389.md" target="_blank">唱的哪一出? 涉黄手办竟在上海公开展出</a></li>
 <li><a href="/cbnews/20240819/2076388.md" target="_blank">大陆民众议新冠后遗症：怕风怕冷 高温天穿棉衣</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240818/2076176.md" target="_blank">浙江一火锅店开业半月 十多名顾客晕倒躺地</a></li>
 <li><a href="/cbnews/20240818/2076175.md" target="_blank">秦始皇陵兵马俑 女子抱孩子闯入俑坑热传</a></li>
 <li><a href="/comments/20240818/2076170.md" target="_blank">哈里斯准备管控物价 这是对的吗？</a></li>
-<li><a href="/comments/20240818/2076164.md" target="_blank">大陆各省低调密集防疫演练，北京惊现环京“新城墙”。习近平出事？还是新一波疫情再次爆发？新冠病毒习近平疫情</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240819/2076500.md" target="_blank">他遥视看太空，吓出一身冷汗！超越电子仪器、手绘图流出⋯ 解密资料证实，美国早有准备⋯｜未解之谜</a></li>
 <li><a href="/comments/20240819/2076494.md" target="_blank">马英九对中共喊话！习近平你知道的！🇹🇭曼谷香格里拉酒店 #习近平 #中国</a></li>
 <li><a href="/comments/20240819/2076486.md" target="_blank">我和我的神韵实习演奏员女儿的故事</a></li>
 <li><a href="/comments/20240819/2076462.md" target="_blank">吴祚来：习做检讨，毛新宇邓朴方吵架</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240819/2076301.md" target="_blank">解放军把坦克大炮拉上渔船 对抗1996年美军航母</a></li>
 <li><a href="/comments/20240819/2076300.md" target="_blank">深度工场：中俄高铁危险了!乌军导弹可覆盖整个列车站</a></li>
 <li><a href="/comments/20240819/2076299.md" target="_blank">哈马斯有信仰还爱孩子，以色列为何不放过他们？</a></li>
-<li><a href="/comments/20240819/2076298.md" target="_blank">普京了急 急招北韩金三胖的民工挖战壕 每月4000美刀</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
-<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20240126/1992876.md" target="_blank">内幕：中国留学生里女生打男生和男生打女一样普遍</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20231204/1969287.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （三）</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/comments/20240704/2058130.md" target="_blank">百年梦醒（十八）：共产魔教的机制、前所未有的巨大野心</a></li>
 <li><a href="/comments/20231207/1970628.md" target="_blank">民兵对官军，希望之声打造广播界的奇蹟【方伟时间-20231206】</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20240808/2071869.md" target="_blank">【新纪元】被误解的大脑</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
+<li><a href="/lifebaike/20180527/948531.md" target="_blank">无神论是最大的迷信（上）：科学无法证实神不存在</a></li>
+<li><a href="/comments/20240318/2014289.md" target="_blank">唐柏桥：民运同仁突然向法轮功开火是怎么回事？</a></li>
+<li><a href="/cbnews/20240715/2062387.md" target="_blank">尧帝治世之道（一）</a></li>
+<li><a href="/comments/20240418/2026391.md" target="_blank">医生劝我妻子放弃，似乎这些医生热衷让病人快点去死？</a></li>
+<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
 
 </ul>
 </div>
