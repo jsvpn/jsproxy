@@ -12,22 +12,22 @@
 <li><a href="/ccpdope/20240819/2076492.md">苏林访华 党媒再现诡异图</a></li>
 <li><a href="/comments/20240820/2076763.md">习近平现身暴重大破绽！被越南总书记苏林发现？黑神话悟空遭遇集体冲塔，steam评论区辱包金句爆款</a></li>
 <li><a href="/topimagenews/20240820/2076785.md">中共外长王毅是周恩来私生子? 传母亲竟是她</a></li>
-<li><a href="/comments/20240820/2076721.md">不逊于掀翻温家宝！女“枪手”用心险恶</a></li>
 <li><a href="/headline/20240820/2076604.md">“神隐”三周后首现身 习近平见越共总书记苏林后徒留更多疑点</a></li>
+<li><a href="/comments/20240820/2076721.md">不逊于掀翻温家宝！女“枪手”用心险恶</a></li>
 <li><a href="/headline/20240820/2076634.md">事实查核｜越南国家主席访华 官方会见名单中「没有习近平」？</a></li>
 <li><a href="/sohnews/20240819/2076560.md">“被谣言逼出的习近平！为何用彭丽媛蔡奇证明：这个是真的？”No.01（08/19/24）</a></li>
 <li><a href="/sohnews/20240820/2076670.md">习高调露面，党媒报道很奇怪；红二代曝习遇3大麻烦：欲背后算计俄国？库尔斯克“包大饺子”完成！传有“大鱼”待抓｜远见快评 唐靖远</a></li>
 <li><a href="/topimagenews/20240820/2076787.md">大混战！俄坦克大军进犯马林卡遭击退 顿涅茨克军事基地被炸成碎片</a></li>
 <li><a href="/topimagenews/20240820/2076656.md">习近平笑脸相迎？实则同床异梦</a></li>
 <li><a href="/comments/20240820/2076764.md">文昭：传温家宝就时局发话！习近平会见苏林，关键画面延迟播放惹怀疑；习意识到这个错误为时已晚</a></li>
-<li><a href="/topimagenews/20240819/2076554.md">陆男冲俄战场助阵！被送前线当炮灰 “首战即终战”阵亡</a></li>
 <li><a href="/baitai/20240819/2076503.md">天现异象！四川成都出现6个太阳</a></li>
+<li><a href="/topimagenews/20240819/2076554.md">陆男冲俄战场助阵！被送前线当炮灰 “首战即终战”阵亡</a></li>
 <li><a href="/topimagenews/20240820/2076769.md">【微博精粹】传谣力量大</a></li>
 <li><a href="/topimagenews/20240820/2076712.md">中国近九旬老太烈日下卖菜，死去无人知晓</a></li>
 <li><a href="/comments/20240819/2076509.md">天亮时分：李强主持的会议上出现了尴尬又诡异的一幕</a></li>
 <li><a href="/topimagenews/20240820/2076657.md">俄兵变装逃光连长惨被俘! 乌军攻俄阵地被包围 布莱德利英勇冲锋救出</a></li>
+<li><a href="/sohnews/20240820/2076781.md">当局用习近平替身接待越共总书记。习近平要么病入膏肓，要么已被军方干掉！</a></li>
 <li><a href="/topimagenews/20240819/2076553.md">韩剧看太多？金正恩演说出现“韩国用语” 朝鲜人民惊呆</a></li>
-<li><a href="/topimagenews/20240820/2076684.md">很多中国人热血沸腾、奔走相告！其实它会另你无处藏身</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
-<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/bblog/20240813/2073608.md" target="_blank">惊人内幕：脑死亡不是死亡，只是深度昏迷骗你捐器官</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/tculture/20231217/1975364.md" target="_blank">医山夜话：张锡纯医案解读（1）根治失眠 思路清晰</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
 <li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/comments/20240116/1984226.md" target="_blank">湖北老河口遇仙记</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
-<li><a href="/topimagenews/20240511/2035423.md" target="_blank">原北京学员回忆李洪志先生在东方健康博览会上所行的奇迹</a></li>
-<li><a href="/comments/20240723/2065714.md" target="_blank">台湾民视：解谜法轮功 气功或宗教？</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
+<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
 
 </ul>
 </div>
