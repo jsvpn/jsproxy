@@ -11,23 +11,23 @@
 <li><a href="/sohnews/20240819/2076414.md">陈破空：重大穿帮！习近平露面了？但央视只有远镜头！人影小得无法辨认。全程特殊安排。同以往形式大不同。替身？重病！党媒加工影像偷忙一整天。直播与互动：美东时间8月19日早9点、中港台当晚9点。</a></li>
 <li><a href="/topimagenews/20240819/2076473.md">“北戴河八条”限制习近平? 陆网还疯传彭丽媛、锺绍军被赶出军委考评会</a></li>
 <li><a href="/sohnews/20240819/2076412.md">还是替身：习近平犹抱琵琶半遮面，中南海昨夜枪战之谜，中国模式已经彻底失败。《老灯开讲第640期》</a></li>
-<li><a href="/cbnews/20240819/2076389.md">唱的哪一出? 涉黄手办竟在上海公开展出</a></li>
 <li><a href="/ccpdope/20240820/2076653.md">越共书记访华 异常一个接一个 习近平怎么了？图</a></li>
 <li><a href="/baitai/20240819/2076454.md">习近平神隐21天首度露面 央视直播镜头引关注</a></li>
 <li><a href="/comments/20240819/2076462.md">吴祚来：习做检讨，毛新宇邓朴方吵架</a></li>
 <li><a href="/topimagenews/20240820/2076609.md">大陆富二代正妹与男友过七夕惨死 网惊：4年前照片竟预示悲剧</a></li>
 <li><a href="/ccpdope/20240819/2076492.md">苏林访华 党媒再现诡异图</a></li>
+<li><a href="/topimagenews/20240820/2076696.md">连中国网民都起疑 习露面显示健康情况不明</a></li>
 <li><a href="/comments/20240819/2076420.md">【习近平时隔3周首度公开现身】【与越共总书记苏林会面】</a></li>
 <li><a href="/baitai/20240819/2076431.md">传温家宝发话 习向太子党低头</a></li>
-<li><a href="/topimagenews/20240820/2076696.md">连中国网民都起疑 习露面显示健康情况不明</a></li>
 <li><a href="/sohnews/20240819/2076410.md">苏林不如不去北京！暴露了党国秘密？党媒报导太尴尬，越南共产党新任总书记到访，习近平哪去了？继续问！｜大宇拍案惊奇</a></li>
 <li><a href="/headline/20240820/2076604.md">“神隐”三周后首现身 习近平见越共总书记苏林后徒留更多疑点</a></li>
 <li><a href="/comments/20240819/2076461.md">吴祚来：张又侠绊倒习，习陷绝境不想干了</a></li>
 <li><a href="/headline/20240820/2076634.md">事实查核｜越南国家主席访华 官方会见名单中「没有习近平」？</a></li>
 <li><a href="/sohnews/20240819/2076560.md">“被谣言逼出的习近平！为何用彭丽媛蔡奇证明：这个是真的？”No.01（08/19/24）</a></li>
 <li><a href="/headline/20240819/2076401.md">传播观察-「生重病」、「用替身」？关于习近平健康的谣言二重奏</a></li>
+<li><a href="/topimagenews/20240820/2076656.md">习近平笑脸相迎？实则同床异梦</a></li>
+<li><a href="/sohnews/20240820/2076670.md">习高调露面，党媒报道很奇怪；红二代曝习遇3大麻烦：欲背后算计俄国？库尔斯克“包大饺子”完成！传有“大鱼”待抓｜远见快评 唐靖远</a></li>
 <li><a href="/topimagenews/20240819/2076554.md">陆男冲俄战场助阵！被送前线当炮灰 “首战即终战”阵亡</a></li>
-<li><a href="/baitai/20240819/2076503.md">天现异象！四川成都出现6个太阳</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240820/2076829.md" target="_blank">江峰：露面却反证习近平跌落权力巅峰，补发图片特写，新华社央视为何制造民间猜疑！ 中越领导人见面，外交部修改越方言论，内幕揭密；公考第一不录取，学霸女生饿毙西安【江峰漫谈20240819第919期】</a></li>
 <li><a href="/comments/20240820/2076824.md" target="_blank">民主党大会首日，拜登说了什么？</a></li>
 <li><a href="/cbnews/20240820/2076803.md" target="_blank">〖红朝浮世绘〗小粉红认为马来西亚辱华了 你觉得呢？</a></li>
 <li><a href="/cbnews/20240820/2076789.md" target="_blank">美中关系恶化 维系了45年的科技协议续签难</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240820/2076617.md" target="_blank">震惊全网 北京211大学毕业女生死在出租屋</a></li>
 <li><a href="/cbnews/20240820/2076594.md" target="_blank">神韵艺术团回应近期媒体报导的声明</a></li>
 <li><a href="/cbnews/20240820/2076593.md" target="_blank">武汉疾控中心通报新冠疫情回升 引热议</a></li>
-<li><a href="/cbnews/20240819/2076583.md" target="_blank">菲中海警船南海碰撞 美大使斥中共危及人命</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/aomi/life/20240330/2018911.md" target="_blank">挪威青年这样走出重度失眠和抑郁煎熬</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/cnnews/20170717/792917.md" target="_blank">无神论是最大的迷信</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20231212/1972297.md" target="_blank">日本华人确诊晚期直肠癌，修炼法轮功恢复健康（图）</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
+<li><a href="/comments/20231214/1974098.md" target="_blank">美国众议院议长：我所坚守的保守主义，具体是些什么内容？</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
 
 </ul>
 </div>
