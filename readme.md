@@ -16,18 +16,18 @@
 <li><a href="/cbnews/20240819/2076389.md">唱的哪一出? 涉黄手办竟在上海公开展出</a></li>
 <li><a href="/baitai/20240819/2076454.md">习近平神隐21天首度露面 央视直播镜头引关注</a></li>
 <li><a href="/comments/20240819/2076462.md">吴祚来：习做检讨，毛新宇邓朴方吵架</a></li>
+<li><a href="/ccpdope/20240820/2076653.md">越共书记访华 异常一个接一个 习近平怎么了？图</a></li>
 <li><a href="/topimagenews/20240820/2076609.md">大陆富二代正妹与男友过七夕惨死 网惊：4年前照片竟预示悲剧</a></li>
 <li><a href="/ccpdope/20240819/2076492.md">苏林访华 党媒再现诡异图</a></li>
 <li><a href="/comments/20240819/2076420.md">【习近平时隔3周首度公开现身】【与越共总书记苏林会面】</a></li>
-<li><a href="/ccpdope/20240820/2076653.md">越共书记访华 异常一个接一个 习近平怎么了？图</a></li>
 <li><a href="/sohnews/20240819/2076410.md">苏林不如不去北京！暴露了党国秘密？党媒报导太尴尬，越南共产党新任总书记到访，习近平哪去了？继续问！｜大宇拍案惊奇</a></li>
 <li><a href="/baitai/20240819/2076431.md">传温家宝发话 习向太子党低头</a></li>
-<li><a href="/comments/20240819/2076461.md">吴祚来：张又侠绊倒习，习陷绝境不想干了</a></li>
 <li><a href="/headline/20240820/2076604.md">“神隐”三周后首现身 习近平见越共总书记苏林后徒留更多疑点</a></li>
+<li><a href="/comments/20240819/2076461.md">吴祚来：张又侠绊倒习，习陷绝境不想干了</a></li>
 <li><a href="/cbnews/20240819/2076375.md">“甩了美国几条街”的中国北斗 VS 美国的GPS</a></li>
 <li><a href="/sohnews/20240819/2076560.md">“被谣言逼出的习近平！为何用彭丽媛蔡奇证明：这个是真的？”No.01（08/19/24）</a></li>
-<li><a href="/headline/20240819/2076401.md">传播观察-「生重病」、「用替身」？关于习近平健康的谣言二重奏</a></li>
 <li><a href="/headline/20240820/2076634.md">事实查核｜越南国家主席访华 官方会见名单中「没有习近平」？</a></li>
+<li><a href="/headline/20240819/2076401.md">传播观察-「生重病」、「用替身」？关于习近平健康的谣言二重奏</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240820/2076764.md" target="_blank">文昭：传温家宝就时局发话！习近平会见苏林，关键画面延迟播放惹怀疑；习意识到这个错误为时已晚</a></li>
+<li><a href="/comments/20240820/2076763.md" target="_blank">习近平现身暴重大破绽！被越南总书记苏林发现？黑神话悟空遭遇集体冲塔，steam评论区辱包金句爆款</a></li>
 <li><a href="/comments/20240820/2076737.md" target="_blank">天亮时分：习近平露面见苏林，为何谣言无法平息？同归于尽！李佩霞拉下毛奇，赔上了自己；民主党全国大会召开，通胀是个大问题（政论天下第1384集 20240819）天亮时分</a></li>
 <li><a href="/comments/20240820/2076725.md" target="_blank">西楼饮月：乌战，铁三角已破其一</a></li>
 <li><a href="/comments/20240820/2076724.md" target="_blank">鹿人三千：结婚不用户口簿是吧，那需要本人么？</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240819/2076500.md" target="_blank">他遥视看太空，吓出一身冷汗！超越电子仪器、手绘图流出⋯ 解密资料证实，美国早有准备⋯｜未解之谜</a></li>
 <li><a href="/comments/20240819/2076494.md" target="_blank">马英九对中共喊话！习近平你知道的！🇹🇭曼谷香格里拉酒店 #习近平 #中国</a></li>
 <li><a href="/comments/20240819/2076486.md" target="_blank">我和我的神韵实习演奏员女儿的故事</a></li>
-<li><a href="/comments/20240819/2076462.md" target="_blank">吴祚来：习做检讨，毛新宇邓朴方吵架</a></li>
-<li><a href="/comments/20240819/2076461.md" target="_blank">吴祚来：张又侠绊倒习，习陷绝境不想干了</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/cnnews/20221211/1822144.md" target="_blank">盖盖冲马桶很可怕！瞬间“病毒炸开”？</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/comments/20231201/1968320.md" target="_blank">【非凡新闻】结合中西文化精神 美国神韵表演吸睛</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/cnnews/20150914/449521.md" target="_blank">无神论和有神论，乡下老太太驳倒三个博士</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/ssgc/20240508/2034288.md" target="_blank">《透视“进化论”》第九章 人类起源问题的终极答案</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
 <li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/comments/20190701/1151501.md" target="_blank">【特稿】中国共产党是邪教组织</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
 
 </ul>
 </div>
