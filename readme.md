@@ -17,8 +17,8 @@
 <li><a href="/cbnews/20240821/2077316.md">〖红朝浮世绘〗习主席再次亲自出来避谣啦</a></li>
 <li><a href="/topimagenews/20240821/2077216.md">触目惊心！和内行人聊天，他说出地方审计的真相</a></li>
 <li><a href="/ssgc/20240821/2077426.md">中国女作家一家三口跳机台湾求助 遭遣送离开</a></li>
-<li><a href="/sohnews/20240821/2077365.md">陈破空：丁薛祥遭报复！老习救活后头件事。又恨上张又侠胡春华。习露面，股市大跌！乌军牢牢掌控库尔斯克，俄空军将领遭击落。直播与互动：美东时间8月21日早9点、中港台当晚9点</a></li>
 <li><a href="/cbnews/20240821/2077217.md">中共这一出 大多数中国人都反感</a></li>
+<li><a href="/sohnews/20240821/2077365.md">陈破空：丁薛祥遭报复！老习救活后头件事。又恨上张又侠胡春华。习露面，股市大跌！乌军牢牢掌控库尔斯克，俄空军将领遭击落。直播与互动：美东时间8月21日早9点、中港台当晚9点</a></li>
 <li><a href="/topimagenews/20240821/2077450.md">不把李强到访当回事? 普京忙着拥抱卡德罗夫 还急访3联邦求援</a></li>
 <li><a href="/topimagenews/20240821/2077439.md">想不到！坏了中俄好事的竟是这国</a></li>
 <li><a href="/topimagenews/20240821/2077299.md">连北京深圳也难逃 最糟糕的时刻来了</a></li>
@@ -27,7 +27,7 @@
 <li><a href="/topimagenews/20240821/2077328.md">令人作呕！看看《纽约时报》是啥烂货色</a></li>
 <li><a href="/topimagenews/20240821/2077174.md">财政枯竭，中共坐等泡沫破灭；北京这招掩耳盗铃，实在是“高”【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20240821/2077417.md">震撼：军报竟然再发反习社论，著名公知发表告红二代公开信，一线城市中那些风餐露宿的失业青年。《老灯开讲第642期》</a></li>
-<li><a href="/topimagenews/20240821/2077368.md">新狼王代替普京？ 遭F-16击落 俄少将飞行员阵亡</a></li>
+<li><a href="/comments/20240821/2077440.md">犯了中南海大忌 暗藏杀机预案遭下架</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240822/2077623.md" target="_blank">【沃尔玛出售全部京东股份 #中国电商 吸引力不再？】 #沃尔玛 作为 #京东 的最大股东，现退出其长达八年的投资，价值为37.4亿美元。 京东股价从三年前的峰值已下跌约70%。</a></li>
+<li><a href="/comments/20240822/2077622.md" target="_blank">【中国对欧盟进口乳制品启动反补贴调查】</a></li>
 <li><a href="/comments/20240822/2077600.md" target="_blank">【未普评论】从「竹子外交」看越南与美中俄关系</a></li>
 <li><a href="/comments/20240822/2077593.md" target="_blank">桑德斯参议员说：“要相信党和政府”😄</a></li>
 <li><a href="/comments/20240822/2077591.md" target="_blank">【赖清德示警中国对周边国家军事恫吓 呼吁民主国家团结抵抗威权主义扩张】</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240821/2077302.md" target="_blank">译丛：中国真正的经济危机</a></li>
 <li><a href="/comments/20240821/2077301.md" target="_blank">菁英论坛：疫情反扑 多种病毒伺机发威</a></li>
 <li><a href="/comments/20240821/2077268.md" target="_blank">童大焕：知识分子的奥威尔陷阱</a></li>
-<li><a href="/comments/20240821/2077267.md" target="_blank">质疑“女孩死于公寓”的人，是在说一切都不准质疑</a></li>
-<li><a href="/comments/20240821/2077266.md" target="_blank">陈诗宁-美国2024年选举观察partⅡ：副总统之战</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
-<li><a href="/cnnews/20150914/449521.md" target="_blank">无神论和有神论，乡下老太太驳倒三个博士</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20240723/2065714.md" target="_blank">台湾民视：解谜法轮功 气功或宗教？</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
 <li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20230920/1936271.md" target="_blank">防止你的孩子不成功（5） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/lifebaike/20180527/948531.md" target="_blank">无神论是最大的迷信（上）：科学无法证实神不存在</a></li>
+<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
 
 </ul>
 </div>
