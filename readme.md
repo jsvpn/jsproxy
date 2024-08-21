@@ -12,19 +12,19 @@
 <li><a href="/cbnews/20240821/2077380.md">北京传真：传言使他们应对失据，因为习确实出了严重的问题</a></li>
 <li><a href="/sohnews/20240821/2077124.md">““真假习近平”将告一段落 ⋯ 9月初至10月底：可能掀锅盖”No 02（08 20 24）习近平出事中风</a></li>
 <li><a href="/sohnews/20240821/2077360.md">习近平有开颅手术疤痕。如真，习近平脑梗中风传言不虚！</a></li>
-<li><a href="/headline/20240821/2077387.md">习近平1天3活动神态自若 演讲抑扬顿挫、笑容充满自信</a></li>
 <li><a href="/lishi/20240821/2077206.md">北大618事件，被人的丑恶所震惊</a></li>
-<li><a href="/sohnews/20240821/2077344.md">习近平替身会见斐济总统，接见奥运健儿！玩真假习近平游戏，可能遭灭顶之灾！</a></li>
+<li><a href="/headline/20240821/2077387.md">习近平1天3活动神态自若 演讲抑扬顿挫、笑容充满自信</a></li>
 <li><a href="/cbnews/20240821/2077316.md">〖红朝浮世绘〗习主席再次亲自出来避谣啦</a></li>
+<li><a href="/sohnews/20240821/2077344.md">习近平替身会见斐济总统，接见奥运健儿！玩真假习近平游戏，可能遭灭顶之灾！</a></li>
 <li><a href="/topimagenews/20240821/2077300.md">不堪设想！全民躺平时代来临…</a></li>
 <li><a href="/topimagenews/20240821/2077216.md">触目惊心！和内行人聊天，他说出地方审计的真相</a></li>
-<li><a href="/sohnews/20240821/2077365.md">陈破空：丁薛祥遭报复！老习救活后头件事。又恨上张又侠胡春华。习露面，股市大跌！乌军牢牢掌控库尔斯克，俄空军将领遭击落。直播与互动：美东时间8月21日早9点、中港台当晚9点</a></li>
 <li><a href="/cbnews/20240821/2077217.md">中共这一出 大多数中国人都反感</a></li>
+<li><a href="/sohnews/20240821/2077365.md">陈破空：丁薛祥遭报复！老习救活后头件事。又恨上张又侠胡春华。习露面，股市大跌！乌军牢牢掌控库尔斯克，俄空军将领遭击落。直播与互动：美东时间8月21日早9点、中港台当晚9点</a></li>
 <li><a href="/ssgc/20240821/2077426.md">中国女作家一家三口跳机台湾求助 遭遣送离开</a></li>
 <li><a href="/topimagenews/20240821/2077299.md">连北京深圳也难逃 最糟糕的时刻来了</a></li>
-<li><a href="/cnnews/20240821/2077226.md">预防身体发炎 哈佛医生不吃4种食物</a></li>
 <li><a href="/topimagenews/20240821/2077439.md">想不到！坏了中俄好事的竟是这国</a></li>
 <li><a href="/topimagenews/20240821/2077450.md">不把李强到访当回事? 普京忙着拥抱卡德罗夫 还急访3联邦求援</a></li>
+<li><a href="/cnnews/20240821/2077226.md">预防身体发炎 哈佛医生不吃4种食物</a></li>
 <li><a href="/topimagenews/20240821/2077174.md">财政枯竭，中共坐等泡沫破灭；北京这招掩耳盗铃，实在是“高”【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240821/2077328.md">令人作呕！看看《纽约时报》是啥烂货色</a></li>
 <li><a href="/baitai/20240821/2077392.md">军队表态挺习 专家揭习近平与军中高官的深层冲突</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190213/1080251.md" target="_blank">胡平：法轮功为何反对自杀？</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/tculture/20220622/1748765.md" target="_blank">影响人类的两个图案——太极图和卍字符</a></li>
-<li><a href="/comments/20240813/2074068.md" target="_blank">天眼所见自杀者的悲惨境况，人一定要珍惜生命</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/comments/20240721/2065039.md" target="_blank">王建勋：川普主义是雅各宾主义的克星</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/bblog/20240813/2073608.md" target="_blank">惊人内幕：脑死亡不是死亡，只是深度昏迷骗你捐器官</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20240412/2024185.md" target="_blank">是治疗还是屠杀?化疗药品滴一滴在皮肤即灼伤，很长时间才好</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20231130/1967587.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （一）</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20240820/2076928.md" target="_blank">惠虎宇：中华文化为什么是高级文化系统(1)</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
 
 </ul>
 </div>
