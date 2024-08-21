@@ -18,15 +18,15 @@
 <li><a href="/cbnews/20240821/2077316.md">〖红朝浮世绘〗习主席再次亲自出来避谣啦</a></li>
 <li><a href="/topimagenews/20240821/2077300.md">不堪设想！全民躺平时代来临…</a></li>
 <li><a href="/topimagenews/20240821/2077216.md">触目惊心！和内行人聊天，他说出地方审计的真相</a></li>
-<li><a href="/cbnews/20240821/2077217.md">中共这一出 大多数中国人都反感</a></li>
 <li><a href="/sohnews/20240821/2077365.md">陈破空：丁薛祥遭报复！老习救活后头件事。又恨上张又侠胡春华。习露面，股市大跌！乌军牢牢掌控库尔斯克，俄空军将领遭击落。直播与互动：美东时间8月21日早9点、中港台当晚9点</a></li>
+<li><a href="/cbnews/20240821/2077217.md">中共这一出 大多数中国人都反感</a></li>
 <li><a href="/topimagenews/20240821/2077299.md">连北京深圳也难逃 最糟糕的时刻来了</a></li>
 <li><a href="/cnnews/20240821/2077226.md">预防身体发炎 哈佛医生不吃4种食物</a></li>
 <li><a href="/topimagenews/20240821/2077174.md">财政枯竭，中共坐等泡沫破灭；北京这招掩耳盗铃，实在是“高”【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240821/2077328.md">令人作呕！看看《纽约时报》是啥烂货色</a></li>
-<li><a href="/topimagenews/20240821/2077368.md">新狼王代替普京？ 遭F-16击落 俄少将飞行员阵亡</a></li>
-<li><a href="/topimagenews/20240820/2077094.md">韩国统战广播生效？朝鲜士兵冒死越地雷阵 惊险过程曝光</a></li>
 <li><a href="/baitai/20240821/2077392.md">军队表态挺习 专家揭习近平与军中高官的深层冲突</a></li>
+<li><a href="/ssgc/20240821/2077426.md">中国女作家一家三口跳机台湾求助 遭遣送离开</a></li>
+<li><a href="/topimagenews/20240821/2077368.md">新狼王代替普京？ 遭F-16击落 俄少将飞行员阵亡</a></li>
 <li><a href="/cbnews/20240821/2077259.md">北京押错了宝</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240821/2077520.md" target="_blank">时事大家谈：拜登时代落幕，中国赶超美国或成泡影？普京焦头烂额之际，中国高官为何密集访俄？</a></li>
 <li><a href="/comments/20240821/2077518.md" target="_blank">【梁京评论】中共高层集体自救会成功吗？</a></li>
 <li><a href="/comments/20240821/2077469.md" target="_blank">台湾掰掰！移居厦门？艺人小甜甜：担心影响女儿🤥华春盈阿姨给你特别幸福的苦日子～ #中国</a></li>
 <li><a href="/comments/20240821/2077468.md" target="_blank">不删视频就去派出所方菲时间</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240821/2077202.md" target="_blank">纽时为何针对神韵？ 人权律师：立场先行 ｜方菲时间</a></li>
 <li><a href="/comments/20240821/2077200.md" target="_blank">拿中国人当傻子 他蠢还是我们蠢？</a></li>
 <li><a href="/comments/20240821/2077193.md" target="_blank">美国资源够丰富，打开国门没问题？！？</a></li>
-<li><a href="/comments/20240821/2077192.md" target="_blank">天亮时分：在中国下级举报上级会出现什麽情况？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
 <li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20190701/1151501.md" target="_blank">【特稿】中国共产党是邪教组织</a></li>
+<li><a href="/comments/20240403/2020547.md" target="_blank">纪录片：DSM诊断与统计手册-精神病学最要命的骗局</a></li>
+<li><a href="/comments/20190219/1082706.md" target="_blank">胡平：法轮功信仰自由，江泽民精神控制</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
+<li><a href="/comments/20240704/2058130.md" target="_blank">百年梦醒（十八）：共产魔教的机制、前所未有的巨大野心</a></li>
+<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
 <li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
-<li><a href="/tculture/20231217/1975364.md" target="_blank">医山夜话：张锡纯医案解读（1）根治失眠 思路清晰</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/cnnews/20150914/449521.md" target="_blank">无神论和有神论，乡下老太太驳倒三个博士</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20231213/1973586.md" target="_blank">六道轮回之畜生道</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
+<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
+<li><a href="/tculture/20231119/1962827.md" target="_blank">六道轮回之地狱道</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
 
 </ul>
 </div>
