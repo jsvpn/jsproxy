@@ -23,9 +23,9 @@
 <li><a href="/headline/20240822/2077917.md">官媒疑为习近平「美图」? 外媒原图显习近平脸容较黑</a></li>
 <li><a href="/sohnews/20240822/2077926.md">全面失控，地方政府急了……习近平已无路可退，“社会火山”即将喷发！</a></li>
 <li><a href="/cbnews/20240822/2077646.md">中国女网红“念经”被封 当局草木皆兵</a></li>
+<li><a href="/sohnews/20240822/2077998.md">越南官媒泄密，习近平真的做了手术？！习近平</a></li>
 <li><a href="/cnnews/20240822/2077822.md">华裔乒乓球名将被捕 涉嫌猥亵触摸学生母亲</a></li>
 <li><a href="/cbnews/20240822/2077761.md">〖红朝浮世绘〗李强去俄罗斯，莫迪去乌克兰，都来站队了</a></li>
-<li><a href="/sohnews/20240822/2077998.md">越南官媒泄密，习近平真的做了手术？！习近平</a></li>
 <li><a href="/sohnews/20240822/2077949.md">出事了？马英九突然反共批习！  【远见快评】2024.8.21 精华选段</a></li>
 <li><a href="/cbnews/20240822/2077699.md">民运大佬被指为中共特务 唐元隽被FBI刑事指控</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240823/2078087.md" target="_blank">【中共为什么高调纪念 #邓小平120周年冥诞】 旅美时评人蔡慎坤 @cskun1989 ：“习一直是想把邓踩在脚下的，但好像他是踩不下去的。” “邓小平本身就是中共的继承人，他不是一个掘墓的人。”</a></li>
+<li><a href="/comments/20240823/2078086.md" target="_blank">【蔡霞：邓小平构想的“一国两制50年不变”是大陆向香港靠拢】</a></li>
 <li><a href="/comments/20240823/2078076.md" target="_blank">【美副卿会见达赖喇嘛 中国很生气】 美国副国务卿兼西藏问题特别协调员乌兹拉·泽亚（Uzra Zeya）8月21日前往纽约市会见 #达赖喇嘛。</a></li>
 <li><a href="/comments/20240823/2078065.md" target="_blank">【机器人开大会 “中国一定是最好的”】</a></li>
 <li><a href="/comments/20240823/2078057.md" target="_blank">【美副卿会见达赖喇嘛 中国急了】 8月21日，美国副国务卿兼西藏问题特别协调员乌兹拉·泽亚（Uzra Zeya）8月21日前往纽约市会见 #达赖喇嘛 ，并重申美国致力于促进 #西藏人权 的承诺。</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240822/2077762.md" target="_blank">肯尼迪周五做重大宣示 归川在即</a></li>
 <li><a href="/comments/20240822/2077752.md" target="_blank">肖思佳:当一个英国年轻人在大厂成为“牛马”</a></li>
 <li><a href="/comments/20240822/2077751.md" target="_blank">鼓吹狼性的社会不值得留恋，因为骨子里都坏了</a></li>
-<li><a href="/comments/20240822/2077750.md" target="_blank">“公开，平等，竞争，择优”是基本准则？不如说“公开，背景，内定，择亲”是基本准则</a></li>
-<li><a href="/comments/20240822/2077747.md" target="_blank">普京出访重点在「脸」从阿塞拜疆下飞机就听到 乌军喜讯？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20190708/1154978.md" target="_blank">揭开“神用泥土造人”的秘密</a></li>
-<li><a href="/cbnews/20240603/2045072.md" target="_blank">漫谈古代科举之八股文</a></li>
-<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20240820/2076774.md" target="_blank">胡平：批判法轮功的人,为何不用同样标准分析其他宗教</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
 <li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/comments/20240704/2058130.md" target="_blank">百年梦醒（十八）：共产魔教的机制、前所未有的巨大野心</a></li>
-<li><a href="/cbnews/20231208/1971389.md" target="_blank">话说中医之祝由科</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
 
 </ul>
 </div>
