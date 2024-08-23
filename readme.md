@@ -5,28 +5,28 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/sohnews/20240822/2077998.md">越南官媒泄密，习近平真的做了手术？！习近平</a></li>
 <li><a href="/topimagenews/20240823/2078088.md">中共重大决策 海南打响第一枪</a></li>
 <li><a href="/topimagenews/20240823/2078090.md">上图！习近平刚刚开颅 头发尚未完全长齐？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240823/2078130.md">习近平想吞俄罗斯肥肉？普京狠招拉中共下水</a></li>
 <li><a href="/cbnews/20240823/2078107.md">离谱！上海女乘飞机 飞了一晚上还在原地</a></li>
 <li><a href="/baitai/20240823/2078075.md">震惊！中国高架桥成奈何桥 一天跳下17人 谁是罪魁祸首</a></li>
-<li><a href="/cnnews/20240823/2078297.md">邓家后人齐亮相 海归邓卓棣卓玥引人注目</a></li>
 <li><a href="/sohnews/20240823/2078289.md">终极爆料：习近平手术治疗消失三周全过程，中南海惊现新分歧重大信号，四大常委与习关系微妙。《老灯开讲第644期》</a></li>
+<li><a href="/cnnews/20240823/2078297.md">邓家后人齐亮相 海归邓卓棣卓玥引人注目</a></li>
 <li><a href="/cbnews/20240823/2078103.md">太黑暗！中共办案机构计划诱捕有钱人 瓜分资产</a></li>
 <li><a href="/worldnews/20240823/2078092.md">乌克兰“女督军”连日狂轰总司令 顿巴斯陷崩溃危机</a></li>
-<li><a href="/cbnews/20240823/2078230.md">〖红朝浮世绘〗中共筛选供体也要985、211等重点大学的优秀在校生的？</a></li>
+<li><a href="/sohnews/20240823/2078313.md">🔥🔥三大预言家同时预言:10级大地震即将来临 将改变全世界❗❗</a></li>
 <li><a href="/cnnews/20240823/2078110.md">没法打了 俄大笔“资助”乌军数十万发炮弹</a></li>
+<li><a href="/cbnews/20240823/2078230.md">〖红朝浮世绘〗中共筛选供体也要985、211等重点大学的优秀在校生的？</a></li>
 <li><a href="/comments/20240823/2078220.md">驻美大使谢峰出事？“应召回京”咋用黑白照片？李强访俄遭冷遇，乌大规模空袭莫斯科；普京赴车臣维稳</a></li>
 <li><a href="/worldnews/20240823/2078077.md">看到俄军却不开枪 美媒爆料一些乌克兰新兵“拒绝开火”</a></li>
-<li><a href="/sohnews/20240823/2078313.md">🔥🔥三大预言家同时预言:10级大地震即将来临 将改变全世界❗❗</a></li>
 <li><a href="/topimagenews/20240823/2078170.md">就在8月这天! 俄军可能对乌克兰发动全境袭击</a></li>
+<li><a href="/cbnews/20240823/2078349.md">从加拿大回国 “中央军委少将副司令”被抓</a></li>
 <li><a href="/ssgc/20240823/2078166.md">〖微博谈〗这就是眼界</a></li>
+<li><a href="/cbnews/20240823/2078361.md">威信急跌 习高调纪念邓小平却难稳局 邓嫡孙邓卓棣现身</a></li>
 <li><a href="/topimagenews/20240823/2078169.md">全球紧急！谁都没预料到它会在今年发生【阿波罗网翻译报道】</a></li>
 <li><a href="/topimagenews/20240823/2078089.md">脱北精英私下称金正恩“那个XX” 为生存假装忠诚</a></li>
-<li><a href="/sohnews/20240822/2078024.md">“3中全会前的习近平 ⋯ 没了！”No 01（08 20 24）习近平蔡奇</a></li>
-<li><a href="/cbnews/20240823/2078349.md">从加拿大回国 “中央军委少将副司令”被抓</a></li>
 <li><a href="/topimagenews/20240823/2078347.md">重大转折 川普实现惊人逆袭 超越贺锦丽</a></li>
+<li><a href="/sohnews/20240822/2078024.md">“3中全会前的习近平 ⋯ 没了！”No 01（08 20 24）习近平蔡奇</a></li>
 <li><a href="/topimagenews/20240823/2078221.md">【微博精粹】悟空会不会太累了 谷爱玲是不是太霸气了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240823/2078439.md" target="_blank">时事大家谈：中国人贫富原因民调结果为何十年巨变？</a></li>
+<li><a href="/comments/20240823/2078438.md" target="_blank">时事大家谈：中国“社会火山”是休眠还是在沸腾？中国人贫富原因民调结果为何十年巨变？</a></li>
 <li><a href="/comments/20240823/2078433.md" target="_blank">川普集会出现神秘嘉宾。乔治亚州州长为何支持川普？意义重大！马斯克民调的真正意义。川普直播反驳哈里斯演讲。川普肯尼迪马斯克</a></li>
 <li><a href="/comments/20240823/2078399.md" target="_blank">【杜耀明评论】领袖危机避免弄假成真 权力继承制度不可或缺</a></li>
 <li><a href="/comments/20240823/2078373.md" target="_blank">修女预言 已躲不过？最新拍到圣母像落泪！2024年法国引爆世界末日灾难！印证比格斯预言！血雨 战争 瘟疫 经济崩溃 地震 干旱⋯最终圣王引领 万法归宗！｜未解之谜</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240823/2078144.md" target="_blank">魏谷子：如何看待川普的输赢？</a></li>
 <li><a href="/comments/20240823/2078143.md" target="_blank">失望? 奥巴马夫人告诫支持者“按需索取”</a></li>
 <li><a href="/comments/20240823/2078138.md" target="_blank">吓坏特勤局！川普突然走出防弹玻璃，拥抱一女士。德州总检察长突袭民主党最大据点，调查非公民登记投票。川普帕克斯顿选举诚信</a></li>
-<li><a href="/comments/20240823/2078136.md" target="_blank">俞伟雄：川普和哈里斯经济政策哪个更靠谱？方菲时间</a></li>
-<li><a href="/comments/20240823/2078129.md" target="_blank">天亮时分：何等绝望！饭吃不起，电用不起</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
 <li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/sohnews/20160119/493472.md" target="_blank">无效的医疗：手术刀下的谎言和药瓶里的欺骗</a></li>
-<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20240126/1992876.md" target="_blank">内幕：中国留学生里女生打男生和男生打女一样普遍</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
 <li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/comments/20231220/1976683.md" target="_blank">医山夜话：张锡纯医案解读（二）根治胃气不降之证</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/taiwannews/20210119/1470524.md" target="_blank">纪录片《蚕食美国1》</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
 
 </ul>
 </div>
