@@ -8,7 +8,6 @@
 <li><a href="/sohnews/20240822/2077998.md">越南官媒泄密，习近平真的做了手术？！习近平</a></li>
 <li><a href="/sohnews/20240822/2077926.md">全面失控，地方政府急了……习近平已无路可退，“社会火山”即将喷发！</a></li>
 <li><a href="/topimagenews/20240823/2078088.md">中共重大决策 海南打响第一枪</a></li>
-<li><a href="/headline/20240822/2077917.md">官媒疑为习近平「美图」? 外媒原图显习近平脸容较黑</a></li>
 <li><a href="/topimagenews/20240823/2078090.md">上图！习近平刚刚开颅 头发尚未完全长齐？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240823/2078130.md">习近平想吞俄罗斯肥肉？普京狠招拉中共下水</a></li>
 <li><a href="/sohnews/20240822/2077949.md">出事了？马英九突然反共批习！  【远见快评】2024.8.21 精华选段</a></li>
@@ -19,15 +18,16 @@
 <li><a href="/worldnews/20240823/2078092.md">乌克兰“女督军”连日狂轰总司令 顿巴斯陷崩溃危机</a></li>
 <li><a href="/cbnews/20240823/2078103.md">太黑暗！中共办案机构计划诱捕有钱人 瓜分资产</a></li>
 <li><a href="/cbnews/20240823/2078230.md">〖红朝浮世绘〗中共筛选供体也要985、211等重点大学的优秀在校生的？</a></li>
-<li><a href="/cnnews/20240823/2078110.md">没法打了 俄大笔“资助”乌军数十万发炮弹</a></li>
 <li><a href="/ssgc/20240822/2077967.md">为何蔡奇不提党魁 王沪宁也降调</a></li>
-<li><a href="/comments/20240823/2078220.md">驻美大使谢峰出事？“应召回京”咋用黑白照片？李强访俄遭冷遇，乌大规模空袭莫斯科；普京赴车臣维稳</a></li>
 <li><a href="/worldnews/20240823/2078077.md">看到俄军却不开枪 美媒爆料一些乌克兰新兵“拒绝开火”</a></li>
+<li><a href="/cnnews/20240823/2078110.md">没法打了 俄大笔“资助”乌军数十万发炮弹</a></li>
+<li><a href="/comments/20240823/2078220.md">驻美大使谢峰出事？“应召回京”咋用黑白照片？李强访俄遭冷遇，乌大规模空袭莫斯科；普京赴车臣维稳</a></li>
 <li><a href="/topimagenews/20240823/2078170.md">就在8月这天! 俄军可能对乌克兰发动全境袭击</a></li>
-<li><a href="/sohnews/20240822/2077923.md">🚨🧠上图！习近平刚刚开颅 头发尚未完全长齐？深度报道；突发:  纽约民运领袖被起诉为共谍 面临最高20年监禁；赖清德真敢说！还呼吁民主国家团结起来遏制中共</a></li>
+<li><a href="/sohnews/20240823/2078289.md">终极爆料：习近平手术治疗消失三周全过程，中南海惊现新分歧重大信号，四大常委与习关系微妙。《老灯开讲第644期》</a></li>
 <li><a href="/topimagenews/20240822/2077984.md">乌方精准打击俄地下指挥中心 秘密地堡1秒变超巨火球</a></li>
 <li><a href="/topimagenews/20240823/2078089.md">脱北精英私下称金正恩“那个XX” 为生存假装忠诚</a></li>
 <li><a href="/ssgc/20240823/2078166.md">〖微博谈〗这就是眼界</a></li>
+<li><a href="/cnnews/20240823/2078297.md">邓家后人齐亮相 海归邓卓棣卓玥引人注目</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240823/2078373.md" target="_blank">修女预言 已躲不过？最新拍到圣母像落泪！2024年法国引爆世界末日灾难！印证比格斯预言！血雨 战争 瘟疫 经济崩溃 地震 干旱⋯最终圣王引领 万法归宗！｜未解之谜</a></li>
+<li><a href="/cbnews/20240823/2078361.md" target="_blank">威信急跌 习高调纪念邓小平却难稳局 邓嫡孙邓卓棣现身</a></li>
+<li><a href="/cbnews/20240823/2078360.md" target="_blank">美5千枚导弹台海开战一周就打完？ 援台“低成本巡航导弹”在加州沙漠测试</a></li>
 <li><a href="/cbnews/20240823/2078359.md" target="_blank">纪念邓小平120周年 习近平：强调推进邓理论 专家 : 改革开放或已上划句号</a></li>
 <li><a href="/comments/20240823/2078351.md" target="_blank">你给谁投票？</a></li>
 <li><a href="/cbnews/20240823/2078350.md" target="_blank">习近平讲话稿少了1/3 邓小平称号增加2个</a></li>
@@ -57,9 +60,6 @@
 <li><a href="/cbnews/20240823/2078104.md" target="_blank">北京外卖小哥叩头1分多钟 交警不理不睬</a></li>
 <li><a href="/cbnews/20240823/2078103.md" target="_blank">太黑暗！中共办案机构计划诱捕有钱人 瓜分资产</a></li>
 <li><a href="/comments/20240823/2078102.md" target="_blank">民主党大会召开 同时发生三件大事</a></li>
-<li><a href="/cbnews/20240823/2078091.md" target="_blank">那天必将到来！全球民主力量合作灭中共</a></li>
-<li><a href="/cbnews/20240822/2078011.md" target="_blank">中国大妈“表演杂耍被勒颈” 吐血也撑下去！观众看到快哭了</a></li>
-<li><a href="/comments/20240822/2078008.md" target="_blank">人人都在镜头下！中国监控</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240823/2078373.md" target="_blank">修女预言 已躲不过？最新拍到圣母像落泪！2024年法国引爆世界末日灾难！印证比格斯预言！血雨 战争 瘟疫 经济崩溃 地震 干旱⋯最终圣王引领 万法归宗！｜未解之谜</a></li>
 <li><a href="/comments/20240823/2078355.md" target="_blank">小强僵住！习派总理访俄！乌克兰派无人机迎接李强 #中国 #李强</a></li>
 <li><a href="/comments/20240823/2078351.md" target="_blank">你给谁投票？</a></li>
 <li><a href="/comments/20240823/2078271.md" target="_blank">赵兰健：亲共纽约时报要挽救形象？针对铁链女石沉大海再次出手？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240823/2078129.md" target="_blank">天亮时分：何等绝望！饭吃不起，电用不起</a></li>
 <li><a href="/comments/20240823/2078119.md" target="_blank">世界之瞳：马斯克这个民调，一石激起千层浪</a></li>
 <li><a href="/comments/20240823/2078102.md" target="_blank">民主党大会召开 同时发生三件大事</a></li>
-<li><a href="/comments/20240823/2078087.md" target="_blank">【中共为什么高调纪念 #邓小平120周年冥诞】 旅美时评人蔡慎坤 @cskun1989 ：“习一直是想把邓踩在脚下的，但好像他是踩不下去的。” “邓小平本身就是中共的继承人，他不是一个掘墓的人。”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20240801/2069416.md" target="_blank">无神论和有神论深度解析</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
 <li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/lifebaike/20180529/949787.md" target="_blank">无神论是最大的迷信（下）：科学家大多是有神论</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20240801/2069416.md" target="_blank">无神论和有神论深度解析</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/tculture/20231119/1962827.md" target="_blank">六道轮回之地狱道</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/comments/20240320/2015021.md" target="_blank">唐柏桥：中共带话只要不与法轮功来往，其他一切都好说</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20240704/2058130.md" target="_blank">百年梦醒（十八）：共产魔教的机制、前所未有的巨大野心</a></li>
+<li><a href="/comments/20240412/2024185.md" target="_blank">是治疗还是屠杀?化疗药品滴一滴在皮肤即灼伤，很长时间才好</a></li>
 
 </ul>
 </div>
