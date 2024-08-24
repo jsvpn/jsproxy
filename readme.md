@@ -10,16 +10,16 @@
 <li><a href="/cbnews/20240823/2078361.md">威信急跌 习高调纪念邓小平却难稳局 邓嫡孙邓卓棣现身</a></li>
 <li><a href="/cbnews/20240823/2078349.md">从加拿大回国 “中央军委少将副司令”被抓</a></li>
 <li><a href="/comments/20240823/2078220.md">驻美大使谢峰出事？“应召回京”咋用黑白照片？李强访俄遭冷遇，乌大规模空袭莫斯科；普京赴车臣维稳</a></li>
+<li><a href="/yule/20240824/2078513.md">5次上春晚的代价？被恩师夺去初夜 轻生未遂后强制堕胎</a></li>
 <li><a href="/sohnews/20240823/2078313.md">🔥🔥三大预言家同时预言:10级大地震即将来临 将改变全世界❗❗</a></li>
 <li><a href="/cbnews/20240823/2078230.md">〖红朝浮世绘〗中共筛选供体也要985、211等重点大学的优秀在校生的？</a></li>
-<li><a href="/yule/20240824/2078513.md">5次上春晚的代价？被恩师夺去初夜 轻生未遂后强制堕胎</a></li>
-<li><a href="/cbnews/20240823/2078348.md">中南海高调吹捧邓小平 分析：折射北京政局险恶</a></li>
 <li><a href="/topimagenews/20240823/2078347.md">重大转折 川普实现惊人逆袭 超越贺锦丽</a></li>
+<li><a href="/cbnews/20240823/2078348.md">中南海高调吹捧邓小平 分析：折射北京政局险恶</a></li>
 <li><a href="/topimagenews/20240823/2078169.md">全球紧急！谁都没预料到它会在今年发生【阿波罗网翻译报道】</a></li>
 <li><a href="/topimagenews/20240823/2078170.md">就在8月这天! 俄军可能对乌克兰发动全境袭击</a></li>
 <li><a href="/cbnews/20240823/2078350.md">习近平讲话稿少了1/3 邓小平称号增加2个</a></li>
-<li><a href="/sohnews/20240823/2078140.md">她是下场最悲惨的高官情人，一夜消失后再见时，她已是一件展品【文昭思绪飞扬376期】</a></li>
 <li><a href="/ssgc/20240823/2078166.md">〖微博谈〗这就是眼界</a></li>
+<li><a href="/sohnews/20240823/2078140.md">她是下场最悲惨的高官情人，一夜消失后再见时，她已是一件展品【文昭思绪飞扬376期】</a></li>
 <li><a href="/ssgc/20240823/2078414.md">普丁的末日已经来临</a></li>
 <li><a href="/topimagenews/20240823/2078221.md">【微博精粹】悟空会不会太累了 谷爱玲是不是太霸气了</a></li>
 <li><a href="/headline/20240823/2078335.md">习近平主持政治局会议 推动中国西部大开发</a></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240824/2078611.md" target="_blank">【全文翻译】肯尼迪历史性讲话，暂停但不退出竞选，以最大限度支持川普，并说出三大原因。肯尼迪川普美国大选</a></li>
 <li><a href="/cbnews/20240824/2078595.md" target="_blank">中共代理人不好过了 或将有更多人被抓</a></li>
 <li><a href="/comments/20240824/2078594.md" target="_blank">陈力简：小肯尼迪退选会让很多中间选民思考；美国处在大变局的前夜 ｜方菲时间</a></li>
 <li><a href="/cbnews/20240824/2078572.md" target="_blank">新华社突自曝其丑！党官们疯狂干这事 忙到饭都吃不上</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240823/2078219.md" target="_blank">江峰：书单掩饰无知，霸屏头版反显权威受挫，习近平时代走向衰落，西方清中国资产；李强嗤笑普京尴尬，首次访俄心口不一；东正教徒普京亲吻《古兰经》搬救兵，俄国人不上战场了？【江峰漫谈20240822第921期】</a></li>
 <li><a href="/cbnews/20240823/2078171.md" target="_blank">美导弹驱逐舰穿越台海 中共跳脚 美台回应</a></li>
 <li><a href="/cbnews/20240823/2078142.md" target="_blank">中共事先做好布局下手？它吸引世界各地的人</a></li>
-<li><a href="/comments/20240823/2078138.md" target="_blank">吓坏特勤局！川普突然走出防弹玻璃，拥抱一女士。德州总检察长突袭民主党最大据点，调查非公民登记投票。川普帕克斯顿选举诚信</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240824/2078611.md" target="_blank">【全文翻译】肯尼迪历史性讲话，暂停但不退出竞选，以最大限度支持川普，并说出三大原因。肯尼迪川普美国大选</a></li>
 <li><a href="/comments/20240824/2078594.md" target="_blank">陈力简：小肯尼迪退选会让很多中间选民思考；美国处在大变局的前夜 ｜方菲时间</a></li>
 <li><a href="/comments/20240824/2078590.md" target="_blank">文昭：中南海出现新的分歧信号！会有意外急转弯吗？在这件事上可看出</a></li>
 <li><a href="/comments/20240824/2078576.md" target="_blank">天亮时分：乌军无人机逼近莫斯科，给中共一个下马威</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240823/2078235.md" target="_blank">吴祚来：彭丽媛与苏林夫人密聊 邀请越共高官换器官</a></li>
 <li><a href="/comments/20240823/2078220.md" target="_blank">驻美大使谢峰出事？“应召回京”咋用黑白照片？李强访俄遭冷遇，乌大规模空袭莫斯科；普京赴车臣维稳</a></li>
 <li><a href="/comments/20240823/2078179.md" target="_blank">共匪战机追打击落英国客机 被迫认罪赔巨款</a></li>
-<li><a href="/comments/20240823/2078178.md" target="_blank">宋国诚：普丁的末日已经来临 5个证据支持我的预言</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/comments/20240723/2065714.md" target="_blank">台湾民视：解谜法轮功 气功或宗教？</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
-<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/comments/20240403/2020547.md" target="_blank">纪录片：DSM诊断与统计手册-精神病学最要命的骗局</a></li>
+<li><a href="/comments/20190701/1151501.md" target="_blank">【特稿】中国共产党是邪教组织</a></li>
+<li><a href="/comments/20240320/2015021.md" target="_blank">唐柏桥：中共带话只要不与法轮功来往，其他一切都好说</a></li>
+<li><a href="/cbnews/20240603/2045072.md" target="_blank">漫谈古代科举之八股文</a></li>
 <li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/taiwannews/20210119/1470524.md" target="_blank">纪录片《蚕食美国1》</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/cbnews/20190211/1078733.md" target="_blank">胡平：法轮功为什么能强化忍的精神</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
 
 </ul>
 </div>
