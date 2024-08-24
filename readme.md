@@ -17,17 +17,17 @@
 <li><a href="/cbnews/20240824/2078699.md">中共高调吹捧邓小平 几件事绝口不提</a></li>
 <li><a href="/topimagenews/20240824/2078662.md">恶毒女承父业 在美国紧抱中共大腿</a></li>
 <li><a href="/comments/20240824/2078590.md">文昭：中南海出现新的分歧信号！会有意外急转弯吗？在这件事上可看出</a></li>
-<li><a href="/sohnews/20240824/2078810.md">帕克半年前预言习近平重病，中共解体</a></li>
 <li><a href="/sohnews/20240824/2078695.md">中共会出兵援俄抗乌吗？</a></li>
+<li><a href="/sohnews/20240824/2078810.md">帕克半年前预言习近平重病，中共解体</a></li>
 <li><a href="/topimagenews/20240824/2078778.md">《黑神话：悟空》惊爆抄袭？ 多位中国美术从业者出面指责</a></li>
-<li><a href="/ssgc/20240824/2078668.md">〖微博谈〗养中国人最防老</a></li>
 <li><a href="/ccpdope/20240824/2078588.md">哈玛斯头目被斩首 孤独无助的普京吓坏了！图</a></li>
+<li><a href="/ssgc/20240824/2078668.md">〖微博谈〗养中国人最防老</a></li>
 <li><a href="/topimagenews/20240824/2078592.md">这不是个好信号！ 中国人七个月存了10万亿</a></li>
 <li><a href="/health/20240824/2078742.md">世界公认的十大长寿习惯公布，看看你有几条</a></li>
 <li><a href="/sohnews/20240824/2078730.md">🔥🔥又拍到新异象 中国要变天了❓帕克预言"一场真正的变革"即将到来❗</a></li>
 <li><a href="/cbnews/20240824/2078595.md">中共代理人不好过了 或将有更多人被抓</a></li>
 <li><a href="/health/20240824/2078743.md">为啥有些人老年斑“密密麻麻”，有的人却几乎没有？医生为您解答</a></li>
-<li><a href="/lifebaike/20240824/2078648.md">没跟蒋介石出境的大师们文革期间一个不剩惨死</a></li>
+<li><a href="/ssgc/20240824/2078599.md">事实查核｜台湾长荣海运为保船只顺利通过红海挂起五星红旗？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240825/2078897.md" target="_blank">恐怖！北京暴雨刮“妖风” 大树成排倒地砸车</a></li>
 <li><a href="/cbnews/20240825/2078889.md" target="_blank">习近平预计10月访俄 出席金砖国家峰会并与普丁会谈</a></li>
 <li><a href="/cbnews/20240825/2078888.md" target="_blank">威慑中共 美核潜艇维护工作首次在澳洲进行</a></li>
 <li><a href="/cbnews/20240825/2078887.md" target="_blank">江苏宿迁一电动车店起火致6死 细节曝光</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240824/2078595.md" target="_blank">中共代理人不好过了 或将有更多人被抓</a></li>
 <li><a href="/comments/20240824/2078594.md" target="_blank">陈力简：小肯尼迪退选会让很多中间选民思考；美国处在大变局的前夜 ｜方菲时间</a></li>
 <li><a href="/cbnews/20240824/2078572.md" target="_blank">新华社突自曝其丑！党官们疯狂干这事 忙到饭都吃不上</a></li>
-<li><a href="/cbnews/20240824/2078478.md" target="_blank">2岁女童家门口待15分钟离奇走丢！家属悬赏20万元寻人</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240825/2078901.md" target="_blank">九树三花：文化大革命的美国余波</a></li>
+<li><a href="/comments/20240825/2078900.md" target="_blank">左派逻辑：卡马拉-拜登制造问题还是解决问题？</a></li>
+<li><a href="/comments/20240825/2078899.md" target="_blank">魏谷子：川普的联合阵线战略</a></li>
 <li><a href="/comments/20240825/2078839.md" target="_blank">小熊维尼撒币！《玻璃心》龙的传人？政治强压娱乐！马来西亚歌手黄明志巡演被胁迫取消</a></li>
 <li><a href="/comments/20240824/2078830.md" target="_blank">RNC和DNC，有些什么区别？</a></li>
 <li><a href="/comments/20240824/2078827.md" target="_blank">天亮时分：小肯尼迪宣布推选，精心选择的时机</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20240824/2078622.md" target="_blank">中共国与西方的全球舆论战 谁将赢得这场叙事?</a></li>
 <li><a href="/comments/20240824/2078621.md" target="_blank">民主党的国大会，开成了对川普的批斗大会</a></li>
 <li><a href="/comments/20240824/2078611.md" target="_blank">【全文翻译】肯尼迪历史性讲话，暂停但不退出竞选，以最大限度支持川普，并说出三大原因。肯尼迪川普美国大选</a></li>
-<li><a href="/comments/20240824/2078594.md" target="_blank">陈力简：小肯尼迪退选会让很多中间选民思考；美国处在大变局的前夜 ｜方菲时间</a></li>
-<li><a href="/comments/20240824/2078590.md" target="_blank">文昭：中南海出现新的分歧信号！会有意外急转弯吗？在这件事上可看出</a></li>
-<li><a href="/comments/20240824/2078576.md" target="_blank">天亮时分：乌军无人机逼近莫斯科，给中共一个下马威</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20240412/2024185.md" target="_blank">是治疗还是屠杀?化疗药品滴一滴在皮肤即灼伤，很长时间才好</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20231203/1969183.md" target="_blank">开盖冲马桶 ，细菌会乱飞？除非你家马桶是喷泉！</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
 <li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/topimagenews/20240511/2035423.md" target="_blank">原北京学员回忆李洪志先生在东方健康博览会上所行的奇迹</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/lifebaike/20180529/949787.md" target="_blank">无神论是最大的迷信（下）：科学家大多是有神论</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
 <li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/aomi/life/20240330/2018911.md" target="_blank">挪威青年这样走出重度失眠和抑郁煎熬</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
+<li><a href="/comments/20240820/2076928.md" target="_blank">惠虎宇：中华文化为什么是高级文化系统(1)</a></li>
+<li><a href="/comments/20240126/1992876.md" target="_blank">内幕：中国留学生里女生打男生和男生打女一样普遍</a></li>
 
 </ul>
 </div>
