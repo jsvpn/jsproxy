@@ -14,20 +14,20 @@
 <li><a href="/topimagenews/20240824/2078582.md">预测准不准? 2025年中国或呈现4大变化趋势</a></li>
 <li><a href="/topimagenews/20240824/2078593.md">他在中国第一高瀑布景点上悬挂横幅！中共酷刑令人发指</a></li>
 <li><a href="/yule/20240824/2078502.md">陈晓陈妍希确认离婚？相爱到陌路 陈晓是被骗婚？</a></li>
-<li><a href="/cbnews/20240824/2078698.md">江峰：普京泄露共军动向，逼习就范，会有新的“志愿军入俄”麽？李强大头照习近平蚂蚁照，人民日报异常新版“习下李上”；高调纪念小平的背後，近平的衰落【江峰漫谈20240823第922期】</a></li>
 <li><a href="/sohnews/20240824/2078736.md">陈破空：剧变！集体领导确立，习近平进入过渡期。党媒报道李强大不同。中共准备参战？陆军司令员赶到俄国，中国雇佣兵涌入。直播与互动：美东时间8月24日早9点、中港台当晚9点</a></li>
-<li><a href="/cbnews/20240824/2078667.md">〖红朝浮世绘〗难怪习近平敢动打台湾的心思 原来中国这样的骗子砖家太多</a></li>
+<li><a href="/cbnews/20240824/2078698.md">江峰：普京泄露共军动向，逼习就范，会有新的“志愿军入俄”麽？李强大头照习近平蚂蚁照，人民日报异常新版“习下李上”；高调纪念小平的背後，近平的衰落【江峰漫谈20240823第922期】</a></li>
 <li><a href="/yule/20240824/2078514.md">原来她是冯巩的“女儿” 出道20多年从不拍吻戏</a></li>
+<li><a href="/cbnews/20240824/2078667.md">〖红朝浮世绘〗难怪习近平敢动打台湾的心思 原来中国这样的骗子砖家太多</a></li>
 <li><a href="/sohnews/20240824/2078570.md">乌克兰攻入俄罗斯第三个州！乌克兰俄罗斯俄乌战争</a></li>
 <li><a href="/cbnews/20240824/2078699.md">中共高调吹捧邓小平 几件事绝口不提</a></li>
-<li><a href="/cnnews/20240824/2078564.md">乌军摧毁俄王牌“恶棍”Su-57 克宫吹到后来自己都不信是5代机</a></li>
 <li><a href="/yule/20240824/2078501.md">26岁关晓彤大跌眼镜：发福脸肿 老了十岁不止集</a></li>
+<li><a href="/cnnews/20240824/2078564.md">乌军摧毁俄王牌“恶棍”Su-57 克宫吹到后来自己都不信是5代机</a></li>
 <li><a href="/sohnews/20240824/2078473.md">“昨晚北京如临大敌：西单 天安门 王府井沿线 严查所有男人的身份”《今日点击》（08 23 24）王小洪习近平</a></li>
-<li><a href="/comments/20240824/2078590.md">文昭：中南海出现新的分歧信号！会有意外急转弯吗？在这件事上可看出</a></li>
 <li><a href="/topimagenews/20240824/2078662.md">恶毒女承父业 在美国紧抱中共大腿</a></li>
-<li><a href="/topimagenews/20240823/2078427.md">进店就问“什么手机最好” 全红婵送母iPhone 爱不爱国惹议</a></li>
+<li><a href="/comments/20240824/2078590.md">文昭：中南海出现新的分歧信号！会有意外急转弯吗？在这件事上可看出</a></li>
 <li><a href="/ccpdope/20240824/2078588.md">哈玛斯头目被斩首 孤独无助的普京吓坏了！图</a></li>
 <li><a href="/sohnews/20240824/2078481.md">习近平纪念邓小平？他只是涮了大家一把！习近平邓小平</a></li>
+<li><a href="/ssgc/20240824/2078668.md">〖微博谈〗养中国人最防老</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/comments/20190214/1080789.md" target="_blank">胡平：天安门自焚和人民圣殿教</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
 <li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/cbnews/20240603/2045072.md" target="_blank">漫谈古代科举之八股文</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/cnnews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
 <li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/lifebaike/20180529/949787.md" target="_blank">无神论是最大的迷信（下）：科学家大多是有神论</a></li>
+<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/cnnews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
 
 </ul>
 </div>
