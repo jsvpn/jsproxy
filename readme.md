@@ -14,20 +14,20 @@
 <li><a href="/topimagenews/20240823/2078347.md">重大转折 川普实现惊人逆袭 超越贺锦丽</a></li>
 <li><a href="/cbnews/20240823/2078348.md">中南海高调吹捧邓小平 分析：折射北京政局险恶</a></li>
 <li><a href="/topimagenews/20240824/2078563.md">惨了！他国际一笑 将付出惨重代价</a></li>
-<li><a href="/cbnews/20240823/2078350.md">习近平讲话稿少了1/3 邓小平称号增加2个</a></li>
 <li><a href="/topimagenews/20240824/2078615.md">上海人将第一个被收割！ “割韭菜根”真的来了</a></li>
 <li><a href="/cbnews/20240824/2078572.md">新华社突自曝其丑！党官们疯狂干这事 忙到饭都吃不上</a></li>
+<li><a href="/cbnews/20240823/2078350.md">习近平讲话稿少了1/3 邓小平称号增加2个</a></li>
 <li><a href="/sohnews/20240823/2078140.md">她是下场最悲惨的高官情人，一夜消失后再见时，她已是一件展品【文昭思绪飞扬376期】</a></li>
 <li><a href="/ssgc/20240823/2078414.md">普丁的末日已经来临</a></li>
 <li><a href="/topimagenews/20240824/2078580.md">惊天丑闻！中国象棋第一人 王天一被批捕</a></li>
 <li><a href="/topimagenews/20240824/2078582.md">预测准不准? 2025年中国或呈现4大变化趋势</a></li>
 <li><a href="/headline/20240823/2078335.md">习近平主持政治局会议 推动中国西部大开发</a></li>
-<li><a href="/baitai/20240823/2078374.md">10岁女童做扁桃体微创手术死亡 尸检前已掏空内脏 律师爆更惊人消息</a></li>
-<li><a href="/yule/20240824/2078502.md">陈晓陈妍希确认离婚？相爱到陌路 陈晓是被骗婚？</a></li>
-<li><a href="/yule/20240824/2078514.md">原来她是冯巩的“女儿” 出道20多年从不拍吻戏</a></li>
 <li><a href="/topimagenews/20240824/2078613.md">习近平有病藏不住！激素治疗后果全写在脸上【阿波罗网报道】</a></li>
+<li><a href="/yule/20240824/2078502.md">陈晓陈妍希确认离婚？相爱到陌路 陈晓是被骗婚？</a></li>
+<li><a href="/baitai/20240823/2078374.md">10岁女童做扁桃体微创手术死亡 尸检前已掏空内脏 律师爆更惊人消息</a></li>
+<li><a href="/yule/20240824/2078514.md">原来她是冯巩的“女儿” 出道20多年从不拍吻戏</a></li>
+<li><a href="/yule/20240824/2078501.md">26岁关晓彤大跌眼镜：发福脸肿 老了十岁不止集</a></li>
 <li><a href="/topimagenews/20240823/2078427.md">进店就问“什么手机最好” 全红婵送母iPhone 爱不爱国惹议</a></li>
-<li><a href="/worldnews/20240823/2078364.md">超过20旅打俄本土！3万乌军不建防御猛攻 专家 : “代价高昂的博弈”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240824/2078694.md" target="_blank">“外地女孩死在出租屋”的争议，我们到底该关注什么</a></li>
+<li><a href="/comments/20240824/2078693.md" target="_blank">被封杀文：“如果‘自由’是好的，创造自由就比享受自由更好”</a></li>
+<li><a href="/comments/20240824/2078692.md" target="_blank">往事与随想：“女租客之死”：一码归一码有那么难吗？</a></li>
 <li><a href="/comments/20240824/2078684.md" target="_blank">倪刃｜专制必然导致腐败</a></li>
 <li><a href="/comments/20240824/2078675.md" target="_blank">小肯尼迪归川 牵动大选和政党的板块移动</a></li>
 <li><a href="/comments/20240824/2078661.md" target="_blank">黄明志接维尼身边人电话威胁！世界巡演被全部取消，损失破亿却越战越勇；近期众多公共事件後续：责任全在美日</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20240824/2078469.md" target="_blank">【醉了？退伍老兵当街禁美国国旗】 据李老师不是你老师 @whyyoutouzhele 消息，江苏南京，一名 #退伍军人 指责一车主身为中国人不该在车内挂 #美国国旗，并动手要求车主把美国国旗撕掉。</a></li>
 <li><a href="/comments/20240823/2078466.md" target="_blank">专栏 &#8211; 周嘉有话说：邓小平和习近平的共性与特性</a></li>
 <li><a href="/comments/20240823/2078465.md" target="_blank">习近平再谈统一、反独 但台海和平已成国际议题</a></li>
-<li><a href="/comments/20240823/2078439.md" target="_blank">时事大家谈：中国人贫富原因民调结果为何十年巨变？</a></li>
-<li><a href="/comments/20240823/2078438.md" target="_blank">时事大家谈：中国“社会火山”是休眠还是在沸腾？中国人贫富原因民调结果为何十年巨变？</a></li>
-<li><a href="/comments/20240823/2078433.md" target="_blank">川普集会出现神秘嘉宾。乔治亚州州长为何支持川普？意义重大！马斯克民调的真正意义。川普直播反驳哈里斯演讲。川普肯尼迪马斯克</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/lifebaike/20180527/948531.md" target="_blank">无神论是最大的迷信（上）：科学无法证实神不存在</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/comments/20231203/1969183.md" target="_blank">开盖冲马桶 ，细菌会乱飞？除非你家马桶是喷泉！</a></li>
-<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/tculture/20231217/1975364.md" target="_blank">医山夜话：张锡纯医案解读（1）根治失眠 思路清晰</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/tculture/20240815/2074891.md" target="_blank">松果体 谜一样的器官</a></li>
-<li><a href="/comments/20190219/1082706.md" target="_blank">胡平：法轮功信仰自由，江泽民精神控制</a></li>
-<li><a href="/tculture/20190708/1154978.md" target="_blank">揭开“神用泥土造人”的秘密</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
 <li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20231212/1972297.md" target="_blank">日本华人确诊晚期直肠癌，修炼法轮功恢复健康（图）</a></li>
+<li><a href="/topimagenews/20180608/954788.md" target="_blank">安乐死根本安乐不了，别宣传了</a></li>
+<li><a href="/comments/20190213/1080251.md" target="_blank">胡平：法轮功为何反对自杀？</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20240723/2065714.md" target="_blank">台湾民视：解谜法轮功 气功或宗教？</a></li>
+<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
+<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
+<li><a href="/comments/20231220/1976789.md" target="_blank">大陆医生曝：九价HPV疫苗导致怀孕能力下降40%</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
 
 </ul>
 </div>
