@@ -13,18 +13,18 @@
 <li><a href="/sohnews/20240823/2078313.md">🔥🔥三大预言家同时预言:10级大地震即将来临 将改变全世界❗❗</a></li>
 <li><a href="/topimagenews/20240823/2078347.md">重大转折 川普实现惊人逆袭 超越贺锦丽</a></li>
 <li><a href="/cbnews/20240823/2078348.md">中南海高调吹捧邓小平 分析：折射北京政局险恶</a></li>
-<li><a href="/cbnews/20240823/2078230.md">〖红朝浮世绘〗中共筛选供体也要985、211等重点大学的优秀在校生的？</a></li>
 <li><a href="/topimagenews/20240824/2078563.md">惨了！他国际一笑 将付出惨重代价</a></li>
 <li><a href="/cbnews/20240823/2078350.md">习近平讲话稿少了1/3 邓小平称号增加2个</a></li>
-<li><a href="/sohnews/20240823/2078140.md">她是下场最悲惨的高官情人，一夜消失后再见时，她已是一件展品【文昭思绪飞扬376期】</a></li>
 <li><a href="/cbnews/20240824/2078572.md">新华社突自曝其丑！党官们疯狂干这事 忙到饭都吃不上</a></li>
-<li><a href="/ssgc/20240823/2078414.md">普丁的末日已经来临</a></li>
 <li><a href="/topimagenews/20240824/2078615.md">上海人将第一个被收割！ “割韭菜根”真的来了</a></li>
-<li><a href="/headline/20240823/2078335.md">习近平主持政治局会议 推动中国西部大开发</a></li>
+<li><a href="/sohnews/20240823/2078140.md">她是下场最悲惨的高官情人，一夜消失后再见时，她已是一件展品【文昭思绪飞扬376期】</a></li>
+<li><a href="/ssgc/20240823/2078414.md">普丁的末日已经来临</a></li>
 <li><a href="/topimagenews/20240824/2078580.md">惊天丑闻！中国象棋第一人 王天一被批捕</a></li>
 <li><a href="/topimagenews/20240824/2078582.md">预测准不准? 2025年中国或呈现4大变化趋势</a></li>
+<li><a href="/headline/20240823/2078335.md">习近平主持政治局会议 推动中国西部大开发</a></li>
 <li><a href="/baitai/20240823/2078374.md">10岁女童做扁桃体微创手术死亡 尸检前已掏空内脏 律师爆更惊人消息</a></li>
 <li><a href="/yule/20240824/2078514.md">原来她是冯巩的“女儿” 出道20多年从不拍吻戏</a></li>
+<li><a href="/yule/20240824/2078502.md">陈晓陈妍希确认离婚？相爱到陌路 陈晓是被骗婚？</a></li>
 <li><a href="/topimagenews/20240823/2078427.md">进店就问“什么手机最好” 全红婵送母iPhone 爱不爱国惹议</a></li>
 <li><a href="/worldnews/20240823/2078364.md">超过20旅打俄本土！3万乌军不建防御猛攻 专家 : “代价高昂的博弈”</a></li>
 <li><a href="/yule/20240824/2078501.md">26岁关晓彤大跌眼镜：发福脸肿 老了十岁不止集</a></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240824/2078684.md" target="_blank">倪刃｜专制必然导致腐败</a></li>
 <li><a href="/comments/20240824/2078675.md" target="_blank">小肯尼迪归川 牵动大选和政党的板块移动</a></li>
 <li><a href="/comments/20240824/2078661.md" target="_blank">黄明志接维尼身边人电话威胁！世界巡演被全部取消，损失破亿却越战越勇；近期众多公共事件後续：责任全在美日</a></li>
 <li><a href="/comments/20240824/2078646.md" target="_blank">连晨：老一代知识分子内心的伤疤与恐惧</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240823/2078439.md" target="_blank">时事大家谈：中国人贫富原因民调结果为何十年巨变？</a></li>
 <li><a href="/comments/20240823/2078438.md" target="_blank">时事大家谈：中国“社会火山”是休眠还是在沸腾？中国人贫富原因民调结果为何十年巨变？</a></li>
 <li><a href="/comments/20240823/2078433.md" target="_blank">川普集会出现神秘嘉宾。乔治亚州州长为何支持川普？意义重大！马斯克民调的真正意义。川普直播反驳哈里斯演讲。川普肯尼迪马斯克</a></li>
-<li><a href="/comments/20240823/2078399.md" target="_blank">【杜耀明评论】领袖危机避免弄假成真 权力继承制度不可或缺</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/topimagenews/20240511/2035423.md" target="_blank">原北京学员回忆李洪志先生在东方健康博览会上所行的奇迹</a></li>
-<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/cbnews/20240603/2045072.md" target="_blank">漫谈古代科举之八股文</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20240418/2026391.md" target="_blank">医生劝我妻子放弃，似乎这些医生热衷让病人快点去死？</a></li>
+<li><a href="/aomi/life/20240330/2018911.md" target="_blank">挪威青年这样走出重度失眠和抑郁煎熬</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
 
 </ul>
 </div>
