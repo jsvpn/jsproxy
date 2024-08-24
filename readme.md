@@ -25,9 +25,9 @@
 <li><a href="/baitai/20240823/2078374.md">10岁女童做扁桃体微创手术死亡 尸检前已掏空内脏 律师爆更惊人消息</a></li>
 <li><a href="/cnnews/20240824/2078564.md">乌军摧毁俄王牌“恶棍”Su-57 克宫吹到后来自己都不信是5代机</a></li>
 <li><a href="/sohnews/20240824/2078570.md">乌克兰攻入俄罗斯第三个州！乌克兰俄罗斯俄乌战争</a></li>
+<li><a href="/cbnews/20240824/2078698.md">江峰：普京泄露共军动向，逼习就范，会有新的“志愿军入俄”麽？李强大头照习近平蚂蚁照，人民日报异常新版“习下李上”；高调纪念小平的背後，近平的衰落【江峰漫谈20240823第922期】</a></li>
 <li><a href="/yule/20240824/2078501.md">26岁关晓彤大跌眼镜：发福脸肿 老了十岁不止集</a></li>
 <li><a href="/topimagenews/20240823/2078427.md">进店就问“什么手机最好” 全红婵送母iPhone 爱不爱国惹议</a></li>
-<li><a href="/worldnews/20240823/2078364.md">超过20旅打俄本土！3万乌军不建防御猛攻 专家 : “代价高昂的博弈”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240824/2078768.md" target="_blank">【全文翻译】两位政坛巨头背景截然不同，却并肩站在一起。这一联盟惊心动魄，会师场面十分热烈。川普肯尼迪美国大选</a></li>
 <li><a href="/comments/20240824/2078759.md" target="_blank">川普 or 哈里斯？</a></li>
 <li><a href="/comments/20240824/2078758.md" target="_blank">党内先知</a></li>
 <li><a href="/cbnews/20240824/2078707.md" target="_blank">友人谈唐元隽：被中共抓住软肋利用</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240823/2078359.md" target="_blank">纪念邓小平120周年 习近平：强调推进邓理论 专家 : 改革开放或已上划句号</a></li>
 <li><a href="/comments/20240823/2078351.md" target="_blank">你给谁投票？</a></li>
 <li><a href="/cbnews/20240823/2078350.md" target="_blank">习近平讲话稿少了1/3 邓小平称号增加2个</a></li>
-<li><a href="/cbnews/20240823/2078349.md" target="_blank">从加拿大回国 “中央军委少将副司令”被抓</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240824/2078768.md" target="_blank">【全文翻译】两位政坛巨头背景截然不同，却并肩站在一起。这一联盟惊心动魄，会师场面十分热烈。川普肯尼迪美国大选</a></li>
 <li><a href="/comments/20240824/2078759.md" target="_blank">川普 or 哈里斯？</a></li>
 <li><a href="/comments/20240824/2078758.md" target="_blank">党内先知</a></li>
 <li><a href="/comments/20240824/2078694.md" target="_blank">“外地女孩死在出租屋”的争议，我们到底该关注什么</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240824/2078485.md" target="_blank">【文韬政论】台湾民众党的丑闻测试民主政治的韧性</a></li>
 <li><a href="/comments/20240824/2078471.md" target="_blank">天亮时分：莫斯科全城一片漆黑</a></li>
 <li><a href="/comments/20240824/2078470.md" target="_blank">挡在车道上🚗！女驾驶 嚣张威吓「我送你上前线」人民成炮灰统治者在乎吗？</a></li>
-<li><a href="/comments/20240824/2078469.md" target="_blank">【醉了？退伍老兵当街禁美国国旗】 据李老师不是你老师 @whyyoutouzhele 消息，江苏南京，一名 #退伍军人 指责一车主身为中国人不该在车内挂 #美国国旗，并动手要求车主把美国国旗撕掉。</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/cbnews/20190211/1078733.md" target="_blank">胡平：法轮功为什么能强化忍的精神</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20240116/1984226.md" target="_blank">湖北老河口遇仙记</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/tculture/20231208/1971390.md" target="_blank">传统文化之汉字的内涵</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20231201/1968320.md" target="_blank">【非凡新闻】结合中西文化精神 美国神韵表演吸睛</a></li>
+<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20240820/2076958.md" target="_blank">惠虎宇：中华文化为什么是高级文化系统(3)</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20240723/2065714.md" target="_blank">台湾民视：解谜法轮功 气功或宗教？</a></li>
+<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
 <li><a href="/tculture/20231119/1962827.md" target="_blank">六道轮回之地狱道</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20231130/1967587.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （一）</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20240813/2074068.md" target="_blank">天眼所见自杀者的悲惨境况，人一定要珍惜生命</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
 
 </ul>
 </div>
