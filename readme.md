@@ -19,15 +19,15 @@
 <li><a href="/yule/20240825/2078875.md">张铁林的混血女儿真容曝光 颜值美到犯规</a></li>
 <li><a href="/sohnews/20240824/2078730.md">🔥🔥又拍到新异象 中国要变天了❓帕克预言"一场真正的变革"即将到来❗</a></li>
 <li><a href="/baitai/20240825/2078843.md">四川电台主持人狱中离世 详情曝光</a></li>
-<li><a href="/health/20240824/2078743.md">为啥有些人老年斑“密密麻麻”，有的人却几乎没有？医生为您解答</a></li>
 <li><a href="/sohnews/20240825/2078936.md">突发：中共正式出兵三个师抗美援俄，中央已不再由习近平掌舵，一场大规模战乱正逼近中国。《老灯开讲第645期》</a></li>
-<li><a href="/cnnews/20240825/2078866.md">不丹王室罕见“全家福” 老国王与四位妻子同框</a></li>
+<li><a href="/health/20240824/2078743.md">为啥有些人老年斑“密密麻麻”，有的人却几乎没有？医生为您解答</a></li>
 <li><a href="/topimagenews/20240825/2078886.md">预测准不准?2025年中国或呈现4大变化趋势；这不是个好信号！中国人七个月存了10万亿</a></li>
+<li><a href="/cnnews/20240825/2078866.md">不丹王室罕见“全家福” 老国王与四位妻子同框</a></li>
 <li><a href="/yule/20240825/2078868.md">著名女演员抛弃病夫甩掉导演 55岁嫁比利时...</a></li>
-<li><a href="/ccpdope/20240824/2078687.md">越共书记访华 异常一个接一个 习近平怎么了？视频</a></li>
 <li><a href="/funmedia/20240824/2078728.md">最深的湖泊 深达1637米 淡水足够全世界喝50年</a></li>
 <li><a href="/sohnews/20240824/2078794.md">文睿：一尊，你惹祸上身了</a></li>
-<li><a href="/ssgc/20240824/2078799.md">邓小平功在中兴党国，习近平功在断送中共</a></li>
+<li><a href="/sohnews/20240825/2078954.md">正式公开参战！1.8万共军入俄；全国招募重刑犯，武警训练敢死队；网友互动：这对父女是特务【新闻看点 李沐阳8.24】</a></li>
+<li><a href="/yule/20240825/2078904.md">64岁郎平疑似医美失败，引发网友热议</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240825/2078994.md" target="_blank">中国大举纪念邓小平 习破坏了邓的部分遗产</a></li>
+<li><a href="/comments/20240825/2078993.md" target="_blank">蔡慎坤：习策划卷入俄乌战争？中共高层扎堆齐聚莫斯科</a></li>
 <li><a href="/comments/20240825/2078987.md" target="_blank">小肯尼迪：父亲以一种特殊的热情告诉我…</a></li>
 <li><a href="/comments/20240825/2078986.md" target="_blank">何与怀-澳大利亚国会参议院率先通过支持台湾地位的动议</a></li>
 <li><a href="/comments/20240825/2078985.md" target="_blank">情况有点复杂：2024年，后疫情时代一个吹哨人的遭遇</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240824/2078830.md" target="_blank">RNC和DNC，有些什么区别？</a></li>
 <li><a href="/comments/20240824/2078827.md" target="_blank">天亮时分：小肯尼迪宣布推选，精心选择的时机</a></li>
 <li><a href="/comments/20240824/2078801.md" target="_blank">手机看中共要你看的‼️脑子想中共要你想的 #中国</a></li>
-<li><a href="/comments/20240824/2078773.md" target="_blank">袁红冰：《唯美之灵》第八卷 倾听绝望（第一部分）</a></li>
-<li><a href="/comments/20240824/2078768.md" target="_blank">【全文翻译】两位政坛巨头背景截然不同，却并肩站在一起。这一联盟惊心动魄，会师场面十分热烈。川普肯尼迪美国大选</a></li>
 
 </ul>
 </div>
@@ -130,30 +130,30 @@
 <h3>必看经典好文</h3>
 <ul>
 <li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20240403/2020547.md" target="_blank">纪录片：DSM诊断与统计手册-精神病学最要命的骗局</a></li>
-<li><a href="/tculture/20231202/1968819.md" target="_blank">六道轮回之天神道</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
-<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20231201/1968320.md" target="_blank">【非凡新闻】结合中西文化精神 美国神韵表演吸睛</a></li>
-<li><a href="/comments/20190213/1080251.md" target="_blank">胡平：法轮功为何反对自杀？</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
 
 </ul>
 </div>
