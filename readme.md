@@ -8,18 +8,18 @@
 <li><a href="/baitai/20240824/2078797.md">上海开第一枪 断供大潮即将爆发</a></li>
 <li><a href="/sohnews/20240825/2078936.md">突发：中共正式出兵三个师抗美援俄，中央已不再由习近平掌舵，一场大规模战乱正逼近中国。《老灯开讲第645期》</a></li>
 <li><a href="/sohnews/20240824/2078810.md">帕克半年前预言习近平重病，中共解体</a></li>
-<li><a href="/sohnews/20240825/2079002.md">中共派志愿军入俄参战，或将引爆三战!</a></li>
 <li><a href="/sohnews/20240825/2078954.md">正式公开参战！1.8万共军入俄；全国招募重刑犯，武警训练敢死队；网友互动：这对父女是特务【新闻看点 李沐阳8.24】</a></li>
+<li><a href="/sohnews/20240825/2079002.md">中共派志愿军入俄参战，或将引爆三战!</a></li>
 <li><a href="/yule/20240825/2078859.md">48岁马伊琍真实素颜曝光 满脸雀斑疲态尽显</a></li>
 <li><a href="/comments/20240825/2078966.md">习近平亲自指挥出兵俄乌战？神秘俄罗斯人帮乌克兰！ 印度总理莫迪：我拥抱泽连斯基！李强：中国强则白俄强</a></li>
 <li><a href="/yule/20240825/2078875.md">张铁林的混血女儿真容曝光 颜值美到犯规</a></li>
+<li><a href="/lifebaike/20240825/2078874.md">中国龙脉上埋了三个人 全都成历史谜团</a></li>
 <li><a href="/baitai/20240825/2078843.md">四川电台主持人狱中离世 详情曝光</a></li>
 <li><a href="/topimagenews/20240825/2078969.md">【微博精粹】糟糕！邓小平当年预批了某尊</a></li>
-<li><a href="/lifebaike/20240825/2078874.md">中国龙脉上埋了三个人 全都成历史谜团</a></li>
 <li><a href="/lifebaike/20240825/2078865.md">晚清最惨烈的鸿门宴！八大将军人头落地</a></li>
 <li><a href="/cbnews/20240825/2078931.md">江峰：习近平靠边站的种种迹象</a></li>
-<li><a href="/comments/20240825/2078993.md">蔡慎坤：习策划卷入俄乌战争？中共高层扎堆齐聚莫斯科</a></li>
 <li><a href="/sohnews/20240824/2078794.md">文睿：一尊，你惹祸上身了</a></li>
+<li><a href="/comments/20240825/2078993.md">蔡慎坤：习策划卷入俄乌战争？中共高层扎堆齐聚莫斯科</a></li>
 <li><a href="/topimagenews/20240825/2078886.md">预测准不准?2025年中国或呈现4大变化趋势；这不是个好信号！中国人七个月存了10万亿</a></li>
 <li><a href="/topimagenews/20240825/2078983.md">战争来时怎样逃生？家庭应急物资储备清单</a></li>
 <li><a href="/cnnews/20240825/2078917.md">影响巨大！“在中国，共产党可能失去权力，国家可能解体…"</a></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240825/2079114.md" target="_blank">中国到底有多热？ 四川一老板躺进冰箱乘凉</a></li>
 <li><a href="/comments/20240825/2079111.md" target="_blank">蛋黄月饼</a></li>
 <li><a href="/comments/20240825/2079110.md" target="_blank">发一条五毛？</a></li>
 <li><a href="/comments/20240825/2079109.md" target="_blank">新生入校需抽血检查</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20240825/2078923.md" target="_blank">试图行刺川普，一男子被通缉。最高法院命令，执行公民身份证投票法。川普拒绝情报简报，原因令人唏嘘。川普最高法院暗杀</a></li>
 <li><a href="/cbnews/20240825/2078897.md" target="_blank">恐怖！北京暴雨刮“妖风” 大树成排倒地砸车</a></li>
 <li><a href="/cbnews/20240825/2078889.md" target="_blank">习近平预计10月访俄 出席金砖国家峰会并与普丁会谈</a></li>
-<li><a href="/cbnews/20240825/2078888.md" target="_blank">威慑中共 美核潜艇维护工作首次在澳洲进行</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20240412/2024185.md" target="_blank">是治疗还是屠杀?化疗药品滴一滴在皮肤即灼伤，很长时间才好</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/topimagenews/20240511/2035423.md" target="_blank">原北京学员回忆李洪志先生在东方健康博览会上所行的奇迹</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
 <li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/taiwannews/20210119/1470524.md" target="_blank">纪录片《蚕食美国1》</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
 
 </ul>
 </div>
