@@ -13,21 +13,21 @@
 <li><a href="/sohnews/20240825/2079002.md">中共派志愿军入俄参战，或将引爆三战!</a></li>
 <li><a href="/comments/20240825/2078966.md">习近平亲自指挥出兵俄乌战？神秘俄罗斯人帮乌克兰！ 印度总理莫迪：我拥抱泽连斯基！李强：中国强则白俄强</a></li>
 <li><a href="/baitai/20240825/2078843.md">四川电台主持人狱中离世 详情曝光</a></li>
-<li><a href="/topimagenews/20240825/2078969.md">【微博精粹】糟糕！邓小平当年预批了某尊</a></li>
 <li><a href="/yule/20240825/2078875.md">张铁林的混血女儿真容曝光 颜值美到犯规</a></li>
 <li><a href="/lifebaike/20240825/2078874.md">中国龙脉上埋了三个人 全都成历史谜团</a></li>
+<li><a href="/topimagenews/20240825/2078969.md">【微博精粹】糟糕！邓小平当年预批了某尊</a></li>
 <li><a href="/lifebaike/20240825/2078865.md">晚清最惨烈的鸿门宴！八大将军人头落地</a></li>
 <li><a href="/topimagenews/20240824/2078778.md">《黑神话：悟空》惊爆抄袭？ 多位中国美术从业者出面指责</a></li>
 <li><a href="/cbnews/20240825/2078931.md">江峰：习近平靠边站的种种迹象</a></li>
+<li><a href="/comments/20240825/2078993.md">蔡慎坤：习策划卷入俄乌战争？中共高层扎堆齐聚莫斯科</a></li>
 <li><a href="/sohnews/20240824/2078794.md">文睿：一尊，你惹祸上身了</a></li>
 <li><a href="/topimagenews/20240825/2078886.md">预测准不准?2025年中国或呈现4大变化趋势；这不是个好信号！中国人七个月存了10万亿</a></li>
 <li><a href="/topimagenews/20240825/2078983.md">战争来时怎样逃生？家庭应急物资储备清单</a></li>
-<li><a href="/comments/20240825/2078993.md">蔡慎坤：习策划卷入俄乌战争？中共高层扎堆齐聚莫斯科</a></li>
 <li><a href="/yule/20240825/2078868.md">著名女演员抛弃病夫甩掉导演 55岁嫁比利时...</a></li>
 <li><a href="/cnnews/20240825/2078917.md">影响巨大！“在中国，共产党可能失去权力，国家可能解体…"</a></li>
 <li><a href="/yule/20240825/2078904.md">64岁郎平疑似医美失败，引发网友热议</a></li>
 <li><a href="/cnnews/20240825/2078866.md">不丹王室罕见“全家福” 老国王与四位妻子同框</a></li>
-<li><a href="/cbnews/20240825/2078932.md">江峰：普京故意透露中俄军队高级会晤消息 习近平洗不清了</a></li>
+<li><a href="/sohnews/20240825/2078911.md">中共陆军司令访俄空前合作，共军要下场？俄又一雇佣军反了！祸起手机，全红婵秒变卖国贼!｜远见快评 唐靖远</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240825/2079094.md" target="_blank">肯尼迪背书川普的策略，堪称大师之作。一组数据吓坏CNN主持人。肯尼迪支持川普的真正意义。川普肯尼迪美国大选</a></li>
 <li><a href="/comments/20240825/2079073.md" target="_blank">哈里斯100天内要赢，得做什么？</a></li>
 <li><a href="/cbnews/20240825/2079014.md" target="_blank">河南女法官被杀 引出法院与保险公司合作内幕</a></li>
 <li><a href="/cbnews/20240825/2079013.md" target="_blank">桂林闹市轿车冲入街边人群 哭叫声一片</a></li>
@@ -59,13 +60,14 @@
 <li><a href="/comments/20240824/2078830.md" target="_blank">RNC和DNC，有些什么区别？</a></li>
 <li><a href="/cbnews/20240824/2078805.md" target="_blank">南京男子坚持雷雨天钓鱼 遭雷击中身亡</a></li>
 <li><a href="/cbnews/20240824/2078804.md" target="_blank">江苏宿迁商铺大火一家6人死 知情者曝实情</a></li>
-<li><a href="/cbnews/20240824/2078803.md" target="_blank">盗卖尸骨案无下文 兰州殡仪馆免费观火化惹议</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240825/2079089.md" target="_blank">突发：以军百架战机空袭黎巴嫩 真主党火箭轰以色列</a></li>
+<li><a href="/topimagenews/20240825/2079088.md" target="_blank">遭320枚火箭弹报复 以色列机场航班大乱</a></li>
 <li><a href="/topimagenews/20240825/2079085.md" target="_blank">真主党狂射320枚火箭 以色列进入紧急状态</a></li>
 <li><a href="/topimagenews/20240825/2078983.md" target="_blank">战争来时怎样逃生？家庭应急物资储备清单</a></li>
 <li><a href="/topimagenews/20240825/2078969.md" target="_blank">【微博精粹】糟糕！邓小平当年预批了某尊</a></li>
@@ -89,14 +91,14 @@
 <li><a href="/topimagenews/20240823/2078449.md" target="_blank">杰克森洞年会／Fed主席鲍尔明确表态：降息时机已到</a></li>
 <li><a href="/topimagenews/20240823/2078427.md" target="_blank">进店就问“什么手机最好” 全红婵送母iPhone 爱不爱国惹议</a></li>
 <li><a href="/topimagenews/20240823/2078381.md" target="_blank">川普北卡演说聚焦国安议题：打造21世纪武器库</a></li>
-<li><a href="/topimagenews/20240823/2078347.md" target="_blank">重大转折 川普实现惊人逆袭 超越贺锦丽</a></li>
-<li><a href="/topimagenews/20240823/2078233.md" target="_blank">刚刚哈里斯批准5万亿美元增税计划 选民主党准备多交税吧</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240825/2079094.md" target="_blank">肯尼迪背书川普的策略，堪称大师之作。一组数据吓坏CNN主持人。肯尼迪支持川普的真正意义。川普肯尼迪美国大选</a></li>
+<li><a href="/comments/20240825/2079044.md" target="_blank">谁是创世主</a></li>
 <li><a href="/comments/20240825/2079073.md" target="_blank">哈里斯100天内要赢，得做什么？</a></li>
 <li><a href="/comments/20240825/2079017.md" target="_blank">习近平“其实只想继承邓小平的一半想法”</a></li>
 <li><a href="/comments/20240825/2079004.md" target="_blank">女大学生饿死仅仅是中国教育之耻?</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240825/2078914.md" target="_blank">天亮时分：美联储降息在即</a></li>
 <li><a href="/comments/20240825/2078901.md" target="_blank">九树三花：文化大革命的美国余波</a></li>
 <li><a href="/comments/20240825/2078900.md" target="_blank">左派逻辑：卡马拉-拜登制造问题还是解决问题？</a></li>
-<li><a href="/comments/20240825/2078899.md" target="_blank">魏谷子：川普的联合阵线战略</a></li>
-<li><a href="/comments/20240825/2078839.md" target="_blank">小熊维尼撒币！《玻璃心》龙的传人？政治强压娱乐！马来西亚歌手黄明志巡演被胁迫取消</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20240815/2074891.md" target="_blank">松果体 谜一样的器官</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/aomi/life/20240330/2018911.md" target="_blank">挪威青年这样走出重度失眠和抑郁煎熬</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/lifebaike/20180527/948531.md" target="_blank">无神论是最大的迷信（上）：科学无法证实神不存在</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20231213/1973586.md" target="_blank">六道轮回之畜生道</a></li>
-<li><a href="/comments/20190701/1151501.md" target="_blank">【特稿】中国共产党是邪教组织</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
 <li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20240801/2069416.md" target="_blank">无神论和有神论深度解析</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20231212/1972297.md" target="_blank">日本华人确诊晚期直肠癌，修炼法轮功恢复健康（图）</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/lifebaike/20180529/949787.md" target="_blank">无神论是最大的迷信（下）：科学家大多是有神论</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20240813/2074068.md" target="_blank">天眼所见自杀者的悲惨境况，人一定要珍惜生命</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
 
 </ul>
 </div>
