@@ -14,8 +14,8 @@
 <li><a href="/comments/20240825/2078966.md">习近平亲自指挥出兵俄乌战？神秘俄罗斯人帮乌克兰！ 印度总理莫迪：我拥抱泽连斯基！李强：中国强则白俄强</a></li>
 <li><a href="/yule/20240825/2078875.md">张铁林的混血女儿真容曝光 颜值美到犯规</a></li>
 <li><a href="/baitai/20240825/2078843.md">四川电台主持人狱中离世 详情曝光</a></li>
-<li><a href="/lifebaike/20240825/2078874.md">中国龙脉上埋了三个人 全都成历史谜团</a></li>
 <li><a href="/topimagenews/20240825/2078969.md">【微博精粹】糟糕！邓小平当年预批了某尊</a></li>
+<li><a href="/lifebaike/20240825/2078874.md">中国龙脉上埋了三个人 全都成历史谜团</a></li>
 <li><a href="/lifebaike/20240825/2078865.md">晚清最惨烈的鸿门宴！八大将军人头落地</a></li>
 <li><a href="/cbnews/20240825/2078931.md">江峰：习近平靠边站的种种迹象</a></li>
 <li><a href="/comments/20240825/2078993.md">蔡慎坤：习策划卷入俄乌战争？中共高层扎堆齐聚莫斯科</a></li>
@@ -25,8 +25,8 @@
 <li><a href="/cnnews/20240825/2078917.md">影响巨大！“在中国，共产党可能失去权力，国家可能解体…"</a></li>
 <li><a href="/yule/20240825/2078868.md">著名女演员抛弃病夫甩掉导演 55岁嫁比利时...</a></li>
 <li><a href="/yule/20240825/2078904.md">64岁郎平疑似医美失败，引发网友热议</a></li>
-<li><a href="/cnnews/20240825/2078866.md">不丹王室罕见“全家福” 老国王与四位妻子同框</a></li>
 <li><a href="/ssgc/20240825/2079010.md">中共正在最后疯狂中走向灭亡</a></li>
+<li><a href="/cnnews/20240825/2078866.md">不丹王室罕见“全家福” 老国王与四位妻子同框</a></li>
 <li><a href="/sohnews/20240825/2078911.md">中共陆军司令访俄空前合作，共军要下场？俄又一雇佣军反了！祸起手机，全红婵秒变卖国贼!｜远见快评 唐靖远</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,10 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240825/2079111.md" target="_blank">蛋黄月饼</a></li>
+<li><a href="/comments/20240825/2079110.md" target="_blank">发一条五毛？</a></li>
+<li><a href="/comments/20240825/2079109.md" target="_blank">新生入校需抽血检查</a></li>
+<li><a href="/comments/20240825/2079103.md" target="_blank">前神韵演员去了北京之后&#8230;中共统战运作，坑了年轻人，毁了美国老牌媒体</a></li>
 <li><a href="/comments/20240825/2079094.md" target="_blank">肯尼迪背书川普的策略，堪称大师之作。一组数据吓坏CNN主持人。肯尼迪支持川普的真正意义。川普肯尼迪美国大选</a></li>
 <li><a href="/comments/20240825/2079073.md" target="_blank">哈里斯100天内要赢，得做什么？</a></li>
 <li><a href="/cbnews/20240825/2079014.md" target="_blank">河南女法官被杀 引出法院与保险公司合作内幕</a></li>
@@ -56,10 +60,6 @@
 <li><a href="/cbnews/20240825/2078897.md" target="_blank">恐怖！北京暴雨刮“妖风” 大树成排倒地砸车</a></li>
 <li><a href="/cbnews/20240825/2078889.md" target="_blank">习近平预计10月访俄 出席金砖国家峰会并与普丁会谈</a></li>
 <li><a href="/cbnews/20240825/2078888.md" target="_blank">威慑中共 美核潜艇维护工作首次在澳洲进行</a></li>
-<li><a href="/cbnews/20240825/2078887.md" target="_blank">江苏宿迁一电动车店起火致6死 细节曝光</a></li>
-<li><a href="/comments/20240824/2078830.md" target="_blank">RNC和DNC，有些什么区别？</a></li>
-<li><a href="/cbnews/20240824/2078805.md" target="_blank">南京男子坚持雷雨天钓鱼 遭雷击中身亡</a></li>
-<li><a href="/cbnews/20240824/2078804.md" target="_blank">江苏宿迁商铺大火一家6人死 知情者曝实情</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240825/2079112.md" target="_blank">【张教官离法前再发声: &quot;中国15亿读过书的都那样&quot;】</a></li>
+<li><a href="/comments/20240825/2079111.md" target="_blank">蛋黄月饼</a></li>
+<li><a href="/comments/20240825/2079110.md" target="_blank">发一条五毛？</a></li>
+<li><a href="/comments/20240825/2079109.md" target="_blank">新生入校需抽血检查</a></li>
+<li><a href="/comments/20240825/2079103.md" target="_blank">前神韵演员去了北京之后&#8230;中共统战运作，坑了年轻人，毁了美国老牌媒体</a></li>
 <li><a href="/comments/20240825/2079094.md" target="_blank">肯尼迪背书川普的策略，堪称大师之作。一组数据吓坏CNN主持人。肯尼迪支持川普的真正意义。川普肯尼迪美国大选</a></li>
 <li><a href="/comments/20240825/2079044.md" target="_blank">谁是创世主</a></li>
 <li><a href="/comments/20240825/2079073.md" target="_blank">哈里斯100天内要赢，得做什么？</a></li>
@@ -117,11 +122,6 @@
 <li><a href="/comments/20240825/2078940.md" target="_blank">量子跃迁:乌军攻入俄罗斯本土 横扫千军</a></li>
 <li><a href="/comments/20240825/2078939.md" target="_blank">何清涟:各国富豪移民的原因各不同</a></li>
 <li><a href="/comments/20240825/2078938.md" target="_blank">颜纯钩:邓小平功在中兴党国，习近平功在断送中共</a></li>
-<li><a href="/comments/20240825/2078923.md" target="_blank">试图行刺川普，一男子被通缉。最高法院命令，执行公民身份证投票法。川普拒绝情报简报，原因令人唏嘘。川普最高法院暗杀</a></li>
-<li><a href="/comments/20240825/2078915.md" target="_blank">作家与祖国不必两情相悦</a></li>
-<li><a href="/comments/20240825/2078914.md" target="_blank">天亮时分：美联储降息在即</a></li>
-<li><a href="/comments/20240825/2078901.md" target="_blank">九树三花：文化大革命的美国余波</a></li>
-<li><a href="/comments/20240825/2078900.md" target="_blank">左派逻辑：卡马拉-拜登制造问题还是解决问题？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
 <li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/comments/20231201/1968320.md" target="_blank">【非凡新闻】结合中西文化精神 美国神韵表演吸睛</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
 
 </ul>
 </div>
