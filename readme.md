@@ -10,24 +10,24 @@
 <li><a href="/topimagenews/20240826/2079188.md">脑梗塞？！习近平健康问题比外界所知更严重【阿波罗网报道】</a></li>
 <li><a href="/headline/20240825/2079071.md">中国银行行长刘金“个人原因”辞职 有港媒今问是不是不寻常？</a></li>
 <li><a href="/comments/20240826/2079205.md">谷爱凌翻车了</a></li>
-<li><a href="/cbnews/20240826/2079191.md">油灌车混装丑闻 中共通报终于来了！网炸锅</a></li>
 <li><a href="/health/20240825/2079050.md">短短一年炎症变癌症？一文提醒：患上5种炎症不要拖，不妨注意</a></li>
+<li><a href="/cbnews/20240826/2079191.md">油灌车混装丑闻 中共通报终于来了！网炸锅</a></li>
 <li><a href="/yule/20240826/2079163.md">刘欢近况：常年酗酒佝偻着腰 年仅60满头白发</a></li>
 <li><a href="/topimagenews/20240826/2079196.md">中国社会“火山震颤”，习近平的愿景面临考验</a></li>
 <li><a href="/topimagenews/20240825/2079089.md">突发：以军百架战机空袭黎巴嫩 真主党火箭轰以色列</a></li>
 <li><a href="/yule/20240826/2079164.md">她是央视最“嚣张”主持 怀孕赶走原配嫁入豪门</a></li>
-<li><a href="/comments/20240826/2079203.md">都反了 白俄和伊朗突然祝贺乌克兰独立日</a></li>
 <li><a href="/baitai/20240825/2079093.md">沙利文下周访华涉多个敏感议题 美提前施压 北京亦作出罕见回应</a></li>
-<li><a href="/sohnews/20240825/2079029.md">陈破空：秘密曝光：全红蝉和彭丽媛王毅有着同样的爱！中共派兵1.8万抗美援俄？黑神话悟空播撒党文化：抄袭和禁言。辽宁遭遇惊天水灾。直播与互动：美东时间8月25日早9点、中港台当晚9点</a></li>
-<li><a href="/baitai/20240825/2079146.md">中国银行行长刘金突然辞职 负面消息不断</a></li>
+<li><a href="/comments/20240826/2079203.md">都反了 白俄和伊朗突然祝贺乌克兰独立日</a></li>
 <li><a href="/topimagenews/20240826/2079290.md">中国今夜恐无人入睡 中共大规模强制征收赶尽杀绝</a></li>
+<li><a href="/baitai/20240825/2079146.md">中国银行行长刘金突然辞职 负面消息不断</a></li>
 <li><a href="/health/20240825/2079118.md">78岁美国博士：每周固定吃6种食物“回春20岁”</a></li>
 <li><a href="/sohnews/20240825/2079102.md">🔥 😱中共疯了！全世界为中国人捏了一把冷汗；北京市民排队10小时打了很多人的脸；中南海大棋：中国移民将称霸这一方！澳门特首“被生病”？什么手机最好？全红婵送母手机引小粉红怒批</a></li>
 <li><a href="/topimagenews/20240826/2079271.md">天量抛盘来临！狠 以后你的房子就是他的提款机了</a></li>
-<li><a href="/baitai/20240826/2079189.md">「宝鸡许家印」倒了 专家：未来大型民企破产将不断出现</a></li>
 <li><a href="/topimagenews/20240826/2079291.md">中南海将无言以对！法学家酷问 哪个更不要脸？</a></li>
+<li><a href="/baitai/20240826/2079189.md">「宝鸡许家印」倒了 专家：未来大型民企破产将不断出现</a></li>
 <li><a href="/topimagenews/20240825/2079088.md">遭320枚火箭弹报复 以色列机场航班大乱</a></li>
 <li><a href="/baitai/20240825/2079124.md">睡觉时的一个变化或是衰老信号</a></li>
+<li><a href="/comments/20240825/2079094.md">肯尼迪背书川普的策略，堪称大师之作。一组数据吓坏CNN主持人。肯尼迪支持川普的真正意义。川普肯尼迪美国大选</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240826/2079360.md" target="_blank">敢为南方日报朱小龙说话的，看不到一个媒体人</a></li>
 <li><a href="/comments/20240826/2079339.md" target="_blank">越打越强？杜金：俄重回十大工业国行列</a></li>
 <li><a href="/comments/20240826/2079338.md" target="_blank">等许可？不如请原谅：库尔斯克行动让美国也懵了</a></li>
 <li><a href="/comments/20240826/2079326.md" target="_blank">谁最先把小肯尼迪和川普牵起来的</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240826/2079228.md" target="_blank">《黑神话：悟空》——“人心若是烧没了，修好一座破庙又有什么用呢？”</a></li>
 <li><a href="/comments/20240826/2079227.md" target="_blank">项栋梁：全国就2辆罐车混运化工食用油，被记者精准发现了？</a></li>
 <li><a href="/comments/20240826/2079226.md" target="_blank">黑海战场迎翻天巨变：俄军不是怕，而是没法了</a></li>
-<li><a href="/comments/20240826/2079225.md" target="_blank">遍地U型锁：看到车内美国小国旗，路人强令摘下</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/comments/20240721/2065039.md" target="_blank">王建勋：川普主义是雅各宾主义的克星</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20210819/1609103.md" target="_blank">浅谈中医与西医的不同之处</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/topimagenews/20240511/2035423.md" target="_blank">原北京学员回忆李洪志先生在东方健康博览会上所行的奇迹</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/bblog/20240813/2073608.md" target="_blank">惊人内幕：脑死亡不是死亡，只是深度昏迷骗你捐器官</a></li>
-<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20231213/1973586.md" target="_blank">六道轮回之畜生道</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/tculture/20220622/1748765.md" target="_blank">影响人类的两个图案——太极图和卍字符</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
+<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/cnnews/20221211/1822144.md" target="_blank">盖盖冲马桶很可怕！瞬间“病毒炸开”？</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/cnnews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
 
 </ul>
 </div>
