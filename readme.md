@@ -18,9 +18,9 @@
 <li><a href="/topimagenews/20240827/2079756.md">太子党们都记得 他狠整邓小平后人</a></li>
 <li><a href="/comments/20240827/2079699.md">上官乱：谷爱凌终于翻车了</a></li>
 <li><a href="/topimagenews/20240827/2079883.md">任内首访中共国! 阻止北京派志愿军援俄？ 苏利文进行战略沟通</a></li>
+<li><a href="/finance/20240827/2079819.md">中国很多单位已经发不出工资了</a></li>
 <li><a href="/cbnews/20240827/2079751.md">〖红朝浮世绘〗人体成了商品，明码标价了</a></li>
 <li><a href="/sohnews/20240827/2079685.md">习近平使出最阴损的一招，红三代爆料中共核武与化武机密，再次大放毒导致的疫情正在到来。《老灯开讲第647期》</a></li>
-<li><a href="/finance/20240827/2079819.md">中国很多单位已经发不出工资了</a></li>
 <li><a href="/sohnews/20240827/2079798.md">陈破空：脑瘤手术实锤！老习报复泄密者。消息从上层流出，中银行长被抓！连转发者都恨上，掐断网线。美企台企撤离中国。加拿大加征关税100%。直播与互动：美东时间8月27日早9点、中港台当晚9点</a></li>
 <li><a href="/topimagenews/20240827/2079715.md">【微博精粹】嘻嘻屁生于土改 死于房税</a></li>
 <li><a href="/cnnews/20240827/2079745.md">重磅炸弹：扎克伯格引爆美国 马斯克疯狂跟上</a></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240828/2080033.md" target="_blank">德州剔除110万非法选民！扎克伯格后悔信被公开，抛弃拜登拥抱川普？美国两宇航员确定返回日期，马斯克大胜波音。川普拜登扎克伯格</a></li>
 <li><a href="/comments/20240827/2079967.md" target="_blank">波音从客机到飞船都出事，到底怎么了？</a></li>
 <li><a href="/cbnews/20240827/2079966.md" target="_blank">缺人！ 美国海军兵力重置计划可能被搁置</a></li>
 <li><a href="/cbnews/20240827/2079965.md" target="_blank">清北学霸不当“赘婿”了 闪离婚贵州女首富 传分手费5400万</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240827/2079751.md" target="_blank">〖红朝浮世绘〗人体成了商品，明码标价了</a></li>
 <li><a href="/comments/20240827/2079731.md" target="_blank">波音太空计划搞砸 马斯克来救场 波音怎么了？</a></li>
 <li><a href="/comments/20240827/2079703.md" target="_blank">小肯尼迪太太是什么态度？</a></li>
-<li><a href="/cbnews/20240827/2079662.md" target="_blank">改天换地！神圣恐怖降临中国朝鲜 精准预言川普这次更震撼【阿波罗网翻译报道】</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240828/2080033.md" target="_blank">德州剔除110万非法选民！扎克伯格后悔信被公开，抛弃拜登拥抱川普？美国两宇航员确定返回日期，马斯克大胜波音。川普拜登扎克伯格</a></li>
+<li><a href="/comments/20240828/2080030.md" target="_blank">抓到🫢记者老太太！没办上网证！发推要党同意？中国资深媒体人高瑜翻墙&#8230;</a></li>
 <li><a href="/comments/20240827/2080004.md" target="_blank">天亮时分：Telegram创办人被捕！俄乌战的主要通讯软件</a></li>
 <li><a href="/comments/20240827/2079988.md" target="_blank">时事大家谈：美国家安全顾问沙利文访华，要和北京谈什么？</a></li>
 <li><a href="/comments/20240827/2079987.md" target="_blank">时事大家谈：美国家安全顾问沙利文访华，要和北京谈什么？日本称中国军机首次侵入其领空，中国对外更激进？</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240827/2079695.md" target="_blank">你给储户赋红码，我们写文秒被删</a></li>
 <li><a href="/comments/20240827/2079694.md" target="_blank">贾拥民：怎样把躺平的年轻人拉起来？</a></li>
 <li><a href="/comments/20240827/2079672.md" target="_blank">熊志：关于房屋养老金，还有几个问题没说清</a></li>
-<li><a href="/comments/20240827/2079671.md" target="_blank">项栋梁：房屋养老金一定会变成“房屋税”的，勿谓言之不预也</a></li>
-<li><a href="/comments/20240827/2079670.md" target="_blank">“这种震耳欲聋的沉默何尝不是现在这个时代的写照”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20240320/2015021.md" target="_blank">唐柏桥：中共带话只要不与法轮功来往，其他一切都好说</a></li>
+<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/comments/20240403/2020547.md" target="_blank">纪录片：DSM诊断与统计手册-精神病学最要命的骗局</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20240703/2057730.md" target="_blank">百年梦醒（十七）：马克思的连环计、出卖灵魂</a></li>
+<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
+<li><a href="/comments/20231220/1976789.md" target="_blank">大陆医生曝：九价HPV疫苗导致怀孕能力下降40%</a></li>
+<li><a href="/comments/20231207/1970628.md" target="_blank">民兵对官军，希望之声打造广播界的奇蹟【方伟时间-20231206】</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
 <li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/comments/20240820/2076774.md" target="_blank">胡平：批判法轮功的人,为何不用同样标准分析其他宗教</a></li>
-<li><a href="/comments/20240318/2014289.md" target="_blank">唐柏桥：民运同仁突然向法轮功开火是怎么回事？</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/tculture/20231119/1962827.md" target="_blank">六道轮回之地狱道</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
+<li><a href="/lifebaike/20180529/949787.md" target="_blank">无神论是最大的迷信（下）：科学家大多是有神论</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20231201/1968320.md" target="_blank">【非凡新闻】结合中西文化精神 美国神韵表演吸睛</a></li>
+<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
 
 </ul>
 </div>
