@@ -9,12 +9,12 @@
 <li><a href="/topimagenews/20240827/2079740.md">习近平整顿最新目标 又一行业要出大事</a></li>
 <li><a href="/cnnews/20240827/2079646.md">隐秘的色情生意：谁在围猎未成年少女？</a></li>
 <li><a href="/topimagenews/20240827/2079768.md">北京自掘坟墓</a></li>
-<li><a href="/ssgc/20240827/2079601.md">评论｜胡平：习近平为何要高调纪念邓小平？</a></li>
 <li><a href="/topimagenews/20240827/2079638.md">中国商品品质被它败坏殆尽！连住在贫民窟的美国人也不睬它</a></li>
+<li><a href="/ssgc/20240827/2079601.md">评论｜胡平：习近平为何要高调纪念邓小平？</a></li>
 <li><a href="/sohnews/20240827/2079789.md">习近平替身访俄，替身游戏又穿帮!</a></li>
 <li><a href="/baitai/20240827/2079844.md">震惊！ 传富得流油省级卫视发不出工资了 名主持辞职</a></li>
-<li><a href="/topimagenews/20240827/2079757.md">这就是中国经济真正走势！一团稀烂</a></li>
 <li><a href="/topimagenews/20240827/2079756.md">太子党们都记得 他狠整邓小平后人</a></li>
+<li><a href="/topimagenews/20240827/2079757.md">这就是中国经济真正走势！一团稀烂</a></li>
 <li><a href="/comments/20240827/2079660.md">文昭：豁出去了，中共派「志愿军」参战？谁料到是上海率先点燃了这个巨雷</a></li>
 <li><a href="/comments/20240827/2079699.md">上官乱：谷爱凌终于翻车了</a></li>
 <li><a href="/topimagenews/20240827/2079883.md">任内首访中共国! 阻止北京派志愿军援俄？ 苏利文进行战略沟通</a></li>
@@ -26,8 +26,8 @@
 <li><a href="/cnnews/20240827/2079745.md">重磅炸弹：扎克伯格引爆美国 马斯克疯狂跟上</a></li>
 <li><a href="/topimagenews/20240827/2079742.md">铁饭碗不稳！“外地女孩”遮挡了令人叹为观止的奇观</a></li>
 <li><a href="/cbnews/20240827/2079661.md">中共黑色恐怖</a></li>
+<li><a href="/sohnews/20240827/2079890.md">经济崩溃速度超预期，一件事千万不能做❗️❗️民怨沸腾习两大政策烂尾⋯⋯</a></li>
 <li><a href="/topimagenews/20240827/2079767.md">为何中国人能降价这么多卖房？活下来更重要</a></li>
-<li><a href="/topimagenews/20240827/2079565.md">信中共没好下场！崩盘国家一箩筐</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240828/2080039.md" target="_blank">小扎向国会坦承脸书曾封杀言论，引轩然大波</a></li>
 <li><a href="/comments/20240828/2080033.md" target="_blank">德州剔除110万非法选民！扎克伯格后悔信被公开，抛弃拜登拥抱川普？美国两宇航员确定返回日期，马斯克大胜波音。川普拜登扎克伯格</a></li>
 <li><a href="/comments/20240827/2079967.md" target="_blank">波音从客机到飞船都出事，到底怎么了？</a></li>
 <li><a href="/cbnews/20240827/2079966.md" target="_blank">缺人！ 美国海军兵力重置计划可能被搁置</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240827/2079758.md" target="_blank">中国经济萧条 民众悲鸣：苦水泡黄连</a></li>
 <li><a href="/cbnews/20240827/2079751.md" target="_blank">〖红朝浮世绘〗人体成了商品，明码标价了</a></li>
 <li><a href="/comments/20240827/2079731.md" target="_blank">波音太空计划搞砸 马斯克来救场 波音怎么了？</a></li>
-<li><a href="/comments/20240827/2079703.md" target="_blank">小肯尼迪太太是什么态度？</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240828/2080039.md" target="_blank">小扎向国会坦承脸书曾封杀言论，引轩然大波</a></li>
 <li><a href="/comments/20240828/2080033.md" target="_blank">德州剔除110万非法选民！扎克伯格后悔信被公开，抛弃拜登拥抱川普？美国两宇航员确定返回日期，马斯克大胜波音。川普拜登扎克伯格</a></li>
 <li><a href="/comments/20240828/2080030.md" target="_blank">抓到🫢记者老太太！没办上网证！发推要党同意？中国资深媒体人高瑜翻墙&#8230;</a></li>
 <li><a href="/comments/20240827/2080004.md" target="_blank">天亮时分：Telegram创办人被捕！俄乌战的主要通讯软件</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240827/2079696.md" target="_blank">吴祚来：五角大楼传真：秘密斩首和欺诈战略</a></li>
 <li><a href="/comments/20240827/2079695.md" target="_blank">你给储户赋红码，我们写文秒被删</a></li>
 <li><a href="/comments/20240827/2079694.md" target="_blank">贾拥民：怎样把躺平的年轻人拉起来？</a></li>
-<li><a href="/comments/20240827/2079672.md" target="_blank">熊志：关于房屋养老金，还有几个问题没说清</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20240820/2076958.md" target="_blank">惠虎宇：中华文化为什么是高级文化系统(3)</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
-<li><a href="/comments/20240721/2065039.md" target="_blank">王建勋：川普主义是雅各宾主义的克星</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/aomi/life/20240330/2018911.md" target="_blank">挪威青年这样走出重度失眠和抑郁煎熬</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
 <li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/comments/20240318/2014289.md" target="_blank">唐柏桥：民运同仁突然向法轮功开火是怎么回事？</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20240820/2076774.md" target="_blank">胡平：批判法轮功的人,为何不用同样标准分析其他宗教</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
 
 </ul>
 </div>
