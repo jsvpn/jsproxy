@@ -25,9 +25,9 @@
 <li><a href="/topimagenews/20240826/2079222.md">中国人为房养老上路！那家养牲口呢？</a></li>
 <li><a href="/topimagenews/20240826/2079223.md">美貌女儿这身手！处处要父母照看 长成处处为父母分忧</a></li>
 <li><a href="/cnnews/20240826/2079524.md">在美国多有钱才算富裕？ 最新调查揭答案：又涨了</a></li>
-<li><a href="/comments/20240826/2079226.md">黑海战场迎翻天巨变：俄军不是怕，而是没法了</a></li>
 <li><a href="/lifebaike/20240826/2079402.md">人过七十：衣有三不穿，寿有三不过，地有三不去</a></li>
-<li><a href="/finance/20240826/2079358.md">半年倒闭近3万家 高端面馆正狼狈退场</a></li>
+<li><a href="/ssgc/20240826/2079454.md">白俄罗斯总统透露了中共大撒币内幕</a></li>
+<li><a href="/comments/20240826/2079226.md">黑海战场迎翻天巨变：俄军不是怕，而是没法了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240827/2079662.md" target="_blank">改天换地！神圣恐怖降临中国朝鲜 精准预言川普这次更震撼【阿波罗网翻译报道】</a></li>
+<li><a href="/cbnews/20240827/2079661.md" target="_blank">中共黑色恐怖</a></li>
 <li><a href="/cbnews/20240827/2079639.md" target="_blank">成北京傀儡！所罗门群岛欲将台湾逐出PIF</a></li>
 <li><a href="/comments/20240827/2079624.md" target="_blank">川肯合作协定：君子和而不同</a></li>
 <li><a href="/cbnews/20240827/2079622.md" target="_blank">中共国再次被列为人口贩运最严重国家！香港被例入二级监察名单</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20240826/2079336.md" target="_blank">吸口“氢”气就能包治百病？又一骗局专坑老人</a></li>
 <li><a href="/comments/20240826/2079326.md" target="_blank">谁最先把小肯尼迪和川普牵起来的</a></li>
 <li><a href="/comments/20240826/2079322.md" target="_blank">肯尼迪回应挑衅提问，川普要组联合党派？川普肯尼迪联合党</a></li>
-<li><a href="/cbnews/20240826/2079316.md" target="_blank">〖红朝浮世绘〗把责任推给几个无关紧要的小角色就解决油罐车的问题了？</a></li>
-<li><a href="/cbnews/20240826/2079308.md" target="_blank">全球独家：剧毒 中国火箭太空大爆炸！习无能为力</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,14 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240827/2079672.md" target="_blank">熊志：关于房屋养老金，还有几个问题没说清</a></li>
+<li><a href="/comments/20240827/2079671.md" target="_blank">项栋梁：房屋养老金一定会变成“房屋税”的，勿谓言之不预也</a></li>
+<li><a href="/comments/20240827/2079670.md" target="_blank">“这种震耳欲聋的沉默何尝不是现在这个时代的写照”</a></li>
+<li><a href="/comments/20240827/2079669.md" target="_blank">访问“六四告密案”当事人熊召政：“为什么您没有入罪，而野夫负了牢狱之灾？”</a></li>
+<li><a href="/comments/20240827/2079668.md" target="_blank">黑神话·悟空，翻开西游记，满篇尽是苦难哲学</a></li>
+<li><a href="/comments/20240827/2079667.md" target="_blank">对中共三中全会愿景的真正挑战</a></li>
+<li><a href="/comments/20240827/2079666.md" target="_blank">楊宏基：中菲南海冲突 场景一定不会在台海发生？</a></li>
+<li><a href="/comments/20240827/2079660.md" target="_blank">文昭：豁出去了，中共派「志愿军」参战？谁料到是上海率先点燃了这个巨雷</a></li>
 <li><a href="/comments/20240827/2079624.md" target="_blank">川肯合作协定：君子和而不同</a></li>
 <li><a href="/comments/20240827/2079621.md" target="_blank">天亮时分：中共领导人频繁访问俄罗斯背後的政治内涵</a></li>
 <li><a href="/comments/20240827/2079620.md" target="_blank">【免费服务！中国医疗船送医南非】</a></li>
@@ -114,14 +122,6 @@
 <li><a href="/comments/20240826/2079447.md" target="_blank">【泽论四方】白罗斯将变成大湾区的死亡之吻</a></li>
 <li><a href="/comments/20240826/2079430.md" target="_blank">帕克 比格斯7、8月最新预言警告 一定要提前做好准备！日本南海海槽引爆毁灭性地震海啸、火山蠢蠢欲动；中东战事扩大 停电三周？！美国大选再现十月惊奇，影响选举！｜未解之谜</a></li>
 <li><a href="/comments/20240826/2079428.md" target="_blank">比苹果手表还聪明？读懂中国人的心？小粉红听这回答&#8230;</a></li>
-<li><a href="/comments/20240826/2079407.md" target="_blank">【罗冠聪在台湾发表新书】【示警应重新认识中共】</a></li>
-<li><a href="/comments/20240826/2079385.md" target="_blank">一猴各表──爱国话题以外的《黑神话：悟空》</a></li>
-<li><a href="/comments/20240826/2079360.md" target="_blank">敢为南方日报朱小龙说话的，看不到一个媒体人</a></li>
-<li><a href="/comments/20240826/2079339.md" target="_blank">越打越强？杜金：俄重回十大工业国行列</a></li>
-<li><a href="/comments/20240826/2079338.md" target="_blank">等许可？不如请原谅：库尔斯克行动让美国也懵了</a></li>
-<li><a href="/comments/20240826/2079326.md" target="_blank">谁最先把小肯尼迪和川普牵起来的</a></li>
-<li><a href="/comments/20240826/2079322.md" target="_blank">肯尼迪回应挑衅提问，川普要组联合党派？川普肯尼迪联合党</a></li>
-<li><a href="/comments/20240826/2079309.md" target="_blank">赵兰健：铁链女就是死在纽约时报这一群女记者手中</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
-<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/lifebaike/20180529/949787.md" target="_blank">无神论是最大的迷信（下）：科学家大多是有神论</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20231207/1970628.md" target="_blank">民兵对官军，希望之声打造广播界的奇蹟【方伟时间-20231206】</a></li>
+<li><a href="/comments/20240412/2024185.md" target="_blank">是治疗还是屠杀?化疗药品滴一滴在皮肤即灼伤，很长时间才好</a></li>
 <li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/cnnews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20190219/1082706.md" target="_blank">胡平：法轮功信仰自由，江泽民精神控制</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/cnnews/20221211/1822144.md" target="_blank">盖盖冲马桶很可怕！瞬间“病毒炸开”？</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/topimagenews/20180608/954788.md" target="_blank">安乐死根本安乐不了，别宣传了</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
+<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20240820/2076928.md" target="_blank">惠虎宇：中华文化为什么是高级文化系统(1)</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
 
 </ul>
 </div>
