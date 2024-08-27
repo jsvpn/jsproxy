@@ -8,26 +8,26 @@
 <li><a href="/topimagenews/20240826/2079382.md">习近平派1.8万志愿军赴俄参战？惊人大逆转</a></li>
 <li><a href="/finance/20240826/2079383.md">重大信号！中共央行对人民币态度突然变了</a></li>
 <li><a href="/topimagenews/20240826/2079381.md">中共启动新一轮贸易战:指导习近平的两条原则</a></li>
-<li><a href="/ccpdope/20240826/2079369.md">习给老邓戴高帽揭示了一个公开的秘密</a></li>
 <li><a href="/cnnews/20240827/2079646.md">隐秘的色情生意：谁在围猎未成年少女？</a></li>
+<li><a href="/ccpdope/20240826/2079369.md">习给老邓戴高帽揭示了一个公开的秘密</a></li>
 <li><a href="/topimagenews/20240826/2079443.md">被火车碾碎的感觉 应该跟坦克差不多! 为“反送中”殉道 香港教授李衍桦跳轨自杀</a></li>
 <li><a href="/comments/20240827/2079697.md">卧轨自杀的香港李衍桦教授 赫然排名全球顶尖科学家中</a></li>
 <li><a href="/cbnews/20240826/2079399.md">民警救人反被抢救生绳溺水 大陆今后无人敢救落水者？ 【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20240826/2079470.md">干脆不演了直接投共! 隐瞒参与“千人计划”获刑 美顶尖科学家利伯将赴港</a></li>
 <li><a href="/topimagenews/20240827/2079638.md">中国商品品质被它败坏殆尽！连住在贫民窟的美国人也不睬它</a></li>
 <li><a href="/topimagenews/20240826/2079444.md">红线原来不存在！乌攻俄一周内重创俄军 俄提39次红线 仍不敢用核弹</a></li>
-<li><a href="/ssgc/20240827/2079601.md">评论｜胡平：习近平为何要高调纪念邓小平？</a></li>
 <li><a href="/comments/20240827/2079660.md">文昭：豁出去了，中共派「志愿军」参战？谁料到是上海率先点燃了这个巨雷</a></li>
-<li><a href="/ssgc/20240826/2079454.md">白俄罗斯总统透露了中共大撒币内幕</a></li>
+<li><a href="/ssgc/20240827/2079601.md">评论｜胡平：习近平为何要高调纪念邓小平？</a></li>
 <li><a href="/cnnews/20240826/2079524.md">在美国多有钱才算富裕？ 最新调查揭答案：又涨了</a></li>
+<li><a href="/ssgc/20240826/2079454.md">白俄罗斯总统透露了中共大撒币内幕</a></li>
 <li><a href="/headline/20240826/2079398.md">鼎泰丰宣布关闭中国华北14家门市引惊讶</a></li>
 <li><a href="/lifebaike/20240826/2079402.md">人过七十：衣有三不穿，寿有三不过，地有三不去</a></li>
+<li><a href="/topimagenews/20240827/2079740.md">习近平整顿最新目标 又一行业要出大事</a></li>
+<li><a href="/comments/20240827/2079699.md">上官乱：谷爱凌终于翻车了</a></li>
 <li><a href="/finance/20240826/2079358.md">半年倒闭近3万家 高端面馆正狼狈退场</a></li>
 <li><a href="/cbnews/20240826/2079523.md">贵州女被强行验血 险遭活摘器官</a></li>
 <li><a href="/comments/20240827/2079533.md">李强握住了搅屎棍！您猜猜是哪头？</a></li>
 <li><a href="/worldnews/20240826/2079420.md">传俄官遭集体歼灭2事件！ 中将颁奖 10多人被风暴阴影轰毙、俄兵手榴弹炸死15俄官</a></li>
-<li><a href="/topimagenews/20240827/2079740.md">习近平整顿最新目标 又一行业要出大事</a></li>
-<li><a href="/comments/20240827/2079699.md">上官乱：谷爱凌终于翻车了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20240813/2074068.md" target="_blank">天眼所见自杀者的悲惨境况，人一定要珍惜生命</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/comments/20240820/2076928.md" target="_blank">惠虎宇：中华文化为什么是高级文化系统(1)</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20240412/2024185.md" target="_blank">是治疗还是屠杀?化疗药品滴一滴在皮肤即灼伤，很长时间才好</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/comments/20240418/2026391.md" target="_blank">医生劝我妻子放弃，似乎这些医生热衷让病人快点去死？</a></li>
-<li><a href="/comments/20190219/1082706.md" target="_blank">胡平：法轮功信仰自由，江泽民精神控制</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/tculture/20231217/1975364.md" target="_blank">医山夜话：张锡纯医案解读（1）根治失眠 思路清晰</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/tculture/20220622/1748765.md" target="_blank">影响人类的两个图案——太极图和卍字符</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/cnnews/20150914/449521.md" target="_blank">无神论和有神论，乡下老太太驳倒三个博士</a></li>
+<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
 <li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/comments/20210819/1609103.md" target="_blank">浅谈中医与西医的不同之处</a></li>
+<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
 
 </ul>
 </div>
