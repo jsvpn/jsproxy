@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240827/2079703.md" target="_blank">小肯尼迪太太是什么态度？</a></li>
 <li><a href="/cbnews/20240827/2079662.md" target="_blank">改天换地！神圣恐怖降临中国朝鲜 精准预言川普这次更震撼【阿波罗网翻译报道】</a></li>
 <li><a href="/cbnews/20240827/2079661.md" target="_blank">中共黑色恐怖</a></li>
 <li><a href="/cbnews/20240827/2079639.md" target="_blank">成北京傀儡！所罗门群岛欲将台湾逐出PIF</a></li>
@@ -59,13 +60,14 @@
 <li><a href="/cbnews/20240826/2079399.md" target="_blank">民警救人反被抢救生绳溺水 大陆今后无人敢救落水者？ 【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20240826/2079336.md" target="_blank">吸口“氢”气就能包治百病？又一骗局专坑老人</a></li>
 <li><a href="/comments/20240826/2079326.md" target="_blank">谁最先把小肯尼迪和川普牵起来的</a></li>
-<li><a href="/comments/20240826/2079322.md" target="_blank">肯尼迪回应挑衅提问，川普要组联合党派？川普肯尼迪联合党</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240827/2079691.md" target="_blank">何清涟：中南海占星术与克里姆林宫学──貌似而神非</a></li>
+<li><a href="/topimagenews/20240827/2079690.md" target="_blank">中共全球扩张！这事，一定要趁早</a></li>
 <li><a href="/topimagenews/20240827/2079689.md" target="_blank">北京争夺南中国海 新冲突险象环生</a></li>
 <li><a href="/topimagenews/20240827/2079688.md" target="_blank">命都不是自己的！还说自己是中产？这太搞笑</a></li>
 <li><a href="/topimagenews/20240827/2079638.md" target="_blank">中国商品品质被它败坏殆尽！连住在贫民窟的美国人也不睬它</a></li>
@@ -89,14 +91,19 @@
 <li><a href="/topimagenews/20240826/2079196.md" target="_blank">中国社会“火山震颤”，习近平的愿景面临考验</a></li>
 <li><a href="/topimagenews/20240826/2079188.md" target="_blank">脑梗塞？！习近平健康问题比外界所知更严重【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240825/2079129.md" target="_blank">震惊！十几名学生联名举报：湖南一戒网瘾学校对学生施暴！【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20240825/2079089.md" target="_blank">突发：以军百架战机空袭黎巴嫩 真主党火箭轰以色列</a></li>
-<li><a href="/topimagenews/20240825/2079088.md" target="_blank">遭320枚火箭弹报复 以色列机场航班大乱</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240827/2079703.md" target="_blank">小肯尼迪太太是什么态度？</a></li>
+<li><a href="/comments/20240827/2079699.md" target="_blank">上官乱：谷爱凌终于翻车了</a></li>
+<li><a href="/comments/20240827/2079698.md" target="_blank">张彦：高尔泰 一位流亡拉斯维加斯的中国作家回忆录</a></li>
+<li><a href="/comments/20240827/2079697.md" target="_blank">卧轨自杀的香港李衍桦教授 赫然排名全球顶尖科学家中</a></li>
+<li><a href="/comments/20240827/2079696.md" target="_blank">吴祚来：五角大楼传真：秘密斩首和欺诈战略</a></li>
+<li><a href="/comments/20240827/2079695.md" target="_blank">你给储户赋红码，我们写文秒被删</a></li>
+<li><a href="/comments/20240827/2079694.md" target="_blank">贾拥民：怎样把躺平的年轻人拉起来？</a></li>
 <li><a href="/comments/20240827/2079672.md" target="_blank">熊志：关于房屋养老金，还有几个问题没说清</a></li>
 <li><a href="/comments/20240827/2079671.md" target="_blank">项栋梁：房屋养老金一定会变成“房屋税”的，勿谓言之不预也</a></li>
 <li><a href="/comments/20240827/2079670.md" target="_blank">“这种震耳欲聋的沉默何尝不是现在这个时代的写照”</a></li>
@@ -115,13 +122,6 @@
 <li><a href="/comments/20240827/2079572.md" target="_blank">专栏 &#8211; 劳工通讯：广东工人罢工讨工资 东莞皮具厂停产应对 (二)</a></li>
 <li><a href="/comments/20240827/2079553.md" target="_blank">民众真实声音，对哈里斯提出警告。肯尼迪妻子发声。5兄弟姐妹谴责，肯尼迪智慧回应。特勤局撤销保护。肯尼迪哈里斯美国大选</a></li>
 <li><a href="/comments/20240827/2079533.md" target="_blank">李强握住了搅屎棍！您猜猜是哪头？</a></li>
-<li><a href="/comments/20240826/2079514.md" target="_blank">时事大家谈：中俄互访频繁，解放军代表团赴俄罗斯做什么?</a></li>
-<li><a href="/comments/20240826/2079513.md" target="_blank">时事大家谈：民心思变，习近平想起冷宫中的邓小平？</a></li>
-<li><a href="/comments/20240826/2079512.md" target="_blank">时事大家谈：民心思变，习近平想起冷宫中的邓小平？中俄互访频繁，解放军代表团赴俄罗斯做什么?</a></li>
-<li><a href="/comments/20240826/2079482.md" target="_blank">华盛顿总统当年如何看“党派”的？</a></li>
-<li><a href="/comments/20240826/2079447.md" target="_blank">【泽论四方】白罗斯将变成大湾区的死亡之吻</a></li>
-<li><a href="/comments/20240826/2079430.md" target="_blank">帕克 比格斯7、8月最新预言警告 一定要提前做好准备！日本南海海槽引爆毁灭性地震海啸、火山蠢蠢欲动；中东战事扩大 停电三周？！美国大选再现十月惊奇，影响选举！｜未解之谜</a></li>
-<li><a href="/comments/20240826/2079428.md" target="_blank">比苹果手表还聪明？读懂中国人的心？小粉红听这回答&#8230;</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
 <li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
 <li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20190701/1151501.md" target="_blank">【特稿】中国共产党是邪教组织</a></li>
+<li><a href="/comments/20240808/2071869.md" target="_blank">【新纪元】被误解的大脑</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20240116/1984226.md" target="_blank">湖北老河口遇仙记</a></li>
+<li><a href="/comments/20231130/1967587.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （一）</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
 <li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20240721/2065039.md" target="_blank">王建勋：川普主义是雅各宾主义的克星</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20240704/2058130.md" target="_blank">百年梦醒（十八）：共产魔教的机制、前所未有的巨大野心</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
 
 </ul>
 </div>
