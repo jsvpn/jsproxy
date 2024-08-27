@@ -11,23 +11,23 @@
 <li><a href="/ccpdope/20240826/2079369.md">习给老邓戴高帽揭示了一个公开的秘密</a></li>
 <li><a href="/cnnews/20240827/2079646.md">隐秘的色情生意：谁在围猎未成年少女？</a></li>
 <li><a href="/topimagenews/20240826/2079443.md">被火车碾碎的感觉 应该跟坦克差不多! 为“反送中”殉道 香港教授李衍桦跳轨自杀</a></li>
+<li><a href="/comments/20240827/2079697.md">卧轨自杀的香港李衍桦教授 赫然排名全球顶尖科学家中</a></li>
 <li><a href="/cbnews/20240826/2079399.md">民警救人反被抢救生绳溺水 大陆今后无人敢救落水者？ 【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20240826/2079470.md">干脆不演了直接投共! 隐瞒参与“千人计划”获刑 美顶尖科学家利伯将赴港</a></li>
-<li><a href="/comments/20240827/2079697.md">卧轨自杀的香港李衍桦教授 赫然排名全球顶尖科学家中</a></li>
 <li><a href="/topimagenews/20240827/2079638.md">中国商品品质被它败坏殆尽！连住在贫民窟的美国人也不睬它</a></li>
 <li><a href="/topimagenews/20240826/2079444.md">红线原来不存在！乌攻俄一周内重创俄军 俄提39次红线 仍不敢用核弹</a></li>
 <li><a href="/ssgc/20240827/2079601.md">评论｜胡平：习近平为何要高调纪念邓小平？</a></li>
-<li><a href="/cnnews/20240826/2079524.md">在美国多有钱才算富裕？ 最新调查揭答案：又涨了</a></li>
 <li><a href="/comments/20240827/2079660.md">文昭：豁出去了，中共派「志愿军」参战？谁料到是上海率先点燃了这个巨雷</a></li>
 <li><a href="/ssgc/20240826/2079454.md">白俄罗斯总统透露了中共大撒币内幕</a></li>
+<li><a href="/cnnews/20240826/2079524.md">在美国多有钱才算富裕？ 最新调查揭答案：又涨了</a></li>
 <li><a href="/headline/20240826/2079398.md">鼎泰丰宣布关闭中国华北14家门市引惊讶</a></li>
 <li><a href="/lifebaike/20240826/2079402.md">人过七十：衣有三不穿，寿有三不过，地有三不去</a></li>
 <li><a href="/finance/20240826/2079358.md">半年倒闭近3万家 高端面馆正狼狈退场</a></li>
 <li><a href="/cbnews/20240826/2079523.md">贵州女被强行验血 险遭活摘器官</a></li>
 <li><a href="/comments/20240827/2079533.md">李强握住了搅屎棍！您猜猜是哪头？</a></li>
 <li><a href="/worldnews/20240826/2079420.md">传俄官遭集体歼灭2事件！ 中将颁奖 10多人被风暴阴影轰毙、俄兵手榴弹炸死15俄官</a></li>
-<li><a href="/topimagenews/20240827/2079565.md">信中共没好下场！崩盘国家一箩筐</a></li>
-<li><a href="/sohnews/20240826/2079384.md">陈破空：军报暗示：有人应辞职！谁？经得起“动自己奶酪”。他的病情比想象的严重？王毅即将对沙利文通报。澳洲记者重返中国。各国停飞中国航班。直播与互动：美东时间8月26日早9点、中港台当晚9点</a></li>
+<li><a href="/topimagenews/20240827/2079740.md">习近平整顿最新目标 又一行业要出大事</a></li>
+<li><a href="/comments/20240827/2079699.md">上官乱：谷爱凌终于翻车了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/taiwannews/20210119/1470761.md" target="_blank">独家：震撼纪录片《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/topimagenews/20240511/2035423.md" target="_blank">原北京学员回忆李洪志先生在东方健康博览会上所行的奇迹</a></li>
-<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/aomi/life/20240330/2018911.md" target="_blank">挪威青年这样走出重度失眠和抑郁煎熬</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20240813/2074068.md" target="_blank">天眼所见自杀者的悲惨境况，人一定要珍惜生命</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/comments/20240820/2076928.md" target="_blank">惠虎宇：中华文化为什么是高级文化系统(1)</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20240412/2024185.md" target="_blank">是治疗还是屠杀?化疗药品滴一滴在皮肤即灼伤，很长时间才好</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
 <li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/cbnews/20240603/2045072.md" target="_blank">漫谈古代科举之八股文</a></li>
+<li><a href="/comments/20240418/2026391.md" target="_blank">医生劝我妻子放弃，似乎这些医生热衷让病人快点去死？</a></li>
+<li><a href="/comments/20190219/1082706.md" target="_blank">胡平：法轮功信仰自由，江泽民精神控制</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/tculture/20231217/1975364.md" target="_blank">医山夜话：张锡纯医案解读（1）根治失眠 思路清晰</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
 
 </ul>
 </div>
