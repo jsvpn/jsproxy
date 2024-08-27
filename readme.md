@@ -8,7 +8,6 @@
 <li><a href="/comments/20240827/2079697.md">卧轨自杀的香港李衍桦教授 赫然排名全球顶尖科学家中</a></li>
 <li><a href="/cnnews/20240827/2079646.md">隐秘的色情生意：谁在围猎未成年少女？</a></li>
 <li><a href="/topimagenews/20240827/2079740.md">习近平整顿最新目标 又一行业要出大事</a></li>
-<li><a href="/cbnews/20240826/2079470.md">干脆不演了直接投共! 隐瞒参与“千人计划”获刑 美顶尖科学家利伯将赴港</a></li>
 <li><a href="/topimagenews/20240827/2079768.md">北京自掘坟墓</a></li>
 <li><a href="/sohnews/20240827/2079789.md">习近平替身访俄，替身游戏又穿帮!</a></li>
 <li><a href="/topimagenews/20240827/2079638.md">中国商品品质被它败坏殆尽！连住在贫民窟的美国人也不睬它</a></li>
@@ -19,15 +18,16 @@
 <li><a href="/comments/20240827/2079660.md">文昭：豁出去了，中共派「志愿军」参战？谁料到是上海率先点燃了这个巨雷</a></li>
 <li><a href="/topimagenews/20240827/2079756.md">太子党们都记得 他狠整邓小平后人</a></li>
 <li><a href="/comments/20240827/2079699.md">上官乱：谷爱凌终于翻车了</a></li>
-<li><a href="/cbnews/20240827/2079751.md">〖红朝浮世绘〗人体成了商品，明码标价了</a></li>
 <li><a href="/cbnews/20240826/2079523.md">贵州女被强行验血 险遭活摘器官</a></li>
+<li><a href="/cbnews/20240827/2079751.md">〖红朝浮世绘〗人体成了商品，明码标价了</a></li>
 <li><a href="/sohnews/20240827/2079685.md">习近平使出最阴损的一招，红三代爆料中共核武与化武机密，再次大放毒导致的疫情正在到来。《老灯开讲第647期》</a></li>
 <li><a href="/topimagenews/20240827/2079715.md">【微博精粹】嘻嘻屁生于土改 死于房税</a></li>
+<li><a href="/baitai/20240827/2079844.md">震惊！ 传富得流油省级卫视发不出工资了 名主持辞职</a></li>
 <li><a href="/cbnews/20240827/2079661.md">中共黑色恐怖</a></li>
-<li><a href="/topimagenews/20240827/2079742.md">铁饭碗不稳！“外地女孩”遮挡了令人叹为观止的奇观</a></li>
 <li><a href="/cnnews/20240827/2079745.md">重磅炸弹：扎克伯格引爆美国 马斯克疯狂跟上</a></li>
-<li><a href="/topimagenews/20240827/2079565.md">信中共没好下场！崩盘国家一箩筐</a></li>
+<li><a href="/topimagenews/20240827/2079742.md">铁饭碗不稳！“外地女孩”遮挡了令人叹为观止的奇观</a></li>
 <li><a href="/sohnews/20240827/2079798.md">陈破空：脑瘤手术实锤！老习报复泄密者。消息从上层流出，中银行长被抓！连转发者都恨上，掐断网线。美企台企撤离中国。加拿大加征关税100%。直播与互动：美东时间8月27日早9点、中港台当晚9点</a></li>
+<li><a href="/topimagenews/20240827/2079565.md">信中共没好下场！崩盘国家一箩筐</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/comments/20240820/2076958.md" target="_blank">惠虎宇：中华文化为什么是高级文化系统(3)</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20240126/1992876.md" target="_blank">内幕：中国留学生里女生打男生和男生打女一样普遍</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
 <li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
 
 </ul>
 </div>
