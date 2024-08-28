@@ -15,7 +15,6 @@
 <li><a href="/baitai/20240828/2080318.md">蒋介石晚年在日记痛斥3人：若不是他们捣乱，我不至败退台湾</a></li>
 <li><a href="/cbnews/20240828/2080345.md">今年中共国国庆调休令人崩溃</a></li>
 <li><a href="/topimagenews/20240828/2080190.md">裸奔！北约晾出这些吓呆普京？</a></li>
-<li><a href="/baitai/20240828/2080051.md">东北限电背后，是对整个时代的遮蔽与遗忘</a></li>
 <li><a href="/cbnews/20240828/2080257.md">上海电信突然崩了</a></li>
 <li><a href="/topimagenews/20240828/2080087.md">房屋养老金持证上网烂尾！中共硬生生吞回去了?</a></li>
 <li><a href="/topimagenews/20240828/2080153.md">高攀不起？北京自打脸 网：中国股市说不定哪天没了</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/cbnews/20240828/2080192.md">党媒刚吹完 又翻车了</a></li>
 <li><a href="/cnnews/20240828/2080383.md">看似在堵漏 其实在吸血! 房屋养老金惹民怨 上海市民集体上街“散步”抗议</a></li>
 <li><a href="/topimagenews/20240828/2080344.md">5大警讯出现 贺锦丽选情不容乐观</a></li>
+<li><a href="/comments/20240828/2080262.md">吴祚来：越共总书记苏林的内部讲话</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240829/2080523.md" target="_blank">扎克伯格承认了三件事</a></li>
 <li><a href="/comments/20240829/2080512.md" target="_blank">特别检察官失智，二次起诉川普1.6选举案。哈里斯媒体蜜月期结束？纽约时报等媒体群攻哈里斯。川普哈里斯史密斯</a></li>
 <li><a href="/cbnews/20240829/2080472.md" target="_blank">日本爆发过度旅游…却没人想到中国玩？CNBC揭“4大原因”</a></li>
 <li><a href="/cbnews/20240828/2080430.md" target="_blank">全中国只有2辆罐车混运食用油？糊弄谁啊</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240828/2080192.md" target="_blank">党媒刚吹完 又翻车了</a></li>
 <li><a href="/cbnews/20240828/2080174.md" target="_blank">中国网红“铁头”被捕 曾向主播索要黄金</a></li>
 <li><a href="/comments/20240828/2080156.md" target="_blank">扎克伯格“招供” 电报人被捕 言论自由还有吗？</a></li>
-<li><a href="/cbnews/20240828/2080154.md" target="_blank">王毅见沙利文 谈了些什么？</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240829/2080523.md" target="_blank">扎克伯格承认了三件事</a></li>
+<li><a href="/comments/20240829/2080519.md" target="_blank">【梁京评论】独裁者的垃圾时间与拜登的历史性机会</a></li>
 <li><a href="/comments/20240829/2080512.md" target="_blank">特别检察官失智，二次起诉川普1.6选举案。哈里斯媒体蜜月期结束？纽约时报等媒体群攻哈里斯。川普哈里斯史密斯</a></li>
 <li><a href="/comments/20240829/2080469.md" target="_blank">天亮时分：民主党大佬接连支持川普，贺锦丽选情有危？</a></li>
 <li><a href="/comments/20240829/2080468.md" target="_blank">真正难的选择题⁉️造不造谣？人民被党冠罪！纳税人的钱在哪？中共不敢说的&#8230;</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240828/2080179.md" target="_blank">中共国和俄罗斯已经进入了等死时代</a></li>
 <li><a href="/comments/20240828/2080170.md" target="_blank">俄罗斯人靠兵法 成乌军大将！库尔斯克行动 让普丁难受？</a></li>
 <li><a href="/comments/20240828/2080156.md" target="_blank">扎克伯格“招供” 电报人被捕 言论自由还有吗？</a></li>
-<li><a href="/comments/20240828/2080155.md" target="_blank">书房点兵：要打大仗？俄军无人可用 65岁都要上战场</a></li>
-<li><a href="/comments/20240828/2080147.md" target="_blank">小札投下2024大选震撼弹；电报创始人杜罗夫被抓，打压言论自由突破红线？｜方菲时间</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20240403/2020547.md" target="_blank">纪录片：DSM诊断与统计手册-精神病学最要命的骗局</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/cbnews/20240603/2045072.md" target="_blank">漫谈古代科举之八股文</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
 <li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/cbnews/20231208/1971389.md" target="_blank">话说中医之祝由科</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
 <li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/cnnews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20240723/2065714.md" target="_blank">台湾民视：解谜法轮功 气功或宗教？</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
 
 </ul>
 </div>
