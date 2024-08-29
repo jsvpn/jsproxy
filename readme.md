@@ -8,7 +8,6 @@
 <li><a href="/topimagenews/20240829/2080585.md">震惊世界 全球通缉！王健林红二代小舅子跨国连杀2妻</a></li>
 <li><a href="/topimagenews/20240829/2080887.md">夜市惊传砍头案！摊贩遭陆男“长刀斩首” 民众目睹吓逃窜</a></li>
 <li><a href="/topimagenews/20240829/2080628.md">网商银行 狠狠打了马云一记耳光</a></li>
-<li><a href="/topimagenews/20240829/2080509.md">朝鲜高级干部女儿揪闺蜜暗夜狂欢！遭警突袭 被逮原因曝</a></li>
 <li><a href="/topimagenews/20240829/2080612.md">李佩霞父怒发文十问</a></li>
 <li><a href="/sohnews/20240829/2080723.md">陈破空：震动！张又侠罕见会见美国高官。王沪宁忽然高挂习近平遗像！等不及了？胡锡进失踪，孔庆东呼喊捞人。各地纷纷成立砸锅卖铁办公室，中国经济垮了。直播与互动：美东时间8月29日早9点、中港台当晚9点</a></li>
 <li><a href="/sohnews/20240829/2080653.md">北京地铁三连爆，中南海周边全封；回龙观繁华不再，北京餐饮全业亏损；各地要“砸锅卖铁”，上海人集体散步【新闻看点 李沐阳8.28】</a></li>
@@ -20,14 +19,15 @@
 <li><a href="/topimagenews/20240829/2080677.md">美国好兆头 史上最大水坝拆除将完成 鲑鱼回归自由穿梭</a></li>
 <li><a href="/topimagenews/20240829/2080600.md">中国年轻人不买房了</a></li>
 <li><a href="/topimagenews/20240829/2080841.md">和中共决裂？！金正恩 禁看中国影剧 连《梁祝》也被禁 原因曝</a></li>
-<li><a href="/sohnews/20240829/2080736.md">爆发：上海市民上街散步抗议房屋新政，越共总书记苏林内部讲话贬低习近平，中共溃败不可挽回。《老灯开讲第649期》</a></li>
 <li><a href="/cbnews/20240829/2080805.md">中南海碰壁！川普团队冷对中共接触，全盘拒绝</a></li>
+<li><a href="/sohnews/20240829/2080736.md">爆发：上海市民上街散步抗议房屋新政，越共总书记苏林内部讲话贬低习近平，中共溃败不可挽回。《老灯开讲第649期》</a></li>
 <li><a href="/cbnews/20240829/2080684.md">〖红朝浮世绘〗关于“房屋养老金”的前前后后</a></li>
 <li><a href="/topimagenews/20240829/2080586.md">国际地位窜升！“莫迪3.0”烧出第一把火</a></li>
 <li><a href="/ssgc/20240829/2080646.md">〖微博谈〗都是夜壶</a></li>
-<li><a href="/ssgc/20240829/2080814.md">沙利文29日在人民大会堂和习近平见面</a></li>
 <li><a href="/cnnews/20240829/2080617.md">不让手上的现金贬值 除了买黄金还有这两招</a></li>
+<li><a href="/ssgc/20240829/2080814.md">沙利文29日在人民大会堂和习近平见面</a></li>
 <li><a href="/cbnews/20240829/2080843.md">提前预言川普总统耳朵受伤的比格斯预言中共要灭亡？</a></li>
+<li><a href="/ssgc/20240829/2080880.md">胡德平旧文重登 再透北京不平静</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20240320/2015021.md" target="_blank">唐柏桥：中共带话只要不与法轮功来往，其他一切都好说</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/tculture/20240815/2074891.md" target="_blank">松果体 谜一样的器官</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
 
 </ul>
 </div>
