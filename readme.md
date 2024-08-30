@@ -22,12 +22,12 @@
 <li><a href="/sohnews/20240830/2081229.md">陈破空：内幕解析：三中全会出意外，习近平败了！彭丽媛董军上不去。胡锡进跌入王沪宁的语言陷阱。直播：美东时间8月30日早9点、中港台当晚9点</a></li>
 <li><a href="/topimagenews/20240830/2081052.md">死得窝囊诡异，一块儿肉让俄反恐高官殒命</a></li>
 <li><a href="/cnnews/20240830/2081076.md">科学家发现 动脉粥样斑块竟能完全消退</a></li>
-<li><a href="/cbnews/20240830/2081068.md">湖南挖出超三千斤石龟 牵出当地神秘传说</a></li>
-<li><a href="/headline/20240830/2080998.md">蒲黄榆说: 北戴河会后的乱象 - 中国的“大跃退”开始了</a></li>
-<li><a href="/topimagenews/20240830/2081037.md">中共战狼选手被逐出国际大赛 野蛮抢夺台湾国旗</a></li>
-<li><a href="/topimagenews/20240830/2081204.md">F-16 坠毁 乌军知名飞官阵亡 乌政府遭重击</a></li>
 <li><a href="/topimagenews/20240830/2081203.md">经济新风险！中共秘而不宣 中国巨额外汇储备成巨大隐患</a></li>
-<li><a href="/worldnews/20240830/2081039.md">乌克兰军方证实F-16日前坠毁 飞行员殉职</a></li>
+<li><a href="/headline/20240830/2080998.md">蒲黄榆说: 北戴河会后的乱象 - 中国的“大跃退”开始了</a></li>
+<li><a href="/cbnews/20240830/2081068.md">湖南挖出超三千斤石龟 牵出当地神秘传说</a></li>
+<li><a href="/topimagenews/20240830/2081204.md">F-16 坠毁 乌军知名飞官阵亡 乌政府遭重击</a></li>
+<li><a href="/topimagenews/20240830/2081037.md">中共战狼选手被逐出国际大赛 野蛮抢夺台湾国旗</a></li>
+<li><a href="/cbnews/20240830/2081210.md">青岛“路虎女”逆行插队 打小车司机十几个耳光 打得小伙满脸是血</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240831/2081408.md" target="_blank">时事大家谈：北京官媒公开寻找“基辛格”，世间再有一个“基辛格”？</a></li>
+<li><a href="/comments/20240831/2081403.md" target="_blank">【泽论四方】中国晶片工业为何会失败？</a></li>
 <li><a href="/comments/20240831/2081396.md" target="_blank">青天白日满地红国旗歌！光复 成真😲</a></li>
 <li><a href="/comments/20240830/2081381.md" target="_blank">天亮时分：中共很努力想和川普说上话，但&#8230; &#8230;</a></li>
 <li><a href="/comments/20240830/2081354.md" target="_blank">时事大家谈：习近平六个思想进了新教材，教育部为何要对娃娃洗脑？北京官媒公开寻找“基辛格”，世间再有一个“基辛格”？</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240830/2081119.md" target="_blank">砸锅卖铁，干得好！应该全国推广</a></li>
 <li><a href="/comments/20240830/2081118.md" target="_blank">孙立平：从住房养老金到砸锅卖铁，政策语言应该规范化</a></li>
 <li><a href="/comments/20240830/2081117.md" target="_blank">投诚川普，扎克伯格为何背刺拜登政府？</a></li>
-<li><a href="/comments/20240830/2081116.md" target="_blank">量子跃迁：我们已经跨越百年变局的门槛</a></li>
-<li><a href="/comments/20240830/2081108.md" target="_blank">要出大事？北京惊现海市蜃楼！</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/comments/20240801/2069416.md" target="_blank">无神论和有神论深度解析</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
 <li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20231214/1974098.md" target="_blank">美国众议院议长：我所坚守的保守主义，具体是些什么内容？</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
 
 </ul>
 </div>
