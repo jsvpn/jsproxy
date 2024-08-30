@@ -7,7 +7,6 @@
 
 <li><a href="/topimagenews/20240829/2080887.md">夜市惊传砍头案！摊贩遭陆男“长刀斩首” 民众目睹吓逃窜</a></li>
 <li><a href="/sohnews/20240829/2080723.md">陈破空：震动！张又侠罕见会见美国高官。王沪宁忽然高挂习近平遗像！等不及了？胡锡进失踪，孔庆东呼喊捞人。各地纷纷成立砸锅卖铁办公室，中国经济垮了。直播与互动：美东时间8月29日早9点、中港台当晚9点</a></li>
-<li><a href="/sohnews/20240829/2080653.md">北京地铁三连爆，中南海周边全封；回龙观繁华不再，北京餐饮全业亏损；各地要“砸锅卖铁”，上海人集体散步【新闻看点 李沐阳8.28】</a></li>
 <li><a href="/cbnews/20240829/2080803.md">反抗开始了！辅导员集体爆发，揭露中共高校压榨真相</a></li>
 <li><a href="/headline/20240829/2080810.md">北京女模扮仿真机械人 「看破不说破」参观者疯狂乱摸</a></li>
 <li><a href="/topimagenews/20240829/2080677.md">美国好兆头 史上最大水坝拆除将完成 鲑鱼回归自由穿梭</a></li>
@@ -16,18 +15,19 @@
 <li><a href="/cbnews/20240829/2080805.md">中南海碰壁！川普团队冷对中共接触，全盘拒绝</a></li>
 <li><a href="/ssgc/20240829/2080880.md">胡德平旧文重登 再透北京不平静</a></li>
 <li><a href="/cbnews/20240829/2080684.md">〖红朝浮世绘〗关于“房屋养老金”的前前后后</a></li>
+<li><a href="/topimagenews/20240830/2081050.md">激烈的反弹！中共元老对习发难</a></li>
 <li><a href="/cnnews/20240829/2080891.md">中国男娶“颜值逆天”斐济新娘 乡里轰动围观</a></li>
 <li><a href="/cbnews/20240829/2080867.md">邓小平翻译自曝被“约谈” 为自己喊冤：你行你上</a></li>
 <li><a href="/cbnews/20240829/2080843.md">提前预言川普总统耳朵受伤的比格斯预言中共要灭亡？</a></li>
-<li><a href="/topimagenews/20240830/2081050.md">激烈的反弹！中共元老对习发难</a></li>
 <li><a href="/sohnews/20240829/2080908.md">“刺探中南海谁主政？！“你提出想见我 ⋯” 张又侠罕见 高调接待美国家安全顾问沙利文”No 01（08 29 24）习近平张又侠</a></li>
 <li><a href="/ssgc/20240829/2080814.md">沙利文29日在人民大会堂和习近平见面</a></li>
 <li><a href="/baitai/20240829/2080912.md">沙利文接连会晤王毅 张又侠与习近平 中共外交部现罕见举动 释不寻常信号</a></li>
 <li><a href="/ccpdope/20240830/2081031.md">沙利文要求会晤张又侠 习近平军权旁落？</a></li>
+<li><a href="/cbnews/20240829/2080862.md">北京地铁10号线故障有异味 传出三声响后冒烟</a></li>
 <li><a href="/topimagenews/20240829/2080796.md">内幕：共谍早在FBI掌握中 就看何时抓</a></li>
+<li><a href="/headline/20240830/2080998.md">蒲黄榆说: 北戴河会后的乱象 - 中国的“大跃退”开始了</a></li>
+<li><a href="/comments/20240830/2081041.md">习要踩刹车？见沙利文 说了这句话</a></li>
 <li><a href="/baitai/20240829/2080746.md">从「紧日子」到「砸锅卖铁」 中共政府「丧事喜办 」 已是穷途末路？</a></li>
-<li><a href="/funmedia/20240829/2080719.md">这个曾经“感动美国的故事”烂尾了</a></li>
-<li><a href="/sohnews/20240830/2080974.md">中美两国竟对俄乌战争有一大共识！俄乌战争俄罗斯乌克兰</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20231208/1971390.md" target="_blank">传统文化之汉字的内涵</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/tculture/20231202/1968819.md" target="_blank">六道轮回之天神道</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/cnnews/20150914/449521.md" target="_blank">无神论和有神论，乡下老太太驳倒三个博士</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/topimagenews/20200514/1328456.md" target="_blank">穿越时空 谢田教授亲身体验人体特异功能</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
+<li><a href="/comments/20240813/2074068.md" target="_blank">天眼所见自杀者的悲惨境况，人一定要珍惜生命</a></li>
+<li><a href="/comments/20240320/2015021.md" target="_blank">唐柏桥：中共带话只要不与法轮功来往，其他一切都好说</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/lifebaike/20180529/949787.md" target="_blank">无神论是最大的迷信（下）：科学家大多是有神论</a></li>
+<li><a href="/cbnews/20231208/1971389.md" target="_blank">话说中医之祝由科</a></li>
 <li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
 
 </ul>
 </div>
