@@ -7,7 +7,6 @@
 
 <li><a href="/topimagenews/20240830/2081149.md">【微博精粹】红二红三聚会场上 都是中国梦破碎的声音</a></li>
 <li><a href="/comments/20240830/2081173.md">蔡奇闯祸！习近平惊闻普京game over？ 网民接力喊“起来奴隶”，山西宣布中华民国光复大陆成功</a></li>
-<li><a href="/baitai/20240830/2081109.md">内斗持续时 红二代为何给习捧场？</a></li>
 <li><a href="/topimagenews/20240830/2081205.md">帝都的餐馆，就快没活路了</a></li>
 <li><a href="/cnnews/20240830/2081310.md">女子在客机上熟睡 遭坐在旁边的陌生人性侵</a></li>
 <li><a href="/baitai/20240830/2081217.md">大陆各地现青年炸街行动 冲上政府大楼 挑衅警察</a></li>
@@ -18,16 +17,17 @@
 <li><a href="/topimagenews/20240830/2081204.md">F-16 坠毁 乌军知名飞官阵亡 乌政府遭重击</a></li>
 <li><a href="/cbnews/20240830/2081210.md">青岛“路虎女”逆行插队 打小车司机十几个耳光 打得小伙满脸是血</a></li>
 <li><a href="/cbnews/20240830/2081169.md">〖红朝浮世绘〗“砸锅卖铁”工作专班？中共已经到了山穷水尽的地步了</a></li>
-<li><a href="/sohnews/20240830/2081218.md">🔥🔥20个村几乎死绝 河里漂满死去的人❗又是中共的杰作❗</a></li>
-<li><a href="/topimagenews/20240830/2081214.md">史上头一遭！柯文哲遭带走</a></li>
-<li><a href="/itnews/20240830/2081260.md">Apple AI 功能取消地区限制 除中国外全球用户均可试用</a></li>
-<li><a href="/sohnews/20240830/2081215.md">军头监国：张又侠出面接见沙利文，红二代胡德平发文反习，精神病人如何治国。《老灯开讲第650期》</a></li>
-<li><a href="/topimagenews/20240830/2081345.md">湖南古城挖出数千斤重石龟 或解神秘传说 忧不祥之兆</a></li>
 <li><a href="/topimagenews/20240831/2081419.md">美对中接触政策正崩溃！ 美中关系恶化关键是习近平</a></li>
+<li><a href="/topimagenews/20240830/2081214.md">史上头一遭！柯文哲遭带走</a></li>
+<li><a href="/sohnews/20240830/2081218.md">🔥🔥20个村几乎死绝 河里漂满死去的人❗又是中共的杰作❗</a></li>
+<li><a href="/itnews/20240830/2081260.md">Apple AI 功能取消地区限制 除中国外全球用户均可试用</a></li>
+<li><a href="/topimagenews/20240830/2081345.md">湖南古城挖出数千斤重石龟 或解神秘传说 忧不祥之兆</a></li>
+<li><a href="/sohnews/20240830/2081215.md">军头监国：张又侠出面接见沙利文，红二代胡德平发文反习，精神病人如何治国。《老灯开讲第650期》</a></li>
 <li><a href="/ccpdope/20240830/2081255.md">中共地方政府揭不开锅 「砸锅卖铁」出新招</a></li>
 <li><a href="/comments/20240830/2081289.md">王丹：习近平以邓小平之道 还治邓小平之身</a></li>
 <li><a href="/sohnews/20240830/2081271.md">“刺探中南海谁主政？！“你提出想见我 ⋯” 张又侠罕见 高调接待美国家安全顾问沙利文”No.01（08/29/24）习近平张又侠</a></li>
 <li><a href="/topimagenews/20240830/2081268.md">去哪了？10年间 中国建筑业农民工少了1500万</a></li>
+<li><a href="/sohnews/20240830/2081144.md">习跟张又侠互相猜忌，分权给蔡奇、李强？属羊之人仍是威胁；民国政府将回归南京？相关预言方式多次应验！7、8月习近平真的有难？习多次派人接触川普，吃闭门羹！美大选前景莫测，中共暂打中立牌｜大宇拍案惊奇</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/cnnews/20150914/449521.md" target="_blank">无神论和有神论，乡下老太太驳倒三个博士</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
 <li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20240320/2015021.md" target="_blank">唐柏桥：中共带话只要不与法轮功来往，其他一切都好说</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20231220/1976683.md" target="_blank">医山夜话：张锡纯医案解读（二）根治胃气不降之证</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20240820/2076774.md" target="_blank">胡平：批判法轮功的人,为何不用同样标准分析其他宗教</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
 <li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
 
 </ul>
 </div>
