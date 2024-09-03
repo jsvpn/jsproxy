@@ -8,14 +8,14 @@
 <li><a href="/baitai/20240903/2082947.md">长春出大事了？传警察被杀 大批持枪特警全副武装 楼顶上还趴着多名狙击手</a></li>
 <li><a href="/topimagenews/20240903/2083194.md">开眼了！传贪9000亿 中纪委抄家中石油董事长地下室画面流出</a></li>
 <li><a href="/cbnews/20240903/2082975.md">大案 ！杀警夺枪 长春传大量武警出动现场被封</a></li>
-<li><a href="/topimagenews/20240903/2083115.md">中日突传大消息</a></li>
 <li><a href="/topimagenews/20240903/2082998.md">中共外交官大发雷霆，过程遭媒体录下</a></li>
+<li><a href="/topimagenews/20240903/2083115.md">中日突传大消息</a></li>
 <li><a href="/topimagenews/20240902/2082708.md">精彩空战画面首见！乌军F-16“咬尾”击落俄Su-34 飞行员弹射逃生</a></li>
 <li><a href="/topimagenews/20240903/2082996.md">倒吸一口凉气！外资掀撤离上海大潮</a></li>
 <li><a href="/topimagenews/20240903/2082855.md">给免签外国旅客也不来！中国3大航空惨况曝光</a></li>
 <li><a href="/topimagenews/20240903/2082985.md">下手了！跨国大案直指王健林【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20240903/2083049.md">三峡大坝骗了所有人 重庆发现多个证据</a></li>
 <li><a href="/comments/20240903/2082852.md">习近平央视不敢播？！跟越共总书记合影 照片超细节👀有看出来吗？特写老习发现脑部小伤口... #习近平</a></li>
+<li><a href="/cnnews/20240903/2083049.md">三峡大坝骗了所有人 重庆发现多个证据</a></li>
 <li><a href="/baitai/20240903/2082923.md">青岛崂山事故真相如何？</a></li>
 <li><a href="/cnnews/20240903/2083173.md">中共军中又出大事了</a></li>
 <li><a href="/topimagenews/20240903/2083028.md">北上广深的消费降级，已是触目惊心了</a></li>
@@ -23,9 +23,9 @@
 <li><a href="/baitai/20240903/2082881.md">突发！俞敏洪卸任</a></li>
 <li><a href="/topimagenews/20240903/2083114.md">美研究员最新发现了普京大秘密</a></li>
 <li><a href="/cbnews/20240903/2083163.md">〖红朝浮世绘〗赖清德：习应夺回被俄罗斯侵占的土地而非拿下台湾</a></li>
+<li><a href="/cbnews/20240903/2083195.md">山东中学校门重大车祸 11学生与家长死亡</a></li>
 <li><a href="/topimagenews/20240903/2083078.md">再挥镰刀！中国多省区相继发布收费公告</a></li>
 <li><a href="/ccpdope/20240903/2082948.md">报应来时如山倒</a></li>
-<li><a href="/cbnews/20240903/2083195.md">山东中学校门重大车祸 11学生与家长死亡</a></li>
 <li><a href="/health/20240903/2083001.md">真不骗你 矮个子其实是中了基因彩票</a></li>
 <li><a href="/baitai/20240903/2082963.md">青岛打人姐事件：央视报道，处罚合法，女司机已离婚，小伙损失惨重</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/tculture/20231202/1968819.md" target="_blank">六道轮回之天神道</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20240623/2053092.md" target="_blank">章天亮：那些行于世间的觉者</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/tculture/20231119/1962827.md" target="_blank">六道轮回之地狱道</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20240813/2074068.md" target="_blank">天眼所见自杀者的悲惨境况，人一定要珍惜生命</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/topimagenews/20180608/954788.md" target="_blank">安乐死根本安乐不了，别宣传了</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
+<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
+<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
 
 </ul>
 </div>
