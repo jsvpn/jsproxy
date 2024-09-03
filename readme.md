@@ -17,7 +17,6 @@
 <li><a href="/baitai/20240902/2082496.md">突然暴跌！发生了什么？</a></li>
 <li><a href="/baitai/20240902/2082466.md">刘鹤：我看到了真正的危机</a></li>
 <li><a href="/topimagenews/20240902/2082619.md">垂发假的、红旗-10假的、连舰炮都没装! 中共“最先进战舰”结果竟然是…….</a></li>
-<li><a href="/topimagenews/20240902/2082290.md">事业编正在消失 中国老师们丢编弃岗…</a></li>
 <li><a href="/topimagenews/20240902/2082480.md">一个中国女孩，在蒙古遭受性侵之后</a></li>
 <li><a href="/topimagenews/20240902/2082708.md">精彩空战画面首见！乌军F-16“咬尾”击落俄Su-34 飞行员弹射逃生</a></li>
 <li><a href="/topimagenews/20240902/2082382.md">中国一大批“假富人”，正在集体崩塌</a></li>
@@ -26,6 +25,7 @@
 <li><a href="/sohnews/20240902/2082484.md">澄清：习近平的最新内部讲话，未来十年中国前景预测，青岛打人豪车女王慧被于瑞波调到市公安局。《老灯开讲第653期》</a></li>
 <li><a href="/baitai/20240902/2082518.md">习近平自毁整个「军工帮」？「航天少帅」出事震动政治局 波及两委员 暗击江绵恒</a></li>
 <li><a href="/topimagenews/20240903/2082855.md">给免签外国旅客也不来！中国3大航空惨况曝光</a></li>
+<li><a href="/baitai/20240903/2082947.md">长春出大事了？传警察被杀 大批持枪特警全副武装 楼顶上还趴着多名狙击手</a></li>
 <li><a href="/baitai/20240902/2082560.md">你每天这样吸收大量阴气，怎么可能不生病</a></li>
 <li><a href="/sohnews/20240902/2082366.md">习近平排查三中全会“病变”传言吹哨人？传51人涉案，中国银行行长刘金因此辞职？“路虎女”被指是“青岛看守所”警察，帮手乃青岛公安监管头目“范学强”，在追查国际名单，两人有说不清关系？｜大宇拍案惊奇</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240903/2083003.md" target="_blank">王座大战如火如荼 哈里斯最大金主突发重要警告</a></li>
 <li><a href="/comments/20240903/2082982.md" target="_blank">How US Election Matters to China</a></li>
 <li><a href="/comments/20240903/2082858.md" target="_blank">【洞察国情】中共开始准备接管台湾</a></li>
 <li><a href="/comments/20240903/2082852.md" target="_blank">习近平央视不敢播？！跟越共总书记合影 照片超细节👀有看出来吗？特写老习发现脑部小伤口&#8230; #习近平</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240902/2082319.md" target="_blank">王尊彦：评析中国军机首次侵犯日本领空事件</a></li>
 <li><a href="/comments/20240902/2082318.md" target="_blank">刘晓博：砸锅卖铁！这些地方，怎么了</a></li>
 <li><a href="/comments/20240902/2082317.md" target="_blank">李文亮没有被民众遗忘</a></li>
-<li><a href="/comments/20240902/2082316.md" target="_blank">褚朝新：万万没想到，会被省纪委约见</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
 <li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/comments/20240808/2071869.md" target="_blank">【新纪元】被误解的大脑</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/taiwannews/20210119/1470524.md" target="_blank">纪录片《蚕食美国1》</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20240828/2080320.md" target="_blank">惠虎宇：与AI聊传统宗教、科学和修炼</a></li>
-<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
-<li><a href="/comments/20240318/2014289.md" target="_blank">唐柏桥：民运同仁突然向法轮功开火是怎么回事？</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
+<li><a href="/comments/20240820/2076958.md" target="_blank">惠虎宇：中华文化为什么是高级文化系统(3)</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/cbnews/20231208/1971389.md" target="_blank">话说中医之祝由科</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
 
 </ul>
 </div>
