@@ -14,20 +14,20 @@
 <li><a href="/cbnews/20240904/2083718.md">〖红朝浮世绘〗金灿荣悬了！这次竟失口说了真话</a></li>
 <li><a href="/topimagenews/20240904/2083595.md">俄乌交战今年最惨一幕出现</a></li>
 <li><a href="/cbnews/20240904/2083572.md">中共党魁担心“颜色革命”：我们输不起</a></li>
-<li><a href="/sohnews/20240904/2083791.md">陈破空：迹象显示，他将取代习近平？中非峰会防政变，北京军管。何卫东为习鼓譟。纽约州长身边共特被逮。菲律宾共谍市长逃亡印尼后被捕。俄国回应台湾总统。直播与互动：美东时间9月4日早10点、中港台当晚10点</a></li>
 <li><a href="/baitai/20240904/2083849.md">福建省委重要决定</a></li>
+<li><a href="/sohnews/20240904/2083791.md">陈破空：迹象显示，他将取代习近平？中非峰会防政变，北京军管。何卫东为习鼓譟。纽约州长身边共特被逮。菲律宾共谍市长逃亡印尼后被捕。俄国回应台湾总统。直播与互动：美东时间9月4日早10点、中港台当晚10点</a></li>
 <li><a href="/topimagenews/20240904/2083610.md">白拿？退款免退货！亚马逊宣布…</a></li>
-<li><a href="/renquan/20240904/2083767.md">言论自由的消亡：从西北大学学生被判刑看中共的思想控制</a></li>
 <li><a href="/topimagenews/20240904/2083678.md">也该轮到银行出血了</a></li>
+<li><a href="/renquan/20240904/2083767.md">言论自由的消亡：从西北大学学生被判刑看中共的思想控制</a></li>
 <li><a href="/topimagenews/20240904/2083883.md">曝金正恩下令处决30高官</a></li>
 <li><a href="/baitai/20240904/2083630.md">一个家庭最大的悲哀不是穷，而是父母六七十岁了，还在做这件事</a></li>
 <li><a href="/topimagenews/20240904/2083952.md">5援俄中国兵惨遭连环地雷炸死! 有人临阵退缩还被督战队痛打在地</a></li>
+<li><a href="/cnnews/20240904/2083901.md">不祥之兆 中国经济又传坏消息</a></li>
 <li><a href="/cbnews/20240904/2083634.md">花季少女脱光爬行！河南女教官够狠</a></li>
 <li><a href="/ccpdope/20240904/2083803.md">赖清德提议获国际媒体回应 俄公布中共卖国证据</a></li>
 <li><a href="/baitai/20240904/2083789.md">林保华：习近平的歪头一笑百昧生</a></li>
-<li><a href="/cnnews/20240904/2083901.md">不祥之兆 中国经济又传坏消息</a></li>
-<li><a href="/cbnews/20240904/2083597.md">山东省中学惨剧影片曝光! 11死13伤 疑司机报复</a></li>
 <li><a href="/cbnews/20240904/2083887.md">青岛通报“路虎女”打人事件 再掀舆论风暴</a></li>
+<li><a href="/cbnews/20240904/2083597.md">山东省中学惨剧影片曝光! 11死13伤 疑司机报复</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/cnnews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20240116/1984226.md" target="_blank">湖北老河口遇仙记</a></li>
 <li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20240829/2080735.md" target="_blank">胆战心惊:塔克访谈揭露美国食品巨头，医疗体系</a></li>
+<li><a href="/cbnews/20231208/1971389.md" target="_blank">话说中医之祝由科</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20240703/2057730.md" target="_blank">百年梦醒（十七）：马克思的连环计、出卖灵魂</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/comments/20231204/1969287.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （三）</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
 
 </ul>
 </div>
