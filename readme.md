@@ -19,15 +19,15 @@
 <li><a href="/cbnews/20240905/2084310.md">颂青岛路虎女：解放军兵败崂山</a></li>
 <li><a href="/topimagenews/20240905/2084288.md">突发 暗中刀剑 ！中共总领事周三离开纽约领馆！不认驱逐？</a></li>
 <li><a href="/cnnews/20240905/2084297.md">她是第一个被执行死刑的女星，枪毙前突然大喊：这不公平</a></li>
-<li><a href="/baitai/20240905/2084422.md">悬赏公告！刘艳，女，1987年出生</a></li>
 <li><a href="/baitai/20240905/2084386.md">一个人正不正经，看他微信这三个地方肯定有答案​</a></li>
+<li><a href="/baitai/20240905/2084422.md">悬赏公告！刘艳，女，1987年出生</a></li>
 <li><a href="/cnnews/20240905/2084252.md">实锤震动国际！普京公布中共隐瞒证据 赖清德提议激起千层浪</a></li>
 <li><a href="/topimagenews/20240905/2084554.md">孙雯之后 又一华裔女子被抓</a></li>
 <li><a href="/topimagenews/20240905/2084213.md">“贞观”公众号被封禁了，我担心的事发生了</a></li>
 <li><a href="/cnnews/20240905/2084464.md">普京秘密生子2人 首度曝光</a></li>
 <li><a href="/comments/20240905/2084531.md">突发！美国动手了：请中共驻纽约总领事离开美国</a></li>
+<li><a href="/baitai/20240905/2084419.md">县委书记的受贿清单，触目惊心</a></li>
 <li><a href="/cbnews/20240905/2084333.md">中国“极音速导弹”取得重大突破原来是靠叛国泄密! 俄专家被判15年</a></li>
-<li><a href="/sohnews/20240905/2084256.md">路虎女的关系网，彭丽媛是大后台？亮马桥的黑衣人，佛山中学事件内幕；纽约总领事被驱逐！州长幕僚是共特；偷向中共亮底牌，孙雯阻州长会蔡英文【新闻看点 李沐阳9.4】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240906/2084671.md" target="_blank">【中国暂停外国人收养中国儿童】</a></li>
 <li><a href="/comments/20240906/2084665.md" target="_blank">打落孙雯的FARA，为什么说是“无形之网”？</a></li>
 <li><a href="/comments/20240906/2084630.md" target="_blank">【杜耀明评论】主观猜测、不理事实兼曲直不分的郭伟健判案</a></li>
 <li><a href="/comments/20240906/2084618.md" target="_blank">【七耻大辱！国足实力打脸中国球迷】</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240905/2084225.md" target="_blank">中共用盐水鸭收买间谍？美方称离职，中共说假消息，驻纽约总领事去哪了？赖清德打脸中共 ｜唐靖远 林晓旭 横河 大宇 方菲 ｜围炉夜话 09/04</a></li>
 <li><a href="/comments/20240905/2084212.md" target="_blank">文昭：没有中共的中国，能摆脱韭菜、镰刀循环的命运吗？【会员专享影片放送】</a></li>
 <li><a href="/comments/20240905/2084192.md" target="_blank">天亮时分：纽约州长前副幕僚长孙雯被捕，涉嫌充当中共代理人</a></li>
-<li><a href="/comments/20240905/2084160.md" target="_blank">【“Cosplay委托” 约会新热潮】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20240704/2058130.md" target="_blank">百年梦醒（十八）：共产魔教的机制、前所未有的巨大野心</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
 <li><a href="/comments/20240412/2024185.md" target="_blank">是治疗还是屠杀?化疗药品滴一滴在皮肤即灼伤，很长时间才好</a></li>
-<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
-<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/comments/20240825/2079044.md" target="_blank">谁是创世主</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/comments/20240808/2071869.md" target="_blank">【新纪元】被误解的大脑</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/topimagenews/20240511/2035423.md" target="_blank">原北京学员回忆李洪志先生在东方健康博览会上所行的奇迹</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20231207/1970628.md" target="_blank">民兵对官军，希望之声打造广播界的奇蹟【方伟时间-20231206】</a></li>
 
 </ul>
 </div>
