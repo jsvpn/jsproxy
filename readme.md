@@ -8,10 +8,9 @@
 <li><a href="/baitai/20240904/2083849.md">福建省委重要决定</a></li>
 <li><a href="/ccpdope/20240905/2084155.md">网传习已不是一尊 中共恢复集体领导</a></li>
 <li><a href="/cnnews/20240904/2083901.md">不祥之兆 中国经济又传坏消息</a></li>
-<li><a href="/sohnews/20240904/2083791.md">陈破空：迹象显示，他将取代习近平？中非峰会防政变，北京军管。何卫东为习鼓譟。纽约州长身边共特被逮。菲律宾共谍市长逃亡印尼后被捕。俄国回应台湾总统。直播与互动：美东时间9月4日早10点、中港台当晚10点</a></li>
 <li><a href="/cnnews/20240904/2083962.md">中国贪官排行榜不断创新高! 最厉害的还是他 自己印了2兆“真”钞票…..</a></li>
-<li><a href="/topimagenews/20240904/2083952.md">5援俄中国兵惨遭连环地雷炸死! 有人临阵退缩还被督战队痛打在地</a></li>
 <li><a href="/topimagenews/20240904/2083883.md">曝金正恩下令处决30高官</a></li>
+<li><a href="/topimagenews/20240904/2083952.md">5援俄中国兵惨遭连环地雷炸死! 有人临阵退缩还被督战队痛打在地</a></li>
 <li><a href="/baitai/20240905/2084070.md">这张江青的照片估计很多人都是第一次见到</a></li>
 <li><a href="/topimagenews/20240905/2084214.md">更猛！女谍孙雯干出惊天大事</a></li>
 <li><a href="/ssgc/20240905/2084131.md">美媒：中国驻纽约总领事已被驱逐</a></li>
@@ -23,11 +22,12 @@
 <li><a href="/ccpdope/20240904/2083803.md">赖清德提议获国际媒体回应 俄公布中共卖国证据</a></li>
 <li><a href="/topimagenews/20240905/2084233.md">扶摇直上 孙雯是何许人也？</a></li>
 <li><a href="/ccpdope/20240905/2084154.md">蔡奇不陪习见非洲来宾等再透异常</a></li>
-<li><a href="/baitai/20240904/2083789.md">林保华：习近平的歪头一笑百昧生</a></li>
-<li><a href="/cbnews/20240905/2084176.md">路虎女打人后 退伍军人纷纷直播摘除自家光荣牌</a></li>
-<li><a href="/baitai/20240904/2083912.md">广发银行出事 中共注定躲不过这轮危机？</a></li>
 <li><a href="/comments/20240905/2084074.md">娘子 快出来看天安门便衣</a></li>
 <li><a href="/topimagenews/20240905/2084304.md">崩溃暴露：几乎所有高薪岗位都在裁员 且都快一年了</a></li>
+<li><a href="/cbnews/20240905/2084176.md">路虎女打人后 退伍军人纷纷直播摘除自家光荣牌</a></li>
+<li><a href="/baitai/20240904/2083912.md">广发银行出事 中共注定躲不过这轮危机？</a></li>
+<li><a href="/topimagenews/20240905/2084213.md">“贞观”公众号被封禁了，我担心的事发生了</a></li>
+<li><a href="/topimagenews/20240905/2084288.md">突发 暗中刀剑 ！中共总领事周三离开纽约领馆！不认驱逐？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/tculture/20190708/1154978.md" target="_blank">揭开“神用泥土造人”的秘密</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/lifebaike/20180527/948531.md" target="_blank">无神论是最大的迷信（上）：科学无法证实神不存在</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20190220/1083672.md" target="_blank">胡平：法轮功与其他一些宗教或信仰之比较</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
 <li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20240820/2076928.md" target="_blank">惠虎宇：中华文化为什么是高级文化系统(1)</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/comments/20240403/2020547.md" target="_blank">纪录片：DSM诊断与统计手册-精神病学最要命的骗局</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
-<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20231223/1978148.md" target="_blank">医山夜话：张锡纯医案解读（三）赭石：降胃气 引火下行</a></li>
 
 </ul>
 </div>
