@@ -15,8 +15,8 @@
 <li><a href="/topimagenews/20240906/2084691.md">重磅揭露！习改革背后多重危机压顶 中国人或面临更大挑战【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20240906/2084807.md">上海星巴克正宫打小三 员工看傻 网友纷纷留言</a></li>
 <li><a href="/cbnews/20240906/2084765.md">华人疯传！孙雯因它被抓 揭开多年未解之谜答案</a></li>
-<li><a href="/sohnews/20240906/2084925.md">严重动摇军心：张又侠亲自介入路虎女打人案，青岛公交车司机罢工惨遭警察镇压，中共从砸锅卖铁到树倒猢狲散。《老灯开讲第657期》</a></li>
 <li><a href="/baitai/20240906/2085025.md">彭丽媛地位有变？日媒关注张又侠的微笑</a></li>
+<li><a href="/sohnews/20240906/2084925.md">严重动摇军心：张又侠亲自介入路虎女打人案，青岛公交车司机罢工惨遭警察镇压，中共从砸锅卖铁到树倒猢狲散。《老灯开讲第657期》</a></li>
 <li><a href="/baitai/20240906/2084947.md">李大眼 - 0:7兼我对未来很绝望</a></li>
 <li><a href="/topimagenews/20240906/2084699.md">泽连斯基故意的？罕见公布一事 川普怒揭谜底【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20240906/2084731.md">〖微博谈〗中国落后日本的又何止是足球？</a></li>
@@ -26,8 +26,8 @@
 <li><a href="/cbnews/20240906/2084863.md">〖红朝浮世绘〗对内砸锅卖铁 对外恣意大撒币讨非洲人民欢心</a></li>
 <li><a href="/cbnews/20240906/2084822.md">孙女被吓哭！爷爷怒摔狗致死 饲主跪地痛哭</a></li>
 <li><a href="/sohnews/20240906/2084978.md">谁挡不住谁!是习近平答应苏利文见张又侠?还是张又侠允许习近见苏利文?习近平没说…张又侠见苏利文竟谈｢元首共识”???@democratictaiwanchannel</a></li>
-<li><a href="/baitai/20240906/2084710.md">非洲人民的好儿子—-习近平</a></li>
 <li><a href="/ssgc/20240906/2084668.md">向非洲提供三千六百亿 习近平用意何在？</a></li>
+<li><a href="/baitai/20240906/2084710.md">非洲人民的好儿子—-习近平</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240907/2085131.md" target="_blank">最歧视中国人的组织——共产党</a></li>
+<li><a href="/comments/20240907/2085130.md" target="_blank">境外反华势力？！</a></li>
 <li><a href="/cbnews/20240906/2084318.md" target="_blank">全球第一位强摘器官幸存者 回应中共污蔑</a></li>
 <li><a href="/comments/20240906/2085050.md" target="_blank">孙雯被捕，中共纽约总领事被逐</a></li>
 <li><a href="/cbnews/20240906/2085031.md" target="_blank">台风摩羯登陆中国 3千货车滞留港口 司机恐慌</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20240906/2084822.md" target="_blank">孙女被吓哭！爷爷怒摔狗致死 饲主跪地痛哭</a></li>
 <li><a href="/cbnews/20240906/2084796.md" target="_blank">蓬佩奥：早警告过50位州长 中共藏在美内部</a></li>
 <li><a href="/comments/20240906/2084792.md" target="_blank">川普、哈里斯和习近平，为什么都不操心国债？</a></li>
-<li><a href="/cbnews/20240906/2084765.md" target="_blank">华人疯传！孙雯因它被抓 揭开多年未解之谜答案</a></li>
-<li><a href="/cbnews/20240906/2084764.md" target="_blank">路虎女激怒退伍军人 纷纷爆料新疆“屠村”真相</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240907/2085133.md" target="_blank">【文韬政论】台、美无处不在的中国渗透与统战</a></li>
+<li><a href="/comments/20240907/2085132.md" target="_blank">【林语非论】中国军方欢迎中美和好？ 中非关系出现危险迹象</a></li>
+<li><a href="/comments/20240907/2085131.md" target="_blank">最歧视中国人的组织——共产党</a></li>
+<li><a href="/comments/20240907/2085130.md" target="_blank">境外反华势力？！</a></li>
+<li><a href="/comments/20240907/2085128.md" target="_blank">一面大撒币 一面砸锅卖铁 2024将成中国分水岭？（戴忠仁/上官乱/汪浩/夏明）｜亚洲很想聊</a></li>
 <li><a href="/comments/20240907/2085116.md" target="_blank">【盛世强音声声喊冤 百度街景贴心打码】</a></li>
 <li><a href="/comments/20240907/2085111.md" target="_blank">专栏 &#8211; 财经时时听：山穷水尽的地方政府“砸锅卖铁”“乱罚款”</a></li>
 <li><a href="/comments/20240907/2085097.md" target="_blank">上千亿钱坑？！喔&#8230;是中非合作💰💸习近平又给非洲国家送钱、零关税、创造就业</a></li>
@@ -117,11 +122,6 @@
 <li><a href="/comments/20240906/2084799.md" target="_blank">从抗议路虎女到女大学生发动农民 中共末日近了</a></li>
 <li><a href="/comments/20240906/2084798.md" target="_blank">李渔：住在办公室的人</a></li>
 <li><a href="/comments/20240906/2084792.md" target="_blank">川普、哈里斯和习近平，为什么都不操心国债？</a></li>
-<li><a href="/comments/20240906/2084783.md" target="_blank">凤凰网财经｜孟晓苏：从小产权房起征房产税，每年能收2万亿</a></li>
-<li><a href="/comments/20240906/2084782.md" target="_blank">唐映红：第一次课，讲到了被封号的贞观文章</a></li>
-<li><a href="/comments/20240906/2084781.md" target="_blank">谷爱凌：从天才少女到双面人“谷圣”</a></li>
-<li><a href="/comments/20240906/2084780.md" target="_blank">第14天坐牢，无人知晓他何等罪名</a></li>
-<li><a href="/comments/20240906/2084779.md" target="_blank">学习小组｜中国足球有救了！习近平谈足球改革</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
 <li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/comments/20190701/1151501.md" target="_blank">【特稿】中国共产党是邪教组织</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
 <li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
 <li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20190213/1080251.md" target="_blank">胡平：法轮功为何反对自杀？</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
+<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/cbnews/20190211/1078733.md" target="_blank">胡平：法轮功为什么能强化忍的精神</a></li>
+<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
 
 </ul>
 </div>
