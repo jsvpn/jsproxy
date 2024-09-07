@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/cnnews/20240906/2084875.md">女子曝光丈夫“大战岳母”画面 网友全吓傻</a></li>
 <li><a href="/baitai/20240906/2085025.md">彭丽媛地位有变？日媒关注张又侠的微笑</a></li>
 <li><a href="/sohnews/20240906/2084925.md">严重动摇军心：张又侠亲自介入路虎女打人案，青岛公交车司机罢工惨遭警察镇压，中共从砸锅卖铁到树倒猢狲散。《老灯开讲第657期》</a></li>
 <li><a href="/baitai/20240906/2084947.md">李大眼 - 0:7兼我对未来很绝望</a></li>
@@ -13,21 +12,22 @@
 <li><a href="/topimagenews/20240907/2085165.md">加速房价崩塌？传北京楼市文件当局全网删;中国餐饮店连片倒下，真正劫难才开始</a></li>
 <li><a href="/sohnews/20240906/2084978.md">谁挡不住谁!是习近平答应苏利文见张又侠?还是张又侠允许习近见苏利文?习近平没说…张又侠见苏利文竟谈｢元首共识”???@democratictaiwanchannel</a></li>
 <li><a href="/sohnews/20240906/2084910.md">受够了，该让向非洲大撒币的习近平下台了，该让共产党滚出中国了！</a></li>
+<li><a href="/cbnews/20240907/2085200.md">党媒被迫删视频！招募退伍军人 被六字留言刷屏</a></li>
 <li><a href="/topimagenews/20240906/2084878.md">没空优、大炮、装甲车! 俄步兵“玉碎冲锋”乌列达尔 惨遭无人机团灭</a></li>
 <li><a href="/topimagenews/20240907/2085181.md">跟中央对着干？各地穷疯了 百姓遭殃【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20240907/2085200.md">党媒被迫删视频！招募退伍军人 被六字留言刷屏</a></li>
 <li><a href="/topimagenews/20240907/2085153.md">经济学人：强力管控资讯 中国经济恐重蹈苏联覆辙</a></li>
+<li><a href="/topimagenews/20240907/2085246.md">习默许？绞肉机开动 愈演愈烈</a></li>
 <li><a href="/cnnews/20240907/2085102.md">中产最爱的lululemon熄火了？</a></li>
 <li><a href="/comments/20240906/2085001.md">台海战后有盛世，玉兔圣人出；12首预言诗 100%全中；述百年真相，印证《推背图》；中国分裂 走向联邦？君作祖，质彬彬⋯一直到：六龙一出乾坤定！｜未解之谜 扶摇</a></li>
 <li><a href="/topimagenews/20240906/2084980.md">乌军攻俄“围魏救赵”未奏效? 瑟尔斯基 : 过去6天里 俄军未向这地前进1米....</a></li>
-<li><a href="/comments/20240906/2084870.md">谷爱凌就这样沦落为中国网民公敌？</a></li>
-<li><a href="/topimagenews/20240907/2085246.md">习默许？绞肉机开动 愈演愈烈</a></li>
-<li><a href="/topimagenews/20240907/2085166.md">重大升级！中共拟摧毁地球轨道卫星 美紧急备战【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20240907/2085217.md">车模穿太辣！官媒点名炮轰 陆网傻眼</a></li>
-<li><a href="/comments/20240906/2085050.md">孙雯被捕，中共纽约总领事被逐</a></li>
 <li><a href="/topimagenews/20240907/2085211.md">纷纷后悔：中国百姓有一种痛苦叫买了“超高层”</a></li>
-<li><a href="/cbnews/20240906/2084881.md">用momo当马甲的年轻人，集体改名叫“关雅荻”</a></li>
+<li><a href="/cbnews/20240907/2085217.md">车模穿太辣！官媒点名炮轰 陆网傻眼</a></li>
+<li><a href="/topimagenews/20240907/2085166.md">重大升级！中共拟摧毁地球轨道卫星 美紧急备战【阿波罗网报道】</a></li>
+<li><a href="/comments/20240906/2085050.md">孙雯被捕，中共纽约总领事被逐</a></li>
 <li><a href="/cbnews/20240906/2084981.md">台风“摩羯”形似骷髅 网友惊呼：死神来了</a></li>
+<li><a href="/headline/20240907/2085103.md">男足完败球迷愤怒 再现中国体制腐败</a></li>
+<li><a href="/cbnews/20240906/2084881.md">用momo当马甲的年轻人，集体改名叫“关雅荻”</a></li>
+<li><a href="/headline/20240906/2085086.md">《学习时报》头版评论「改革者上 不改革者下」</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240907/2085335.md" target="_blank">张丰：呼吁对国足“用重典” 是最愚蠢的建议</a></li>
 <li><a href="/comments/20240907/2085330.md" target="_blank">天亮时分：习近平准备3年撒币3600亿，他要做什麽？</a></li>
 <li><a href="/comments/20240907/2085318.md" target="_blank">李濠仲：北京谋划既深且远 孙雯案几处细节令人震撼</a></li>
 <li><a href="/comments/20240907/2085317.md" target="_blank">宋国诚：从“中国梦”到“中国穷”</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240907/2085131.md" target="_blank">最歧视中国人的组织——共产党</a></li>
 <li><a href="/comments/20240907/2085130.md" target="_blank">境外反华势力？！</a></li>
 <li><a href="/comments/20240907/2085128.md" target="_blank">一面大撒币 一面砸锅卖铁 2024将成中国分水岭？（戴忠仁/上官乱/汪浩/夏明）｜亚洲很想聊</a></li>
-<li><a href="/comments/20240907/2085116.md" target="_blank">【盛世强音声声喊冤 百度街景贴心打码】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ssgc/20240508/2034288.md" target="_blank">《透视“进化论”》第九章 人类起源问题的终极答案</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/cnnews/20221211/1822144.md" target="_blank">盖盖冲马桶很可怕！瞬间“病毒炸开”？</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/tculture/20231202/1968819.md" target="_blank">六道轮回之天神道</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/comments/20240820/2076774.md" target="_blank">胡平：批判法轮功的人,为何不用同样标准分析其他宗教</a></li>
+<li><a href="/cbnews/20190701/1151453.md" target="_blank">盘点十大邪教特征 中共条条对号入座</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/tculture/20231208/1971390.md" target="_blank">传统文化之汉字的内涵</a></li>
+<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
 <li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20231220/1976683.md" target="_blank">医山夜话：张锡纯医案解读（二）根治胃气不降之证</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
 
 </ul>
 </div>
