@@ -8,26 +8,26 @@
 <li><a href="/baitai/20240906/2085025.md">彭丽媛地位有变？日媒关注张又侠的微笑</a></li>
 <li><a href="/baitai/20240906/2084947.md">李大眼 - 0:7兼我对未来很绝望</a></li>
 <li><a href="/ccpdope/20240906/2084946.md">中共财政进入绝境 开启抢钱时代</a></li>
-<li><a href="/topimagenews/20240907/2085165.md">加速房价崩塌？传北京楼市文件当局全网删;中国餐饮店连片倒下，真正劫难才开始</a></li>
 <li><a href="/topimagenews/20240907/2085246.md">习默许？绞肉机开动 愈演愈烈</a></li>
+<li><a href="/topimagenews/20240907/2085165.md">加速房价崩塌？传北京楼市文件当局全网删;中国餐饮店连片倒下，真正劫难才开始</a></li>
 <li><a href="/sohnews/20240906/2084978.md">谁挡不住谁!是习近平答应苏利文见张又侠?还是张又侠允许习近见苏利文?习近平没说…张又侠见苏利文竟谈｢元首共识”???@democratictaiwanchannel</a></li>
 <li><a href="/cbnews/20240907/2085200.md">党媒被迫删视频！招募退伍军人 被六字留言刷屏</a></li>
 <li><a href="/cbnews/20240907/2085217.md">车模穿太辣！官媒点名炮轰 陆网傻眼</a></li>
 <li><a href="/topimagenews/20240907/2085211.md">纷纷后悔：中国百姓有一种痛苦叫买了“超高层”</a></li>
 <li><a href="/cnnews/20240907/2085102.md">中产最爱的lululemon熄火了？</a></li>
 <li><a href="/topimagenews/20240907/2085181.md">跟中央对着干？各地穷疯了 百姓遭殃【阿波罗网报道】</a></li>
-<li><a href="/comments/20240906/2085001.md">台海战后有盛世，玉兔圣人出；12首预言诗 100%全中；述百年真相，印证《推背图》；中国分裂 走向联邦？君作祖，质彬彬⋯一直到：六龙一出乾坤定！｜未解之谜 扶摇</a></li>
 <li><a href="/topimagenews/20240907/2085293.md">只剩空壳！中国大佬在全球40多城市设机构 卷62亿跑路 上千员工傻眼绝望</a></li>
+<li><a href="/comments/20240906/2085001.md">台海战后有盛世，玉兔圣人出；12首预言诗 100%全中；述百年真相，印证《推背图》；中国分裂 走向联邦？君作祖，质彬彬⋯一直到：六龙一出乾坤定！｜未解之谜 扶摇</a></li>
 <li><a href="/topimagenews/20240907/2085153.md">经济学人：强力管控资讯 中国经济恐重蹈苏联覆辙</a></li>
-<li><a href="/topimagenews/20240907/2085212.md">重蹈苏联覆辙？经济学人曝中共“内参系统”秘密</a></li>
 <li><a href="/baitai/20240907/2085194.md">习主席指挥什么输什么</a></li>
+<li><a href="/topimagenews/20240907/2085212.md">重蹈苏联覆辙？经济学人曝中共“内参系统”秘密</a></li>
 <li><a href="/topimagenews/20240906/2084980.md">乌军攻俄“围魏救赵”未奏效? 瑟尔斯基 : 过去6天里 俄军未向这地前进1米....</a></li>
 <li><a href="/comments/20240906/2085050.md">孙雯被捕，中共纽约总领事被逐</a></li>
 <li><a href="/sohnews/20240907/2085232.md">中共大麻烦来了！日本将转守为攻；路虎女裸面求饶，老兵开干，揭七五事件真相！“摩羯”很眼熟，原来是它！【新闻看点 李沐阳9.6】</a></li>
+<li><a href="/topimagenews/20240907/2085244.md">万里秘书语出惊人遭封杀！一年薅百姓2万亿 百姓还乐意？</a></li>
 <li><a href="/topimagenews/20240907/2085166.md">重大升级！中共拟摧毁地球轨道卫星 美紧急备战【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20240906/2084981.md">台风“摩羯”形似骷髅 网友惊呼：死神来了</a></li>
 <li><a href="/headline/20240906/2085086.md">《学习时报》头版评论「改革者上 不改革者下」</a></li>
-<li><a href="/headline/20240907/2085103.md">男足完败球迷愤怒 再现中国体制腐败</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20231223/1978148.md" target="_blank">医山夜话：张锡纯医案解读（三）赭石：降胃气 引火下行</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/cbnews/20190211/1078733.md" target="_blank">胡平：法轮功为什么能强化忍的精神</a></li>
+<li><a href="/topimagenews/20240511/2035423.md" target="_blank">原北京学员回忆李洪志先生在东方健康博览会上所行的奇迹</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
 <li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20240813/2074068.md" target="_blank">天眼所见自杀者的悲惨境况，人一定要珍惜生命</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
 <li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/comments/20240703/2057730.md" target="_blank">百年梦醒（十七）：马克思的连环计、出卖灵魂</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20190213/1080251.md" target="_blank">胡平：法轮功为何反对自杀？</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
+<li><a href="/comments/20240828/2080320.md" target="_blank">惠虎宇：与AI聊传统宗教、科学和修炼</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
 
 </ul>
 </div>
