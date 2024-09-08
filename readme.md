@@ -7,7 +7,6 @@
 
 <li><a href="/yule/20240908/2085515.md">太突然！知名演员自曝确诊 已安排后事</a></li>
 <li><a href="/topimagenews/20240908/2085631.md">全中国都要完！明年大目标令人不寒而栗</a></li>
-<li><a href="/yule/20240908/2085506.md">马蓉晒移民生活！头发稀疏疑秃头 分走千万资产</a></li>
 <li><a href="/finance/20240908/2085547.md">巨变！政府出重手，中国就业大分层时代来临</a></li>
 <li><a href="/topimagenews/20240908/2085641.md">习近平爬到了这个位置 他能在这上呆多久？</a></li>
 <li><a href="/topimagenews/20240908/2085632.md">【微博精粹】普京给习大出了一道史诗级难题</a></li>
@@ -15,7 +14,6 @@
 <li><a href="/comments/20240908/2085654.md">一名乌克兰美女上战场前的照片，被俘后仿佛是变了一个人</a></li>
 <li><a href="/topimagenews/20240908/2085633.md">大开眼界！日本未来首相遭刁难 一语甩中共700条街</a></li>
 <li><a href="/sohnews/20240908/2085705.md">红三代披露张又侠软性政变始末，军队由军委主席负责制改为分工负责制，陕西五位好汉杀官潜逃已经49天。《老灯开讲第659期》</a></li>
-<li><a href="/yule/20240908/2085507.md">袁立三婚惊爆眼球 她为何抛弃富商选穷小子？</a></li>
 <li><a href="/cbnews/20240908/2085725.md">中国神秘机场 不许乘客看 空姐喊“拉下遮光板”</a></li>
 <li><a href="/topimagenews/20240908/2085532.md">纷纷后悔：中国百姓有一种痛叫买了“超高层”；中国巨大难题！央行前行长易纲认了</a></li>
 <li><a href="/yule/20240908/2085727.md">章子怡疑遭影帝“咸猪手” 镜头前明显变脸 动图</a></li>
@@ -23,11 +21,13 @@
 <li><a href="/cbnews/20240908/2085645.md">中南海权斗内幕 邓小平向毛告密 整垮习仲勋</a></li>
 <li><a href="/cbnews/20240908/2085706.md">砸锅卖铁援助非洲 前官员揭中共大撒币真实原因</a></li>
 <li><a href="/topimagenews/20240908/2085608.md">意外，北京竟在这件事情上搬起石头砸了自己的脚</a></li>
-<li><a href="/sohnews/20240908/2085728.md">陈破空：亲习日媒承认：张又侠地位有变，习近平被迫退让。党媒提前发暗号：砸锅卖铁援非，他长着中国脸。英媒揭秘：习当局惊人隐瞒经济恶化。直播与互动：美东时间9月8日早9点、中港台当晚9点</a></li>
 <li><a href="/cnnews/20240908/2085742.md">秦始皇帝陵考古发现 首次集中亮相</a></li>
+<li><a href="/sohnews/20240908/2085728.md">陈破空：亲习日媒承认：张又侠地位有变，习近平被迫退让。党媒提前发暗号：砸锅卖铁援非，他长着中国脸。英媒揭秘：习当局惊人隐瞒经济恶化。直播与互动：美东时间9月8日早9点、中港台当晚9点</a></li>
 <li><a href="/topimagenews/20240908/2085579.md">中共垮台后："百姓的生活质量一定会有天翻地覆变化”</a></li>
 <li><a href="/topimagenews/20240908/2085531.md">两个大消息同时发生 大A与国足真是天生一对</a></li>
+<li><a href="/cbnews/20240908/2085757.md">“鳌太穿越”，多人发现遗体帐篷却未报警….</a></li>
 <li><a href="/yule/20240908/2085707.md">明星无滤镜真可怕 温碧霞腰比肩宽 陈慧琳似张飞</a></li>
+<li><a href="/cbnews/20240908/2085561.md">杭州外卖“单王”累死街头 网叹吃人社会</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20210819/1609103.md" target="_blank">浅谈中医与西医的不同之处</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/topimagenews/20200514/1328456.md" target="_blank">穿越时空 谢田教授亲身体验人体特异功能</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/cbnews/20190701/1151453.md" target="_blank">盘点十大邪教特征 中共条条对号入座</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
+<li><a href="/comments/20240829/2080735.md" target="_blank">胆战心惊:塔克访谈揭露美国食品巨头，医疗体系</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
 <li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/tculture/20220622/1748765.md" target="_blank">影响人类的两个图案——太极图和卍字符</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
 
 </ul>
 </div>
