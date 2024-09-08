@@ -6,7 +6,6 @@
 <ul>
 
 <li><a href="/baitai/20240907/2085420.md">张又侠发言有异常 毛晚年一幕重现</a></li>
-<li><a href="/cbnews/20240907/2085413.md">李克强秘书全换光！李强身边都是蔡奇的“眼线”</a></li>
 <li><a href="/topimagenews/20240907/2085469.md">俄军吃大亏才看清：亲密盟友已倒戈</a></li>
 <li><a href="/yule/20240908/2085515.md">太突然！知名演员自曝确诊 已安排后事</a></li>
 <li><a href="/topimagenews/20240908/2085631.md">全中国都要完！明年大目标令人不寒而栗</a></li>
@@ -18,16 +17,17 @@
 <li><a href="/topimagenews/20240908/2085633.md">大开眼界！日本未来首相遭刁难 一语甩中共700条街</a></li>
 <li><a href="/yule/20240908/2085507.md">袁立三婚惊爆眼球 她为何抛弃富商选穷小子？</a></li>
 <li><a href="/comments/20240908/2085654.md">一名乌克兰美女上战场前的照片，被俘后仿佛是变了一个人</a></li>
-<li><a href="/cnnews/20240907/2085472.md">微信聊天酿血案 中国男杀妻 夫妻刚偷渡来美</a></li>
-<li><a href="/topimagenews/20240908/2085632.md">【微博精粹】普京给习大出了一道史诗级难题</a></li>
-<li><a href="/topimagenews/20240908/2085532.md">纷纷后悔：中国百姓有一种痛叫买了“超高层”；中国巨大难题！央行前行长易纲认了</a></li>
-<li><a href="/topimagenews/20240908/2085531.md">两个大消息同时发生 大A与国足真是天生一对</a></li>
-<li><a href="/topimagenews/20240908/2085608.md">意外，北京竟在这件事情上搬起石头砸了自己的脚</a></li>
-<li><a href="/topimagenews/20240908/2085579.md">中共垮台后："百姓的生活质量一定会有天翻地覆变化”</a></li>
 <li><a href="/comments/20240908/2085675.md">吴祚来：习和蔡奇密谋如何处置国足败将</a></li>
+<li><a href="/topimagenews/20240908/2085632.md">【微博精粹】普京给习大出了一道史诗级难题</a></li>
+<li><a href="/cnnews/20240907/2085472.md">微信聊天酿血案 中国男杀妻 夫妻刚偷渡来美</a></li>
+<li><a href="/topimagenews/20240908/2085532.md">纷纷后悔：中国百姓有一种痛叫买了“超高层”；中国巨大难题！央行前行长易纲认了</a></li>
+<li><a href="/topimagenews/20240908/2085608.md">意外，北京竟在这件事情上搬起石头砸了自己的脚</a></li>
+<li><a href="/topimagenews/20240908/2085531.md">两个大消息同时发生 大A与国足真是天生一对</a></li>
+<li><a href="/topimagenews/20240908/2085579.md">中共垮台后："百姓的生活质量一定会有天翻地覆变化”</a></li>
 <li><a href="/topimagenews/20240907/2085457.md">女共谍孙雯领导？黄屏突现身！习中央到底还是怂了？【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20240908/2085546.md">敲打北京 震撼华社 美高调公布孙雯案细节铺满</a></li>
 <li><a href="/cbnews/20240908/2085561.md">杭州外卖“单王”累死街头 网叹吃人社会</a></li>
+<li><a href="/sohnews/20240908/2085705.md">红三代披露张又侠软性政变始末，军队由军委主席负责制改为分工负责制，陕西五位好汉杀官潜逃已经49天。《老灯开讲第659期》</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240908/2085757.md" target="_blank">“鳌太穿越”，多人发现遗体帐篷却未报警….</a></li>
 <li><a href="/cbnews/20240908/2085740.md" target="_blank">上海发生惨烈车祸 集卡车侧翻压到小客车致5死</a></li>
 <li><a href="/cbnews/20240908/2085725.md" target="_blank">中国神秘机场 不许乘客看 空姐喊“拉下遮光板”</a></li>
 <li><a href="/cbnews/20240908/2085706.md" target="_blank">砸锅卖铁援助非洲 前官员揭中共大撒币真实原因</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240908/2085545.md" target="_blank">视频：“摩羯”过境海南 9层电梯变空壳</a></li>
 <li><a href="/cbnews/20240908/2085495.md" target="_blank">江峰：央视不敢直播中日足球，怕，老百姓赢了会上街，输了也上街</a></li>
 <li><a href="/cbnews/20240908/2085494.md" target="_blank">江峰：温家宝看得清楚，却也身不由己</a></li>
-<li><a href="/cbnews/20240908/2085493.md" target="_blank">江峰：爱国侨民，在党的眼里，不过是“西洋韭菜”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20190213/1080251.md" target="_blank">胡平：法轮功为何反对自杀？</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20231220/1976789.md" target="_blank">大陆医生曝：九价HPV疫苗导致怀孕能力下降40%</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
 <li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
 
 </ul>
 </div>
