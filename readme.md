@@ -15,19 +15,19 @@
 <li><a href="/cbnews/20240909/2086039.md">诡异重案悬赏！传党官员遭灭门 陕警延迟49天通辑5人</a></li>
 <li><a href="/topimagenews/20240909/2085890.md">北京、深圳同时上演！扎堆降价离场大比拼</a></li>
 <li><a href="/ssgc/20240909/2085895.md">〖微博谈〗一切从头再来</a></li>
-<li><a href="/baitai/20240909/2086139.md">女子从86楼跳下，掉在了一辆车顶上，没想到，她死亡时的照片成了经典</a></li>
 <li><a href="/baitai/20240909/2086193.md">第二个郭美美？中国惊现神秘「大小姐」高调炫富 政商演艺圈通吃</a></li>
+<li><a href="/baitai/20240909/2086139.md">女子从86楼跳下，掉在了一辆车顶上，没想到，她死亡时的照片成了经典</a></li>
 <li><a href="/comments/20240909/2086054.md">【微博精粹】养好身体 见证重大历史时刻</a></li>
 <li><a href="/topimagenews/20240909/2085999.md">重磅警告：中国各地政府下狠手！“砸锅卖铁”都过不去了【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20240909/2085906.md">没想到，上海中金也这样了…</a></li>
 <li><a href="/topimagenews/20240909/2086000.md">兵马俑是活人烧制？镇馆之宝科学无解</a></li>
 <li><a href="/topimagenews/20240909/2085998.md">习近平杀手锏 杀了个自己治理失败</a></li>
+<li><a href="/headline/20240909/2086253.md">菲媒体泄露中马机密外交照会 中方震惊斥「居心叵测」</a></li>
 <li><a href="/topimagenews/20240909/2085900.md">高薪好就业窗户纸破了！北航计算机本届本科毕业生仅7人就业…</a></li>
-<li><a href="/baitai/20240909/2085872.md">「砸锅卖铁」也难过关 地方政府开始「杀鸡取卵」</a></li>
 <li><a href="/cbnews/20240909/2086003.md">中共加强全国网络管控 涉及香港澳门</a></li>
+<li><a href="/baitai/20240909/2085872.md">「砸锅卖铁」也难过关 地方政府开始「杀鸡取卵」</a></li>
 <li><a href="/comments/20240909/2086168.md">他预言了中共终结者⋯承认自己该罚；他帮官员 升迁至北京高层，还给郭德纲师父看相！预言吓到 中共政协委员；被称为半仙｜未解之谜</a></li>
 <li><a href="/lifebaike/20240909/2086062.md">只因1张照片! 留学生入境时签证被吊销</a></li>
-<li><a href="/cbnews/20240909/2086102.md">〖红朝浮世绘〗过于先进不便展示？牛逼吹得比国产芯片还大</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240910/2086390.md" target="_blank">【习近平会见西班牙首相桑切斯】 中国与 #欧盟 成员国互动频繁，主要是电车和油车 #关税 那些事。 桑切斯还对习近平表示，他特别关心讨论“部分欧洲国家，尤其是乌克兰和巴勒斯坦所面临的严峻局势”。</a></li>
 <li><a href="/comments/20240910/2086370.md" target="_blank">【财经拆局】新股「劣质化」到「妖股化」 寄望新股回勇恐是痴人说梦</a></li>
 <li><a href="/comments/20240910/2086368.md" target="_blank">评论｜魏京生：中国经济：冰冻三十非一日之寒（二）</a></li>
 <li><a href="/comments/20240910/2086351.md" target="_blank">专栏 &#8211; 劳工通讯：广东工人罢工讨工资 东莞皮具厂停产应对 (八)</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240909/2086048.md" target="_blank">傅一波：月薪三万的陆家嘴打工人，抠抠搜搜</a></li>
 <li><a href="/comments/20240909/2086047.md" target="_blank">余明全：海内存知己 天涯七比零</a></li>
 <li><a href="/comments/20240909/2086046.md" target="_blank">吹哨人老吴终于出来了 “为众人抱薪者”没冻死街头</a></li>
-<li><a href="/comments/20240909/2086045.md" target="_blank">把文案写成“赴美近距离感受资本主义社会的堕落”，应该不会受罚</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20240418/2026391.md" target="_blank">医生劝我妻子放弃，似乎这些医生热衷让病人快点去死？</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20240723/2065714.md" target="_blank">台湾民视：解谜法轮功 气功或宗教？</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/topimagenews/20200514/1328456.md" target="_blank">穿越时空 谢田教授亲身体验人体特异功能</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/cbnews/20240904/2083703.md" target="_blank">复眼与变态 昆虫奥秘令进化论失据</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
 
 </ul>
 </div>
