@@ -21,13 +21,13 @@
 <li><a href="/baitai/20240910/2086629.md">报纸大面积停刊，电视也将迎来关停潮？</a></li>
 <li><a href="/topimagenews/20240910/2086667.md">小心北京把话塞到你嘴里！ 中共罔顾外交原则 窜改与挪威、西班牙领袖谈话</a></li>
 <li><a href="/cbnews/20240910/2086568.md">西方高估习近平？北京学者：有关方面很难下决心</a></li>
-<li><a href="/topimagenews/20240910/2086429.md">习近平接下来不好过了！川普、贺锦丽铆足了劲【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240910/2086708.md">“组团”杀官灭门！咸阳5人被重金通缉 大批退役军人青岛杠上武警？</a></li>
-<li><a href="/cnnews/20240910/2086558.md">绝望的数据，习带领中国进入烂尾时代</a></li>
+<li><a href="/topimagenews/20240910/2086429.md">习近平接下来不好过了！川普、贺锦丽铆足了劲【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240910/2086789.md">中国近期“大危机”将至 国安官员：很不得了</a></li>
+<li><a href="/cnnews/20240910/2086558.md">绝望的数据，习带领中国进入烂尾时代</a></li>
 <li><a href="/cnnews/20240910/2086457.md">这场婚礼 令孙雯蜕变</a></li>
 <li><a href="/cbnews/20240910/2086648.md">北京继续放风？秦刚现况真实性各方热议</a></li>
-<li><a href="/bblog/20240910/2086432.md">〖微历史〗毛共只是举着地契在农民的眼前晃了一下</a></li>
+<li><a href="/baitai/20240910/2086592.md">这一次，全国人民都知道这件丑事了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240911/2086873.md" target="_blank">【苹果华为同日发布新手机 中美手机对决引热议】</a></li>
 <li><a href="/comments/20240911/2086809.md" target="_blank">【RFA独家：五名西藏年轻僧人企图结束自己生命】</a></li>
 <li><a href="/comments/20240910/2086797.md" target="_blank">疑为参加中俄军演 5艘中国军舰驶入日本海</a></li>
 <li><a href="/comments/20240910/2086794.md" target="_blank">【梁京评论】柯文哲弊案有感：失望与希望</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240910/2086425.md" target="_blank">天亮时分：习近平「论教育」後，遍地烂尾娃</a></li>
 <li><a href="/comments/20240910/2086424.md" target="_blank">【&quot;中共已成为俄罗斯对乌克兰发动战争的决定性推动者”】 在50个盟国举行援助乌克兰会议首日，北约秘书长斯托尔滕贝格表示，北京的援助是导致这场战争持续的重要因素，并呼吁中共停止支持俄罗斯非法战争。</a></li>
 <li><a href="/comments/20240910/2086409.md" target="_blank">【网红“亚人”骚扰日本游客 坚持“我就不让日本人”】</a></li>
-<li><a href="/comments/20240910/2086390.md" target="_blank">【习近平会见西班牙首相桑切斯】 中国与 #欧盟 成员国互动频繁，主要是电车和油车 #关税 那些事。 桑切斯还对习近平表示，他特别关心讨论“部分欧洲国家，尤其是乌克兰和巴勒斯坦所面临的严峻局势”。</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
-<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20240723/2065714.md" target="_blank">台湾民视：解谜法轮功 气功或宗教？</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/cbnews/20240902/2082501.md" target="_blank">中元节祭祖有没有效果呢？那边真的可以收到纸钱吗？</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/topimagenews/20200514/1328456.md" target="_blank">穿越时空 谢田教授亲身体验人体特异功能</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20240828/2080320.md" target="_blank">惠虎宇：与AI聊传统宗教、科学和修炼</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
 
 </ul>
 </div>
