@@ -6,28 +6,28 @@
 <ul>
 
 <li><a href="/headline/20240909/2086253.md">菲媒体泄露中马机密外交照会 中方震惊斥「居心叵测」</a></li>
-<li><a href="/baitai/20240909/2086139.md">女子从86楼跳下，掉在了一辆车顶上，没想到，她死亡时的照片成了经典</a></li>
 <li><a href="/baitai/20240909/2086193.md">第二个郭美美？中国惊现神秘「大小姐」高调炫富 政商演艺圈通吃</a></li>
 <li><a href="/baitai/20240910/2086313.md">路虎女后续：“娘家人”发声支持，女子真实身份，及更多隐情被曝……</a></li>
 <li><a href="/topimagenews/20240910/2086414.md">习近平留后手 秦刚有希望？</a></li>
 <li><a href="/baitai/20240910/2086319.md">北大开学典礼：校长被哄了下去</a></li>
 <li><a href="/comments/20240909/2086168.md">他预言了中共终结者⋯承认自己该罚；他帮官员 升迁至北京高层，还给郭德纲师父看相！预言吓到 中共政协委员；被称为半仙｜未解之谜</a></li>
+<li><a href="/ccpdope/20240910/2086405.md">张又侠不提军委主席负责制何衞东唱反调</a></li>
 <li><a href="/baitai/20240910/2086388.md">“死也要死在美国”的她，终于回国了！竟是我们熟悉的她？</a></li>
 <li><a href="/topimagenews/20240910/2086475.md">中共官方毫不避讳！自家栏里的猪，骨髓都敲出来吃了，只能把手伸到别人碗里</a></li>
-<li><a href="/ccpdope/20240910/2086405.md">张又侠不提军委主席负责制何衞东唱反调</a></li>
-<li><a href="/topimagenews/20240909/2086230.md">美国零售业倒闭潮来袭！ 又1连锁巨头声请破产 股价惨况曝</a></li>
 <li><a href="/topimagenews/20240910/2086528.md">情妇大团结58封联名信 终于扳倒他</a></li>
+<li><a href="/topimagenews/20240909/2086230.md">美国零售业倒闭潮来袭！ 又1连锁巨头声请破产 股价惨况曝</a></li>
 <li><a href="/ssgc/20240910/2086433.md">〖微博谈〗中国经济只会一天天烂下去</a></li>
-<li><a href="/baitai/20240909/2086129.md">温州一女子内裤掉楼下男子头上，男子愤怒拉着报警，评论区笑死了</a></li>
 <li><a href="/cbnews/20240910/2086435.md">死刑高官卷入最高层权斗 牵涉两中共前常委家族</a></li>
-<li><a href="/baitai/20240909/2086132.md">27岁女博士确诊HIV阳性，被传染的途径让人无法接受</a></li>
-<li><a href="/topimagenews/20240910/2086429.md">习近平接下来不好过了！川普、贺锦丽铆足了劲【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20240910/2086529.md">美众院通过重磅法案 锁定冻结中共高官资产</a></li>
-<li><a href="/baitai/20240909/2086134.md">最新调查结果出来了！伊朗前总统坠机原因公布，美以英法集体失声</a></li>
 <li><a href="/topimagenews/20240910/2086543.md">中国又传来好消息，但是很奇怪</a></li>
+<li><a href="/cbnews/20240910/2086529.md">美众院通过重磅法案 锁定冻结中共高官资产</a></li>
+<li><a href="/topimagenews/20240910/2086429.md">习近平接下来不好过了！川普、贺锦丽铆足了劲【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20240910/2086564.md">北京一顿忙活 到头来又成笑话</a></li>
 <li><a href="/cnnews/20240910/2086457.md">这场婚礼 令孙雯蜕变</a></li>
 <li><a href="/headline/20240910/2086336.md">华邮揭秦刚被贬内幕：脱身了，不会进监狱，但职业生涯结束了</a></li>
 <li><a href="/topimagenews/20240909/2086229.md">16世纪圣女遗骸保存状态曝光 科学团队惊呼不可思议</a></li>
+<li><a href="/bblog/20240910/2086432.md">〖微历史〗毛共只是举着地契在农民的眼前晃了一下</a></li>
+<li><a href="/cbnews/20240909/2086143.md">江峰：陆虎女为啥横行？因为情妇与白手套是权力的必需品</a></li>
+<li><a href="/cbnews/20240910/2086568.md">西方高估习近平？北京学者：有关方面很难下决心</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240910/2086633.md" target="_blank">俄军阵亡近15万 10倍工资大撒币招兵</a></li>
 <li><a href="/topimagenews/20240910/2086564.md" target="_blank">北京一顿忙活 到头来又成笑话</a></li>
 <li><a href="/topimagenews/20240910/2086543.md" target="_blank">中国又传来好消息，但是很奇怪</a></li>
 <li><a href="/topimagenews/20240910/2086528.md" target="_blank">情妇大团结58封联名信 终于扳倒他</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20240909/2085898.md" target="_blank">《小鬼头上的女人》主角逃欧 述中共跨国迫害</a></li>
 <li><a href="/topimagenews/20240909/2085891.md" target="_blank">波诡云谲！赵老板这4块石头值11个亿？</a></li>
 <li><a href="/topimagenews/20240909/2085890.md" target="_blank">北京、深圳同时上演！扎堆降价离场大比拼</a></li>
-<li><a href="/topimagenews/20240909/2085876.md" target="_blank">爆料：毕福剑定居这里？比做主持人还多姿多彩</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/comments/20240704/2058130.md" target="_blank">百年梦醒（十八）：共产魔教的机制、前所未有的巨大野心</a></li>
-<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/comments/20240126/1992876.md" target="_blank">内幕：中国留学生里女生打男生和男生打女一样普遍</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/cnnews/20170717/792917.md" target="_blank">无神论是最大的迷信</a></li>
+<li><a href="/taiwannews/20210119/1470524.md" target="_blank">纪录片《蚕食美国1》</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/bblog/20240813/2073608.md" target="_blank">惊人内幕：脑死亡不是死亡，只是深度昏迷骗你捐器官</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
 <li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
-<li><a href="/comments/20240808/2071869.md" target="_blank">【新纪元】被误解的大脑</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/cbnews/20240904/2083703.md" target="_blank">复眼与变态 昆虫奥秘令进化论失据</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
 
 </ul>
 </div>
