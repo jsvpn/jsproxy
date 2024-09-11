@@ -6,28 +6,28 @@
 <ul>
 
 <li><a href="/baitai/20240910/2086622.md">党媒刊登习近平署名文章 释不寻常讯号</a></li>
-<li><a href="/sohnews/20240910/2086615.md">反了：中共元老王震的儿子发文痛骂习近平，又一位爱国网红翻车，8000万公职嗷嗷待哺。《老灯开讲第661期》</a></li>
-<li><a href="/topimagenews/20240910/2086789.md">中国近期“大危机”将至 国安官员：很不得了</a></li>
 <li><a href="/yule/20240911/2086837.md">55岁的许晴 终于为自己的“风流”付出了代价</a></li>
+<li><a href="/topimagenews/20240910/2086789.md">中国近期“大危机”将至 国安官员：很不得了</a></li>
 <li><a href="/topimagenews/20240910/2086709.md">中国经济 更加危险的信号发出</a></li>
 <li><a href="/baitai/20240910/2086629.md">报纸大面积停刊，电视也将迎来关停潮？</a></li>
 <li><a href="/topimagenews/20240910/2086708.md">“组团”杀官灭门！咸阳5人被重金通缉 大批退役军人青岛杠上武警？</a></li>
 <li><a href="/topimagenews/20240911/2086900.md">疯传！韩国惊现“简体中文标语” 陆网一看全沉默</a></li>
 <li><a href="/sohnews/20240911/2086969.md">微信网传，红二代痛骂习近平！烂尾帝的伟大成就！</a></li>
+<li><a href="/baitai/20240910/2086755.md">穿了跟没穿一样，胸型赞到爆！天然乳胶，性感到让男人腿软</a></li>
 <li><a href="/topimagenews/20240911/2086913.md">人人心在滴血！连北京都成立这个“联合作战中心” 了</a></li>
 <li><a href="/topimagenews/20240910/2086667.md">小心北京把话塞到你嘴里！ 中共罔顾外交原则 窜改与挪威、西班牙领袖谈话</a></li>
-<li><a href="/baitai/20240910/2086755.md">穿了跟没穿一样，胸型赞到爆！天然乳胶，性感到让男人腿软</a></li>
-<li><a href="/topimagenews/20240911/2086892.md">灾难！资产人间蒸发 中国人大大低估了房价下跌后果【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240910/2086769.md">真的要来了？人大审议延迟退休草案 陆网叹：一生都被玩弄</a></li>
+<li><a href="/topimagenews/20240911/2086892.md">灾难！资产人间蒸发 中国人大大低估了房价下跌后果【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240911/2086951.md">重磅！中共前海军军官交出“福建沿海军事部署情资”</a></li>
+<li><a href="/topimagenews/20240911/2086970.md">中共给他颁奖？原中行行长这么年轻就去国外与妃、子团聚了</a></li>
 <li><a href="/topimagenews/20240911/2086914.md">重大报复！大批小学生被撞倒地 武汉嫌犯故意的</a></li>
 <li><a href="/topimagenews/20240911/2086942.md">三大难堪无解，中共战狼沉默至今</a></li>
 <li><a href="/cbnews/20240910/2086648.md">北京继续放风？秦刚现况真实性各方热议</a></li>
-<li><a href="/topimagenews/20240911/2086970.md">中共给他颁奖？原中行行长这么年轻就去国外与妃、子团聚了</a></li>
 <li><a href="/topimagenews/20240911/2086943.md">全国大基建，要停了</a></li>
 <li><a href="/yule/20240911/2086838.md">贾玲复胖回到140斤 网友质疑：感觉她...</a></li>
 <li><a href="/cbnews/20240910/2086710.md">又见开车撞学生! 武汉大批小学生被撞倒在地 嫌犯试图肇逃被拦下</a></li>
 <li><a href="/cbnews/20240910/2086790.md">17岁跳水金牌全红婵戴劳力士手表 酸民又有话讲了</a></li>
+<li><a href="/baitai/20240910/2086666.md">河南聋哑孕妇难产，却迟迟不见丈夫，医生解开衣服，肚子上竟写着一行字，看哭在场所有人……</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20231130/1967587.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （一）</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/ssgc/20240508/2034288.md" target="_blank">《透视“进化论”》第九章 人类起源问题的终极答案</a></li>
 <li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/cbnews/20190701/1151453.md" target="_blank">盘点十大邪教特征 中共条条对号入座</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20240820/2076958.md" target="_blank">惠虎宇：中华文化为什么是高级文化系统(3)</a></li>
+<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/topimagenews/20240511/2035423.md" target="_blank">原北京学员回忆李洪志先生在东方健康博览会上所行的奇迹</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
 
 </ul>
 </div>
