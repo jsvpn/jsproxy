@@ -16,8 +16,8 @@
 <li><a href="/topimagenews/20240911/2087254.md">日本传出大消息</a></li>
 <li><a href="/topimagenews/20240911/2087002.md">普京这脸变得也太快了</a></li>
 <li><a href="/topimagenews/20240911/2087092.md">川普贺锦丽首场辩论 各界评论家看法现重大分歧</a></li>
-<li><a href="/cbnews/20240911/2087093.md">诡异！港媒突然“辟谣”秦刚去向</a></li>
 <li><a href="/cbnews/20240911/2087226.md">重大转向！美认定中共直接支持俄战争机器</a></li>
+<li><a href="/cbnews/20240911/2087093.md">诡异！港媒突然“辟谣”秦刚去向</a></li>
 <li><a href="/baitai/20240911/2087211.md">中国下一个危机 即将上演</a></li>
 <li><a href="/topimagenews/20240911/2086942.md">三大难堪无解，中共战狼沉默至今</a></li>
 <li><a href="/topimagenews/20240911/2086971.md">普京丢脸！库尔斯克成立新临时政府</a></li>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240912/2087429.md" target="_blank">全国大基建，要停了；人人心在滴血！北京成立“联合作战中心”【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240912/2087328.md" target="_blank">圆明园辱骂日本游客 陆爱国网红被起底“性侵未成年”</a></li>
 <li><a href="/topimagenews/20240911/2087254.md" target="_blank">日本传出大消息</a></li>
 <li><a href="/topimagenews/20240911/2087225.md" target="_blank">北京指令遭抵抗 危机仍在蔓延</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20240910/2086708.md" target="_blank">“组团”杀官灭门！咸阳5人被重金通缉 大批退役军人青岛杠上武警？</a></li>
 <li><a href="/topimagenews/20240910/2086667.md" target="_blank">小心北京把话塞到你嘴里！ 中共罔顾外交原则 窜改与挪威、西班牙领袖谈话</a></li>
 <li><a href="/topimagenews/20240910/2086647.md" target="_blank">德狂风战机挂“这弹”警告普京! 世界大战风险增加 西方国家备战</a></li>
-<li><a href="/topimagenews/20240910/2086633.md" target="_blank">俄军阵亡近15万 10倍工资大撒币招兵</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240912/2087431.md" target="_blank">陆文：沙漠里的洪水</a></li>
 <li><a href="/comments/20240912/2087417.md" target="_blank">【国台办：“#台独”分裂势力必被彻底粉碎】</a></li>
 <li><a href="/comments/20240912/2087407.md" target="_blank">小肯尼迪放弃一切 呼吁支持者只投川普</a></li>
 <li><a href="/comments/20240912/2087405.md" target="_blank">【吏呼一何怒 妇啼一何苦！】 9月11日，江西抚州。多名执法人员围殴男子，女子扑倒护住男子。</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240911/2087008.md" target="_blank">中非论坛“大撒币”、中共海外代理人被捕、地方政府“砸锅卖铁”</a></li>
 <li><a href="/comments/20240911/2086992.md" target="_blank">梅拉尼娅连发视频，罕见抨击拜登-哈里斯政府。肯尼迪不恋法律战，改策略全力支持川普。电视辩论，川普的制胜关键点。川普梅拉尼娅肯尼迪</a></li>
 <li><a href="/comments/20240911/2086977.md" target="_blank">建制是什么鬼？哈里斯价值观 &#038; 川普的反建制</a></li>
-<li><a href="/comments/20240911/2086976.md" target="_blank">已经没人因为出轨离婚了</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cnnews/20150914/449521.md" target="_blank">无神论和有神论，乡下老太太驳倒三个博士</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20240820/2076928.md" target="_blank">惠虎宇：中华文化为什么是高级文化系统(1)</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20231220/1976789.md" target="_blank">大陆医生曝：九价HPV疫苗导致怀孕能力下降40%</a></li>
 <li><a href="/sohnews/20240908/2085761.md" target="_blank">初次见到神；看到兽的印记；目睹灾难来临时什么样的人会被留下</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
 
 </ul>
 </div>
