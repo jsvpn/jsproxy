@@ -11,22 +11,22 @@
 <li><a href="/ccpdope/20240912/2087413.md">罕见！红二代撰文怒骂党魁是卖国贼</a></li>
 <li><a href="/cbnews/20240912/2087609.md">中共党魁身形消瘦 现身伏羲庙、看佛像 引发猜测</a></li>
 <li><a href="/topimagenews/20240912/2087535.md">惨！没人在乎中南海 美欧发联合声明： “一个中国”不见了</a></li>
-<li><a href="/baitai/20240912/2087776.md">习近平为何突访陕西？官媒含沙射影</a></li>
 <li><a href="/cbnews/20240912/2087587.md">习近平要抓70位将军 大概率是先打菲律宾</a></li>
+<li><a href="/baitai/20240912/2087776.md">习近平为何突访陕西？官媒含沙射影</a></li>
 <li><a href="/baitai/20240912/2087416.md">贺子珍与丈夫最后一张“合影”，泪奔了</a></li>
 <li><a href="/baitai/20240912/2087474.md">军中红二代借机做大 张又侠抄习后路？</a></li>
 <li><a href="/topimagenews/20240912/2087429.md">全国大基建，要停了；人人心在滴血！北京成立“联合作战中心”【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240912/2087534.md">5千人一夕失业 中国汽车大厂要关门</a></li>
 <li><a href="/sohnews/20240912/2087698.md">人民日报发文批习：一将无能累死三军，习回陕西最后祭陵，中共在末路上狂奔的惯性机制。《老灯开讲第663期》</a></li>
 <li><a href="/topimagenews/20240912/2087481.md">中国房市大崩盘 业主强烈不满</a></li>
-<li><a href="/cbnews/20240912/2087608.md">亿级网红爆出轨女主播 小三怀孕却坐牢</a></li>
 <li><a href="/topimagenews/20240912/2087753.md">俄罗斯滑翔炸弹肆虐乌克兰 破坏力震撼全球</a></li>
+<li><a href="/cbnews/20240912/2087608.md">亿级网红爆出轨女主播 小三怀孕却坐牢</a></li>
 <li><a href="/cnnews/20240912/2087621.md">中央批准，三虎被开除</a></li>
 <li><a href="/cnnews/20240912/2087471.md">中国富人移民有多疯狂？连战火中的俄罗斯和中东国都望尘莫及</a></li>
 <li><a href="/cbnews/20240912/2087580.md">〖红朝浮世绘〗狼说希望狈来调停羊狼冲突，狈说自己始终致力于劝和促谈</a></li>
-<li><a href="/cnnews/20240912/2087523.md">习近平真能华丽转身拥抱民主？那些人得先把他干掉</a></li>
 <li><a href="/cnnews/20240912/2087468.md">泰勒·斯威夫表态挺贺锦丽 马斯克给她这句评语</a></li>
-<li><a href="/yule/20240912/2087372.md">张雨绮说次脱口秀 把于适和富豪大姐送上9个热搜</a></li>
+<li><a href="/cnnews/20240912/2087523.md">习近平真能华丽转身拥抱民主？那些人得先把他干掉</a></li>
+<li><a href="/topimagenews/20240912/2087731.md">小肯尼迪：贺锦丽辩论赢了 预测川普支持率下降</a></li>
 <li><a href="/ccpdope/20240912/2087581.md">中国餐饮业崩了 真正的劫难才刚开始</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/cnnews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/comments/20240723/2065714.md" target="_blank">台湾民视：解谜法轮功 气功或宗教？</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
 <li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20231214/1974098.md" target="_blank">美国众议院议长：我所坚守的保守主义，具体是些什么内容？</a></li>
-<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20231220/1976683.md" target="_blank">医山夜话：张锡纯医案解读（二）根治胃气不降之证</a></li>
-<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
-<li><a href="/comments/20231220/1976789.md" target="_blank">大陆医生曝：九价HPV疫苗导致怀孕能力下降40%</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
+<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20190220/1083672.md" target="_blank">胡平：法轮功与其他一些宗教或信仰之比较</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
 
 </ul>
 </div>
