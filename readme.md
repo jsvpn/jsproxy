@@ -10,24 +10,24 @@
 <li><a href="/cbnews/20240912/2087442.md">突发！天津机场大量航班取消、延误</a></li>
 <li><a href="/cbnews/20240911/2087093.md">诡异！港媒突然“辟谣”秦刚去向</a></li>
 <li><a href="/baitai/20240911/2087211.md">中国下一个危机 即将上演</a></li>
-<li><a href="/topimagenews/20240911/2087092.md">川普贺锦丽首场辩论 各界评论家看法现重大分歧</a></li>
 <li><a href="/cbnews/20240911/2087226.md">重大转向！美认定中共直接支持俄战争机器</a></li>
+<li><a href="/topimagenews/20240911/2087092.md">川普贺锦丽首场辩论 各界评论家看法现重大分歧</a></li>
 <li><a href="/baitai/20240911/2087119.md">警方地毯式搜索咸阳五嫌犯 传北京已建边境墙</a></li>
+<li><a href="/headline/20240911/2087305.md">俄罗斯疯传中国将接管西伯利亚？</a></li>
 <li><a href="/yule/20240912/2087388.md">李小璐路人视角曝光 个子1米5又矮又老浓妆艳抹</a></li>
 <li><a href="/ccpdope/20240912/2087413.md">罕见！红二代撰文怒骂党魁是卖国贼</a></li>
-<li><a href="/headline/20240911/2087305.md">俄罗斯疯传中国将接管西伯利亚？</a></li>
 <li><a href="/ccpdope/20240911/2087108.md">广州现状！服装业崩盘 一片哀嚎</a></li>
 <li><a href="/topimagenews/20240912/2087535.md">惨！没人在乎中南海 美欧发联合声明： “一个中国”不见了</a></li>
-<li><a href="/baitai/20240912/2087416.md">贺子珍与丈夫最后一张“合影”，泪奔了</a></li>
 <li><a href="/headline/20240911/2087210.md">「胆敢」关闭香港驻美经贸办 中方警告必遭坚决反制</a></li>
+<li><a href="/baitai/20240912/2087416.md">贺子珍与丈夫最后一张“合影”，泪奔了</a></li>
 <li><a href="/topimagenews/20240912/2087429.md">全国大基建，要停了；人人心在滴血！北京成立“联合作战中心”【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20240911/2087076.md">中共多地发文过紧日子 规定公务车要换电动车被轰</a></li>
-<li><a href="/lifebaike/20240911/2087135.md">买螃蟹时，喊出“6个字”，老板不敢忽悠你，外行听了却一脸懵</a></li>
 <li><a href="/baitai/20240912/2087474.md">军中红二代借机做大 张又侠抄习后路？</a></li>
+<li><a href="/lifebaike/20240911/2087135.md">买螃蟹时，喊出“6个字”，老板不敢忽悠你，外行听了却一脸懵</a></li>
 <li><a href="/topimagenews/20240911/2087091.md">分析师曝贺锦丽打不过川普</a></li>
 <li><a href="/baitai/20240911/2087215.md">【麻辣总局】人民日报｜一将无能累死三军，该有人出来担责了</a></li>
 <li><a href="/topimagenews/20240912/2087328.md">圆明园辱骂日本游客 陆爱国网红被起底“性侵未成年”</a></li>
-<li><a href="/headline/20240911/2087164.md">中国人为华为三折叠手机很自豪 就是太贵了</a></li>
+<li><a href="/topimagenews/20240912/2087481.md">中国房市大崩盘 业主强烈不满</a></li>
+<li><a href="/cnnews/20240912/2087471.md">中国富人移民有多疯狂？连战火中的俄罗斯和中东国都望尘莫及</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/lifebaike/20180527/948531.md" target="_blank">无神论是最大的迷信（上）：科学无法证实神不存在</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20190213/1080251.md" target="_blank">胡平：法轮功为何反对自杀？</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
 <li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20231220/1976683.md" target="_blank">医山夜话：张锡纯医案解读（二）根治胃气不降之证</a></li>
-<li><a href="/cbnews/20240904/2083703.md" target="_blank">复眼与变态 昆虫奥秘令进化论失据</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20240318/2014289.md" target="_blank">唐柏桥：民运同仁突然向法轮功开火是怎么回事？</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
 
 </ul>
 </div>
