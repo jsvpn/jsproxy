@@ -12,22 +12,22 @@
 <li><a href="/cnnews/20240913/2087984.md">女市委书记，美国房产20套，后台不是一般的硬</a></li>
 <li><a href="/cbnews/20240913/2087937.md">寒风来袭！传中共要求投资银行家上交护照</a></li>
 <li><a href="/cnnews/20240913/2087962.md">重大预警？江西天降几十个神秘火球</a></li>
-<li><a href="/topimagenews/20240912/2087731.md">小肯尼迪：贺锦丽辩论赢了 预测川普支持率下降</a></li>
 <li><a href="/lifebaike/20240913/2087868.md">女人有多旺夫，看她的脸就知道！有3特征</a></li>
 <li><a href="/topimagenews/20240913/2087999.md">危机逼近！4亿人压顶习当局 人大审议重要草案【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20240912/2087731.md">小肯尼迪：贺锦丽辩论赢了 预测川普支持率下降</a></li>
 <li><a href="/topimagenews/20240913/2087959.md">共军新型核潜艇要来？美惊曝中俄重大地下交易</a></li>
 <li><a href="/itnews/20240913/2087908.md">天津滨海机场再次发生飞机延误</a></li>
-<li><a href="/topimagenews/20240912/2087732.md">斩首本拉登 美军海豹六队 为中共侵略台湾做准备</a></li>
 <li><a href="/topimagenews/20240913/2087998.md">悬赏抓捕 不论生死！中共公安部对他发出通辑令</a></li>
+<li><a href="/topimagenews/20240912/2087732.md">斩首本拉登 美军海豹六队 为中共侵略台湾做准备</a></li>
 <li><a href="/sohnews/20240912/2087775.md">文睿：人民日报，火了</a></li>
 <li><a href="/sohnews/20240912/2087685.md">陈破空：秦刚真的走了？出版社乌龙，美方被骗。蔡奇狠酸老习：一将无能累死三军！当局搞延迟退休，真实理由：习已经带头。国台办泄密：柯文哲是共产党同路人。直播与互动：美东时间9月12日早9点、中港台当晚9点</a></li>
-<li><a href="/topimagenews/20240913/2087878.md">华尔街日报：西方企业渐撤出中国 不再视为投资首选</a></li>
 <li><a href="/headline/20240913/2087933.md">教材“含习量”飙升家长不满 “颜色革命”紧箍咒空前教师不安</a></li>
-<li><a href="/comments/20240913/2087955.md">【许家印现被囚于深圳】</a></li>
-<li><a href="/headline/20240913/2087913.md">IKEA疑因《国安法》在港澳停售智能家居产品 其后澄清受「特定技术限制」影响</a></li>
 <li><a href="/cbnews/20240913/2088008.md">江峰：习近平这样冷脸贴热屁股的真不多</a></li>
+<li><a href="/topimagenews/20240913/2087878.md">华尔街日报：西方企业渐撤出中国 不再视为投资首选</a></li>
+<li><a href="/headline/20240913/2087913.md">IKEA疑因《国安法》在港澳停售智能家居产品 其后澄清受「特定技术限制」影响</a></li>
+<li><a href="/comments/20240913/2087955.md">【许家印现被囚于深圳】</a></li>
+<li><a href="/topimagenews/20240913/2088009.md">2026中国变天？奇人预言：五星即五党魁 没有六代</a></li>
 <li><a href="/baitai/20240913/2087875.md">省委巡视组原组长被查</a></li>
-<li><a href="/baitai/20240912/2087717.md">早10年发现失智！ 研究：「4步态」恐是前兆</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20231213/1973586.md" target="_blank">六道轮回之畜生道</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/cbnews/20231208/1971389.md" target="_blank">话说中医之祝由科</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20240825/2079044.md" target="_blank">谁是创世主</a></li>
+<li><a href="/sohnews/20240908/2085761.md" target="_blank">初次见到神；看到兽的印记；目睹灾难来临时什么样的人会被留下</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
 <li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/lifebaike/20180529/949787.md" target="_blank">无神论是最大的迷信（下）：科学家大多是有神论</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/aomi/life/20240330/2018911.md" target="_blank">挪威青年这样走出重度失眠和抑郁煎熬</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
+<li><a href="/tculture/20231217/1975364.md" target="_blank">医山夜话：张锡纯医案解读（1）根治失眠 思路清晰</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/comments/20190213/1080251.md" target="_blank">胡平：法轮功为何反对自杀？</a></li>
 
 </ul>
 </div>
