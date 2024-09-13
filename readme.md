@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/cbnews/20240912/2087792.md">出大事？天津机场现诡异不明飞行物 大量航班取消</a></li>
 <li><a href="/cnnews/20240913/2087984.md">女市委书记，美国房产20套，后台不是一般的硬</a></li>
 <li><a href="/cbnews/20240913/2087937.md">寒风来袭！传中共要求投资银行家上交护照</a></li>
 <li><a href="/lifebaike/20240913/2087868.md">女人有多旺夫，看她的脸就知道！有3特征</a></li>
@@ -17,8 +16,8 @@
 <li><a href="/topimagenews/20240913/2087998.md">悬赏抓捕 不论生死！中共公安部对他发出通辑令</a></li>
 <li><a href="/cbnews/20240913/2088008.md">江峰：习近平这样冷脸贴热屁股的真不多</a></li>
 <li><a href="/headline/20240913/2087933.md">教材“含习量”飙升家长不满 “颜色革命”紧箍咒空前教师不安</a></li>
-<li><a href="/lifebaike/20240913/2088019.md">金日成为何对彭德怀恨之入骨？扇耳光传言成真？</a></li>
 <li><a href="/topimagenews/20240913/2088009.md">2026中国变天？奇人预言：五星即五党魁 没有六代</a></li>
+<li><a href="/lifebaike/20240913/2088019.md">金日成为何对彭德怀恨之入骨？扇耳光传言成真？</a></li>
 <li><a href="/topimagenews/20240913/2087878.md">华尔街日报：西方企业渐撤出中国 不再视为投资首选</a></li>
 <li><a href="/headline/20240913/2087913.md">IKEA疑因《国安法》在港澳停售智能家居产品 其后澄清受「特定技术限制」影响</a></li>
 <li><a href="/sohnews/20240913/2088033.md">全网最有钱的豪门大小姐？六个保姆照顾起居，大明星是座上宾，“亿颜LuLu”引全网挖料，她是谁，高官贵冑还是富家千金？有两个人选，其中一人已被锁定！习近平西行，去甘肃麦积山“见佛”去了｜大宇拍案惊奇</a></li>
@@ -27,7 +26,8 @@
 <li><a href="/funmedia/20240913/2088011.md">UFO袭地球？ 中国江西神秘火球从天而降</a></li>
 <li><a href="/baitai/20240913/2087875.md">省委巡视组原组长被查</a></li>
 <li><a href="/comments/20240913/2087993.md">（声音版）最新！没有第3次辩论了！川大爷是怎么掉进坑里的？</a></li>
-<li><a href="/topimagenews/20240912/2087849.md">SpaceX“民间太空漫步”出舱成功 全视角记录</a></li>
+<li><a href="/sohnews/20240913/2088072.md">陈破空：习大病后首次出京，暴瘦，发呆！要求随从和群众演员越站越远。蔡奇陪同神情哀戚。到甘肃不敢走李克强游览路线。陕西刚发生那件事。直播与互动：美东时间9月13日早9点、中港台当晚9点</a></li>
+<li><a href="/funmedia/20240913/2088013.md">今年度预言已60%成真！巴西灵媒再祭5警告</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240913/2088100.md" target="_blank">俄乌战争能一天结束吗？方伟和章天亮大不同！</a></li>
 <li><a href="/comments/20240913/2088084.md" target="_blank">长超美外星人 就为一件事 选中这个人！美军基地奇遇；超白皮肤、瘦高、大眼睛⋯还机敏异常！和高白外星人共事，千万要小心！｜未解之谜</a></li>
 <li><a href="/comments/20240913/2088078.md" target="_blank">ABC举报人将揭电视辩论黑幕。海地移民涌入俄亥俄小镇，比吃猫吃狗更可怕。川普电视辩论海地移民</a></li>
 <li><a href="/comments/20240913/2088059.md" target="_blank">亲眼所见我都不敢相信 地瓜就这么出炉了？</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240912/2087609.md" target="_blank">中共党魁身形消瘦 现身伏羲庙、看佛像 引发猜测</a></li>
 <li><a href="/cbnews/20240912/2087608.md" target="_blank">亿级网红爆出轨女主播 小三怀孕却坐牢</a></li>
 <li><a href="/cbnews/20240912/2087607.md" target="_blank">江西多名执法人员围殴一男子 引发民众愤怒</a></li>
-<li><a href="/cbnews/20240912/2087587.md" target="_blank">习近平要抓70位将军 大概率是先打菲律宾</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240913/2088100.md" target="_blank">俄乌战争能一天结束吗？方伟和章天亮大不同！</a></li>
 <li><a href="/comments/20240913/2088084.md" target="_blank">长超美外星人 就为一件事 选中这个人！美军基地奇遇；超白皮肤、瘦高、大眼睛⋯还机敏异常！和高白外星人共事，千万要小心！｜未解之谜</a></li>
 <li><a href="/comments/20240913/2088078.md" target="_blank">ABC举报人将揭电视辩论黑幕。海地移民涌入俄亥俄小镇，比吃猫吃狗更可怕。川普电视辩论海地移民</a></li>
 <li><a href="/comments/20240913/2088059.md" target="_blank">亲眼所见我都不敢相信 地瓜就这么出炉了？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240912/2087798.md" target="_blank">【杜耀明评论】对「无意」但作恶者宽大 对舆论批评入罪严苛</a></li>
 <li><a href="/comments/20240912/2087797.md" target="_blank">【未普评论】苏利文见张又侠 甚么地方不对劲？</a></li>
 <li><a href="/comments/20240912/2087795.md" target="_blank">川普中计：哈里斯不愧是策略大师</a></li>
-<li><a href="/comments/20240912/2087790.md" target="_blank">国足晒绝对优势💥！球迷被雷晕了</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20190701/1151453.md" target="_blank">盘点十大邪教特征 中共条条对号入座</a></li>
 <li><a href="/comments/20231213/1973586.md" target="_blank">六道轮回之畜生道</a></li>
-<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
-<li><a href="/comments/20231214/1974098.md" target="_blank">美国众议院议长：我所坚守的保守主义，具体是些什么内容？</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20240318/2014289.md" target="_blank">唐柏桥：民运同仁突然向法轮功开火是怎么回事？</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20190220/1083672.md" target="_blank">胡平：法轮功与其他一些宗教或信仰之比较</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20240320/2015021.md" target="_blank">唐柏桥：中共带话只要不与法轮功来往，其他一切都好说</a></li>
+<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
+<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
 <li><a href="/comments/20190214/1080789.md" target="_blank">胡平：天安门自焚和人民圣殿教</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20240704/2058130.md" target="_blank">百年梦醒（十八）：共产魔教的机制、前所未有的巨大野心</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20240418/2026391.md" target="_blank">医生劝我妻子放弃，似乎这些医生热衷让病人快点去死？</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
-<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
-<li><a href="/bblog/20240813/2073608.md" target="_blank">惊人内幕：脑死亡不是死亡，只是深度昏迷骗你捐器官</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
 
 </ul>
 </div>
