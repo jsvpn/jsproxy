@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240913/2088008.md" target="_blank">江峰：习近平这样冷脸贴热屁股的真不多</a></li>
 <li><a href="/comments/20240913/2087993.md" target="_blank">（声音版）最新！没有第3次辩论了！川大爷是怎么掉进坑里的？</a></li>
 <li><a href="/comments/20240913/2087958.md" target="_blank">健康保险是人权吗？对不起，不是！</a></li>
 <li><a href="/cbnews/20240913/2087937.md" target="_blank">寒风来袭！传中共要求投资银行家上交护照</a></li>
@@ -59,13 +60,14 @@
 <li><a href="/comments/20240912/2087575.md" target="_blank">美国是共和，而不是民主，什么意思？</a></li>
 <li><a href="/cbnews/20240912/2087536.md" target="_blank">青岛代孕丑闻 中共删帖控评 民众吁抵制代孕</a></li>
 <li><a href="/cbnews/20240912/2087519.md" target="_blank">中国房地产危机四伏 一块地拿错就可能爆雷</a></li>
-<li><a href="/comments/20240912/2087492.md" target="_blank">川普夫人公开喊话 “刺杀事件”必须有人负责</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240913/2088010.md" target="_blank">9.11事件过去23年了，这个世界变好了吗？</a></li>
+<li><a href="/topimagenews/20240913/2088009.md" target="_blank">2026中国变天？奇人预言：五星即五党魁 没有六代</a></li>
 <li><a href="/topimagenews/20240913/2087999.md" target="_blank">危机逼近！4亿人压顶习当局 人大审议重要草案【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240913/2087998.md" target="_blank">悬赏抓捕 不论生死！中共公安部对他发出通辑令</a></li>
 <li><a href="/topimagenews/20240913/2087959.md" target="_blank">共军新型核潜艇要来？美惊曝中俄重大地下交易</a></li>
@@ -89,14 +91,14 @@
 <li><a href="/topimagenews/20240911/2087254.md" target="_blank">日本传出大消息</a></li>
 <li><a href="/topimagenews/20240911/2087225.md" target="_blank">北京指令遭抵抗 危机仍在蔓延</a></li>
 <li><a href="/topimagenews/20240911/2087092.md" target="_blank">川普贺锦丽首场辩论 各界评论家看法现重大分歧</a></li>
-<li><a href="/topimagenews/20240911/2087091.md" target="_blank">分析师曝贺锦丽打不过川普</a></li>
-<li><a href="/topimagenews/20240911/2087036.md" target="_blank">习一假动作迅速集权！他的严管是厚爱？</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240913/2088018.md" target="_blank">不是麻木不仁的人生</a></li>
+<li><a href="/comments/20240913/2088017.md" target="_blank">飞虎队员留下珍贵彩照：1945年的成都像油画一样</a></li>
 <li><a href="/comments/20240913/2087993.md" target="_blank">（声音版）最新！没有第3次辩论了！川大爷是怎么掉进坑里的？</a></li>
 <li><a href="/comments/20240913/2087979.md" target="_blank">中国为什么应向俄罗斯宣战？中国能打赢俄罗斯吗？｜兵家常事（2024-9-12）</a></li>
 <li><a href="/comments/20240913/2087958.md" target="_blank">健康保险是人权吗？对不起，不是！</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240912/2087758.md" target="_blank">解析辩论：贺锦丽“金蝉脱壳”川普没能抓住机会</a></li>
 <li><a href="/comments/20240912/2087752.md" target="_blank">【林培瑞：中共透过自我审查和恐惧影响世界】</a></li>
 <li><a href="/comments/20240912/2087735.md" target="_blank">国足输了，可是中共国在网上却赢麻了？</a></li>
-<li><a href="/comments/20240912/2087614.md" target="_blank">何清涟：从孙雯案看“制度套利者”如何成为间谍</a></li>
-<li><a href="/comments/20240912/2087133.md" target="_blank">何清涟：清理“中美合作”遗产 美国谍影重重</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/sohnews/20160119/493472.md" target="_blank">无效的医疗：手术刀下的谎言和药瓶里的欺骗</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20240820/2076928.md" target="_blank">惠虎宇：中华文化为什么是高级文化系统(1)</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/taiwannews/20210119/1470761.md" target="_blank">独家：震撼纪录片《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20190214/1080789.md" target="_blank">胡平：天安门自焚和人民圣殿教</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
+<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/comments/20240412/2024185.md" target="_blank">是治疗还是屠杀?化疗药品滴一滴在皮肤即灼伤，很长时间才好</a></li>
+<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20240820/2076774.md" target="_blank">胡平：批判法轮功的人,为何不用同样标准分析其他宗教</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
 
 </ul>
 </div>
