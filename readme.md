@@ -5,21 +5,20 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/sohnews/20240913/2088072.md">陈破空：习大病后首次出京，暴瘦，发呆！要求随从和群众演员越站越远。蔡奇陪同神情哀戚。到甘肃不敢走李克强游览路线。陕西刚发生那件事。直播与互动：美东时间9月13日早9点、中港台当晚9点</a></li>
 <li><a href="/sohnews/20240913/2088081.md">蔡慎坤：无人机偷袭天津机场，也瘫痪了天津机场。无人机从哪里来？狙击手在哪里？去了？机场防卫如此脆弱，天津离北京仅100公里。无人机接连两天偷袭同一机场，有意思。</a></li>
 <li><a href="/sohnews/20240914/2088149.md">躺平了！习近平不再提中国经济</a></li>
 <li><a href="/sohnews/20240913/2088109.md">习近平现身甘肃麦积山石窟、伏羲庙！政治经济压力山大，他去那边干嘛？全网最有钱豪门大小姐“亿颜LuLu”是谁？全网都在搜！</a></li>
 <li><a href="/sohnews/20240914/2088196.md">当局宣布延迟退休，民怨沸腾！</a></li>
 <li><a href="/sohnews/20240913/2088116.md">中共没钱了？上证守不住2700，国家队见死难救</a></li>
 <li><a href="/sohnews/20240914/2088127.md">经济越来越差，真能熬过所有苦吗？</a></li>
+<li><a href="/ccpdope/20240914/2088231.md">私生子被灭门？网传习近平急赴陕西处理后事</a></li>
 <li><a href="/sohnews/20240914/2088206.md">揭秘：习近平此行实为考察秦岭中央避难所，大师给习卜卦照实直言，佛像前习沉重忏悔。《老灯开讲第665期》</a></li>
 <li><a href="/sohnews/20240914/2088153.md">“延迟退休”的本质是什么？你可能什么钱都拿不到！普京“大反攻”要烂尾？乌军出人意料又出一招！｜远见快评 唐靖远</a></li>
 <li><a href="/sohnews/20240914/2088214.md">不明飞行物入侵天津，因当局在天津部署核弹！30国联军黄海军演，北京无力应对！</a></li>
-<li><a href="/ccpdope/20240914/2088231.md">私生子被灭门？网传习近平急赴陕西处理后事</a></li>
 <li><a href="/sohnews/20240913/2088111.md">🔥📉中国大学跌得最惨的专业，今年彻底崩了；中国大饥荒或再现？“这新闻出来了 就离饿没命 不准要饭不远了” ；大陆这一行没指望了！眼睁睁看着失业大潮涌进这里</a></li>
 <li><a href="/sohnews/20240914/2088178.md">习近平亲自提拔重用的高级将领魏凤｜百年真相shorts</a></li>
-<li><a href="/comments/20240913/2088078.md">ABC举报人将揭电视辩论黑幕。海地移民涌入俄亥俄小镇，比吃猫吃狗更可怕。川普电视辩论海地移民</a></li>
 <li><a href="/sohnews/20240914/2088197.md">“延迟退休”引全社会反弹！官媒急关评论区！《中青报》悄悄删除批评延迟退休旧文，清华教授猛批：权力无限的政府，责任却有限！网评：明著抢钱！天津、河北、大连密集发现不明物，北京战机起飞？｜大宇拍案惊奇</a></li>
+<li><a href="/comments/20240913/2088078.md">ABC举报人将揭电视辩论黑幕。海地移民涌入俄亥俄小镇，比吃猫吃狗更可怕。川普电视辩论海地移民</a></li>
 <li><a href="/sohnews/20240914/2088158.md">A股上市公司高管排队辞职，金融系统崩溃前兆？中共人大审议“延迟退休”，避谈2问题， 专家析三原因...</a></li>
 <li><a href="/comments/20240914/2088188.md">众议院一口气28项中国法案，是要做啥？</a></li>
 <li><a href="/sohnews/20240914/2088198.md">中共人大审议延迟退休 专家分析原因</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/itnews/20240913/2088092.md">勒索团伙声称窃取了中国工商银行伦敦分行6.6TB文件并威胁将其公布</a></li>
 <li><a href="/comments/20240913/2088084.md">长超美外星人 就为一件事 选中这个人！美军基地奇遇；超白皮肤、瘦高、大眼睛⋯还机敏异常！和高白外星人共事，千万要小心！｜未解之谜</a></li>
 <li><a href="/sohnews/20240914/2088176.md">A股上市公司高管排队辞职 金融系统崩溃前兆？</a></li>
+<li><a href="/sohnews/20240914/2088180.md">90后中国女孩伪造身分当上菲律宾市长，一手打造庞大黑产帝国！从美女市长到诈骗园区女魔头，一个福建女人的奇幻漂流！‘新闻最嘲点 姜光宇’2024.0913</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240914/2088551.md" target="_blank">拜登的高光时刻</a></li>
+<li><a href="/comments/20240914/2088550.md" target="_blank">哈里斯来了 VS 川普来了</a></li>
 <li><a href="/cbnews/20240914/2088411.md" target="_blank">传被取代的习监军钟绍军去向神秘 方永祥任新职</a></li>
 <li><a href="/cbnews/20240914/2088410.md" target="_blank">陕西诡异大案最新消息：传高官被灭门 五嫌犯是退伍兵</a></li>
 <li><a href="/cbnews/20240914/2088409.md" target="_blank">说“俄罗斯必败”刘亚洲接班人触怒高层 微博被封</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20240914/2088391.md" target="_blank">钱塘江拍到水怪？目击者：有七八米长</a></li>
 <li><a href="/cbnews/20240914/2088390.md" target="_blank">全红婵在老家阳台崩溃喊：回去吧太吵了</a></li>
 <li><a href="/cbnews/20240914/2088389.md" target="_blank">深圳男子闹市持双刀乱舞 砍伤公安</a></li>
-<li><a href="/cbnews/20240914/2088388.md" target="_blank">天津机场乱套了！抓拍曝光 两天连现不明飞行物</a></li>
-<li><a href="/cbnews/20240914/2088387.md" target="_blank">中国院士回应中国AI落后美国：正常 国足更落后</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240914/2088551.md" target="_blank">拜登的高光时刻</a></li>
+<li><a href="/comments/20240914/2088550.md" target="_blank">哈里斯来了 VS 川普来了</a></li>
+<li><a href="/comments/20240914/2088549.md" target="_blank">【林语非论】美国大选对中国人意味著甚么？</a></li>
+<li><a href="/comments/20240914/2088544.md" target="_blank">评论｜唯色：重又推出西藏文革泥塑《农奴愤》只是出于怀旧吗？（七）</a></li>
 <li><a href="/comments/20240914/2088477.md" target="_blank">绝大多数摇摆选民认为哈里斯赢得辩论 但大多数人决定投给川普</a></li>
 <li><a href="/comments/20240914/2088476.md" target="_blank">特朗普遇刺后，中国水军升级“MAGA伪装”试图影响美大选舆论</a></li>
 <li><a href="/comments/20240914/2088475.md" target="_blank">旧文重温:兽楼处｜送养公告收集者的二十年</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20240914/2088337.md" target="_blank">天亮时分：1000多中国大陆金融高管接连辞职，折射了什麽？</a></li>
 <li><a href="/comments/20240914/2088336.md" target="_blank">天亮时分：泽连斯基：中共提出的和平建议具有破坏性</a></li>
 <li><a href="/comments/20240914/2088335.md" target="_blank">天亮时分：中国金融高管排队辞职，大萧条将至，习神情落寞看佛像；泽连斯基怒了，将亲见习近平（政论天下第1405集 20240912）天亮时分</a></li>
-<li><a href="/comments/20240914/2088334.md" target="_blank">中共海陆空可怕大清洗，习近平为党掘墓？张又侠紧张；普京呼救：克宫告急，北京快来调停！英美放辣招，俄罗斯慌了</a></li>
-<li><a href="/comments/20240914/2088333.md" target="_blank">来人！把习思想给我塞进去！中小学全面遭遇&quot;习&quot;击💥共党已经强制学习思想4年了</a></li>
-<li><a href="/comments/20240914/2088332.md" target="_blank">《八上物理教材》成禁书！新课本没了🎊哪一个错字？ #习近平 不能接受？ 新华书店瞎扯：教材舆情的防控要求&#8230;</a></li>
-<li><a href="/comments/20240914/2088331.md" target="_blank">全网黑习近平文章不删贴，组织者是蔡奇？华春莹实话梗图：我们就是个骗子！开学季物理课本辱华，紧急召回原因笑喷</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/taiwannews/20210119/1470524.md" target="_blank">纪录片《蚕食美国1》</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20190220/1083672.md" target="_blank">胡平：法轮功与其他一些宗教或信仰之比较</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20231214/1974098.md" target="_blank">美国众议院议长：我所坚守的保守主义，具体是些什么内容？</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/cbnews/20240603/2045072.md" target="_blank">漫谈古代科举之八股文</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
+<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/cbnews/20240904/2083703.md" target="_blank">复眼与变态 昆虫奥秘令进化论失据</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/aomi/life/20240330/2018911.md" target="_blank">挪威青年这样走出重度失眠和抑郁煎熬</a></li>
 
 </ul>
 </div>
