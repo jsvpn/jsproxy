@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/sohnews/20240913/2088055.md">咸阳五义士迎接习近平，天津机场不明飞行物是美军飞行器，威胁搞二次文革是习的诡计。《老灯开讲第664期》</a></li>
 <li><a href="/sohnews/20240913/2088072.md">陈破空：习大病后首次出京，暴瘦，发呆！要求随从和群众演员越站越远。蔡奇陪同神情哀戚。到甘肃不敢走李克强游览路线。陕西刚发生那件事。直播与互动：美东时间9月13日早9点、中港台当晚9点</a></li>
 <li><a href="/sohnews/20240913/2088081.md">蔡慎坤：无人机偷袭天津机场，也瘫痪了天津机场。无人机从哪里来？狙击手在哪里？去了？机场防卫如此脆弱，天津离北京仅100公里。无人机接连两天偷袭同一机场，有意思。</a></li>
 <li><a href="/sohnews/20240914/2088149.md">躺平了！习近平不再提中国经济</a></li>
 <li><a href="/comments/20240913/2088058.md">你说了那么多美好的愿景 三年半了 你们都做了什么？</a></li>
 <li><a href="/sohnews/20240913/2088109.md">习近平现身甘肃麦积山石窟、伏羲庙！政治经济压力山大，他去那边干嘛？全网最有钱豪门大小姐“亿颜LuLu”是谁？全网都在搜！</a></li>
 <li><a href="/sohnews/20240913/2088116.md">中共没钱了？上证守不住2700，国家队见死难救</a></li>
-<li><a href="/itnews/20240913/2088064.md">中国渐进式延迟法定退休年龄明年起施行</a></li>
-<li><a href="/comments/20240913/2088059.md">亲眼所见我都不敢相信 地瓜就这么出炉了？</a></li>
 <li><a href="/sohnews/20240914/2088196.md">当局宣布延迟退休，民怨沸腾！</a></li>
+<li><a href="/comments/20240913/2088059.md">亲眼所见我都不敢相信 地瓜就这么出炉了？</a></li>
+<li><a href="/itnews/20240913/2088064.md">中国渐进式延迟法定退休年龄明年起施行</a></li>
 <li><a href="/sohnews/20240914/2088127.md">经济越来越差，真能熬过所有苦吗？</a></li>
 <li><a href="/sohnews/20240914/2088153.md">“延迟退休”的本质是什么？你可能什么钱都拿不到！普京“大反攻”要烂尾？乌军出人意料又出一招！｜远见快评 唐靖远</a></li>
-<li><a href="/comments/20240913/2088078.md">ABC举报人将揭电视辩论黑幕。海地移民涌入俄亥俄小镇，比吃猫吃狗更可怕。川普电视辩论海地移民</a></li>
 <li><a href="/sohnews/20240914/2088178.md">习近平亲自提拔重用的高级将领魏凤｜百年真相shorts</a></li>
+<li><a href="/comments/20240913/2088078.md">ABC举报人将揭电视辩论黑幕。海地移民涌入俄亥俄小镇，比吃猫吃狗更可怕。川普电视辩论海地移民</a></li>
 <li><a href="/sohnews/20240914/2088158.md">A股上市公司高管排队辞职，金融系统崩溃前兆？中共人大审议“延迟退休”，避谈2问题， 专家析三原因...</a></li>
 <li><a href="/sohnews/20240913/2088111.md">🔥📉中国大学跌得最惨的专业，今年彻底崩了；中国大饥荒或再现？“这新闻出来了 就离饿没命 不准要饭不远了” ；大陆这一行没指望了！眼睁睁看着失业大潮涌进这里</a></li>
-<li><a href="/sohnews/20240913/2088057.md">台湾惊现“地龙翻身”3大征兆❗9月有大伤亡地震爆发❓预言恐将应验❓❗</a></li>
 <li><a href="/comments/20240914/2088188.md">众议院一口气28项中国法案，是要做啥？</a></li>
 <li><a href="/sohnews/20240914/2088197.md">“延迟退休”引全社会反弹！官媒急关评论区！《中青报》悄悄删除批评延迟退休旧文，清华教授猛批：权力无限的政府，责任却有限！网评：明著抢钱！天津、河北、大连密集发现不明物，北京战机起飞？｜大宇拍案惊奇</a></li>
+<li><a href="/sohnews/20240914/2088206.md">揭秘：习近平此行实为考察秦岭中央避难所，大师给习卜卦照实直言，佛像前习沉重忏悔。《老灯开讲第665期》</a></li>
+<li><a href="/sohnews/20240913/2088057.md">台湾惊现“地龙翻身”3大征兆❗9月有大伤亡地震爆发❓预言恐将应验❓❗</a></li>
 <li><a href="/comments/20240913/2088084.md">长超美外星人 就为一件事 选中这个人！美军基地奇遇；超白皮肤、瘦高、大眼睛⋯还机敏异常！和高白外星人共事，千万要小心！｜未解之谜</a></li>
 <li><a href="/sohnews/20240913/2088074.md">与毛泽东朱德齐名的中共红军元老，为何在1935年脱离了中共？｜百年真相</a></li>
-<li><a href="/sohnews/20240914/2088206.md">揭秘：习近平此行实为考察秦岭中央避难所，大师给习卜卦照实直言，佛像前习沉重忏悔。《老灯开讲第665期》</a></li>
 <li><a href="/itnews/20240913/2088092.md">勒索团伙声称窃取了中国工商银行伦敦分行6.6TB文件并威胁将其公布</a></li>
+<li><a href="/sohnews/20240914/2088214.md">不明飞行物入侵天津，因当局在天津部署核弹！30国联军黄海军演，北京无力应对！</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
-<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
-<li><a href="/bblog/20240813/2073608.md" target="_blank">惊人内幕：脑死亡不是死亡，只是深度昏迷骗你捐器官</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/topimagenews/20200514/1328456.md" target="_blank">穿越时空 谢田教授亲身体验人体特异功能</a></li>
 <li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/tculture/20240815/2074891.md" target="_blank">松果体 谜一样的器官</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/comments/20240418/2026391.md" target="_blank">医生劝我妻子放弃，似乎这些医生热衷让病人快点去死？</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/cbnews/20231208/1971389.md" target="_blank">话说中医之祝由科</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
 <li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/comments/20231223/1978148.md" target="_blank">医山夜话：张锡纯医案解读（三）赭石：降胃气 引火下行</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20240825/2079044.md" target="_blank">谁是创世主</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
 
 </ul>
 </div>
