@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/sohnews/20240913/2088081.md">蔡慎坤：无人机偷袭天津机场，也瘫痪了天津机场。无人机从哪里来？狙击手在哪里？去了？机场防卫如此脆弱，天津离北京仅100公里。无人机接连两天偷袭同一机场，有意思。</a></li>
 <li><a href="/sohnews/20240914/2088149.md">躺平了！习近平不再提中国经济</a></li>
 <li><a href="/sohnews/20240913/2088109.md">习近平现身甘肃麦积山石窟、伏羲庙！政治经济压力山大，他去那边干嘛？全网最有钱豪门大小姐“亿颜LuLu”是谁？全网都在搜！</a></li>
-<li><a href="/sohnews/20240914/2088196.md">当局宣布延迟退休，民怨沸腾！</a></li>
 <li><a href="/sohnews/20240913/2088116.md">中共没钱了？上证守不住2700，国家队见死难救</a></li>
 <li><a href="/ccpdope/20240914/2088231.md">私生子被灭门？网传习近平急赴陕西处理后事</a></li>
+<li><a href="/sohnews/20240914/2088196.md">当局宣布延迟退休，民怨沸腾！</a></li>
+<li><a href="/sohnews/20240914/2088214.md">不明飞行物入侵天津，因当局在天津部署核弹！30国联军黄海军演，北京无力应对！</a></li>
 <li><a href="/sohnews/20240914/2088127.md">经济越来越差，真能熬过所有苦吗？</a></li>
 <li><a href="/sohnews/20240914/2088206.md">揭秘：习近平此行实为考察秦岭中央避难所，大师给习卜卦照实直言，佛像前习沉重忏悔。《老灯开讲第665期》</a></li>
-<li><a href="/sohnews/20240914/2088214.md">不明飞行物入侵天津，因当局在天津部署核弹！30国联军黄海军演，北京无力应对！</a></li>
 <li><a href="/sohnews/20240914/2088153.md">“延迟退休”的本质是什么？你可能什么钱都拿不到！普京“大反攻”要烂尾？乌军出人意料又出一招！｜远见快评 唐靖远</a></li>
 <li><a href="/sohnews/20240913/2088111.md">🔥📉中国大学跌得最惨的专业，今年彻底崩了；中国大饥荒或再现？“这新闻出来了 就离饿没命 不准要饭不远了” ；大陆这一行没指望了！眼睁睁看着失业大潮涌进这里</a></li>
 <li><a href="/sohnews/20240914/2088178.md">习近平亲自提拔重用的高级将领魏凤｜百年真相shorts</a></li>
 <li><a href="/sohnews/20240914/2088197.md">“延迟退休”引全社会反弹！官媒急关评论区！《中青报》悄悄删除批评延迟退休旧文，清华教授猛批：权力无限的政府，责任却有限！网评：明著抢钱！天津、河北、大连密集发现不明物，北京战机起飞？｜大宇拍案惊奇</a></li>
-<li><a href="/comments/20240913/2088078.md">ABC举报人将揭电视辩论黑幕。海地移民涌入俄亥俄小镇，比吃猫吃狗更可怕。川普电视辩论海地移民</a></li>
 <li><a href="/sohnews/20240914/2088158.md">A股上市公司高管排队辞职，金融系统崩溃前兆？中共人大审议“延迟退休”，避谈2问题， 专家析三原因...</a></li>
 <li><a href="/comments/20240914/2088188.md">众议院一口气28项中国法案，是要做啥？</a></li>
+<li><a href="/ccpdope/20240914/2088227.md">习近平提「党中央集中统一领导」不寻常</a></li>
 <li><a href="/sohnews/20240914/2088198.md">中共人大审议延迟退休 专家分析原因</a></li>
 <li><a href="/sohnews/20240914/2088199.md">“UFO还是无人机 ⋯ 其实很容易分辨 ！”No 06（09 13 24）</a></li>
-<li><a href="/ccpdope/20240914/2088227.md">习近平提「党中央集中统一领导」不寻常</a></li>
-<li><a href="/itnews/20240913/2088092.md">勒索团伙声称窃取了中国工商银行伦敦分行6.6TB文件并威胁将其公布</a></li>
-<li><a href="/comments/20240913/2088084.md">长超美外星人 就为一件事 选中这个人！美军基地奇遇；超白皮肤、瘦高、大眼睛⋯还机敏异常！和高白外星人共事，千万要小心！｜未解之谜</a></li>
 <li><a href="/topimagenews/20240914/2088366.md">【微博精粹】刘天王三连跌V.s习总陷死循环 都和一女有关</a></li>
+<li><a href="/baitai/20240914/2088294.md">102岁杨振宁月薪惊人！工资全数上交，难怪：翁帆看不上那点遗产</a></li>
+<li><a href="/itnews/20240913/2088092.md">勒索团伙声称窃取了中国工商银行伦敦分行6.6TB文件并威胁将其公布</a></li>
+<li><a href="/cbnews/20240914/2088388.md">天津机场乱套了！抓拍曝光 两天连现不明飞行物</a></li>
 <li><a href="/sohnews/20240914/2088176.md">A股上市公司高管排队辞职 金融系统崩溃前兆？</a></li>
+<li><a href="/cbnews/20240914/2088410.md">陕西诡异大案最新消息：传高官被灭门 五嫌犯是退伍兵</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/taiwannews/20210119/1470761.md" target="_blank">独家：震撼纪录片《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20240813/2074068.md" target="_blank">天眼所见自杀者的悲惨境况，人一定要珍惜生命</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/cbnews/20240715/2062387.md" target="_blank">尧帝治世之道（一）</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20231130/1967587.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （一）</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
 <li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20240623/2053092.md" target="_blank">章天亮：那些行于世间的觉者</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20231207/1970628.md" target="_blank">民兵对官军，希望之声打造广播界的奇蹟【方伟时间-20231206】</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20240828/2080320.md" target="_blank">惠虎宇：与AI聊传统宗教、科学和修炼</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
 <li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20210819/1609103.md" target="_blank">浅谈中医与西医的不同之处</a></li>
 
 </ul>
 </div>
