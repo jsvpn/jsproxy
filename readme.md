@@ -9,25 +9,25 @@
 <li><a href="/cbnews/20240914/2088747.md">中共陆军副司令邓志平早被密捕 12名将军被罢免</a></li>
 <li><a href="/topimagenews/20240915/2088828.md">关闭中国航线，连他们也开始了</a></li>
 <li><a href="/cbnews/20240915/2088899.md">知情人爆陕西高官灭门案内情</a></li>
-<li><a href="/baitai/20240914/2088658.md">又和军方有关？ 天津无人机又曝端倪</a></li>
 <li><a href="/topimagenews/20240915/2088979.md">习近平要实行世袭制？或正在物色二传手</a></li>
+<li><a href="/baitai/20240914/2088658.md">又和军方有关？ 天津无人机又曝端倪</a></li>
 <li><a href="/cbnews/20240914/2088672.md">〖红朝浮世绘〗俄罗斯人上街高呼“普京下台” 中国人啥时候行动？</a></li>
 <li><a href="/baitai/20240915/2088837.md">突发！特朗普的最新“好运”</a></li>
 <li><a href="/baitai/20240915/2088810.md">“我被美国间谍盯上了！”广西一女子向警方求助，警察以为报假警，结果一问震惊不已</a></li>
 <li><a href="/cbnews/20240915/2088842.md">习脸上无光 不让秦刚对外招摇？</a></li>
-<li><a href="/sohnews/20240915/2088881.md">2疑犯已经自首，习私生子被害？咸阳案疑团重重，主嫌大有来头；观众互动：孙准浩与豫章书院【新闻看点 李沐阳9.14】</a></li>
 <li><a href="/baitai/20240915/2088798.md">湖北妈妈肾衰竭，移植7岁儿子的肾，得救后：我的孩子，你安心走吧</a></li>
+<li><a href="/sohnews/20240915/2088881.md">2疑犯已经自首，习私生子被害？咸阳案疑团重重，主嫌大有来头；观众互动：孙准浩与豫章书院【新闻看点 李沐阳9.14】</a></li>
 <li><a href="/baitai/20240915/2088839.md">李佩霞的情场手段与狠辣决绝，令人唏嘘</a></li>
 <li><a href="/topimagenews/20240915/2088929.md">【微博精粹】黄俄它爹危了 俄罗斯人民轰普京下台</a></li>
 <li><a href="/topimagenews/20240915/2088826.md">中国男驾艇抵台 上岸一开口说了3个字</a></li>
+<li><a href="/topimagenews/20240915/2088994.md">包括中共军委主席！美军特种部队斩首计划？</a></li>
+<li><a href="/cbnews/20240915/2089042.md">王岐山不能再撑伞挡雨 大家都纷纷举起白旗</a></li>
 <li><a href="/cbnews/20240914/2088745.md">北京出现不明飞行物 目击者：在空中大范围旋转</a></li>
 <li><a href="/cbnews/20240914/2088671.md">〖红朝浮世绘〗习近平整个人长得都辱华，网友们为啥非要抗议苹果呢？</a></li>
 <li><a href="/baitai/20240915/2088807.md">拒绝霍启山的跳水皇后：3岁被父母抛弃、获22个冠军后被生母求相认，她一句话出人意料……</a></li>
-<li><a href="/topimagenews/20240915/2088994.md">包括中共军委主席！美军特种部队斩首计划？</a></li>
-<li><a href="/cbnews/20240915/2089042.md">王岐山不能再撑伞挡雨 大家都纷纷举起白旗</a></li>
-<li><a href="/baitai/20240914/2088661.md">罕见 红二代怒骂习？</a></li>
 <li><a href="/topimagenews/20240915/2088854.md">惊人发现！川普此话一出 他们立场大变【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20240915/2088898.md">担心危机重演！习近平这个大梦也会烂尾</a></li>
+<li><a href="/baitai/20240914/2088661.md">罕见 红二代怒骂习？</a></li>
+<li><a href="/sohnews/20240915/2088996.md">习近平赞人大制度是伟大创举，网友骂声一片！习近平被拒参加军事会议，说明习被剥夺了军权！</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/cbnews/20240715/2062387.md" target="_blank">尧帝治世之道（一）</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
-<li><a href="/comments/20190219/1082706.md" target="_blank">胡平：法轮功信仰自由，江泽民精神控制</a></li>
-<li><a href="/taiwannews/20210119/1470524.md" target="_blank">纪录片《蚕食美国1》</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20210819/1609103.md" target="_blank">浅谈中医与西医的不同之处</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
 
 </ul>
 </div>
