@@ -10,21 +10,21 @@
 <li><a href="/topimagenews/20240915/2088979.md">习近平要实行世袭制？或正在物色二传手</a></li>
 <li><a href="/cbnews/20240915/2089042.md">王岐山不能再撑伞挡雨 大家都纷纷举起白旗</a></li>
 <li><a href="/cbnews/20240915/2088842.md">习脸上无光 不让秦刚对外招摇？</a></li>
-<li><a href="/baitai/20240915/2088837.md">突发！特朗普的最新“好运”</a></li>
 <li><a href="/sohnews/20240915/2088881.md">2疑犯已经自首，习私生子被害？咸阳案疑团重重，主嫌大有来头；观众互动：孙准浩与豫章书院【新闻看点 李沐阳9.14】</a></li>
+<li><a href="/baitai/20240915/2088837.md">突发！特朗普的最新“好运”</a></li>
 <li><a href="/baitai/20240915/2089029.md">是UFO 还是无人机闯入？ 天津机场连续两天大乱 大量航班无法起降 数千名旅客受到影响</a></li>
 <li><a href="/baitai/20240915/2088839.md">李佩霞的情场手段与狠辣决绝，令人唏嘘</a></li>
 <li><a href="/sohnews/20240915/2089048.md">🔥🔥北京惊现不明飞行物 外星人再戏中共❗钱塘江拍到8米长不明物 水下快速移动❗天津三次被UFO入侵❗大量外星人访问中国 要出大事了❓❗</a></li>
-<li><a href="/topimagenews/20240915/2088929.md">【微博精粹】黄俄它爹危了 俄罗斯人民轰普京下台</a></li>
 <li><a href="/topimagenews/20240915/2089041.md">泰勒丝力挺反害了贺锦丽 惊人民调出炉</a></li>
+<li><a href="/topimagenews/20240915/2088929.md">【微博精粹】黄俄它爹危了 俄罗斯人民轰普京下台</a></li>
 <li><a href="/cnnews/20240915/2089019.md">许家印奇迹般地又回来了 这背后有什么深意</a></li>
 <li><a href="/topimagenews/20240915/2088994.md">包括中共军委主席！美军特种部队斩首计划？</a></li>
 <li><a href="/sohnews/20240915/2088996.md">习近平赞人大制度是伟大创举，网友骂声一片！习近平被拒参加军事会议，说明习被剥夺了军权！</a></li>
 <li><a href="/topimagenews/20240915/2088826.md">中国男驾艇抵台 上岸一开口说了3个字</a></li>
 <li><a href="/health/20240915/2089060.md">骨科专家：它比跑步更毁膝盖！危害极大，你却天天在做…</a></li>
 <li><a href="/topimagenews/20240915/2088898.md">担心危机重演！习近平这个大梦也会烂尾</a></li>
-<li><a href="/baitai/20240915/2089075.md">崩了，陈皮市场暴雷了</a></li>
 <li><a href="/sohnews/20240915/2089073.md">陈破空：习突然反扑，接连逮捕张又侠亲信。政变一触即发！故意高调重复公布开除李尚福。美国海豹突击队秘密备战，目标就是他？若共军胆敢攻台。直播与互动：美东时间9月15日早9点、中港台当晚9点</a></li>
+<li><a href="/baitai/20240915/2089075.md">崩了，陈皮市场暴雷了</a></li>
 <li><a href="/funmedia/20240915/2089014.md">56岁“禁欲”大妈18平蜗居曝光 被百万人羡慕</a></li>
 <li><a href="/ccpdope/20240915/2089008.md">不明飞行物侵入北京 天津滨海机场出大事了</a></li>
 <li><a href="/topimagenews/20240915/2088854.md">惊人发现！川普此话一出 他们立场大变【阿波罗网报道】</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20240820/2076928.md" target="_blank">惠虎宇：中华文化为什么是高级文化系统(1)</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/tculture/20231119/1962827.md" target="_blank">六道轮回之地狱道</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
 <li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20240820/2076958.md" target="_blank">惠虎宇：中华文化为什么是高级文化系统(3)</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/comments/20231204/1969287.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （三）</a></li>
-<li><a href="/comments/20240808/2071869.md" target="_blank">【新纪元】被误解的大脑</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
 
 </ul>
 </div>
