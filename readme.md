@@ -10,24 +10,24 @@
 <li><a href="/topimagenews/20240915/2088828.md">关闭中国航线，连他们也开始了</a></li>
 <li><a href="/cbnews/20240915/2088899.md">知情人爆陕西高官灭门案内情</a></li>
 <li><a href="/topimagenews/20240915/2088979.md">习近平要实行世袭制？或正在物色二传手</a></li>
-<li><a href="/baitai/20240914/2088658.md">又和军方有关？ 天津无人机又曝端倪</a></li>
 <li><a href="/cbnews/20240914/2088672.md">〖红朝浮世绘〗俄罗斯人上街高呼“普京下台” 中国人啥时候行动？</a></li>
-<li><a href="/baitai/20240915/2088837.md">突发！特朗普的最新“好运”</a></li>
-<li><a href="/cbnews/20240915/2088842.md">习脸上无光 不让秦刚对外招摇？</a></li>
-<li><a href="/baitai/20240915/2088810.md">“我被美国间谍盯上了！”广西一女子向警方求助，警察以为报假警，结果一问震惊不已</a></li>
 <li><a href="/cbnews/20240915/2089042.md">王岐山不能再撑伞挡雨 大家都纷纷举起白旗</a></li>
+<li><a href="/baitai/20240915/2088837.md">突发！特朗普的最新“好运”</a></li>
+<li><a href="/baitai/20240915/2088810.md">“我被美国间谍盯上了！”广西一女子向警方求助，警察以为报假警，结果一问震惊不已</a></li>
+<li><a href="/cbnews/20240915/2088842.md">习脸上无光 不让秦刚对外招摇？</a></li>
 <li><a href="/baitai/20240915/2088798.md">湖北妈妈肾衰竭，移植7岁儿子的肾，得救后：我的孩子，你安心走吧</a></li>
 <li><a href="/sohnews/20240915/2088881.md">2疑犯已经自首，习私生子被害？咸阳案疑团重重，主嫌大有来头；观众互动：孙准浩与豫章书院【新闻看点 李沐阳9.14】</a></li>
 <li><a href="/baitai/20240915/2088839.md">李佩霞的情场手段与狠辣决绝，令人唏嘘</a></li>
-<li><a href="/topimagenews/20240915/2088994.md">包括中共军委主席！美军特种部队斩首计划？</a></li>
 <li><a href="/topimagenews/20240915/2088929.md">【微博精粹】黄俄它爹危了 俄罗斯人民轰普京下台</a></li>
-<li><a href="/topimagenews/20240915/2088826.md">中国男驾艇抵台 上岸一开口说了3个字</a></li>
+<li><a href="/topimagenews/20240915/2088994.md">包括中共军委主席！美军特种部队斩首计划？</a></li>
+<li><a href="/cnnews/20240915/2089019.md">许家印奇迹般地又回来了 这背后有什么深意</a></li>
 <li><a href="/sohnews/20240915/2088996.md">习近平赞人大制度是伟大创举，网友骂声一片！习近平被拒参加军事会议，说明习被剥夺了军权！</a></li>
+<li><a href="/topimagenews/20240915/2088826.md">中国男驾艇抵台 上岸一开口说了3个字</a></li>
 <li><a href="/cbnews/20240914/2088745.md">北京出现不明飞行物 目击者：在空中大范围旋转</a></li>
 <li><a href="/cbnews/20240914/2088671.md">〖红朝浮世绘〗习近平整个人长得都辱华，网友们为啥非要抗议苹果呢？</a></li>
-<li><a href="/cnnews/20240915/2089019.md">许家印奇迹般地又回来了 这背后有什么深意</a></li>
 <li><a href="/baitai/20240915/2088807.md">拒绝霍启山的跳水皇后：3岁被父母抛弃、获22个冠军后被生母求相认，她一句话出人意料……</a></li>
-<li><a href="/topimagenews/20240915/2088854.md">惊人发现！川普此话一出 他们立场大变【阿波罗网报道】</a></li>
+<li><a href="/baitai/20240915/2089029.md">是UFO 还是无人机闯入？ 天津机场连续两天大乱 大量航班无法起降 数千名旅客受到影响</a></li>
+<li><a href="/topimagenews/20240915/2089041.md">泰勒丝力挺反害了贺锦丽 惊人民调出炉</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240915/2089106.md" target="_blank">川普拒绝另一场辩论的真实原因。哈里斯内部民意调查让她震惊！ABC辟谣，但女主持却全招了。川普哈里斯电视辩论</a></li>
 <li><a href="/cbnews/20240915/2089103.md" target="_blank">吹牛救经济？习近平：中国人大是“人类政治制度史上的伟大创造”</a></li>
 <li><a href="/cbnews/20240915/2089042.md" target="_blank">王岐山不能再撑伞挡雨 大家都纷纷举起白旗</a></li>
 <li><a href="/cbnews/20240915/2089013.md" target="_blank">中国“被信任的斧头砍了脚背”</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20240915/2088814.md" target="_blank">川普拒绝辩论之后，还会再辩吗？</a></li>
 <li><a href="/comments/20240914/2088749.md" target="_blank">川普深入哈里斯地盘，说出电视辩论中没说的话。赞扬马斯克。名为筹款，意在翻转加州。川普哈里斯马斯克</a></li>
 <li><a href="/cbnews/20240914/2088748.md" target="_blank">贸易战再起？除要对中国电动车课100%关税 美国还祭多项惩罚性关税</a></li>
-<li><a href="/cbnews/20240914/2088747.md" target="_blank">中共陆军副司令邓志平早被密捕 12名将军被罢免</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240915/2089106.md" target="_blank">川普拒绝另一场辩论的真实原因。哈里斯内部民意调查让她震惊！ABC辟谣，但女主持却全招了。川普哈里斯电视辩论</a></li>
 <li><a href="/comments/20240915/2089097.md" target="_blank">俄罗斯这军武是怎麽来的👀美副国务卿强调：中共提供的根本不是军民两用</a></li>
 <li><a href="/comments/20240915/2088980.md" target="_blank">吃好喝好🌕大家打算怎么过中秋节啊🥮未解之谜扶摇</a></li>
 <li><a href="/comments/20240915/2088933.md" target="_blank">林锡星：东靠西靠就是不想靠中国─&#8211;缅甸骨子里对中国的忌惮</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240914/2088718.md" target="_blank">赖清德第二击：中共大运走完，台湾向习说NO！李毅哈美再破纪录？30万订阅彩蛋：哥俩第一集节目啥德性？</a></li>
 <li><a href="/comments/20240914/2088712.md" target="_blank">【前美驻UN大使吁台湾作“太平洋的波兰”】【防范“零日攻击”】</a></li>
 <li><a href="/comments/20240914/2088612.md" target="_blank">时事大家谈：延迟退休喊了十几年，为何这只靴子现在要落地？&quot;在中国赚钱变得越来越难！&quot; 景气低迷是长痛还是短痛？</a></li>
-<li><a href="/comments/20240914/2088611.md" target="_blank">时事大家谈：&quot;在中国赚钱变得越来越难！&quot; 景气低迷是长痛还是短痛？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
-<li><a href="/cbnews/20190701/1151453.md" target="_blank">盘点十大邪教特征 中共条条对号入座</a></li>
-<li><a href="/sohnews/20240908/2085761.md" target="_blank">初次见到神；看到兽的印记；目睹灾难来临时什么样的人会被留下</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/comments/20240820/2076774.md" target="_blank">胡平：批判法轮功的人,为何不用同样标准分析其他宗教</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
+<li><a href="/taiwannews/20210119/1470524.md" target="_blank">纪录片《蚕食美国1》</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
 <li><a href="/comments/20240412/2024185.md" target="_blank">是治疗还是屠杀?化疗药品滴一滴在皮肤即灼伤，很长时间才好</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
-<li><a href="/tculture/20240904/2083774.md" target="_blank">“几生修得到梅花”之生命品格浅议</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
 <li><a href="/comments/20240704/2058130.md" target="_blank">百年梦醒（十八）：共产魔教的机制、前所未有的巨大野心</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/cbnews/20240603/2045072.md" target="_blank">漫谈古代科举之八股文</a></li>
+<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/topimagenews/20180608/954788.md" target="_blank">安乐死根本安乐不了，别宣传了</a></li>
+<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20240801/2069416.md" target="_blank">无神论和有神论深度解析</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
 
 </ul>
 </div>
