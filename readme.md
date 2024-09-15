@@ -21,10 +21,10 @@
 <li><a href="/sohnews/20240915/2089073.md">陈破空：习突然反扑，接连逮捕张又侠亲信。政变一触即发！故意高调重复公布开除李尚福。美国海豹突击队秘密备战，目标就是他？若共军胆敢攻台。直播与互动：美东时间9月15日早9点、中港台当晚9点</a></li>
 <li><a href="/baitai/20240915/2089075.md">崩了，陈皮市场暴雷了</a></li>
 <li><a href="/topimagenews/20240915/2088898.md">担心危机重演！习近平这个大梦也会烂尾</a></li>
-<li><a href="/funmedia/20240915/2089014.md">56岁“禁欲”大妈18平蜗居曝光 被百万人羡慕</a></li>
 <li><a href="/ccpdope/20240915/2089008.md">不明飞行物侵入北京 天津滨海机场出大事了</a></li>
+<li><a href="/funmedia/20240915/2089014.md">56岁“禁欲”大妈18平蜗居曝光 被百万人羡慕</a></li>
 <li><a href="/sohnews/20240915/2089146.md">金正恩健康恶化，女儿可能很快将接班掌权</a></li>
-<li><a href="/topimagenews/20240915/2088854.md">惊人发现！川普此话一出 他们立场大变【阿波罗网报道】</a></li>
+<li><a href="/baitai/20240916/2089152.md">胡退休后这几年在干啥...</a></li>
 <li><a href="/baitai/20240915/2089022.md">和习一小伙人的生死博弈 即将上演</a></li>
 <li><a href="/worldnews/20240915/2089015.md">以色列特种兵又干了一票大的</a></li>
 <li><a href="/topimagenews/20240915/2088897.md">今夜会不会来 天津机场遭故意砸场子？</a></li>
@@ -66,6 +66,9 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240916/2089226.md" target="_blank">雪崩，广东人迎来自己的鹤岗</a></li>
+<li><a href="/topimagenews/20240916/2089225.md" target="_blank">“北漂终点”天津楼市塌房</a></li>
+<li><a href="/topimagenews/20240916/2089224.md" target="_blank">70亿下落不明，首富是怎么被搞“死”的？</a></li>
 <li><a href="/topimagenews/20240916/2089207.md" target="_blank">FBI：川普附近发生枪击 “明显看似企图暗杀”</a></li>
 <li><a href="/topimagenews/20240916/2089206.md" target="_blank">离开即奖励24万人民币 “人道主义超级大国”急了</a></li>
 <li><a href="/topimagenews/20240916/2089205.md" target="_blank">特殊才能？贺锦丽首次单独受访 众人看傻</a></li>
@@ -88,15 +91,15 @@
 <li><a href="/topimagenews/20240914/2088366.md" target="_blank">【微博精粹】刘天王三连跌V.s习总陷死循环 都和一女有关</a></li>
 <li><a href="/topimagenews/20240914/2088365.md" target="_blank">打倒共产党！邓小平一语成谶</a></li>
 <li><a href="/topimagenews/20240914/2088364.md" target="_blank">愈演愈烈！这样下去，命都没了</a></li>
-<li><a href="/topimagenews/20240914/2088363.md" target="_blank">突发：在中东买豪宅！瑞典打发移民大手笔</a></li>
-<li><a href="/topimagenews/20240914/2088362.md" target="_blank">大肆搜刮挥霍后 中共对一代人重大违约</a></li>
-<li><a href="/topimagenews/20240914/2088361.md" target="_blank">拉登儿子已被击毙？现正领导基地组织 誓言报复</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240916/2089230.md" target="_blank">宫临冬：关闭国际领养大门，反映中国人口政策重大转变</a></li>
+<li><a href="/comments/20240916/2089229.md" target="_blank">黑噪音：中国80后这一代，究竟有多惨？</a></li>
+<li><a href="/comments/20240916/2089228.md" target="_blank">中共国迎来又一个爹！新华社亲口告诉你，从这进口的羊肉有多差</a></li>
 <li><a href="/comments/20240916/2089219.md" target="_blank">川普在佛州遭受二次暗杀 前总统安全，枪手被捕</a></li>
 <li><a href="/comments/20240916/2089209.md" target="_blank">老鱼讲古：俄乌昨天交换战俘，说明什么？</a></li>
 <li><a href="/comments/20240916/2089203.md" target="_blank">【燕铭私语】李燕铭：一迹象显示北戴河有会 习近平与曾庆红交锋</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20240915/2088867.md" target="_blank">《安倍晋三回忆录》谈世界主要国家的领导人</a></li>
 <li><a href="/comments/20240915/2088866.md" target="_blank">袁晓辉：我不是支持特朗普，而是等他这样一个人等了很久</a></li>
 <li><a href="/comments/20240915/2088857.md" target="_blank">程翔：25年前江泽民出卖国土，相当于40个台湾！金庸曾提出质疑，中共用3招封口｜方菲时间</a></li>
-<li><a href="/comments/20240915/2088853.md" target="_blank">天亮时分：北约是如何帮助乌克兰的？</a></li>
-<li><a href="/comments/20240915/2088814.md" target="_blank">川普拒绝辩论之后，还会再辩吗？</a></li>
-<li><a href="/comments/20240914/2088749.md" target="_blank">川普深入哈里斯地盘，说出电视辩论中没说的话。赞扬马斯克。名为筹款，意在翻转加州。川普哈里斯马斯克</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
 <li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20240116/1984226.md" target="_blank">湖北老河口遇仙记</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
 <li><a href="/tculture/20231208/1971390.md" target="_blank">传统文化之汉字的内涵</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
+<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
+<li><a href="/cbnews/20231208/1971389.md" target="_blank">话说中医之祝由科</a></li>
+<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20190219/1082706.md" target="_blank">胡平：法轮功信仰自由，江泽民精神控制</a></li>
+<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
+<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20240126/1992876.md" target="_blank">内幕：中国留学生里女生打男生和男生打女一样普遍</a></li>
+<li><a href="/comments/20190220/1083672.md" target="_blank">胡平：法轮功与其他一些宗教或信仰之比较</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
 
 </ul>
 </div>
