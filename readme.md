@@ -10,23 +10,23 @@
 <li><a href="/sohnews/20240915/2089048.md">🔥🔥北京惊现不明飞行物 外星人再戏中共❗钱塘江拍到8米长不明物 水下快速移动❗天津三次被UFO入侵❗大量外星人访问中国 要出大事了❓❗</a></li>
 <li><a href="/cnnews/20240915/2089019.md">许家印奇迹般地又回来了 这背后有什么深意</a></li>
 <li><a href="/topimagenews/20240915/2089041.md">泰勒丝力挺反害了贺锦丽 惊人民调出炉</a></li>
-<li><a href="/topimagenews/20240915/2088994.md">包括中共军委主席！美军特种部队斩首计划？</a></li>
 <li><a href="/baitai/20240916/2089153.md">刚刚！中西正式摊牌？国内突然宣布大消息，86万中医从业者今夜无眠</a></li>
-<li><a href="/sohnews/20240915/2088996.md">习近平赞人大制度是伟大创举，网友骂声一片！习近平被拒参加军事会议，说明习被剥夺了军权！</a></li>
 <li><a href="/health/20240915/2089060.md">骨科专家：它比跑步更毁膝盖！危害极大，你却天天在做…</a></li>
 <li><a href="/topimagenews/20240916/2089226.md">雪崩，广东人迎来自己的鹤岗</a></li>
 <li><a href="/sohnews/20240915/2089073.md">陈破空：习突然反扑，接连逮捕张又侠亲信。政变一触即发！故意高调重复公布开除李尚福。美国海豹突击队秘密备战，目标就是他？若共军胆敢攻台。直播与互动：美东时间9月15日早9点、中港台当晚9点</a></li>
 <li><a href="/ccpdope/20240915/2089008.md">不明飞行物侵入北京 天津滨海机场出大事了</a></li>
 <li><a href="/baitai/20240916/2089152.md">胡退休后这几年在干啥...</a></li>
 <li><a href="/sohnews/20240915/2089146.md">金正恩健康恶化，女儿可能很快将接班掌权</a></li>
-<li><a href="/baitai/20240915/2089075.md">崩了，陈皮市场暴雷了</a></li>
 <li><a href="/funmedia/20240915/2089014.md">56岁“禁欲”大妈18平蜗居曝光 被百万人羡慕</a></li>
+<li><a href="/baitai/20240915/2089075.md">崩了，陈皮市场暴雷了</a></li>
 <li><a href="/baitai/20240915/2089022.md">和习一小伙人的生死博弈 即将上演</a></li>
 <li><a href="/topimagenews/20240916/2089198.md">解放军中将赠美方3个大字，小粉红纷纷哀号</a></li>
 <li><a href="/cbnews/20240915/2089012.md">中秋前夕4艘中国海警船惨遭强势驱离</a></li>
 <li><a href="/ccpdope/20240916/2089179.md">天津北京神秘飞行物带给人们的思索</a></li>
 <li><a href="/worldnews/20240915/2089015.md">以色列特种兵又干了一票大的</a></li>
+<li><a href="/comments/20240916/2089228.md">中共国迎来又一个爹！新华社亲口告诉你，从这进口的羊肉有多差</a></li>
 <li><a href="/ccpdope/20240916/2089191.md">俄罗斯权力中心将发生重大变化？</a></li>
+<li><a href="/baitai/20240916/2089186.md">刚刚，我国DUV光刻机实现里程碑式突破</a></li>
 <li><a href="/comments/20240915/2089106.md">川普拒绝另一场辩论的真实原因。哈里斯内部民意调查让她震惊！ABC辟谣，但女主持却全招了。川普哈里斯电视辩论</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/comments/20240318/2014289.md" target="_blank">唐柏桥：民运同仁突然向法轮功开火是怎么回事？</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/cbnews/20240902/2082501.md" target="_blank">中元节祭祖有没有效果呢？那边真的可以收到纸钱吗？</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20240814/2074560.md" target="_blank">曾预言川普右耳中枪的牧师，看到美国大灾难，川普在椭圆形办公室哭泣，祈祷神修复美国。不信神的人被淘汰。比格斯川普暗杀事件</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20231201/1968320.md" target="_blank">【非凡新闻】结合中西文化精神 美国神韵表演吸睛</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20240623/2053092.md" target="_blank">章天亮：那些行于世间的觉者</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/lifebaike/20180529/949787.md" target="_blank">无神论是最大的迷信（下）：科学家大多是有神论</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20240808/2071869.md" target="_blank">【新纪元】被误解的大脑</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
 
 </ul>
 </div>
