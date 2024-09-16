@@ -19,15 +19,15 @@
 <li><a href="/ccpdope/20240916/2089191.md">俄罗斯权力中心将发生重大变化？</a></li>
 <li><a href="/baitai/20240916/2089186.md">刚刚，我国DUV光刻机实现里程碑式突破</a></li>
 <li><a href="/cbnews/20240915/2089103.md">吹牛救经济？习近平：中国人大是“人类政治制度史上的伟大创造”</a></li>
-<li><a href="/topimagenews/20240916/2089205.md">特殊才能？贺锦丽首次单独受访 众人看傻</a></li>
 <li><a href="/topimagenews/20240916/2089224.md">70亿下落不明，首富是怎么被搞“死”的？</a></li>
+<li><a href="/topimagenews/20240916/2089205.md">特殊才能？贺锦丽首次单独受访 众人看傻</a></li>
 <li><a href="/sohnews/20240916/2089251.md">38万人大转移，上海如临大敌；再抓6名将军，习对张又侠动手？网骂延迟退休恶政，美再加征新关税；历数习近平十恶，网民吁天下共讨【新闻看点 李沐阳9.15】</a></li>
 <li><a href="/topimagenews/20240916/2089206.md">离开即奖励24万人民币 “人道主义超级大国”急了</a></li>
 <li><a href="/topimagenews/20240916/2089341.md">挺哈里斯刺杀川普枪手：愿战死乌克兰 帮助每个中国人</a></li>
+<li><a href="/topimagenews/20240916/2089309.md">习授意认怂？中共中将送美3个大字 粉红纷纷崩溃哀嚎</a></li>
 <li><a href="/topimagenews/20240916/2089225.md">“北漂终点”天津楼市塌房</a></li>
 <li><a href="/sohnews/20240915/2089107.md">保利集团发“战争财”，太子党暴富！</a></li>
-<li><a href="/topimagenews/20240916/2089309.md">习授意认怂？中共中将送美3个大字 粉红纷纷崩溃哀嚎</a></li>
-<li><a href="/finance/20240916/2089208.md">救市败北！这个一线城市，房价卷疯了…</a></li>
+<li><a href="/cbnews/20240916/2089323.md">〖红朝浮世绘〗世界乒联也辱华了 外国人或组织以后做事情要先学中国历史</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240916/2089441.md" target="_blank">实战派陆军副司令被秘捕 张又侠人马被清除?</a></li>
 <li><a href="/cbnews/20240916/2089401.md" target="_blank">菲9701舰撑不住撤离仙宾礁! 4船员被抬下船 菲欲另外派船 中共已全面封锁</a></li>
 <li><a href="/cbnews/20240916/2089400.md" target="_blank">台风登陆上海 中心大厦千吨阻尼器明显摇摆</a></li>
 <li><a href="/cbnews/20240916/2089399.md" target="_blank">广告被轰不雅 中国知名公务员教培机构道歉</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240915/2089103.md" target="_blank">吹牛救经济？习近平：中国人大是“人类政治制度史上的伟大创造”</a></li>
 <li><a href="/cbnews/20240915/2089042.md" target="_blank">王岐山不能再撑伞挡雨 大家都纷纷举起白旗</a></li>
 <li><a href="/cbnews/20240915/2089013.md" target="_blank">中国“被信任的斧头砍了脚背”</a></li>
-<li><a href="/cbnews/20240915/2089012.md" target="_blank">中秋前夕4艘中国海警船惨遭强势驱离</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/cbnews/20240902/2082501.md" target="_blank">中元节祭祖有没有效果呢？那边真的可以收到纸钱吗？</a></li>
-<li><a href="/tculture/20231208/1971390.md" target="_blank">传统文化之汉字的内涵</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/cbnews/20190211/1078733.md" target="_blank">胡平：法轮功为什么能强化忍的精神</a></li>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
 <li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20190214/1080789.md" target="_blank">胡平：天安门自焚和人民圣殿教</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20240418/2026391.md" target="_blank">医生劝我妻子放弃，似乎这些医生热衷让病人快点去死？</a></li>
-<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
-<li><a href="/comments/20231214/1974098.md" target="_blank">美国众议院议长：我所坚守的保守主义，具体是些什么内容？</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
-<li><a href="/comments/20240825/2079044.md" target="_blank">谁是创世主</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
-<li><a href="/cnnews/20221211/1822144.md" target="_blank">盖盖冲马桶很可怕！瞬间“病毒炸开”？</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/comments/20190701/1151501.md" target="_blank">【特稿】中国共产党是邪教组织</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20240820/2076774.md" target="_blank">胡平：批判法轮功的人,为何不用同样标准分析其他宗教</a></li>
+<li><a href="/tculture/20240815/2074891.md" target="_blank">松果体 谜一样的器官</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20240820/2076928.md" target="_blank">惠虎宇：中华文化为什么是高级文化系统(1)</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20190220/1083672.md" target="_blank">胡平：法轮功与其他一些宗教或信仰之比较</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/tculture/20231208/1971390.md" target="_blank">传统文化之汉字的内涵</a></li>
 
 </ul>
 </div>
