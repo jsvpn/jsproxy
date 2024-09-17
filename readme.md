@@ -8,7 +8,6 @@
 <li><a href="/sohnews/20240916/2089348.md">因泄露习近平中风，习近平活不过年底，301医院军医被秘密处决！军队继续清洗习近平派系将领！</a></li>
 <li><a href="/topimagenews/20240916/2089332.md">【微博精粹】大国今天最大新闻</a></li>
 <li><a href="/topimagenews/20240916/2089331.md">看图笑出猪叫！华为三折叠手机：一款没人买的产品</a></li>
-<li><a href="/topimagenews/20240916/2089277.md">连续5名女领导被抓，传递什么信号？</a></li>
 <li><a href="/baitai/20240917/2089595.md">性高潮到底什么感觉？真实记录多位女性的自述</a></li>
 <li><a href="/lifebaike/20240916/2089408.md">85句中秋祝福语：创意、英文、给亲友、客户贺词大全</a></li>
 <li><a href="/cbnews/20240916/2089365.md">中共重要智库人事大地震！被曝罪名不轻</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/baitai/20240916/2089485.md">专家揭中国繁荣是假象 下一个危机更糟糕</a></li>
 <li><a href="/finance/20240916/2089384.md">谁能想到，银行开始害怕居民断供了</a></li>
 <li><a href="/baitai/20240916/2089360.md">美军特种部队斩首名单有中共军委主席？</a></li>
+<li><a href="/cnnews/20240916/2089303.md">香港苦涩退场！习近平发出指示</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240917/2089718.md" target="_blank">两个月内川普面临第二次暗杀</a></li>
+<li><a href="/cbnews/20240917/2089699.md" target="_blank">大型社死现场！上汽大众新车搭载“文心一言” 发布会</a></li>
 <li><a href="/cbnews/20240917/2089679.md" target="_blank">中共驻纽约领馆 另4人应被列为不受欢迎人物</a></li>
 <li><a href="/cbnews/20240917/2089678.md" target="_blank">中秋节放假通知太马虎 重庆大学接连笑翻网民</a></li>
 <li><a href="/comments/20240917/2089671.md" target="_blank">陈力简：仇恨说辞使川普成为攻击目标；必须要有人对发生的事负责 ｜方菲时间</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20240916/2089401.md" target="_blank">菲9701舰撑不住撤离仙宾礁! 4船员被抬下船 菲欲另外派船 中共已全面封锁</a></li>
 <li><a href="/cbnews/20240916/2089400.md" target="_blank">台风登陆上海 中心大厦千吨阻尼器明显摇摆</a></li>
 <li><a href="/cbnews/20240916/2089399.md" target="_blank">广告被轰不雅 中国知名公务员教培机构道歉</a></li>
-<li><a href="/cbnews/20240916/2089382.md" target="_blank">“贝碧嘉”登陆前恐怖一幕 上海现紫红色天空</a></li>
-<li><a href="/cbnews/20240916/2089365.md" target="_blank">中共重要智库人事大地震！被曝罪名不轻</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,12 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240917/2089718.md" target="_blank">两个月内川普面临第二次暗杀</a></li>
+<li><a href="/comments/20240917/2089710.md" target="_blank">清史为什么还没修出来？知乎高赞回答怎么说</a></li>
+<li><a href="/comments/20240917/2089708.md" target="_blank">孙旭阳：老来难</a></li>
+<li><a href="/comments/20240917/2089707.md" target="_blank">孟常：纸面上讲，咱们的退休年龄确实太低了</a></li>
+<li><a href="/comments/20240917/2089706.md" target="_blank">一位高调批评中共的异议人士会设下骗局吗？</a></li>
+<li><a href="/comments/20240917/2089705.md" target="_blank">“要是所有的媒体都能够追寻并披露真实的真相，又何需自媒体来写‘故事’ 呢？”</a></li>
 <li><a href="/comments/20240917/2089680.md" target="_blank">老鱼讲古：俄军反攻库尔斯克，战果却得不偿失</a></li>
 <li><a href="/comments/20240917/2089671.md" target="_blank">陈力简：仇恨说辞使川普成为攻击目标；必须要有人对发生的事负责 ｜方菲时间</a></li>
 <li><a href="/comments/20240917/2089663.md" target="_blank">天亮时分：无人敢说！习近平准备对共军大清洗？</a></li>
@@ -116,12 +122,6 @@
 <li><a href="/comments/20240916/2089498.md" target="_blank">【泽论四方】美国已经打算切断与香港联系</a></li>
 <li><a href="/comments/20240916/2089460.md" target="_blank">美国数学高手，靠这一招逼外星人现身；其实美国没有说谎，UFO来源并非我们想像⋯因为太害怕，外星人给人订下许多规则！｜未解之谜</a></li>
 <li><a href="/comments/20240916/2089368.md" target="_blank">独裁统治下的人性扭曲：从个人经历谈华人社区</a></li>
-<li><a href="/comments/20240916/2089353.md" target="_blank">中国两大“传统”错觉：人口太多、老百姓爱存钱</a></li>
-<li><a href="/comments/20240916/2089335.md" target="_blank">一图胜过千言万语 北京官厅水库祸患罪魁祸首</a></li>
-<li><a href="/comments/20240916/2089328.md" target="_blank">仅在分秒之间，川普打高尔夫险遭暗杀，第一反应让名嘴感叹。枪手被抓，身份曝光，疑点重重。川普枪击案高尔夫</a></li>
-<li><a href="/comments/20240916/2089311.md" target="_blank">惠虎宇：国家权威的重建与民国军政之路</a></li>
-<li><a href="/comments/20240916/2089305.md" target="_blank">【影视星闻】香港著名武打演员徐少强因食道癌去世 小30岁妻子心脏病突发随之而去 11岁儿子成孤儿 女儿是选美冠军</a></li>
-<li><a href="/comments/20240916/2089302.md" target="_blank">人大报告揭示：哪些是相信遥遥领先的人</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/cbnews/20240904/2083703.md" target="_blank">复眼与变态 昆虫奥秘令进化论失据</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/comments/20240813/2074068.md" target="_blank">天眼所见自杀者的悲惨境况，人一定要珍惜生命</a></li>
-<li><a href="/sohnews/20160119/493472.md" target="_blank">无效的医疗：手术刀下的谎言和药瓶里的欺骗</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20240814/2074560.md" target="_blank">曾预言川普右耳中枪的牧师，看到美国大灾难，川普在椭圆形办公室哭泣，祈祷神修复美国。不信神的人被淘汰。比格斯川普暗杀事件</a></li>
 <li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/comments/20240623/2053092.md" target="_blank">章天亮：那些行于世间的觉者</a></li>
-<li><a href="/comments/20240412/2024185.md" target="_blank">是治疗还是屠杀?化疗药品滴一滴在皮肤即灼伤，很长时间才好</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20240825/2079044.md" target="_blank">谁是创世主</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/ssgc/20240508/2034288.md" target="_blank">《透视“进化论”》第九章 人类起源问题的终极答案</a></li>
+<li><a href="/cbnews/20231208/1971389.md" target="_blank">话说中医之祝由科</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
 
 </ul>
 </div>
