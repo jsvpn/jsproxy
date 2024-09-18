@@ -9,25 +9,25 @@
 <li><a href="/sohnews/20240918/2090261.md">张又侠携百万重装甲野战军团撼动习家天下，习近平私生子兼接班人被军方暗杀！</a></li>
 <li><a href="/topimagenews/20240918/2090113.md">毛泽东钦点的女孩害了多少人？惊人秘密很少人懂【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240918/2090187.md">中国光鲜靓丽高楼大厦沦坟场！中共高官曝惊人内幕</a></li>
-<li><a href="/topimagenews/20240918/2090159.md">习近平仰仗张又侠 勾兑内部恐怖平衡？</a></li>
 <li><a href="/cbnews/20240918/2090132.md">战狼秀笑容！习近平调整大方向？</a></li>
+<li><a href="/topimagenews/20240918/2090159.md">习近平仰仗张又侠 勾兑内部恐怖平衡？</a></li>
 <li><a href="/topimagenews/20240918/2090058.md">文革红卫兵头目宋彬彬传离世 晚年公开忏悔</a></li>
-<li><a href="/yule/20240918/2090253.md">黑白通吃的曾志伟一觉醒来，天都塌了</a></li>
 <li><a href="/topimagenews/20240918/2090106.md">一个重要信号！代价可怕；来不及了！北京遭批迟钝 各大投行齐发“暗箭”【阿波罗网报道】</a></li>
+<li><a href="/yule/20240918/2090253.md">黑白通吃的曾志伟一觉醒来，天都塌了</a></li>
 <li><a href="/ssgc/20240918/2090177.md">〖微博谈〗学历越低越自信</a></li>
 <li><a href="/topimagenews/20240918/2090229.md">能撑多久？中国中产们不知道！中央这根稻草没余粮了</a></li>
 <li><a href="/cbnews/20240918/2090131.md">多次帮中共欺骗民众和外界 陆38岁女教授去世</a></li>
 <li><a href="/cnnews/20240918/2090194.md">中国大萧条开始 别让自己陷绝境 苦日子这样过</a></li>
 <li><a href="/cbnews/20240918/2090184.md">江峰：习近平背手拜佛，是要给菩萨指导前进的方向麽？</a></li>
-<li><a href="/topimagenews/20240917/2089982.md">中国跌倒台湾吃饱 谢金河曝经济崩盘主因</a></li>
 <li><a href="/topimagenews/20240918/2090250.md">废掉中共世界最大海军！美军“快速击沉”大杀器太猛</a></li>
+<li><a href="/topimagenews/20240917/2089982.md">中国跌倒台湾吃饱 谢金河曝经济崩盘主因</a></li>
 <li><a href="/baitai/20240918/2090065.md">糗大了！上合组织部长遭女翻译实名举报赖帐 引爆网络</a></li>
 <li><a href="/ssgc/20240918/2090051.md">习近平枯水期视察黄河为那桩？</a></li>
-<li><a href="/cnnews/20240917/2089954.md">川普突然“官宣”</a></li>
 <li><a href="/cnnews/20240918/2090195.md">狂炸黎巴嫩真主党的BBcall竟来自…</a></li>
 <li><a href="/funmedia/20240918/2090188.md">试问苍天饶过谁 20张图片看时间的力量有多恐怖</a></li>
 <li><a href="/headline/20240917/2090006.md">著名红卫兵领袖宋彬彬逝世 享年77岁</a></li>
 <li><a href="/topimagenews/20240918/2090249.md">中国大地暴兵起？太惊悚！太阳成2半：“日中分，其国亡”</a></li>
+<li><a href="/sohnews/20240917/2090015.md">“还我自由！”广东街头飘起青天白日满地红</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,10 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240918/2090430.md" target="_blank">中共辽宁舰首次进入日本毗连区 日方监视</a></li>
+<li><a href="/cbnews/20240918/2090429.md" target="_blank">日本公布中国籍播音员“劫持广播”调查结果</a></li>
+<li><a href="/cbnews/20240918/2090428.md" target="_blank">中国中秋节月饼“爆炸” 孩子当场吓哭</a></li>
+<li><a href="/cbnews/20240918/2090426.md" target="_blank">传比亚迪员工跳楼身亡 或涉及减少工资</a></li>
 <li><a href="/cbnews/20240918/2090406.md" target="_blank">美军FA-XX预算被砍遭冷藏! NGAD也面临喊卡 恐削弱对中国战略优势</a></li>
 <li><a href="/cbnews/20240918/2090405.md" target="_blank">菲舰9701在仙宾礁败退 接下来看这里! 菲防长呛 : 中国敢动手就是战争</a></li>
 <li><a href="/cbnews/20240918/2090386.md" target="_blank">突发！苏州之后 日本男童上学途中在深圳遭袭 紧急送医 近来第2起</a></li>
@@ -56,10 +60,6 @@
 <li><a href="/cbnews/20240918/2090160.md" target="_blank">湖北黄石众多城管殴打村民 十余名中老年人受伤</a></li>
 <li><a href="/cbnews/20240918/2090132.md" target="_blank">战狼秀笑容！习近平调整大方向？</a></li>
 <li><a href="/cbnews/20240918/2090131.md" target="_blank">多次帮中共欺骗民众和外界 陆38岁女教授去世</a></li>
-<li><a href="/cbnews/20240918/2090035.md" target="_blank">她是热爱加班的模范员工 默默窃走1894万元黄金</a></li>
-<li><a href="/cbnews/20240917/2090022.md" target="_blank">美国官员将前往北京 对中国廉价商品涌入全球表达关切</a></li>
-<li><a href="/comments/20240917/2089985.md" target="_blank">企图暗杀川普的枪手Ryan Routh落网</a></li>
-<li><a href="/cbnews/20240917/2089922.md" target="_blank">中秋节台风过境 阳澄湖大闸蟹集体出逃</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
+<li><a href="/cbnews/20240603/2045072.md" target="_blank">漫谈古代科举之八股文</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20240820/2076774.md" target="_blank">胡平：批判法轮功的人,为何不用同样标准分析其他宗教</a></li>
+<li><a href="/comments/20231213/1973586.md" target="_blank">六道轮回之畜生道</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
 <li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/tculture/20201115/1431410.md" target="_blank">读《中庸》：关键在“中和”</a></li>
-<li><a href="/comments/20231201/1968320.md" target="_blank">【非凡新闻】结合中西文化精神 美国神韵表演吸睛</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/comments/20231203/1969183.md" target="_blank">开盖冲马桶 ，细菌会乱飞？除非你家马桶是喷泉！</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
 
 </ul>
 </div>
