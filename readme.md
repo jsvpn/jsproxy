@@ -10,13 +10,12 @@
 <li><a href="/baitai/20240917/2089995.md">帝都又发生大事？网传多版本讨习伐共檄文</a></li>
 <li><a href="/topimagenews/20240917/2089921.md">中国经济大萧条蔓延 无一能幸免</a></li>
 <li><a href="/sohnews/20240917/2089857.md">习近平的主治医生尚爱加被暗害，习的三中全会讲话公布通篇大反改革，延迟退休必引发一场反共革命。《老灯开讲第668期》</a></li>
-<li><a href="/sohnews/20240917/2089850.md">天下讨习近平檄！</a></li>
 <li><a href="/topimagenews/20240918/2090113.md">毛泽东钦点的女孩害了多少人？惊人秘密很少人懂【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20240918/2090132.md">战狼秀笑容！习近平调整大方向？</a></li>
-<li><a href="/topimagenews/20240918/2090058.md">文革红卫兵头目宋彬彬传离世 晚年公开忏悔</a></li>
-<li><a href="/baitai/20240917/2089893.md">内心强大的人，无非是做到了2个字</a></li>
-<li><a href="/topimagenews/20240918/2090159.md">习近平仰仗张又侠 勾兑内部恐怖平衡？</a></li>
 <li><a href="/topimagenews/20240918/2090187.md">中国光鲜靓丽高楼大厦沦坟场！中共高官曝惊人内幕</a></li>
+<li><a href="/topimagenews/20240918/2090058.md">文革红卫兵头目宋彬彬传离世 晚年公开忏悔</a></li>
+<li><a href="/topimagenews/20240918/2090159.md">习近平仰仗张又侠 勾兑内部恐怖平衡？</a></li>
+<li><a href="/baitai/20240917/2089893.md">内心强大的人，无非是做到了2个字</a></li>
 <li><a href="/topimagenews/20240917/2089908.md">赶在大选前 曝美日对中共将有大计划</a></li>
 <li><a href="/topimagenews/20240918/2090106.md">一个重要信号！代价可怕；来不及了！北京遭批迟钝 各大投行齐发“暗箭”【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20240917/2089911.md">陈破空：高层恶斗！习近平遭重大挫败：其重要亲信遭逼退！曾奉旨狂建习父浩大陵园。特朗普遭暗杀未遂，登顶微博热搜榜，中国网民热烈参与美国政治？直播与互动：美东时间9月17日早9点、中港台当晚9点</a></li>
@@ -25,8 +24,9 @@
 <li><a href="/topimagenews/20240917/2089982.md">中国跌倒台湾吃饱 谢金河曝经济崩盘主因</a></li>
 <li><a href="/ssgc/20240918/2090177.md">〖微博谈〗学历越低越自信</a></li>
 <li><a href="/baitai/20240918/2090065.md">糗大了！上合组织部长遭女翻译实名举报赖帐 引爆网络</a></li>
-<li><a href="/lifebaike/20240917/2089861.md">中国留学生入境被拦 全身上下竟藏满这些东西</a></li>
 <li><a href="/cbnews/20240918/2090184.md">江峰：习近平背手拜佛，是要给菩萨指导前进的方向麽？</a></li>
+<li><a href="/lifebaike/20240917/2089861.md">中国留学生入境被拦 全身上下竟藏满这些东西</a></li>
+<li><a href="/cnnews/20240917/2089954.md">川普突然“官宣”</a></li>
 <li><a href="/ssgc/20240918/2090051.md">习近平枯水期视察黄河为那桩？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20240814/2074560.md" target="_blank">曾预言川普右耳中枪的牧师，看到美国大灾难，川普在椭圆形办公室哭泣，祈祷神修复美国。不信神的人被淘汰。比格斯川普暗杀事件</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/cnnews/20221211/1822144.md" target="_blank">盖盖冲马桶很可怕！瞬间“病毒炸开”？</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/tculture/20240815/2074891.md" target="_blank">松果体 谜一样的器官</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
-<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20240403/2020547.md" target="_blank">纪录片：DSM诊断与统计手册-精神病学最要命的骗局</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20231212/1972297.md" target="_blank">日本华人确诊晚期直肠癌，修炼法轮功恢复健康（图）</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/tculture/20231208/1971390.md" target="_blank">传统文化之汉字的内涵</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/cbnews/20231208/1971389.md" target="_blank">话说中医之祝由科</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
 
 </ul>
 </div>
