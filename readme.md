@@ -10,10 +10,9 @@
 <li><a href="/cbnews/20240917/2089910.md">大建习仲勋陵园的景俊海 突然提前退居二线 引猜测</a></li>
 <li><a href="/sohnews/20240917/2089761.md">习动手了？张又侠和他的“小伙伴”们还安全吗？</a></li>
 <li><a href="/topimagenews/20240917/2089906.md">比中国房价崩溃更可怕的是…</a></li>
-<li><a href="/lifebaike/20240917/2089712.md">“四人帮”成员王洪文死亡过程揭秘</a></li>
 <li><a href="/topimagenews/20240917/2089742.md">【微博精粹】习总指引不伟大 能忽悠他撒币很伟大</a></li>
-<li><a href="/baitai/20240917/2089995.md">帝都又发生大事？网传多版本讨习伐共檄文</a></li>
 <li><a href="/topimagenews/20240917/2089921.md">中国经济大萧条蔓延 无一能幸免</a></li>
+<li><a href="/baitai/20240917/2089995.md">帝都又发生大事？网传多版本讨习伐共檄文</a></li>
 <li><a href="/topimagenews/20240917/2089804.md">北京正失去对经济的控制</a></li>
 <li><a href="/topimagenews/20240917/2089803.md">北京为何坐着“等死”</a></li>
 <li><a href="/sohnews/20240917/2089857.md">习近平的主治医生尚爱加被暗害，习的三中全会讲话公布通篇大反改革，延迟退休必引发一场反共革命。《老灯开讲第668期》</a></li>
@@ -21,13 +20,14 @@
 <li><a href="/sohnews/20240917/2089850.md">天下讨习近平檄！</a></li>
 <li><a href="/ccpdope/20240917/2089829.md">习近平自爆中共丑陋内幕 网友：越吹越死的难看</a></li>
 <li><a href="/topimagenews/20240917/2089807.md">来不及了！北京遭批迟钝 各大投行齐发“暗箭”</a></li>
-<li><a href="/topimagenews/20240917/2089802.md">一个重要信号！代价可怕</a></li>
 <li><a href="/topimagenews/20240917/2089908.md">赶在大选前 曝美日对中共将有大计划</a></li>
+<li><a href="/topimagenews/20240917/2089802.md">一个重要信号！代价可怕</a></li>
 <li><a href="/baitai/20240917/2089893.md">内心强大的人，无非是做到了2个字</a></li>
 <li><a href="/sohnews/20240917/2089911.md">陈破空：高层恶斗！习近平遭重大挫败：其重要亲信遭逼退！曾奉旨狂建习父浩大陵园。特朗普遭暗杀未遂，登顶微博热搜榜，中国网民热烈参与美国政治？直播与互动：美东时间9月17日早9点、中港台当晚9点</a></li>
 <li><a href="/topimagenews/20240918/2090058.md">文革红卫兵头目宋彬彬传离世 晚年公开忏悔</a></li>
 <li><a href="/cnnews/20240917/2089929.md">2024中秋，最难的一次</a></li>
 <li><a href="/sohnews/20240917/2089832.md">指武卫东为唐山打死女孩事件主谋，意在清算彭丽媛！香山会议，中共将领赠美军将领书法作品，上书“和为贵”三字！</a></li>
+<li><a href="/cbnews/20240917/2089781.md">〖红朝浮世绘〗你压根不知情就被自动“器官捐献登记”了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240918/2090184.md" target="_blank">江峰：习近平背手拜佛，是要给菩萨指导前进的方向麽？</a></li>
+<li><a href="/cbnews/20240918/2090183.md" target="_blank">江峰：五个中国富翁三个 将成为外国人，这个国家还是世界最好的国家？</a></li>
 <li><a href="/comments/20240918/2090170.md" target="_blank">宋彬彬离世：文革中红卫兵是怎么开始打老师的？｜王友琴采访（精华版） ｜方菲时间</a></li>
 <li><a href="/cbnews/20240918/2090161.md" target="_blank">美侦察机飞越台海 中共战机尾随 美回应</a></li>
 <li><a href="/cbnews/20240918/2090160.md" target="_blank">湖北黄石众多城管殴打村民 十余名中老年人受伤</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20240917/2089781.md" target="_blank">〖红朝浮世绘〗你压根不知情就被自动“器官捐献登记”了</a></li>
 <li><a href="/comments/20240917/2089771.md" target="_blank">面临第二次暗杀，川普第一反应是什么？</a></li>
 <li><a href="/cbnews/20240917/2089760.md" target="_blank">王赫：“堤丰”部署和“奥库斯”扩员 猛敲中共</a></li>
-<li><a href="/cbnews/20240917/2089759.md" target="_blank">关于中共“黑手”，美众院发布重磅报告</a></li>
-<li><a href="/cbnews/20240917/2089757.md" target="_blank">北京香山论坛开罢 专家析未来美中角力看点</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20210819/1609103.md" target="_blank">浅谈中医与西医的不同之处</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/cbnews/20231208/1971389.md" target="_blank">话说中医之祝由科</a></li>
-<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20240412/2024185.md" target="_blank">是治疗还是屠杀?化疗药品滴一滴在皮肤即灼伤，很长时间才好</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/comments/20240820/2076958.md" target="_blank">惠虎宇：中华文化为什么是高级文化系统(3)</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/cnnews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/taiwannews/20210119/1470524.md" target="_blank">纪录片《蚕食美国1》</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
 <li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
+<li><a href="/comments/20231204/1969287.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （三）</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/cbnews/20231208/1971389.md" target="_blank">话说中医之祝由科</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/tculture/20220622/1748765.md" target="_blank">影响人类的两个图案——太极图和卍字符</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
 
 </ul>
 </div>
