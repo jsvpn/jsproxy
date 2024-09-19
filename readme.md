@@ -23,10 +23,10 @@
 <li><a href="/topimagenews/20240919/2090784.md">夜空好多“蕈状云”! 俄最大导弹库挨轰 数万炸弹被毁 引发20次地震</a></li>
 <li><a href="/comments/20240919/2090753.md">离奇封天安门，习近平新时代被黑；《求是》忘关评论，国骂井喷！司马南夹头变磕头；30万订阅彩蛋开奖</a></li>
 <li><a href="/baitai/20240919/2090897.md">【404文库】打冷｜他杀死的，是深圳人的孩子</a></li>
+<li><a href="/cbnews/20240919/2090986.md">深圳女手撕渣男 58页PPT举报银行业男友嫖娼、有300多名炮友</a></li>
 <li><a href="/sohnews/20240919/2090924.md">林彪真的死在坠机上了吗？</a></li>
 <li><a href="/lifebaike/20240919/2090794.md">彻底绝望！加拿大超20万留学生面临驱逐</a></li>
 <li><a href="/cbnews/20240919/2090831.md">广州政府划“政商交往红线” 网络炸锅：你信吗？</a></li>
-<li><a href="/cbnews/20240919/2090986.md">深圳女手撕渣男 58页PPT举报银行业男友嫖娼、有300多名炮友</a></li>
 <li><a href="/topimagenews/20240919/2090609.md">深圳日本童遇刺 加剧恐慌 中共驻日大使被召见</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240920/2091070.md" target="_blank">【“百分之百不是在台湾生产的！” 】</a></li>
 <li><a href="/comments/20240920/2091063.md" target="_blank">川普在家乡发表演讲，趣味横生。抛出诱人的竞选纲领，意在反转纽约州。川普美国大选纽约</a></li>
 <li><a href="/comments/20240920/2091062.md" target="_blank">孙雯曾为前纽约州长库默工作</a></li>
 <li><a href="/comments/20240920/2091061.md" target="_blank">长岛川普集会附近的汽车中，又发现了💥物…</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240919/2090706.md" target="_blank">天亮时分：美联储降息50点；中国银行业4万人大逃亡，月饼指数显示灰犀牛已降临；BB机设高端局，2900名真主党归西（政论天下第1409集 20240918）天亮时分</a></li>
 <li><a href="/comments/20240919/2090699.md" target="_blank">真主党面临奇特攻击-背后的故事</a></li>
 <li><a href="/comments/20240919/2090663.md" target="_blank">巧合？卞仲耘的土改工作团用石头砸死地主, 宋彬彬就在那年出生</a></li>
-<li><a href="/comments/20240919/2090661.md" target="_blank">范宕：“国耻日”里的新国耻</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20240829/2080735.md" target="_blank">胆战心惊:塔克访谈揭露美国食品巨头，医疗体系</a></li>
-<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/topimagenews/20200514/1328456.md" target="_blank">穿越时空 谢田教授亲身体验人体特异功能</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
+<li><a href="/cnnews/20170717/792917.md" target="_blank">无神论是最大的迷信</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/tculture/20240904/2083774.md" target="_blank">“几生修得到梅花”之生命品格浅议</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
 <li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/cbnews/20240715/2062387.md" target="_blank">尧帝治世之道（一）</a></li>
-<li><a href="/tculture/20190708/1154978.md" target="_blank">揭开“神用泥土造人”的秘密</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/comments/20190213/1080251.md" target="_blank">胡平：法轮功为何反对自杀？</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
-<li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/sohnews/20160119/493472.md" target="_blank">无效的医疗：手术刀下的谎言和药瓶里的欺骗</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
 
 </ul>
 </div>
