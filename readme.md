@@ -7,19 +7,18 @@
 
 <li><a href="/sohnews/20240918/2090261.md">张又侠携百万重装甲野战军团撼动习家天下，习近平私生子兼接班人被军方暗杀！</a></li>
 <li><a href="/yule/20240918/2090253.md">黑白通吃的曾志伟一觉醒来，天都塌了</a></li>
-<li><a href="/topimagenews/20240918/2090229.md">能撑多久？中国中产们不知道！中央这根稻草没余粮了</a></li>
 <li><a href="/comments/20240918/2090388.md">普京，大势已去</a></li>
 <li><a href="/sohnews/20240918/2090351.md">重大迹象：中共正式下架学习强国APP，深圳再发生袭击日本学生事件，香山论坛成就张又侠高光时刻。《老灯开讲第669期》</a></li>
 <li><a href="/baitai/20240918/2090455.md">陈佩斯，这次真悬了</a></li>
-<li><a href="/topimagenews/20240918/2090250.md">废掉中共世界最大海军！美军“快速击沉”大杀器太猛</a></li>
 <li><a href="/topimagenews/20240919/2090600.md">“讨习伐共”大爆发！全国武警、警察署名？各行各业都反了？</a></li>
+<li><a href="/topimagenews/20240918/2090250.md">废掉中共世界最大海军！美军“快速击沉”大杀器太猛</a></li>
 <li><a href="/topimagenews/20240918/2090249.md">中国大地暴兵起？太惊悚！太阳成2半：“日中分，其国亡”</a></li>
 <li><a href="/cnnews/20240918/2090327.md">华尔街突传巨响</a></li>
 <li><a href="/cbnews/20240918/2090254.md">〖红朝浮世绘〗历史是轮回因果，很少有人看懂</a></li>
 <li><a href="/sohnews/20240918/2090385.md">援俄是死..弃俄也是死..习近平豁出去了!中共真敢冒险出兵援俄?挺俄出兵乌克兰 中共机会之窗六条件 影响中共对台战略! @democratictaiwanchannel</a></li>
 <li><a href="/worldnews/20240918/2090331.md">美空军将领：俄罗斯比入侵乌克兰前规模更强大</a></li>
-<li><a href="/cbnews/20240918/2090438.md">川普当选，金融危机，黄金暴涨四倍，人类进化，世界重启，一定要注意10月24日这一天</a></li>
 <li><a href="/cbnews/20240919/2090601.md">大爆发 天下“讨习伐共”！全国警察武警各行各业都起来？</a></li>
+<li><a href="/cbnews/20240918/2090438.md">川普当选，金融危机，黄金暴涨四倍，人类进化，世界重启，一定要注意10月24日这一天</a></li>
 <li><a href="/cbnews/20240918/2090301.md">唱红歌踢正步…全红婵家每日被包围</a></li>
 <li><a href="/topimagenews/20240918/2090492.md">黎巴嫩呼叫器爆炸 贴牌欧商BAC公司被起底 老板美魔女</a></li>
 <li><a href="/cbnews/20240918/2090262.md">中国“三只羊”被立案调查 日销售额骤降逾九成</a></li>
@@ -27,6 +26,7 @@
 <li><a href="/sohnews/20240918/2090382.md">陈破空：病情是绝密，惊传老习到处抓捕泄密者！灭口救活他的医生？受毛接见的反美红卫兵病逝美国。烂尾时代，中国股市跌破2700点。直播与互动：美东时间9月18日早9点、中港台当晚9点</a></li>
 <li><a href="/finance/20240918/2090387.md">全球金融巨头最新警告北京</a></li>
 <li><a href="/baitai/20240919/2090552.md">女知青把手表送给一个农民：我上完大学就嫁给你，不料她刚走，农民就和一个寡妇相亲</a></li>
+<li><a href="/topimagenews/20240919/2090654.md">都撤了！中国网民集体哀叹：一个时代结束</a></li>
 <li><a href="/health/20240918/2090273.md">45岁后身体还有这3迹象 恭喜你</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240919/2090739.md" target="_blank">被封杀文：“日本小学生”遇袭，含糊其辞只能让事情变糟</a></li>
+<li><a href="/comments/20240919/2090738.md" target="_blank">成武县公报：体制内8千人发养老金近8亿，居民12万养老金2.5亿</a></li>
 <li><a href="/comments/20240919/2090723.md" target="_blank">川普有可能获得在任总统保护级别？真主党寻呼机成炸弹，摩萨德是如何做到的？还有谁会模仿？ ｜唐靖远 林晓旭 David 方菲 ｜围炉夜话 09/18</a></li>
 <li><a href="/comments/20240919/2090717.md" target="_blank">陈奎德 张杰：无可奈何花落去茕茕孑立楚歌来——近期中共外交孤立深化</a></li>
 <li><a href="/comments/20240919/2090716.md" target="_blank">吴国光-《邓小平在1989》序</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240918/2090474.md" target="_blank">川普被第二次暗杀，除了劳斯是否还有同伙？</a></li>
 <li><a href="/comments/20240918/2090435.md" target="_blank">【梁京评论】中国社会契约的「重置」与世界秩序的重构（上）</a></li>
 <li><a href="/comments/20240918/2090397.md" target="_blank">毕业生 拿着毕业证书哭诉！年轻人眼里没有一点光</a></li>
-<li><a href="/comments/20240918/2090388.md" target="_blank">普京，大势已去</a></li>
-<li><a href="/comments/20240918/2090306.md" target="_blank">中国当下，比90年代日本难多了</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20240918/2089868.md" target="_blank">马云前世修道，李嘉诚前世是和尚-数字漫谈（三）</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
-<li><a href="/comments/20231213/1973586.md" target="_blank">六道轮回之畜生道</a></li>
-<li><a href="/comments/20231204/1969287.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （三）</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20240820/2076928.md" target="_blank">惠虎宇：中华文化为什么是高级文化系统(1)</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
-<li><a href="/tculture/20240916/2089420.md" target="_blank">诗人苏轼与黄庭坚的生命轮回</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
+<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/cbnews/20240715/2062387.md" target="_blank">尧帝治世之道（一）</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20231220/1976683.md" target="_blank">医山夜话：张锡纯医案解读（二）根治胃气不降之证</a></li>
+<li><a href="/aomi/life/20240330/2018911.md" target="_blank">挪威青年这样走出重度失眠和抑郁煎熬</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
 
 </ul>
 </div>
