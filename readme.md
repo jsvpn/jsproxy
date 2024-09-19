@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/sohnews/20240918/2090261.md">张又侠携百万重装甲野战军团撼动习家天下，习近平私生子兼接班人被军方暗杀！</a></li>
 <li><a href="/comments/20240918/2090388.md">普京，大势已去</a></li>
 <li><a href="/sohnews/20240918/2090351.md">重大迹象：中共正式下架学习强国APP，深圳再发生袭击日本学生事件，香山论坛成就张又侠高光时刻。《老灯开讲第669期》</a></li>
 <li><a href="/baitai/20240918/2090455.md">陈佩斯，这次真悬了</a></li>
 <li><a href="/topimagenews/20240919/2090600.md">“讨习伐共”大爆发！全国武警、警察署名？各行各业都反了？</a></li>
 <li><a href="/cnnews/20240918/2090327.md">华尔街突传巨响</a></li>
 <li><a href="/cbnews/20240919/2090601.md">大爆发 天下“讨习伐共”！全国警察武警各行各业都起来？</a></li>
-<li><a href="/worldnews/20240918/2090331.md">美空军将领：俄罗斯比入侵乌克兰前规模更强大</a></li>
 <li><a href="/topimagenews/20240919/2090654.md">都撤了！中国网民集体哀叹：一个时代结束</a></li>
 <li><a href="/sohnews/20240918/2090385.md">援俄是死..弃俄也是死..习近平豁出去了!中共真敢冒险出兵援俄?挺俄出兵乌克兰 中共机会之窗六条件 影响中共对台战略! @democratictaiwanchannel</a></li>
-<li><a href="/cbnews/20240918/2090438.md">川普当选，金融危机，黄金暴涨四倍，人类进化，世界重启，一定要注意10月24日这一天</a></li>
-<li><a href="/cbnews/20240918/2090301.md">唱红歌踢正步…全红婵家每日被包围</a></li>
+<li><a href="/worldnews/20240918/2090331.md">美空军将领：俄罗斯比入侵乌克兰前规模更强大</a></li>
 <li><a href="/comments/20240919/2090634.md">文昭：习近平终於要出这一步：世袭制；他们被连锅端，泄漏了习的健康秘密？</a></li>
-<li><a href="/cbnews/20240918/2090262.md">中国“三只羊”被立案调查 日销售额骤降逾九成</a></li>
+<li><a href="/cbnews/20240918/2090438.md">川普当选，金融危机，黄金暴涨四倍，人类进化，世界重启，一定要注意10月24日这一天</a></li>
+<li><a href="/topimagenews/20240919/2090610.md">中共福建舰内部结构首度曝光</a></li>
+<li><a href="/cbnews/20240918/2090301.md">唱红歌踢正步…全红婵家每日被包围</a></li>
 <li><a href="/cnnews/20240918/2090431.md">决定黄金命运的时刻来了</a></li>
 <li><a href="/topimagenews/20240918/2090492.md">黎巴嫩呼叫器爆炸 贴牌欧商BAC公司被起底 老板美魔女</a></li>
 <li><a href="/finance/20240918/2090387.md">全球金融巨头最新警告北京</a></li>
 <li><a href="/baitai/20240919/2090552.md">女知青把手表送给一个农民：我上完大学就嫁给你，不料她刚走，农民就和一个寡妇相亲</a></li>
 <li><a href="/sohnews/20240918/2090382.md">陈破空：病情是绝密，惊传老习到处抓捕泄密者！灭口救活他的医生？受毛接见的反美红卫兵病逝美国。烂尾时代，中国股市跌破2700点。直播与互动：美东时间9月18日早9点、中港台当晚9点</a></li>
-<li><a href="/topimagenews/20240919/2090610.md">中共福建舰内部结构首度曝光</a></li>
 <li><a href="/health/20240918/2090273.md">45岁后身体还有这3迹象 恭喜你</a></li>
 <li><a href="/worldnews/20240919/2090537.md">伊朗大使染血画面曝光 携呼叫器爆炸失去1眼、另1眼严重受伤</a></li>
 <li><a href="/topimagenews/20240919/2090536.md">黎巴嫩“对讲机再爆炸” 呼叫器案丧礼一声巨响3死10伤</a></li>
+<li><a href="/cbnews/20240918/2090302.md">经济不振现实下 中国正展开“微笑外交” 赢他国好感</a></li>
+<li><a href="/cbnews/20240918/2090426.md">传比亚迪员工跳楼身亡 或涉及减少工资</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/cnnews/20150914/449521.md" target="_blank">无神论和有神论，乡下老太太驳倒三个博士</a></li>
+<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
 <li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
-<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20231220/1976789.md" target="_blank">大陆医生曝：九价HPV疫苗导致怀孕能力下降40%</a></li>
 
 </ul>
 </div>
