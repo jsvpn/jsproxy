@@ -18,16 +18,16 @@
 <li><a href="/baitai/20240919/2090823.md">随时开战？中共宣传直接翻车 民间团体正悄悄崛起</a></li>
 <li><a href="/cbnews/20240919/2090744.md">〖红朝浮世绘〗中共夜郎自大，带动全民意淫</a></li>
 <li><a href="/topimagenews/20240919/2090784.md">夜空好多“蕈状云”! 俄最大导弹库挨轰 数万炸弹被毁 引发20次地震</a></li>
-<li><a href="/topimagenews/20240918/2090492.md">黎巴嫩呼叫器爆炸 贴牌欧商BAC公司被起底 老板美魔女</a></li>
 <li><a href="/comments/20240919/2090753.md">离奇封天安门，习近平新时代被黑；《求是》忘关评论，国骂井喷！司马南夹头变磕头；30万订阅彩蛋开奖</a></li>
 <li><a href="/cbnews/20240919/2090832.md">惊传：比亚迪员工跳楼身亡 原因曝光</a></li>
 <li><a href="/cbnews/20240919/2090789.md">日童深圳上学遭中国人砍死！母亲双手血求救：孩子到底做错了什么</a></li>
 <li><a href="/topimagenews/20240919/2090609.md">深圳日本童遇刺 加剧恐慌 中共驻日大使被召见</a></li>
 <li><a href="/lifebaike/20240919/2090794.md">彻底绝望！加拿大超20万留学生面临驱逐</a></li>
+<li><a href="/headline/20240919/2090865.md">深圳日本人学校男童被刺伤重不治 燃起日人怒火「乾脆断交算了」</a></li>
 <li><a href="/topimagenews/20240919/2090607.md">中国中产们不知道！中央这根稻草没余粮了；各地政府疯狂！中国私有化浪潮正悄然展开？</a></li>
-<li><a href="/worldnews/20240919/2090537.md">伊朗大使染血画面曝光 携呼叫器爆炸失去1眼、另1眼严重受伤</a></li>
 <li><a href="/cbnews/20240919/2090831.md">广州政府划“政商交往红线” 网络炸锅：你信吗？</a></li>
-<li><a href="/baitai/20240919/2090625.md">大清算的时候到了</a></li>
+<li><a href="/worldnews/20240919/2090537.md">伊朗大使染血画面曝光 携呼叫器爆炸失去1眼、另1眼严重受伤</a></li>
+<li><a href="/comments/20240919/2090739.md">被封杀文：“日本小学生”遇袭，含糊其辞只能让事情变糟</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240919/2090976.md" target="_blank">枪手罗斯是一个什么样的人？</a></li>
+<li><a href="/comments/20240919/2090968.md" target="_blank">【围炉夜话精华版】深圳遇袭日本男童不幸身亡；事件将直接影响日本下一任首相的产生 ｜唐靖远 林晓旭 David 方菲 ｜围炉夜话 09/18</a></li>
 <li><a href="/cbnews/20240919/2090949.md" target="_blank">中共防留学生遭策反 专家：政权危机感升高</a></li>
 <li><a href="/cbnews/20240919/2090948.md" target="_blank">湖南一小学开学“零招生” 被迫关闭</a></li>
 <li><a href="/cbnews/20240919/2090947.md" target="_blank">可怕！大陆养生茶加止痛处方药</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/comments/20240919/2090699.md" target="_blank">真主党面临奇特攻击-背后的故事</a></li>
 <li><a href="/cbnews/20240919/2090689.md" target="_blank">人大报告揭示：社会阶层越低 越相信“遥遥领先”</a></li>
 <li><a href="/cbnews/20240919/2090656.md" target="_blank">美副国务卿：不会接受朝鲜为核武国家</a></li>
-<li><a href="/cbnews/20240919/2090655.md" target="_blank">中国学校宣称统一购物是“自愿” 家长爆内情</a></li>
-<li><a href="/comments/20240919/2090647.md" target="_blank">（续）中共二十大正上演终局之战！李强能否破格成为总理？会不会打台湾？中国下一步会发生什么？江峰、章天亮、方伟、唐靖远、吴嘉隆等大咖同台直播 ，共同关注解读！【时事大聚焦】</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240919/2090976.md" target="_blank">枪手罗斯是一个什么样的人？</a></li>
+<li><a href="/comments/20240919/2090968.md" target="_blank">【围炉夜话精华版】深圳遇袭日本男童不幸身亡；事件将直接影响日本下一任首相的产生 ｜唐靖远 林晓旭 David 方菲 ｜围炉夜话 09/18</a></li>
 <li><a href="/comments/20240919/2090939.md" target="_blank">美联储大幅降息，如何影响总统选举？参议院独立调查，发现特勤局一重大问题。川普特勤局美联储</a></li>
 <li><a href="/comments/20240919/2090938.md" target="_blank">【未普评论】贺锦丽和特朗普不管谁当选 不能再出让美国对世界的领导权</a></li>
 <li><a href="/comments/20240919/2090916.md" target="_blank">外交部胡诌被翻出！太创意留言被封【华大妈华春莹🦐🚗🥚】中国民众对中共政府的信任度达98%哈哈哈</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240919/2090583.md" target="_blank">曾击毙本拉登 美国海豹六队备战台海意味着什么？-兵家常事（2024-9-19）</a></li>
 <li><a href="/comments/20240919/2090567.md" target="_blank">英国工党元老曼德尔森访港 称新政府欲与中国重新接触</a></li>
 <li><a href="/comments/20240919/2090557.md" target="_blank">专栏 &#8211; 中国透视：无可奈何花落去 茕茕孑立楚歌来 &#8211; 近期北京外交孤立深化</a></li>
-<li><a href="/comments/20240919/2090528.md" target="_blank">拜登力挺川普？玩转红帽子，段子手拜登如何飙戏？😆2024美国总统大选！人民与总统互动❤️</a></li>
-<li><a href="/comments/20240919/2090527.md" target="_blank">终于上传了会员影片Vlog 扶Log🥹chill扶摇未解之谜</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
-<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/tculture/20240815/2074891.md" target="_blank">松果体 谜一样的器官</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20240820/2076774.md" target="_blank">胡平：批判法轮功的人,为何不用同样标准分析其他宗教</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/cnnews/20170717/792917.md" target="_blank">无神论是最大的迷信</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
 <li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/cnnews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/comments/20240820/2076928.md" target="_blank">惠虎宇：中华文化为什么是高级文化系统(1)</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20231223/1978148.md" target="_blank">医山夜话：张锡纯医案解读（三）赭石：降胃气 引火下行</a></li>
+<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
 
 </ul>
 </div>
