@@ -7,7 +7,6 @@
 
 <li><a href="/comments/20240918/2090388.md">普京，大势已去</a></li>
 <li><a href="/baitai/20240918/2090455.md">陈佩斯，这次真悬了</a></li>
-<li><a href="/sohnews/20240918/2090351.md">重大迹象：中共正式下架学习强国APP，深圳再发生袭击日本学生事件，香山论坛成就张又侠高光时刻。《老灯开讲第669期》</a></li>
 <li><a href="/topimagenews/20240919/2090600.md">“讨习伐共”大爆发！全国武警、警察署名？各行各业都反了？</a></li>
 <li><a href="/topimagenews/20240919/2090654.md">都撤了！中国网民集体哀叹：一个时代结束</a></li>
 <li><a href="/comments/20240919/2090634.md">文昭：习近平终於要出这一步：世袭制；他们被连锅端，泄漏了习的健康秘密？</a></li>
@@ -19,15 +18,16 @@
 <li><a href="/cnnews/20240918/2090431.md">决定黄金命运的时刻来了</a></li>
 <li><a href="/cnnews/20240919/2090691.md">急了？“多生孩子少戴套”！中国挂红布条 网傻眼</a></li>
 <li><a href="/sohnews/20240918/2090382.md">陈破空：病情是绝密，惊传老习到处抓捕泄密者！灭口救活他的医生？受毛接见的反美红卫兵病逝美国。烂尾时代，中国股市跌破2700点。直播与互动：美东时间9月18日早9点、中港台当晚9点</a></li>
-<li><a href="/topimagenews/20240919/2090610.md">中共福建舰内部结构首度曝光</a></li>
 <li><a href="/cbnews/20240919/2090788.md">日本小学生在深圳遭中国人砍死！日使馆降半旗、日外相怒骂“卑劣”</a></li>
+<li><a href="/topimagenews/20240919/2090610.md">中共福建舰内部结构首度曝光</a></li>
 <li><a href="/baitai/20240919/2090552.md">女知青把手表送给一个农民：我上完大学就嫁给你，不料她刚走，农民就和一个寡妇相亲</a></li>
 <li><a href="/finance/20240918/2090387.md">全球金融巨头最新警告北京</a></li>
 <li><a href="/topimagenews/20240918/2090492.md">黎巴嫩呼叫器爆炸 贴牌欧商BAC公司被起底 老板美魔女</a></li>
-<li><a href="/topimagenews/20240919/2090607.md">中国中产们不知道！中央这根稻草没余粮了；各地政府疯狂！中国私有化浪潮正悄然展开？</a></li>
 <li><a href="/topimagenews/20240919/2090609.md">深圳日本童遇刺 加剧恐慌 中共驻日大使被召见</a></li>
+<li><a href="/topimagenews/20240919/2090607.md">中国中产们不知道！中央这根稻草没余粮了；各地政府疯狂！中国私有化浪潮正悄然展开？</a></li>
 <li><a href="/worldnews/20240919/2090537.md">伊朗大使染血画面曝光 携呼叫器爆炸失去1眼、另1眼严重受伤</a></li>
 <li><a href="/cbnews/20240918/2090429.md">日本公布中国籍播音员“劫持广播”调查结果</a></li>
+<li><a href="/cbnews/20240919/2090744.md">〖红朝浮世绘〗中共夜郎自大，带动全民意淫</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/comments/20231213/1973586.md" target="_blank">六道轮回之畜生道</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20231204/1969287.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （三）</a></li>
+<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/aomi/life/20240330/2018911.md" target="_blank">挪威青年这样走出重度失眠和抑郁煎熬</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20210819/1609103.md" target="_blank">浅谈中医与西医的不同之处</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
+<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
 <li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/cbnews/20240715/2062387.md" target="_blank">尧帝治世之道（一）</a></li>
-<li><a href="/tculture/20240815/2074891.md" target="_blank">松果体 谜一样的器官</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/topimagenews/20200514/1328456.md" target="_blank">穿越时空 谢田教授亲身体验人体特异功能</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
 
 </ul>
 </div>
