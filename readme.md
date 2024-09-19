@@ -10,14 +10,14 @@
 <li><a href="/topimagenews/20240919/2090688.md">拿人当傻子！中共党中央国务院同意 发改委商务部发布的第23号令</a></li>
 <li><a href="/comments/20240919/2090634.md">文昭：习近平终於要出这一步：世袭制；他们被连锅端，泄漏了习的健康秘密？</a></li>
 <li><a href="/cbnews/20240919/2090601.md">大爆发 天下“讨习伐共”！全国警察武警各行各业都起来？</a></li>
-<li><a href="/cbnews/20240919/2090788.md">日本小学生在深圳遭中国人砍死！日使馆降半旗、日外相怒骂“卑劣”</a></li>
 <li><a href="/baitai/20240919/2090684.md">71年陈毅看望病中朱德，朱德一句肺腑之言说了两遍，陈毅沉默不答</a></li>
+<li><a href="/cbnews/20240919/2090788.md">日本小学生在深圳遭中国人砍死！日使馆降半旗、日外相怒骂“卑劣”</a></li>
 <li><a href="/cnnews/20240919/2090691.md">急了？“多生孩子少戴套”！中国挂红布条 网傻眼</a></li>
 <li><a href="/topimagenews/20240919/2090610.md">中共福建舰内部结构首度曝光</a></li>
-<li><a href="/baitai/20240919/2090823.md">随时开战？中共宣传直接翻车 民间团体正悄悄崛起</a></li>
 <li><a href="/baitai/20240919/2090552.md">女知青把手表送给一个农民：我上完大学就嫁给你，不料她刚走，农民就和一个寡妇相亲</a></li>
-<li><a href="/cbnews/20240919/2090744.md">〖红朝浮世绘〗中共夜郎自大，带动全民意淫</a></li>
+<li><a href="/baitai/20240919/2090823.md">随时开战？中共宣传直接翻车 民间团体正悄悄崛起</a></li>
 <li><a href="/sohnews/20240919/2090876.md">陈破空：惶急，老习要指定他当接班人？急删御医信息！证实灭口。日本学生遇刺身亡，中日何不断交？乌军炸毁俄巨大军火库如人工地震。直播与互动：美东时间9月19日早9点、中港台当晚9点</a></li>
+<li><a href="/cbnews/20240919/2090744.md">〖红朝浮世绘〗中共夜郎自大，带动全民意淫</a></li>
 <li><a href="/cbnews/20240919/2090832.md">惊传：比亚迪员工跳楼身亡 原因曝光</a></li>
 <li><a href="/headline/20240919/2090865.md">深圳日本人学校男童被刺伤重不治 燃起日人怒火「乾脆断交算了」</a></li>
 <li><a href="/topimagenews/20240919/2090784.md">夜空好多“蕈状云”! 俄最大导弹库挨轰 数万炸弹被毁 引发20次地震</a></li>
@@ -26,8 +26,8 @@
 <li><a href="/topimagenews/20240919/2090609.md">深圳日本童遇刺 加剧恐慌 中共驻日大使被召见</a></li>
 <li><a href="/cbnews/20240919/2090831.md">广州政府划“政商交往红线” 网络炸锅：你信吗？</a></li>
 <li><a href="/lifebaike/20240919/2090794.md">彻底绝望！加拿大超20万留学生面临驱逐</a></li>
-<li><a href="/topimagenews/20240919/2090607.md">中国中产们不知道！中央这根稻草没余粮了；各地政府疯狂！中国私有化浪潮正悄然展开？</a></li>
 <li><a href="/headline/20240919/2090879.md">日本学校男童在深圳遭袭不治死亡 首相发声</a></li>
+<li><a href="/topimagenews/20240919/2090607.md">中国中产们不知道！中央这根稻草没余粮了；各地政府疯狂！中国私有化浪潮正悄然展开？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20240820/2076774.md" target="_blank">胡平：批判法轮功的人,为何不用同样标准分析其他宗教</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/tculture/20240904/2083774.md" target="_blank">“几生修得到梅花”之生命品格浅议</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20240918/2089868.md" target="_blank">马云前世修道，李嘉诚前世是和尚-数字漫谈（三）</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20240813/2074068.md" target="_blank">天眼所见自杀者的悲惨境况，人一定要珍惜生命</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20240825/2079044.md" target="_blank">谁是创世主</a></li>
+<li><a href="/comments/20231201/1968320.md" target="_blank">【非凡新闻】结合中西文化精神 美国神韵表演吸睛</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20190213/1080251.md" target="_blank">胡平：法轮功为何反对自杀？</a></li>
+<li><a href="/comments/20240623/2053092.md" target="_blank">章天亮：那些行于世间的觉者</a></li>
+<li><a href="/comments/20231212/1972297.md" target="_blank">日本华人确诊晚期直肠癌，修炼法轮功恢复健康（图）</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
 
 </ul>
 </div>
