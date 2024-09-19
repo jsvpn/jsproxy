@@ -7,7 +7,6 @@
 
 <li><a href="/topimagenews/20240919/2090654.md">都撤了！中国网民集体哀叹：一个时代结束</a></li>
 <li><a href="/topimagenews/20240919/2090688.md">拿人当傻子！中共党中央国务院同意 发改委商务部发布的第23号令</a></li>
-<li><a href="/comments/20240919/2090634.md">文昭：习近平终於要出这一步：世袭制；他们被连锅端，泄漏了习的健康秘密？</a></li>
 <li><a href="/baitai/20240919/2090684.md">71年陈毅看望病中朱德，朱德一句肺腑之言说了两遍，陈毅沉默不答</a></li>
 <li><a href="/cbnews/20240919/2090788.md">日本小学生在深圳遭中国人砍死！日使馆降半旗、日外相怒骂“卑劣”</a></li>
 <li><a href="/cnnews/20240919/2090691.md">急了？“多生孩子少戴套”！中国挂红布条 网傻眼</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/topimagenews/20240919/2090946.md">日本男童遇刺亡 陆网：日资跑光日子更难过</a></li>
 <li><a href="/baitai/20240919/2090908.md">习最恐惧的事正在发生？中国一大群大学生争抢一份打扫卫生工作 广东上海惊现有人要民主自由 网络疯传讨伐习近平推翻中共檄文</a></li>
 <li><a href="/comments/20240919/2091001.md">天安门广场女喊📣打倒共产党！画质不清可人民的意志很清楚</a></li>
+<li><a href="/ssgc/20240919/2090673.md">〖微博谈〗是一种哑巴吃黄连的自愿</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240920/2091121.md" target="_blank">湖南财政厅长被两人从窗户扔下被杀 背后水很深</a></li>
+<li><a href="/cbnews/20240920/2091120.md" target="_blank">男童深圳遇刺亡 日本朝野愤怒 中共官媒忙删文</a></li>
 <li><a href="/comments/20240920/2091111.md" target="_blank">周子定：摩萨德放长线钓大鱼，情报史上又一经典案例；各国防范中共远程黑客 ｜方菲时间</a></li>
 <li><a href="/cbnews/20240920/2091103.md" target="_blank">应对俄中威胁 美阿拉斯加部署劲旅和火箭系统</a></li>
 <li><a href="/cbnews/20240920/2091102.md" target="_blank">日本男童遭中国人砍死！目击者：腹部被刺肠外露&#8230;</a></li>
@@ -58,14 +60,14 @@
 <li><a href="/cbnews/20240919/2090832.md" target="_blank">惊传：比亚迪员工跳楼身亡 原因曝光</a></li>
 <li><a href="/cbnews/20240919/2090831.md" target="_blank">广州政府划“政商交往红线” 网络炸锅：你信吗？</a></li>
 <li><a href="/cbnews/20240919/2090789.md" target="_blank">日童深圳上学遭中国人砍死！母亲双手血求救：孩子到底做错了什么</a></li>
-<li><a href="/cbnews/20240919/2090788.md" target="_blank">日本小学生在深圳遭中国人砍死！日使馆降半旗、日外相怒骂“卑劣”</a></li>
-<li><a href="/cbnews/20240919/2090787.md" target="_blank">黎巴嫩对讲机集体爆炸 中共嫁祸台湾手段曝光</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240920/2091119.md" target="_blank">太有冲击力了！这是习近平原话？【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20240920/2091118.md" target="_blank">俄乌战损谁更惨？华日独家披露震撼数字</a></li>
 <li><a href="/topimagenews/20240920/2091087.md" target="_blank">惊呆！习不希望普京打赢？</a></li>
 <li><a href="/topimagenews/20240920/2091086.md" target="_blank">大量送往乌克兰！美欠台军火高达2百零5亿美元</a></li>
 <li><a href="/topimagenews/20240919/2090946.md" target="_blank">日本男童遇刺亡 陆网：日资跑光日子更难过</a></li>
@@ -89,8 +91,6 @@
 <li><a href="/topimagenews/20240918/2090249.md" target="_blank">中国大地暴兵起？太惊悚！太阳成2半：“日中分，其国亡”</a></li>
 <li><a href="/topimagenews/20240918/2090229.md" target="_blank">能撑多久？中国中产们不知道！中央这根稻草没余粮了</a></li>
 <li><a href="/topimagenews/20240918/2090187.md" target="_blank">中国光鲜靓丽高楼大厦沦坟场！中共高官曝惊人内幕</a></li>
-<li><a href="/topimagenews/20240918/2090159.md" target="_blank">习近平仰仗张又侠 勾兑内部恐怖平衡？</a></li>
-<li><a href="/topimagenews/20240918/2090113.md" target="_blank">毛泽东钦点的女孩害了多少人？惊人秘密很少人懂【阿波罗网报道】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20240820/2076958.md" target="_blank">惠虎宇：中华文化为什么是高级文化系统(3)</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/tculture/20240916/2089420.md" target="_blank">诗人苏轼与黄庭坚的生命轮回</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/comments/20190701/1151501.md" target="_blank">【特稿】中国共产党是邪教组织</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
 <li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20240126/1992876.md" target="_blank">内幕：中国留学生里女生打男生和男生打女一样普遍</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20231212/1972297.md" target="_blank">日本华人确诊晚期直肠癌，修炼法轮功恢复健康（图）</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/comments/20240828/2080320.md" target="_blank">惠虎宇：与AI聊传统宗教、科学和修炼</a></li>
-<li><a href="/comments/20231220/1976789.md" target="_blank">大陆医生曝：九价HPV疫苗导致怀孕能力下降40%</a></li>
-<li><a href="/comments/20231207/1970628.md" target="_blank">民兵对官军，希望之声打造广播界的奇蹟【方伟时间-20231206】</a></li>
-<li><a href="/cnnews/20221211/1822144.md" target="_blank">盖盖冲马桶很可怕！瞬间“病毒炸开”？</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20240808/2071869.md" target="_blank">【新纪元】被误解的大脑</a></li>
 
 </ul>
 </div>
