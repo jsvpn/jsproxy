@@ -10,24 +10,24 @@
 <li><a href="/sohnews/20240918/2090351.md">重大迹象：中共正式下架学习强国APP，深圳再发生袭击日本学生事件，香山论坛成就张又侠高光时刻。《老灯开讲第669期》</a></li>
 <li><a href="/topimagenews/20240919/2090600.md">“讨习伐共”大爆发！全国武警、警察署名？各行各业都反了？</a></li>
 <li><a href="/topimagenews/20240919/2090654.md">都撤了！中国网民集体哀叹：一个时代结束</a></li>
-<li><a href="/cnnews/20240918/2090327.md">华尔街突传巨响</a></li>
 <li><a href="/comments/20240919/2090634.md">文昭：习近平终於要出这一步：世袭制；他们被连锅端，泄漏了习的健康秘密？</a></li>
-<li><a href="/cbnews/20240919/2090601.md">大爆发 天下“讨习伐共”！全国警察武警各行各业都起来？</a></li>
 <li><a href="/topimagenews/20240919/2090688.md">拿人当傻子！中共党中央国务院同意 发改委商务部发布的第23号令</a></li>
+<li><a href="/cbnews/20240919/2090601.md">大爆发 天下“讨习伐共”！全国警察武警各行各业都起来？</a></li>
 <li><a href="/cbnews/20240918/2090438.md">川普当选，金融危机，黄金暴涨四倍，人类进化，世界重启，一定要注意10月24日这一天</a></li>
 <li><a href="/worldnews/20240918/2090331.md">美空军将领：俄罗斯比入侵乌克兰前规模更强大</a></li>
 <li><a href="/sohnews/20240918/2090385.md">援俄是死..弃俄也是死..习近平豁出去了!中共真敢冒险出兵援俄?挺俄出兵乌克兰 中共机会之窗六条件 影响中共对台战略! @democratictaiwanchannel</a></li>
+<li><a href="/baitai/20240919/2090684.md">71年陈毅看望病中朱德，朱德一句肺腑之言说了两遍，陈毅沉默不答</a></li>
 <li><a href="/cnnews/20240918/2090431.md">决定黄金命运的时刻来了</a></li>
 <li><a href="/topimagenews/20240919/2090610.md">中共福建舰内部结构首度曝光</a></li>
-<li><a href="/baitai/20240919/2090684.md">71年陈毅看望病中朱德，朱德一句肺腑之言说了两遍，陈毅沉默不答</a></li>
-<li><a href="/sohnews/20240918/2090382.md">陈破空：病情是绝密，惊传老习到处抓捕泄密者！灭口救活他的医生？受毛接见的反美红卫兵病逝美国。烂尾时代，中国股市跌破2700点。直播与互动：美东时间9月18日早9点、中港台当晚9点</a></li>
 <li><a href="/cnnews/20240919/2090691.md">急了？“多生孩子少戴套”！中国挂红布条 网傻眼</a></li>
+<li><a href="/sohnews/20240918/2090382.md">陈破空：病情是绝密，惊传老习到处抓捕泄密者！灭口救活他的医生？受毛接见的反美红卫兵病逝美国。烂尾时代，中国股市跌破2700点。直播与互动：美东时间9月18日早9点、中港台当晚9点</a></li>
 <li><a href="/topimagenews/20240918/2090492.md">黎巴嫩呼叫器爆炸 贴牌欧商BAC公司被起底 老板美魔女</a></li>
 <li><a href="/finance/20240918/2090387.md">全球金融巨头最新警告北京</a></li>
 <li><a href="/baitai/20240919/2090552.md">女知青把手表送给一个农民：我上完大学就嫁给你，不料她刚走，农民就和一个寡妇相亲</a></li>
 <li><a href="/topimagenews/20240919/2090607.md">中国中产们不知道！中央这根稻草没余粮了；各地政府疯狂！中国私有化浪潮正悄然展开？</a></li>
 <li><a href="/topimagenews/20240919/2090609.md">深圳日本童遇刺 加剧恐慌 中共驻日大使被召见</a></li>
 <li><a href="/worldnews/20240919/2090537.md">伊朗大使染血画面曝光 携呼叫器爆炸失去1眼、另1眼严重受伤</a></li>
+<li><a href="/topimagenews/20240919/2090536.md">黎巴嫩“对讲机再爆炸” 呼叫器案丧礼一声巨响3死10伤</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20190214/1080789.md" target="_blank">胡平：天安门自焚和人民圣殿教</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/comments/20231212/1972297.md" target="_blank">日本华人确诊晚期直肠癌，修炼法轮功恢复健康（图）</a></li>
-<li><a href="/cnnews/20150914/449521.md" target="_blank">无神论和有神论，乡下老太太驳倒三个博士</a></li>
-<li><a href="/cbnews/20190211/1078733.md" target="_blank">胡平：法轮功为什么能强化忍的精神</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20240814/2074560.md" target="_blank">曾预言川普右耳中枪的牧师，看到美国大灾难，川普在椭圆形办公室哭泣，祈祷神修复美国。不信神的人被淘汰。比格斯川普暗杀事件</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
+<li><a href="/comments/20190219/1082706.md" target="_blank">胡平：法轮功信仰自由，江泽民精神控制</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
 <li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/cnnews/20170717/792917.md" target="_blank">无神论是最大的迷信</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/lifebaike/20180529/949787.md" target="_blank">无神论是最大的迷信（下）：科学家大多是有神论</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20240801/2069416.md" target="_blank">无神论和有神论深度解析</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
 
 </ul>
 </div>
