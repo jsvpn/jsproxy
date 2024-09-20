@@ -17,17 +17,17 @@
 <li><a href="/cnnews/20240920/2091146.md">美赴中共国航班，坏消息来了</a></li>
 <li><a href="/cbnews/20240920/2091251.md">张又侠上蹿下跳 被习近平抓住把柄</a></li>
 <li><a href="/cnnews/20240920/2091107.md">中国妹子机上搭讪老外 狂聊100分钟引网热议</a></li>
-<li><a href="/topimagenews/20240919/2090946.md">日本男童遇刺亡 陆网：日资跑光日子更难过</a></li>
 <li><a href="/topimagenews/20240920/2091249.md">【微博精粹】它们在凌迟中华民族</a></li>
-<li><a href="/baitai/20240919/2090908.md">习最恐惧的事正在发生？中国一大群大学生争抢一份打扫卫生工作 广东上海惊现有人要民主自由 网络疯传讨伐习近平推翻中共檄文</a></li>
+<li><a href="/topimagenews/20240919/2090946.md">日本男童遇刺亡 陆网：日资跑光日子更难过</a></li>
 <li><a href="/topimagenews/20240920/2091175.md">“断交中国” 日本反中情绪高涨</a></li>
 <li><a href="/ssgc/20240920/2091034.md">湖南财政厅长等人坠楼 恐涉刑事案件</a></li>
 <li><a href="/cnnews/20240920/2091089.md">中国全球最大规模行业要玩完</a></li>
+<li><a href="/sohnews/20240920/2091295.md">张又侠果断抄了习近平后路，湖南省财政厅长刘文杰遇害真相，福建反共青年成立工农革命军独立第一团。《老灯开讲第671期》</a></li>
 <li><a href="/cbnews/20240920/2091088.md">分析：真主党寻呼机爆炸案 令中南海紧张</a></li>
 <li><a href="/topimagenews/20240920/2091118.md">俄乌战损谁更惨？华日独家披露震撼数字</a></li>
 <li><a href="/baitai/20240920/2091186.md">党魁物色接班人？前赵紫阳智囊揭习心中人选</a></li>
-<li><a href="/sohnews/20240920/2091295.md">张又侠果断抄了习近平后路，湖南省财政厅长刘文杰遇害真相，福建反共青年成立工农革命军独立第一团。《老灯开讲第671期》</a></li>
 <li><a href="/topimagenews/20240920/2091194.md">称自己不知道918事变 中国知名女网红疑似被捕</a></li>
+<li><a href="/cnnews/20240920/2091109.md">俄伤兵活着惨遭乌野狗吞食！国师杜金公开表示绝望</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240920/2091391.md" target="_blank">日本人快离开中国！深圳日本人学校事件</a></li>
 <li><a href="/comments/20240920/2091287.md" target="_blank">极端反日下，又一朵花凋零了</a></li>
 <li><a href="/comments/20240920/2091285.md" target="_blank">日本人紧急撤离中国？ 松下最快！深圳日本学校凶案加速脱钩，习近平慌了，蔡奇急删党媒文章！司马南遭遇西安真男儿</a></li>
 <li><a href="/comments/20240920/2091224.md" target="_blank">良知尚存的人们</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240920/2091072.md" target="_blank">【杜耀明评论】恐吓记者忍无可忍 警方调查避无可避</a></li>
 <li><a href="/comments/20240920/2091070.md" target="_blank">【“百分之百不是在台湾生产的！” 】</a></li>
 <li><a href="/comments/20240920/2091063.md" target="_blank">川普在家乡发表演讲，趣味横生。抛出诱人的竞选纲领，意在反转纽约州。川普美国大选纽约</a></li>
-<li><a href="/comments/20240920/2091062.md" target="_blank">孙雯曾为前纽约州长库默工作</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20231203/1969183.md" target="_blank">开盖冲马桶 ，细菌会乱飞？除非你家马桶是喷泉！</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/ssgc/20240508/2034288.md" target="_blank">《透视“进化论”》第九章 人类起源问题的终极答案</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
 <li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
-<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/comments/20240808/2071869.md" target="_blank">【新纪元】被误解的大脑</a></li>
+<li><a href="/comments/20231201/1968320.md" target="_blank">【非凡新闻】结合中西文化精神 美国神韵表演吸睛</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20231213/1973586.md" target="_blank">六道轮回之畜生道</a></li>
+<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/tculture/20220622/1748765.md" target="_blank">影响人类的两个图案——太极图和卍字符</a></li>
+<li><a href="/comments/20240723/2065714.md" target="_blank">台湾民视：解谜法轮功 气功或宗教？</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/cbnews/20190211/1078733.md" target="_blank">胡平：法轮功为什么能强化忍的精神</a></li>
 
 </ul>
 </div>
