@@ -21,10 +21,10 @@
 <li><a href="/baitai/20240920/2091186.md">党魁物色接班人？前赵紫阳智囊揭习心中人选</a></li>
 <li><a href="/topimagenews/20240920/2091215.md">恐爆全面战争！伊朗暗杀以总理计划败露 以空军出手</a></li>
 <li><a href="/topimagenews/20240920/2091118.md">俄乌战损谁更惨？华日独家披露震撼数字</a></li>
+<li><a href="/ccpdope/20240920/2091487.md">北京301医院专家尚爱加讣告中透蹊跷</a></li>
 <li><a href="/topimagenews/20240920/2091194.md">称自己不知道918事变 中国知名女网红疑似被捕</a></li>
 <li><a href="/topimagenews/20240920/2091378.md">整连打到只剩2人！俄兵哭求普京“放过他” 大量俄军投降 车臣司令批可耻</a></li>
 <li><a href="/cbnews/20240920/2091273.md">〖红朝浮世绘〗司马夹头变司马砸头 西凤酒投机不成反蚀把米</a></li>
-<li><a href="/ccpdope/20240920/2091487.md">北京301医院专家尚爱加讣告中透蹊跷</a></li>
 <li><a href="/sohnews/20240920/2091172.md">毛泽东贴身大厨私下透露“红太阳”男女隐情  很多细节禁止传播  327集</a></li>
 <li><a href="/sohnews/20240920/2091377.md">陈破空：蔡奇不管了，到处惊现批习雄文！中国人涌向日本人学校献花，习当局突然宣布取消日本水产品禁令。大瓜：湖南女厅长遭民间处置。直播与互动：美东时间9月20日早9点、中港台当晚9点</a></li>
 <li><a href="/cnnews/20240920/2091109.md">俄伤兵活着惨遭乌野狗吞食！国师杜金公开表示绝望</a></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240921/2091596.md" target="_blank">川哈辩论已过去9天，现在的民调结果是？</a></li>
 <li><a href="/comments/20240921/2091533.md" target="_blank">上海 VS 广州 惊现神秘人渡劫飞升</a></li>
 <li><a href="/comments/20240921/2091532.md" target="_blank">我还以为我是良民</a></li>
 <li><a href="/cbnews/20240920/2091475.md" target="_blank">河南领导集结400人 为建高速路强拆大学生创业果园</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240920/2091250.md" target="_blank">再现天价离婚案 科达制造董事长夫妇平分7亿</a></li>
 <li><a href="/comments/20240920/2091224.md" target="_blank">良知尚存的人们</a></li>
 <li><a href="/comments/20240920/2091223.md" target="_blank">湖南惊人大案现场</a></li>
-<li><a href="/cbnews/20240920/2091217.md" target="_blank">天呈异象 细思极恐！中国多地拍到“两个月亮”</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240921/2091596.md" target="_blank">川哈辩论已过去9天，现在的民调结果是？</a></li>
 <li><a href="/comments/20240921/2091582.md" target="_blank">【洞察国情】中俄边界不对等撤军</a></li>
 <li><a href="/comments/20240921/2091577.md" target="_blank">【按需外交？ 中国宣布将逐步恢复日本水产品进口】</a></li>
 <li><a href="/comments/20240921/2091533.md" target="_blank">上海 VS 广州 惊现神秘人渡劫飞升</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240920/2091201.md" target="_blank">他患“顽疾死症”！却大权在握统治中国</a></li>
 <li><a href="/comments/20240920/2091196.md" target="_blank">总统辩论一周后，两大聚合民调都指向这个方向</a></li>
 <li><a href="/comments/20240920/2091181.md" target="_blank">邹思聪：“极端的民族主义，一定是与世界为敌。”</a></li>
-<li><a href="/comments/20240920/2091180.md" target="_blank">部分在日中国人关于深圳918日籍学童遇袭事件的联署声明</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
-<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20190213/1080251.md" target="_blank">胡平：法轮功为何反对自杀？</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20190219/1082706.md" target="_blank">胡平：法轮功信仰自由，江泽民精神控制</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
 <li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
+<li><a href="/comments/20240623/2053092.md" target="_blank">章天亮：那些行于世间的觉者</a></li>
+<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/cbnews/20190701/1151453.md" target="_blank">盘点十大邪教特征 中共条条对号入座</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20240116/1984226.md" target="_blank">湖北老河口遇仙记</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/ssgc/20240508/2034288.md" target="_blank">《透视“进化论”》第九章 人类起源问题的终极答案</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
 
 </ul>
 </div>
