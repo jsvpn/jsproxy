@@ -6,28 +6,28 @@
 <ul>
 
 <li><a href="/cbnews/20240919/2090788.md">日本小学生在深圳遭中国人砍死！日使馆降半旗、日外相怒骂“卑劣”</a></li>
-<li><a href="/baitai/20240919/2090823.md">随时开战？中共宣传直接翻车 民间团体正悄悄崛起</a></li>
 <li><a href="/cbnews/20240919/2090986.md">深圳女手撕渣男 58页PPT举报银行业男友嫖娼、有300多名炮友</a></li>
+<li><a href="/baitai/20240919/2090823.md">随时开战？中共宣传直接翻车 民间团体正悄悄崛起</a></li>
 <li><a href="/cbnews/20240919/2090744.md">〖红朝浮世绘〗中共夜郎自大，带动全民意淫</a></li>
 <li><a href="/sohnews/20240919/2090876.md">陈破空：惶急，老习要指定他当接班人？急删御医信息！证实灭口。日本学生遇刺身亡，中日何不断交？乌军炸毁俄巨大军火库如人工地震。直播与互动：美东时间9月19日早9点、中港台当晚9点</a></li>
 <li><a href="/cbnews/20240919/2090832.md">惊传：比亚迪员工跳楼身亡 原因曝光</a></li>
 <li><a href="/headline/20240919/2090865.md">深圳日本人学校男童被刺伤重不治 燃起日人怒火「乾脆断交算了」</a></li>
+<li><a href="/sohnews/20240919/2090924.md">林彪真的死在坠机上了吗？</a></li>
 <li><a href="/cbnews/20240919/2090789.md">日童深圳上学遭中国人砍死！母亲双手血求救：孩子到底做错了什么</a></li>
 <li><a href="/sohnews/20240920/2091044.md">“传涉及6000万！施暴者来自湖南岳阳江姓：分别是人大代表和先进青年”No 04（09 19 24）</a></li>
 <li><a href="/topimagenews/20240919/2090784.md">夜空好多“蕈状云”! 俄最大导弹库挨轰 数万炸弹被毁 引发20次地震</a></li>
-<li><a href="/sohnews/20240919/2090924.md">林彪真的死在坠机上了吗？</a></li>
+<li><a href="/topimagenews/20240920/2091119.md">太有冲击力了！这是习近平原话？【阿波罗网报道】</a></li>
 <li><a href="/comments/20240919/2090753.md">离奇封天安门，习近平新时代被黑；《求是》忘关评论，国骂井喷！司马南夹头变磕头；30万订阅彩蛋开奖</a></li>
+<li><a href="/cbnews/20240920/2091121.md">湖南财政厅长被两人从窗户扔下被杀 背后水很深</a></li>
+<li><a href="/baitai/20240920/2091051.md">不论夫妻还是情人，能长久的关系，都离不开这3个字</a></li>
 <li><a href="/baitai/20240919/2090897.md">【404文库】打冷｜他杀死的，是深圳人的孩子</a></li>
 <li><a href="/topimagenews/20240919/2090946.md">日本男童遇刺亡 陆网：日资跑光日子更难过</a></li>
+<li><a href="/topimagenews/20240920/2091087.md">惊呆！习不希望普京打赢？</a></li>
 <li><a href="/cbnews/20240919/2090831.md">广州政府划“政商交往红线” 网络炸锅：你信吗？</a></li>
-<li><a href="/topimagenews/20240920/2091119.md">太有冲击力了！这是习近平原话？【阿波罗网报道】</a></li>
 <li><a href="/lifebaike/20240919/2090794.md">彻底绝望！加拿大超20万留学生面临驱逐</a></li>
-<li><a href="/baitai/20240920/2091051.md">不论夫妻还是情人，能长久的关系，都离不开这3个字</a></li>
 <li><a href="/headline/20240919/2090879.md">日本学校男童在深圳遭袭不治死亡 首相发声</a></li>
 <li><a href="/comments/20240919/2091001.md">天安门广场女喊📣打倒共产党！画质不清可人民的意志很清楚</a></li>
-<li><a href="/topimagenews/20240920/2091087.md">惊呆！习不希望普京打赢？</a></li>
 <li><a href="/baitai/20240919/2090908.md">习最恐惧的事正在发生？中国一大群大学生争抢一份打扫卫生工作 广东上海惊现有人要民主自由 网络疯传讨伐习近平推翻中共檄文</a></li>
-<li><a href="/cbnews/20240920/2091121.md">湖南财政厅长被两人从窗户扔下被杀 背后水很深</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240920/2091206.md" target="_blank">人被警察打死，医院还在用药9天，然后开出天价医疗费</a></li>
+<li><a href="/comments/20240920/2091205.md" target="_blank">张3丰：我依然为那个日本男孩感到悲伤</a></li>
+<li><a href="/comments/20240920/2091204.md" target="_blank">冷冷｜他杀死的，是深圳人的孩子</a></li>
+<li><a href="/comments/20240920/2091202.md" target="_blank">张3丰：深圳被蒙上了一层 它还缺了点什么</a></li>
+<li><a href="/comments/20240920/2091201.md" target="_blank">他患“顽疾死症”！却大权在握统治中国</a></li>
 <li><a href="/comments/20240920/2091196.md" target="_blank">总统辩论一周后，两大聚合民调都指向这个方向</a></li>
 <li><a href="/comments/20240920/2091181.md" target="_blank">邹思聪：“极端的民族主义，一定是与世界为敌。”</a></li>
 <li><a href="/comments/20240920/2091180.md" target="_blank">部分在日中国人关于深圳918日籍学童遇袭事件的联署声明</a></li>
@@ -117,11 +122,6 @@
 <li><a href="/comments/20240919/2091002.md" target="_blank">天亮时分：BB机是什麽？怎麽成为了武器？</a></li>
 <li><a href="/comments/20240919/2091001.md" target="_blank">天安门广场女喊📣打倒共产党！画质不清可人民的意志很清楚</a></li>
 <li><a href="/comments/20240919/2091000.md" target="_blank">【深圳日本学校男童遇刺伤重不治 中国外交部定性为“个案”】</a></li>
-<li><a href="/comments/20240919/2090976.md" target="_blank">枪手罗斯是一个什么样的人？</a></li>
-<li><a href="/comments/20240919/2090968.md" target="_blank">【围炉夜话精华版】深圳遇袭日本男童不幸身亡；事件将直接影响日本下一任首相的产生 ｜唐靖远 林晓旭 David 方菲 ｜围炉夜话 09/18</a></li>
-<li><a href="/comments/20240919/2090939.md" target="_blank">美联储大幅降息，如何影响总统选举？参议院独立调查，发现特勤局一重大问题。川普特勤局美联储</a></li>
-<li><a href="/comments/20240919/2090938.md" target="_blank">【未普评论】贺锦丽和特朗普不管谁当选 不能再出让美国对世界的领导权</a></li>
-<li><a href="/comments/20240919/2090916.md" target="_blank">外交部胡诌被翻出！太创意留言被封【华大妈华春莹🦐🚗🥚】中国民众对中共政府的信任度达98%哈哈哈</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/topimagenews/20200514/1328456.md" target="_blank">穿越时空 谢田教授亲身体验人体特异功能</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/comments/20231204/1969287.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （三）</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20231223/1978148.md" target="_blank">医山夜话：张锡纯医案解读（三）赭石：降胃气 引火下行</a></li>
-<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/tculture/20240815/2074891.md" target="_blank">松果体 谜一样的器官</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
 
 </ul>
 </div>
