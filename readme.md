@@ -7,7 +7,6 @@
 
 <li><a href="/topimagenews/20240921/2091601.md">中国经济或迎灭顶之灾！中共国资委下绝杀令；民众愤怒掀退保潮，李强依然强硬喊话</a></li>
 <li><a href="/cbnews/20240921/2091653.md">自毁江山！习雄心勃勃8000亿逆天工程要给中共送终</a></li>
-<li><a href="/baitai/20240921/2091542.md">悬赏公告！张欣，女，1992年出生</a></li>
 <li><a href="/cbnews/20240921/2091667.md">湖南财政厅女厅长坠亡事件震惊全国 知情人披露更多内幕</a></li>
 <li><a href="/topimagenews/20240921/2091589.md">北京突180度大转弯自打脸 日本举国愤怒撤离大潮不可阻挡</a></li>
 <li><a href="/topimagenews/20240921/2091747.md">警报全面拉响！北京就要走上绝路</a></li>
@@ -15,9 +14,9 @@
 <li><a href="/baitai/20240921/2091561.md">普京深夜抵达，曾狮子大开口要中国天津港的蒙古国，这一次想通了</a></li>
 <li><a href="/comments/20240921/2091643.md">文昭：湖南女厅长被杀，可怕的真相浮现；最新官方通报含重大隐情</a></li>
 <li><a href="/topimagenews/20240921/2091590.md">路透社发文，习近平主席应该向他致以诚挚谢意</a></li>
+<li><a href="/sohnews/20240921/2091736.md">湖南财政厅长刘文杰，因协助中纪委调查习远平，被灭口！陕西商洛市村民暴动，砍杀40多名村镇干部！日本男孩在深圳被杀后，当局同意日本核处理水排放计划，同意进口日本海鲜！携程董事长梁建章建议征收失业税！</a></li>
 <li><a href="/lifebaike/20240921/2091823.md">鼻毛总“窜”出来的男人，暗示了什么？为何有人的鼻毛会“变白”</a></li>
 <li><a href="/topimagenews/20240921/2091836.md">大限已不远 中共疯狂扫货</a></li>
-<li><a href="/sohnews/20240921/2091736.md">湖南财政厅长刘文杰，因协助中纪委调查习远平，被灭口！陕西商洛市村民暴动，砍杀40多名村镇干部！日本男孩在深圳被杀后，当局同意日本核处理水排放计划，同意进口日本海鲜！携程董事长梁建章建议征收失业税！</a></li>
 <li><a href="/cbnews/20240921/2091710.md">〖红朝浮世绘〗鲜血凝成的中朝友谊要反目成仇了</a></li>
 <li><a href="/sohnews/20240921/2091827.md">【袁红冰纵论天下】专题：习近平对中共太子党的报复式反击战已经开始 09212024</a></li>
 <li><a href="/cbnews/20240921/2091602.md">中共突取消日水产品限制 小粉红破大防</a></li>
@@ -26,8 +25,9 @@
 <li><a href="/cbnews/20240921/2091726.md">漏洞百出 湖南警方通报厅长死亡案受广泛质疑</a></li>
 <li><a href="/topimagenews/20240921/2091837.md">日本全社会要求中共公开深圳日本男童遇刺真相 四大报愤怒发社论警告</a></li>
 <li><a href="/cnnews/20240921/2091591.md">泪目！日童遇难 网传其父信件</a></li>
-<li><a href="/comments/20240921/2091626.md">竹不倒：日本男童遇难，立刻传来一个坏消息</a></li>
 <li><a href="/baitai/20240921/2091883.md">央视曝光：撒贝宁出事了！1秒被女人和狗催眠，网友：我不敢看</a></li>
+<li><a href="/topimagenews/20240921/2091886.md">美军革命性武器曝光：NG InSight系统颠覆空战格局</a></li>
+<li><a href="/comments/20240921/2091626.md">竹不倒：日本男童遇难，立刻传来一个坏消息</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
-<li><a href="/comments/20231212/1972297.md" target="_blank">日本华人确诊晚期直肠癌，修炼法轮功恢复健康（图）</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20190701/1151501.md" target="_blank">【特稿】中国共产党是邪教组织</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/cbnews/20240904/2083703.md" target="_blank">复眼与变态 昆虫奥秘令进化论失据</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/bblog/20240813/2073608.md" target="_blank">惊人内幕：脑死亡不是死亡，只是深度昏迷骗你捐器官</a></li>
+<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
 <li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/comments/20240813/2074068.md" target="_blank">天眼所见自杀者的悲惨境况，人一定要珍惜生命</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/comments/20240808/2071869.md" target="_blank">【新纪元】被误解的大脑</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20240801/2069416.md" target="_blank">无神论和有神论深度解析</a></li>
+<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
 
 </ul>
 </div>
