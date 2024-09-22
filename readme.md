@@ -12,8 +12,8 @@
 <li><a href="/baitai/20240922/2091980.md">最危险人物「三朝国师」王沪宁现不妙信号！ 娶老婆越娶年龄越小 为习近平画下大饼 操盘对台政策「棉里藏针」习家军内斗战火也烧到了他的团团伙伙</a></li>
 <li><a href="/sohnews/20240922/2092171.md">习近平痛骂张又侠是张学良要搞西安事变，湖南财政厅长案竟然涉及习远平，红三代再爆军队猛料。《老灯开讲第673期》</a></li>
 <li><a href="/ccpdope/20240922/2091925.md">一份「独家爆料」气疯中共 温柔女博主驳斥下流报复</a></li>
-<li><a href="/topimagenews/20240922/2092092.md">惊呆！“我们解放军的纪律，就是杀日本人”</a></li>
 <li><a href="/baitai/20240922/2092172.md">触逆鳞者亡？传习近平与最依赖亲信翻脸 谁也信不过 习要效仿朝鲜搞世袭制？专家指他最有可能当选</a></li>
+<li><a href="/topimagenews/20240922/2092092.md">惊呆！“我们解放军的纪律，就是杀日本人”</a></li>
 <li><a href="/topimagenews/20240922/2092065.md">【微博精粹】整个社会被击穿 只剩溃败一条路</a></li>
 <li><a href="/topimagenews/20240922/2091968.md">鼓吹“万亿美元回流中国”，非蠢即坏</a></li>
 <li><a href="/sohnews/20240922/2092125.md">网警放行，痛批习近平的网文《他的顽疾死症》在微信群传播。朝鲜最高领导人金正恩称中国是朝鲜的宿敌。</a></li>
@@ -21,13 +21,13 @@
 <li><a href="/topimagenews/20240922/2092038.md">让99%的中国老百姓没有积蓄，是上层社会的策略</a></li>
 <li><a href="/comments/20240922/2092079.md">天津UFO太多了！没完没了！</a></li>
 <li><a href="/topimagenews/20240922/2092091.md">恐怖聊天曝光！中共国“优秀警察”奉命 打残民营企业家</a></li>
+<li><a href="/topimagenews/20240922/2092197.md">赖清德做好玉石俱焚的准备</a></li>
 <li><a href="/cbnews/20240922/2091983.md">司马南扮李白惹众怒 西凤酒灾难性翻车急发通告</a></li>
 <li><a href="/sohnews/20240922/2091959.md">真假？传习近平主治医生泄密被灭口，正反3大疑点解析；乌军连环奇袭得手，普京一大优势岌岌可危！｜远见快评 唐靖远</a></li>
 <li><a href="/cbnews/20240922/2091988.md">北京大凶之兆！夜空多个光球飞舞 大火球突然坠落</a></li>
 <li><a href="/lifebaike/20240922/2092097.md">永不贬值的16大资产</a></li>
-<li><a href="/topimagenews/20240922/2092197.md">赖清德做好玉石俱焚的准备</a></li>
+<li><a href="/sohnews/20240922/2092181.md">火爆！彭博社记者就日本小学生事件连续质问毛宁：你当我们傻吗？🤨 毛宁都被问毛了😡</a></li>
 <li><a href="/lifebaike/20240922/2092166.md">别人向你借钱时，不管借与不借，你先要提三个问题</a></li>
-<li><a href="/ssgc/20240922/2091918.md">为什么中国经济增长乏力并没有让习近平感到不安？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240922/2092256.md" target="_blank">深圳日本人学校💐💐💐花全被拿走！男孩被刺 民众献花悼念 918害日本人小学生案</a></li>
 <li><a href="/comments/20240922/2092253.md" target="_blank">悲剧了！就买了套杭州房子；桥水达里奥点出中国经济死结；中共恢复进口日本水产品，背后代价是什么 ｜金菲昔比 方菲时间</a></li>
 <li><a href="/comments/20240922/2092208.md" target="_blank">小心掉坑里！反动搞笑小视频🤣李强受气包表情</a></li>
 <li><a href="/comments/20240922/2092150.md" target="_blank">揭开哈里斯要求再次辩论的三大原因。哈里斯团队激将川普10月23日在CNN进行第二场辩论。川普公开回应。川普哈里斯电视辩论</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240922/2091990.md" target="_blank">老鱼随便说：六百多名真主党成员惨遭阉割！以军剑走偏锋</a></li>
 <li><a href="/comments/20240922/2091978.md" target="_blank">川普获得了特情局升级版安保措施</a></li>
 <li><a href="/comments/20240922/2091943.md" target="_blank">百众一心，《加强总统安全法案》全票通过</a></li>
-<li><a href="/comments/20240921/2091911.md" target="_blank">进口开放！小粉红再吃日本海鲜🍣跟深圳男童遇袭没有一丢丢关系？曾大力谴责福岛核废水排放 中共国外交部又改口 #中国</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20231220/1976789.md" target="_blank">大陆医生曝：九价HPV疫苗导致怀孕能力下降40%</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20231130/1967587.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （一）</a></li>
+<li><a href="/comments/20240703/2057730.md" target="_blank">百年梦醒（十七）：马克思的连环计、出卖灵魂</a></li>
+<li><a href="/comments/20240825/2079044.md" target="_blank">谁是创世主</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
 <li><a href="/tculture/20240904/2083774.md" target="_blank">“几生修得到梅花”之生命品格浅议</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/tculture/20240815/2074891.md" target="_blank">松果体 谜一样的器官</a></li>
-<li><a href="/sohnews/20160119/493472.md" target="_blank">无效的医疗：手术刀下的谎言和药瓶里的欺骗</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20240820/2076940.md" target="_blank">惠虎宇：中华文化为什么是高级文化系统(2)</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20231223/1978148.md" target="_blank">医山夜话：张锡纯医案解读（三）赭石：降胃气 引火下行</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/bblog/20240813/2073608.md" target="_blank">惊人内幕：脑死亡不是死亡，只是深度昏迷骗你捐器官</a></li>
+<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
+<li><a href="/cnnews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
 
 </ul>
 </div>
