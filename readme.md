@@ -11,23 +11,23 @@
 <li><a href="/baitai/20240922/2091922.md">刘德华12岁女儿近照曝光，花5亿富养大的女儿，没想到长成了这样……</a></li>
 <li><a href="/baitai/20240922/2091980.md">最危险人物「三朝国师」王沪宁现不妙信号！ 娶老婆越娶年龄越小 为习近平画下大饼 操盘对台政策「棉里藏针」习家军内斗战火也烧到了他的团团伙伙</a></li>
 <li><a href="/ccpdope/20240922/2091925.md">一份「独家爆料」气疯中共 温柔女博主驳斥下流报复</a></li>
-<li><a href="/topimagenews/20240922/2092092.md">惊呆！“我们解放军的纪律，就是杀日本人”</a></li>
-<li><a href="/cbnews/20240921/2091896.md">不会憎恨中国 网传被害日童之父唯一愿望是…</a></li>
 <li><a href="/sohnews/20240922/2092171.md">习近平痛骂张又侠是张学良要搞西安事变，湖南财政厅长案竟然涉及习远平，红三代再爆军队猛料。《老灯开讲第673期》</a></li>
+<li><a href="/topimagenews/20240922/2092092.md">惊呆！“我们解放军的纪律，就是杀日本人”</a></li>
 <li><a href="/topimagenews/20240922/2092065.md">【微博精粹】整个社会被击穿 只剩溃败一条路</a></li>
 <li><a href="/sohnews/20240922/2092125.md">网警放行，痛批习近平的网文《他的顽疾死症》在微信群传播。朝鲜最高领导人金正恩称中国是朝鲜的宿敌。</a></li>
-<li><a href="/topimagenews/20240922/2091982.md">遭遇这些事 法男狂骂“再不会踏进中国一步”</a></li>
 <li><a href="/topimagenews/20240922/2091968.md">鼓吹“万亿美元回流中国”，非蠢即坏</a></li>
+<li><a href="/topimagenews/20240922/2091982.md">遭遇这些事 法男狂骂“再不会踏进中国一步”</a></li>
+<li><a href="/baitai/20240922/2092172.md">触逆鳞者亡？传习近平与最依赖亲信翻脸 谁也信不过 习要效仿朝鲜搞世袭制？专家指他最有可能当选</a></li>
 <li><a href="/topimagenews/20240922/2092038.md">让99%的中国老百姓没有积蓄，是上层社会的策略</a></li>
 <li><a href="/comments/20240922/2092079.md">天津UFO太多了！没完没了！</a></li>
-<li><a href="/baitai/20240922/2092172.md">触逆鳞者亡？传习近平与最依赖亲信翻脸 谁也信不过 习要效仿朝鲜搞世袭制？专家指他最有可能当选</a></li>
 <li><a href="/cbnews/20240922/2091983.md">司马南扮李白惹众怒 西凤酒灾难性翻车急发通告</a></li>
+<li><a href="/cbnews/20240922/2091988.md">北京大凶之兆！夜空多个光球飞舞 大火球突然坠落</a></li>
 <li><a href="/sohnews/20240922/2091959.md">真假？传习近平主治医生泄密被灭口，正反3大疑点解析；乌军连环奇袭得手，普京一大优势岌岌可危！｜远见快评 唐靖远</a></li>
 <li><a href="/topimagenews/20240922/2092091.md">恐怖聊天曝光！中共国“优秀警察”奉命 打残民营企业家</a></li>
-<li><a href="/cbnews/20240922/2091988.md">北京大凶之兆！夜空多个光球飞舞 大火球突然坠落</a></li>
-<li><a href="/sohnews/20240921/2091893.md">习近平医师遭..处..决..？｜精彩片段 09.21.2024</a></li>
 <li><a href="/lifebaike/20240922/2092097.md">永不贬值的16大资产</a></li>
 <li><a href="/ssgc/20240922/2091918.md">为什么中国经济增长乏力并没有让习近平感到不安？</a></li>
+<li><a href="/lifebaike/20240922/2092024.md">三国最阴险小人专杀恩人 死后被当佛教英雄供奉</a></li>
+<li><a href="/comments/20240922/2091990.md">老鱼随便说：六百多名真主党成员惨遭阉割！以军剑走偏锋</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20231214/1974098.md" target="_blank">美国众议院议长：我所坚守的保守主义，具体是些什么内容？</a></li>
+<li><a href="/cbnews/20190211/1078733.md" target="_blank">胡平：法轮功为什么能强化忍的精神</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
 <li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20231207/1970628.md" target="_blank">民兵对官军，希望之声打造广播界的奇蹟【方伟时间-20231206】</a></li>
+<li><a href="/comments/20240412/2024185.md" target="_blank">是治疗还是屠杀?化疗药品滴一滴在皮肤即灼伤，很长时间才好</a></li>
+<li><a href="/cbnews/20190701/1151453.md" target="_blank">盘点十大邪教特征 中共条条对号入座</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/comments/20240921/2091850.md" target="_blank">冥府阎王的阴差 吴玉华视频访谈，活人做阴差 当代真实案例</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
 <li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/tculture/20231208/1971390.md" target="_blank">传统文化之汉字的内涵</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
+<li><a href="/comments/20240820/2076940.md" target="_blank">惠虎宇：中华文化为什么是高级文化系统(2)</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
 
 </ul>
 </div>
