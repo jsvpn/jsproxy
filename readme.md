@@ -16,17 +16,17 @@
 <li><a href="/ccpdope/20240923/2092525.md">中国大萧条到处可见 实体经济全方位崩盘</a></li>
 <li><a href="/cnnews/20240923/2092623.md">中共女高官遭爆床战58男下属 认了收贿6000万被判13年</a></li>
 <li><a href="/topimagenews/20240923/2092285.md">北京慌了！或被纳入堤丰导弹射程</a></li>
-<li><a href="/topimagenews/20240923/2092575.md">普京惨遭2“盟友”背叛! 这两国家被曝偷偷提供大量军火给乌克兰</a></li>
 <li><a href="/topimagenews/20240923/2092437.md">【微博精粹】铁链女再现——浙江余姚</a></li>
+<li><a href="/topimagenews/20240923/2092575.md">普京惨遭2“盟友”背叛! 这两国家被曝偷偷提供大量军火给乌克兰</a></li>
 <li><a href="/sohnews/20240923/2092579.md">陈破空：北京开会，汪洋罕见出场。还有习的恩人和宿敌！党媒只字未提。老习前脚刚走，甘肃官员遭报复，罪名：长期阅看违禁书籍。直播与互动：美东时间9月23日早9点、中港台当晚9点</a></li>
-<li><a href="/cbnews/20240923/2092480.md">湖南株洲严重车祸 已致6死8伤 传死者中有双胞胎</a></li>
 <li><a href="/sohnews/20240923/2092631.md">惊闻！习近平主治医生被chu决？！习近平</a></li>
+<li><a href="/cbnews/20240923/2092480.md">湖南株洲严重车祸 已致6死8伤 传死者中有双胞胎</a></li>
 <li><a href="/cbnews/20240923/2092289.md">湖南财政厅长命案 陆媒称嫌犯热心公益性格好</a></li>
 <li><a href="/cbnews/20240923/2092430.md">〖红朝浮世绘〗论具煽动意图的刊物，港府先把毛主席语录禁了吧</a></li>
 <li><a href="/topimagenews/20240923/2092464.md">当年特大涉外灭门惨案，官方消声，至今鲜为人知</a></li>
 <li><a href="/sohnews/20240923/2092428.md">女厅长得罪了谁？</a></li>
-<li><a href="/ssgc/20240923/2092362.md">〖微博谈〗必须想尽一切办法终止中共的恶</a></li>
 <li><a href="/comments/20240923/2092563.md">那么多中国人在日本被杀，怎么没人反思仇华思想？</a></li>
+<li><a href="/ssgc/20240923/2092362.md">〖微博谈〗必须想尽一切办法终止中共的恶</a></li>
 <li><a href="/cbnews/20240923/2092286.md">江苏千万身价老板破产 法院4元拍卖雪碧引热议</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240924/2092761.md" target="_blank">【济南王炉村民众击退强拆队 高喊“共产党万岁”】</a></li>
+<li><a href="/comments/20240924/2092756.md" target="_blank">《亚太报道》2024年9月23日音频</a></li>
 <li><a href="/comments/20240924/2092753.md" target="_blank">川普纽约长岛集会说将赢得纽约，你相信吗？</a></li>
 <li><a href="/comments/20240924/2092749.md" target="_blank">评论 &#8211; 余杰：谁把吃人不吐骨头的国家当做祖国？</a></li>
 <li><a href="/comments/20240924/2092742.md" target="_blank">专栏 &#8211; 劳工通讯：比亚迪无锡电子厂工人罢工 工会在哪里？(五)</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240923/2092391.md" target="_blank">新新默存- 王五四：一个以粪为美的时代</a></li>
 <li><a href="/comments/20240923/2092390.md" target="_blank">十岁日本男孩被害的背后：快手上278个视频呼吁“拆除日本学校”，点赞量超两百万</a></li>
 <li><a href="/comments/20240923/2092389.md" target="_blank">龅牙赵：正常人不要痴迷于“我发现了一个恐怖的大阴谋”</a></li>
-<li><a href="/comments/20240923/2092388.md" target="_blank">西藏数字监控登峰造极 远超新疆</a></li>
-<li><a href="/comments/20240923/2092387.md" target="_blank">深圳遇难日本男童父亲小山纯平：我唯一的愿望，是这样的悲剧不再重演</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20220622/1748765.md" target="_blank">影响人类的两个图案——太极图和卍字符</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
-<li><a href="/comments/20190701/1151501.md" target="_blank">【特稿】中国共产党是邪教组织</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/lifebaike/20180527/948531.md" target="_blank">无神论是最大的迷信（上）：科学无法证实神不存在</a></li>
+<li><a href="/aomi/life/20240330/2018911.md" target="_blank">挪威青年这样走出重度失眠和抑郁煎熬</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/cbnews/20231208/1971389.md" target="_blank">话说中医之祝由科</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/cnnews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/topimagenews/20200514/1328456.md" target="_blank">穿越时空 谢田教授亲身体验人体特异功能</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
+<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
 
 </ul>
 </div>
