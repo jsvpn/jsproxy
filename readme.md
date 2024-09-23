@@ -19,15 +19,15 @@
 <li><a href="/topimagenews/20240923/2092437.md">【微博精粹】铁链女再现——浙江余姚</a></li>
 <li><a href="/cbnews/20240923/2092289.md">湖南财政厅长命案 陆媒称嫌犯热心公益性格好</a></li>
 <li><a href="/cbnews/20240923/2092480.md">湖南株洲严重车祸 已致6死8伤 传死者中有双胞胎</a></li>
-<li><a href="/cbnews/20240923/2092430.md">〖红朝浮世绘〗论具煽动意图的刊物，港府先把毛主席语录禁了吧</a></li>
-<li><a href="/topimagenews/20240923/2092464.md">当年特大涉外灭门惨案，官方消声，至今鲜为人知</a></li>
 <li><a href="/topimagenews/20240923/2092575.md">普京惨遭2“盟友”背叛! 这两国家被曝偷偷提供大量军火给乌克兰</a></li>
-<li><a href="/ccpdope/20240923/2092261.md">北京已现三次火流星坠落 昭示大人物阳寿要尽</a></li>
+<li><a href="/cbnews/20240923/2092430.md">〖红朝浮世绘〗论具煽动意图的刊物，港府先把毛主席语录禁了吧</a></li>
 <li><a href="/sohnews/20240923/2092579.md">陈破空：北京开会，汪洋罕见出场。还有习的恩人和宿敌！党媒只字未提。老习前脚刚走，甘肃官员遭报复，罪名：长期阅看违禁书籍。直播与互动：美东时间9月23日早9点、中港台当晚9点</a></li>
+<li><a href="/topimagenews/20240923/2092464.md">当年特大涉外灭门惨案，官方消声，至今鲜为人知</a></li>
+<li><a href="/cnnews/20240923/2092623.md">中共女高官遭爆床战58男下属 认了收贿6000万被判13年</a></li>
 <li><a href="/sohnews/20240923/2092428.md">女厅长得罪了谁？</a></li>
-<li><a href="/cbnews/20240923/2092286.md">江苏千万身价老板破产 法院4元拍卖雪碧引热议</a></li>
+<li><a href="/ccpdope/20240923/2092261.md">北京已现三次火流星坠落 昭示大人物阳寿要尽</a></li>
 <li><a href="/ssgc/20240923/2092362.md">〖微博谈〗必须想尽一切办法终止中共的恶</a></li>
-<li><a href="/topimagenews/20240923/2092346.md">陶洛诵：宋要武走了，留下一张最丑陋的照片</a></li>
+<li><a href="/cbnews/20240923/2092286.md">江苏千万身价老板破产 法院4元拍卖雪碧引热议</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,8 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240923/2092701.md" target="_blank">中超上百足球迷集体互殴！烟火射人、共享单车砸人</a></li>
+<li><a href="/topimagenews/20240923/2092700.md" target="_blank">美国港口罢工下月一触即发 美国大选前几周物价或再升</a></li>
 <li><a href="/topimagenews/20240923/2092575.md" target="_blank">普京惨遭2“盟友”背叛! 这两国家被曝偷偷提供大量军火给乌克兰</a></li>
 <li><a href="/topimagenews/20240923/2092560.md" target="_blank">美国征收100%关税 中国电动车仍具竞争力</a></li>
 <li><a href="/topimagenews/20240923/2092478.md" target="_blank">中国杀官用炸的! 武器大进化 辽宁大石桥爆炸3死 山东财政局也被烧了…..</a></li>
@@ -89,14 +91,14 @@
 <li><a href="/topimagenews/20240922/2092066.md" target="_blank">“绝对会出大事”！去中国最好别搭乘中国高铁</a></li>
 <li><a href="/topimagenews/20240922/2092065.md" target="_blank">【微博精粹】整个社会被击穿 只剩溃败一条路</a></li>
 <li><a href="/topimagenews/20240922/2092064.md" target="_blank">撕裂美国！跟政府做非法移民生意</a></li>
-<li><a href="/topimagenews/20240922/2092039.md" target="_blank">副县长霸气带队400多打手登场！县委书记说，不存在强拆</a></li>
-<li><a href="/topimagenews/20240922/2092038.md" target="_blank">让99%的中国老百姓没有积蓄，是上层社会的策略</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240923/2092699.md" target="_blank">天亮时分：拜登忘记关掉麦克风，他们私下谈话说了什麽？</a></li>
+<li><a href="/comments/20240923/2092698.md" target="_blank">老习私生子⁉️私生子丧命⁉️抓不到凶手⁉️五名嫌犯重赏1万 咸阳诡异悬赏</a></li>
 <li><a href="/comments/20240923/2092681.md" target="_blank">时事大家谈：美日印澳峰会闭幕，拜登志在继续结盟抗中？金正恩怒称中国为“宿敌”，中朝关系生变？</a></li>
 <li><a href="/comments/20240923/2092648.md" target="_blank">【文韬政论】从弊案再思台湾的自由民主代表制度</a></li>
 <li><a href="/comments/20240923/2092640.md" target="_blank">川普：这是我竞选总统的最后一次</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240923/2092356.md" target="_blank">一个首选孩子去杀戮的社会，离那些探讨还很远</a></li>
 <li><a href="/comments/20240923/2092355.md" target="_blank">俄罗斯“纸糊”的军火库：腐败的国家不会强大</a></li>
 <li><a href="/comments/20240923/2092354.md" target="_blank">中国互联网的高质量技术内容已死</a></li>
-<li><a href="/comments/20240923/2092353.md" target="_blank">说些反人类、反社会的话，竟然还成了网红大V</a></li>
-<li><a href="/comments/20240923/2092352.md" target="_blank">“仇恨教育，从娃娃抓起！”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/comments/20240918/2089868.md" target="_blank">马云前世修道，李嘉诚前世是和尚-数字漫谈（三）</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
 <li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/cbnews/20190701/1151453.md" target="_blank">盘点十大邪教特征 中共条条对号入座</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
-<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20240704/2058130.md" target="_blank">百年梦醒（十八）：共产魔教的机制、前所未有的巨大野心</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/sohnews/20240908/2085761.md" target="_blank">初次见到神；看到兽的印记；目睹灾难来临时什么样的人会被留下</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
 <li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20240723/2065714.md" target="_blank">台湾民视：解谜法轮功 气功或宗教？</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
 
 </ul>
 </div>
