@@ -17,17 +17,17 @@
 <li><a href="/topimagenews/20240923/2092437.md">【微博精粹】铁链女再现——浙江余姚</a></li>
 <li><a href="/topimagenews/20240923/2092575.md">普京惨遭2“盟友”背叛! 这两国家被曝偷偷提供大量军火给乌克兰</a></li>
 <li><a href="/sohnews/20240923/2092631.md">惊闻！习近平主治医生被chu决？！习近平</a></li>
-<li><a href="/sohnews/20240923/2092579.md">陈破空：北京开会，汪洋罕见出场。还有习的恩人和宿敌！党媒只字未提。老习前脚刚走，甘肃官员遭报复，罪名：长期阅看违禁书籍。直播与互动：美东时间9月23日早9点、中港台当晚9点</a></li>
 <li><a href="/cbnews/20240923/2092480.md">湖南株洲严重车祸 已致6死8伤 传死者中有双胞胎</a></li>
+<li><a href="/sohnews/20240923/2092579.md">陈破空：北京开会，汪洋罕见出场。还有习的恩人和宿敌！党媒只字未提。老习前脚刚走，甘肃官员遭报复，罪名：长期阅看违禁书籍。直播与互动：美东时间9月23日早9点、中港台当晚9点</a></li>
 <li><a href="/cbnews/20240923/2092430.md">〖红朝浮世绘〗论具煽动意图的刊物，港府先把毛主席语录禁了吧</a></li>
 <li><a href="/topimagenews/20240923/2092464.md">当年特大涉外灭门惨案，官方消声，至今鲜为人知</a></li>
-<li><a href="/sohnews/20240923/2092428.md">女厅长得罪了谁？</a></li>
 <li><a href="/comments/20240923/2092563.md">那么多中国人在日本被杀，怎么没人反思仇华思想？</a></li>
+<li><a href="/sohnews/20240923/2092428.md">女厅长得罪了谁？</a></li>
 <li><a href="/ssgc/20240923/2092362.md">〖微博谈〗必须想尽一切办法终止中共的恶</a></li>
+<li><a href="/comments/20240923/2092698.md">老习私生子⁉️私生子丧命⁉️抓不到凶手⁉️五名嫌犯重赏1万 咸阳诡异悬赏</a></li>
 <li><a href="/comments/20240923/2092605.md">应了《推背图》49象预言！2026年大变革；中国这样分裂⋯北京海市蜃楼、云层中人漫步、天空惊现3个太阳，真实三体来了！行星近期频繁连珠，战争爆发？｜未解之谜 扶摇</a></li>
 <li><a href="/cbnews/20240923/2092479.md">刀郎成都演唱会多次唱哭 现场万人大合唱</a></li>
 <li><a href="/topimagenews/20240923/2092346.md">陶洛诵：宋要武走了，留下一张最丑陋的照片</a></li>
-<li><a href="/comments/20240923/2092585.md">卖国老习！狗屁不懂！神秘讨习檄文！ #中国 #习近平</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240924/2092793.md" target="_blank">仇恨弥漫中国 这些“花朵”令人痛彻心扉</a></li>
 <li><a href="/topimagenews/20240924/2092782.md" target="_blank">升级！以色列发起入侵战争？要居民立即撤离</a></li>
 <li><a href="/topimagenews/20240924/2092772.md" target="_blank">巨亏！中国地铁大扩张时代，结束了？上海滩成上海瘫？房产挂牌遥遥领先，成交无几</a></li>
 <li><a href="/topimagenews/20240923/2092701.md" target="_blank">中超上百足球迷集体互殴！烟火射人、共享单车砸人</a></li>
@@ -90,13 +91,14 @@
 <li><a href="/topimagenews/20240922/2092197.md" target="_blank">赖清德做好玉石俱焚的准备</a></li>
 <li><a href="/topimagenews/20240922/2092092.md" target="_blank">惊呆！“我们解放军的纪律，就是杀日本人”</a></li>
 <li><a href="/topimagenews/20240922/2092091.md" target="_blank">恐怖聊天曝光！中共国“优秀警察”奉命 打残民营企业家</a></li>
-<li><a href="/topimagenews/20240922/2092066.md" target="_blank">“绝对会出大事”！去中国最好别搭乘中国高铁</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240924/2092792.md" target="_blank">文昭：北京上庄桥9名90後青年相约跳桥，最残酷的真相在这儿</a></li>
+<li><a href="/comments/20240924/2092791.md" target="_blank">天亮时分：中共知道对自己最大威胁是？</a></li>
 <li><a href="/comments/20240924/2092761.md" target="_blank">【济南王炉村民众击退强拆队 高喊“共产党万岁”】</a></li>
 <li><a href="/comments/20240924/2092756.md" target="_blank">《亚太报道》2024年9月23日音频</a></li>
 <li><a href="/comments/20240924/2092753.md" target="_blank">川普纽约长岛集会说将赢得纽约，你相信吗？</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240923/2092419.md" target="_blank">蔡慎坤：加州向更多非法移民释放一个危险信号</a></li>
 <li><a href="/comments/20240923/2092392.md" target="_blank">尼德罗｜一篇质量不高的文章，但就是发不出来</a></li>
 <li><a href="/comments/20240923/2092391.md" target="_blank">新新默存- 王五四：一个以粪为美的时代</a></li>
-<li><a href="/comments/20240923/2092390.md" target="_blank">十岁日本男孩被害的背后：快手上278个视频呼吁“拆除日本学校”，点赞量超两百万</a></li>
-<li><a href="/comments/20240923/2092389.md" target="_blank">龅牙赵：正常人不要痴迷于“我发现了一个恐怖的大阴谋”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/lifebaike/20180527/948531.md" target="_blank">无神论是最大的迷信（上）：科学无法证实神不存在</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/tculture/20190708/1154978.md" target="_blank">揭开“神用泥土造人”的秘密</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/cnnews/20221211/1822144.md" target="_blank">盖盖冲马桶很可怕！瞬间“病毒炸开”？</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/cbnews/20190701/1151453.md" target="_blank">盘点十大邪教特征 中共条条对号入座</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
 <li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
 
 </ul>
 </div>
