@@ -10,8 +10,8 @@
 <li><a href="/cbnews/20240923/2092288.md">消息被严封！传北京海淀九名90后青年跳桥自杀</a></li>
 <li><a href="/sohnews/20240922/2092181.md">火爆！彭博社记者就日本小学生事件连续质问毛宁：你当我们傻吗？🤨 毛宁都被问毛了😡</a></li>
 <li><a href="/topimagenews/20240923/2092345.md">三只羊董事自爆：女主播全睡过！小杨哥徒弟遭殃</a></li>
-<li><a href="/topimagenews/20240922/2092197.md">赖清德做好玉石俱焚的准备</a></li>
 <li><a href="/baitai/20240922/2092240.md">震惊！决定身体衰老速度的行为，运动第三，睡觉第二，第一 很多人做不到</a></li>
+<li><a href="/topimagenews/20240922/2092197.md">赖清德做好玉石俱焚的准备</a></li>
 <li><a href="/cbnews/20240922/2092198.md">中共副国级高官任建新病亡 1个月内至少33高官病亡</a></li>
 <li><a href="/comments/20240923/2092312.md">中共最高层家族搬离中南海大院！超讽：他们都跑去美国生活</a></li>
 <li><a href="/cbnews/20240922/2092210.md">浙江3岁童语出惊人：前世是消防员 牺牲了 央视主持人儿子是“再生人”</a></li>
@@ -19,12 +19,12 @@
 <li><a href="/sohnews/20240923/2092271.md">这个案子，让中共官员们瑟瑟发抖！</a></li>
 <li><a href="/yule/20240922/2092250.md">翁美玲自杀 本以为是为情直到法医透露尸检细节</a></li>
 <li><a href="/headline/20240922/2092193.md">中国离婚率直升 另一种商机由此诞生</a></li>
-<li><a href="/topimagenews/20240923/2092309.md">关闸！多国对中国留学生下逐客令？最担心的来了</a></li>
 <li><a href="/topimagenews/20240923/2092327.md">中共悄悄送大礼！官媒噤声 粉红闻声心碎</a></li>
+<li><a href="/topimagenews/20240923/2092309.md">关闸！多国对中国留学生下逐客令？最担心的来了</a></li>
 <li><a href="/sohnews/20240923/2092331.md">李强的“政治站位”暗示什么？｜新闻五人行</a></li>
 <li><a href="/topimagenews/20240923/2092285.md">北京慌了！或被纳入堤丰导弹射程</a></li>
-<li><a href="/cbnews/20240923/2092289.md">湖南财政厅长命案 陆媒称嫌犯热心公益性格好</a></li>
 <li><a href="/cbnews/20240922/2092211.md">成都商场内女子跳楼 砸中路人 两人均身亡</a></li>
+<li><a href="/cbnews/20240923/2092289.md">湖南财政厅长命案 陆媒称嫌犯热心公益性格好</a></li>
 <li><a href="/comments/20240922/2092253.md">悲剧了！就买了套杭州房子；桥水达里奥点出中国经济死结；中共恢复进口日本水产品，背后代价是什么 ｜金菲昔比 方菲时间</a></li>
 <li><a href="/sohnews/20240922/2092170.md">🔥🔥人类巨劫降临❗布兰登劲爆:从十月这天开始❗刘伯温预言印证:过不了今明年❗十室九空❗</a></li>
 <li><a href="/health/20240922/2092165.md">长寿专家揭晓“最有助于长寿”的运动，答案超简单！你甚至不用去健身房</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20240403/2020547.md" target="_blank">纪录片：DSM诊断与统计手册-精神病学最要命的骗局</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
-<li><a href="/tculture/20240815/2074891.md" target="_blank">松果体 谜一样的器官</a></li>
-<li><a href="/cnnews/20170717/792917.md" target="_blank">无神论是最大的迷信</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
 <li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/cbnews/20240603/2045072.md" target="_blank">漫谈古代科举之八股文</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/aomi/life/20240330/2018911.md" target="_blank">挪威青年这样走出重度失眠和抑郁煎熬</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
 
 </ul>
 </div>
