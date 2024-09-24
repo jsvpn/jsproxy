@@ -11,23 +11,23 @@
 <li><a href="/sohnews/20240924/2092956.md">新华社新闻称王小红任中共中央书记处书记，这证实了三中会上，王小红携公安部特勤局支持张又侠发动会场政变的传闻。目前，习近平是挂名中央总书记，王小红是实际上的中央总书记。</a></li>
 <li><a href="/baitai/20240924/2092767.md">52岁女贪官私生活糜烂 与58名男下属有染</a></li>
 <li><a href="/sohnews/20240924/2092790.md">张又侠与习近平的真实关系｜精彩片段 09.23.2024</a></li>
-<li><a href="/ccpdope/20240924/2092726.md">马来西亚国王访华 一条消息格外引人注目</a></li>
 <li><a href="/topimagenews/20240924/2092824.md">中共国竟然都到这个地步了！8月财政收支披露</a></li>
 <li><a href="/baitai/20240924/2092760.md">又是一届红毯：杨幂丰满，佟丽娅惊艳，却都败给“保守”的张小斐</a></li>
 <li><a href="/topimagenews/20240924/2092805.md">中国写字楼惨不忍睹啊</a></li>
-<li><a href="/cbnews/20240924/2092868.md">黄牛们都气懵了！华为三折手机黄牛价暴跌：从加近十万到四千</a></li>
 <li><a href="/topimagenews/20240924/2092919.md">狠！中共央行宣布降息降准</a></li>
+<li><a href="/cbnews/20240924/2092868.md">黄牛们都气懵了！华为三折手机黄牛价暴跌：从加近十万到四千</a></li>
 <li><a href="/cbnews/20240924/2093037.md">华日爆料：经济学家高官朱恒鹏被抓 曾在微信群批习惹祸</a></li>
 <li><a href="/cbnews/20240924/2092941.md">江峰：“胡汉三回来了”？胡春华高调视察龙兴之地违逆习近平，最高权力继承权谁安排？金正恩与中共公开撕破脸，真实内幕曝光：中共偷养金家太子； 砸锅卖铁买国旗，奇葩国的谎言【江峰漫谈20240923第941期】</a></li>
 <li><a href="/cbnews/20240924/2092908.md">〖红朝浮世绘〗想让流氓承认自己是流氓？日本人太天真了</a></li>
 <li><a href="/topimagenews/20240924/2092918.md">中国人的“好日子”还在后头</a></li>
 <li><a href="/lifebaike/20240924/2092815.md">清代无名女鬼图，放大10倍后网友吓坏</a></li>
+<li><a href="/cbnews/20240924/2093085.md">9月23日北京地铁站外发生爆炸</a></li>
+<li><a href="/finance/20240924/2092811.md">大面积关停潮来袭，这一行也撑不住了</a></li>
 <li><a href="/topimagenews/20240924/2092867.md">一招一年赚3个亿利息！中共要对这模式动手了？</a></li>
 <li><a href="/cnnews/20240924/2092877.md">贵州女高官惊爆权色交易！58男下属轮流侍寝</a></li>
-<li><a href="/finance/20240924/2092811.md">大面积关停潮来袭，这一行也撑不住了</a></li>
 <li><a href="/baitai/20240924/2092780.md">有大事发生？中共三大金融监管机构将「出人意料」召开联合新闻发布会</a></li>
-<li><a href="/cbnews/20240924/2093085.md">9月23日北京地铁站外发生爆炸</a></li>
-<li><a href="/topimagenews/20240924/2092772.md">巨亏！中国地铁大扩张时代，结束了？上海滩成上海瘫？房产挂牌遥遥领先，成交无几</a></li>
+<li><a href="/topimagenews/20240924/2093017.md">美3城市发生暴乱! 抗议者持共产主义标语 警察镇不了 网批无政府状态</a></li>
+<li><a href="/cnnews/20240924/2093003.md">中国正酝酿新的阶级斗争</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20190220/1083672.md" target="_blank">胡平：法轮功与其他一些宗教或信仰之比较</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
 <li><a href="/comments/20190213/1080251.md" target="_blank">胡平：法轮功为何反对自杀？</a></li>
-<li><a href="/cbnews/20240715/2062387.md" target="_blank">尧帝治世之道（一）</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/tculture/20220622/1748765.md" target="_blank">影响人类的两个图案——太极图和卍字符</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/comments/20240808/2071869.md" target="_blank">【新纪元】被误解的大脑</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/tculture/20190708/1154978.md" target="_blank">揭开“神用泥土造人”的秘密</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
 
 </ul>
 </div>
