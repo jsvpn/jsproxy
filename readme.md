@@ -7,8 +7,8 @@
 
 <li><a href="/ccpdope/20240923/2092525.md">中国大萧条到处可见 实体经济全方位崩盘</a></li>
 <li><a href="/cnnews/20240923/2092623.md">中共女高官与58男下属暧昧 认了收贿6000万被判13年</a></li>
-<li><a href="/finance/20240924/2092773.md">习最新讲话服软？细思极恐：暗示要抢钱了</a></li>
 <li><a href="/sohnews/20240923/2092631.md">惊闻！习近平主治医生被chu决？！习近平</a></li>
+<li><a href="/finance/20240924/2092773.md">习最新讲话服软？细思极恐：暗示要抢钱了</a></li>
 <li><a href="/topimagenews/20240923/2092575.md">普京惨遭2“盟友”背叛! 这两国家被曝偷偷提供大量军火给乌克兰</a></li>
 <li><a href="/sohnews/20240923/2092579.md">陈破空：北京开会，汪洋罕见出场。还有习的恩人和宿敌！党媒只字未提。老习前脚刚走，甘肃官员遭报复，罪名：长期阅看违禁书籍。直播与互动：美东时间9月23日早9点、中港台当晚9点</a></li>
 <li><a href="/comments/20240923/2092698.md">老习私生子⁉️私生子丧命⁉️抓不到凶手⁉️五名嫌犯重赏1万 咸阳诡异悬赏</a></li>
@@ -20,14 +20,14 @@
 <li><a href="/comments/20240923/2092605.md">应了《推背图》49象预言！2026年大变革；中国这样分裂⋯北京海市蜃楼、云层中人漫步、天空惊现3个太阳，真实三体来了！行星近期频繁连珠，战争爆发？｜未解之谜 扶摇</a></li>
 <li><a href="/topimagenews/20240924/2092805.md">中国写字楼惨不忍睹啊</a></li>
 <li><a href="/baitai/20240924/2092760.md">又是一届红毯：杨幂丰满，佟丽娅惊艳，却都败给“保守”的张小斐</a></li>
-<li><a href="/topimagenews/20240924/2092772.md">巨亏！中国地铁大扩张时代，结束了？上海滩成上海瘫？房产挂牌遥遥领先，成交无几</a></li>
-<li><a href="/comments/20240923/2092585.md">卖国老习！狗屁不懂！神秘讨习檄文！ #中国 #习近平</a></li>
 <li><a href="/topimagenews/20240923/2092701.md">中超上百足球迷集体互殴！烟火射人、共享单车砸人</a></li>
+<li><a href="/comments/20240923/2092585.md">卖国老习！狗屁不懂！神秘讨习檄文！ #中国 #习近平</a></li>
+<li><a href="/topimagenews/20240924/2092824.md">中共国竟然都到这个地步了！8月财政收支披露</a></li>
+<li><a href="/topimagenews/20240924/2092772.md">巨亏！中国地铁大扩张时代，结束了？上海滩成上海瘫？房产挂牌遥遥领先，成交无几</a></li>
+<li><a href="/lifebaike/20240924/2092815.md">清代无名女鬼图，放大10倍后网友吓坏</a></li>
 <li><a href="/cbnews/20240923/2092594.md">“杀个小孩多大事儿” 四川一副县长因仇日被查</a></li>
 <li><a href="/sohnews/20240923/2092511.md">习批示仇外案件：民心可用不必深究，百姓造反端掉山东财政局辽宁司法局，中国经济衰退是制度型崩溃。《老灯开讲第674期》</a></li>
-<li><a href="/topimagenews/20240924/2092824.md">中共国竟然都到这个地步了！8月财政收支披露</a></li>
 <li><a href="/baitai/20240924/2092780.md">有大事发生？中共三大金融监管机构将「出人意料」召开联合新闻发布会</a></li>
-<li><a href="/topimagenews/20240924/2092782.md">升级！以色列发起入侵战争？要居民立即撤离</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
+<li><a href="/comments/20231223/1978148.md" target="_blank">医山夜话：张锡纯医案解读（三）赭石：降胃气 引火下行</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
 <li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
-<li><a href="/comments/20240820/2076940.md" target="_blank">惠虎宇：中华文化为什么是高级文化系统(2)</a></li>
-<li><a href="/comments/20240918/2089868.md" target="_blank">马云前世修道，李嘉诚前世是和尚-数字漫谈（三）</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20240126/1992876.md" target="_blank">内幕：中国留学生里女生打男生和男生打女一样普遍</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/tculture/20231208/1971390.md" target="_blank">传统文化之汉字的内涵</a></li>
-<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
-<li><a href="/cnnews/20221211/1822144.md" target="_blank">盖盖冲马桶很可怕！瞬间“病毒炸开”？</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20240814/2074560.md" target="_blank">曾预言川普右耳中枪的牧师，看到美国大灾难，川普在椭圆形办公室哭泣，祈祷神修复美国。不信神的人被淘汰。比格斯川普暗杀事件</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
+<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
+<li><a href="/comments/20240829/2080735.md" target="_blank">胆战心惊:塔克访谈揭露美国食品巨头，医疗体系</a></li>
+<li><a href="/comments/20240820/2076928.md" target="_blank">惠虎宇：中华文化为什么是高级文化系统(1)</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
 
 </ul>
 </div>
