@@ -7,27 +7,27 @@
 
 <li><a href="/sohnews/20240925/2093321.md">胡锦涛差点被暗杀</a></li>
 <li><a href="/topimagenews/20240925/2093277.md">马斯克与意女总理“放电”成焦点 媒体：公开示爱</a></li>
-<li><a href="/cbnews/20240924/2093112.md">央行称放水一万亿 民间析：北京真着急了</a></li>
 <li><a href="/cnnews/20240925/2093279.md">湖南男子娶外国19岁“漂亮媳妇”秒怀孕 网炸锅</a></li>
-<li><a href="/sohnews/20240925/2093375.md">再次暗杀胡锦涛未遂</a></li>
 <li><a href="/topimagenews/20240925/2093316.md">拜登告别演说 直触习最丑 耿爽皱眉</a></li>
-<li><a href="/topimagenews/20240925/2093411.md">乱来了！中国这样走下去企业就完蛋了</a></li>
+<li><a href="/sohnews/20240925/2093375.md">再次暗杀胡锦涛未遂</a></li>
 <li><a href="/topimagenews/20240925/2093258.md">杀伤力相当大！美对中共狠招细节被揭开</a></li>
-<li><a href="/baitai/20240925/2093209.md">中国人民大学最新报告：相信遥遥领先的人，多数处在社会底层</a></li>
+<li><a href="/topimagenews/20240925/2093411.md">乱来了！中国这样走下去企业就完蛋了</a></li>
 <li><a href="/funmedia/20240925/2093300.md">时空旅人？83年前男童“抱iPad”排队 照片疯传</a></li>
+<li><a href="/baitai/20240925/2093209.md">中国人民大学最新报告：相信遥遥领先的人，多数处在社会底层</a></li>
 <li><a href="/topimagenews/20240925/2093340.md">北京大招能为习近平争取多少时间？</a></li>
 <li><a href="/cbnews/20240925/2093428.md">彭丽媛最新现身 释放什么信号？</a></li>
 <li><a href="/ccpdope/20240925/2093425.md">宁死不见江河倒流－－北京官场疯传温家宝的一段话</a></li>
 <li><a href="/topimagenews/20240925/2093410.md">转折点！习在这个时候才下定决心全面救市？</a></li>
 <li><a href="/cbnews/20240925/2093260.md">日驻中共大使访辽宁大连市 直言提出这个要求</a></li>
-<li><a href="/yule/20240925/2093455.md">知名演员高虎送外卖：已经息影9年 不会复出</a></li>
 <li><a href="/ccpdope/20240925/2093332.md">「四个字」要了华为的命 华为三折叠全部崩盘</a></li>
+<li><a href="/yule/20240925/2093455.md">知名演员高虎送外卖：已经息影9年 不会复出</a></li>
 <li><a href="/topimagenews/20240925/2093409.md">中国恶性大麻烦要来了 印钞拉起的A股将暴跌回去</a></li>
-<li><a href="/baitai/20240924/2093110.md">十一前夕 北京地铁站突发爆炸 警方动用11辆大巴狂拉访民离京</a></li>
+<li><a href="/worldnews/20240925/2093467.md">中东突传重量级消息</a></li>
+<li><a href="/topimagenews/20240925/2093508.md">内幕曝光 中南海已惶恐不安</a></li>
+<li><a href="/ssgc/20240925/2093404.md">美中战略竞争特别委员会吁将京东方和天马列入黑名单</a></li>
 <li><a href="/topimagenews/20240925/2093317.md">女鬼图被慈禧收藏 毛骨悚然细节令网直呼不敢看</a></li>
 <li><a href="/topimagenews/20240925/2093359.md">有证据了，快断交！“彻底撤离日本企业并紧急撤离日本民众”日本人呼吁</a></li>
 <li><a href="/topimagenews/20240925/2093276.md">普京傻眼！兵工厂夷为平地 俄军要没炮弹了</a></li>
-<li><a href="/worldnews/20240925/2093261.md">墨西哥大毒枭妻子出狱后登上米兰T台，引发愤怒</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20231119/1962827.md" target="_blank">六道轮回之地狱道</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
-<li><a href="/comments/20240825/2079044.md" target="_blank">谁是创世主</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
-<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/tculture/20190708/1154978.md" target="_blank">揭开“神用泥土造人”的秘密</a></li>
+<li><a href="/comments/20190220/1083672.md" target="_blank">胡平：法轮功与其他一些宗教或信仰之比较</a></li>
 <li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/cbnews/20240603/2045072.md" target="_blank">漫谈古代科举之八股文</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
 
 </ul>
 </div>
