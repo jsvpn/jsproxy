@@ -9,25 +9,25 @@
 <li><a href="/baitai/20240924/2092994.md">前储君胡春华高调现身 被王沪宁坑了？</a></li>
 <li><a href="/cbnews/20240924/2093037.md">华日爆料：经济学家高官朱恒鹏被抓 曾在微信群批习惹祸</a></li>
 <li><a href="/cbnews/20240924/2093085.md">9月23日北京地铁站外发生爆炸</a></li>
-<li><a href="/cbnews/20240924/2092941.md">江峰：“胡汉三回来了”？胡春华高调视察龙兴之地违逆习近平，最高权力继承权谁安排？金正恩与中共公开撕破脸，真实内幕曝光：中共偷养金家太子； 砸锅卖铁买国旗，奇葩国的谎言【江峰漫谈20240923第941期】</a></li>
 <li><a href="/cnnews/20240924/2093003.md">中国正酝酿新的阶级斗争</a></li>
 <li><a href="/topimagenews/20240925/2093277.md">马斯克与意女总理“放电”成焦点 媒体：公开示爱</a></li>
+<li><a href="/sohnews/20240925/2093321.md">胡锦涛差点被暗杀</a></li>
 <li><a href="/topimagenews/20240924/2093056.md">死了一个日本男孩之后! 中国日企逃亡潮 多家公司组织员工及家属撤离....</a></li>
 <li><a href="/cbnews/20240924/2093112.md">央行称放水一万亿 民间析：北京真着急了</a></li>
-<li><a href="/sohnews/20240925/2093321.md">胡锦涛差点被暗杀</a></li>
 <li><a href="/cnnews/20240925/2093279.md">湖南男子娶外国19岁“漂亮媳妇”秒怀孕 网炸锅</a></li>
 <li><a href="/topimagenews/20240925/2093258.md">杀伤力相当大！美对中共狠招细节被揭开</a></li>
 <li><a href="/topimagenews/20240924/2093017.md">美3城市发生暴乱! 抗议者持共产主义标语 警察镇不了 网批无政府状态</a></li>
 <li><a href="/baitai/20240924/2093028.md">开售不到两天 华为「三折叠」手机Mate XT黄牛价雪崩 原因找到了</a></li>
+<li><a href="/topimagenews/20240925/2093316.md">拜登告别演说 直触习最丑 耿爽皱眉</a></li>
 <li><a href="/baitai/20240925/2093209.md">中国人民大学最新报告：相信遥遥领先的人，多数处在社会底层</a></li>
-<li><a href="/cbnews/20240924/2092943.md">传澳洲中国留学生将滚烫咖啡泼向婴儿 已跑回国</a></li>
+<li><a href="/funmedia/20240925/2093300.md">时空旅人？83年前男童“抱iPad”排队 照片疯传</a></li>
 <li><a href="/sohnews/20240924/2093057.md">中共海军361号潜艇神秘事故，70名官兵全部遇难</a></li>
 <li><a href="/lifebaike/20240924/2092963.md">父母最大的聪明，是培养孩子两种好习惯，愚蠢的父母却不在乎</a></li>
-<li><a href="/funmedia/20240925/2093300.md">时空旅人？83年前男童“抱iPad”排队 照片疯传</a></li>
 <li><a href="/topimagenews/20240924/2093055.md">连最亲密小老弟都叛变了? 普京又失盟友 白俄总统卢卡申科表态与乌合作</a></li>
-<li><a href="/topimagenews/20240925/2093316.md">拜登告别演说 直触习最丑 耿爽皱眉</a></li>
-<li><a href="/funmedia/20240924/2092945.md">iPhone4S被锁10年 中国妹顺利开机惊呆近2千万人</a></li>
+<li><a href="/cbnews/20240925/2093260.md">日驻中共大使访辽宁大连市 直言提出这个要求</a></li>
 <li><a href="/baitai/20240924/2093110.md">十一前夕 北京地铁站突发爆炸 警方动用11辆大巴狂拉访民离京</a></li>
+<li><a href="/finance/20240924/2092958.md">噩耗传来 25年来最大跌幅…</a></li>
+<li><a href="/headline/20240924/2093013.md">中国刺激计划推动全球股市突然疯涨</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240925/2093428.md" target="_blank">彭丽媛最新现身 释放什么信号？</a></li>
+<li><a href="/cbnews/20240925/2093427.md" target="_blank">上海“小熊维尼”被游客打倒在地 工作人员哭了</a></li>
 <li><a href="/cbnews/20240925/2093415.md" target="_blank">美禁中国汽车软硬件后 中共调查美服装巨头PVH</a></li>
 <li><a href="/cbnews/20240925/2093413.md" target="_blank">安徽女子12楼作业 老人楼下割安全绳</a></li>
 <li><a href="/cbnews/20240925/2093412.md" target="_blank">杭州高铁出故障 少一节车厢 乘客站到北京</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20240924/2093112.md" target="_blank">央行称放水一万亿 民间析：北京真着急了</a></li>
 <li><a href="/comments/20240924/2093104.md" target="_blank">俄亥俄州40年的面包店民调，成为当下最准民调｜美国大选｜民调｜方伟时间</a></li>
 <li><a href="/cbnews/20240924/2093086.md" target="_blank">川普：如当选 将要求中共履行中美贸易协议</a></li>
-<li><a href="/cbnews/20240924/2093085.md" target="_blank">9月23日北京地铁站外发生爆炸</a></li>
-<li><a href="/cbnews/20240924/2093084.md" target="_blank">湖北职校21岁女保安遭保安队长杀害 嫌犯失踪</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20240623/2053092.md" target="_blank">章天亮：那些行于世间的觉者</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/comments/20240820/2076940.md" target="_blank">惠虎宇：中华文化为什么是高级文化系统(2)</a></li>
+<li><a href="/tculture/20240815/2074891.md" target="_blank">松果体 谜一样的器官</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/tculture/20231217/1975364.md" target="_blank">医山夜话：张锡纯医案解读（1）根治失眠 思路清晰</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/tculture/20240916/2089420.md" target="_blank">诗人苏轼与黄庭坚的生命轮回</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/cnnews/20221211/1822144.md" target="_blank">盖盖冲马桶很可怕！瞬间“病毒炸开”？</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
 <li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
-<li><a href="/tculture/20231119/1962827.md" target="_blank">六道轮回之地狱道</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/tculture/20231208/1971390.md" target="_blank">传统文化之汉字的内涵</a></li>
+<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/comments/20230920/1936271.md" target="_blank">防止你的孩子不成功（5） &#8211;教育避坑指南</a></li>
 
 </ul>
 </div>
