@@ -13,20 +13,20 @@
 <li><a href="/comments/20240926/2093778.md">文昭：习近平遭遇最难捱时刻；前太子高调回归，意味着什麽？当习皇撞上宿命，谁更硬？</a></li>
 <li><a href="/cnnews/20240926/2093921.md">太可怕了 山西新娘被绑电线杆 当街被众男摸光…</a></li>
 <li><a href="/topimagenews/20240926/2093765.md">乌东战况急剧恶化 俄获2年来最快进展 攻陷重镇</a></li>
-<li><a href="/cbnews/20240926/2093703.md">江峰：暴露习近平脑手术？御用外科主任消失</a></li>
 <li><a href="/cbnews/20240926/2093697.md">中国民宿获利不靠房价 业者揭露“偷拍产业链”惊人运作</a></li>
+<li><a href="/cbnews/20240926/2093703.md">江峰：暴露习近平脑手术？御用外科主任消失</a></li>
+<li><a href="/health/20240926/2093976.md">老人味的“祸首”被揪出，提醒：55岁后要少碰，老了或也没味</a></li>
 <li><a href="/topimagenews/20240926/2093934.md">石家庄这事儿还能洗? 是不是恐怖过头了</a></li>
 <li><a href="/topimagenews/20240926/2093867.md">巨大政策转向 习亲自拍板？房地产业或寿终正寝</a></li>
 <li><a href="/topimagenews/20240926/2093869.md">以色列爆惊人大招 真主党被群爆最关键一环</a></li>
-<li><a href="/health/20240926/2093976.md">老人味的“祸首”被揪出，提醒：55岁后要少碰，老了或也没味</a></li>
 <li><a href="/cbnews/20240926/2093677.md">上海女排解寂寞 花900万人民币买1000件文物 全是假货</a></li>
 <li><a href="/cbnews/20240926/2093835.md">〖红朝浮世绘〗权力太傲慢 民众的怒气与生存空间不断被挤压而爆发</a></li>
 <li><a href="/headline/20240926/2093762.md">降息又降准 中国最高层为什么突然转变立场</a></li>
+<li><a href="/topimagenews/20240926/2094028.md">共军东风导弹路径曝光! 飞1.2万里越过关岛 最大猫腻被捅破</a></li>
 <li><a href="/sohnews/20240926/2093757.md">中国启动了中共世上最大救市计画</a></li>
 <li><a href="/cnnews/20240926/2093946.md">第一批鸡娃的80后 已经“断供”了？</a></li>
 <li><a href="/lifebaike/20240926/2093826.md">几点睡觉算是熬夜?研究发现:不是11点 也不是12点</a></li>
 <li><a href="/topimagenews/20240926/2093749.md">解放军要打美本土？强硬射洲际飞弹 落点“夏威夷公海”</a></li>
-<li><a href="/topimagenews/20240926/2094028.md">共军东风导弹路径曝光! 飞1.2万里越过关岛 最大猫腻被捅破</a></li>
 <li><a href="/topimagenews/20240926/2093764.md">400年前的债券如今仍兑付利息，这国家如此实诚</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240926/2094116.md" target="_blank">马斯克顶川普选总统后，变成极右翼？！｜方伟时间 09.26.2024</a></li>
 <li><a href="/comments/20240926/2094089.md" target="_blank">【围炉夜话精华版】日本提2要求中共不会照做；中日关系恐持续紧张 ｜方伟 唐靖远 横河 david 方菲 ｜围炉夜话 09/25</a></li>
 <li><a href="/cbnews/20240926/2094070.md" target="_blank">华女对政客“过度热情” 被怀疑是间谍</a></li>
 <li><a href="/cbnews/20240926/2094069.md" target="_blank">日新澳军舰同日经台海 日媒：岸田令反制共军</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20240926/2093887.md" target="_blank">社会主义和共产主义到底什么区别？方伟时间</a></li>
 <li><a href="/comments/20240926/2093847.md" target="_blank">中共是美国最大的威胁 所以我成为首位驱逐中共国企的州长</a></li>
 <li><a href="/comments/20240926/2093846.md" target="_blank">第一个自动放弃权力的共产党</a></li>
-<li><a href="/cbnews/20240926/2093835.md" target="_blank">〖红朝浮世绘〗权力太傲慢 民众的怒气与生存空间不断被挤压而爆发</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240926/2094116.md" target="_blank">马斯克顶川普选总统后，变成极右翼？！｜方伟时间 09.26.2024</a></li>
 <li><a href="/comments/20240926/2094089.md" target="_blank">【围炉夜话精华版】日本提2要求中共不会照做；中日关系恐持续紧张 ｜方伟 唐靖远 横河 david 方菲 ｜围炉夜话 09/25</a></li>
 <li><a href="/comments/20240926/2094085.md" target="_blank">布兰登传递神的警告：他们在一天之内就会一无所有 最后的呼唤</a></li>
 <li><a href="/comments/20240926/2094082.md" target="_blank">【未普评论】对中国经济一向乐观的「桥水」达利奥为何突然悲观？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240926/2093876.md" target="_blank">林保华：从深圳杀童看“慈习太后”民族复兴</a></li>
 <li><a href="/comments/20240926/2093875.md" target="_blank">陶杰：警察首领李家超不可能懂得如何“领导”香港商界</a></li>
 <li><a href="/comments/20240926/2093874.md" target="_blank">李濠仲:台湾该庆幸被这样的俄罗斯列为价值敌对国</a></li>
-<li><a href="/comments/20240926/2093865.md" target="_blank">一百多家日企要撤离中国！习近平王毅还装淡定？ 小粉红掀“砸苹果”热潮？骨灰级爱国原来是高级黑</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
 <li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20240418/2026391.md" target="_blank">医生劝我妻子放弃，似乎这些医生热衷让病人快点去死？</a></li>
+<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
 <li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/comments/20240801/2069416.md" target="_blank">无神论和有神论深度解析</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/comments/20231220/1976683.md" target="_blank">医山夜话：张锡纯医案解读（二）根治胃气不降之证</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/sohnews/20240924/2093135.md" target="_blank">布兰登·比格斯：神让我穿越回过去 改变人生 然后我发现……</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
 
 </ul>
 </div>
