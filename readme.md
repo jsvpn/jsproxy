@@ -7,11 +7,10 @@
 
 <li><a href="/sohnews/20240925/2093321.md">胡锦涛差点被暗杀</a></li>
 <li><a href="/sohnews/20240925/2093375.md">再次暗杀胡锦涛未遂</a></li>
-<li><a href="/topimagenews/20240925/2093316.md">拜登告别演说 直触习最丑 耿爽皱眉</a></li>
 <li><a href="/topimagenews/20240925/2093508.md">内幕曝光 中南海已惶恐不安</a></li>
+<li><a href="/topimagenews/20240925/2093316.md">拜登告别演说 直触习最丑 耿爽皱眉</a></li>
 <li><a href="/topimagenews/20240925/2093340.md">北京大招能为习近平争取多少时间？</a></li>
 <li><a href="/topimagenews/20240925/2093411.md">乱来了！中国这样走下去企业就完蛋了</a></li>
-<li><a href="/funmedia/20240925/2093300.md">时空旅人？83年前男童“抱iPad”排队 照片疯传</a></li>
 <li><a href="/cbnews/20240925/2093428.md">彭丽媛最新现身 释放什么信号？</a></li>
 <li><a href="/topimagenews/20240925/2093410.md">转折点！习在这个时候才下定决心全面救市？</a></li>
 <li><a href="/ssgc/20240925/2093404.md">美中战略竞争特别委员会吁将京东方和天马列入黑名单</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/baitai/20240925/2093589.md">央行发布重磅政策 分析：全球少见 后果不堪设想</a></li>
 <li><a href="/topimagenews/20240925/2093640.md">一家4口“用错筷子”惨罹癌！医揭1关键：一级致癌物</a></li>
 <li><a href="/headline/20240925/2093491.md">中共红色电影《一生交给党》票房惨淡 网民嘲：一亿党员怎么没去看？</a></li>
+<li><a href="/cnnews/20240925/2093563.md">巴菲特突然再次出手</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240926/2093784.md" target="_blank">泽连斯基联大讲话 警告中共</a></li>
 <li><a href="/cbnews/20240926/2093767.md" target="_blank">泽连斯基联大讲话 批中共巴西的和平计划</a></li>
 <li><a href="/cbnews/20240926/2093766.md" target="_blank">俄在中国建立秘密无人机计划？白宫回应</a></li>
 <li><a href="/comments/20240926/2093724.md" target="_blank">四方会谈记者没关话筒，竟然听到。。。方伟时间中共</a></li>
@@ -59,13 +60,13 @@
 <li><a href="/cbnews/20240925/2093536.md" target="_blank">许昌发起入住烂尾楼行动 警察败下阵</a></li>
 <li><a href="/cbnews/20240925/2093535.md" target="_blank">江苏常州一商场连廊垮塌 官方拒答伤亡情况</a></li>
 <li><a href="/cbnews/20240925/2093516.md" target="_blank">中国富豪已成危险一族 中国首富在过去一个月频频换人</a></li>
-<li><a href="/cbnews/20240925/2093515.md" target="_blank">中共火箭军试射洲际导弹 习近平中央引猜测</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240926/2093783.md" target="_blank">加拿大公布击落UFO图片 总理亲自回应证实</a></li>
 <li><a href="/topimagenews/20240926/2093765.md" target="_blank">乌东战况急剧恶化 俄获2年来最快进展 攻陷重镇</a></li>
 <li><a href="/topimagenews/20240926/2093764.md" target="_blank">400年前的债券如今仍兑付利息，这国家如此实诚</a></li>
 <li><a href="/topimagenews/20240926/2093750.md" target="_blank">习加速自毁震动世界 首次！中共在太平洋射洲际飞弹</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20240925/2093316.md" target="_blank">拜登告别演说 直触习最丑 耿爽皱眉</a></li>
 <li><a href="/topimagenews/20240925/2093277.md" target="_blank">马斯克与意女总理“放电”成焦点 媒体：公开示爱</a></li>
 <li><a href="/topimagenews/20240925/2093276.md" target="_blank">普京傻眼！兵工厂夷为平地 俄军要没炮弹了</a></li>
-<li><a href="/topimagenews/20240925/2093275.md" target="_blank">直捣中南海强烈信号！天弓飞弹射程大飞跃【阿波罗网报道】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240926/2093789.md" target="_blank">元真：清朝民国当代 大水地震大火</a></li>
 <li><a href="/comments/20240926/2093778.md" target="_blank">文昭：习近平遭遇最难捱时刻；前太子高调回归，意味着什麽？当习皇撞上宿命，谁更硬？</a></li>
 <li><a href="/comments/20240926/2093760.md" target="_blank">天亮时分：习近平战狼姿态是测试美国底线？</a></li>
 <li><a href="/comments/20240926/2093759.md" target="_blank">【“这是我们的家” 烂尾楼居民苦中作乐】</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240925/2093383.md" target="_blank">失去中国一年，日本水产业到底如何？我们用数据说话</a></li>
 <li><a href="/comments/20240925/2093382.md" target="_blank">一个靠谎言和暴力维系的极权政权，是全世界儿童的敌人</a></li>
 <li><a href="/comments/20240925/2093381.md" target="_blank">城管借机大打出手，毒打几个学生，还砸烂了饭店的设备</a></li>
-<li><a href="/comments/20240925/2093380.md" target="_blank">是非洲兄弟把中国抬进了联合国吗？我在纽约查清楚了</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/lifebaike/20180529/949787.md" target="_blank">无神论是最大的迷信（下）：科学家大多是有神论</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/tculture/20240916/2089420.md" target="_blank">诗人苏轼与黄庭坚的生命轮回</a></li>
+<li><a href="/comments/20240116/1984226.md" target="_blank">湖北老河口遇仙记</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
 <li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/lifebaike/20180529/949787.md" target="_blank">无神论是最大的迷信（下）：科学家大多是有神论</a></li>
+<li><a href="/comments/20231201/1968320.md" target="_blank">【非凡新闻】结合中西文化精神 美国神韵表演吸睛</a></li>
+<li><a href="/tculture/20231119/1962827.md" target="_blank">六道轮回之地狱道</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/cnnews/20150914/449521.md" target="_blank">无神论和有神论，乡下老太太驳倒三个博士</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
 
 </ul>
 </div>
