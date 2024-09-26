@@ -10,18 +10,18 @@
 <li><a href="/topimagenews/20240926/2093750.md">习加速自毁震动世界 首次！中共在太平洋射洲际飞弹</a></li>
 <li><a href="/yule/20240925/2093455.md">知名演员高虎送外卖：已经息影9年 不会复出</a></li>
 <li><a href="/cbnews/20240925/2093515.md">中共火箭军试射洲际导弹 习近平中央引猜测</a></li>
-<li><a href="/topimagenews/20240925/2093640.md">一家4口“用错筷子”惨罹癌！医揭1关键：一级致癌物</a></li>
 <li><a href="/baitai/20240925/2093589.md">央行发布重磅政策 分析：全球少见 后果不堪设想</a></li>
+<li><a href="/topimagenews/20240925/2093640.md">一家4口“用错筷子”惨罹癌！医揭1关键：一级致癌物</a></li>
 <li><a href="/topimagenews/20240926/2093783.md">加拿大公布击落UFO图片 总理亲自回应证实</a></li>
 <li><a href="/finance/20240925/2093465.md">北京正在饮鸩止渴</a></li>
 <li><a href="/cnnews/20240925/2093451.md">还是莆田大佬跑得快</a></li>
-<li><a href="/topimagenews/20240926/2093765.md">乌东战况急剧恶化 俄获2年来最快进展 攻陷重镇</a></li>
 <li><a href="/comments/20240926/2093778.md">文昭：习近平遭遇最难捱时刻；前太子高调回归，意味着什麽？当习皇撞上宿命，谁更硬？</a></li>
+<li><a href="/topimagenews/20240926/2093765.md">乌东战况急剧恶化 俄获2年来最快进展 攻陷重镇</a></li>
+<li><a href="/topimagenews/20240926/2093868.md">李强违背习“大跃进”？传何立峰名列要求罢免名单</a></li>
 <li><a href="/cnnews/20240925/2093563.md">巴菲特突然再次出手</a></li>
 <li><a href="/headline/20240925/2093491.md">中共红色电影《一生交给党》票房惨淡 网民嘲：一亿党员怎么没去看？</a></li>
 <li><a href="/baitai/20240926/2093721.md">关乎习近平脸面？美媒爆中共重磅救市计划出台内幕</a></li>
 <li><a href="/cbnews/20240925/2093516.md">中国富豪已成危险一族 中国首富在过去一个月频频换人</a></li>
-<li><a href="/topimagenews/20240926/2093868.md">李强违背习“大跃进”？传何立峰名列要求罢免名单</a></li>
 <li><a href="/cbnews/20240926/2093697.md">中国民宿获利不靠房价 业者揭露“偷拍产业链”惊人运作</a></li>
 <li><a href="/lifebaike/20240925/2093560.md">1个月吃720颗蛋会怎样？哈佛专家揭超惊人结果</a></li>
 <li><a href="/cbnews/20240926/2093703.md">江峰：暴露习近平脑手术？御用外科主任消失</a></li>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240926/2093945.md" target="_blank">在自己权力范围内 最大限度的断别人生路</a></li>
+<li><a href="/comments/20240926/2093944.md" target="_blank">以行政之手救市场死症，中共竭泽而渔生死一搏</a></li>
 <li><a href="/comments/20240926/2093896.md" target="_blank">天亮时分：怎样的国家才可以成为联合国安理会国家？</a></li>
 <li><a href="/comments/20240926/2093890.md" target="_blank">何清涟：美国验证选民身份法案为何难产？</a></li>
 <li><a href="/comments/20240926/2093887.md" target="_blank">社会主义和共产主义到底什么区别？方伟时间</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240926/2093760.md" target="_blank">天亮时分：习近平战狼姿态是测试美国底线？</a></li>
 <li><a href="/comments/20240926/2093759.md" target="_blank">【“这是我们的家” 烂尾楼居民苦中作乐】</a></li>
 <li><a href="/comments/20240926/2093724.md" target="_blank">四方会谈记者没关话筒，竟然听到。。。方伟时间中共</a></li>
-<li><a href="/comments/20240926/2093712.md" target="_blank">天亮时分：降低购房门槛，能刺激中国房地产迎来第二春吗？</a></li>
-<li><a href="/comments/20240926/2093711.md" target="_blank">【中国监控下的脱北者：“就像置身渔网”：】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
-<li><a href="/comments/20231212/1972297.md" target="_blank">日本华人确诊晚期直肠癌，修炼法轮功恢复健康（图）</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/tculture/20120628/34899.md" target="_blank">有神无神，只消一例便可敲定</a></li>
-<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/cbnews/20240715/2062387.md" target="_blank">尧帝治世之道（一）</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/comments/20240126/1992876.md" target="_blank">内幕：中国留学生里女生打男生和男生打女一样普遍</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/taiwannews/20210119/1470524.md" target="_blank">纪录片《蚕食美国1》</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20231130/1967587.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （一）</a></li>
+<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
 
 </ul>
 </div>
