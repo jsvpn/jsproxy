@@ -17,7 +17,6 @@
 <li><a href="/yule/20240925/2093455.md">知名演员高虎送外卖：已经息影9年 不会复出</a></li>
 <li><a href="/cbnews/20240925/2093515.md">中共火箭军试射洲际导弹 习近平中央引猜测</a></li>
 <li><a href="/topimagenews/20240926/2093750.md">习加速自毁震动世界 首次！中共在太平洋射洲际飞弹</a></li>
-<li><a href="/topimagenews/20240925/2093359.md">有证据了，快断交！“彻底撤离日本企业并紧急撤离日本民众”日本人呼吁</a></li>
 <li><a href="/baitai/20240925/2093589.md">央行发布重磅政策 分析：全球少见 后果不堪设想</a></li>
 <li><a href="/topimagenews/20240925/2093640.md">一家4口“用错筷子”惨罹癌！医揭1关键：一级致癌物</a></li>
 <li><a href="/finance/20240925/2093465.md">北京正在饮鸩止渴</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/topimagenews/20240925/2093396.md">前储君高调亮相释强烈信号！王沪宁阴谋虎视眈眈【阿波罗网报道】</a></li>
 <li><a href="/lifebaike/20240925/2093560.md">1个月吃720颗蛋会怎样？哈佛专家揭超惊人结果</a></li>
 <li><a href="/cbnews/20240926/2093697.md">中国民宿获利不靠房价 业者揭露“偷拍产业链”惊人运作</a></li>
+<li><a href="/cbnews/20240925/2093536.md">许昌发起入住烂尾楼行动 警察败下阵</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,9 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20240926/2093869.md" target="_blank">以色列爆惊人大招 真主党被群爆最关键一环</a></li>
+<li><a href="/topimagenews/20240926/2093868.md" target="_blank">李强违背习“大跃进”？传何立峰名列要求罢免名单</a></li>
+<li><a href="/topimagenews/20240926/2093867.md" target="_blank">巨大政策转向 习亲自拍板？房地产业或寿终正寝</a></li>
 <li><a href="/topimagenews/20240926/2093783.md" target="_blank">加拿大公布击落UFO图片 总理亲自回应证实</a></li>
 <li><a href="/topimagenews/20240926/2093765.md" target="_blank">乌东战况急剧恶化 俄获2年来最快进展 攻陷重镇</a></li>
 <li><a href="/topimagenews/20240926/2093764.md" target="_blank">400年前的债券如今仍兑付利息，这国家如此实诚</a></li>
@@ -88,15 +91,14 @@
 <li><a href="/topimagenews/20240925/2093359.md" target="_blank">有证据了，快断交！“彻底撤离日本企业并紧急撤离日本民众”日本人呼吁</a></li>
 <li><a href="/topimagenews/20240925/2093340.md" target="_blank">北京大招能为习近平争取多少时间？</a></li>
 <li><a href="/topimagenews/20240925/2093317.md" target="_blank">女鬼图被慈禧收藏 毛骨悚然细节令网直呼不敢看</a></li>
-<li><a href="/topimagenews/20240925/2093316.md" target="_blank">拜登告别演说 直触习最丑 耿爽皱眉</a></li>
-<li><a href="/topimagenews/20240925/2093277.md" target="_blank">马斯克与意女总理“放电”成焦点 媒体：公开示爱</a></li>
-<li><a href="/topimagenews/20240925/2093276.md" target="_blank">普京傻眼！兵工厂夷为平地 俄军要没炮弹了</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240926/2093865.md" target="_blank">一百多家日企要撤离中国！习近平王毅还装淡定？ 小粉红掀“砸苹果”热潮？骨灰级爱国原来是高级黑</a></li>
+<li><a href="/comments/20240926/2093864.md" target="_blank">【雨伞运动十周年系列】【占中发起人朱耀明：回看港人30年民主路的苦难】</a></li>
 <li><a href="/comments/20240926/2093847.md" target="_blank">中共是美国最大的威胁 所以我成为首位驱逐中共国企的州长</a></li>
 <li><a href="/comments/20240926/2093846.md" target="_blank">第一个自动放弃权力的共产党</a></li>
 <li><a href="/comments/20240926/2093825.md" target="_blank">你能多久不碰手机</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20240925/2093588.md" target="_blank">美国获得情报：川普面临伊朗暗杀威胁！｜美国大选｜民调｜方伟时间 09.25.2024</a></li>
 <li><a href="/comments/20240925/2093551.md" target="_blank">卡尔森访谈万斯，被完全震撼到：30年首次听到如此深刻的言论。万斯透露川普面试细节，反映川普真实为人与领导风格。川普万斯卡尔森</a></li>
 <li><a href="/comments/20240925/2093513.md" target="_blank">三胖OS“京哥不按套路出牌”</a></li>
-<li><a href="/comments/20240925/2093512.md" target="_blank">川普：这是我最后一次参加选举了</a></li>
-<li><a href="/comments/20240925/2093489.md" target="_blank">川普宾州许下承诺。上任第一天要求习做两件事，为美国农民讨公道。不征遗产税，警告拖拉机制造厂等。美国大选农业川普</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/comments/20240820/2076940.md" target="_blank">惠虎宇：中华文化为什么是高级文化系统(2)</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
-<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
-<li><a href="/comments/20230920/1936271.md" target="_blank">防止你的孩子不成功（5） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/tculture/20240815/2074891.md" target="_blank">松果体 谜一样的器官</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
 <li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20240623/2053092.md" target="_blank">章天亮：那些行于世间的觉者</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
 
 </ul>
 </div>
