@@ -8,13 +8,13 @@
 <li><a href="/topimagenews/20240925/2093508.md">内幕曝光 中南海已惶恐不安</a></li>
 <li><a href="/topimagenews/20240926/2093750.md">习加速自毁震动世界 首次！中共在太平洋射洲际飞弹</a></li>
 <li><a href="/cbnews/20240925/2093515.md">中共火箭军试射洲际导弹 习近平中央引猜测</a></li>
-<li><a href="/baitai/20240925/2093589.md">央行发布重磅政策 分析：全球少见 后果不堪设想</a></li>
 <li><a href="/topimagenews/20240926/2093868.md">李强违背习“大跃进”？传何立峰名列要求罢免名单</a></li>
+<li><a href="/baitai/20240925/2093589.md">央行发布重磅政策 分析：全球少见 后果不堪设想</a></li>
 <li><a href="/topimagenews/20240925/2093640.md">一家4口“用错筷子”惨罹癌！医揭1关键：一级致癌物</a></li>
 <li><a href="/topimagenews/20240926/2093783.md">加拿大公布击落UFO图片 总理亲自回应证实</a></li>
 <li><a href="/baitai/20240926/2093721.md">关乎习近平脸面？美媒爆中共重磅救市计划出台内幕</a></li>
-<li><a href="/comments/20240926/2093778.md">文昭：习近平遭遇最难捱时刻；前太子高调回归，意味着什麽？当习皇撞上宿命，谁更硬？</a></li>
 <li><a href="/cnnews/20240925/2093563.md">巴菲特突然再次出手</a></li>
+<li><a href="/comments/20240926/2093778.md">文昭：习近平遭遇最难捱时刻；前太子高调回归，意味着什麽？当习皇撞上宿命，谁更硬？</a></li>
 <li><a href="/topimagenews/20240926/2093765.md">乌东战况急剧恶化 俄获2年来最快进展 攻陷重镇</a></li>
 <li><a href="/headline/20240925/2093491.md">中共红色电影《一生交给党》票房惨淡 网民嘲：一亿党员怎么没去看？</a></li>
 <li><a href="/cbnews/20240925/2093516.md">中国富豪已成危险一族 中国首富在过去一个月频频换人</a></li>
@@ -25,9 +25,9 @@
 <li><a href="/cbnews/20240925/2093536.md">许昌发起入住烂尾楼行动 警察败下阵</a></li>
 <li><a href="/cbnews/20240926/2093677.md">上海女排解寂寞 花900万人民币买1000件文物 全是假货</a></li>
 <li><a href="/topimagenews/20240925/2093509.md">库尔斯克血战! 俄军增兵4万反击 这城若失手 俄再丢7百平方里土地</a></li>
-<li><a href="/cbnews/20240925/2093541.md">习近平必须这样做！川普如当选第一要求</a></li>
 <li><a href="/cbnews/20240926/2093835.md">〖红朝浮世绘〗权力太傲慢 民众的怒气与生存空间不断被挤压而爆发</a></li>
-<li><a href="/sohnews/20240926/2093757.md">中国启动了中共世上最大救市计画</a></li>
+<li><a href="/cbnews/20240925/2093541.md">习近平必须这样做！川普如当选第一要求</a></li>
+<li><a href="/topimagenews/20240926/2093867.md">巨大政策转向 习亲自拍板？房地产业或寿终正寝</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240926/2093988.md" target="_blank">布兰登预言：2025年惊天动地，经济何时崩溃？</a></li>
 <li><a href="/comments/20240926/2093945.md" target="_blank">在自己权力范围内 最大限度的断别人生路</a></li>
 <li><a href="/comments/20240926/2093944.md" target="_blank">以行政之手救市场死症，中共竭泽而渔生死一搏</a></li>
 <li><a href="/comments/20240926/2093896.md" target="_blank">天亮时分：怎样的国家才可以成为联合国安理会国家？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240926/2093778.md" target="_blank">文昭：习近平遭遇最难捱时刻；前太子高调回归，意味着什麽？当习皇撞上宿命，谁更硬？</a></li>
 <li><a href="/comments/20240926/2093760.md" target="_blank">天亮时分：习近平战狼姿态是测试美国底线？</a></li>
 <li><a href="/comments/20240926/2093759.md" target="_blank">【“这是我们的家” 烂尾楼居民苦中作乐】</a></li>
-<li><a href="/comments/20240926/2093724.md" target="_blank">四方会谈记者没关话筒，竟然听到。。。方伟时间中共</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/cbnews/20240902/2082501.md" target="_blank">中元节祭祖有没有效果呢？那边真的可以收到纸钱吗？</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20240320/2015021.md" target="_blank">唐柏桥：中共带话只要不与法轮功来往，其他一切都好说</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/cnnews/20170717/792917.md" target="_blank">无神论是最大的迷信</a></li>
+<li><a href="/comments/20240721/2065039.md" target="_blank">王建勋：川普主义是雅各宾主义的克星</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
 <li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
 
 </ul>
 </div>
