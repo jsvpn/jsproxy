@@ -10,24 +10,24 @@
 <li><a href="/topimagenews/20240927/2094420.md">举世关注！习近平霸凌后果严重：“老子不忍了”</a></li>
 <li><a href="/topimagenews/20240927/2094467.md">各种妖魔鬼怪都来了 接下来的政策？看这图就够了</a></li>
 <li><a href="/cbnews/20240927/2094437.md">〖红朝浮世绘〗习主席放大招，股市限跌令横空出世</a></li>
-<li><a href="/cbnews/20240927/2094550.md">湖南财政厅长坠亡案被爆牵出中纪委副书记</a></li>
 <li><a href="/cnnews/20240927/2094475.md">南京女官员被抓，她的发型真是太惊艳了</a></li>
-<li><a href="/topimagenews/20240927/2094278.md">震惊！北京发起最新“盐台风”行动 从未公开披露</a></li>
+<li><a href="/cbnews/20240927/2094550.md">湖南财政厅长坠亡案被爆牵出中纪委副书记</a></li>
 <li><a href="/baitai/20240927/2094568.md">错过这轮牛市，等于2000年错过楼市</a></li>
-<li><a href="/comments/20240927/2094283.md">习近平终于陷入死循环！倒行逆施任意而为</a></li>
-<li><a href="/topimagenews/20240927/2094279.md">越来越多中国老百姓断供 银行开始让步了</a></li>
 <li><a href="/topimagenews/20240927/2094386.md">李承鹏：老子一命换一命 就是时代的预兆</a></li>
-<li><a href="/topimagenews/20240927/2094604.md">石破茂击败反共高市将任日本新首相！日圆飙升 台海立场引争议</a></li>
 <li><a href="/baitai/20240927/2094461.md">习近平健康堪忧？传数十人涉泄密被捕或遭秘密处决 包括官员、医生、护士和军警人员</a></li>
+<li><a href="/topimagenews/20240927/2094604.md">石破茂击败反共高市将任日本新首相！日圆飙升 台海立场引争议</a></li>
 <li><a href="/sohnews/20240927/2094567.md">陈破空：异动！李鹏之子突遭免职。习报复升级，泄密他病情者被捕。实锤：共军核潜艇沉没！就在五月围台军演时。亲共纽约市长遭五项控罪。日本新首相出炉。直播与互动：美东时间9月27日早9点、中港台当晚9点</a></li>
 <li><a href="/sohnews/20240927/2094493.md">大事不妙习近平180度转弯，李强何立峰背黑锅或许官位不保，共军核潜艇武汉水域沉没内幕。《老灯开讲第678期》</a></li>
 <li><a href="/cbnews/20240927/2094330.md">美披露中共核潜艇在武汉沉没 军事博主解析</a></li>
 <li><a href="/cbnews/20240927/2094421.md">中国女精英千万资产被侵吞殆尽</a></li>
 <li><a href="/headline/20240927/2094296.md">习近平的三板斧？</a></li>
 <li><a href="/topimagenews/20240927/2094346.md">“拿刀叉吃人肉”！中共高干退休后待遇优渥</a></li>
-<li><a href="/sohnews/20240927/2094350.md">他是给最多高官戴绿帽的男人，也是掌握最多高官太太秘密的公共情人，还有更多不为人知的故事！他现在在哪儿？【文昭思绪飞扬384期】</a></li>
 <li><a href="/topimagenews/20240927/2094494.md">日本下届新首相出炉</a></li>
+<li><a href="/sohnews/20240927/2094350.md">他是给最多高官戴绿帽的男人，也是掌握最多高官太太秘密的公共情人，还有更多不为人知的故事！他现在在哪儿？【文昭思绪飞扬384期】</a></li>
 <li><a href="/sohnews/20240927/2094362.md">薄熙来谷开来和王立军海伍德混乱又罪恶的关系</a></li>
+<li><a href="/baitai/20240927/2094614.md">中共连出大招 分析指：更糟糕的事很快就到</a></li>
+<li><a href="/comments/20240927/2094652.md">“总加速师” 名不虚传</a></li>
+<li><a href="/ssgc/20240927/2094592.md">中共密集经济政策动作的背后</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240928/2094790.md" target="_blank">【#经济刺激 猛药你服不服？ 房产中介先干为敬】 在中国领导人宣布近年来最大经济刺激措施的一周结束时，金融中心上海的房地产代理商对旨在鼓励购房的政策表达了谨慎乐观态度。</a></li>
 <li><a href="/comments/20240928/2094755.md" target="_blank">专栏 &#8211; 解读新疆：学者：中国正在新疆借鉴纳粹“种族灭绝旅游”做法</a></li>
 <li><a href="/comments/20240928/2094745.md" target="_blank">纽约市市长亚当斯被捕，官邸被搜，到底怎么了？！？</a></li>
 <li><a href="/comments/20240928/2094741.md" target="_blank">天亮时分：核潜艇沉了，核燃料去哪儿了？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240927/2094417.md" target="_blank">中共最牛潜艇灌水生锈？日朝野齐反共：日军舰穿越台湾海峡、民间大喇叭响起！习近平懵了</a></li>
 <li><a href="/comments/20240927/2094395.md" target="_blank">“凉鞋”辱毛Vs.&#8221;共产党不是人&#8221;</a></li>
 <li><a href="/comments/20240927/2094394.md" target="_blank">作死！权力好处千千万，但命只有一条</a></li>
-<li><a href="/comments/20240927/2094393.md" target="_blank">里约热泪奴：有感于俄罗斯将禁止宣传“无孩生活方式”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
-<li><a href="/cnnews/20221211/1822144.md" target="_blank">盖盖冲马桶很可怕！瞬间“病毒炸开”？</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20240825/2079044.md" target="_blank">谁是创世主</a></li>
-<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/cbnews/20240603/2045072.md" target="_blank">漫谈古代科举之八股文</a></li>
-<li><a href="/tculture/20120628/34899.md" target="_blank">有神无神，只消一例便可敲定</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20240808/2071869.md" target="_blank">【新纪元】被误解的大脑</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
 <li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/comments/20231223/1978148.md" target="_blank">医山夜话：张锡纯医案解读（三）赭石：降胃气 引火下行</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/tculture/20220622/1748765.md" target="_blank">影响人类的两个图案——太极图和卍字符</a></li>
 
 </ul>
 </div>
