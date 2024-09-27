@@ -22,12 +22,12 @@
 <li><a href="/sohnews/20240926/2094045.md">习近平“开悟”，政治局开会❗️❗️❗️上海要发消费券、贫困户发现金……</a></li>
 <li><a href="/comments/20240926/2093988.md">布兰登预言：2025年惊天动地，经济何时崩溃？</a></li>
 <li><a href="/cnnews/20240926/2093946.md">第一批鸡娃的80后 已经“断供”了？</a></li>
-<li><a href="/baitai/20240926/2094058.md">中方的管制已经落地，美方才意识到是玩真的，突然对中国变了口风</a></li>
 <li><a href="/yule/20240927/2094226.md">刘涛与车晓同框 网友称：一个像村姑一个像贵妇</a></li>
+<li><a href="/topimagenews/20240927/2094266.md">以习为首中共大员都惨！美重众院重磅制裁法案通过</a></li>
+<li><a href="/baitai/20240926/2094058.md">中方的管制已经落地，美方才意识到是玩真的，突然对中国变了口风</a></li>
 <li><a href="/headline/20240926/2093991.md">中共派钱 国庆前向困难群众发放一次性生活补助</a></li>
 <li><a href="/ccpdope/20240926/2093888.md">最后的预言－－互联网即将消失</a></li>
-<li><a href="/topimagenews/20240927/2094266.md">以习为首中共大员都惨！美重众院重磅制裁法案通过</a></li>
-<li><a href="/lifebaike/20240926/2093883.md">家里有铁皮茶叶盒吗？回家找一找，用途家家都用得到，学会捡到宝 </a></li>
+<li><a href="/headline/20240927/2094218.md">美官员：中国隐瞒核潜艇沉没事件</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240927/2094371.md" target="_blank">亚当斯被控5罪 官邸被搜 到底怎么了？！？</a></li>
 <li><a href="/cbnews/20240927/2094348.md" target="_blank">开启消杀模式！广东登革热爆发</a></li>
 <li><a href="/cbnews/20240927/2094330.md" target="_blank">美披露中共核潜艇在武汉沉没 军事博主解析</a></li>
 <li><a href="/cbnews/20240927/2094311.md" target="_blank">内斗惨烈！习顺势利用他 用完就清除掉</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240926/2093938.md" target="_blank">丹麦：谴责中共军援俄罗斯 北京须承担后果</a></li>
 <li><a href="/cbnews/20240926/2093937.md" target="_blank">诺奖得主:美中关系紧张正在颠覆全球贸易流动</a></li>
 <li><a href="/cbnews/20240926/2093936.md" target="_blank">湖南村主任撞死人大代表赔偿650万 死刑改15年</a></li>
-<li><a href="/cbnews/20240926/2093935.md" target="_blank">黑色利益链 曝石家庄酒店藏摄像头 举报者却被堵在派出所</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,12 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240927/2094371.md" target="_blank">亚当斯被控5罪 官邸被搜 到底怎么了？！？</a></li>
+<li><a href="/comments/20240927/2094369.md" target="_blank">那些润去了苏联的美国人</a></li>
+<li><a href="/comments/20240927/2094368.md" target="_blank">美国文化灾难&#8212;-宾大教授瓦克斯被停职</a></li>
+<li><a href="/comments/20240927/2094367.md" target="_blank">消失的地平线——欧美取消文化的来龙去脉</a></li>
+<li><a href="/comments/20240927/2094366.md" target="_blank">魏谷子：左翼民调造假史：川普为什么能赢最关键的宾州？</a></li>
+<li><a href="/comments/20240927/2094364.md" target="_blank">天亮时分：经济崩了，核潜艇沉了！今天，习召开政治局紧急会议；孙雯案开审，纽约市长被起诉（政论天下第1415集 20240926）天亮时分</a></li>
 <li><a href="/comments/20240927/2094283.md" target="_blank">习近平终于陷入死循环！倒行逆施任意而为</a></li>
 <li><a href="/comments/20240927/2094245.md" target="_blank">【经济凉了，你存钱了吗？】 习近平及其他高级领导人承认全球第二大经济体正面临新“问题”，并承诺解决长期存在的房地产危机之际，上海市民这样描述他们的经济状况和消费习惯。</a></li>
 <li><a href="/comments/20240927/2094222.md" target="_blank">【新闻机构高层被判煽动罪的首例】</a></li>
@@ -116,12 +122,6 @@
 <li><a href="/comments/20240926/2094054.md" target="_blank">社会主义和共产主义什么区别？</a></li>
 <li><a href="/comments/20240926/2094049.md" target="_blank">布兰登·比格斯 自述一天晚上 魔鬼意外来访 他竟然长这样</a></li>
 <li><a href="/comments/20240926/2094039.md" target="_blank">预言家拼图未来 另一场911 台海战争 红龙偷袭珍珠港 经济崩溃</a></li>
-<li><a href="/comments/20240926/2094040.md" target="_blank">哈？用华为手机 也不够爱国！因为里面有外国产的晶片技术！只能用活字版印刷</a></li>
-<li><a href="/comments/20240926/2094030.md" target="_blank">纽约红衣主教严厉警告哈里斯，40年前历史重演？涉嫌插手美国大选，众议院调查泽连斯基。议长要求撤换乌驻美大使。哈里斯美国大选泽连斯基</a></li>
-<li><a href="/comments/20240926/2094018.md" target="_blank">布兰登预言：上帝向我展示了美元崩溃、银行业崩溃和新数字平台</a></li>
-<li><a href="/comments/20240926/2093995.md" target="_blank">布兰登预言：经济崩溃将持续，川普拼凑了一架飞机？</a></li>
-<li><a href="/comments/20240926/2093988.md" target="_blank">布兰登预言：2025年惊天动地，经济何时崩溃？</a></li>
-<li><a href="/comments/20240926/2093945.md" target="_blank">在自己权力范围内 最大限度的断别人生路</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cnnews/20221211/1822144.md" target="_blank">盖盖冲马桶很可怕！瞬间“病毒炸开”？</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
-<li><a href="/topimagenews/20240511/2035423.md" target="_blank">原北京学员回忆李洪志先生在东方健康博览会上所行的奇迹</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
-<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
-<li><a href="/topimagenews/20200514/1328456.md" target="_blank">穿越时空 谢田教授亲身体验人体特异功能</a></li>
-<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/cbnews/20240603/2045072.md" target="_blank">漫谈古代科举之八股文</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/tculture/20231208/1971390.md" target="_blank">传统文化之汉字的内涵</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/sohnews/20240908/2085761.md" target="_blank">初次见到神；看到兽的印记；目睹灾难来临时什么样的人会被留下</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20240418/2026391.md" target="_blank">医生劝我妻子放弃，似乎这些医生热衷让病人快点去死？</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
 
 </ul>
 </div>
