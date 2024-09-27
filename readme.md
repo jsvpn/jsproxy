@@ -5,12 +5,11 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/cbnews/20240927/2094195.md">上海女律师自曝当上司“小三” 自曝：我丧尽天良，猪狗不如</a></li>
 <li><a href="/topimagenews/20240927/2094308.md">能跑则跑！中国“津巴布韦化”已不远</a></li>
 <li><a href="/topimagenews/20240927/2094266.md">以习为首中共大员都惨！美重众院重磅制裁法案通过</a></li>
 <li><a href="/cbnews/20240927/2094311.md">内斗惨烈！习顺势利用他 用完就清除掉</a></li>
-<li><a href="/yule/20240927/2094226.md">刘涛与车晓同框 网友称：一个像村姑一个像贵妇</a></li>
 <li><a href="/topimagenews/20240927/2094420.md">举世关注！习近平霸凌后果严重：“老子不忍了”</a></li>
+<li><a href="/yule/20240927/2094226.md">刘涛与车晓同框 网友称：一个像村姑一个像贵妇</a></li>
 <li><a href="/cbnews/20240927/2094550.md">湖南财政厅长坠亡案被爆牵出中纪委副书记</a></li>
 <li><a href="/topimagenews/20240927/2094467.md">各种妖魔鬼怪都来了 接下来的政策？看这图就够了</a></li>
 <li><a href="/cbnews/20240927/2094437.md">〖红朝浮世绘〗习主席放大招，股市限跌令横空出世</a></li>
@@ -18,15 +17,16 @@
 <li><a href="/yule/20240927/2094227.md">歌坛天后与“活佛”生娃 52岁却落魄露宿街头</a></li>
 <li><a href="/cnnews/20240927/2094475.md">南京女官员被抓，她的发型真是太惊艳了</a></li>
 <li><a href="/topimagenews/20240927/2094279.md">越来越多中国老百姓断供 银行开始让步了</a></li>
-<li><a href="/comments/20240927/2094283.md">习近平终于陷入死循环！倒行逆施任意而为</a></li>
 <li><a href="/baitai/20240927/2094568.md">错过这轮牛市，等于2000年错过楼市</a></li>
+<li><a href="/comments/20240927/2094283.md">习近平终于陷入死循环！倒行逆施任意而为</a></li>
 <li><a href="/topimagenews/20240927/2094386.md">李承鹏：老子一命换一命 就是时代的预兆</a></li>
 <li><a href="/baitai/20240927/2094461.md">习近平健康堪忧？传数十人涉泄密被捕或遭秘密处决 包括官员、医生、护士和军警人员</a></li>
 <li><a href="/cbnews/20240927/2094330.md">美披露中共核潜艇在武汉沉没 军事博主解析</a></li>
+<li><a href="/sohnews/20240927/2094567.md">陈破空：异动！李鹏之子突遭免职。习报复升级，泄密他病情者被捕。实锤：共军核潜艇沉没！就在五月围台军演时。亲共纽约市长遭五项控罪。日本新首相出炉。直播与互动：美东时间9月27日早9点、中港台当晚9点</a></li>
 <li><a href="/sohnews/20240927/2094493.md">大事不妙习近平180度转弯，李强何立峰背黑锅或许官位不保，共军核潜艇武汉水域沉没内幕。《老灯开讲第678期》</a></li>
 <li><a href="/headline/20240927/2094296.md">习近平的三板斧？</a></li>
-<li><a href="/cbnews/20240927/2094421.md">中国女精英千万资产被侵吞殆尽</a></li>
 <li><a href="/topimagenews/20240927/2094604.md">石破茂击败反共高市将任日本新首相！日圆飙升 台海立场引争议</a></li>
+<li><a href="/cbnews/20240927/2094421.md">中国女精英千万资产被侵吞殆尽</a></li>
 <li><a href="/headline/20240927/2094218.md">美官员：中国隐瞒核潜艇沉没事件</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/cbnews/20190701/1151453.md" target="_blank">盘点十大邪教特征 中共条条对号入座</a></li>
-<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/sohnews/20240923/2092493.md" target="_blank">布兰登‧比格斯第一次见到神（三）：他们被置入了一个芯片 瞬间仿佛灵魂出窍</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
-<li><a href="/comments/20240918/2089868.md" target="_blank">马云前世修道，李嘉诚前世是和尚-数字漫谈（三）</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20240814/2074560.md" target="_blank">曾预言川普右耳中枪的牧师，看到美国大灾难，川普在椭圆形办公室哭泣，祈祷神修复美国。不信神的人被淘汰。比格斯川普暗杀事件</a></li>
+<li><a href="/comments/20190701/1151501.md" target="_blank">【特稿】中国共产党是邪教组织</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/tculture/20220622/1748765.md" target="_blank">影响人类的两个图案——太极图和卍字符</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
+<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/cbnews/20240902/2082501.md" target="_blank">中元节祭祖有没有效果呢？那边真的可以收到纸钱吗？</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/lifebaike/20180529/949787.md" target="_blank">无神论是最大的迷信（下）：科学家大多是有神论</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
 
 </ul>
 </div>
