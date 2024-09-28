@@ -9,25 +9,25 @@
 <li><a href="/topimagenews/20240927/2094467.md">各种妖魔鬼怪都来了 接下来的政策？看这图就够了</a></li>
 <li><a href="/cbnews/20240927/2094550.md">湖南财政厅长坠亡案被爆牵出中纪委副书记</a></li>
 <li><a href="/baitai/20240927/2094568.md">错过这轮牛市，等于2000年错过楼市</a></li>
-<li><a href="/baitai/20240927/2094461.md">习近平健康堪忧？传数十人涉泄密被捕或遭秘密处决 包括官员、医生、护士和军警人员</a></li>
 <li><a href="/sohnews/20240927/2094567.md">陈破空：异动！李鹏之子突遭免职。习报复升级，泄密他病情者被捕。实锤：共军核潜艇沉没！就在五月围台军演时。亲共纽约市长遭五项控罪。日本新首相出炉。直播与互动：美东时间9月27日早9点、中港台当晚9点</a></li>
 <li><a href="/baitai/20240928/2094759.md">李鹏长子李小鹏卸任 成中共交通运输部在位最短「一把手」</a></li>
 <li><a href="/yule/20240928/2094735.md">老戏骨“晚节不保”：私生活混乱 直播卖假货</a></li>
 <li><a href="/topimagenews/20240927/2094604.md">石破茂击败反共高市将任日本新首相！日圆飙升 台海立场引争议</a></li>
+<li><a href="/cbnews/20240928/2094797.md">习政治局会议公开强调为这些人撑腰！中南海玩不转了</a></li>
 <li><a href="/sohnews/20240927/2094493.md">大事不妙习近平180度转弯，李强何立峰背黑锅或许官位不保，共军核潜艇武汉水域沉没内幕。《老灯开讲第678期》</a></li>
 <li><a href="/cnnews/20240928/2094724.md">曝章泽天与刘强东前任比赛生娃争家产？看似…</a></li>
-<li><a href="/cbnews/20240928/2094797.md">习政治局会议公开强调为这些人撑腰！中南海玩不转了</a></li>
+<li><a href="/health/20240928/2094802.md">请马上停用厨房“两调料”，多位医生呼吁：会使胰岛受损，记得管住嘴</a></li>
 <li><a href="/comments/20240927/2094652.md">“总加速师” 名不虚传</a></li>
 <li><a href="/baitai/20240927/2094614.md">中共连出大招 分析指：更糟糕的事很快就到</a></li>
-<li><a href="/health/20240928/2094802.md">请马上停用厨房“两调料”，多位医生呼吁：会使胰岛受损，记得管住嘴</a></li>
 <li><a href="/sohnews/20240927/2094350.md">他是给最多高官戴绿帽的男人，也是掌握最多高官太太秘密的公共情人，还有更多不为人知的故事！他现在在哪儿？【文昭思绪飞扬384期】</a></li>
 <li><a href="/baitai/20240928/2094751.md">中国股市突发异常情况 美媒：重磅刺激超出负荷能力</a></li>
+<li><a href="/topimagenews/20240928/2094817.md">炸了！深圳美女老板，搞出百亿庞氏骗局</a></li>
 <li><a href="/topimagenews/20240927/2094494.md">日本下届新首相出炉</a></li>
 <li><a href="/ssgc/20240927/2094592.md">中共密集经济政策动作的背后</a></li>
-<li><a href="/topimagenews/20240928/2094817.md">炸了！深圳美女老板，搞出百亿庞氏骗局</a></li>
 <li><a href="/topimagenews/20240927/2094642.md">中国养老金将耗尽！财经人士：习近平却砸大钱射导弹挑衅全世界</a></li>
 <li><a href="/yule/20240928/2094726.md">60岁关之琳大胆公开恋情 晒新男友亲密照</a></li>
 <li><a href="/comments/20240927/2094600.md">中国北方突然出现巨大天象变化！多艘UFO现身北京天津！天降好多火流星，最高层人心惶惶；美国前总统 亲口给出最新爆料！｜未解之谜 扶摇</a></li>
+<li><a href="/topimagenews/20240928/2094690.md">中共“超级组合拳”救经济 美媒解读：只是短期“虚火”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20240928/2094942.md" target="_blank">最新核潜艇沉没 专家揭中共海军结构弱点</a></li>
+<li><a href="/cbnews/20240928/2094941.md" target="_blank">“三只羊”被罚款 没收6894万元 将退一赔三</a></li>
 <li><a href="/cbnews/20240928/2094940.md" target="_blank">江峰：A股注水牛肉，散户喝水还是吃肉？各省军令状保习近平私家钱，全球首创只升不降的股市；政治局紧急经济会议曝严重误判，“固本”变抢救，经济彻底玩完； 刘鹤被抓是真的？【江峰漫谈20240927 第944期】</a></li>
 <li><a href="/cbnews/20240928/2094918.md" target="_blank">〖红朝浮世绘〗中共国股市涨崩了 这是回光返照吧？</a></li>
 <li><a href="/cbnews/20240928/2094905.md" target="_blank">中共国企铁饭碗碎？国资委推“末位汰换” 网议谁先走</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20240927/2094644.md" target="_blank">石破茂将任日本首相 北京学者：中日关系难缓解</a></li>
 <li><a href="/cbnews/20240927/2094643.md" target="_blank">这只熊猫好诡异！近看吓傻 动物园仍狡辩</a></li>
 <li><a href="/comments/20240927/2094624.md" target="_blank">北卡决定除去1/10的的登记选民，为什么？｜方伟时间 09.27.2024</a></li>
-<li><a href="/comments/20240927/2094611.md" target="_blank">伊朗直接干扰选举，并威胁川普生命！？</a></li>
-<li><a href="/comments/20240927/2094600.md" target="_blank">中国北方突然出现巨大天象变化！多艘UFO现身北京天津！天降好多火流星，最高层人心惶惶；美国前总统 亲口给出最新爆料！｜未解之谜 扶摇</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/comments/20190213/1080251.md" target="_blank">胡平：法轮功为何反对自杀？</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20231212/1972297.md" target="_blank">日本华人确诊晚期直肠癌，修炼法轮功恢复健康（图）</a></li>
-<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/sohnews/20240923/2092491.md" target="_blank">布兰登比格斯曾听到两位天使的对话，对他震动很大&#8230;&#8230;</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/ssgc/20240508/2034288.md" target="_blank">《透视“进化论”》第九章 人类起源问题的终极答案</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
+<li><a href="/comments/20240403/2020547.md" target="_blank">纪录片：DSM诊断与统计手册-精神病学最要命的骗局</a></li>
+<li><a href="/cbnews/20231208/1971389.md" target="_blank">话说中医之祝由科</a></li>
+<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
+<li><a href="/comments/20240723/2065714.md" target="_blank">台湾民视：解谜法轮功 气功或宗教？</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20240828/2080320.md" target="_blank">惠虎宇：与AI聊传统宗教、科学和修炼</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20231213/1973586.md" target="_blank">六道轮回之畜生道</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/cnnews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
 
 </ul>
 </div>
