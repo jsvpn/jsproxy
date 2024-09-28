@@ -9,14 +9,13 @@
 <li><a href="/cbnews/20240928/2094797.md">习政治局会议公开强调为这些人撑腰！中南海玩不转了</a></li>
 <li><a href="/health/20240928/2094802.md">请马上停用厨房“两调料”，多位医生呼吁：会使胰岛受损，记得管住嘴</a></li>
 <li><a href="/topimagenews/20240928/2094817.md">炸了！深圳美女老板，搞出百亿庞氏骗局</a></li>
-<li><a href="/baitai/20240928/2094751.md">中国股市突发异常情况 美媒：重磅刺激超出负荷能力</a></li>
 <li><a href="/topimagenews/20240928/2094971.md">川普惊讶：“没想到习近平就这点程度啊”</a></li>
 <li><a href="/lishi/20240928/2094812.md">中共七元老倒台 栽在一招上？</a></li>
 <li><a href="/topimagenews/20240928/2094970.md">中共各部委突接通知 老百姓迎来天上掉馅饼？【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20240928/2094977.md">习近平一众亲信恶斗！李强被“眼线”监控</a></li>
 <li><a href="/topimagenews/20240928/2094816.md">共军惹大祸 多国冲上来！近40战舰 4.5万人联合军演</a></li>
-<li><a href="/cbnews/20240928/2094986.md">《人民日报》巨震！上海政法书记上位 强硬整肃南方周末庹震下台【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20240928/2094918.md">〖红朝浮世绘〗中共国股市涨崩了 这是回光返照吧？</a></li>
+<li><a href="/cbnews/20240928/2094986.md">《人民日报》巨震！上海政法书记上位 强硬整肃南方周末庹震下台【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240928/2094795.md">中国 一条隐藏的暴利产业链</a></li>
 <li><a href="/health/20240928/2095021.md">人不会无缘无故得癌症！肿瘤科专家道出真相：都绕不开这3个原因</a></li>
 <li><a href="/topimagenews/20240928/2094972.md">形势逼人！新相太老练 亲中共得过了这一关</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/sohnews/20240928/2095022.md">陈破空：习又重要讲话了，暴瘦！这回都说是替身？老习同李强反目！谁该为经济衰败背锅？川普会见泽伦斯基，打破多重传言。直播与互动：美东时间9月28日早9点、中港台当晚9点</a></li>
 <li><a href="/cbnews/20240928/2094956.md">身藏5万美元现金出境 被海关查获</a></li>
 <li><a href="/topimagenews/20240928/2094796.md">突发：川普会见泽伦斯基 称跟他关系“非常好”</a></li>
+<li><a href="/topimagenews/20240928/2094899.md">再打下去 真的要没人了! 俄罗斯航母兵被迫当陆军参战 竟然还有人失联</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190219/1082706.md" target="_blank">胡平：法轮功信仰自由，江泽民精神控制</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/sohnews/20240923/2092495.md" target="_blank">布兰登‧比格斯第一次见到神：有人升空 有人在追捕牧师</a></li>
-<li><a href="/comments/20240623/2053092.md" target="_blank">章天亮：那些行于世间的觉者</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/bblog/20240813/2073608.md" target="_blank">惊人内幕：脑死亡不是死亡，只是深度昏迷骗你捐器官</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/topimagenews/20200514/1328456.md" target="_blank">穿越时空 谢田教授亲身体验人体特异功能</a></li>
+<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
+<li><a href="/ssgc/20240508/2034288.md" target="_blank">《透视“进化论”》第九章 人类起源问题的终极答案</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20240403/2020547.md" target="_blank">纪录片：DSM诊断与统计手册-精神病学最要命的骗局</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/taiwannews/20210119/1470524.md" target="_blank">纪录片《蚕食美国1》</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
 <li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
-<li><a href="/tculture/20231217/1975364.md" target="_blank">医山夜话：张锡纯医案解读（1）根治失眠 思路清晰</a></li>
-<li><a href="/comments/20231214/1974098.md" target="_blank">美国众议院议长：我所坚守的保守主义，具体是些什么内容？</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
 
 </ul>
 </div>
