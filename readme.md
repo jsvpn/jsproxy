@@ -10,24 +10,24 @@
 <li><a href="/cbnews/20240929/2095289.md">香港卫视突遭中共全网封杀</a></li>
 <li><a href="/ccpdope/20240929/2095136.md">习近平现在是真正的“孤家寡人”</a></li>
 <li><a href="/cnnews/20240929/2095178.md">使用微信这个功能注意！第一批受害者已出现</a></li>
-<li><a href="/yule/20240929/2095126.md">中戏200年第一美女 把3位前任都捧成了影帝</a></li>
 <li><a href="/topimagenews/20240929/2095265.md">中国金融圈水太深 女员工自曝被主管硬上3次</a></li>
 <li><a href="/topimagenews/20240929/2095214.md">合肥“亮证姐”，被扒个底朝天</a></li>
 <li><a href="/headline/20240929/2095196.md">李小鹏成在位最短一把手 红二代集体式微</a></li>
-<li><a href="/topimagenews/20240929/2095197.md">高达98％，中国不进口真的没办法</a></li>
 <li><a href="/sohnews/20240929/2095310.md">9月26日召开中央政治局会议，习近平、李强和王沪宁都没有参加会议。习近平一直被软禁在中南海，不允许外出。中共国进入了习近平替身、视频人和纸片人统治的时代。</a></li>
-<li><a href="/topimagenews/20240929/2095164.md">突发重磅：真主党头号领袖被炸飞 以军摧毁其中央总部 世界形势大变？【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20240929/2095197.md">高达98％，中国不进口真的没办法</a></li>
 <li><a href="/topimagenews/20240929/2095403.md">习近平射洲际导弹 美军回应来了</a></li>
+<li><a href="/topimagenews/20240929/2095164.md">突发重磅：真主党头号领袖被炸飞 以军摧毁其中央总部 世界形势大变？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240929/2095264.md">习老大自己搞砸了 还不准别人说</a></li>
 <li><a href="/topimagenews/20240929/2095209.md">一图让中共国人崩溃！铁杆华春莹甜蜜现身</a></li>
 <li><a href="/topimagenews/20240929/2095176.md">几分钟轰逾80枚炸弹！真主党首领毙命细节被曝</a></li>
 <li><a href="/cnnews/20240929/2095341.md">出2个亿买副省长？</a></li>
 <li><a href="/cnnews/20240929/2095167.md">真主党老大被炸死，中东欢呼雀跃</a></li>
-<li><a href="/cbnews/20240929/2095216.md">“光听到这些就让我毛骨悚然了”！中共国正在发生</a></li>
 <li><a href="/sohnews/20240929/2095311.md">内幕：习李王其实没有出席政治局会议，高层已经发生一场无形的革命，中共瞒天过海大放水是为金蝉脱壳。《老灯开讲第680期》</a></li>
+<li><a href="/cbnews/20240929/2095216.md">“光听到这些就让我毛骨悚然了”！中共国正在发生</a></li>
 <li><a href="/topimagenews/20240929/2095277.md">【微博精粹】习主席买了人寿险之后</a></li>
-<li><a href="/worldnews/20240929/2095131.md">惺惺相惜 特鲁多邀小马到家喝酒，两人亲密搂腰</a></li>
 <li><a href="/cbnews/20240929/2095333.md">中国多所高校官宣缩短学制！透露出什么信号</a></li>
+<li><a href="/worldnews/20240929/2095131.md">惺惺相惜 特鲁多邀小马到家喝酒，两人亲密搂腰</a></li>
+<li><a href="/sohnews/20240929/2095367.md">陈破空：不可思议！北京开大会，老习同外国女人现身！他突又变胖。国庆招待会诡异：王沪宁成大佬，李强彻底出局。某党领袖遭一锅端，该国民众欢呼雀跃。直播与互动：美东时间9月29日早9点、中港台当晚9点</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/sohnews/20240924/2093135.md" target="_blank">布兰登·比格斯：神让我穿越回过去 改变人生 然后我发现……</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
 <li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/tculture/20240904/2083774.md" target="_blank">“几生修得到梅花”之生命品格浅议</a></li>
-<li><a href="/comments/20231220/1976683.md" target="_blank">医山夜话：张锡纯医案解读（二）根治胃气不降之证</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20240403/2020547.md" target="_blank">纪录片：DSM诊断与统计手册-精神病学最要命的骗局</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/tculture/20120628/34899.md" target="_blank">有神无神，只消一例便可敲定</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
 
 </ul>
 </div>
