@@ -9,25 +9,25 @@
 <li><a href="/cbnews/20240929/2095289.md">香港卫视突遭中共全网封杀</a></li>
 <li><a href="/ccpdope/20240929/2095136.md">习近平现在是真正的“孤家寡人”</a></li>
 <li><a href="/baitai/20240929/2095187.md">大会呼吁之一：呼吁习近平下台 致习近平的紧急呼吁：为了国家与民族的未来，请立即和平交权</a></li>
-<li><a href="/topimagenews/20240929/2095214.md">合肥“亮证姐”，被扒个底朝天</a></li>
 <li><a href="/cnnews/20240929/2095178.md">使用微信这个功能注意！第一批受害者已出现</a></li>
-<li><a href="/topimagenews/20240929/2095265.md">中国金融圈水太深 女员工自曝被主管硬上3次</a></li>
 <li><a href="/yule/20240929/2095126.md">中戏200年第一美女 把3位前任都捧成了影帝</a></li>
+<li><a href="/topimagenews/20240929/2095214.md">合肥“亮证姐”，被扒个底朝天</a></li>
+<li><a href="/topimagenews/20240929/2095265.md">中国金融圈水太深 女员工自曝被主管硬上3次</a></li>
 <li><a href="/baitai/20240928/2095086.md">习预告中美将决战？学者列败国大招</a></li>
 <li><a href="/sohnews/20240929/2095310.md">9月26日召开中央政治局会议，习近平、李强和王沪宁都没有参加会议。习近平一直被软禁在中南海，不允许外出。中共国进入了习近平替身、视频人和纸片人统治的时代。</a></li>
-<li><a href="/headline/20240929/2095196.md">李小鹏成在位最短一把手 红二代集体式微</a></li>
 <li><a href="/topimagenews/20240929/2095197.md">高达98％，中国不进口真的没办法</a></li>
+<li><a href="/headline/20240929/2095196.md">李小鹏成在位最短一把手 红二代集体式微</a></li>
 <li><a href="/topimagenews/20240929/2095164.md">突发重磅：真主党头号领袖被炸飞 以军摧毁其中央总部 世界形势大变？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240929/2095176.md">几分钟轰逾80枚炸弹！真主党首领毙命细节被曝</a></li>
 <li><a href="/topimagenews/20240929/2095209.md">一图让中共国人崩溃！铁杆华春莹甜蜜现身</a></li>
 <li><a href="/cnnews/20240929/2095167.md">真主党老大被炸死，中东欢呼雀跃</a></li>
 <li><a href="/comments/20240928/2095087.md">第三家民调出台：亚利桑那确实翻转！</a></li>
-<li><a href="/comments/20240928/2095056.md">一尊！献上特斯拉！马斯克北京会李强！ #中国</a></li>
+<li><a href="/topimagenews/20240929/2095264.md">习老大自己搞砸了 还不准别人说</a></li>
 <li><a href="/cbnews/20240929/2095216.md">“光听到这些就让我毛骨悚然了”！中共国正在发生</a></li>
 <li><a href="/worldnews/20240929/2095131.md">惺惺相惜 特鲁多邀小马到家喝酒，两人亲密搂腰</a></li>
-<li><a href="/topimagenews/20240929/2095264.md">习老大自己搞砸了 还不准别人说</a></li>
 <li><a href="/topimagenews/20240929/2095277.md">【微博精粹】习主席买了人寿险之后</a></li>
 <li><a href="/sohnews/20240929/2095311.md">内幕：习李王其实没有出席政治局会议，高层已经发生一场无形的革命，中共瞒天过海大放水是为金蝉脱壳。《老灯开讲第680期》</a></li>
+<li><a href="/topimagenews/20240929/2095241.md">大片 彻底摧毁制空权！这招一出 俄军顶不住</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20240929/2095380.md" target="_blank">最难过的大学入学通知🏫女同学听到学长给了忠告，还要读这学校吗？</a></li>
 <li><a href="/comments/20240929/2095338.md" target="_blank">真主党领袖已死，一群阿拉伯大佬心中窃喜</a></li>
 <li><a href="/comments/20240929/2095317.md" target="_blank">真主党高层全部丧生，世界看清伊朗真面目</a></li>
 <li><a href="/comments/20240929/2095306.md" target="_blank">上官乱：为什么每当中国富豪想成为马斯克 他们就会坐牢？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240928/2095056.md" target="_blank">一尊！献上特斯拉！马斯克北京会李强！ #中国</a></li>
 <li><a href="/comments/20240928/2095025.md" target="_blank">袁红冰：《唯美之灵》 第九卷 美丽死亡的天啓（第二部分）</a></li>
 <li><a href="/comments/20240928/2095023.md" target="_blank">川普和哈里斯对华政策，说了和没说部分的对比，表面与实质的差异。台湾川普哈里斯</a></li>
-<li><a href="/comments/20240928/2094938.md" target="_blank">【新片预告: 《#中共威胁》】自由亚洲电台十月钜献</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/tculture/20240916/2089420.md" target="_blank">诗人苏轼与黄庭坚的生命轮回</a></li>
-<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/topimagenews/20240511/2035423.md" target="_blank">原北京学员回忆李洪志先生在东方健康博览会上所行的奇迹</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/tculture/20231119/1962827.md" target="_blank">六道轮回之地狱道</a></li>
+<li><a href="/taiwannews/20210119/1470761.md" target="_blank">独家：震撼纪录片《蚕食美国2：欺诈大师》</a></li>
 <li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20240801/2069416.md" target="_blank">无神论和有神论深度解析</a></li>
+<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
+<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/sohnews/20240923/2092495.md" target="_blank">布兰登‧比格斯第一次见到神：有人升空 有人在追捕牧师</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/topimagenews/20180608/954788.md" target="_blank">安乐死根本安乐不了，别宣传了</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/bblog/20240813/2073608.md" target="_blank">惊人内幕：脑死亡不是死亡，只是深度昏迷骗你捐器官</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20240820/2076958.md" target="_blank">惠虎宇：中华文化为什么是高级文化系统(3)</a></li>
+<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
 
 </ul>
 </div>
