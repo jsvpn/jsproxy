@@ -6,10 +6,10 @@
 <ul>
 
 <li><a href="/yule/20240930/2095446.md">从央视名嘴到阶下囚：为救妻辞央视、倾家荡产 儿子美国留学</a></li>
-<li><a href="/topimagenews/20240930/2095489.md">退路没了！一大批小县城，正在走向崩溃</a></li>
 <li><a href="/topimagenews/20240930/2095584.md">颜面尽失！美媒点名嘲讽习近平</a></li>
-<li><a href="/baitai/20240930/2095691.md">北京惊传8名政府人员被殉职 中共面临大乱</a></li>
+<li><a href="/topimagenews/20240930/2095489.md">退路没了！一大批小县城，正在走向崩溃</a></li>
 <li><a href="/topimagenews/20240930/2095504.md">习近平梦碎一地！砸巨资难救回了【阿波罗网报道】</a></li>
+<li><a href="/baitai/20240930/2095691.md">北京惊传8名政府人员被殉职 中共面临大乱</a></li>
 <li><a href="/cbnews/20240930/2095728.md">中共多名元老现身北京 胡锦涛、温家宝缺席</a></li>
 <li><a href="/topimagenews/20240930/2095487.md">突然闪崩！中国340亿首富，跌懵了…</a></li>
 <li><a href="/topimagenews/20240930/2095500.md">这个杀人犯伪装成英雄，骗国人18年，被编入教材</a></li>
@@ -20,13 +20,13 @@
 <li><a href="/baitai/20240930/2095444.md">以色列接连击毙真主党首脑 中东将爆发全面战争？ 中共报导不敢提这三个字</a></li>
 <li><a href="/topimagenews/20240930/2095533.md">坑了上海老人的上海银行，一手好牌打得稀烂</a></li>
 <li><a href="/cnnews/20240930/2095669.md">诡异！藏什么? 中共通知撤离 多人吐血 亡者嘴脸发黑</a></li>
-<li><a href="/yule/20240930/2095445.md">中国第一帅哥 胖了40斤成这样了？</a></li>
-<li><a href="/ccpdope/20240930/2095629.md">超强经济刺激来了 全部套牢 网络炸锅</a></li>
-<li><a href="/finance/20240930/2095661.md">中国股市疯涨 这家外资却完全撤出 “绝不后悔”</a></li>
 <li><a href="/baitai/20240930/2095692.md">中共祭出财政刺激计划 令中国A股连涨 专家这样说</a></li>
+<li><a href="/ccpdope/20240930/2095629.md">超强经济刺激来了 全部套牢 网络炸锅</a></li>
+<li><a href="/yule/20240930/2095445.md">中国第一帅哥 胖了40斤成这样了？</a></li>
+<li><a href="/finance/20240930/2095661.md">中国股市疯涨 这家外资却完全撤出 “绝不后悔”</a></li>
+<li><a href="/headline/20240930/2095729.md">习近平以举国之力托股市 中国现全民开户潮</a></li>
 <li><a href="/topimagenews/20240930/2095677.md">2027、2035、2049三个年份为何对中共国有特殊意义</a></li>
 <li><a href="/topimagenews/20240930/2095582.md">北京一县一天绑架13人 美国发声</a></li>
-<li><a href="/topimagenews/20240930/2095499.md">东北楼市，跌麻了</a></li>
 <li><a href="/cbnews/20240930/2095658.md">湖南财政厅长凶案 嫌犯父亲发声反驳当局造假：没作案动机 见不到儿子遗体</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/sohnews/20240924/2093135.md" target="_blank">布兰登·比格斯：神让我穿越回过去 改变人生 然后我发现……</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20240814/2074560.md" target="_blank">曾预言川普右耳中枪的牧师，看到美国大灾难，川普在椭圆形办公室哭泣，祈祷神修复美国。不信神的人被淘汰。比格斯川普暗杀事件</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
 <li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
-<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
+<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/cbnews/20240715/2062387.md" target="_blank">尧帝治世之道（一）</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
+<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
 
 </ul>
 </div>
