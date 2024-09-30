@@ -11,23 +11,23 @@
 <li><a href="/yule/20240930/2095446.md">从央视名嘴到阶下囚：为救妻辞央视、倾家荡产 儿子美国留学</a></li>
 <li><a href="/topimagenews/20240930/2095489.md">退路没了！一大批小县城，正在走向崩溃</a></li>
 <li><a href="/cbnews/20240929/2095392.md">外籍模特遭上海虹桥机场安检员泄露隐私</a></li>
-<li><a href="/baitai/20240929/2095388.md">中东老友被团灭泄高层被渗透 王毅联大露中南海恐慌</a></li>
 <li><a href="/topimagenews/20240930/2095584.md">颜面尽失！美媒点名嘲讽习近平</a></li>
+<li><a href="/baitai/20240929/2095388.md">中东老友被团灭泄高层被渗透 王毅联大露中南海恐慌</a></li>
 <li><a href="/topimagenews/20240930/2095504.md">习近平梦碎一地！砸巨资难救回了【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240930/2095487.md">突然闪崩！中国340亿首富，跌懵了…</a></li>
 <li><a href="/topimagenews/20240930/2095500.md">这个杀人犯伪装成英雄，骗国人18年，被编入教材</a></li>
 <li><a href="/topimagenews/20240930/2095603.md">【微博精粹】总书记音容笑貌 永远“铭记”人民心中</a></li>
-<li><a href="/ssgc/20240929/2095390.md">当战争来临时，不要按照中国的剧本应战</a></li>
 <li><a href="/lifebaike/20240929/2095346.md">饭店“最干净”的5道菜，厨师经常吃，可以放心大胆点，建议了解</a></li>
+<li><a href="/ssgc/20240929/2095390.md">当战争来临时，不要按照中国的剧本应战</a></li>
 <li><a href="/baitai/20240930/2095444.md">以色列接连击毙真主党首脑 中东将爆发全面战争？ 中共报导不敢提这三个字</a></li>
+<li><a href="/topimagenews/20240930/2095533.md">坑了上海老人的上海银行，一手好牌打得稀烂</a></li>
 <li><a href="/comments/20240930/2095558.md">一夜之间 习近平180度大转弯的“阳谋”</a></li>
 <li><a href="/topimagenews/20240930/2095499.md">东北楼市，跌麻了</a></li>
-<li><a href="/topimagenews/20240930/2095533.md">坑了上海老人的上海银行，一手好牌打得稀烂</a></li>
 <li><a href="/yule/20240930/2095445.md">中国第一帅哥 胖了40斤成这样了？</a></li>
-<li><a href="/cnnews/20240930/2095505.md">只要拿的还是中国护照，就别幻想着当世界公民了</a></li>
 <li><a href="/topimagenews/20240930/2095502.md">内刊：中国体坛高层腐败触目惊心</a></li>
+<li><a href="/cnnews/20240930/2095505.md">只要拿的还是中国护照，就别幻想着当世界公民了</a></li>
 <li><a href="/ssgc/20240930/2095467.md">“秦始皇大战习近平” 《皇帝除三害》在美首映</a></li>
-<li><a href="/topimagenews/20240930/2095488.md">秘密培训30年！真主党遇难领袖潜在接班人曝光</a></li>
+<li><a href="/cbnews/20240930/2095604.md">反了！云南人对抗政府出绝招 场面壮观</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20240814/2074560.md" target="_blank">曾预言川普右耳中枪的牧师，看到美国大灾难，川普在椭圆形办公室哭泣，祈祷神修复美国。不信神的人被淘汰。比格斯川普暗杀事件</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/cbnews/20240715/2062387.md" target="_blank">尧帝治世之道（一）</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
-<li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/comments/20240116/1984226.md" target="_blank">湖北老河口遇仙记</a></li>
+<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20190701/1151501.md" target="_blank">【特稿】中国共产党是邪教组织</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/tculture/20120628/34899.md" target="_blank">有神无神，只消一例便可敲定</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
 
 </ul>
 </div>
