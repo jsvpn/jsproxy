@@ -8,16 +8,16 @@
 <li><a href="/cnnews/20241001/2096097.md">邵阳市公安局内部发生枪击案</a></li>
 <li><a href="/headline/20241001/2095872.md">国庆酒会李瑞环、温家宝坐在习近平两旁 胡锦涛、宋平、朱熔基缺席所有活动</a></li>
 <li><a href="/cbnews/20240930/2095825.md">八大元老缺席中共国庆晚宴，他未到场最引人关注</a></li>
-<li><a href="/comments/20240930/2095798.md">天亮时分：胡春华复出，习近平退居二线的真正原因？</a></li>
 <li><a href="/topimagenews/20241001/2095951.md">女副市长和老领导的工作照，真是太有意思了</a></li>
-<li><a href="/baitai/20241001/2095875.md">习近平终于意识到问题所在？美媒：大规模刺激计划缺少一个关键因素</a></li>
+<li><a href="/comments/20240930/2095798.md">天亮时分：胡春华复出，习近平退居二线的真正原因？</a></li>
 <li><a href="/ssgc/20241001/2095883.md">上海发生随机持刀杀人事件  造成3死15伤</a></li>
+<li><a href="/baitai/20241001/2095875.md">习近平终于意识到问题所在？美媒：大规模刺激计划缺少一个关键因素</a></li>
 <li><a href="/topimagenews/20241001/2096046.md">重大亮相！习拉温家宝洗白自己？他被习铁心雪藏【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20241001/2096095.md">老灯爆料：习近平被废经过</a></li>
 <li><a href="/cbnews/20241001/2096058.md">冲热搜！女生被拉去陪领导染艾滋 致河南高校集体大爆发</a></li>
+<li><a href="/comments/20241001/2096117.md">温家宝安全落地 接下来大戏就剩两个</a></li>
 <li><a href="/cnnews/20241001/2095919.md">中国大妈入境翻出诡异塑料袋 海关妹子当场崩溃</a></li>
 <li><a href="/cbnews/20241001/2096077.md">辽宁锦州副市长惨遭灭门？ 河北公车疑遭引爆死伤惨重 中国官媒噤声</a></li>
-<li><a href="/comments/20241001/2096117.md">温家宝安全落地 接下来大戏就剩两个</a></li>
 <li><a href="/cbnews/20241001/2095904.md">火焰猛烈！宁德时代大火烧11小时</a></li>
 <li><a href="/sohnews/20241001/2095959.md">蔡慎坤：20241001（337）温家宝坐在习近平一侧｜不鼓掌的李瑞环朱镕基｜江系吴邦囯被冷藏｜股市赚钱预期飙升｜</a></li>
 <li><a href="/topimagenews/20241001/2096045.md">突发：上海惊现持双刀杀人！警方做法罕见 中共国庆遭砸场子</a></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20241001/2096218.md" target="_blank">海伦飓风肆掠两大摇摆州 考验两党候选人｜2024美国大选｜方伟时间 10.01.2024</a></li>
 <li><a href="/cbnews/20241001/2096180.md" target="_blank">中国进入疫情高发季 医院人满为患</a></li>
 <li><a href="/cbnews/20241001/2096179.md" target="_blank">十一长假首日 山西大同突降暴雪 游客冻僵</a></li>
 <li><a href="/cbnews/20241001/2096178.md" target="_blank">中国全屋智能被远程操控 客户隐私不保</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20241001/2096058.md" target="_blank">冲热搜！女生被拉去陪领导染艾滋 致河南高校集体大爆发</a></li>
 <li><a href="/cbnews/20241001/2096050.md" target="_blank">〖红朝浮世绘〗中国进入疯狂杀官新阶段？</a></li>
 <li><a href="/comments/20241001/2096020.md" target="_blank">有胆识有气质，必听一次的演讲！加巴德向全体美国人发出紧急呼吁。这是加巴德和肯尼迪MAHA运动的一部分。加巴德川普肯尼迪</a></li>
-<li><a href="/cbnews/20241001/2096017.md" target="_blank">中共又打击“毁林开垦” 政策多变令农民遭殃</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20241001/2096218.md" target="_blank">海伦飓风肆掠两大摇摆州 考验两党候选人｜2024美国大选｜方伟时间 10.01.2024</a></li>
 <li><a href="/comments/20241001/2096174.md" target="_blank">英语是汉语下的蛋🐣美国会成为，中国不可分割的一部分！疯狂英语李阳大放厥词！向世界表态</a></li>
 <li><a href="/comments/20241001/2096159.md" target="_blank">这份官员名单越来越长 习权威尽失</a></li>
 <li><a href="/comments/20241001/2096150.md" target="_blank">【雨伞运动对97后出生港人的政治影响】</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20241001/2095948.md" target="_blank">文昭：习近平被「逼上梁山」後的阳谋！「复兴」不这样，都是耍流氓</a></li>
 <li><a href="/comments/20241001/2095947.md" target="_blank">跨境镇压：无远弗届｜中共威胁（1）</a></li>
 <li><a href="/comments/20241001/2095938.md" target="_blank">万斯是个什么样的人？给万斯辩论策略的一点建议 ｜方菲时间</a></li>
-<li><a href="/comments/20241001/2095913.md" target="_blank">【在英台湾人首度上街支持台湾入联 大陆人香港人并肩声援】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/topimagenews/20240511/2035423.md" target="_blank">原北京学员回忆李洪志先生在东方健康博览会上所行的奇迹</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/taiwannews/20210119/1470761.md" target="_blank">独家：震撼纪录片《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
-<li><a href="/cnnews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/tculture/20240815/2074891.md" target="_blank">松果体 谜一样的器官</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20240703/2057730.md" target="_blank">百年梦醒（十七）：马克思的连环计、出卖灵魂</a></li>
+<li><a href="/tculture/20231202/1968819.md" target="_blank">六道轮回之天神道</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/comments/20240623/2053092.md" target="_blank">章天亮：那些行于世间的觉者</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
 <li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
 
 </ul>
 </div>
