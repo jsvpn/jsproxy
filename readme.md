@@ -21,13 +21,13 @@
 <li><a href="/topimagenews/20240930/2095677.md">2027、2035、2049三个年份为何对中共国有特殊意义</a></li>
 <li><a href="/finance/20240930/2095661.md">中国股市疯涨 这家外资却完全撤出 “绝不后悔”</a></li>
 <li><a href="/topimagenews/20240930/2095582.md">北京一县一天绑架13人 美国发声</a></li>
-<li><a href="/cbnews/20240930/2095658.md">湖南财政厅长凶案 嫌犯父亲发声反驳当局造假：没作案动机 见不到儿子遗体</a></li>
 <li><a href="/comments/20240930/2095798.md">天亮时分：胡春华复出，习近平退居二线的真正原因？</a></li>
+<li><a href="/cbnews/20240930/2095658.md">湖南财政厅长凶案 嫌犯父亲发声反驳当局造假：没作案动机 见不到儿子遗体</a></li>
 <li><a href="/topimagenews/20240930/2095727.md">赢了竞选白宫 输了蹲监45年 纽约变天 民众恐慌</a></li>
 <li><a href="/cbnews/20240930/2095611.md">富人在中国越来越危险</a></li>
+<li><a href="/comments/20240930/2095613.md">万斯被拒绝进入餐厅，他的做法却惊呆经理。马斯克帮助川普当选，做了一件实实在在的事。川普马斯克万斯</a></li>
 <li><a href="/topimagenews/20240930/2095583.md">中国银行“只进不出” 取3000要开证明 网友炸锅</a></li>
 <li><a href="/cbnews/20240930/2095594.md">〖红朝浮世绘〗经济吃紧中共重操旧业当绑匪 地方政府抓民营企业家当人质补充财政缺口</a></li>
-<li><a href="/comments/20240930/2095613.md">万斯被拒绝进入餐厅，他的做法却惊呆经理。马斯克帮助川普当选，做了一件实实在在的事。川普马斯克万斯</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20241001/2095979.md" target="_blank">沈舟：中共试射东风-31导弹泄露了什么？</a></li>
 <li><a href="/cbnews/20241001/2095976.md" target="_blank">美军提康德罗加级巡洋舰剩9艘 多次见证台海关键时刻“安提坦号”27日退役</a></li>
 <li><a href="/cbnews/20241001/2095975.md" target="_blank">杨宏基：解放军射洲际弹道导弹一石多鸟 国防安全不可瞎糊弄</a></li>
 <li><a href="/comments/20241001/2095938.md" target="_blank">万斯是个什么样的人？给万斯辩论策略的一点建议 ｜方菲时间</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20240930/2095654.md" target="_blank">整治饭圈文化封10万账号  分析揭北京4大忧虑</a></li>
 <li><a href="/cbnews/20240930/2095636.md" target="_blank">存在起火风险 比亚迪召回10万辆电动汽车</a></li>
 <li><a href="/cbnews/20240930/2095635.md" target="_blank">福建宁德时代新能源Z基地发生火灾</a></li>
-<li><a href="/cbnews/20240930/2095624.md" target="_blank">扼腕：21岁男生工作20余天后跳桥身亡 内幕曝光</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,15 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20241001/2095991.md" target="_blank">泪目日本校歌</a></li>
+<li><a href="/comments/20241001/2095990.md" target="_blank">张智程：石破茂为何当选？将来的日台关系会怎么走？</a></li>
+<li><a href="/comments/20241001/2095989.md" target="_blank">老鱼随便说：以军同时轰炸四个国家！川普女婿透露“天机”</a></li>
+<li><a href="/comments/20241001/2095988.md" target="_blank">陈碧｜再不发声，我们都是共谋</a></li>
+<li><a href="/comments/20241001/2095987.md" target="_blank">唐凯兰：公职人员减免50%，交物业费也分三六九等？</a></li>
+<li><a href="/comments/20241001/2095986.md" target="_blank">经济要完了！亲爱的，快起来创造就业</a></li>
+<li><a href="/comments/20241001/2095985.md" target="_blank">2024年度中国当代英雄母亲奖颁奖词</a></li>
+<li><a href="/comments/20241001/2095983.md" target="_blank">一个月的热点事件网络视频</a></li>
+<li><a href="/comments/20241001/2095982.md" target="_blank">中国哭墙：理论是灰色的，生命之树长青</a></li>
 <li><a href="/comments/20241001/2095948.md" target="_blank">文昭：习近平被「逼上梁山」後的阳谋！「复兴」不这样，都是耍流氓</a></li>
 <li><a href="/comments/20241001/2095947.md" target="_blank">跨境镇压：无远弗届｜中共威胁（1）</a></li>
 <li><a href="/comments/20241001/2095938.md" target="_blank">万斯是个什么样的人？给万斯辩论策略的一点建议 ｜方菲时间</a></li>
@@ -113,15 +122,6 @@
 <li><a href="/comments/20240930/2095785.md" target="_blank">宾州、密歇根、威斯康辛选战进入白热化！｜2024美国大选｜方伟时间 09.30.2024</a></li>
 <li><a href="/comments/20240930/2095776.md" target="_blank">【泽论四方】中国经济真正最后一根稻草</a></li>
 <li><a href="/comments/20240930/2095745.md" target="_blank">别以为入主白宫就万事大吉了，你想不到更可怕的还在后面⋯｜未解之谜 扶摇</a></li>
-<li><a href="/comments/20240930/2095737.md" target="_blank">缺钱！让人民群众来交💰给党交出来👊中共国财政困难&#8230;倒车加速！拆东墙，补西壁</a></li>
-<li><a href="/comments/20240930/2095726.md" target="_blank">【中国大手笔救市 股市回春是基本面还是泡沫？】</a></li>
-<li><a href="/comments/20240930/2095665.md" target="_blank">突破科技瓶颈，中国人就能过上发达国家的生活？</a></li>
-<li><a href="/comments/20240930/2095641.md" target="_blank">中国人的“比烂思维”</a></li>
-<li><a href="/comments/20240930/2095640.md" target="_blank">纳斯鲁拉被炸死，为啥有穆斯林很开心？</a></li>
-<li><a href="/comments/20240930/2095632.md" target="_blank">雨伞运动 十周年系列【专访学生领袖周永康：港人抗命不认命后的反思】</a></li>
-<li><a href="/comments/20240930/2095613.md" target="_blank">万斯被拒绝进入餐厅，他的做法却惊呆经理。马斯克帮助川普当选，做了一件实实在在的事。川普马斯克万斯</a></li>
-<li><a href="/comments/20240930/2095608.md" target="_blank">曾铮：重大发现</a></li>
-<li><a href="/comments/20240930/2095607.md" target="_blank">张平：纳斯鲁拉没有替代者 暴政头子都没有</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
 <li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20230920/1936271.md" target="_blank">防止你的孩子不成功（5） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/tculture/20231119/1962827.md" target="_blank">六道轮回之地狱道</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/cnnews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
+<li><a href="/comments/20240412/2024185.md" target="_blank">是治疗还是屠杀?化疗药品滴一滴在皮肤即灼伤，很长时间才好</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
 
 </ul>
 </div>
