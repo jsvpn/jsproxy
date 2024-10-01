@@ -35,6 +35,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20241002/2096357.md" target="_blank">2024美国总统大选 副总统辩论！ 2024 Election VP Debate 2024.10.01</a></li>
+<li><a href="/comments/20241002/2096355.md" target="_blank">万斯 VS 沃尔斯 大选前最后擂台 ｜ 2024美国总统大选 副总统辩论 ｜2024 Election</a></li>
+<li><a href="/comments/20241002/2096348.md" target="_blank">川普火车诉讼案始末。奇怪的时间，奇怪的起诉，奇怪的判决。揭开一场不对等的法律战真相。川普拜登美国大选</a></li>
 <li><a href="/comments/20241002/2096327.md" target="_blank">这次大选，两党谁也输不起！美国大选</a></li>
 <li><a href="/cbnews/20241001/2096254.md" target="_blank">13名众议员以孙雯为例 要求联邦政府说明中共谍报运作</a></li>
 <li><a href="/comments/20241001/2096240.md" target="_blank">电视辩论前夕，众议院发传票。沃尔兹极度担心两件事。马斯克警告，如果川普不当选，美国将会发生什么。马斯克沃尔兹电视辩论</a></li>
@@ -57,9 +60,6 @@
 <li><a href="/cbnews/20241001/2096095.md" target="_blank">老灯爆料：习近平被废经过</a></li>
 <li><a href="/cbnews/20241001/2096080.md" target="_blank">若石破茂打破60年的“无核三原则”，东北亚将发生划时代变化</a></li>
 <li><a href="/cbnews/20241001/2096079.md" target="_blank">山东威海多地出现恶臭味 官方称原因不明</a></li>
-<li><a href="/cbnews/20241001/2096078.md" target="_blank">山东省七名省部级高官接连病亡</a></li>
-<li><a href="/cbnews/20241001/2096077.md" target="_blank">辽宁锦州副市长惨遭灭门？ 河北公车疑遭引爆死伤惨重 中国官媒噤声</a></li>
-<li><a href="/cbnews/20241001/2096067.md" target="_blank">美议员：不少孔子学院改头换面 转入地下</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20241002/2096357.md" target="_blank">2024美国总统大选 副总统辩论！ 2024 Election VP Debate 2024.10.01</a></li>
+<li><a href="/comments/20241002/2096355.md" target="_blank">万斯 VS 沃尔斯 大选前最后擂台 ｜ 2024美国总统大选 副总统辩论 ｜2024 Election</a></li>
+<li><a href="/comments/20241002/2096348.md" target="_blank">川普火车诉讼案始末。奇怪的时间，奇怪的起诉，奇怪的判决。揭开一场不对等的法律战真相。川普拜登美国大选</a></li>
 <li><a href="/comments/20241002/2096345.md" target="_blank">天亮时分：前常委缺席音乐会 暗藏玄机？ #习近平 #中共 #中共常委 #75周年 #音乐会</a></li>
 <li><a href="/comments/20241002/2096344.md" target="_blank">【穷尽一切机会 呼唤“自由西藏”】</a></li>
 <li><a href="/comments/20241002/2096327.md" target="_blank">这次大选，两党谁也输不起！美国大选</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20241001/2096106.md" target="_blank">天上掉馅饼的事，轮不到韭菜们</a></li>
 <li><a href="/comments/20241001/2096094.md" target="_blank">【习近平：台湾是中国的神圣领土】【台陆委会：台湾主权独立 两岸互不隶属是现况】</a></li>
 <li><a href="/comments/20241001/2096068.md" target="_blank">通货紧缩有多可怕？看看日本那30年就知道了</a></li>
-<li><a href="/comments/20241001/2096044.md" target="_blank">日本新首相石破茂会灭共？谁喊出“打倒中共”？以色列连环计吓坏习近平，国师惨了，疯狂英语李阳疯了？</a></li>
-<li><a href="/comments/20241001/2096020.md" target="_blank">有胆识有气质，必听一次的演讲！加巴德向全体美国人发出紧急呼吁。这是加巴德和肯尼迪MAHA运动的一部分。加巴德川普肯尼迪</a></li>
-<li><a href="/comments/20241001/2096016.md" target="_blank">周二晚副总统辩论 你为什么一定要看？｜2024美国大选｜方伟时间 09.30.2024</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/comments/20240418/2026391.md" target="_blank">医生劝我妻子放弃，似乎这些医生热衷让病人快点去死？</a></li>
-<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/tculture/20240916/2089420.md" target="_blank">诗人苏轼与黄庭坚的生命轮回</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
 <li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/sohnews/20240923/2092493.md" target="_blank">布兰登‧比格斯第一次见到神（三）：他们被置入了一个芯片 瞬间仿佛灵魂出窍</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/tculture/20231119/1962827.md" target="_blank">六道轮回之地狱道</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20240318/2014289.md" target="_blank">唐柏桥：民运同仁突然向法轮功开火是怎么回事？</a></li>
+<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20240801/2069416.md" target="_blank">无神论和有神论深度解析</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
 
 </ul>
 </div>
