@@ -8,8 +8,8 @@
 <li><a href="/cbnews/20240930/2095728.md">中共多名元老现身北京 胡锦涛、温家宝缺席</a></li>
 <li><a href="/headline/20241001/2095872.md">国庆酒会李瑞环、温家宝坐在习近平两旁 胡锦涛、宋平、朱熔基缺席所有活动</a></li>
 <li><a href="/cbnews/20240930/2095825.md">八大元老缺席中共国庆晚宴，他未到场最引人关注</a></li>
-<li><a href="/headline/20240930/2095729.md">习近平以举国之力托股市 中国现全民开户潮</a></li>
 <li><a href="/cnnews/20241001/2096097.md">邵阳市公安局内部发生枪击案</a></li>
+<li><a href="/headline/20240930/2095729.md">习近平以举国之力托股市 中国现全民开户潮</a></li>
 <li><a href="/topimagenews/20241001/2095951.md">女副市长和老领导的工作照，真是太有意思了</a></li>
 <li><a href="/comments/20240930/2095798.md">天亮时分：胡春华复出，习近平退居二线的真正原因？</a></li>
 <li><a href="/ssgc/20241001/2095883.md">上海发生随机持刀杀人事件  造成3死15伤</a></li>
@@ -17,15 +17,15 @@
 <li><a href="/topimagenews/20241001/2096046.md">重大亮相！习拉温家宝洗白自己？他被习铁心雪藏【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20240930/2095727.md">赢了竞选白宫 输了蹲监45年 纽约变天 民众恐慌</a></li>
 <li><a href="/cnnews/20241001/2095919.md">中国大妈入境翻出诡异塑料袋 海关妹子当场崩溃</a></li>
-<li><a href="/sohnews/20240930/2095715.md">陈破空：汪洋王岐山现身！并被罕见报出名字。危机空前！习急于拉拢政治老人，胡温婉拒。牛市是一剂虎狼药，要榨光最后的民间财富？直播与互动：美东时间9月30日早9点、中港台当晚9点</a></li>
+<li><a href="/cbnews/20241001/2096058.md">冲热搜！女生被拉去陪领导染艾滋 致河南高校集体大爆发</a></li>
 <li><a href="/sohnews/20241001/2095959.md">蔡慎坤：20241001（337）温家宝坐在习近平一侧｜不鼓掌的李瑞环朱镕基｜江系吴邦囯被冷藏｜股市赚钱预期飙升｜</a></li>
 <li><a href="/headline/20240930/2095779.md">胡锦涛、朱熔基、温家宝缺席中国国庆活动</a></li>
-<li><a href="/cbnews/20241001/2096058.md">冲热搜！女生被拉去陪领导染艾滋 致河南高校集体大爆发</a></li>
 <li><a href="/topimagenews/20241001/2096015.md">【微博精粹】国殇救市 就是怕马上死会太难看</a></li>
 <li><a href="/cbnews/20241001/2095904.md">火焰猛烈！宁德时代大火烧11小时</a></li>
 <li><a href="/topimagenews/20241001/2096036.md">中南海绝命一招！把水塘直接抽干 剩下的鱼全部捞走</a></li>
 <li><a href="/baitai/20240930/2095786.md">习180度调头 背后或藏阴谋</a></li>
 <li><a href="/topimagenews/20241001/2095916.md">纳斯鲁拉殒命细节公开 以国能追踪他妻子的手机</a></li>
+<li><a href="/topimagenews/20241001/2096045.md">突发：上海惊现持双刀杀人！警方做法罕见 中共国庆遭砸场子</a></li>
 <li><a href="/baitai/20240930/2095747.md">韭菜们填坑？中国股市大涨 沪指创年内新高 大股东们趁机落跑</a></li>
 <li><a href="/topimagenews/20241001/2095954.md">骇人听闻！“恶鬼”砸车，青海惊魂</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20240320/2015021.md" target="_blank">唐柏桥：中共带话只要不与法轮功来往，其他一切都好说</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20190220/1083672.md" target="_blank">胡平：法轮功与其他一些宗教或信仰之比较</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/lifebaike/20180529/949787.md" target="_blank">无神论是最大的迷信（下）：科学家大多是有神论</a></li>
+<li><a href="/comments/20240825/2079044.md" target="_blank">谁是创世主</a></li>
+<li><a href="/comments/20240820/2076774.md" target="_blank">胡平：批判法轮功的人,为何不用同样标准分析其他宗教</a></li>
 <li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20190701/1151501.md" target="_blank">【特稿】中国共产党是邪教组织</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/tculture/20231208/1971390.md" target="_blank">传统文化之汉字的内涵</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20240418/2026391.md" target="_blank">医生劝我妻子放弃，似乎这些医生热衷让病人快点去死？</a></li>
+<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20240820/2076958.md" target="_blank">惠虎宇：中华文化为什么是高级文化系统(3)</a></li>
+<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20231204/1969287.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （三）</a></li>
+<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
 
 </ul>
 </div>
