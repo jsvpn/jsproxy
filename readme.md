@@ -7,9 +7,7 @@
 
 <li><a href="/cbnews/20240930/2095728.md">中共多名元老现身北京 胡锦涛、温家宝缺席</a></li>
 <li><a href="/baitai/20240930/2095691.md">北京惊传8名政府人员被殉职 中共面临大乱</a></li>
-<li><a href="/topimagenews/20240930/2095603.md">【微博精粹】总书记音容笑貌 永远“铭记”人民心中</a></li>
 <li><a href="/sohnews/20240930/2095671.md">内幕：张又侠刘源发动兵变详细过程，李强头号智囊黄守宏被习拿下，中共已经慌不择路最后一搏。《老灯开讲第681期》</a></li>
-<li><a href="/cbnews/20240930/2095604.md">反了！云南人对抗政府出绝招 场面壮观</a></li>
 <li><a href="/headline/20241001/2095872.md">国庆酒会李瑞环、温家宝坐在习近平两旁 胡锦涛、宋平、朱熔基缺席所有活动</a></li>
 <li><a href="/cbnews/20240930/2095825.md">八大元老缺席中共国庆晚宴，他未到场最引人关注</a></li>
 <li><a href="/cnnews/20240930/2095669.md">诡异！藏什么? 中共通知撤离 多人吐血 亡者嘴脸发黑</a></li>
@@ -17,9 +15,9 @@
 <li><a href="/ccpdope/20240930/2095629.md">超强经济刺激来了 全部套牢 网络炸锅</a></li>
 <li><a href="/baitai/20240930/2095692.md">中共祭出财政刺激计划 令中国A股连涨 专家这样说</a></li>
 <li><a href="/topimagenews/20240930/2095677.md">2027、2035、2049三个年份为何对中共国有特殊意义</a></li>
+<li><a href="/ssgc/20241001/2095883.md">上海发生随机持刀杀人事件  造成3死15伤</a></li>
 <li><a href="/finance/20240930/2095661.md">中国股市疯涨 这家外资却完全撤出 “绝不后悔”</a></li>
 <li><a href="/comments/20240930/2095798.md">天亮时分：胡春华复出，习近平退居二线的真正原因？</a></li>
-<li><a href="/ssgc/20241001/2095883.md">上海发生随机持刀杀人事件  造成3死15伤</a></li>
 <li><a href="/baitai/20241001/2095875.md">习近平终于意识到问题所在？美媒：大规模刺激计划缺少一个关键因素</a></li>
 <li><a href="/cbnews/20240930/2095658.md">湖南财政厅长凶案 嫌犯父亲发声反驳当局造假：没作案动机 见不到儿子遗体</a></li>
 <li><a href="/topimagenews/20240930/2095727.md">赢了竞选白宫 输了蹲监45年 纽约变天 民众恐慌</a></li>
@@ -28,6 +26,8 @@
 <li><a href="/sohnews/20240930/2095715.md">陈破空：汪洋王岐山现身！并被罕见报出名字。危机空前！习急于拉拢政治老人，胡温婉拒。牛市是一剂虎狼药，要榨光最后的民间财富？直播与互动：美东时间9月30日早9点、中港台当晚9点</a></li>
 <li><a href="/health/20240930/2095702.md">为什么坚持跑步后人变瘦了面容也变苍老了？来看正确答案</a></li>
 <li><a href="/headline/20240930/2095779.md">胡锦涛、朱熔基、温家宝缺席中国国庆活动</a></li>
+<li><a href="/health/20240930/2095701.md">中国六大长寿食物，鱼排第三，核桃排最后，第一种很多人都想不到</a></li>
+<li><a href="/topimagenews/20241001/2095951.md">女副市长和老领导的工作照，真是太有意思了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20241001/2096044.md" target="_blank">日本新首相石破茂会灭共？谁喊出“打倒中共”？以色列连环计吓坏习近平，国师惨了，疯狂英语李阳疯了？</a></li>
 <li><a href="/comments/20241001/2096020.md" target="_blank">有胆识有气质，必听一次的演讲！加巴德向全体美国人发出紧急呼吁。这是加巴德和肯尼迪MAHA运动的一部分。加巴德川普肯尼迪</a></li>
 <li><a href="/comments/20241001/2096016.md" target="_blank">周二晚副总统辩论 你为什么一定要看？｜2024美国大选｜方伟时间 09.30.2024</a></li>
 <li><a href="/comments/20241001/2095991.md" target="_blank">泪目日本校歌</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20240930/2095812.md" target="_blank">时事大家谈：“亲中”的石破茂上台，如何影响日中台关系？</a></li>
 <li><a href="/comments/20240930/2095811.md" target="_blank">时事大家谈：“亲中”的石破茂上台，如何影响日中台关系？石破茂出任日本首相, 美日同盟是否升级？</a></li>
 <li><a href="/comments/20240930/2095798.md" target="_blank">天亮时分：胡春华复出，习近平退居二线的真正原因？</a></li>
-<li><a href="/comments/20240930/2095785.md" target="_blank">宾州、密歇根、威斯康辛选战进入白热化！｜2024美国大选｜方伟时间 09.30.2024</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20190219/1082706.md" target="_blank">胡平：法轮功信仰自由，江泽民精神控制</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20231220/1976789.md" target="_blank">大陆医生曝：九价HPV疫苗导致怀孕能力下降40%</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
+<li><a href="/sohnews/20240923/2092491.md" target="_blank">布兰登比格斯曾听到两位天使的对话，对他震动很大&#8230;&#8230;</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
 <li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20230920/1936271.md" target="_blank">防止你的孩子不成功（5） &#8211;教育避坑指南</a></li>
 <li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/sohnews/20240923/2092492.md" target="_blank">布兰登‧比格斯第一次见到神（四）：神的眼里充满了泪水，对布兰登说：你看到中国了吗？</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/tculture/20120628/34899.md" target="_blank">有神无神，只消一例便可敲定</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
 
 </ul>
 </div>
