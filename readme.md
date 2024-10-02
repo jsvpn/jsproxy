@@ -10,24 +10,24 @@
 <li><a href="/sohnews/20241002/2096321.md">为何在温家宝李瑞环的陪同下 ⋯ ？（10 /01/24）习近平</a></li>
 <li><a href="/topimagenews/20241002/2096359.md">教训金正恩！中共对北朝鲜“亮剑”</a></li>
 <li><a href="/comments/20241002/2096364.md">一轮牛市之后，大清亡了</a></li>
-<li><a href="/ccpdope/20241001/2096223.md">老同志们亮相 习近平权力弱化再添佐证</a></li>
 <li><a href="/cbnews/20241002/2096489.md">他击毙公安局长 随后在朋友圈发帖</a></li>
+<li><a href="/ccpdope/20241001/2096223.md">老同志们亮相 习近平权力弱化再添佐证</a></li>
 <li><a href="/topimagenews/20241002/2096396.md">中共国庆遭当头一棒！社会动荡或难避免【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20241002/2096380.md">中国大城市成泄愤目标！昨夜入上海杀人</a></li>
 <li><a href="/topimagenews/20241002/2096361.md">这现象还在蔓延，习近平的强刺激踢到铁板</a></li>
+<li><a href="/topimagenews/20241002/2096380.md">中国大城市成泄愤目标！昨夜入上海杀人</a></li>
 <li><a href="/cbnews/20241002/2096362.md">又有中国重机正妹惨死！“最后挣扎”影片曝光</a></li>
 <li><a href="/sohnews/20241002/2096334.md">中国股市因何暴涨？能持续多久？中国经济</a></li>
 <li><a href="/comments/20241002/2096425.md">俄罗斯捏住了中共的睾丸</a></li>
 <li><a href="/sohnews/20241002/2096341.md">又一鲨官案震惊全网，锦州副市长一家6人遭劫</a></li>
+<li><a href="/topimagenews/20241002/2096572.md">中美重磅“谈判”有结果了</a></li>
 <li><a href="/topimagenews/20241002/2096475.md">惨烈！中国电视插播真相英雄被中共酷刑折磨致死</a></li>
 <li><a href="/cbnews/20241002/2096423.md">中国女子发了4个字被拘 网上热闹了</a></li>
 <li><a href="/cbnews/20241002/2096468.md">〖红朝浮世绘〗国庆升旗枪杀局长 “英雄”警官三枪成名</a></li>
 <li><a href="/cnnews/20241002/2096404.md">刚从美国回来，签证突被取消！这种恶意越来越多</a></li>
 <li><a href="/sohnews/20241002/2096298.md">“亲自驾盘3300点 习近平满脸傲慢 羞辱十一招待会”《今日点击》（10 01 24）温家宝习近平</a></li>
-<li><a href="/topimagenews/20241002/2096439.md">震撼踢爆：中国经济噩梦！习近平站在交叉路口</a></li>
-<li><a href="/topimagenews/20241002/2096572.md">中美重磅“谈判”有结果了</a></li>
-<li><a href="/baitai/20241002/2096271.md">黄晓菁，这位杭州泰隆银行女员工自爆视频火了，带给我们那些思考？</a></li>
 <li><a href="/topimagenews/20241002/2096558.md">普京撑不久了</a></li>
+<li><a href="/topimagenews/20241002/2096439.md">震撼踢爆：中国经济噩梦！习近平站在交叉路口</a></li>
+<li><a href="/baitai/20241002/2096271.md">黄晓菁，这位杭州泰隆银行女员工自爆视频火了，带给我们那些思考？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,15 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20241002/2096634.md" target="_blank">美副总统辩论谈及六四事件 中共忙切断转播</a></li>
+<li><a href="/cbnews/20241002/2096633.md" target="_blank">长龙航空飞机轮胎被划破 乘客被通知下飞机</a></li>
+<li><a href="/cbnews/20241002/2096632.md" target="_blank">大陆多地降雪 发“西安下雪”者被拘引热议</a></li>
+<li><a href="/cbnews/20241002/2096631.md" target="_blank">十一有机票价格降到一折起售 旅客：气爆了</a></li>
+<li><a href="/cbnews/20241002/2096630.md" target="_blank">北京“十一”变天 多地阴冷降雪</a></li>
+<li><a href="/cbnews/20241002/2096629.md" target="_blank">十一长假首日 内蒙古12车连环撞 11车被烧毁</a></li>
+<li><a href="/cbnews/20241002/2096628.md" target="_blank">“十一”民众看升旗 垃圾遍地引嘲讽</a></li>
+<li><a href="/cbnews/20241002/2096627.md" target="_blank">邵阳市公安局长被枪击 传特警枪手已开枪自杀身亡</a></li>
+<li><a href="/cbnews/20241002/2096626.md" target="_blank">浙江索道断开女子坠落 孩子哭喊救妈妈</a></li>
 <li><a href="/cbnews/20241002/2096621.md" target="_blank">中共国庆恶性事件炸裂不停 专家：中国变数大</a></li>
 <li><a href="/cbnews/20241002/2096602.md" target="_blank">张又侠派遣习近平替身西部考察 用意深沉</a></li>
 <li><a href="/cbnews/20241002/2096561.md" target="_blank">以色列擒贼先擒王 震慑中南海</a></li>
@@ -51,15 +60,6 @@
 <li><a href="/comments/20241002/2096429.md" target="_blank">万斯vs.沃尔兹：谁是赢家？首场辩论看点全解析 ｜方菲时间</a></li>
 <li><a href="/cbnews/20241002/2096423.md" target="_blank">中国女子发了4个字被拘 网上热闹了</a></li>
 <li><a href="/cbnews/20241002/2096397.md" target="_blank">北约新秘书长上任 马上剑指北京</a></li>
-<li><a href="/cbnews/20241002/2096363.md" target="_blank">还在发酵，孙雯案惹怒美国会</a></li>
-<li><a href="/cbnews/20241002/2096362.md" target="_blank">又有中国重机正妹惨死！“最后挣扎”影片曝光</a></li>
-<li><a href="/comments/20241002/2096357.md" target="_blank">2024美国总统大选 副总统辩论！ 2024 Election VP Debate 2024.10.01</a></li>
-<li><a href="/comments/20241002/2096355.md" target="_blank">万斯 VS 沃尔斯 大选前最后擂台 ｜ 2024美国总统大选 副总统辩论 ｜2024 Election</a></li>
-<li><a href="/comments/20241002/2096348.md" target="_blank">川普火车诉讼案始末。奇怪的时间，奇怪的起诉，奇怪的判决。揭开一场不对等的法律战真相。川普拜登美国大选</a></li>
-<li><a href="/comments/20241002/2096327.md" target="_blank">这次大选，两党谁也输不起！美国大选</a></li>
-<li><a href="/cbnews/20241001/2096254.md" target="_blank">13名众议员以孙雯为例 要求联邦政府说明中共谍报运作</a></li>
-<li><a href="/comments/20241001/2096240.md" target="_blank">电视辩论前夕，众议院发传票。沃尔兹极度担心两件事。马斯克警告，如果川普不当选，美国将会发生什么。马斯克沃尔兹电视辩论</a></li>
-<li><a href="/cbnews/20241001/2096230.md" target="_blank">川普：中共终究会攻台 台国防预算应占GDP10%</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20241002/2096624.md" target="_blank">牛！以色列总理：你打我🥊我就全力回击🥊内塔尼亚胡在联合国谴责伊朗</a></li>
 <li><a href="/comments/20241002/2096544.md" target="_blank">米莱联合国演讲火力全开，扯下皇帝的新衣</a></li>
 <li><a href="/comments/20241002/2096494.md" target="_blank">写真中共国的明天？一轮牛市之后，大清亡了</a></li>
 <li><a href="/comments/20241002/2096472.md" target="_blank">曹长青：沙特阿拉伯要取代美国？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20241002/2096355.md" target="_blank">万斯 VS 沃尔斯 大选前最后擂台 ｜ 2024美国总统大选 副总统辩论 ｜2024 Election</a></li>
 <li><a href="/comments/20241002/2096348.md" target="_blank">川普火车诉讼案始末。奇怪的时间，奇怪的起诉，奇怪的判决。揭开一场不对等的法律战真相。川普拜登美国大选</a></li>
 <li><a href="/comments/20241002/2096345.md" target="_blank">天亮时分：前常委缺席音乐会 暗藏玄机？ #习近平 #中共 #中共常委 #75周年 #音乐会</a></li>
-<li><a href="/comments/20241002/2096344.md" target="_blank">【穷尽一切机会 呼唤“自由西藏”】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
-<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
-<li><a href="/cnnews/20221211/1822144.md" target="_blank">盖盖冲马桶很可怕！瞬间“病毒炸开”？</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20240623/2053092.md" target="_blank">章天亮：那些行于世间的觉者</a></li>
-<li><a href="/comments/20231214/1974098.md" target="_blank">美国众议院议长：我所坚守的保守主义，具体是些什么内容？</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/comments/20240318/2014289.md" target="_blank">唐柏桥：民运同仁突然向法轮功开火是怎么回事？</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
 <li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/cbnews/20231208/1971389.md" target="_blank">话说中医之祝由科</a></li>
+<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20231203/1969183.md" target="_blank">开盖冲马桶 ，细菌会乱飞？除非你家马桶是喷泉！</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/comments/20240825/2079044.md" target="_blank">谁是创世主</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/tculture/20240904/2083774.md" target="_blank">“几生修得到梅花”之生命品格浅议</a></li>
 
 </ul>
 </div>
