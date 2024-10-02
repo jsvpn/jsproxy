@@ -9,25 +9,25 @@
 <li><a href="/topimagenews/20241002/2096359.md">教训金正恩！中共对北朝鲜“亮剑”</a></li>
 <li><a href="/sohnews/20241002/2096321.md">为何在温家宝李瑞环的陪同下 ⋯ ？（10 /01/24）习近平</a></li>
 <li><a href="/comments/20241002/2096364.md">一轮牛市之后，大清亡了</a></li>
-<li><a href="/topimagenews/20241002/2096572.md">中美重磅“谈判”有结果了</a></li>
 <li><a href="/cbnews/20241002/2096602.md">张又侠派遣习近平替身西部考察 用意深沉</a></li>
+<li><a href="/topimagenews/20241002/2096572.md">中美重磅“谈判”有结果了</a></li>
 <li><a href="/cbnews/20241002/2096362.md">又有中国重机正妹惨死！“最后挣扎”影片曝光</a></li>
 <li><a href="/topimagenews/20241002/2096396.md">中共国庆遭当头一棒！社会动荡或难避免【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20241002/2096489.md">他击毙公安局长 随后在朋友圈发帖</a></li>
+<li><a href="/sohnews/20241002/2096334.md">中国股市因何暴涨？能持续多久？中国经济</a></li>
 <li><a href="/topimagenews/20241002/2096361.md">这现象还在蔓延，习近平的强刺激踢到铁板</a></li>
 <li><a href="/topimagenews/20241002/2096380.md">中国大城市成泄愤目标！昨夜入上海杀人</a></li>
 <li><a href="/topimagenews/20241002/2096558.md">普京撑不久了</a></li>
-<li><a href="/sohnews/20241002/2096334.md">中国股市因何暴涨？能持续多久？中国经济</a></li>
 <li><a href="/comments/20241002/2096425.md">俄罗斯捏住了中共的睾丸</a></li>
 <li><a href="/sohnews/20241002/2096341.md">又一鲨官案震惊全网，锦州副市长一家6人遭劫</a></li>
 <li><a href="/topimagenews/20241002/2096475.md">惨烈！中国电视插播真相英雄被中共酷刑折磨致死</a></li>
+<li><a href="/baitai/20241002/2096599.md">湖南公安局长遭枪击内幕 民间现最大反抗组织</a></li>
 <li><a href="/cbnews/20241002/2096468.md">〖红朝浮世绘〗国庆升旗枪杀局长 “英雄”警官三枪成名</a></li>
 <li><a href="/cbnews/20241002/2096423.md">中国女子发了4个字被拘 网上热闹了</a></li>
-<li><a href="/baitai/20241002/2096599.md">湖南公安局长遭枪击内幕 民间现最大反抗组织</a></li>
 <li><a href="/topimagenews/20241002/2096439.md">震撼踢爆：中国经济噩梦！习近平站在交叉路口</a></li>
 <li><a href="/cnnews/20241002/2096404.md">刚从美国回来，签证突被取消！这种恶意越来越多</a></li>
 <li><a href="/sohnews/20241002/2096298.md">“亲自驾盘3300点 习近平满脸傲慢 羞辱十一招待会”《今日点击》（10 01 24）温家宝习近平</a></li>
-<li><a href="/baitai/20241002/2096271.md">黄晓菁，这位杭州泰隆银行女员工自爆视频火了，带给我们那些思考？</a></li>
+<li><a href="/sohnews/20241002/2096617.md">陈破空：刘鹤现身，打破被捕传言。胡春华座位特别？张高丽鼻青脸肿。习家军亲信接连落马，谁在查他们？湖南国庆献礼，副市长当场被干掉！美副总统候选人辩论，频繁提中国。直播与互动：美东10月2日早9点、中港台当晚9点</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/topimagenews/20200514/1328456.md" target="_blank">穿越时空 谢田教授亲身体验人体特异功能</a></li>
-<li><a href="/cbnews/20240715/2062387.md" target="_blank">尧帝治世之道（一）</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/sohnews/20240924/2093135.md" target="_blank">布兰登·比格斯：神让我穿越回过去 改变人生 然后我发现……</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
 <li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/comments/20240418/2026391.md" target="_blank">医生劝我妻子放弃，似乎这些医生热衷让病人快点去死？</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20240403/2020547.md" target="_blank">纪录片：DSM诊断与统计手册-精神病学最要命的骗局</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
 <li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
+<li><a href="/sohnews/20240923/2092495.md" target="_blank">布兰登‧比格斯第一次见到神：有人升空 有人在追捕牧师</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
+<li><a href="/comments/20240623/2053092.md" target="_blank">章天亮：那些行于世间的觉者</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20190213/1080251.md" target="_blank">胡平：法轮功为何反对自杀？</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
 
 </ul>
 </div>
