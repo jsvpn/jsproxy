@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/cnnews/20241001/2096097.md">邵阳市公安局内部发生枪击案</a></li>
 <li><a href="/comments/20241001/2096117.md">温家宝安全落地 接下来大戏就剩两个</a></li>
-<li><a href="/cbnews/20241001/2096095.md">老灯爆料：习近平被废经过</a></li>
 <li><a href="/baitai/20241001/2096222.md">三声枪响震惊湖南邵阳公安局 传警察枪杀局长李长跃</a></li>
 <li><a href="/topimagenews/20241002/2096347.md">全网封杀！湖南升旗下属突拔枪射杀公安局长 中共国庆当天</a></li>
 <li><a href="/comments/20241001/2096159.md">这份官员名单越来越长 习权威尽失</a></li>
 <li><a href="/sohnews/20241001/2096133.md">陈破空：稀罕！习近平对温家宝输诚，奉为上宾！形势所逼。证实七月事变！汪洋罕见露笑容。主桌挤进23人。特务全场紧盯！两大顶级元老未现身。直播与互动：美东时间10月1日早9点、中港台当晚9点</a></li>
 <li><a href="/topimagenews/20241002/2096359.md">教训金正恩！中共对北朝鲜“亮剑”</a></li>
-<li><a href="/sohnews/20241002/2096321.md">为何在温家宝李瑞环的陪同下 ⋯ ？（10 /01/24）习近平</a></li>
 <li><a href="/baitai/20241001/2096147.md">听说他在中央混得不咋地</a></li>
+<li><a href="/sohnews/20241002/2096321.md">为何在温家宝李瑞环的陪同下 ⋯ ？（10 /01/24）习近平</a></li>
 <li><a href="/comments/20241002/2096364.md">一轮牛市之后，大清亡了</a></li>
 <li><a href="/baitai/20241001/2096148.md">她疯狂迫害过邓公，1981年被撤职，死不认错，拒绝搬出部长楼</a></li>
-<li><a href="/topimagenews/20241002/2096361.md">这现象还在蔓延，习近平的强刺激踢到铁板</a></li>
 <li><a href="/topimagenews/20241002/2096380.md">中国大城市成泄愤目标！昨夜入上海杀人</a></li>
 <li><a href="/topimagenews/20241002/2096396.md">中共国庆遭当头一棒！社会动荡或难避免【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20241002/2096362.md">又有中国重机正妹惨死！“最后挣扎”影片曝光</a></li>
+<li><a href="/topimagenews/20241002/2096361.md">这现象还在蔓延，习近平的强刺激踢到铁板</a></li>
 <li><a href="/topimagenews/20241001/2096153.md">惊人报告：中国人20年来悲观度暴增7倍</a></li>
+<li><a href="/cbnews/20241002/2096362.md">又有中国重机正妹惨死！“最后挣扎”影片曝光</a></li>
 <li><a href="/sohnews/20241002/2096341.md">又一鲨官案震惊全网，锦州副市长一家6人遭劫</a></li>
-<li><a href="/finance/20241001/2096102.md">秦鹏：A股大疯牛 将持续多久？</a></li>
 <li><a href="/sohnews/20241002/2096334.md">中国股市因何暴涨？能持续多久？中国经济</a></li>
 <li><a href="/ccpdope/20241001/2096223.md">老同志们亮相 习近平权力弱化再添佐证</a></li>
-<li><a href="/cnnews/20241001/2096112.md">北京此举犹如提油救火</a></li>
 <li><a href="/sohnews/20241002/2096298.md">“亲自驾盘3300点 习近平满脸傲慢 羞辱十一招待会”《今日点击》（10 01 24）温家宝习近平</a></li>
+<li><a href="/cnnews/20241002/2096404.md">刚从美国回来，签证突被取消！这种恶意越来越多</a></li>
+<li><a href="/cnnews/20241001/2096112.md">北京此举犹如提油救火</a></li>
+<li><a href="/headline/20241001/2096138.md">数万亿人民币诱惑：全球投资者称又准备重返中国</a></li>
+<li><a href="/baitai/20241002/2096271.md">黄晓菁，这位杭州泰隆银行女员工自爆视频火了，带给我们那些思考？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/comments/20240116/1984226.md" target="_blank">湖北老河口遇仙记</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20190214/1080789.md" target="_blank">胡平：天安门自焚和人民圣殿教</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
-<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20240320/2015021.md" target="_blank">唐柏桥：中共带话只要不与法轮功来往，其他一切都好说</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20240921/2091850.md" target="_blank">冥府阎王的阴差 吴玉华视频访谈，活人做阴差 当代真实案例</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/comments/20231207/1970628.md" target="_blank">民兵对官军，希望之声打造广播界的奇蹟【方伟时间-20231206】</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/tculture/20220622/1748765.md" target="_blank">影响人类的两个图案——太极图和卍字符</a></li>
 
 </ul>
 </div>
