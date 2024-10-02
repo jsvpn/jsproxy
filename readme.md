@@ -12,22 +12,22 @@
 <li><a href="/baitai/20241001/2096222.md">三声枪响震惊湖南邵阳公安局 传警察枪杀局长李长跃</a></li>
 <li><a href="/topimagenews/20241001/2096046.md">重大亮相！习拉温家宝洗白自己？他被习铁心雪藏【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20241001/2096077.md">辽宁锦州副市长惨遭灭门？ 河北公车疑遭引爆死伤惨重 中国官媒噤声</a></li>
-<li><a href="/sohnews/20241001/2096133.md">陈破空：稀罕！习近平对温家宝输诚，奉为上宾！形势所逼。证实七月事变！汪洋罕见露笑容。主桌挤进23人。特务全场紧盯！两大顶级元老未现身。直播与互动：美东时间10月1日早9点、中港台当晚9点</a></li>
 <li><a href="/comments/20241001/2096159.md">这份官员名单越来越长 习权威尽失</a></li>
+<li><a href="/sohnews/20241001/2096133.md">陈破空：稀罕！习近平对温家宝输诚，奉为上宾！形势所逼。证实七月事变！汪洋罕见露笑容。主桌挤进23人。特务全场紧盯！两大顶级元老未现身。直播与互动：美东时间10月1日早9点、中港台当晚9点</a></li>
 <li><a href="/sohnews/20241002/2096321.md">为何在温家宝李瑞环的陪同下 ⋯ ？（10 /01/24）习近平</a></li>
 <li><a href="/topimagenews/20241001/2096045.md">突发：上海惊现持双刀杀人！警方做法罕见 中共国庆遭砸场子</a></li>
+<li><a href="/topimagenews/20241002/2096347.md">全网封杀！湖南升旗下属突拔枪射杀公安局长 中共国庆当天</a></li>
 <li><a href="/topimagenews/20241001/2096036.md">中南海绝命一招！把水塘直接抽干 剩下的鱼全部捞走</a></li>
 <li><a href="/sohnews/20241001/2096049.md">【中国观察】胡锦涛、朱镕基和温家宝却缺席75周年晚会 李强彻底出局？李小鹏被免职</a></li>
 <li><a href="/baitai/20241001/2096147.md">听说他在中央混得不咋地</a></li>
-<li><a href="/topimagenews/20241002/2096347.md">全网封杀！湖南升旗下属突拔枪射杀公安局长 中共国庆当天</a></li>
 <li><a href="/sohnews/20241001/2096070.md">习近平替身西行考察，意图引诱西部战区反叛，引诱西部党政高官跳入陷阱。仅安排一个替身西行，就荡平了习近平在西北的残余势力，这在政治军事战争史上，堪称经典案例。</a></li>
 <li><a href="/topimagenews/20241001/2096065.md">用三个活人做备份！中共前卫生部副部长黄洁夫在新疆移植肝手术</a></li>
 <li><a href="/baitai/20241001/2096061.md">前国防部长李尚福最新消息</a></li>
+<li><a href="/topimagenews/20241002/2096359.md">教训金正恩！中共对北朝鲜“亮剑”</a></li>
 <li><a href="/topimagenews/20241001/2096037.md">普京要最后一博？</a></li>
 <li><a href="/baitai/20241001/2096148.md">她疯狂迫害过邓公，1981年被撤职，死不认错，拒绝搬出部长楼</a></li>
 <li><a href="/topimagenews/20241001/2096153.md">惊人报告：中国人20年来悲观度暴增7倍</a></li>
-<li><a href="/finance/20241001/2096102.md">秦鹏：A股大疯牛 将持续多久？</a></li>
-<li><a href="/topimagenews/20241002/2096359.md">教训金正恩！中共对北朝鲜“亮剑”</a></li>
+<li><a href="/comments/20241002/2096364.md">一轮牛市之后，大清亡了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20241002/2096449.md" target="_blank">被封杀文：衣者朝新｜向不容妄议的杨市长道歉</a></li>
+<li><a href="/comments/20241002/2096448.md" target="_blank">送青人｜女子“造谣”下雪被抓，挺吓人的</a></li>
+<li><a href="/comments/20241002/2096447.md" target="_blank">火星宏观：以色列清剿真主党，有五个让世界意想不到</a></li>
+<li><a href="/comments/20241002/2096446.md" target="_blank">德国之声：中国人几年前的欣喜和乐观去哪了？</a></li>
+<li><a href="/comments/20241002/2096445.md" target="_blank">王庆民-组织工会与罢工权：劳动者不可剥夺的权利和捍卫利益与尊严的基石</a></li>
 <li><a href="/comments/20241002/2096431.md" target="_blank">沃尔兹-万斯激辩90分钟，谁胜出了？｜2024美国总统大选 副总统辩论！ 2024 Election VP Debate ｜2024.10.01</a></li>
 <li><a href="/comments/20241002/2096429.md" target="_blank">万斯vs.沃尔兹：谁是赢家？首场辩论看点全解析 ｜方菲时间</a></li>
 <li><a href="/comments/20241002/2096425.md" target="_blank">俄罗斯捏住了中共的睾丸</a></li>
@@ -117,11 +122,6 @@
 <li><a href="/comments/20241002/2096275.md" target="_blank">以色列跟中共恩恩怨怨！嘴炮板砖专家 富贵舔中求！真主党被内塔尼亚胡用📟传呼机一网打尽</a></li>
 <li><a href="/comments/20241001/2096262.md" target="_blank">在台港人反&#8221;十一&#8221;活动 &#8220;光时&#8221;旗海遭中国旅客破坏</a></li>
 <li><a href="/comments/20241001/2096261.md" target="_blank">悉尼民众&#8221;十一&#8221;集会 抗议中共打压人权</a></li>
-<li><a href="/comments/20241001/2096240.md" target="_blank">电视辩论前夕，众议院发传票。沃尔兹极度担心两件事。马斯克警告，如果川普不当选，美国将会发生什么。马斯克沃尔兹电视辩论</a></li>
-<li><a href="/comments/20241001/2096225.md" target="_blank">在台港人办反十一行动 “光时”旗海遭中国旅客破坏</a></li>
-<li><a href="/comments/20241001/2096218.md" target="_blank">海伦飓风肆掠两大摇摆州 考验两党候选人｜2024美国大选｜方伟时间 10.01.2024</a></li>
-<li><a href="/comments/20241001/2096174.md" target="_blank">英语是汉语下的蛋🐣美国会成为，中国不可分割的一部分！疯狂英语李阳大放厥词！向世界表态</a></li>
-<li><a href="/comments/20241001/2096159.md" target="_blank">这份官员名单越来越长 习权威尽失</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/comments/20231220/1976789.md" target="_blank">大陆医生曝：九价HPV疫苗导致怀孕能力下降40%</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
-<li><a href="/tculture/20240815/2074891.md" target="_blank">松果体 谜一样的器官</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/sohnews/20240908/2085761.md" target="_blank">初次见到神；看到兽的印记；目睹灾难来临时什么样的人会被留下</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/topimagenews/20200514/1328456.md" target="_blank">穿越时空 谢田教授亲身体验人体特异功能</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/comments/20240820/2076958.md" target="_blank">惠虎宇：中华文化为什么是高级文化系统(3)</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20240918/2089868.md" target="_blank">马云前世修道，李嘉诚前世是和尚-数字漫谈（三）</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
 
 </ul>
 </div>
