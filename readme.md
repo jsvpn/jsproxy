@@ -10,8 +10,8 @@
 <li><a href="/sohnews/20241002/2096321.md">为何在温家宝李瑞环的陪同下 ⋯ ？（10 /01/24）习近平</a></li>
 <li><a href="/comments/20241002/2096364.md">一轮牛市之后，大清亡了</a></li>
 <li><a href="/cbnews/20241002/2096602.md">张又侠派遣习近平替身西部考察 用意深沉</a></li>
-<li><a href="/topimagenews/20241002/2096572.md">中美重磅“谈判”有结果了</a></li>
 <li><a href="/cbnews/20241002/2096362.md">又有中国重机正妹惨死！“最后挣扎”影片曝光</a></li>
+<li><a href="/topimagenews/20241002/2096572.md">中美重磅“谈判”有结果了</a></li>
 <li><a href="/topimagenews/20241002/2096396.md">中共国庆遭当头一棒！社会动荡或难避免【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20241002/2096489.md">他击毙公安局长 随后在朋友圈发帖</a></li>
 <li><a href="/sohnews/20241002/2096334.md">中国股市因何暴涨？能持续多久？中国经济</a></li>
@@ -20,14 +20,14 @@
 <li><a href="/topimagenews/20241002/2096558.md">普京撑不久了</a></li>
 <li><a href="/comments/20241002/2096425.md">俄罗斯捏住了中共的睾丸</a></li>
 <li><a href="/sohnews/20241002/2096341.md">又一鲨官案震惊全网，锦州副市长一家6人遭劫</a></li>
-<li><a href="/topimagenews/20241002/2096475.md">惨烈！中国电视插播真相英雄被中共酷刑折磨致死</a></li>
 <li><a href="/sohnews/20241002/2096617.md">陈破空：刘鹤现身，打破被捕传言。胡春华座位特别？张高丽鼻青脸肿。习家军亲信接连落马，谁在查他们？湖南国庆献礼，副市长当场被干掉！美副总统候选人辩论，频繁提中国。直播与互动：美东10月2日早9点、中港台当晚9点</a></li>
+<li><a href="/topimagenews/20241002/2096475.md">惨烈！中国电视插播真相英雄被中共酷刑折磨致死</a></li>
 <li><a href="/baitai/20241002/2096599.md">湖南公安局长遭枪击内幕 民间现最大反抗组织</a></li>
 <li><a href="/cbnews/20241002/2096468.md">〖红朝浮世绘〗国庆升旗枪杀局长 “英雄”警官三枪成名</a></li>
 <li><a href="/cbnews/20241002/2096423.md">中国女子发了4个字被拘 网上热闹了</a></li>
 <li><a href="/topimagenews/20241002/2096439.md">震撼踢爆：中国经济噩梦！习近平站在交叉路口</a></li>
-<li><a href="/cnnews/20241002/2096404.md">刚从美国回来，签证突被取消！这种恶意越来越多</a></li>
 <li><a href="/cbnews/20241002/2096677.md">习近平小组组长出事？内讧火拼：响当当中纪委监委李刚落马</a></li>
+<li><a href="/cnnews/20241002/2096404.md">刚从美国回来，签证突被取消！这种恶意越来越多</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20241003/2096781.md" target="_blank">深圳日童案后 广西惊见“踩日本国旗送五星旗”活动</a></li>
 <li><a href="/comments/20241003/2096752.md" target="_blank">电视辩论再现3打1，但万斯反应敏锐、机智而礼貌，反客为主，完全碾压沃尔兹和主持人。万斯沃尔兹电视辩论</a></li>
 <li><a href="/cbnews/20241002/2096735.md" target="_blank">女子住河南酒店 裸身被二度刷卡进门 早上8点被吓醒</a></li>
 <li><a href="/cbnews/20241002/2096709.md" target="_blank">美国打破传统 至今仍未电贺中共建政75周年</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20241002/2096538.md" target="_blank">气势汹汹，自信满满！ 解放军东部战区发布MV</a></li>
 <li><a href="/cbnews/20241002/2096507.md" target="_blank">江峰：锦州副市长被灭门，邵阳公安局长被优秀干警一击致命？凶手成民间英雄；以色列总理震撼演讲，自由伊朗！真主党首领被除，最疼的却是习近平【江峰漫谈20241001第946期】</a></li>
 <li><a href="/cbnews/20241002/2096490.md" target="_blank">CNN揭秘以色列多层防空系统：铁穹只是基础</a></li>
-<li><a href="/cbnews/20241002/2096489.md" target="_blank">他击毙公安局长 随后在朋友圈发帖</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20241003/2096780.md" target="_blank">【群众觉悟亮了】 10月1日，湖北襄阳两女子 #穿和服 拍照，遭市民围观指责，后被警察带走。围观市民拍手叫好。 网友问：为什么习近平可以穿西装，老百姓不能穿和服？</a></li>
 <li><a href="/comments/20241003/2096752.md" target="_blank">电视辩论再现3打1，但万斯反应敏锐、机智而礼貌，反客为主，完全碾压沃尔兹和主持人。万斯沃尔兹电视辩论</a></li>
 <li><a href="/comments/20241002/2096732.md" target="_blank">📉最懂股票的大爷📈只能买政府控股？？上海专业散户分享 割吧～割吧～老韭菜钱全送给党～</a></li>
 <li><a href="/comments/20241002/2096726.md" target="_blank">时事大家谈：“十一”黄金周，民众是否黄金白银砸消费？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20241002/2096446.md" target="_blank">德国之声：中国人几年前的欣喜和乐观去哪了？</a></li>
 <li><a href="/comments/20241002/2096445.md" target="_blank">王庆民-组织工会与罢工权：劳动者不可剥夺的权利和捍卫利益与尊严的基石</a></li>
 <li><a href="/comments/20241002/2096431.md" target="_blank">沃尔兹-万斯激辩90分钟，谁胜出了？｜2024美国总统大选 副总统辩论！ 2024 Election VP Debate ｜2024.10.01</a></li>
-<li><a href="/comments/20241002/2096429.md" target="_blank">万斯vs.沃尔兹：谁是赢家？首场辩论看点全解析 ｜方菲时间</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
-<li><a href="/topimagenews/20200514/1328456.md" target="_blank">穿越时空 谢田教授亲身体验人体特异功能</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/comments/20190213/1080251.md" target="_blank">胡平：法轮功为何反对自杀？</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
 <li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/ssgc/20240508/2034288.md" target="_blank">《透视“进化论”》第九章 人类起源问题的终极答案</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
+<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
+<li><a href="/comments/20231203/1969183.md" target="_blank">开盖冲马桶 ，细菌会乱飞？除非你家马桶是喷泉！</a></li>
+<li><a href="/comments/20240825/2079044.md" target="_blank">谁是创世主</a></li>
+<li><a href="/comments/20190701/1151501.md" target="_blank">【特稿】中国共产党是邪教组织</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20190214/1080789.md" target="_blank">胡平：天安门自焚和人民圣殿教</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
 
 </ul>
 </div>
