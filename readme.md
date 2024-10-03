@@ -9,25 +9,25 @@
 <li><a href="/baitai/20241003/2096779.md">我追踪了1万例婚姻，发现男人最喜欢的老婆，不是小鸟依人型，也不是貌美如花型，而是……</a></li>
 <li><a href="/cnnews/20241003/2096847.md">大决斗！习大转变背后藏更大危机</a></li>
 <li><a href="/topimagenews/20241003/2096913.md">触目惊心！中共国“献忠”遍地走 都被逼疯了</a></li>
-<li><a href="/baitai/20241003/2097065.md">嫁给省委书记的李修平，现在怎么样了？</a></li>
 <li><a href="/cbnews/20241003/2096938.md">恐惧让习近平夜难眠！亲口引用“亡国诗”</a></li>
+<li><a href="/baitai/20241003/2097065.md">嫁给省委书记的李修平，现在怎么样了？</a></li>
 <li><a href="/baitai/20241003/2096840.md">史上最强「小三」，迷倒邓超，被张译抛弃，35岁打脸整个娱乐圈：真庆幸，我没骂过她</a></li>
+<li><a href="/topimagenews/20241003/2096937.md">天下大乱？以色列将“重大报复” 伊朗强硬警告美国</a></li>
 <li><a href="/cbnews/20241003/2096976.md">〖红朝浮世绘〗美国不再祝贺中共的国庆节 真的全面脱钩了</a></li>
 <li><a href="/topimagenews/20241003/2096912.md">中国经济不行了 “卖铲子”的企业却赚翻了</a></li>
-<li><a href="/topimagenews/20241003/2096937.md">天下大乱？以色列将“重大报复” 伊朗强硬警告美国</a></li>
 <li><a href="/cbnews/20241003/2097029.md">上海封城时曾设“灰码” 特权阶层不受大白管制</a></li>
 <li><a href="/topimagenews/20241003/2097110.md">张晓宁刺杀民运领袖！现场亮血旗震惊全场</a></li>
 <li><a href="/comments/20241003/2096918.md">人生建议：千万不要长期待在家里</a></li>
 <li><a href="/sohnews/20241003/2097042.md">证实：温家宝被奉为上宾7月份事变是真，邵阳公安局十一事件内幕，中东乱局的前世今生。《老灯开讲第684期》</a></li>
+<li><a href="/baitai/20241003/2097094.md">刘源：父亲刘少奇一生中最大的错误有两件</a></li>
 <li><a href="/topimagenews/20241003/2096936.md">解放军五万人登陆即胜？惊人大逆转【阿波罗网报道】</a></li>
 <li><a href="/baitai/20241003/2096948.md">习近平两场重头戏 将开场</a></li>
-<li><a href="/baitai/20241003/2097094.md">刘源：父亲刘少奇一生中最大的错误有两件</a></li>
-<li><a href="/cbnews/20241003/2096980.md">男子因自助餐吃得多被赶出来 店家道实情 傻眼了</a></li>
 <li><a href="/comments/20241003/2096910.md">文昭：红二代最新惊变、温家宝十一「惊艳」占位的意义；牛市後，改朝换代了</a></li>
-<li><a href="/baitai/20241003/2096769.md">基本常识｜中国男子持刀袭击瑞士托儿所捅伤3个孩子，震撼全球媒体</a></li>
+<li><a href="/cbnews/20241003/2096980.md">男子因自助餐吃得多被赶出来 店家道实情 傻眼了</a></li>
 <li><a href="/topimagenews/20241003/2096934.md">太低级！中共射弹 火箭军或连夜奔赴19小时才到发射地</a></li>
+<li><a href="/cnnews/20241003/2097130.md">连中国都不信! 伊朗称导弹炸毁以2支F-35中队 机库破大洞卫星照曝光</a></li>
 <li><a href="/comments/20241003/2096822.md">天亮时分：建政酒会有一亮点，释放政治信号？ #习近平 #中共 #李瑞环 #温家宝</a></li>
-<li><a href="/baitai/20241003/2096773.md">​9月29日！伊朗爆出大消息</a></li>
+<li><a href="/cbnews/20241003/2096845.md">“顶级牛马”脱口秀爆红 令中国打工者一边爆笑一边流泪</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/cbnews/20240902/2082501.md" target="_blank">中元节祭祖有没有效果呢？那边真的可以收到纸钱吗？</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/tculture/20240904/2083774.md" target="_blank">“几生修得到梅花”之生命品格浅议</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/lifebaike/20180527/948531.md" target="_blank">无神论是最大的迷信（上）：科学无法证实神不存在</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
 <li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/sohnews/20240908/2085761.md" target="_blank">初次见到神；看到兽的印记；目睹灾难来临时什么样的人会被留下</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
+<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
+<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
 <li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
 
 </ul>
 </div>
