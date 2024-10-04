@@ -11,19 +11,19 @@
 <li><a href="/cbnews/20241004/2097275.md">掏空整个国家!习近平重蹈覆辙</a></li>
 <li><a href="/topimagenews/20241004/2097274.md">惊爆！伊朗摧毁以色列两个F-35战机中队！大逆转？</a></li>
 <li><a href="/cnnews/20241004/2097370.md">中国女阳台一丝不挂晒太阳！被投诉后引起争议</a></li>
-<li><a href="/cnnews/20241003/2097130.md">连中国都不信! 伊朗称导弹炸毁以2支F-35中队 机库破大洞卫星照曝光</a></li>
-<li><a href="/baitai/20241004/2097207.md">任心意｜任志强病重，女儿向习近平发公开信恳求允许出国治疗</a></li>
 <li><a href="/topimagenews/20241004/2097249.md">为末日做准备？美中同期要求车辆安装AM收音机 网惊：大事要来</a></li>
 <li><a href="/cnnews/20241004/2097237.md">“突发”众多华人银行账户存款消失 信用卡欠款仍在</a></li>
+<li><a href="/baitai/20241004/2097207.md">任心意｜任志强病重，女儿向习近平发公开信恳求允许出国治疗</a></li>
+<li><a href="/cnnews/20241003/2097130.md">连中国都不信! 伊朗称导弹炸毁以2支F-35中队 机库破大洞卫星照曝光</a></li>
 <li><a href="/sohnews/20241004/2097208.md">十一乱象！ 中共高层聚会，现出种种不寻常。</a></li>
 <li><a href="/topimagenews/20241003/2097174.md">三战不远了？以色列导弹袭击俄国空军基地 弹药库爆炸画面曝光</a></li>
 <li><a href="/topimagenews/20241004/2097381.md">任志强女儿向习近平发出公开信全文</a></li>
 <li><a href="/topimagenews/20241003/2097148.md">中国股市火热藏危机？ 野村警告：未来几周泡沫风险急升</a></li>
 <li><a href="/topimagenews/20241003/2097175.md">华尔街日报：中国经济政策大转弯似曾相识 关键都因习近平</a></li>
+<li><a href="/topimagenews/20241004/2097433.md">“新疆四美”之一被送习亲信外加澳洲豪宅？佟丽娅突冲热搜榜首【阿波罗网报道】</a></li>
 <li><a href="/baitai/20241004/2097286.md">任志强女儿致信习近平要求让其父出国治疗</a></li>
 <li><a href="/cnnews/20241004/2097395.md">副省级贪官在嫖娼时，与2名卖淫女当场一起被抓</a></li>
 <li><a href="/cbnews/20241003/2097151.md">中共建政日 美国破例迟发贺电：祝福中国人民</a></li>
-<li><a href="/topimagenews/20241004/2097433.md">“新疆四美”之一被送习亲信外加澳洲豪宅？佟丽娅突冲热搜榜首【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20241004/2097303.md">着急！中共狠批以色列 呼吁大国介入</a></li>
 <li><a href="/baitai/20241003/2097104.md">王树声在单位食堂打饭，见一干部打了5份饭菜，上前询问原因，干部：关你什么事...</a></li>
 <li><a href="/baitai/20241004/2097285.md">任志强“讨习檄文”：剥光了衣服坚持当皇帝的小丑</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20240723/2065714.md" target="_blank">台湾民视：解谜法轮功 气功或宗教？</a></li>
-<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20231223/1978148.md" target="_blank">医山夜话：张锡纯医案解读（三）赭石：降胃气 引火下行</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/tculture/20231202/1968819.md" target="_blank">六道轮回之天神道</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/tculture/20220622/1748765.md" target="_blank">影响人类的两个图案——太极图和卍字符</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20240704/2058130.md" target="_blank">百年梦醒（十八）：共产魔教的机制、前所未有的巨大野心</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
 <li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
-<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/comments/20240318/2014289.md" target="_blank">唐柏桥：民运同仁突然向法轮功开火是怎么回事？</a></li>
-<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/comments/20240412/2024185.md" target="_blank">是治疗还是屠杀?化疗药品滴一滴在皮肤即灼伤，很长时间才好</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20240918/2089868.md" target="_blank">马云前世修道，李嘉诚前世是和尚-数字漫谈（三）</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20231213/1973586.md" target="_blank">六道轮回之畜生道</a></li>
+<li><a href="/comments/20240829/2080735.md" target="_blank">胆战心惊:塔克访谈揭露美国食品巨头，医疗体系</a></li>
 
 </ul>
 </div>
