@@ -7,27 +7,27 @@
 
 <li><a href="/baitai/20241003/2097065.md">嫁给省委书记的李修平，现在怎么样了？</a></li>
 <li><a href="/topimagenews/20241003/2097110.md">张晓宁刺杀民运领袖！现场亮血旗震惊全场</a></li>
-<li><a href="/cbnews/20241003/2096976.md">〖红朝浮世绘〗美国不再祝贺中共的国庆节 真的全面脱钩了</a></li>
 <li><a href="/cbnews/20241003/2097029.md">上海封城时曾设“灰码” 特权阶层不受大白管制</a></li>
 <li><a href="/sohnews/20241003/2097042.md">证实：温家宝被奉为上宾7月份事变是真，邵阳公安局十一事件内幕，中东乱局的前世今生。《老灯开讲第684期》</a></li>
 <li><a href="/baitai/20241003/2097094.md">刘源：父亲刘少奇一生中最大的错误有两件</a></li>
-<li><a href="/cnnews/20241004/2097237.md">“突发”众多华人银行账户存款消失 信用卡欠款仍在</a></li>
-<li><a href="/topimagenews/20241004/2097249.md">为末日做准备？美中同期要求车辆安装AM收音机 网惊：大事要来</a></li>
-<li><a href="/cbnews/20241003/2096980.md">男子因自助餐吃得多被赶出来 店家道实情 傻眼了</a></li>
-<li><a href="/cnnews/20241003/2097130.md">连中国都不信! 伊朗称导弹炸毁以2支F-35中队 机库破大洞卫星照曝光</a></li>
 <li><a href="/topimagenews/20241004/2097274.md">惊爆！伊朗摧毁以色列两个F-35战机中队！大逆转？</a></li>
+<li><a href="/topimagenews/20241004/2097249.md">为末日做准备？美中同期要求车辆安装AM收音机 网惊：大事要来</a></li>
 <li><a href="/cbnews/20241004/2097275.md">掏空整个国家!习近平重蹈覆辙</a></li>
+<li><a href="/cnnews/20241004/2097237.md">“突发”众多华人银行账户存款消失 信用卡欠款仍在</a></li>
+<li><a href="/cnnews/20241003/2097130.md">连中国都不信! 伊朗称导弹炸毁以2支F-35中队 机库破大洞卫星照曝光</a></li>
 <li><a href="/topimagenews/20241003/2097174.md">三战不远了？以色列导弹袭击俄国空军基地 弹药库爆炸画面曝光</a></li>
 <li><a href="/baitai/20241004/2097207.md">任心意｜任志强病重，女儿向习近平发公开信恳求允许出国治疗</a></li>
 <li><a href="/sohnews/20241004/2097208.md">十一乱象！ 中共高层聚会，现出种种不寻常。</a></li>
 <li><a href="/topimagenews/20241003/2097148.md">中国股市火热藏危机？ 野村警告：未来几周泡沫风险急升</a></li>
 <li><a href="/topimagenews/20241003/2097175.md">华尔街日报：中国经济政策大转弯似曾相识 关键都因习近平</a></li>
 <li><a href="/cbnews/20241003/2097151.md">中共建政日 美国破例迟发贺电：祝福中国人民</a></li>
+<li><a href="/baitai/20241004/2097357.md">胡春华，履新</a></li>
+<li><a href="/baitai/20241004/2097286.md">任志强女儿致信习近平要求让其父出国治疗</a></li>
 <li><a href="/cnnews/20241003/2097023.md">中美两国为何要在车上强制装收音机?认知开始逆转</a></li>
 <li><a href="/baitai/20241003/2097104.md">王树声在单位食堂打饭，见一干部打了5份饭菜，上前询问原因，干部：关你什么事...</a></li>
-<li><a href="/baitai/20241004/2097286.md">任志强女儿致信习近平要求让其父出国治疗</a></li>
-<li><a href="/funmedia/20241003/2096982.md">不论夫妻还是情侣，长期处于这三种状态，其实就是“缘尽”了，别不当回事</a></li>
 <li><a href="/cbnews/20241003/2097028.md">居民窗户上贴“福” 遭小粉红出征 真相太离谱了</a></li>
+<li><a href="/topimagenews/20241003/2097013.md">可斩首金正恩 比以色列导弹猛10倍 韩国公开可打地堡的玄武-5导弹</a></li>
+<li><a href="/topimagenews/20241004/2097381.md">任志强女儿向习近平发出公开信全文</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20241004/2097441.md" target="_blank">天安门小厮黑视频流出！ 习近平大权旁落？国宴招待会五大破绽，李瑞环温家宝回归？最新震撼爆料…</a></li>
 <li><a href="/comments/20241004/2097437.md" target="_blank">为什么少数民族让中共头疼?</a></li>
 <li><a href="/comments/20241004/2097417.md" target="_blank">美国码头工人突然罢工，突然结束，和我们的关系是什么？｜方伟时间 10.03.2024</a></li>
 <li><a href="/comments/20241004/2097414.md" target="_blank">【移居桃花源：中国文化菁英清迈访谈录】【从中国到泰国：一个导演家庭的跨国迁徙与梦想】</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20241003/2097178.md" target="_blank">【杜耀明评论】新闻自由有罪 法官一味靠估？</a></li>
 <li><a href="/comments/20241003/2097149.md" target="_blank">最大摇摆州的最大摇摆城&#8211;费城，在生变！｜选情｜2024美国大选｜方伟时间 10.03.2024</a></li>
 <li><a href="/comments/20241003/2097146.md" target="_blank">（围炉夜话精华版）以色列会打击伊朗核设施吗？｜唐靖远 大宇 林晓旭 方菲 ｜10/2/2024</a></li>
-<li><a href="/comments/20241003/2097129.md" target="_blank">林保华；中共没钱统战 诈骗花样翻新</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/comments/20240820/2076940.md" target="_blank">惠虎宇：中华文化为什么是高级文化系统(2)</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20240918/2089868.md" target="_blank">马云前世修道，李嘉诚前世是和尚-数字漫谈（三）</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/cbnews/20190211/1078733.md" target="_blank">胡平：法轮功为什么能强化忍的精神</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
+<li><a href="/comments/20231223/1978148.md" target="_blank">医山夜话：张锡纯医案解读（三）赭石：降胃气 引火下行</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
 <li><a href="/comments/20231212/1972297.md" target="_blank">日本华人确诊晚期直肠癌，修炼法轮功恢复健康（图）</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20210819/1609103.md" target="_blank">浅谈中医与西医的不同之处</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/tculture/20240916/2089420.md" target="_blank">诗人苏轼与黄庭坚的生命轮回</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
+<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
+<li><a href="/comments/20240703/2057730.md" target="_blank">百年梦醒（十七）：马克思的连环计、出卖灵魂</a></li>
+<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
+<li><a href="/tculture/20120628/34899.md" target="_blank">有神无神，只消一例便可敲定</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
 
 </ul>
 </div>
