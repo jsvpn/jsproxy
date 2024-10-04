@@ -12,22 +12,22 @@
 <li><a href="/topimagenews/20241004/2097249.md">为末日做准备？美中同期要求车辆安装AM收音机 网惊：大事要来</a></li>
 <li><a href="/topimagenews/20241004/2097274.md">惊爆！伊朗摧毁以色列两个F-35战机中队！大逆转？</a></li>
 <li><a href="/cnnews/20241004/2097237.md">“突发”众多华人银行账户存款消失 信用卡欠款仍在</a></li>
-<li><a href="/baitai/20241004/2097207.md">任心意｜任志强病重，女儿向习近平发公开信恳求允许出国治疗</a></li>
 <li><a href="/topimagenews/20241004/2097433.md">“新疆四美”之一被送习亲信外加澳洲豪宅？佟丽娅突冲热搜榜首【阿波罗网报道】</a></li>
+<li><a href="/baitai/20241004/2097207.md">任心意｜任志强病重，女儿向习近平发公开信恳求允许出国治疗</a></li>
 <li><a href="/topimagenews/20241004/2097381.md">任志强女儿向习近平发出公开信全文</a></li>
 <li><a href="/baitai/20241004/2097511.md">又一官员被报复 上海民众对抗警察 习坐不住了</a></li>
 <li><a href="/cnnews/20241004/2097395.md">副省级贪官在嫖娼时，与2名卖淫女当场一起被抓</a></li>
 <li><a href="/cbnews/20241004/2097424.md">〖红朝浮世绘〗这个驻日大使政治不正确 竟然跟攻击包帝的标语同框亮相</a></li>
 <li><a href="/baitai/20241004/2097478.md">听纪委朋友说，有的领导干部在被抽掉鞋带和皮带后，一下就崩溃了，甚至个别胆小者顿时大小便失禁……</a></li>
+<li><a href="/sohnews/20241004/2097566.md">李鹏家族的罪恶，两子均涉命案</a></li>
 <li><a href="/baitai/20241004/2097286.md">任志强女儿致信习近平要求让其父出国治疗</a></li>
 <li><a href="/comments/20241004/2097441.md">天安门小厮黑视频流出！ 习近平大权旁落？国宴招待会五大破绽，李瑞环温家宝回归？最新震撼爆料…</a></li>
+<li><a href="/topimagenews/20241004/2097556.md">骂习剥光衣服也要当皇帝! 任志强女致信习近平盼保外就医 潘石屹妻海外相挺</a></li>
 <li><a href="/baitai/20241004/2097497.md">中央组织部“内鬼”被查</a></li>
 <li><a href="/cbnews/20241004/2097303.md">着急！中共狠批以色列 呼吁大国介入</a></li>
-<li><a href="/sohnews/20241004/2097566.md">李鹏家族的罪恶，两子均涉命案</a></li>
-<li><a href="/topimagenews/20241004/2097556.md">骂习剥光衣服也要当皇帝! 任志强女致信习近平盼保外就医 潘石屹妻海外相挺</a></li>
 <li><a href="/cnnews/20241004/2097471.md">知名餐饮集团董事长去世 年仅35岁</a></li>
-<li><a href="/cbnews/20241004/2097304.md">压力太大，在美中国巨头撑不下去了</a></li>
 <li><a href="/topimagenews/20241004/2097435.md">重演史诗级飙涨与破裂？中国股灾加速酝酿</a></li>
+<li><a href="/cbnews/20241004/2097304.md">压力太大，在美中国巨头撑不下去了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20241005/2097675.md" target="_blank">天亮时分：谁以後会在东亚地区称霸？#石破茂 #台湾</a></li>
+<li><a href="/comments/20241005/2097674.md" target="_blank">天亮时分：石破茂接下日本首相大位！#日本首相 #石破茂 #中共</a></li>
+<li><a href="/comments/20241005/2097673.md" target="_blank">天亮时分：任志强女儿任心意公开致信习近平！# 任志强 #习近平 #任心意</a></li>
 <li><a href="/comments/20241004/2097659.md" target="_blank">天亮时分：伊朗轰炸以色列是一个极端错误的决定？#伊朗 #以色列</a></li>
 <li><a href="/comments/20241004/2097658.md" target="_blank">天亮时分：伊朗和以色列真要开打？#伊朗 #以色列 #中东局势</a></li>
 <li><a href="/comments/20241004/2097657.md" target="_blank">天亮时分：真正废除和列强不平等条约的是中华民国。#中共 #中华民国</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20241004/2097414.md" target="_blank">【移居桃花源：中国文化菁英清迈访谈录】【从中国到泰国：一个导演家庭的跨国迁徙与梦想】</a></li>
 <li><a href="/comments/20241004/2097391.md" target="_blank">项栋梁：看这股市数据，恍惚间以为经济基本面发生巨变</a></li>
 <li><a href="/comments/20241004/2097390.md" target="_blank">难得君 &#8211; 西湖木屐事件 &#8211; 不是愚蠢，就是单纯的坏</a></li>
-<li><a href="/comments/20241004/2097389.md" target="_blank">多位律师爆料：因经济压力大，看守所内已爆满，很多地方计划扩建</a></li>
-<li><a href="/comments/20241004/2097388.md" target="_blank">1细雨中的呼喊｜科普祖国、国家、政府有点难啊…</a></li>
-<li><a href="/comments/20241004/2097387.md" target="_blank">万斯VS沃尔兹：这才是美国大选原本的样子</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20190211/1078733.md" target="_blank">胡平：法轮功为什么能强化忍的精神</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/comments/20240820/2076928.md" target="_blank">惠虎宇：中华文化为什么是高级文化系统(1)</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/taiwannews/20210119/1470524.md" target="_blank">纪录片《蚕食美国1》</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/tculture/20220622/1748765.md" target="_blank">影响人类的两个图案——太极图和卍字符</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
+<li><a href="/tculture/20201115/1431410.md" target="_blank">读《中庸》：关键在“中和”</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
 
 </ul>
 </div>
