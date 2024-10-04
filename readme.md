@@ -18,15 +18,15 @@
 <li><a href="/topimagenews/20241004/2097556.md">骂习剥光衣服也要当皇帝! 任志强女致信习近平盼保外就医 潘石屹妻海外相挺</a></li>
 <li><a href="/comments/20241004/2097441.md">天安门小厮黑视频流出！ 习近平大权旁落？国宴招待会五大破绽，李瑞环温家宝回归？最新震撼爆料…</a></li>
 <li><a href="/cnnews/20241004/2097471.md">知名餐饮集团董事长去世 年仅35岁</a></li>
-<li><a href="/baitai/20241004/2097286.md">任志强女儿致信习近平要求让其父出国治疗</a></li>
 <li><a href="/baitai/20241004/2097497.md">中央组织部“内鬼”被查</a></li>
 <li><a href="/topimagenews/20241004/2097435.md">重演史诗级飙涨与破裂？中国股灾加速酝酿</a></li>
 <li><a href="/cbnews/20241004/2097303.md">着急！中共狠批以色列 呼吁大国介入</a></li>
+<li><a href="/baitai/20241004/2097656.md">虎扑女神未P图照曝光：网红到底有多可怕...</a></li>
 <li><a href="/sohnews/20241004/2097479.md">习如何反馈任志强女儿上书救父，警报拉响中共得意太早了，共军核潜艇沉没最新内幕。《老灯开讲第685期》</a></li>
 <li><a href="/topimagenews/20241004/2097443.md">拜习将通话 供国内观众观赏</a></li>
 <li><a href="/cbnews/20241004/2097304.md">压力太大，在美中国巨头撑不下去了</a></li>
-<li><a href="/cnnews/20241004/2097312.md">加航前空姐爆7大猛料! 这些雷千万别踩</a></li>
 <li><a href="/sohnews/20241004/2097359.md">陈希李干杰遭锤，习家军窝里反了；习近平已成傀儡？政变经过曝光？习手脚接连被砍，诡异水花压不住；苏利文实地查探，中共“寿”没了【新闻看点 李沐阳10.3】</a></li>
+<li><a href="/cnnews/20241004/2097312.md">加航前空姐爆7大猛料! 这些雷千万别踩</a></li>
 <li><a href="/sohnews/20241004/2097531.md">本次大救市，习近平为何有底气打“股市”牌？对比08年、15年，到底发生了什么改变？｜小翠时政财经 [20241004600]</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20241005/2097746.md" target="_blank">凤羽财经：以国另一波“攻击”！哈梅内伊懵了</a></li>
 <li><a href="/comments/20241005/2097726.md" target="_blank">美国因何伟大？独立战争美国</a></li>
 <li><a href="/comments/20241005/2097715.md" target="_blank">股市爆炒 中国基本面看好还是泡沫海啸？（戴忠仁/上官乱/李少民/任松林）｜亚洲很想聊</a></li>
 <li><a href="/comments/20241005/2097714.md" target="_blank">【欧盟将对中国电动车征关税高达45% 北京会报复吗？】</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20241004/2097546.md" target="_blank">沃尔兹-万斯激辩90分钟，谁胜出了？美国大选</a></li>
 <li><a href="/comments/20241004/2097454.md" target="_blank">林修正：祝贺中国国庆也没用 孙俪拒绝与吴慷仁合作</a></li>
 <li><a href="/comments/20241004/2097441.md" target="_blank">天安门小厮黑视频流出！ 习近平大权旁落？国宴招待会五大破绽，李瑞环温家宝回归？最新震撼爆料…</a></li>
-<li><a href="/comments/20241004/2097437.md" target="_blank">为什么少数民族让中共头疼?</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20190213/1080251.md" target="_blank">胡平：法轮功为何反对自杀？</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20240820/2076958.md" target="_blank">惠虎宇：中华文化为什么是高级文化系统(3)</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/tculture/20231119/1962827.md" target="_blank">六道轮回之地狱道</a></li>
+<li><a href="/tculture/20190708/1154978.md" target="_blank">揭开“神用泥土造人”的秘密</a></li>
+<li><a href="/comments/20240318/2014289.md" target="_blank">唐柏桥：民运同仁突然向法轮功开火是怎么回事？</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
+<li><a href="/comments/20240126/1992876.md" target="_blank">内幕：中国留学生里女生打男生和男生打女一样普遍</a></li>
+<li><a href="/comments/20240403/2020547.md" target="_blank">纪录片：DSM诊断与统计手册-精神病学最要命的骗局</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/cbnews/20240715/2062387.md" target="_blank">尧帝治世之道（一）</a></li>
 
 </ul>
 </div>
