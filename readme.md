@@ -8,25 +8,25 @@
 <li><a href="/baitai/20241004/2097511.md">又一官员被报复 上海民众对抗警察 习坐不住了</a></li>
 <li><a href="/sohnews/20241004/2097566.md">李鹏家族的罪恶，两子均涉命案</a></li>
 <li><a href="/comments/20241004/2097589.md">中国领导层进入最高级警戒状态</a></li>
-<li><a href="/baitai/20241004/2097478.md">听纪委朋友说，有的领导干部在被抽掉鞋带和皮带后，一下就崩溃了，甚至个别胆小者顿时大小便失禁……</a></li>
 <li><a href="/topimagenews/20241004/2097556.md">骂习剥光衣服也要当皇帝! 任志强女致信习近平盼保外就医 潘石屹妻海外相挺</a></li>
 <li><a href="/sohnews/20241005/2097747.md">习近平现怪异的表现？习近平</a></li>
 <li><a href="/baitai/20241005/2097690.md">省政府副秘书长的性爱日记写到136页…</a></li>
-<li><a href="/baitai/20241005/2097728.md">查办薄熙来案的他，也被查入狱，事发后一夜白头</a></li>
 <li><a href="/baitai/20241004/2097656.md">虎扑女神未P图照曝光：网红到底有多可怕...</a></li>
+<li><a href="/baitai/20241005/2097728.md">查办薄熙来案的他，也被查入狱，事发后一夜白头</a></li>
 <li><a href="/sohnews/20241005/2097794.md">政治老人联手军方发动政变，习近平大势已去！十一酒会座次玄机大，习已被夺权！三中全会习近平突发中风昏迷，宫廷政变随即上演！中共高层波谲云诡，历史巨变近在眼前！‘新闻最嘲点 姜光宇’2024.1004</a></li>
 <li><a href="/baitai/20241004/2097497.md">中央组织部“内鬼”被查</a></li>
 <li><a href="/cbnews/20241005/2097786.md">传福建省医保局局长坠楼亡 消息被封杀</a></li>
 <li><a href="/topimagenews/20241004/2097608.md">10国投赞成票！ 欧盟通过对中国电动车征45%关税</a></li>
 <li><a href="/baitai/20241005/2097742.md">秦刚夫人那年那月</a></li>
-<li><a href="/sohnews/20241004/2097479.md">习如何反馈任志强女儿上书救父，警报拉响中共得意太早了，共军核潜艇沉没最新内幕。《老灯开讲第685期》</a></li>
 <li><a href="/renquan/20241005/2097733.md">知情人：不放任志强，习近平的残暴将载入史册</a></li>
 <li><a href="/baitai/20241005/2097688.md">县委书记的受贿清单，无语了</a></li>
 <li><a href="/topimagenews/20241005/2097759.md">上海砍人男子多日讨薪未果….218个抖音视频流出</a></li>
 <li><a href="/sohnews/20241004/2097531.md">本次大救市，习近平为何有底气打“股市”牌？对比08年、15年，到底发生了什么改变？｜小翠时政财经 [20241004600]</a></li>
 <li><a href="/sohnews/20241005/2097738.md">“佟丽娅离异单身”成热门话题！习近平甚至都被网友扯进来讨论，到底发生了什么？佟丽娅事件中，是否有一些不同寻常的迹象呢？｜大宇拍案惊奇 live!佟丽娅习近平</a></li>
+<li><a href="/sohnews/20241004/2097644.md">【精华集锦】习近平要退居二线了吗？观察这三个迹象；石破茂当选日本首相，中日关系第二春？</a></li>
 <li><a href="/comments/20241004/2097641.md">李连杰谈气功特异功能-灵魂出窍-亲身见证穿墙术</a></li>
 <li><a href="/cbnews/20241004/2097572.md">北京威胁“全面战争” 分析：中共高层怕被斩首</a></li>
+<li><a href="/bblog/20241004/2097503.md">卫星云图中出现惊人图案</a></li>
 <li><a href="/comments/20241005/2097753.md">文昭：中南海高兴了才一个星期，警报就从这里拉响！习为何成「原地掉头王」，真相在这</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20231220/1976789.md" target="_blank">大陆医生曝：九价HPV疫苗导致怀孕能力下降40%</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20190214/1080789.md" target="_blank">胡平：天安门自焚和人民圣殿教</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/cbnews/20240603/2045072.md" target="_blank">漫谈古代科举之八股文</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20240820/2076774.md" target="_blank">胡平：批判法轮功的人,为何不用同样标准分析其他宗教</a></li>
+<li><a href="/comments/20190220/1083672.md" target="_blank">胡平：法轮功与其他一些宗教或信仰之比较</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/comments/20231213/1973586.md" target="_blank">六道轮回之畜生道</a></li>
 
 </ul>
 </div>
