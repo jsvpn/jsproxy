@@ -19,15 +19,15 @@
 <li><a href="/sohnews/20241005/2097913.md">习近平在北戴河会议上的检讨书公开，习在军中的头号打手被调到长沙管招生，上海民众聚集喊出打倒共产党。《老灯开讲第686期》</a></li>
 <li><a href="/topimagenews/20241005/2097759.md">上海砍人男子多日讨薪未果….218个抖音视频流出</a></li>
 <li><a href="/yule/20241005/2097909.md">香港第一美人石慧真绝色 李嘉欣在她面前不够看</a></li>
+<li><a href="/cbnews/20241005/2097971.md">中共中央保密局局长被赶出中南海的内幕</a></li>
 <li><a href="/comments/20241005/2097753.md">文昭：中南海高兴了才一个星期，警报就从这里拉响！习为何成「原地掉头王」，真相在这</a></li>
 <li><a href="/baitai/20241005/2097830.md">中南海风云诡谲 习权力疑似被削弱</a></li>
 <li><a href="/topimagenews/20241005/2097816.md">川普：“这是我听过的最疯狂的事情“</a></li>
-<li><a href="/topimagenews/20241005/2097840.md">重磅！中共运作黑幕撕开 233名中共海外代理人曝光</a></li>
+<li><a href="/ccpdope/20241005/2097941.md">任志强女儿求救信发酵 王岐山等大佬疑被内控</a></li>
 <li><a href="/topimagenews/20241005/2097756.md">北京面临绝境挑战,中共老友突暗示大实话;史诗级飙涨或转为崩盘！中国股灾加速酝酿</a></li>
+<li><a href="/topimagenews/20241005/2097840.md">重磅！中共运作黑幕撕开 233名中共海外代理人曝光</a></li>
 <li><a href="/cbnews/20241005/2097848.md">〖红朝浮世绘〗习近平说好的不输出贫穷与饥饿的 怎么反倒到处输出诈骗了？</a></li>
-<li><a href="/cbnews/20241005/2097971.md">中共中央保密局局长被赶出中南海的内幕</a></li>
 <li><a href="/cbnews/20241005/2097883.md">18岁少女接替，共和党已经开始世袭制了？</a></li>
-<li><a href="/finance/20241005/2097761.md">第一省会，房价破“3”了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/ssgc/20240508/2034288.md" target="_blank">《透视“进化论”》第九章 人类起源问题的终极答案</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/tculture/20240815/2074891.md" target="_blank">松果体 谜一样的器官</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
 <li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/bblog/20240813/2073608.md" target="_blank">惊人内幕：脑死亡不是死亡，只是深度昏迷骗你捐器官</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20240418/2026391.md" target="_blank">医生劝我妻子放弃，似乎这些医生热衷让病人快点去死？</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20240820/2076928.md" target="_blank">惠虎宇：中华文化为什么是高级文化系统(1)</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/taiwannews/20210119/1470761.md" target="_blank">独家：震撼纪录片《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20240801/2069416.md" target="_blank">无神论和有神论深度解析</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
 
 </ul>
 </div>
