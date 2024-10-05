@@ -12,22 +12,22 @@
 <li><a href="/sohnews/20241005/2097913.md">习近平在北戴河会议上的检讨书公开，习在军中的头号打手被调到长沙管招生，上海民众聚集喊出打倒共产党。《老灯开讲第686期》</a></li>
 <li><a href="/cbnews/20241005/2097971.md">中共中央保密局局长被赶出中南海的内幕</a></li>
 <li><a href="/baitai/20241005/2098020.md">「新疆第一美」突登热搜 曾传被习近平染指</a></li>
-<li><a href="/topimagenews/20241005/2097759.md">上海砍人男子多日讨薪未果….218个抖音视频流出</a></li>
 <li><a href="/yule/20241005/2097909.md">香港第一美人石慧真绝色 李嘉欣在她面前不够看</a></li>
 <li><a href="/baitai/20241005/2097830.md">中南海风云诡谲 习权力疑似被削弱</a></li>
-<li><a href="/topimagenews/20241005/2097756.md">北京面临绝境挑战,中共老友突暗示大实话;史诗级飙涨或转为崩盘！中国股灾加速酝酿</a></li>
 <li><a href="/topimagenews/20241005/2097816.md">川普：“这是我听过的最疯狂的事情“</a></li>
-<li><a href="/ccpdope/20241005/2097941.md">任志强女儿求救信发酵 王岐山等大佬疑被内控</a></li>
 <li><a href="/topimagenews/20241005/2097840.md">重磅！中共运作黑幕撕开 233名中共海外代理人曝光</a></li>
-<li><a href="/cbnews/20241005/2097848.md">〖红朝浮世绘〗习近平说好的不输出贫穷与饥饿的 怎么反倒到处输出诈骗了？</a></li>
+<li><a href="/ccpdope/20241005/2097941.md">任志强女儿求救信发酵 王岐山等大佬疑被内控</a></li>
 <li><a href="/cbnews/20241005/2097883.md">18岁少女接替，共和党已经开始世袭制了？</a></li>
-<li><a href="/finance/20241005/2097761.md">第一省会，房价破“3”了</a></li>
+<li><a href="/cbnews/20241005/2097848.md">〖红朝浮世绘〗习近平说好的不输出贫穷与饥饿的 怎么反倒到处输出诈骗了？</a></li>
 <li><a href="/comments/20241005/2097982.md">你可能再也不会在主流媒体上看到万斯了！万斯Vance</a></li>
 <li><a href="/topimagenews/20241005/2097851.md">中共“突然吸毒提神”</a></li>
 <li><a href="/cbnews/20241005/2097801.md">传王思聪出售上海茂名公馆豪宅 内景被曝</a></li>
 <li><a href="/ssgc/20241005/2097832.md">〖微博谈〗有点毛骨悚然</a></li>
 <li><a href="/cnnews/20241005/2097896.md">贪官出狱后的生活质量如何？简直乐无边</a></li>
 <li><a href="/topimagenews/20241005/2097917.md">中共国庆当天国际抓共谍! 瑞典公布“17人名单”、德国抓一情报份子</a></li>
+<li><a href="/topimagenews/20241005/2097988.md">伊朗大规模导弹空袭 以一空军基地出现33弹坑 专家 : 以军防御系统面临挑战</a></li>
+<li><a href="/ccpdope/20241005/2098025.md">为让任志强「服软」 中共使了这「绝招」</a></li>
+<li><a href="/cbnews/20241005/2097936.md">“中共国已做好战争准备，美国却没跟上”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20241006/2098105.md" target="_blank">“十一”反共声浪四起 内外因促终结中共政权</a></li>
 <li><a href="/cbnews/20241006/2098088.md" target="_blank">“我过生日奶奶给了1.8亿” 中共红后代炫富爆火</a></li>
 <li><a href="/cbnews/20241006/2098080.md" target="_blank">赖清德再出手 习近平中共完全无法招架【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20241006/2098069.md" target="_blank">江峰：从毛泽东到习近平也不长记性，倒霉就在对苏俄一边倒</a></li>
@@ -59,13 +60,15 @@
 <li><a href="/cbnews/20241005/2097874.md" target="_blank">男子深夜开车撞入邻居家</a></li>
 <li><a href="/cbnews/20241005/2097863.md" target="_blank">江峰：以色列连取真主党三位总书记性命，党中央一锅端；欧盟通过对中共国电动车加税，中情局公开招募中国线人，习近平的疑心病加重；惨澹国庆，万邦来朝不再【江峰漫谈20241004第948期】</a></li>
 <li><a href="/cbnews/20241005/2097853.md" target="_blank">中共企图在没有流血战争的情况下获胜</a></li>
-<li><a href="/cbnews/20241005/2097848.md" target="_blank">〖红朝浮世绘〗习近平说好的不输出贫穷与饥饿的 怎么反倒到处输出诈骗了？</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20241006/2098104.md" target="_blank">全球最狠女车主！把车钥匙装进自己手臂…</a></li>
+<li><a href="/topimagenews/20241006/2098103.md" target="_blank">73吨炸弹倾泄！传真主党新领导萨菲丁死亡</a></li>
+<li><a href="/topimagenews/20241006/2098101.md" target="_blank">重磅贺电总算来了，中共党媒郑重展示</a></li>
 <li><a href="/topimagenews/20241006/2098087.md" target="_blank">国新办发布央行重磅政策，10万真金白银给百姓？任内首次出台这份重要文件，他们令习忧心</a></li>
 <li><a href="/topimagenews/20241006/2098079.md" target="_blank">中共国庆旧金山游行美警开道 参议员致词! 五毛兴奋高喊美国“顺从”了</a></li>
 <li><a href="/topimagenews/20241005/2098027.md" target="_blank">贺锦丽晤阿拉伯裔领袖挽回不满美国支持以色列选民</a></li>
@@ -88,15 +91,13 @@
 <li><a href="/topimagenews/20241004/2097443.md" target="_blank">拜习将通话 供国内观众观赏</a></li>
 <li><a href="/topimagenews/20241004/2097435.md" target="_blank">重演史诗级飙涨与破裂？中国股灾加速酝酿</a></li>
 <li><a href="/topimagenews/20241004/2097434.md" target="_blank">【微博精粹】独裁国家是用来颠覆的</a></li>
-<li><a href="/topimagenews/20241004/2097433.md" target="_blank">“新疆四美”之一被送习亲信外加澳洲豪宅？佟丽娅突冲热搜榜首【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20241004/2097432.md" target="_blank">抓到了！摩尔多瓦发现俄罗斯拿1500 万美元买10 万张选票</a></li>
-<li><a href="/topimagenews/20241004/2097431.md" target="_blank">全红婵铜像曝光 竟长了肚脐眼</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20241006/2098106.md" target="_blank">两件小事令人细思极恐！群众斗群众越来越厉害了</a></li>
 <li><a href="/comments/20241006/2098065.md" target="_blank">【“小学没毕业，都是文盲加流氓”？】</a></li>
 <li><a href="/comments/20241006/2098044.md" target="_blank">中国人为什麽不能用推特、脸书？华春盈发推文 墙内网民集体跑出来给他点赞</a></li>
 <li><a href="/comments/20241005/2098039.md" target="_blank">天亮时分：北京下一步刺激措施，重点关注四个领域。</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20241005/2097854.md" target="_blank">施卫江 &#8211; 中国当代政治宣传画所传达的政治文化意蕴</a></li>
 <li><a href="/comments/20241005/2097843.md" target="_blank">共产党是集体领导？习近平是最大鸽派？——台大哲学系教授苑举正的胡说八道</a></li>
 <li><a href="/comments/20241005/2097839.md" target="_blank">天亮时分：习近平出现权力动摇迹象；乱用虎狼药，野村警告中共股市或崩盘；中情局招募线人，跟美国这个法案有关（政论天下第1420集 20241004）天亮时分</a></li>
-<li><a href="/comments/20241005/2097822.md" target="_blank">王五四：爱在深秋</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20190220/1083672.md" target="_blank">胡平：法轮功与其他一些宗教或信仰之比较</a></li>
+<li><a href="/comments/20240825/2079044.md" target="_blank">谁是创世主</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
 <li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20231220/1976789.md" target="_blank">大陆医生曝：九价HPV疫苗导致怀孕能力下降40%</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/tculture/20240904/2083774.md" target="_blank">“几生修得到梅花”之生命品格浅议</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/sohnews/20240923/2092493.md" target="_blank">布兰登‧比格斯第一次见到神（三）：他们被置入了一个芯片 瞬间仿佛灵魂出窍</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
-<li><a href="/tculture/20120628/34899.md" target="_blank">有神无神，只消一例便可敲定</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/cbnews/20240902/2082501.md" target="_blank">中元节祭祖有没有效果呢？那边真的可以收到纸钱吗？</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20240921/2091850.md" target="_blank">冥府阎王的阴差 吴玉华视频访谈，活人做阴差 当代真实案例</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
 
 </ul>
 </div>
