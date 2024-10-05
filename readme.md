@@ -5,14 +5,12 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/baitai/20241005/2097690.md">省政府副秘书长的性爱日记写到136页…</a></li>
 <li><a href="/sohnews/20241005/2097747.md">习近平现怪异的表现？习近平</a></li>
 <li><a href="/baitai/20241005/2097728.md">查办薄熙来案的他，也被查入狱，事发后一夜白头</a></li>
 <li><a href="/sohnews/20241005/2097794.md">政治老人联手军方发动政变，习近平大势已去！十一酒会座次玄机大，习已被夺权！三中全会习近平突发中风昏迷，宫廷政变随即上演！中共高层波谲云诡，历史巨变近在眼前！‘新闻最嘲点 姜光宇’2024.1004</a></li>
-<li><a href="/cbnews/20241005/2097935.md">中南海宴会不寻常 习当元老面罕见放话引关注</a></li>
 <li><a href="/cbnews/20241005/2097786.md">传福建省医保局局长坠楼亡 消息被封杀</a></li>
+<li><a href="/cbnews/20241005/2097935.md">中南海宴会不寻常 习当元老面罕见放话引关注</a></li>
 <li><a href="/baitai/20241005/2097742.md">秦刚夫人那年那月</a></li>
-<li><a href="/baitai/20241005/2097688.md">县委书记的受贿清单，无语了</a></li>
 <li><a href="/topimagenews/20241005/2097852.md">以色列这种打法史无前例</a></li>
 <li><a href="/renquan/20241005/2097733.md">知情人：不放任志强，习近平的残暴将载入史册</a></li>
 <li><a href="/sohnews/20241005/2097738.md">“佟丽娅离异单身”成热门话题！习近平甚至都被网友扯进来讨论，到底发生了什么？佟丽娅事件中，是否有一些不同寻常的迹象呢？｜大宇拍案惊奇 live!佟丽娅习近平</a></li>
@@ -25,9 +23,11 @@
 <li><a href="/topimagenews/20241005/2097756.md">北京面临绝境挑战,中共老友突暗示大实话;史诗级飙涨或转为崩盘！中国股灾加速酝酿</a></li>
 <li><a href="/topimagenews/20241005/2097816.md">川普：“这是我听过的最疯狂的事情“</a></li>
 <li><a href="/ccpdope/20241005/2097941.md">任志强女儿求救信发酵 王岐山等大佬疑被内控</a></li>
-<li><a href="/topimagenews/20241005/2097840.md">重磅！中共运作黑幕撕开 233名中共海外代理人曝光</a></li>
 <li><a href="/baitai/20241005/2098020.md">「新疆第一美」突登热搜 曾传被习近平染指</a></li>
+<li><a href="/topimagenews/20241005/2097840.md">重磅！中共运作黑幕撕开 233名中共海外代理人曝光</a></li>
 <li><a href="/cbnews/20241005/2097848.md">〖红朝浮世绘〗习近平说好的不输出贫穷与饥饿的 怎么反倒到处输出诈骗了？</a></li>
+<li><a href="/cbnews/20241005/2097883.md">18岁少女接替，共和党已经开始世袭制了？</a></li>
+<li><a href="/finance/20241005/2097761.md">第一省会，房价破“3”了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cnnews/20221211/1822144.md" target="_blank">盖盖冲马桶很可怕！瞬间“病毒炸开”？</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/cbnews/20240715/2062387.md" target="_blank">尧帝治世之道（一）</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
-<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/lifebaike/20180529/949787.md" target="_blank">无神论是最大的迷信（下）：科学家大多是有神论</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/comments/20240126/1992876.md" target="_blank">内幕：中国留学生里女生打男生和男生打女一样普遍</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20190213/1080251.md" target="_blank">胡平：法轮功为何反对自杀？</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/cbnews/20240902/2082501.md" target="_blank">中元节祭祖有没有效果呢？那边真的可以收到纸钱吗？</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
 
 </ul>
 </div>
