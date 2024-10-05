@@ -9,12 +9,9 @@
 <li><a href="/sohnews/20241005/2097794.md">政治老人联手军方发动政变，习近平大势已去！十一酒会座次玄机大，习已被夺权！三中全会习近平突发中风昏迷，宫廷政变随即上演！中共高层波谲云诡，历史巨变近在眼前！‘新闻最嘲点 姜光宇’2024.1004</a></li>
 <li><a href="/cbnews/20241005/2097786.md">传福建省医保局局长坠楼亡 消息被封杀</a></li>
 <li><a href="/cbnews/20241005/2097935.md">中南海宴会不寻常 习当元老面罕见放话引关注</a></li>
-<li><a href="/baitai/20241005/2097742.md">秦刚夫人那年那月</a></li>
 <li><a href="/topimagenews/20241005/2097852.md">以色列这种打法史无前例</a></li>
-<li><a href="/renquan/20241005/2097733.md">知情人：不放任志强，习近平的残暴将载入史册</a></li>
-<li><a href="/sohnews/20241005/2097738.md">“佟丽娅离异单身”成热门话题！习近平甚至都被网友扯进来讨论，到底发生了什么？佟丽娅事件中，是否有一些不同寻常的迹象呢？｜大宇拍案惊奇 live!佟丽娅习近平</a></li>
-<li><a href="/cbnews/20241005/2097971.md">中共中央保密局局长被赶出中南海的内幕</a></li>
 <li><a href="/sohnews/20241005/2097913.md">习近平在北戴河会议上的检讨书公开，习在军中的头号打手被调到长沙管招生，上海民众聚集喊出打倒共产党。《老灯开讲第686期》</a></li>
+<li><a href="/cbnews/20241005/2097971.md">中共中央保密局局长被赶出中南海的内幕</a></li>
 <li><a href="/baitai/20241005/2098020.md">「新疆第一美」突登热搜 曾传被习近平染指</a></li>
 <li><a href="/topimagenews/20241005/2097759.md">上海砍人男子多日讨薪未果….218个抖音视频流出</a></li>
 <li><a href="/yule/20241005/2097909.md">香港第一美人石慧真绝色 李嘉欣在她面前不够看</a></li>
@@ -28,6 +25,9 @@
 <li><a href="/cbnews/20241005/2097848.md">〖红朝浮世绘〗习近平说好的不输出贫穷与饥饿的 怎么反倒到处输出诈骗了？</a></li>
 <li><a href="/finance/20241005/2097761.md">第一省会，房价破“3”了</a></li>
 <li><a href="/comments/20241005/2097982.md">你可能再也不会在主流媒体上看到万斯了！万斯Vance</a></li>
+<li><a href="/cbnews/20241005/2097801.md">传王思聪出售上海茂名公馆豪宅 内景被曝</a></li>
+<li><a href="/topimagenews/20241005/2097851.md">中共“突然吸毒提神”</a></li>
+<li><a href="/ssgc/20241005/2097832.md">〖微博谈〗有点毛骨悚然</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20241006/2098080.md" target="_blank">赖清德再出手 习近平中共完全无法招架【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20241006/2098069.md" target="_blank">江峰：从毛泽东到习近平也不长记性，倒霉就在对苏俄一边倒</a></li>
 <li><a href="/cbnews/20241006/2098068.md" target="_blank">江峰：新华社给法国贺电加料捧习，这下尴尬了</a></li>
 <li><a href="/comments/20241005/2098029.md" target="_blank">Hill民调，选盘为历史仅见的完全五五波，你相信吗？｜选情｜2024美国大选｜方伟时间 10.05.2024</a></li>
@@ -59,13 +60,13 @@
 <li><a href="/cbnews/20241005/2097853.md" target="_blank">中共企图在没有流血战争的情况下获胜</a></li>
 <li><a href="/cbnews/20241005/2097848.md" target="_blank">〖红朝浮世绘〗习近平说好的不输出贫穷与饥饿的 怎么反倒到处输出诈骗了？</a></li>
 <li><a href="/cbnews/20241005/2097818.md" target="_blank">男子穿木屐撑纸伞游西湖遭围攻 舆论反弹</a></li>
-<li><a href="/comments/20241005/2097813.md" target="_blank">永不川普官员为川普辩护，自由派主持人惊慌失措！史密斯公开川普起诉书，揭反常背后的黑幕。川普美国大选史密斯</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20241006/2098079.md" target="_blank">中共国庆旧金山游行美警开道 参议员致词! 五毛兴奋高喊美国“顺从”了</a></li>
 <li><a href="/topimagenews/20241005/2098027.md" target="_blank">贺锦丽晤阿拉伯裔领袖挽回不满美国支持以色列选民</a></li>
 <li><a href="/topimagenews/20241005/2097988.md" target="_blank">伊朗大规模导弹空袭 以一空军基地出现33弹坑 专家 : 以军防御系统面临挑战</a></li>
 <li><a href="/topimagenews/20241005/2097917.md" target="_blank">中共国庆当天国际抓共谍! 瑞典公布“17人名单”、德国抓一情报份子</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20241004/2097432.md" target="_blank">抓到了！摩尔多瓦发现俄罗斯拿1500 万美元买10 万张选票</a></li>
 <li><a href="/topimagenews/20241004/2097431.md" target="_blank">全红婵铜像曝光 竟长了肚脐眼</a></li>
 <li><a href="/topimagenews/20241004/2097381.md" target="_blank">任志强女儿向习近平发出公开信全文</a></li>
-<li><a href="/topimagenews/20241004/2097360.md" target="_blank">惊呆世界！以特工多狂？伊前总统：反摩萨德组织领导和特工全是以特工</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190214/1080789.md" target="_blank">胡平：天安门自焚和人民圣殿教</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/sohnews/20240924/2093135.md" target="_blank">布兰登·比格斯：神让我穿越回过去 改变人生 然后我发现……</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/cnnews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/tculture/20240904/2083774.md" target="_blank">“几生修得到梅花”之生命品格浅议</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20231130/1967587.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （一）</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
 <li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
 
 </ul>
 </div>
