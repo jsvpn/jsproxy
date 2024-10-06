@@ -11,23 +11,23 @@
 <li><a href="/cbnews/20241005/2097971.md">中共中央保密局局长被赶出中南海的内幕</a></li>
 <li><a href="/yule/20241005/2097909.md">香港第一美人石慧真绝色 李嘉欣在她面前不够看</a></li>
 <li><a href="/baitai/20241005/2098020.md">「新疆第一美」突登热搜 曾传被习近平染指</a></li>
-<li><a href="/baitai/20241005/2097830.md">中南海风云诡谲 习权力疑似被削弱</a></li>
 <li><a href="/topimagenews/20241005/2097840.md">重磅！中共运作黑幕撕开 233名中共海外代理人曝光</a></li>
-<li><a href="/cbnews/20241005/2097883.md">18岁少女接替，共和党已经开始世袭制了？</a></li>
 <li><a href="/ccpdope/20241005/2097941.md">任志强女儿求救信发酵 王岐山等大佬疑被内控</a></li>
-<li><a href="/ccpdope/20241006/2098057.md">经济全面陷入困境 习班子走入死胡同</a></li>
+<li><a href="/cbnews/20241005/2097883.md">18岁少女接替，共和党已经开始世袭制了？</a></li>
 <li><a href="/cbnews/20241005/2097848.md">〖红朝浮世绘〗习近平说好的不输出贫穷与饥饿的 怎么反倒到处输出诈骗了？</a></li>
-<li><a href="/comments/20241005/2097982.md">你可能再也不会在主流媒体上看到万斯了！万斯Vance</a></li>
+<li><a href="/ccpdope/20241006/2098057.md">经济全面陷入困境 习班子走入死胡同</a></li>
 <li><a href="/cbnews/20241006/2098088.md">“我过生日奶奶给了1.8亿” 中共红后代炫富爆火</a></li>
+<li><a href="/comments/20241005/2097982.md">你可能再也不会在主流媒体上看到万斯了！万斯Vance</a></li>
 <li><a href="/topimagenews/20241005/2097851.md">中共“突然吸毒提神”</a></li>
-<li><a href="/ssgc/20241005/2097832.md">〖微博谈〗有点毛骨悚然</a></li>
 <li><a href="/ccpdope/20241005/2098025.md">为让任志强「服软」 中共使了这「绝招」</a></li>
 <li><a href="/cnnews/20241005/2097896.md">贪官出狱后的生活质量如何？简直乐无边</a></li>
+<li><a href="/topimagenews/20241005/2097917.md">中共国庆当天国际抓共谍! 瑞典公布“17人名单”、德国抓一情报份子</a></li>
 <li><a href="/topimagenews/20241005/2097988.md">伊朗大规模导弹空袭 以一空军基地出现33弹坑 专家 : 以军防御系统面临挑战</a></li>
 <li><a href="/cbnews/20241005/2097936.md">“中共国已做好战争准备，美国却没跟上”</a></li>
-<li><a href="/topimagenews/20241005/2097917.md">中共国庆当天国际抓共谍! 瑞典公布“17人名单”、德国抓一情报份子</a></li>
 <li><a href="/sohnews/20241005/2097974.md">陈破空：谁的动作？习军中爱将遭悄悄调离！习亲信绯闻再冲热搜。上海爆发警民对抗。瑞典锁定17名共谍。美以重击胡塞武装。直播与互动：美东时间10月5日早9点、中港台当晚9点</a></li>
 <li><a href="/cbnews/20241005/2097875.md">车停山路中心致堵塞 车主旁若无人路边野餐</a></li>
+<li><a href="/baitai/20241005/2097952.md">经常说这4句话的人，痴呆倾向高于同龄人</a></li>
+<li><a href="/cbnews/20241005/2098003.md">“五毛党”升级换代 体制内知情人爆内幕</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20241006/2098141.md" target="_blank">诡异 北京顾不得羞辱了！大事已经发生？白宫或掌握情报</a></li>
+<li><a href="/cbnews/20241006/2098140.md" target="_blank">湖南醴陵发生“连环爆炸”</a></li>
+<li><a href="/comments/20241006/2098139.md" target="_blank">【杰森视角】中国股市疯了！什么人能成为此次中国财富大洗牌的赢家？中共把股市刺激疯想干啥？习近平焦虑，逼潘功胜豪赌！土地财政已死，股票财政诞生？投资成功的关键是定力而非智力！巴菲特为何逃离中国？</a></li>
 <li><a href="/cbnews/20241006/2098127.md" target="_blank">“史上最惨十一” 中国多地工厂老板趁长假卖设备跑路</a></li>
 <li><a href="/comments/20241006/2098111.md" target="_blank">传奇国军将领，入中共监狱26年拒写悔过书；曾跟林彪打架；出狱后一无所有，开始认清“革命”本质 ｜文贯中谈父亲 （上）｜方菲时间</a></li>
 <li><a href="/cbnews/20241006/2098105.md" target="_blank">“十一”反共声浪四起 内外因促终结中共政权</a></li>
@@ -57,9 +60,6 @@
 <li><a href="/cbnews/20241005/2097936.md" target="_blank">“中共国已做好战争准备，美国却没跟上”</a></li>
 <li><a href="/cbnews/20241005/2097935.md" target="_blank">中南海宴会不寻常 习当元老面罕见放话引关注</a></li>
 <li><a href="/cbnews/20241005/2097883.md" target="_blank">18岁少女接替，共和党已经开始世袭制了？</a></li>
-<li><a href="/cbnews/20241005/2097876.md" target="_blank">瑞典驻军拉脱维亚 万斯：警惕中共</a></li>
-<li><a href="/cbnews/20241005/2097875.md" target="_blank">车停山路中心致堵塞 车主旁若无人路边野餐</a></li>
-<li><a href="/cbnews/20241005/2097874.md" target="_blank">男子深夜开车撞入邻居家</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20241006/2098139.md" target="_blank">【杰森视角】中国股市疯了！什么人能成为此次中国财富大洗牌的赢家？中共把股市刺激疯想干啥？习近平焦虑，逼潘功胜豪赌！土地财政已死，股票财政诞生？投资成功的关键是定力而非智力！巴菲特为何逃离中国？</a></li>
 <li><a href="/comments/20241006/2098136.md" target="_blank">吴飞：美国宗教自由的内核</a></li>
 <li><a href="/comments/20241006/2098135.md" target="_blank">关凤祥-“砸锅卖铁”与“倾家荡产”</a></li>
 <li><a href="/comments/20241006/2098134.md" target="_blank">孙立平-淡化仇恨：在历史与现实之间建立一种自洽的逻辑</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20241005/2097893.md" target="_blank">巴基斯坦的柑橘，狠狠地打了普京的脸</a></li>
 <li><a href="/comments/20241005/2097867.md" target="_blank">妈宝鸟，不知如何把食物l送到嘴里</a></li>
 <li><a href="/comments/20241005/2097865.md" target="_blank">胡锡进A股发财了？华春莹推销美国产品遭粉红举报？91岁正能量散户PK热舞国货青年？全乱了</a></li>
-<li><a href="/comments/20241005/2097858.md" target="_blank">猫神：一丘之貉，俄罗斯🇷🇺开始混塔利班圈子了</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
-<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
+<li><a href="/comments/20240820/2076940.md" target="_blank">惠虎宇：中华文化为什么是高级文化系统(2)</a></li>
 <li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/cbnews/20231208/1971389.md" target="_blank">话说中医之祝由科</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/lishi/20131130/662544.md" target="_blank">揭开周恩来之谜</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20240808/2071869.md" target="_blank">【新纪元】被误解的大脑</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20190220/1083672.md" target="_blank">胡平：法轮功与其他一些宗教或信仰之比较</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/cbnews/20190701/1151453.md" target="_blank">盘点十大邪教特征 中共条条对号入座</a></li>
 
 </ul>
 </div>
