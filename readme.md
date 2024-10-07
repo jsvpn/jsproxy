@@ -16,8 +16,8 @@
 <li><a href="/baitai/20241007/2098346.md">历史上的四个弥天大谎，现在仍有人深信不疑，如今写入教科书</a></li>
 <li><a href="/topimagenews/20241007/2098429.md">两条线路停运！东北第一省会，难了</a></li>
 <li><a href="/topimagenews/20241007/2098393.md">诡异！贺照都没了 中朝关系生变？</a></li>
-<li><a href="/ccpdope/20241007/2098440.md">新传闻再起 中南海到底发生了什么？</a></li>
 <li><a href="/topimagenews/20241007/2098496.md">太可怕了！在中国，这就是你每天2块钱1杯买的豆浆</a></li>
+<li><a href="/ccpdope/20241007/2098440.md">新传闻再起 中南海到底发生了什么？</a></li>
 <li><a href="/ssgc/20241007/2098439.md">〖微博谈〗一个正牌小学毕业，一个哈佛毕业</a></li>
 <li><a href="/topimagenews/20241007/2098445.md">长城上的这一幕，令人心惊胆战</a></li>
 <li><a href="/topimagenews/20241007/2098478.md">生怕有人把自家导弹打到中南海 中共军委不放心</a></li>
@@ -27,7 +27,7 @@
 <li><a href="/cnnews/20241006/2098329.md">中国游客入境日本被疯狂开箱！有人现场开吃…</a></li>
 <li><a href="/cnnews/20241007/2098404.md">北京地铁“站”，又从 Zhan 改回 Station …</a></li>
 <li><a href="/yule/20241007/2098353.md">28张照片告诉你，赌王三太有多美</a></li>
-<li><a href="/topimagenews/20241007/2098402.md">有的官员在被抽掉鞋带和皮带后，一下就崩溃了…</a></li>
+<li><a href="/cbnews/20241007/2098560.md">中南海发生大事？温家宝高调现身引猜测</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20241007/2098622.md" target="_blank">周二晚副总统辩论的最大输家究竟是谁？</a></li>
+<li><a href="/comments/20241007/2098617.md" target="_blank">川普儿子儿媳感人演讲。严厉警告作弊者。最后宾州小伙演讲太惊艳！川普劳拉埃里克</a></li>
 <li><a href="/cbnews/20241007/2098583.md" target="_blank">动物外交走到尽头？日人接连在中国遇刺 日本送还中国朱鹭与大熊猫</a></li>
 <li><a href="/cbnews/20241007/2098582.md" target="_blank">打捞中国洲际导弹弹头残骸？新西兰海军水道测量船搁浅沉没</a></li>
 <li><a href="/cbnews/20241007/2098581.md" target="_blank">不输海豹与绿扁帽! 美空军特种战术中队 空降、潜水、地面作战样样来</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20241007/2098417.md" target="_blank">后续更爆炸信息！红四代炫 过生日奶奶给1.8亿</a></li>
 <li><a href="/comments/20241006/2098333.md" target="_blank">川普重返Butler，马斯克同台，说重话！｜选情｜2024美国大选｜方伟时间 10.06.2024</a></li>
 <li><a href="/cbnews/20241006/2098321.md" target="_blank">国航波音客机飞行中返航 驾驶室玻璃窗开裂</a></li>
-<li><a href="/comments/20241006/2098291.md" target="_blank">川普重返宾州巴特勒 将与马斯克同台</a></li>
-<li><a href="/comments/20241006/2098290.md" target="_blank">中国大妈未经许可街头摆摊被罚 当众撕毁1000美元罚单</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20241007/2098622.md" target="_blank">周二晚副总统辩论的最大输家究竟是谁？</a></li>
+<li><a href="/comments/20241007/2098621.md" target="_blank">赖清德：中共国不可能是祖国！113岁＞75岁🎉赖总统给习近平补数学！中华民国台湾国庆总统演讲</a></li>
+<li><a href="/comments/20241007/2098617.md" target="_blank">川普儿子儿媳感人演讲。严厉警告作弊者。最后宾州小伙演讲太惊艳！川普劳拉埃里克</a></li>
 <li><a href="/comments/20241007/2098568.md" target="_blank">【移居桃花源系列专题：作家何三坡】【移居泰国 寻觅自由创作空间】</a></li>
 <li><a href="/comments/20241007/2098559.md" target="_blank">天亮时分：雄安新区依然空荡如鬼城？#习近平 #雄安新区</a></li>
 <li><a href="/comments/20241007/2098543.md" target="_blank">不要跟小粉红拼拳，尝可以试“戳他痛处”</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20241007/2098465.md" target="_blank">赖清德给习近平补数学课：113＞75！余茂春加入：习共太虚荣！中共拒任志强保释；内塔尼亚胡：真主党无人敢当总书记</a></li>
 <li><a href="/comments/20241007/2098463.md" target="_blank">川普宾州吹响号角，马斯克助阵，两巨头联手意义非法。选民登记发生巨变，红色浪潮掀翻拜登家乡宾州？川普马斯克宾州</a></li>
 <li><a href="/comments/20241007/2098454.md" target="_blank">煞费苦心，真是难为哈梅内伊了</a></li>
-<li><a href="/comments/20241007/2098453.md" target="_blank">半世纪恩怨: 以色列和真主党较量始末</a></li>
-<li><a href="/comments/20241007/2098452.md" target="_blank">肯尼迪那句被传的最广、误会最深的“名言”</a></li>
-<li><a href="/comments/20241007/2098451.md" target="_blank">伊朗与以色列的关系曾经有多铁？以色列曾经帮伊朗研发武器</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
-<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20241004/2097641.md" target="_blank">李连杰谈气功特异功能-灵魂出窍-亲身见证穿墙术</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20240318/2014289.md" target="_blank">唐柏桥：民运同仁突然向法轮功开火是怎么回事？</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/sohnews/20240908/2085761.md" target="_blank">初次见到神；看到兽的印记；目睹灾难来临时什么样的人会被留下</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/comments/20240820/2076774.md" target="_blank">胡平：批判法轮功的人,为何不用同样标准分析其他宗教</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/cnnews/20150914/449521.md" target="_blank">无神论和有神论，乡下老太太驳倒三个博士</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
 <li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20210819/1609103.md" target="_blank">浅谈中医与西医的不同之处</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20240623/2053092.md" target="_blank">章天亮：那些行于世间的觉者</a></li>
+<li><a href="/sohnews/20240923/2092491.md" target="_blank">布兰登比格斯曾听到两位天使的对话，对他震动很大&#8230;&#8230;</a></li>
+<li><a href="/cbnews/20231208/1971389.md" target="_blank">话说中医之祝由科</a></li>
 
 </ul>
 </div>
