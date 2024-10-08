@@ -8,24 +8,24 @@
 <li><a href="/sohnews/20241008/2098778.md">习近平对中办副主任孔绍逊说：锦涛同志已经违法党的纪律了</a></li>
 <li><a href="/ccpdope/20241007/2098649.md">中南海党政军反扑 习政权危险</a></li>
 <li><a href="/baitai/20241007/2098646.md">政变迹象不断 中共时局不对劲</a></li>
-<li><a href="/topimagenews/20241008/2098932.md">为了这波牛市，上面又干了两件大事</a></li>
 <li><a href="/cbnews/20241008/2098808.md">凶多吉少！大清洗标志性事件 胡锦涛提拔的他下属遭一窝端</a></li>
+<li><a href="/topimagenews/20241008/2098932.md">为了这波牛市，上面又干了两件大事</a></li>
 <li><a href="/topimagenews/20241008/2098824.md">中共惊慌失措！隐瞒4个月被美踢爆 超越卫星判定</a></li>
 <li><a href="/topimagenews/20241008/2098931.md">开盘了！最后一次疯狂作死</a></li>
 <li><a href="/ccpdope/20241008/2098804.md">反习派从中层敲掉习亲信 令习无力反扑</a></li>
+<li><a href="/worldnews/20241007/2098664.md">墨西哥市长就职6天遭斩首 断头“放车顶上”</a></li>
+<li><a href="/sohnews/20241008/2098991.md">蔡慎坤：胡锦涛被架走细节曝光｜中共大佬众生相｜</a></li>
 <li><a href="/comments/20241008/2098942.md">党媒故意泄露元老政变细节！温家宝李瑞环惊现宋徽宗名画《瑞鹤图》？习近平的好日子刚刚开始…</a></li>
 <li><a href="/topimagenews/20241007/2098719.md">灰色地带极大化！官员曝习近平踩各国红线 “两策略”曝</a></li>
-<li><a href="/worldnews/20241007/2098664.md">墨西哥市长就职6天遭斩首 断头“放车顶上”</a></li>
-<li><a href="/topimagenews/20241008/2098880.md">中国团刚到机场就爆炸</a></li>
 <li><a href="/sohnews/20241008/2098767.md">“北京公安局声明 直白习近平对任志强之残暴 妒忌之恶 心胸之贱”《今日点击》（10 07 24）</a></li>
+<li><a href="/topimagenews/20241008/2098880.md">中国团刚到机场就爆炸</a></li>
 <li><a href="/cnnews/20241008/2098864.md">黄山的尴尬：1700间客房空着 游客都在厕所过夜</a></li>
-<li><a href="/sohnews/20241008/2098991.md">蔡慎坤：胡锦涛被架走细节曝光｜中共大佬众生相｜</a></li>
 <li><a href="/headline/20241008/2098781.md">中国扩大出境限制 强化思想管控还是防止资金人员外逃？</a></li>
 <li><a href="/cbnews/20241008/2098939.md">中南海的噩梦来了</a></li>
 <li><a href="/topimagenews/20241008/2098847.md">私藏重要证件，中国美女老板遭美警方重新关押</a></li>
 <li><a href="/topimagenews/20241008/2098881.md">“战争”早已开始，而且是北京挑起的</a></li>
-<li><a href="/cbnews/20241008/2098912.md">〖红朝浮世绘〗党员就是不一样，不该认识的绝不认识</a></li>
 <li><a href="/topimagenews/20241008/2098886.md">伊朗王朝流亡王子发表将变革宣言！携手以色列？</a></li>
+<li><a href="/cbnews/20241008/2098912.md">〖红朝浮世绘〗党员就是不一样，不该认识的绝不认识</a></li>
 <li><a href="/baitai/20241008/2098803.md">「十一」长假最后一天 习近平连打4「虎」</a></li>
 <li><a href="/topimagenews/20241008/2098801.md">带来噩梦！10万亿大放水，进谁腰包？两条线路停运！东北第一省会，难了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
-<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
-<li><a href="/tculture/20231202/1968819.md" target="_blank">六道轮回之天神道</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20231130/1967587.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （一）</a></li>
+<li><a href="/comments/20240820/2076928.md" target="_blank">惠虎宇：中华文化为什么是高级文化系统(1)</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/comments/20240623/2053092.md" target="_blank">章天亮：那些行于世间的觉者</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/sohnews/20240923/2092493.md" target="_blank">布兰登‧比格斯第一次见到神（三）：他们被置入了一个芯片 瞬间仿佛灵魂出窍</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
 
 </ul>
 </div>
