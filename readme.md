@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/tculture/20240815/2074891.md" target="_blank">松果体 谜一样的器官</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20231204/1969287.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （三）</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/lifebaike/20180529/949787.md" target="_blank">无神论是最大的迷信（下）：科学家大多是有神论</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/tculture/20231217/1975364.md" target="_blank">医山夜话：张锡纯医案解读（1）根治失眠 思路清晰</a></li>
+<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
+<li><a href="/comments/20190701/1151501.md" target="_blank">【特稿】中国共产党是邪教组织</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
 
 </ul>
 </div>
