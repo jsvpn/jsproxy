@@ -14,20 +14,20 @@
 <li><a href="/topimagenews/20241008/2098824.md">中共惊慌失措！隐瞒4个月被美踢爆 超越卫星判定</a></li>
 <li><a href="/baitai/20241007/2098646.md">政变迹象不断 中共时局不对劲</a></li>
 <li><a href="/cbnews/20241008/2098808.md">凶多吉少！大清洗标志性事件 胡锦涛提拔的他下属遭一窝端</a></li>
-<li><a href="/headline/20241007/2098628.md">中国扩大教师出境限制 上缴护照不可接触「外国敌对势力」</a></li>
 <li><a href="/topimagenews/20241007/2098719.md">灰色地带极大化！官员曝习近平踩各国红线 “两策略”曝</a></li>
-<li><a href="/ccpdope/20241008/2098804.md">反习派从中层敲掉习亲信 令习无力反扑</a></li>
+<li><a href="/headline/20241007/2098628.md">中国扩大教师出境限制 上缴护照不可接触「外国敌对势力」</a></li>
 <li><a href="/baitai/20241007/2098595.md">赖清德「祖国说」不断发酵 遭中共快速封杀</a></li>
-<li><a href="/headline/20241008/2098781.md">中国扩大出境限制 强化思想管控还是防止资金人员外逃？</a></li>
+<li><a href="/ccpdope/20241008/2098804.md">反习派从中层敲掉习亲信 令习无力反扑</a></li>
+<li><a href="/topimagenews/20241008/2098932.md">为了这波牛市，上面又干了两件大事</a></li>
 <li><a href="/worldnews/20241007/2098664.md">墨西哥市长就职6天遭斩首 断头“放车顶上”</a></li>
+<li><a href="/headline/20241008/2098781.md">中国扩大出境限制 强化思想管控还是防止资金人员外逃？</a></li>
+<li><a href="/cnnews/20241008/2098864.md">黄山的尴尬：1700间客房空着 游客都在厕所过夜</a></li>
 <li><a href="/sohnews/20241008/2098767.md">“北京公安局声明 直白习近平对任志强之残暴 妒忌之恶 心胸之贱”《今日点击》（10 07 24）</a></li>
 <li><a href="/topimagenews/20241008/2098801.md">带来噩梦！10万亿大放水，进谁腰包？两条线路停运！东北第一省会，难了</a></li>
 <li><a href="/lifebaike/20241007/2098552.md">每吃一次，大脑萎缩快一步！这种食物或加速大脑衰退，不想老来痴呆，要管住嘴</a></li>
+<li><a href="/topimagenews/20241008/2098880.md">中国团刚到机场就爆炸</a></li>
 <li><a href="/baitai/20241008/2098803.md">「十一」长假最后一天 习近平连打4「虎」</a></li>
 <li><a href="/sohnews/20241007/2098569.md">🔥🔥帕克最新预言:习近平发动台湾战争 中国经济彻底崩溃❗时间就在这两个月❓(下集)</a></li>
-<li><a href="/cnnews/20241008/2098864.md">黄山的尴尬：1700间客房空着 游客都在厕所过夜</a></li>
-<li><a href="/headline/20241007/2098623.md">FT：中国要求学校教师上交护照</a></li>
-<li><a href="/worldnews/20241008/2098809.md">慎入！墨市长上任6天遭斩首 头颅放车顶示众</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20241008/2098982.md" target="_blank">美国会动用武力支持台湾吗？贺锦丽这样回应</a></li>
+<li><a href="/cbnews/20241008/2098981.md" target="_blank">河南村妇如厕跌入茅坑溺毙 引社会关切</a></li>
 <li><a href="/comments/20241008/2098978.md" target="_blank">音乐欣赏-引子与回旋随想曲</a></li>
 <li><a href="/cbnews/20241008/2098955.md" target="_blank">江峰：习近平刺激政策竟是温家宝手笔！胡温国师贾康重现江湖，三大战区换将，习近平军中人马被反清洗，中南海已洗牌。真主党总书记没人敢当，领袖退党的启示【江峰漫谈20241007第949期】</a></li>
 <li><a href="/cbnews/20241008/2098944.md" target="_blank">中共逼老师公务员交护照 分析：凸显执政危机</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20241007/2098694.md" target="_blank">刀郎广州演唱会观众太多 三大通讯商网络瘫痪</a></li>
 <li><a href="/comments/20241007/2098665.md" target="_blank">为什么内布拉斯加第二选区的选举人票可能定乾坤！｜选情｜2024美国大选｜方伟时间 10.07.2024</a></li>
 <li><a href="/cbnews/20241007/2098657.md" target="_blank">网传辽宁一中学主任多次强奸学生</a></li>
-<li><a href="/cbnews/20241007/2098656.md" target="_blank">重庆女深夜穿“僵尸服”回家 吓坏邻居</a></li>
-<li><a href="/cbnews/20241007/2098655.md" target="_blank">又见民众杀官! 湖南益阳官员家中突发爆炸 官员杀人案也爆量</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20190701/1151453.md" target="_blank">盘点十大邪教特征 中共条条对号入座</a></li>
-<li><a href="/sohnews/20240908/2085761.md" target="_blank">初次见到神；看到兽的印记；目睹灾难来临时什么样的人会被留下</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/lifebaike/20180527/948531.md" target="_blank">无神论是最大的迷信（上）：科学无法证实神不存在</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
-<li><a href="/sohnews/20240923/2092495.md" target="_blank">布兰登‧比格斯第一次见到神：有人升空 有人在追捕牧师</a></li>
-<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20240721/2065039.md" target="_blank">王建勋：川普主义是雅各宾主义的克星</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
+<li><a href="/taiwannews/20210119/1470524.md" target="_blank">纪录片《蚕食美国1》</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20190220/1083672.md" target="_blank">胡平：法轮功与其他一些宗教或信仰之比较</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20240825/2079044.md" target="_blank">谁是创世主</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/tculture/20240916/2089420.md" target="_blank">诗人苏轼与黄庭坚的生命轮回</a></li>
+<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/sohnews/20240923/2092493.md" target="_blank">布兰登‧比格斯第一次见到神（三）：他们被置入了一个芯片 瞬间仿佛灵魂出窍</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
 
 </ul>
 </div>
