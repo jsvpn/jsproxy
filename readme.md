@@ -12,22 +12,22 @@
 <li><a href="/sohnews/20241008/2098991.md">蔡慎坤：胡锦涛被架走细节曝光｜中共大佬众生相｜</a></li>
 <li><a href="/topimagenews/20241008/2098931.md">开盘了！最后一次疯狂作死</a></li>
 <li><a href="/ccpdope/20241008/2098804.md">反习派从中层敲掉习亲信 令习无力反扑</a></li>
-<li><a href="/worldnews/20241007/2098664.md">墨西哥市长就职6天遭斩首 断头“放车顶上”</a></li>
 <li><a href="/topimagenews/20241007/2098719.md">灰色地带极大化！官员曝习近平踩各国红线 “两策略”曝</a></li>
 <li><a href="/comments/20241008/2098942.md">党媒故意泄露元老政变细节！温家宝李瑞环惊现宋徽宗名画《瑞鹤图》？习近平的好日子刚刚开始…</a></li>
+<li><a href="/topimagenews/20241008/2099048.md">江派正国级高官吴邦国病亡 家族捞了上百亿</a></li>
 <li><a href="/sohnews/20241008/2098767.md">“北京公安局声明 直白习近平对任志强之残暴 妒忌之恶 心胸之贱”《今日点击》（10 07 24）</a></li>
 <li><a href="/topimagenews/20241008/2098880.md">中国团刚到机场就爆炸</a></li>
 <li><a href="/cnnews/20241008/2098864.md">黄山的尴尬：1700间客房空着 游客都在厕所过夜</a></li>
 <li><a href="/topimagenews/20241008/2099044.md">突发！人民币暴跌</a></li>
 <li><a href="/headline/20241008/2098781.md">中国扩大出境限制 强化思想管控还是防止资金人员外逃？</a></li>
-<li><a href="/topimagenews/20241008/2099048.md">江派正国级高官吴邦国病亡 家族捞了上百亿</a></li>
 <li><a href="/cbnews/20241008/2098939.md">中南海的噩梦来了</a></li>
-<li><a href="/topimagenews/20241008/2098881.md">“战争”早已开始，而且是北京挑起的</a></li>
 <li><a href="/topimagenews/20241008/2098847.md">私藏重要证件，中国美女老板遭美警方重新关押</a></li>
 <li><a href="/topimagenews/20241008/2098886.md">伊朗王朝流亡王子发表将变革宣言！携手以色列？</a></li>
+<li><a href="/topimagenews/20241008/2098881.md">“战争”早已开始，而且是北京挑起的</a></li>
 <li><a href="/cbnews/20241008/2098912.md">〖红朝浮世绘〗党员就是不一样，不该认识的绝不认识</a></li>
 <li><a href="/baitai/20241008/2098803.md">「十一」长假最后一天 习近平连打4「虎」</a></li>
 <li><a href="/topimagenews/20241008/2098801.md">带来噩梦！10万亿大放水，进谁腰包？两条线路停运！东北第一省会，难了</a></li>
+<li><a href="/sohnews/20241008/2098911.md">朱德曾孙朱玺刚20岁，存款和股票220亿。当局辟谣，反爆出1983年被枪毙的不是朱德孙子朱国华，而是替死鬼。朱国华在英国拥有财富3000亿美元。习近平维护的体制，榨干十几亿屁民，让权贵们过奢侈生活。</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20241008/2099122.md" target="_blank">Butler亮相后 马斯克再语出惊人！｜选情｜2024美国大选｜方伟时间 10.08.2024</a></li>
 <li><a href="/comments/20241008/2099051.md" target="_blank">马斯克多管齐下，尽一切努力帮助川普，坦言可能的几种后果。特种部队老兵组建乡巴佬空军，赶走联邦紧急事务管理局。川普马斯克飓风</a></li>
 <li><a href="/cbnews/20241008/2099049.md" target="_blank">河南一直升机撞上高压线坠落 飞行员受伤送医</a></li>
 <li><a href="/comments/20241008/2099038.md" target="_blank">川普精辟解读“社会主义”</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20241008/2098807.md" target="_blank">“反诈”变敲诈 湖南警察昆明机场索要100元买烟钱</a></li>
 <li><a href="/cbnews/20241008/2098806.md" target="_blank">湖南老人住院被乱收费 3天外出还有查房记录</a></li>
 <li><a href="/comments/20241008/2098753.md" target="_blank">万斯是怎样以一敌三vance</a></li>
-<li><a href="/cbnews/20241007/2098720.md" target="_blank">海产店吃活龙虾！她偷折断腿做标记“上菜竟长出来”</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20241008/2099122.md" target="_blank">Butler亮相后 马斯克再语出惊人！｜选情｜2024美国大选｜方伟时间 10.08.2024</a></li>
 <li><a href="/comments/20241008/2099114.md" target="_blank">TikTok 在美国：打不死的小强？｜中共威胁（2）</a></li>
 <li><a href="/comments/20241008/2099076.md" target="_blank">新华社又呛习！历史定位就像宋徽宗，只会&#8230;&#8230;</a></li>
 <li><a href="/comments/20241008/2099051.md" target="_blank">马斯克多管齐下，尽一切努力帮助川普，坦言可能的几种后果。特种部队老兵组建乡巴佬空军，赶走联邦紧急事务管理局。川普马斯克飓风</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20241008/2098856.md" target="_blank">60多亿军火被美摧毁，这一仗让中共惊醒</a></li>
 <li><a href="/comments/20241008/2098854.md" target="_blank">【精华版】文贯中：中共对战犯洗脑，杜聿明，沈醉都是受害者｜方菲时间</a></li>
 <li><a href="/comments/20241008/2098846.md" target="_blank">文昭：赖清德一句话炸锅，把习近平逼到墙角！解放军又出大事；未来有新的台海之战模式</a></li>
-<li><a href="/comments/20241008/2098829.md" target="_blank">【财经拆局】盘点中港股市历次泡沫 人为托市能否拯救实体经济？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/tculture/20231217/1975364.md" target="_blank">医山夜话：张锡纯医案解读（1）根治失眠 思路清晰</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
-<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
-<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/sohnews/20240923/2092492.md" target="_blank">布兰登‧比格斯第一次见到神（四）：神的眼里充满了泪水，对布兰登说：你看到中国了吗？</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20241004/2097641.md" target="_blank">李连杰谈气功特异功能-灵魂出窍-亲身见证穿墙术</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/taiwannews/20210119/1470761.md" target="_blank">独家：震撼纪录片《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/tculture/20240904/2083774.md" target="_blank">“几生修得到梅花”之生命品格浅议</a></li>
+<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/comments/20240808/2071869.md" target="_blank">【新纪元】被误解的大脑</a></li>
+<li><a href="/tculture/20231119/1962827.md" target="_blank">六道轮回之地狱道</a></li>
+<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/sohnews/20240923/2092491.md" target="_blank">布兰登比格斯曾听到两位天使的对话，对他震动很大&#8230;&#8230;</a></li>
+<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
+<li><a href="/comments/20190219/1082706.md" target="_blank">胡平：法轮功信仰自由，江泽民精神控制</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
 
 </ul>
 </div>
