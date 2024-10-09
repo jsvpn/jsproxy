@@ -26,8 +26,8 @@
 <li><a href="/ssgc/20241009/2099320.md">事实查核｜华春莹与女儿在美国生活的合照流出？</a></li>
 <li><a href="/baitai/20241009/2099193.md">永远不要低估穿衣讲究的中国女人</a></li>
 <li><a href="/sohnews/20241009/2099416.md">有戏：温家宝向习近平提出具体的政改建议，七个要素俱全A股走向定了，全会政变现场视频。《老灯开讲第690期》</a></li>
+<li><a href="/sohnews/20241009/2099385.md">微信突发热传 （10 /07/24）</a></li>
 <li><a href="/ssgc/20241009/2099325.md">〖微博谈〗长期的衰退已是必然</a></li>
-<li><a href="/cbnews/20241009/2099218.md">消息：任志强等红二代曾欲藉王岐山改良中共 计划泡汤</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20241009/2099576.md" target="_blank">外卖小哥含泪被女子当街踩头殴打 网热议</a></li>
+<li><a href="/comments/20241009/2099575.md" target="_blank">马斯克捅破窗户纸，飓风米尔顿来袭！｜选情｜2024美国大选｜方伟时间 10.09.2024</a></li>
 <li><a href="/cbnews/20241009/2099548.md" target="_blank">太空核爆隐忧! 若俄爆核弹会怎样？ 专家 : 凯斯勒效应全球恐瘫痪 科技倒退数十年</a></li>
 <li><a href="/cbnews/20241009/2099547.md" target="_blank">解放军打解放军? 多次袭击一带一路中企 巴基斯坦俾路支是什么来头?</a></li>
 <li><a href="/cbnews/20241009/2099546.md" target="_blank">山西一国有粮库逾百人遭欠薪 公司称营收困难</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20241009/2099271.md" target="_blank">被老师推下楼！南昌男童清醒后告诉家长 教育局：监控损坏</a></li>
 <li><a href="/cbnews/20241009/2099256.md" target="_blank">爷孙3人2死1伤 广东阳春血案背后细节曝光</a></li>
 <li><a href="/comments/20241009/2099228.md" target="_blank">人人造而平等？什么是真正的平等？</a></li>
-<li><a href="/cbnews/20241009/2099218.md" target="_blank">消息：任志强等红二代曾欲藉王岐山改良中共 计划泡汤</a></li>
-<li><a href="/cbnews/20241009/2099216.md" target="_blank">江峰：习近平丧失军权迹象愈发清晰 张又侠已控制关键中央警卫局</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20241009/2099575.md" target="_blank">马斯克捅破窗户纸，飓风米尔顿来袭！｜选情｜2024美国大选｜方伟时间 10.09.2024</a></li>
 <li><a href="/comments/20241009/2099532.md" target="_blank">黄明志街访遇见共产党员</a></li>
 <li><a href="/comments/20241009/2099519.md" target="_blank">【直播】中华民国113岁生日 赖清德发表重要演说 （戴忠仁/上官乱/江峰/宋国诚）</a></li>
 <li><a href="/comments/20241009/2099488.md" target="_blank">天亮时分：吴邦国的“三权鼎立”，实际上是在扩权？#吴邦国 #中共</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20241009/2099254.md" target="_blank">天亮时分：美国大选民调，贺锦丽已经处於劣势？#美国大选 #贺锦丽 #川普</a></li>
 <li><a href="/comments/20241009/2099228.md" target="_blank">人人造而平等？什么是真正的平等？</a></li>
 <li><a href="/comments/20241009/2099214.md" target="_blank">【“中国有信心实现今年社会经济发展目标” 你有信心吗？】</a></li>
-<li><a href="/comments/20241009/2099194.md" target="_blank">中国比其他国都更重要⁉️拜登政府对华政策太高看中共了！余茂春教授读了习近平的心吗？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20240703/2057730.md" target="_blank">百年梦醒（十七）：马克思的连环计、出卖灵魂</a></li>
-<li><a href="/tculture/20190708/1154978.md" target="_blank">揭开“神用泥土造人”的秘密</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/cnnews/20150914/449521.md" target="_blank">无神论和有神论，乡下老太太驳倒三个博士</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20240820/2076958.md" target="_blank">惠虎宇：中华文化为什么是高级文化系统(3)</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
+<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20231130/1967587.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （一）</a></li>
+<li><a href="/comments/20231201/1968320.md" target="_blank">【非凡新闻】结合中西文化精神 美国神韵表演吸睛</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
 
 </ul>
 </div>
