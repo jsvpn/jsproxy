@@ -10,24 +10,24 @@
 <li><a href="/topimagenews/20241008/2099044.md">突发！人民币暴跌</a></li>
 <li><a href="/topimagenews/20241008/2098932.md">为了这波牛市，上面又干了两件大事</a></li>
 <li><a href="/comments/20241008/2098942.md">党媒故意泄露元老政变细节！温家宝李瑞环惊现宋徽宗名画《瑞鹤图》？习近平的好日子刚刚开始…</a></li>
-<li><a href="/sohnews/20241008/2099086.md">文睿：吴邦国，死了</a></li>
-<li><a href="/cnnews/20241008/2098864.md">黄山的尴尬：1700间客房空着 游客都在厕所过夜</a></li>
 <li><a href="/topimagenews/20241008/2098931.md">开盘了！最后一次疯狂作死</a></li>
+<li><a href="/sohnews/20241008/2099086.md">文睿：吴邦国，死了</a></li>
 <li><a href="/topimagenews/20241008/2098880.md">中国团刚到机场就爆炸</a></li>
 <li><a href="/baitai/20241008/2099008.md">市公安局副局长陈鹏，已被纪委带走</a></li>
 <li><a href="/headline/20241008/2099088.md">习近平终向元老屈服 仿效「温家宝模式」救市</a></li>
 <li><a href="/cbnews/20241008/2098939.md">中南海的噩梦来了</a></li>
 <li><a href="/cbnews/20241008/2098912.md">〖红朝浮世绘〗党员就是不一样，不该认识的绝不认识</a></li>
 <li><a href="/topimagenews/20241008/2099043.md">传普京行宫被端掉 连这国也翻脸</a></li>
-<li><a href="/topimagenews/20241008/2098847.md">私藏重要证件，中国美女老板遭美警方重新关押</a></li>
-<li><a href="/topimagenews/20241008/2098886.md">伊朗王朝流亡王子发表将变革宣言！携手以色列？</a></li>
 <li><a href="/sohnews/20241008/2098911.md">朱德曾孙朱玺刚20岁，存款和股票220亿。当局辟谣，反爆出1983年被枪毙的不是朱德孙子朱国华，而是替死鬼。朱国华在英国拥有财富3000亿美元。习近平维护的体制，榨干十几亿屁民，让权贵们过奢侈生活。</a></li>
+<li><a href="/topimagenews/20241008/2098886.md">伊朗王朝流亡王子发表将变革宣言！携手以色列？</a></li>
 <li><a href="/topimagenews/20241008/2098881.md">“战争”早已开始，而且是北京挑起的</a></li>
 <li><a href="/topimagenews/20241008/2099173.md">大陆19岁女被共党干部性侵 网络露脸实名举报才抓人</a></li>
 <li><a href="/cbnews/20241008/2098955.md">江峰：习近平刺激政策竟是温家宝手笔！胡温国师贾康重现江湖，三大战区换将，习近平军中人马被反清洗，中南海已洗牌。真主党总书记没人敢当，领袖退党的启示【江峰漫谈20241007第949期】</a></li>
 <li><a href="/cbnews/20241008/2099135.md">中共黑箱操作 党政军三大异常情况引猜测</a></li>
-<li><a href="/comments/20241008/2099076.md">新华社又呛习！历史定位就像宋徽宗，只会......</a></li>
 <li><a href="/ccpdope/20241008/2099111.md">江派原政治局常委吴邦国病亡 其家族腐败再被提起</a></li>
+<li><a href="/comments/20241008/2099076.md">新华社又呛习！历史定位就像宋徽宗，只会......</a></li>
+<li><a href="/topimagenews/20241008/2098884.md">【微博精粹】悲情展望：20年后的历史该如何描述当下这段时间？</a></li>
+<li><a href="/baitai/20241008/2099075.md">利好来了！刚刚，A股首例</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20241009/2099318.md" target="_blank">江雪-季风再来：一家独立书店的沉浮以及公民社会的中国命运</a></li>
 <li><a href="/comments/20241009/2099313.md" target="_blank">中国股市有个模式；幸运的人不是你！｜李恒青 ｜方菲时间</a></li>
 <li><a href="/comments/20241009/2099292.md" target="_blank">路漫漫其修远，心拳拳以赴义——与李永达﹑单仲楷相谈欢</a></li>
 <li><a href="/comments/20241009/2099254.md" target="_blank">天亮时分：美国大选民调，贺锦丽已经处於劣势？#美国大选 #贺锦丽 #川普</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20241008/2098918.md" target="_blank">【网闻禁闻】中国奥运游泳冠军覃海洋被未婚妻指控孕期出轨参军期间嫖娼 提分手即遭不雅视频威胁 覃海洋工作室发表声明 未婚妻公布聊天录音 炮轰国家队包庇 未婚妻曝覃海洋奥运夺金内情</a></li>
 <li><a href="/comments/20241008/2098895.md" target="_blank">陈嘉宏：不是“一中一台” 赖清德说的是“两个中国”</a></li>
 <li><a href="/comments/20241008/2098894.md" target="_blank">堪比十个“北极鲶鱼”的“冬冬安安”，他到底是谁的后代？</a></li>
-<li><a href="/comments/20241008/2098871.md" target="_blank">美国码头的效率是怎样？你想像不到！</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20240412/2024185.md" target="_blank">是治疗还是屠杀?化疗药品滴一滴在皮肤即灼伤，很长时间才好</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/tculture/20190708/1154978.md" target="_blank">揭开“神用泥土造人”的秘密</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/aomi/life/20240330/2018911.md" target="_blank">挪威青年这样走出重度失眠和抑郁煎熬</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/tculture/20231119/1962827.md" target="_blank">六道轮回之地狱道</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20190701/1151501.md" target="_blank">【特稿】中国共产党是邪教组织</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/sohnews/20240923/2092491.md" target="_blank">布兰登比格斯曾听到两位天使的对话，对他震动很大&#8230;&#8230;</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
 <li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
+<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
+<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20240418/2026391.md" target="_blank">医生劝我妻子放弃，似乎这些医生热衷让病人快点去死？</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
 
 </ul>
 </div>
