@@ -25,9 +25,9 @@
 <li><a href="/cbnews/20241008/2098955.md">江峰：习近平刺激政策竟是温家宝手笔！胡温国师贾康重现江湖，三大战区换将，习近平军中人马被反清洗，中南海已洗牌。真主党总书记没人敢当，领袖退党的启示【江峰漫谈20241007第949期】</a></li>
 <li><a href="/cbnews/20241008/2099135.md">中共黑箱操作 党政军三大异常情况引猜测</a></li>
 <li><a href="/ccpdope/20241008/2099111.md">江派原政治局常委吴邦国病亡 其家族腐败再被提起</a></li>
+<li><a href="/cbnews/20241009/2099216.md">江峰：习近平丧失军权迹象愈发清晰 张又侠已控制关键中央警卫局</a></li>
 <li><a href="/comments/20241008/2099076.md">新华社又呛习！历史定位就像宋徽宗，只会......</a></li>
 <li><a href="/topimagenews/20241008/2098884.md">【微博精粹】悲情展望：20年后的历史该如何描述当下这段时间？</a></li>
-<li><a href="/baitai/20241008/2099075.md">利好来了！刚刚，A股首例</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20241009/2099327.md" target="_blank">从暴力到阴险 中共跨国迫害他们成首要目标</a></li>
 <li><a href="/comments/20241009/2099313.md" target="_blank">中国股市有个模式；幸运的人不是你！｜李恒青 ｜方菲时间</a></li>
 <li><a href="/cbnews/20241009/2099290.md" target="_blank">吴邦国病亡 曾推“五不搞”和温家宝唱对台戏</a></li>
 <li><a href="/cbnews/20241009/2099288.md" target="_blank">刚过一个月 山东泰安又现车撞学生传2死</a></li>
@@ -59,13 +60,13 @@
 <li><a href="/comments/20241008/2098978.md" target="_blank">音乐欣赏-引子与回旋随想曲</a></li>
 <li><a href="/cbnews/20241008/2098955.md" target="_blank">江峰：习近平刺激政策竟是温家宝手笔！胡温国师贾康重现江湖，三大战区换将，习近平军中人马被反清洗，中南海已洗牌。真主党总书记没人敢当，领袖退党的启示【江峰漫谈20241007第949期】</a></li>
 <li><a href="/cbnews/20241008/2098944.md" target="_blank">中共逼老师公务员交护照 分析：凸显执政危机</a></li>
-<li><a href="/cbnews/20241008/2098939.md" target="_blank">中南海的噩梦来了</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20241009/2099326.md" target="_blank">中共发布会“精彩一刻”！重复12次 发改委副主任直接化身复读机</a></li>
 <li><a href="/topimagenews/20241009/2099315.md" target="_blank">党内要习近平交权？党政军三大异常侧面证实…</a></li>
 <li><a href="/topimagenews/20241009/2099314.md" target="_blank">老外亲历中国地狱“996工作制” “失去太多”…</a></li>
 <li><a href="/topimagenews/20241009/2099284.md" target="_blank">以色列绝对实力，北京诡计难得逞</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20241008/2098823.md" target="_blank">4.36亿中国人抛弃中共！美国费城集会庆祝</a></li>
 <li><a href="/topimagenews/20241008/2098801.md" target="_blank">带来噩梦！10万亿大放水，进谁腰包？两条线路停运！东北第一省会，难了</a></li>
 <li><a href="/topimagenews/20241008/2098771.md" target="_blank">“中国蛙王”覃海洋遭未婚妻爆料孕期出轨：当军人还嫖娼 提分手遭不雅片威胁</a></li>
-<li><a href="/topimagenews/20241007/2098719.md" target="_blank">灰色地带极大化！官员曝习近平踩各国红线 “两策略”曝</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20241009/2099328.md" target="_blank">吴邦国官方讣告，其中一句评价很古怪</a></li>
 <li><a href="/comments/20241009/2099318.md" target="_blank">江雪-季风再来：一家独立书店的沉浮以及公民社会的中国命运</a></li>
 <li><a href="/comments/20241009/2099313.md" target="_blank">中国股市有个模式；幸运的人不是你！｜李恒青 ｜方菲时间</a></li>
 <li><a href="/comments/20241009/2099292.md" target="_blank">路漫漫其修远，心拳拳以赴义——与李永达﹑单仲楷相谈欢</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20241008/2098942.md" target="_blank">党媒故意泄露元老政变细节！温家宝李瑞环惊现宋徽宗名画《瑞鹤图》？习近平的好日子刚刚开始…</a></li>
 <li><a href="/comments/20241008/2098918.md" target="_blank">【网闻禁闻】中国奥运游泳冠军覃海洋被未婚妻指控孕期出轨参军期间嫖娼 提分手即遭不雅视频威胁 覃海洋工作室发表声明 未婚妻公布聊天录音 炮轰国家队包庇 未婚妻曝覃海洋奥运夺金内情</a></li>
 <li><a href="/comments/20241008/2098895.md" target="_blank">陈嘉宏：不是“一中一台” 赖清德说的是“两个中国”</a></li>
-<li><a href="/comments/20241008/2098894.md" target="_blank">堪比十个“北极鲶鱼”的“冬冬安安”，他到底是谁的后代？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/sohnews/20240923/2092491.md" target="_blank">布兰登比格斯曾听到两位天使的对话，对他震动很大&#8230;&#8230;</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
+<li><a href="/comments/20240814/2074560.md" target="_blank">曾预言川普右耳中枪的牧师，看到美国大灾难，川普在椭圆形办公室哭泣，祈祷神修复美国。不信神的人被淘汰。比格斯川普暗杀事件</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20240318/2014289.md" target="_blank">唐柏桥：民运同仁突然向法轮功开火是怎么回事？</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/tculture/20201115/1431410.md" target="_blank">读《中庸》：关键在“中和”</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/topimagenews/20180608/954788.md" target="_blank">安乐死根本安乐不了，别宣传了</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
 <li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
-<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
-<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20240418/2026391.md" target="_blank">医生劝我妻子放弃，似乎这些医生热衷让病人快点去死？</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
 
 </ul>
 </div>
