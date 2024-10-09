@@ -7,7 +7,6 @@
 
 <li><a href="/topimagenews/20241009/2099315.md">党内要习近平交权？党政军三大异常侧面证实…</a></li>
 <li><a href="/worldnews/20241009/2099386.md">克里姆林宫出大事了？</a></li>
-<li><a href="/cbnews/20241009/2099216.md">江峰：习近平丧失军权迹象愈发清晰 张又侠已控制关键中央警卫局</a></li>
 <li><a href="/comments/20241009/2099328.md">吴邦国官方讣告，其中一句评价很古怪</a></li>
 <li><a href="/baitai/20241009/2099281.md">Angelababy从政，再见已是杨主任</a></li>
 <li><a href="/topimagenews/20241009/2099255.md">这招真狠！整3亿牛马帮中共还债，最后一无所有;当心！质疑声浪越来越大…</a></li>
@@ -20,12 +19,13 @@
 <li><a href="/topimagenews/20241009/2099394.md">打怕了，真主党求饶</a></li>
 <li><a href="/comments/20241009/2099397.md">汤名晖：信号：超过习温，十一招待会最重要人物是他</a></li>
 <li><a href="/cbnews/20241009/2099399.md">〖红朝浮世绘〗中共权贵们最后的盛宴：韭菜长得高了 开始收割</a></li>
-<li><a href="/topimagenews/20241009/2099284.md">以色列绝对实力，北京诡计难得逞</a></li>
 <li><a href="/ssgc/20241009/2099320.md">事实查核｜华春莹与女儿在美国生活的合照流出？</a></li>
+<li><a href="/topimagenews/20241009/2099284.md">以色列绝对实力，北京诡计难得逞</a></li>
 <li><a href="/topimagenews/20241009/2099522.md">中国房市得3兆才能救！习近平打了16年最强救市猛药能撑多久？拆解“中国救命术”</a></li>
-<li><a href="/cbnews/20241009/2099290.md">吴邦国病亡 曾推“五不搞”和温家宝唱对台戏</a></li>
 <li><a href="/cnnews/20241009/2099411.md">哀牢山最诡异一幕，根本不是跟在身后的熊…</a></li>
+<li><a href="/cbnews/20241009/2099290.md">吴邦国病亡 曾推“五不搞”和温家宝唱对台戏</a></li>
 <li><a href="/finance/20241009/2099419.md">习当局已经没有退路</a></li>
+<li><a href="/headline/20241009/2099493.md">刺激政策不确定性 中国股市创疫情以来最大单日跌幅</a></li>
 <li><a href="/sohnews/20241009/2099385.md">微信突发热传 （10 /07/24）</a></li>
 <li><a href="/sohnews/20241009/2099416.md">有戏：温家宝向习近平提出具体的政改建议，七个要素俱全A股走向定了，全会政变现场视频。《老灯开讲第690期》</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20190213/1080251.md" target="_blank">胡平：法轮功为何反对自杀？</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
+<li><a href="/comments/20241004/2097641.md" target="_blank">李连杰谈气功特异功能-灵魂出窍-亲身见证穿墙术</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
 <li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20240828/2080320.md" target="_blank">惠虎宇：与AI聊传统宗教、科学和修炼</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/tculture/20231119/1962827.md" target="_blank">六道轮回之地狱道</a></li>
-<li><a href="/comments/20240820/2076928.md" target="_blank">惠虎宇：中华文化为什么是高级文化系统(1)</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/comments/20240825/2079044.md" target="_blank">谁是创世主</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/comments/20240623/2053092.md" target="_blank">章天亮：那些行于世间的觉者</a></li>
-<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
-<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/sohnews/20240923/2092495.md" target="_blank">布兰登‧比格斯第一次见到神：有人升空 有人在追捕牧师</a></li>
-<li><a href="/comments/20231201/1968320.md" target="_blank">【非凡新闻】结合中西文化精神 美国神韵表演吸睛</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
 
 </ul>
 </div>
