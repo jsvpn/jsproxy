@@ -10,8 +10,8 @@
 <li><a href="/topimagenews/20241009/2099341.md">祸首？瑞士媒体点名习近平</a></li>
 <li><a href="/baitai/20241009/2099507.md">中港股双双暴跌 超5100只个股回吐 宁波女绝望跳楼身亡</a></li>
 <li><a href="/topimagenews/20241009/2099435.md">金正恩突然下令…</a></li>
-<li><a href="/topimagenews/20241009/2099394.md">打怕了，真主党求饶</a></li>
 <li><a href="/comments/20241009/2099397.md">汤名晖：信号：超过习温，十一招待会最重要人物是他</a></li>
+<li><a href="/topimagenews/20241009/2099394.md">打怕了，真主党求饶</a></li>
 <li><a href="/comments/20241009/2099605.md">胡锦涛被带离会场过程中都发生了什么</a></li>
 <li><a href="/cbnews/20241009/2099399.md">〖红朝浮世绘〗中共权贵们最后的盛宴：韭菜长得高了 开始收割</a></li>
 <li><a href="/topimagenews/20241009/2099522.md">中国房市得3兆才能救！习近平打了16年最强救市猛药能撑多久？拆解“中国救命术”</a></li>
@@ -23,11 +23,11 @@
 <li><a href="/headline/20241009/2099493.md">刺激政策不确定性 中国股市创疫情以来最大单日跌幅</a></li>
 <li><a href="/comments/20241010/2099650.md">习近平运势没了！中共四巨头 惊现宋徽宗《瑞鹤图》？</a></li>
 <li><a href="/baitai/20241009/2099565.md">习势力正瓦解？政治经济巨变 中共进入垃圾时间</a></li>
-<li><a href="/cbnews/20241009/2099362.md">大陆最惨新片！2人观影 票房79元</a></li>
 <li><a href="/worldnews/20241009/2099557.md">大马士革遭以空袭！流亡伊朗王子号召起义 没人要干真主党总书记</a></li>
+<li><a href="/cbnews/20241009/2099362.md">大陆最惨新片！2人观影 票房79元</a></li>
+<li><a href="/topimagenews/20241010/2099733.md">国新办急发公告！中国股市暴跌【阿波罗网报道】</a></li>
 <li><a href="/health/20241009/2099500.md">血管决定你的寿命！坚持3件事，血管慢慢“变年轻”</a></li>
 <li><a href="/baitai/20241009/2099542.md">27岁清华高才生硅谷杀妻，最新庭审画面流出：胖若两人，流言坐实</a></li>
-<li><a href="/cnnews/20241009/2099428.md">亏掉160万，我劝普通人别做梦…</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20241010/2099647.md" target="_blank">一些民运人士反川普 错得离谱</a></li>
 <li><a href="/cbnews/20241010/2099773.md" target="_blank">快讯：这家航空公司宣布放弃在中国唯一航线</a></li>
 <li><a href="/cbnews/20241010/2099772.md" target="_blank">湖南9岁女童裸死河中 嫌犯身份更令人“胆寒”</a></li>
 <li><a href="/cbnews/20241010/2099771.md" target="_blank">湖南湘潭堂兄弟嫌隙酿命案 致3死2伤</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20241009/2099523.md" target="_blank">中国2种坦克在此“内战”? 这两敌国都向北京军购 恐在北非沙漠“拼实力”</a></li>
 <li><a href="/comments/20241009/2099477.md" target="_blank">大型系列节目：治国大道 (二) 帝道立德</a></li>
 <li><a href="/cbnews/20241009/2099417.md" target="_blank">山东泰安又一汽车撞学生事件 传2死3伤</a></li>
-<li><a href="/cbnews/20241009/2099404.md" target="_blank">一家三口出游遇冰雹 手机信号弱 理想智能车门打不开</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20241010/2099800.md" target="_blank">重要信号：习近平权势衰落</a></li>
+<li><a href="/comments/20241010/2099799.md" target="_blank">风起云涌！中国任志强们独特抗争力量</a></li>
 <li><a href="/comments/20241010/2099780.md" target="_blank">“为人民服务”。原来是毛泽东抄袭蒋介石的</a></li>
 <li><a href="/comments/20241010/2099779.md" target="_blank">宾州的天意：新MAGA成为美国的全民运动</a></li>
 <li><a href="/comments/20241010/2099778.md" target="_blank">他用自由、希望与不顺从，对抗荒诞世界</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20241009/2099532.md" target="_blank">黄明志街访遇见共产党员</a></li>
 <li><a href="/comments/20241009/2099519.md" target="_blank">【直播】中华民国113岁生日 赖清德发表重要演说 （戴忠仁/上官乱/江峰/宋国诚）</a></li>
 <li><a href="/comments/20241009/2099488.md" target="_blank">天亮时分：吴邦国的“三权鼎立”，实际上是在扩权？#吴邦国 #中共</a></li>
-<li><a href="/comments/20241009/2099477.md" target="_blank">大型系列节目：治国大道 (二) 帝道立德</a></li>
-<li><a href="/comments/20241009/2099434.md" target="_blank">【移居桃花源：中国文化菁英清迈访谈录】【何培蓉：从中国到泰国 公益之路未曾停歇】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20240320/2015021.md" target="_blank">唐柏桥：中共带话只要不与法轮功来往，其他一切都好说</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20231204/1969287.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （三）</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20240801/2069416.md" target="_blank">无神论和有神论深度解析</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
 <li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/cbnews/20240715/2062387.md" target="_blank">尧帝治世之道（一）</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/tculture/20231217/1975364.md" target="_blank">医山夜话：张锡纯医案解读（1）根治失眠 思路清晰</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/comments/20190219/1082706.md" target="_blank">胡平：法轮功信仰自由，江泽民精神控制</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
 
 </ul>
 </div>
