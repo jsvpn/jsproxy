@@ -8,7 +8,6 @@
 <li><a href="/topimagenews/20241010/2099733.md">国新办急发公告！中国股市暴跌【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20241010/2099742.md">彭丽媛任委员？中共军队神秘机构操盘手曝光</a></li>
 <li><a href="/baitai/20241010/2099705.md">又一次金融政变？中国股市凶猛回调 习近平已无退路？</a></li>
-<li><a href="/comments/20241010/2099650.md">习近平运势没了！中共四巨头 惊现宋徽宗《瑞鹤图》？</a></li>
 <li><a href="/comments/20241010/2099800.md">重要信号：习近平权势衰落</a></li>
 <li><a href="/topimagenews/20241010/2099741.md">中国经济超预期惨烈！正有大事发生：中共老友惊爆 【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20241010/2099890.md">废太子求生欲如此之强！发文称习近平…</a></li>
@@ -16,18 +15,19 @@
 <li><a href="/comments/20241010/2099769.md">文昭：没想到，习近平向一个他最不情愿的人低头了；暴跌开始了...</a></li>
 <li><a href="/topimagenews/20241010/2099892.md">急转弯！习近平统治术关键特征凸显</a></li>
 <li><a href="/topimagenews/20241010/2099875.md">“我想包养女大学生” 这句话后 87万没了</a></li>
-<li><a href="/cbnews/20241010/2099868.md">〖红朝浮世绘〗十一长假结束中共国股市回光返照结束，差不多该进火葬场了</a></li>
 <li><a href="/sohnews/20241010/2099721.md">“涛哥直播间”习近平肯定出事！李瑞环温家宝 代军方露面 ⋯  （10 /09/24）</a></li>
+<li><a href="/cbnews/20241010/2099868.md">〖红朝浮世绘〗十一长假结束中共国股市回光返照结束，差不多该进火葬场了</a></li>
 <li><a href="/health/20241010/2099924.md">隔夜水、隔夜菜根本不致病，真正不能隔夜的是它，宁愿浪费也别吃</a></li>
 <li><a href="/topimagenews/20241010/2099675.md">传宁波一股民炒股爆仓 在商场跳楼身亡 官方“辟谣”</a></li>
 <li><a href="/ccpdope/20241010/2099910.md">中国股市哀嚎一片 中国股民赔到浑身发抖</a></li>
+<li><a href="/topimagenews/20241010/2100027.md">朝鲜12卖淫女“嘴塞碎石”上刑场！金正恩突赦免挨批作秀</a></li>
 <li><a href="/ssgc/20241010/2099883.md">〖微博谈〗习近平的确胆大妄为</a></li>
-<li><a href="/baitai/20241010/2099791.md">内幕消息：机密报告曝两大政权危机</a></li>
-<li><a href="/topimagenews/20241010/2099873.md">无锚印钞时代真的来临！中共财政部强上央行</a></li>
-<li><a href="/topimagenews/20241010/2099891.md">103科研人被毁？中共突发长文控诉 网群起炮轰</a></li>
-<li><a href="/baitai/20241010/2099982.md">孙立军，被查</a></li>
-<li><a href="/cbnews/20241010/2099736.md">陆网民纷纷愿意接受策反！抖音现台早年策反广播</a></li>
 <li><a href="/cbnews/20241010/2099959.md">王岐山三大秘均重判 范一飞被判死缓 终身监禁</a></li>
+<li><a href="/baitai/20241010/2099791.md">内幕消息：机密报告曝两大政权危机</a></li>
+<li><a href="/baitai/20241010/2099982.md">孙立军，被查</a></li>
+<li><a href="/topimagenews/20241010/2099891.md">103科研人被毁？中共突发长文控诉 网群起炮轰</a></li>
+<li><a href="/topimagenews/20241010/2099873.md">无锚印钞时代真的来临！中共财政部强上央行</a></li>
+<li><a href="/cbnews/20241010/2099736.md">陆网民纷纷愿意接受策反！抖音现台早年策反广播</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20241011/2100128.md" target="_blank">时事大家谈：赖清德“双十”国庆演讲，是否降低台海军事冲突风险？</a></li>
+<li><a href="/comments/20241011/2100124.md" target="_blank">【劳权透视】施政报告勿再以国安遮丑 经济逆境急需为劳工解困</a></li>
 <li><a href="/comments/20241010/2100106.md" target="_blank">时事大家谈：赖清德“双十”国庆演讲，是否降低台海军事冲突风险？教师也要上交护照，当局到底担心什么？</a></li>
 <li><a href="/comments/20241010/2100070.md" target="_blank">【杜耀明评论】法官不理新闻价值 定罪如何理无可疑？</a></li>
 <li><a href="/comments/20241010/2100069.md" target="_blank">【围炉夜话精华版】马斯克“全押上去”助选川普，这次大选有多重要？｜方伟 唐靖远 Jason David 方菲</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20241010/2099831.md" target="_blank">“中华民国”之号，谁是原创者？</a></li>
 <li><a href="/comments/20241010/2099830.md" target="_blank">塔克采访马斯克，附中文字幕</a></li>
 <li><a href="/comments/20241010/2099800.md" target="_blank">重要信号：习近平权势衰落</a></li>
-<li><a href="/comments/20241010/2099799.md" target="_blank">风起云涌！中国任志强们独特抗争力量</a></li>
-<li><a href="/comments/20241010/2099780.md" target="_blank">“为人民服务”。原来是毛泽东抄袭蒋介石的</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
-<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20240721/2065039.md" target="_blank">王建勋：川普主义是雅各宾主义的克星</a></li>
-<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
-<li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
-<li><a href="/comments/20240918/2089868.md" target="_blank">马云前世修道，李嘉诚前世是和尚-数字漫谈（三）</a></li>
-<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
+<li><a href="/taiwannews/20210119/1470524.md" target="_blank">纪录片《蚕食美国1》</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/comments/20231220/1976789.md" target="_blank">大陆医生曝：九价HPV疫苗导致怀孕能力下降40%</a></li>
+<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/tculture/20240916/2089420.md" target="_blank">诗人苏轼与黄庭坚的生命轮回</a></li>
+<li><a href="/tculture/20240904/2083774.md" target="_blank">“几生修得到梅花”之生命品格浅议</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20190213/1080251.md" target="_blank">胡平：法轮功为何反对自杀？</a></li>
+<li><a href="/tculture/20120628/34899.md" target="_blank">有神无神，只消一例便可敲定</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
 <li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20240126/1992876.md" target="_blank">内幕：中国留学生里女生打男生和男生打女一样普遍</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20240820/2076958.md" target="_blank">惠虎宇：中华文化为什么是高级文化系统(3)</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/tculture/20201115/1431410.md" target="_blank">读《中庸》：关键在“中和”</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
 
 </ul>
 </div>
