@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/comments/20241010/2099800.md">重要信号：习近平权势衰落</a></li>
 <li><a href="/topimagenews/20241010/2099890.md">废太子求生欲如此之强！发文称习近平…</a></li>
 <li><a href="/topimagenews/20241010/2099892.md">急转弯！习近平统治术关键特征凸显</a></li>
 <li><a href="/topimagenews/20241010/2099875.md">“我想包养女大学生” 这句话后 87万没了</a></li>
@@ -25,9 +24,10 @@
 <li><a href="/ccpdope/20241010/2099899.md">A股暴跌！「习大胆儿」的股市为谁而开？</a></li>
 <li><a href="/comments/20241010/2099858.md">张又侠被选中做带弓人！东门伏金剑惊现温家宝李瑞环！习近平躺平A股大跌？上海惊现被套牢睡桥洞女？</a></li>
 <li><a href="/cbnews/20241010/2099859.md">太卷了!上海小学生竞选大队委员视频火了</a></li>
+<li><a href="/baitai/20241011/2100213.md">上海第一批“女光棍”进了养老院，如今的生活再次印证了费翔所说的话</a></li>
 <li><a href="/sohnews/20241010/2100017.md">胡春华最新文章！释放了什么信号？赖清德在台湾再发话，中共坐不住；中国股灾或接踵而来？飓风“米尔顿”在佛州造成“异象”；四川、安徽地震再次引发了潜在大地震的预想｜大宇拍案惊奇 live!</a></li>
+<li><a href="/sohnews/20241011/2100157.md">刚刚！川普总统发表重要声明🔥🔥🔥</a></li>
 <li><a href="/sohnews/20241010/2099913.md">🔥🔥马上逃❗关系到720万人生死攸关的大飓风已来临❗灵媒预言:一场更彻底的毁灭人类大灾也即将到来❗</a></li>
-<li><a href="/sohnews/20241010/2099843.md">中共党政军三大异常引发猜测！</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20241005/2097939.md" target="_blank">大型系列节目：治国大道  (一)  皇道无为</a></li>
-<li><a href="/ssgc/20240508/2034288.md" target="_blank">《透视“进化论”》第九章 人类起源问题的终极答案</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/tculture/20231202/1968819.md" target="_blank">六道轮回之天神道</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/topimagenews/20240511/2035423.md" target="_blank">原北京学员回忆李洪志先生在东方健康博览会上所行的奇迹</a></li>
-<li><a href="/comments/20240703/2057730.md" target="_blank">百年梦醒（十七）：马克思的连环计、出卖灵魂</a></li>
-<li><a href="/tculture/20120628/34899.md" target="_blank">有神无神，只消一例便可敲定</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20240126/1992876.md" target="_blank">内幕：中国留学生里女生打男生和男生打女一样普遍</a></li>
+<li><a href="/cbnews/20190211/1078733.md" target="_blank">胡平：法轮功为什么能强化忍的精神</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20240820/2076774.md" target="_blank">胡平：批判法轮功的人,为何不用同样标准分析其他宗教</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
 
 </ul>
 </div>
