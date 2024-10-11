@@ -14,15 +14,15 @@
 <li><a href="/topimagenews/20241011/2100267.md">不可收拾！中国或掀起“所有人与所有人的战争”</a></li>
 <li><a href="/topimagenews/20241011/2100379.md">人民币还是钱吗？中共财政部最终将推出3兆元刺激计划？</a></li>
 <li><a href="/finance/20241011/2100248.md">没钱了，股民的子弹三天就打光了</a></li>
-<li><a href="/topimagenews/20241011/2100365.md">【微博精粹】飞机还没拉到高度就俯冲了</a></li>
 <li><a href="/cbnews/20241011/2100475.md">习近平邀温家宝李瑞环坐在身边 至少有3层含义</a></li>
-<li><a href="/baitai/20241011/2100223.md">王思聪舅舅涉嫌杀妻被捕 手上或有四条人命</a></li>
 <li><a href="/ccpdope/20241011/2100467.md">张又侠拿海军开刀 习军权被削弱迹象</a></li>
-<li><a href="/worldnews/20241011/2100404.md">中国顶流家族，终究没护住涉“杀妻”的富豪</a></li>
+<li><a href="/topimagenews/20241011/2100365.md">【微博精粹】飞机还没拉到高度就俯冲了</a></li>
+<li><a href="/baitai/20241011/2100223.md">王思聪舅舅涉嫌杀妻被捕 手上或有四条人命</a></li>
 <li><a href="/baitai/20241011/2100490.md">贾玲突然高调宣布喜讯！全网都震撼了：这也太猛了吧</a></li>
 <li><a href="/topimagenews/20241011/2100493.md">以媒直接点名北京 会倒大楣</a></li>
-<li><a href="/topimagenews/20241011/2100217.md">危险！ 中国现疯狂借贷炒股 有银行召开内部会议应对【阿波罗网报道】</a></li>
+<li><a href="/worldnews/20241011/2100404.md">中国顶流家族，终究没护住涉“杀妻”的富豪</a></li>
 <li><a href="/headline/20241011/2100424.md">台网红天安门拍照遮掉3个字 标语变「中华民国万岁」贺双十</a></li>
+<li><a href="/topimagenews/20241011/2100217.md">危险！ 中国现疯狂借贷炒股 有银行召开内部会议应对【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20241011/2100250.md">中国最惨大学生，还没毕业，专业先没了</a></li>
 <li><a href="/baitai/20241011/2100425.md">打破传闻辟谣？胡春华：深入学习 贯彻习近平政协讲话</a></li>
 <li><a href="/comments/20241011/2100376.md">赖清德国庆讲话藏机锋，中共傻了！美国掌握中南海政变，故意不挺习？ 习军中亲信被张又侠拿下，塌方开始</a></li>
@@ -35,6 +35,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20241012/2100609.md" target="_blank">经济学人：川普或贺锦丽当选 都将对中采取强硬立场</a></li>
+<li><a href="/cbnews/20241012/2100608.md" target="_blank">看中国/亲信搞砸了 网友：习近平崩溃了</a></li>
+<li><a href="/cbnews/20241012/2100607.md" target="_blank">歼-20 造太快 战机等无人? 中国海、空军都告急 2代机飞行员直接“升格”5代机</a></li>
 <li><a href="/cbnews/20241011/2100553.md" target="_blank">挑战中国印太军事强权！外媒：印度准了再造2核动力潜舰、买31架MQ-9B</a></li>
 <li><a href="/cbnews/20241011/2100552.md" target="_blank">“台湾人”沈宜英红了！ 随乌军攻库尔斯克被指认 中、台网友纷表态</a></li>
 <li><a href="/cbnews/20241011/2100550.md" target="_blank">不止监控全民 专家：中共盯上了大数据暴利</a></li>
@@ -57,9 +60,6 @@
 <li><a href="/cbnews/20241011/2100390.md" target="_blank">吴邦国死后 6万年一遇的彗星再扫北京</a></li>
 <li><a href="/cbnews/20241011/2100389.md" target="_blank">江峰：赖清德总统双十国庆讲话解读：岛内和解、两岸平等、国际胸怀；中华民国与中华人民共和国互不隶属三层含义；习近平的党在国上与赖清德的国在党上、民在党上【江峰漫谈20241010第951期】</a></li>
 <li><a href="/cbnews/20241011/2100371.md" target="_blank">〖红朝浮世绘〗国庆日赖清德维护中华民国主权 中共军机压境吓唬台湾人</a></li>
-<li><a href="/cbnews/20241011/2100367.md" target="_blank">危在旦夕 习罕见向元老讲话</a></li>
-<li><a href="/cbnews/20241011/2100335.md" target="_blank">双十国庆日 中共发射运载火箭飞越台湾中部、高度于大气层外</a></li>
-<li><a href="/cbnews/20241011/2100334.md" target="_blank">北京散布恐怖气息 天安门附近公路预约才能过 四通桥有两个派出所</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
 <li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20240829/2080735.md" target="_blank">胆战心惊:塔克访谈揭露美国食品巨头，医疗体系</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20231223/1978148.md" target="_blank">医山夜话：张锡纯医案解读（三）赭石：降胃气 引火下行</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20240820/2076958.md" target="_blank">惠虎宇：中华文化为什么是高级文化系统(3)</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/cbnews/20240904/2083703.md" target="_blank">复眼与变态 昆虫奥秘令进化论失据</a></li>
+<li><a href="/topimagenews/20200514/1328456.md" target="_blank">穿越时空 谢田教授亲身体验人体特异功能</a></li>
+<li><a href="/cbnews/20240902/2082501.md" target="_blank">中元节祭祖有没有效果呢？那边真的可以收到纸钱吗？</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
 
 </ul>
 </div>
