@@ -9,24 +9,24 @@
 <li><a href="/topimagenews/20241011/2100379.md">人民币还是钱吗？中共财政部最终将推出3兆元刺激计划？</a></li>
 <li><a href="/baitai/20241011/2100490.md">贾玲突然高调宣布喜讯！全网都震撼了：这也太猛了吧</a></li>
 <li><a href="/topimagenews/20241011/2100493.md">以媒直接点名北京 会倒大楣</a></li>
-<li><a href="/cbnews/20241011/2100475.md">习近平邀温家宝李瑞环坐在身边 至少有3层含义</a></li>
 <li><a href="/ccpdope/20241011/2100467.md">张又侠拿海军开刀 习军权被削弱迹象</a></li>
+<li><a href="/cbnews/20241011/2100475.md">习近平邀温家宝李瑞环坐在身边 至少有3层含义</a></li>
 <li><a href="/topimagenews/20241011/2100365.md">【微博精粹】飞机还没拉到高度就俯冲了</a></li>
 <li><a href="/worldnews/20241011/2100404.md">中国顶流家族，终究没护住涉“杀妻”的富豪</a></li>
 <li><a href="/headline/20241011/2100424.md">台网红天安门拍照遮掉3个字 标语变「中华民国万岁」贺双十</a></li>
 <li><a href="/ssgc/20241011/2100501.md">习近平权力动摇的迹象</a></li>
 <li><a href="/sohnews/20241011/2100604.md">传现任海军政委被查，习在逐渐被架空？</a></li>
 <li><a href="/baitai/20241011/2100425.md">打破传闻辟谣？胡春华：深入学习 贯彻习近平政协讲话</a></li>
+<li><a href="/yule/20241012/2100673.md">看了48岁林心如的泳装照 才明白微胖才是极品</a></li>
 <li><a href="/topimagenews/20241011/2100594.md">中国散户疯炒股！1天领光银行40亿存款 银行大失血</a></li>
 <li><a href="/sohnews/20241011/2100423.md">内幕惊爆：超过胡温的大佬纵横捭阖操控政局，王岐山未出席重要会议危在旦夕，习屡试不爽屡获成功的诈术。《老灯开讲第692期》</a></li>
+<li><a href="/baitai/20241012/2100678.md">中国股市大跌 谁在背后砸盘？</a></li>
 <li><a href="/cbnews/20241011/2100527.md">灵魂转世？苏州5岁女童谈古论今 内容惊人</a></li>
 <li><a href="/comments/20241011/2100376.md">赖清德国庆讲话藏机锋，中共傻了！美国掌握中南海政变，故意不挺习？ 习军中亲信被张又侠拿下，塌方开始</a></li>
-<li><a href="/yule/20241012/2100673.md">看了48岁林心如的泳装照 才明白微胖才是极品</a></li>
 <li><a href="/baitai/20241011/2100444.md">50岁汪涵近照曝光，震惊网友：他怎么忽然老成这样了</a></li>
 <li><a href="/health/20241011/2100452.md">如果家里不差钱，这4款零食，中老年人该吃就吃，营养解馋身体好</a></li>
 <li><a href="/cbnews/20241012/2100608.md">看中国/亲信搞砸了 网友：习近平崩溃了</a></li>
-<li><a href="/baitai/20241012/2100678.md">中国股市大跌 谁在背后砸盘？</a></li>
-<li><a href="/cnnews/20241011/2100318.md">马云现身纽约，昔日首富，四处奔波</a></li>
+<li><a href="/topimagenews/20241011/2100542.md">陆监视器巨头“海康威视”大裁员 上千人没工作 内幕曝光</a></li>
 <li><a href="/lifebaike/20241012/2100613.md">大明灭亡24小时前，发生两件事，至今都很诡异</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -66,6 +66,9 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20241012/2100795.md" target="_blank">策划一整年！杭州男凌晨划船盗走50万RMB现金</a></li>
+<li><a href="/topimagenews/20241012/2100794.md" target="_blank">5年增400倍！墨西哥中国走线客暴增</a></li>
+<li><a href="/topimagenews/20241012/2100793.md" target="_blank">中国股市逃生将现惨烈踩踏！中共设计套死百姓三万亿血汗钱</a></li>
 <li><a href="/topimagenews/20241012/2100760.md" target="_blank">全中国股民追缉！网红“大蓝”的下场可能会很惨</a></li>
 <li><a href="/topimagenews/20241012/2100759.md" target="_blank">兜比脸干净！这波寒潮 席卷整个中国旅业</a></li>
 <li><a href="/topimagenews/20241012/2100741.md" target="_blank">辱毛得福？曝毕福剑再婚妻出身优秀 老来得子</a></li>
@@ -88,15 +91,13 @@
 <li><a href="/topimagenews/20241011/2100331.md" target="_blank">MI5 发警告！ ISIS瞄准欧洲 背后疑有俄伊牵线</a></li>
 <li><a href="/topimagenews/20241011/2100330.md" target="_blank">对付普京？北约宣布 下周一开始“核演习”</a></li>
 <li><a href="/topimagenews/20241011/2100267.md" target="_blank">不可收拾！中国或掀起“所有人与所有人的战争”</a></li>
-<li><a href="/topimagenews/20241011/2100266.md" target="_blank">意义重大！他们用这种最大的力量对抗中共</a></li>
-<li><a href="/topimagenews/20241011/2100245.md" target="_blank">告诉大家一个残酷真相：现在所有的政策，就是要消灭大家的存款</a></li>
-<li><a href="/topimagenews/20241011/2100244.md" target="_blank">饥饿到底有多可怕？一场真实的饥饿实验</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20241012/2100798.md" target="_blank">普京神机妙失灵 重要空军基地被炸</a></li>
 <li><a href="/comments/20241012/2100776.md" target="_blank">人类是在大宇宙中随机产生的吗？</a></li>
 <li><a href="/comments/20241012/2100770.md" target="_blank">冯崇义：赖清德秉持务实路线；国际社会应承认中华民国的主权存在｜方菲时间</a></li>
 <li><a href="/comments/20241012/2100769.md" target="_blank">唐驳虎：老友叛变！？普京生日，首度没等来他的贺电</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20241011/2100342.md" target="_blank">兔子画漫画：逃过一劫，祝贺残雪再次无缘诺贝尔文学奖</a></li>
 <li><a href="/comments/20241011/2100341.md" target="_blank">蔡家欣｜白石洲拆迁后，那些上学奔波的孩子都去哪儿了？</a></li>
 <li><a href="/comments/20241011/2100340.md" target="_blank">一个“二乙子”被社会和家庭抛弃 医生怎么说</a></li>
-<li><a href="/comments/20241011/2100313.md" target="_blank">公民于平｜监控对着意见箱，这事真够离谱的</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/tculture/20240904/2083774.md" target="_blank">“几生修得到梅花”之生命品格浅议</a></li>
-<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20240403/2020547.md" target="_blank">纪录片：DSM诊断与统计手册-精神病学最要命的骗局</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/comments/20240801/2069416.md" target="_blank">无神论和有神论深度解析</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/tculture/20240916/2089420.md" target="_blank">诗人苏轼与黄庭坚的生命轮回</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/comments/20190220/1083672.md" target="_blank">胡平：法轮功与其他一些宗教或信仰之比较</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/comments/20231220/1976789.md" target="_blank">大陆医生曝：九价HPV疫苗导致怀孕能力下降40%</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20231213/1973586.md" target="_blank">六道轮回之畜生道</a></li>
+<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
 
 </ul>
 </div>
