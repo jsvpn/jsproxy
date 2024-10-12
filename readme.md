@@ -16,17 +16,17 @@
 <li><a href="/topimagenews/20241012/2100707.md">王健林不行了！习近平借此警告红二代？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20241012/2100760.md">全中国股民追缉！网红“大蓝”的下场可能会很惨</a></li>
 <li><a href="/cbnews/20241012/2100608.md">看中国/亲信搞砸了 网友：习近平崩溃了</a></li>
-<li><a href="/cbnews/20241012/2100701.md">江峰：习近平已衰败！铁证在此</a></li>
 <li><a href="/topimagenews/20241011/2100594.md">中国散户疯炒股！1天领光银行40亿存款 银行大失血</a></li>
+<li><a href="/cbnews/20241012/2100701.md">江峰：习近平已衰败！铁证在此</a></li>
 <li><a href="/cbnews/20241011/2100527.md">灵魂转世？苏州5岁女童谈古论今 内容惊人</a></li>
+<li><a href="/baitai/20241012/2100892.md">超震撼！习近平内部讲话流出 传王岐山被软禁</a></li>
 <li><a href="/cbnews/20241012/2100745.md">李小鹏被撤销全国政协委员资格 养老？这职位目前已有16名副主任</a></li>
 <li><a href="/lifebaike/20241012/2100613.md">大明灭亡24小时前，发生两件事，至今都很诡异</a></li>
 <li><a href="/ssgc/20241012/2100786.md">〖微博谈〗无人能取代习近平，把这个锅背下来</a></li>
-<li><a href="/topimagenews/20241012/2100741.md">辱毛得福？曝毕福剑再婚妻出身优秀 老来得子</a></li>
 <li><a href="/cbnews/20241012/2100810.md">〖红朝浮世绘〗世界上最短命的牛市</a></li>
+<li><a href="/topimagenews/20241012/2100741.md">辱毛得福？曝毕福剑再婚妻出身优秀 老来得子</a></li>
 <li><a href="/topimagenews/20241011/2100542.md">陆监视器巨头“海康威视”大裁员 上千人没工作 内幕曝光</a></li>
 <li><a href="/cbnews/20241012/2100702.md">江峰：他因为这一个想不到，丢掉了中共总书记的大位</a></li>
-<li><a href="/baitai/20241012/2100892.md">超震撼！习近平内部讲话流出 传王岐山被软禁</a></li>
 <li><a href="/sohnews/20241012/2100709.md">政坛诡异，彭丽媛下课，“废太子”回归；习亲信落马消失；习近平经济大权旁落？中共元老联手倒习；中共还想侵台？导弹可能飞歪！超强飓风来袭，美国大选惊奇！哪一条件对川普有利？｜新闻五人行 10/11</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20241012/2100925.md" target="_blank">出大事了？！习接连缺席重要会议 表面上安然无恙有2原因</a></li>
 <li><a href="/cbnews/20241012/2100621.md" target="_blank">哈里斯接棒奥巴马没完成的共产主义梦想</a></li>
 <li><a href="/cbnews/20241012/2100886.md" target="_blank">江峰：中共洲际导弹落点确认，美军没“吓尿”反而乐了； 四天股市惊天逆转，央行与财政部联手，印多少钱花多少钱，花多少钱印多少钱的无锚印钞开启【江峰漫谈20241011第952期】</a></li>
 <li><a href="/cbnews/20241012/2100853.md" target="_blank">八天三名中共正国级省部级高官病亡</a></li>
@@ -59,13 +60,13 @@
 <li><a href="/cbnews/20241012/2100699.md" target="_blank">江峰：这一仗，是为国民党打的，还是为台湾打的？</a></li>
 <li><a href="/cbnews/20241012/2100698.md" target="_blank">江峰：为何赖清德提起一件往事，台湾执政在野两党都会满意？</a></li>
 <li><a href="/comments/20241012/2100681.md" target="_blank">美国政府为何债台高筑？</a></li>
-<li><a href="/comments/20241012/2100651.md" target="_blank">国际码头工人协会已达成协议，加薪60%！还要更多？</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20241012/2100924.md" target="_blank">怕以色列报复 伊朗超紧张 拜登政府忧心忡忡</a></li>
 <li><a href="/topimagenews/20241012/2100851.md" target="_blank">工人当场被机器人活活压住不治身亡 比亚迪工厂出事</a></li>
 <li><a href="/topimagenews/20241012/2100825.md" target="_blank">旷古奇冤：“拾纸救夫”酿惨案</a></li>
 <li><a href="/topimagenews/20241012/2100824.md" target="_blank">中共羞于出口！中美俄战机时速差距太大</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20241011/2100365.md" target="_blank">【微博精粹】飞机还没拉到高度就俯冲了</a></li>
 <li><a href="/topimagenews/20241011/2100364.md" target="_blank">尴尬了 中共最新款005驱逐舰</a></li>
 <li><a href="/topimagenews/20241011/2100333.md" target="_blank">3细节很突出！赖清德国庆演说实在精彩</a></li>
-<li><a href="/topimagenews/20241011/2100332.md" target="_blank">周晓辉：中国红十字会会员代表大会现两大异常</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
-<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/comments/20240814/2074560.md" target="_blank">曾预言川普右耳中枪的牧师，看到美国大灾难，川普在椭圆形办公室哭泣，祈祷神修复美国。不信神的人被淘汰。比格斯川普暗杀事件</a></li>
-<li><a href="/ssgc/20240508/2034288.md" target="_blank">《透视“进化论”》第九章 人类起源问题的终极答案</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
 
 </ul>
 </div>
