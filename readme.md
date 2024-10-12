@@ -10,23 +10,23 @@
 <li><a href="/topimagenews/20241011/2100379.md">人民币还是钱吗？中共财政部最终将推出3兆元刺激计划？</a></li>
 <li><a href="/baitai/20241011/2100490.md">贾玲突然高调宣布喜讯！全网都震撼了：这也太猛了吧</a></li>
 <li><a href="/cbnews/20241011/2100475.md">习近平邀温家宝李瑞环坐在身边 至少有3层含义</a></li>
-<li><a href="/topimagenews/20241011/2100493.md">以媒直接点名北京 会倒大楣</a></li>
 <li><a href="/ccpdope/20241011/2100467.md">张又侠拿海军开刀 习军权被削弱迹象</a></li>
+<li><a href="/topimagenews/20241011/2100493.md">以媒直接点名北京 会倒大楣</a></li>
 <li><a href="/topimagenews/20241011/2100365.md">【微博精粹】飞机还没拉到高度就俯冲了</a></li>
 <li><a href="/worldnews/20241011/2100404.md">中国顶流家族，终究没护住涉“杀妻”的富豪</a></li>
-<li><a href="/ssgc/20241011/2100501.md">习近平权力动摇的迹象</a></li>
 <li><a href="/headline/20241011/2100424.md">台网红天安门拍照遮掉3个字 标语变「中华民国万岁」贺双十</a></li>
+<li><a href="/ssgc/20241011/2100501.md">习近平权力动摇的迹象</a></li>
 <li><a href="/baitai/20241011/2100425.md">打破传闻辟谣？胡春华：深入学习 贯彻习近平政协讲话</a></li>
 <li><a href="/sohnews/20241011/2100604.md">传现任海军政委被查，习在逐渐被架空？</a></li>
 <li><a href="/topimagenews/20241011/2100594.md">中国散户疯炒股！1天领光银行40亿存款 银行大失血</a></li>
 <li><a href="/sohnews/20241011/2100423.md">内幕惊爆：超过胡温的大佬纵横捭阖操控政局，王岐山未出席重要会议危在旦夕，习屡试不爽屡获成功的诈术。《老灯开讲第692期》</a></li>
 <li><a href="/comments/20241011/2100376.md">赖清德国庆讲话藏机锋，中共傻了！美国掌握中南海政变，故意不挺习？ 习军中亲信被张又侠拿下，塌方开始</a></li>
 <li><a href="/cbnews/20241011/2100527.md">灵魂转世？苏州5岁女童谈古论今 内容惊人</a></li>
-<li><a href="/health/20241011/2100452.md">如果家里不差钱，这4款零食，中老年人该吃就吃，营养解馋身体好</a></li>
 <li><a href="/baitai/20241011/2100444.md">50岁汪涵近照曝光，震惊网友：他怎么忽然老成这样了</a></li>
-<li><a href="/cnnews/20241011/2100318.md">马云现身纽约，昔日首富，四处奔波</a></li>
-<li><a href="/topimagenews/20241011/2100364.md">尴尬了 中共最新款005驱逐舰</a></li>
+<li><a href="/health/20241011/2100452.md">如果家里不差钱，这4款零食，中老年人该吃就吃，营养解馋身体好</a></li>
 <li><a href="/cbnews/20241012/2100608.md">看中国/亲信搞砸了 网友：习近平崩溃了</a></li>
+<li><a href="/cnnews/20241011/2100318.md">马云现身纽约，昔日首富，四处奔波</a></li>
+<li><a href="/topimagenews/20241011/2100542.md">陆监视器巨头“海康威视”大裁员 上千人没工作 内幕曝光</a></li>
 <li><a href="/lifebaike/20241012/2100613.md">大明灭亡24小时前，发生两件事，至今都很诡异</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
 <li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20240820/2076774.md" target="_blank">胡平：批判法轮功的人,为何不用同样标准分析其他宗教</a></li>
-<li><a href="/bblog/20240813/2073608.md" target="_blank">惊人内幕：脑死亡不是死亡，只是深度昏迷骗你捐器官</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/lifebaike/20180527/948531.md" target="_blank">无神论是最大的迷信（上）：科学无法证实神不存在</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20190214/1080789.md" target="_blank">胡平：天安门自焚和人民圣殿教</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/comments/20240918/2089868.md" target="_blank">马云前世修道，李嘉诚前世是和尚-数字漫谈（三）</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/comments/20231201/1968320.md" target="_blank">【非凡新闻】结合中西文化精神 美国神韵表演吸睛</a></li>
+<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
 
 </ul>
 </div>
