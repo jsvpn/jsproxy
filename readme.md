@@ -18,16 +18,16 @@
 <li><a href="/cbnews/20241012/2100853.md">八天三名中共正国级省部级高官病亡</a></li>
 <li><a href="/topimagenews/20241012/2100851.md">工人当场被机器人活活压住不治身亡 比亚迪工厂出事</a></li>
 <li><a href="/topimagenews/20241012/2100741.md">辱毛得福？曝毕福剑再婚妻出身优秀 老来得子</a></li>
-<li><a href="/sohnews/20241012/2100709.md">政坛诡异，彭丽媛下课，“废太子”回归；习亲信落马消失；习近平经济大权旁落？中共元老联手倒习；中共还想侵台？导弹可能飞歪！超强飓风来袭，美国大选惊奇！哪一条件对川普有利？｜新闻五人行 10/11</a></li>
 <li><a href="/topimagenews/20241012/2100795.md">策划一整年！杭州男凌晨划船盗走50万RMB现金</a></li>
-<li><a href="/cbnews/20241012/2100702.md">江峰：他因为这一个想不到，丢掉了中共总书记的大位</a></li>
+<li><a href="/sohnews/20241012/2100709.md">政坛诡异，彭丽媛下课，“废太子”回归；习亲信落马消失；习近平经济大权旁落？中共元老联手倒习；中共还想侵台？导弹可能飞歪！超强飓风来袭，美国大选惊奇！哪一条件对川普有利？｜新闻五人行 10/11</a></li>
 <li><a href="/headline/20241012/2100923.md">再出2.5万亿：中国提出雄心勃勃的经济复苏计划</a></li>
+<li><a href="/cbnews/20241012/2100702.md">江峰：他因为这一个想不到，丢掉了中共总书记的大位</a></li>
 <li><a href="/topimagenews/20241012/2100759.md">兜比脸干净！这波寒潮 席卷整个中国旅业</a></li>
 <li><a href="/baitai/20241012/2100668.md">前女友曝瓜，秦霄贤命中注定的塌房来了</a></li>
 <li><a href="/yule/20241012/2100671.md">5年后再看那21岁就娶赌王千金的哈佛学霸 今...</a></li>
 <li><a href="/topimagenews/20241012/2100793.md">中国股市逃生将现惨烈踩踏！中共设计套死百姓三万亿血汗钱</a></li>
 <li><a href="/baitai/20241012/2100809.md">彭丽媛大权旁落？分析：中国随时出事</a></li>
-<li><a href="/cbnews/20241012/2100764.md">张又侠要对习亲信下手？军队异动频传</a></li>
+<li><a href="/baitai/20241012/2100962.md">崩溃！突然确诊，超多人不离手…</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20241013/2101020.md" target="_blank">赖清德频打 “中华民国”牌</a></li>
 <li><a href="/comments/20241012/2101007.md" target="_blank">马斯克特斯拉 机器人来了！诺奖得主 最新警告！AI⋯｜未解之谜 扶摇</a></li>
 <li><a href="/cbnews/20241012/2100989.md" target="_blank">美军防空再升级！全新史崔克轻装甲车搭载激光武器登场</a></li>
 <li><a href="/comments/20241012/2100985.md" target="_blank">川普判赔5亿美元的银行欺诈案，纽约上诉庭可能整个翻转！｜方伟时间 2024.10.12</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20241012/2100745.md" target="_blank">李小鹏被撤销全国政协委员资格 养老？这职位目前已有16名副主任</a></li>
 <li><a href="/cbnews/20241012/2100744.md" target="_blank">上海杨浦区街头轿车飞速撞石墩 1死多伤</a></li>
 <li><a href="/cbnews/20241012/2100743.md" target="_blank">残疾老人成“股东” 上百村民身份疑遭村委会冒用</a></li>
-<li><a href="/cbnews/20241012/2100742.md" target="_blank">你懂什么叫遥遥领先吗？华为问界半路黑屏 自动泊车推撞货车给答案</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20241013/2101020.md" target="_blank">赖清德频打 “中华民国”牌</a></li>
+<li><a href="/comments/20241013/2101019.md" target="_blank">哇 天安门！！中国民国万岁👀好多人拍照摆这POSE</a></li>
 <li><a href="/comments/20241012/2101007.md" target="_blank">马斯克特斯拉 机器人来了！诺奖得主 最新警告！AI⋯｜未解之谜 扶摇</a></li>
 <li><a href="/comments/20241012/2101000.md" target="_blank">天亮时分：最近川普选情明显向好，贺锦丽的情况让民主党大佬非常担忧？#川普 #贺锦丽 #民主党 #美国大选</a></li>
 <li><a href="/comments/20241012/2100985.md" target="_blank">川普判赔5亿美元的银行欺诈案，纽约上诉庭可能整个翻转！｜方伟时间 2024.10.12</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20241012/2100758.md" target="_blank">文昭：一个你平时看不到的文昭！文昭2024英国行，内幕大公开</a></li>
 <li><a href="/comments/20241012/2100738.md" target="_blank">【京人治澳 等额选举】 第六届 #澳门特首选举 将于10月13日举行，候选人只有前终审法院院长 #岑浩辉 一人。</a></li>
 <li><a href="/comments/20241012/2100724.md" target="_blank">【布林肯警告中国：不要对台湾采取&quot;挑衅&quot;行动】 在北京强烈抨击台湾的总统 #赖清德双十演说 后，美国务卿布林肯在老挝举行的东盟峰会上对记者表示：&quot;中国不应以任何方式利用它作为挑衅行动的借口&quot;。</a></li>
-<li><a href="/comments/20241012/2100681.md" target="_blank">美国政府为何债台高筑？</a></li>
-<li><a href="/comments/20241012/2100651.md" target="_blank">国际码头工人协会已达成协议，加薪60%！还要更多？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/taiwannews/20210119/1470761.md" target="_blank">独家：震撼纪录片《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
 <li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/tculture/20231208/1971390.md" target="_blank">传统文化之汉字的内涵</a></li>
-<li><a href="/comments/20231213/1973586.md" target="_blank">六道轮回之畜生道</a></li>
-<li><a href="/comments/20190220/1083672.md" target="_blank">胡平：法轮功与其他一些宗教或信仰之比较</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/tculture/20240916/2089420.md" target="_blank">诗人苏轼与黄庭坚的生命轮回</a></li>
-<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/comments/20240820/2076940.md" target="_blank">惠虎宇：中华文化为什么是高级文化系统(2)</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/taiwannews/20210119/1470761.md" target="_blank">独家：震撼纪录片《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/cbnews/20240902/2082501.md" target="_blank">中元节祭祖有没有效果呢？那边真的可以收到纸钱吗？</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/comments/20190701/1151501.md" target="_blank">【特稿】中国共产党是邪教组织</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
 <li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20240704/2058130.md" target="_blank">百年梦醒（十八）：共产魔教的机制、前所未有的巨大野心</a></li>
+<li><a href="/comments/20240418/2026391.md" target="_blank">医生劝我妻子放弃，似乎这些医生热衷让病人快点去死？</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/comments/20240412/2024185.md" target="_blank">是治疗还是屠杀?化疗药品滴一滴在皮肤即灼伤，很长时间才好</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
 
 </ul>
 </div>
