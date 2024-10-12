@@ -8,24 +8,24 @@
 <li><a href="/baitai/20241012/2100892.md">超震撼！习近平内部讲话流出 传王岐山被软禁</a></li>
 <li><a href="/yule/20241012/2100673.md">看了48岁林心如的泳装照 才明白微胖才是极品</a></li>
 <li><a href="/baitai/20241012/2100678.md">中国股市大跌 谁在背后砸盘？</a></li>
-<li><a href="/topimagenews/20241012/2100707.md">王健林不行了！习近平借此警告红二代？【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20241011/2100604.md">传现任海军政委被查，习在逐渐被架空？</a></li>
+<li><a href="/topimagenews/20241012/2100707.md">王健林不行了！习近平借此警告红二代？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20241012/2100760.md">全中国股民追缉！网红“大蓝”的下场可能会很惨</a></li>
 <li><a href="/cbnews/20241012/2100701.md">江峰：习近平已衰败！铁证在此</a></li>
 <li><a href="/topimagenews/20241011/2100594.md">中国散户疯炒股！1天领光银行40亿存款 银行大失血</a></li>
-<li><a href="/cbnews/20241011/2100527.md">灵魂转世？苏州5岁女童谈古论今 内容惊人</a></li>
 <li><a href="/cbnews/20241012/2100745.md">李小鹏被撤销全国政协委员资格 养老？这职位目前已有16名副主任</a></li>
+<li><a href="/cbnews/20241011/2100527.md">灵魂转世？苏州5岁女童谈古论今 内容惊人</a></li>
 <li><a href="/cbnews/20241012/2100810.md">〖红朝浮世绘〗世界上最短命的牛市</a></li>
 <li><a href="/ssgc/20241012/2100786.md">〖微博谈〗无人能取代习近平，把这个锅背下来</a></li>
 <li><a href="/lifebaike/20241012/2100613.md">大明灭亡24小时前，发生两件事，至今都很诡异</a></li>
 <li><a href="/cbnews/20241012/2100853.md">八天三名中共正国级省部级高官病亡</a></li>
 <li><a href="/topimagenews/20241012/2100741.md">辱毛得福？曝毕福剑再婚妻出身优秀 老来得子</a></li>
-<li><a href="/topimagenews/20241012/2100851.md">工人当场被机器人活活压住不治身亡 比亚迪工厂出事</a></li>
+<li><a href="/cbnews/20241012/2100925.md">出大事了？！习接连缺席重要会议 表面上安然无恙有2原因</a></li>
 <li><a href="/sohnews/20241012/2100709.md">政坛诡异，彭丽媛下课，“废太子”回归；习亲信落马消失；习近平经济大权旁落？中共元老联手倒习；中共还想侵台？导弹可能飞歪！超强飓风来袭，美国大选惊奇！哪一条件对川普有利？｜新闻五人行 10/11</a></li>
+<li><a href="/topimagenews/20241012/2100851.md">工人当场被机器人活活压住不治身亡 比亚迪工厂出事</a></li>
 <li><a href="/cbnews/20241012/2100702.md">江峰：他因为这一个想不到，丢掉了中共总书记的大位</a></li>
 <li><a href="/topimagenews/20241011/2100542.md">陆监视器巨头“海康威视”大裁员 上千人没工作 内幕曝光</a></li>
 <li><a href="/topimagenews/20241012/2100795.md">策划一整年！杭州男凌晨划船盗走50万RMB现金</a></li>
-<li><a href="/cbnews/20241012/2100925.md">出大事了？！习接连缺席重要会议 表面上安然无恙有2原因</a></li>
 <li><a href="/yule/20241012/2100617.md">被10亿人怀念的国民初恋 沦落成卖货柜姐</a></li>
 <li><a href="/yule/20241012/2100671.md">5年后再看那21岁就娶赌王千金的哈佛学霸 今...</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -35,6 +35,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20241012/2100976.md" target="_blank">哈里斯3个月筹了10个亿！创历史纪录！</a></li>
+<li><a href="/cbnews/20241012/2100973.md" target="_blank">对台政策比拼 中共盼谁当选？ 川普2.0会有变化？</a></li>
+<li><a href="/cbnews/20241012/2100972.md" target="_blank">肇事者疑泄愤 江西一家三口被撞身亡</a></li>
 <li><a href="/cbnews/20241012/2100925.md" target="_blank">出大事了？！习接连缺席重要会议 表面上安然无恙有2原因</a></li>
 <li><a href="/cbnews/20241012/2100621.md" target="_blank">哈里斯接棒奥巴马没完成的共产主义梦想</a></li>
 <li><a href="/cbnews/20241012/2100886.md" target="_blank">江峰：中共洲际导弹落点确认，美军没“吓尿”反而乐了； 四天股市惊天逆转，央行与财政部联手，印多少钱花多少钱，花多少钱印多少钱的无锚印钞开启【江峰漫谈20241011第952期】</a></li>
@@ -57,9 +60,6 @@
 <li><a href="/cbnews/20241012/2100702.md" target="_blank">江峰：他因为这一个想不到，丢掉了中共总书记的大位</a></li>
 <li><a href="/cbnews/20241012/2100701.md" target="_blank">江峰：习近平已衰败！铁证在此</a></li>
 <li><a href="/cbnews/20241012/2100700.md" target="_blank">江峰：双十节庆一首诗，十四行字写中华民国沧桑113年</a></li>
-<li><a href="/cbnews/20241012/2100699.md" target="_blank">江峰：这一仗，是为国民党打的，还是为台湾打的？</a></li>
-<li><a href="/cbnews/20241012/2100698.md" target="_blank">江峰：为何赖清德提起一件往事，台湾执政在野两党都会满意？</a></li>
-<li><a href="/comments/20241012/2100681.md" target="_blank">美国政府为何债台高筑？</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20241012/2100976.md" target="_blank">哈里斯3个月筹了10个亿！创历史纪录！</a></li>
+<li><a href="/comments/20241012/2100968.md" target="_blank">案情不单纯🤔军队高官张又侠跟美国安顾问沙利文单独会面</a></li>
 <li><a href="/comments/20241012/2100910.md" target="_blank">天亮时分：张又侠在拿海军开刀？ #中共</a></li>
 <li><a href="/comments/20241012/2100898.md" target="_blank">你就是想玩我</a></li>
 <li><a href="/comments/20241012/2100860.md" target="_blank">刘远举｜经济复苏仍需要强力政策，建议直接发钱</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20241011/2100606.md" target="_blank">演砸了！散户被套住很光荣？股市跌跌跌📉网红大爷躲起来了</a></li>
 <li><a href="/comments/20241011/2100601.md" target="_blank">时事大家谈：吴邦国和“五不搞”为当今中国留下了什么？</a></li>
 <li><a href="/comments/20241011/2100597.md" target="_blank">【寰宇古今】《教育刺针》721「调头警」帖文被禁事件</a></li>
-<li><a href="/comments/20241011/2100569.md" target="_blank">时事大家谈：彭立发生死不明任志强狱中病重，中国民间反抗还会继续吗？吴邦国和“五不搞”为当今中国留下了什么？</a></li>
-<li><a href="/comments/20241011/2100541.md" target="_blank">盖勒普民调说4成美国人提前投票，他们都是谁?｜选情｜2024美国大选｜方伟时间 10.11.2024</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/tculture/20231202/1968819.md" target="_blank">六道轮回之天神道</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20231207/1970628.md" target="_blank">民兵对官军，希望之声打造广播界的奇蹟【方伟时间-20231206】</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20231223/1978148.md" target="_blank">医山夜话：张锡纯医案解读（三）赭石：降胃气 引火下行</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20240921/2091850.md" target="_blank">冥府阎王的阴差 吴玉华视频访谈，活人做阴差 当代真实案例</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
 <li><a href="/cbnews/20231208/1971389.md" target="_blank">话说中医之祝由科</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/cnnews/20150914/449521.md" target="_blank">无神论和有神论，乡下老太太驳倒三个博士</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
-<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
-<li><a href="/lifebaike/20180527/948531.md" target="_blank">无神论是最大的迷信（上）：科学无法证实神不存在</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20190214/1080789.md" target="_blank">胡平：天安门自焚和人民圣殿教</a></li>
+<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
+<li><a href="/comments/20240814/2074560.md" target="_blank">曾预言川普右耳中枪的牧师，看到美国大灾难，川普在椭圆形办公室哭泣，祈祷神修复美国。不信神的人被淘汰。比格斯川普暗杀事件</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20240918/2089868.md" target="_blank">马云前世修道，李嘉诚前世是和尚-数字漫谈（三）</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
 
 </ul>
 </div>
