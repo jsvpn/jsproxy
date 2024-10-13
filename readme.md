@@ -11,23 +11,23 @@
 <li><a href="/baitai/20241013/2101048.md">成绩再好也没戏！户口本上出现这“4个字”，基本无缘公务员</a></li>
 <li><a href="/topimagenews/20241013/2101070.md">中国客机场大喊“滚回中国” 老外看傻</a></li>
 <li><a href="/topimagenews/20241013/2101072.md">震惊！上海关停唯一外语频道</a></li>
-<li><a href="/baitai/20241012/2100964.md">极度心理扭曲的人，不是咄咄逼人，而是有这4个特征</a></li>
-<li><a href="/topimagenews/20241013/2101163.md">陆网愤怒爆表！中共财长说漏嘴 拨给百姓的巨款遭大挪移</a></li>
-<li><a href="/ssgc/20241013/2101016.md">习近平大权旁落？温家宝出山救党？</a></li>
 <li><a href="/cbnews/20241013/2101190.md">中南海怪事 李强见越共总书记 习见政治局委员</a></li>
-<li><a href="/topimagenews/20241013/2101112.md">蔡英文深夜突然发声</a></li>
-<li><a href="/baitai/20241013/2101023.md">中国股市结局已定 谁来背锅？</a></li>
+<li><a href="/baitai/20241012/2100964.md">极度心理扭曲的人，不是咄咄逼人，而是有这4个特征</a></li>
+<li><a href="/ssgc/20241013/2101016.md">习近平大权旁落？温家宝出山救党？</a></li>
+<li><a href="/topimagenews/20241013/2101163.md">陆网愤怒爆表！中共财长说漏嘴 拨给百姓的巨款遭大挪移</a></li>
 <li><a href="/yule/20241013/2101105.md">这是马云？现身美国纽约未带保镖，变化太大，苍老憔悴，难以认出</a></li>
+<li><a href="/baitai/20241013/2101023.md">中国股市结局已定 谁来背锅？</a></li>
+<li><a href="/topimagenews/20241013/2101112.md">蔡英文深夜突然发声</a></li>
 <li><a href="/finance/20241013/2101073.md">故意的？中国财政部记者会出现“耳语”一幕</a></li>
 <li><a href="/comments/20241013/2101019.md">哇 天安门！！中国民国万岁👀好多人拍照摆这POSE</a></li>
 <li><a href="/comments/20241013/2101121.md">菁英论坛：胡春华突然高调冒头 中南海或开启李强时刻</a></li>
 <li><a href="/cnnews/20241013/2101052.md">大逆转！中共4箭齐发救经济？中国股市逃生将现惨烈踩踏！中共设计套死百姓三万亿血汗钱</a></li>
-<li><a href="/worldnews/20241013/2101097.md">这个横跨两大洲的小国，快被中国人挤爆</a></li>
 <li><a href="/topimagenews/20241013/2101170.md">习狼狈了!遭遇赖清德直球对决</a></li>
+<li><a href="/worldnews/20241013/2101097.md">这个横跨两大洲的小国，快被中国人挤爆</a></li>
 <li><a href="/finance/20241013/2101061.md">中国财政部1正3副部长发声 极简版要点来了</a></li>
 <li><a href="/sohnews/20241013/2101229.md">最新报道：王岐山正式被抄家软禁，下周一将出大事，习近平关于股市的精心策划。《老灯开讲第694期》</a></li>
+<li><a href="/yule/20241013/2101201.md">林心如比基尼旧照疯传 本人反应曝光</a></li>
 <li><a href="/cnnews/20241012/2100994.md">31岁新郎双臂上举 死于“跨省闪婚”5天之后</a></li>
-<li><a href="/topimagenews/20241013/2101069.md">颠覆战局！美军“毒枭船”首次潜进中共家门口</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20241013/2101271.md" target="_blank">乱世用重典？民不聊生！中共各地方政府高强度执法</a></li>
 <li><a href="/comments/20241013/2101233.md" target="_blank">天亮时分：现在现经济倒逼政治，地方倒逼中央？ #中共 #习近平 #中国经济</a></li>
 <li><a href="/comments/20241013/2101210.md" target="_blank">洪耀南：澳门新特首 北京的“改土归流”</a></li>
 <li><a href="/comments/20241013/2101157.md" target="_blank">决战北卡！万斯市政厅访谈，智慧犹如泉涌：幽默而严肃。年轻女主持也超赞！万斯飓风北卡州</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20241013/2101039.md" target="_blank">全民健保到底是不是基本人权？</a></li>
 <li><a href="/comments/20241013/2101026.md" target="_blank">【黎智英儿子：期望英国外相把爸爸带回家】</a></li>
 <li><a href="/comments/20241013/2101020.md" target="_blank">赖清德频打 “中华民国”牌</a></li>
-<li><a href="/comments/20241013/2101019.md" target="_blank">哇 天安门！！中国民国万岁👀好多人拍照摆这POSE</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/cnnews/20221211/1822144.md" target="_blank">盖盖冲马桶很可怕！瞬间“病毒炸开”？</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20240703/2057730.md" target="_blank">百年梦醒（十七）：马克思的连环计、出卖灵魂</a></li>
-<li><a href="/comments/20231213/1973586.md" target="_blank">六道轮回之畜生道</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/comments/20231214/1974098.md" target="_blank">美国众议院议长：我所坚守的保守主义，具体是些什么内容？</a></li>
-<li><a href="/comments/20240808/2071869.md" target="_blank">【新纪元】被误解的大脑</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20240825/2079044.md" target="_blank">谁是创世主</a></li>
-<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20240814/2074560.md" target="_blank">曾预言川普右耳中枪的牧师，看到美国大灾难，川普在椭圆形办公室哭泣，祈祷神修复美国。不信神的人被淘汰。比格斯川普暗杀事件</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/comments/20240418/2026391.md" target="_blank">医生劝我妻子放弃，似乎这些医生热衷让病人快点去死？</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
 <li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/aomi/life/20240330/2018911.md" target="_blank">挪威青年这样走出重度失眠和抑郁煎熬</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
+<li><a href="/comments/20240723/2065714.md" target="_blank">台湾民视：解谜法轮功 气功或宗教？</a></li>
 
 </ul>
 </div>
