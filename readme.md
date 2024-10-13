@@ -8,11 +8,11 @@
 <li><a href="/topimagenews/20241013/2101070.md">中国客机场大喊“滚回中国” 老外看傻</a></li>
 <li><a href="/yule/20241013/2101105.md">这是马云？现身美国纽约未带保镖，变化太大，苍老憔悴，难以认出</a></li>
 <li><a href="/topimagenews/20241013/2101163.md">陆网愤怒爆表！中共财长说漏嘴 拨给百姓的巨款遭大挪移</a></li>
-<li><a href="/cbnews/20241013/2101190.md">中南海怪事 李强见越共总书记 习见政治局委员</a></li>
 <li><a href="/sohnews/20241013/2101229.md">最新报道：王岐山正式被抄家软禁，下周一将出大事，习近平关于股市的精心策划。《老灯开讲第694期》</a></li>
+<li><a href="/cbnews/20241013/2101190.md">中南海怪事 李强见越共总书记 习见政治局委员</a></li>
 <li><a href="/topimagenews/20241013/2101072.md">震惊！上海关停唯一外语频道</a></li>
-<li><a href="/baitai/20241013/2101288.md">习近平下一个接班人是他？李强频繁高调露面</a></li>
 <li><a href="/ccpdope/20241013/2101231.md">中南海气氛诡异传王岐山被软禁</a></li>
+<li><a href="/baitai/20241013/2101288.md">习近平下一个接班人是他？李强频繁高调露面</a></li>
 <li><a href="/finance/20241013/2101073.md">故意的？中国财政部记者会出现“耳语”一幕</a></li>
 <li><a href="/topimagenews/20241013/2101112.md">蔡英文深夜突然发声</a></li>
 <li><a href="/topimagenews/20241013/2101170.md">习狼狈了!遭遇赖清德直球对决</a></li>
@@ -20,14 +20,14 @@
 <li><a href="/comments/20241013/2101121.md">菁英论坛：胡春华突然高调冒头 中南海或开启李强时刻</a></li>
 <li><a href="/baitai/20241013/2101270.md">普拉提毒害了多少女人，还有很多人不知道......</a></li>
 <li><a href="/cnnews/20241013/2101211.md">镜头下北京凌晨街头：让人潸然泪下</a></li>
-<li><a href="/yule/20241013/2101201.md">林心如比基尼旧照疯传 本人反应曝光</a></li>
 <li><a href="/ssgc/20241013/2101306.md">习远平参加陕甘一纪念活动 高规格不再</a></li>
-<li><a href="/cnnews/20241013/2101052.md">大逆转！中共4箭齐发救经济？中国股市逃生将现惨烈踩踏！中共设计套死百姓三万亿血汗钱</a></li>
+<li><a href="/yule/20241013/2101201.md">林心如比基尼旧照疯传 本人反应曝光</a></li>
 <li><a href="/worldnews/20241013/2101097.md">这个横跨两大洲的小国，快被中国人挤爆</a></li>
 <li><a href="/sohnews/20241013/2101216.md">文睿：周一，要炸了</a></li>
 <li><a href="/topimagenews/20241013/2101111.md">就是不回中国！王思聪现身伦敦卖豪宅 亲舅被抓后决心移居？</a></li>
 <li><a href="/cnnews/20241013/2101213.md">10男集体乱用壮阳药 结果GG必须割掉一半</a></li>
 <li><a href="/finance/20241013/2101061.md">中国财政部1正3副部长发声 极简版要点来了</a></li>
+<li><a href="/ssgc/20241013/2101160.md">〖微博谈〗你们这样搞小动作，不能事先串通好吗？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20240801/2069416.md" target="_blank">无神论和有神论深度解析</a></li>
-<li><a href="/tculture/20240916/2089420.md" target="_blank">诗人苏轼与黄庭坚的生命轮回</a></li>
-<li><a href="/cnnews/20221211/1822144.md" target="_blank">盖盖冲马桶很可怕！瞬间“病毒炸开”？</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/sohnews/20240923/2092491.md" target="_blank">布兰登比格斯曾听到两位天使的对话，对他震动很大&#8230;&#8230;</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20240820/2076928.md" target="_blank">惠虎宇：中华文化为什么是高级文化系统(1)</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/ssgc/20240508/2034288.md" target="_blank">《透视“进化论”》第九章 人类起源问题的终极答案</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
 
 </ul>
 </div>
