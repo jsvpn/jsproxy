@@ -5,8 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/sohnews/20241013/2101043.md">外宣媒体曝王岐山被查，查证结果竟然是这样！一句话说透财政部记者会，A股要凉？以色列报复在即，拜登又下“指标”！｜远见快评 唐靖远</a></li>
-<li><a href="/baitai/20241013/2101048.md">成绩再好也没戏！户口本上出现这“4个字”，基本无缘公务员</a></li>
 <li><a href="/topimagenews/20241013/2101070.md">中国客机场大喊“滚回中国” 老外看傻</a></li>
 <li><a href="/yule/20241013/2101105.md">这是马云？现身美国纽约未带保镖，变化太大，苍老憔悴，难以认出</a></li>
 <li><a href="/topimagenews/20241013/2101163.md">陆网愤怒爆表！中共财长说漏嘴 拨给百姓的巨款遭大挪移</a></li>
@@ -28,6 +26,8 @@
 <li><a href="/worldnews/20241013/2101097.md">这个横跨两大洲的小国，快被中国人挤爆</a></li>
 <li><a href="/sohnews/20241013/2101216.md">文睿：周一，要炸了</a></li>
 <li><a href="/topimagenews/20241013/2101111.md">就是不回中国！王思聪现身伦敦卖豪宅 亲舅被抓后决心移居？</a></li>
+<li><a href="/cnnews/20241013/2101213.md">10男集体乱用壮阳药 结果GG必须割掉一半</a></li>
+<li><a href="/finance/20241013/2101061.md">中国财政部1正3副部长发声 极简版要点来了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20241014/2101369.md" target="_blank">天亮时分：唐朝“安史之乱”的恶果，藩镇割据彻底瓦解中央权力？</a></li>
 <li><a href="/comments/20241014/2101331.md" target="_blank">中国股市上涨是昙花一现吗？</a></li>
 <li><a href="/comments/20241014/2101330.md" target="_blank">中国人普遍认为 在中国没前途</a></li>
 <li><a href="/comments/20241013/2101324.md" target="_blank">新花招？房屋体检🏘️给房子交养老金？总之就是搞个政策🤌党要你交钱🤌上海等22城市开始试行</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20241013/2101123.md" target="_blank">蔡德林:东南亚的汪精卫</a></li>
 <li><a href="/comments/20241013/2101122.md" target="_blank">陶杰：台湾，正处于中华民国的第三共和状态</a></li>
 <li><a href="/comments/20241013/2101121.md" target="_blank">菁英论坛：胡春华突然高调冒头 中南海或开启李强时刻</a></li>
-<li><a href="/comments/20241013/2101098.md" target="_blank">颜纯钩:习近平大权旁落？温家宝出山救党？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/sohnews/20240923/2092492.md" target="_blank">布兰登‧比格斯第一次见到神（四）：神的眼里充满了泪水，对布兰登说：你看到中国了吗？</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/cbnews/20190701/1151453.md" target="_blank">盘点十大邪教特征 中共条条对号入座</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20190214/1080789.md" target="_blank">胡平：天安门自焚和人民圣殿教</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
+<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20240801/2069416.md" target="_blank">无神论和有神论深度解析</a></li>
+<li><a href="/tculture/20240916/2089420.md" target="_blank">诗人苏轼与黄庭坚的生命轮回</a></li>
+<li><a href="/cnnews/20221211/1822144.md" target="_blank">盖盖冲马桶很可怕！瞬间“病毒炸开”？</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
 <li><a href="/sohnews/20240923/2092491.md" target="_blank">布兰登比格斯曾听到两位天使的对话，对他震动很大&#8230;&#8230;</a></li>
-<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
 <li><a href="/comments/20240820/2076928.md" target="_blank">惠虎宇：中华文化为什么是高级文化系统(1)</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
 
 </ul>
 </div>
