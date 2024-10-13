@@ -8,26 +8,26 @@
 <li><a href="/baitai/20241012/2100892.md">超震撼！习近平内部讲话流出 传王岐山被软禁</a></li>
 <li><a href="/cbnews/20241012/2100925.md">出大事了？！习接连缺席重要会议 表面上安然无恙有2原因</a></li>
 <li><a href="/cbnews/20241012/2100853.md">八天三名中共正国级省部级高官病亡</a></li>
-<li><a href="/cbnews/20241012/2100810.md">〖红朝浮世绘〗世界上最短命的牛市</a></li>
 <li><a href="/topimagenews/20241012/2100851.md">工人当场被机器人活活压住不治身亡 比亚迪工厂出事</a></li>
 <li><a href="/baitai/20241012/2100962.md">崩溃！突然确诊，超多人不离手…</a></li>
 <li><a href="/headline/20241012/2100923.md">再出2.5万亿：中国提出雄心勃勃的经济复苏计划</a></li>
 <li><a href="/baitai/20241012/2100944.md">顔纯鈎：习近平大权旁落？温家宝出山救党？</a></li>
 <li><a href="/sohnews/20241013/2101043.md">外宣媒体曝王岐山被查，查证结果竟然是这样！一句话说透财政部记者会，A股要凉？以色列报复在即，拜登又下“指标”！｜远见快评 唐靖远</a></li>
-<li><a href="/topimagenews/20241012/2100924.md">怕以色列报复 伊朗超紧张 拜登政府忧心忡忡</a></li>
-<li><a href="/sohnews/20241012/2101009.md">吴邦国反水倒戈投靠习派</a></li>
-<li><a href="/comments/20241012/2100816.md">天亮时分：真出事儿了？爱将落马，习近平缺席重要会议；股市要崩，习近平就完了；选情大逆转，民主党很恐慌（政论天下第1426集 20241011）天亮时分</a></li>
-<li><a href="/sohnews/20241012/2100901.md">首次：御医披露习近平最新病情，习再缺席重要大会，习之所以表面上安然无恙主要有两个原因。《老灯开讲第693期》</a></li>
-<li><a href="/baitai/20241012/2100809.md">彭丽媛大权旁落？分析：中国随时出事</a></li>
-<li><a href="/ssgc/20241013/2101016.md">习近平大权旁落？温家宝出山救党？</a></li>
 <li><a href="/baitai/20241013/2101048.md">成绩再好也没戏！户口本上出现这“4个字”，基本无缘公务员</a></li>
+<li><a href="/sohnews/20241012/2101009.md">吴邦国反水倒戈投靠习派</a></li>
+<li><a href="/topimagenews/20241012/2100924.md">怕以色列报复 伊朗超紧张 拜登政府忧心忡忡</a></li>
+<li><a href="/sohnews/20241012/2100901.md">首次：御医披露习近平最新病情，习再缺席重要大会，习之所以表面上安然无恙主要有两个原因。《老灯开讲第693期》</a></li>
+<li><a href="/ssgc/20241013/2101016.md">习近平大权旁落？温家宝出山救党？</a></li>
 <li><a href="/baitai/20241012/2100964.md">极度心理扭曲的人，不是咄咄逼人，而是有这4个特征</a></li>
 <li><a href="/cbnews/20241012/2100886.md">江峰：中共洲际导弹落点确认，美军没“吓尿”反而乐了； 四天股市惊天逆转，央行与财政部联手，印多少钱花多少钱，花多少钱印多少钱的无锚印钞开启【江峰漫谈20241011第952期】</a></li>
 <li><a href="/topimagenews/20241012/2100824.md">中共羞于出口！中美俄战机时速差距太大</a></li>
 <li><a href="/cbnews/20241012/2100852.md">“不倒闭就可永久观看” 大陆民宿摄像头背后</a></li>
 <li><a href="/baitai/20241013/2101023.md">中国股市结局已定 谁来背锅？</a></li>
+<li><a href="/topimagenews/20241013/2101072.md">震惊！上海关停唯一外语频道</a></li>
 <li><a href="/lifebaike/20241012/2100926.md">你以为是正常消费，其实压根没必要的9种花钱行为，我40岁才顿悟</a></li>
 <li><a href="/cnnews/20241012/2100876.md">奥巴马调侃78岁川普“穿成人纸尿裤”，惹来争议</a></li>
+<li><a href="/cnnews/20241012/2100994.md">31岁新郎双臂上举 死于“跨省闪婚”5天之后</a></li>
+<li><a href="/comments/20241013/2101019.md">哇 天安门！！中国民国万岁👀好多人拍照摆这POSE</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20241013/2101135.md" target="_blank">【杰森视角】财政部新闻发布会通告中暗藏抱怨习近平的信号？中国财政刺激政策中有个奇妙的袖珍方案！中共在10月6日就向海外透露了想控制股市疯狂的思路？新浪证券微博上一个00后炒股的故事给了中共三个痛点！</a></li>
 <li><a href="/cbnews/20241013/2101115.md" target="_blank">福建泉州当街砍人2死2伤 传一家险被灭门</a></li>
 <li><a href="/cbnews/20241013/2101114.md" target="_blank">河南17岁高中生参加升旗仪式猝死</a></li>
 <li><a href="/cbnews/20241013/2101095.md" target="_blank">又一起 莆田外卖骑手倒地猝死</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20241012/2100828.md" target="_blank">抖音惊现台湾早年策反视频 中国民众点赞回应</a></li>
 <li><a href="/cbnews/20241012/2100827.md" target="_blank">时代巨变？罕见首次！中国人最忌讳的不详之物 八万年一遇本周末飞越地球</a></li>
 <li><a href="/cbnews/20241012/2100810.md" target="_blank">〖红朝浮世绘〗世界上最短命的牛市</a></li>
-<li><a href="/comments/20241012/2100776.md" target="_blank">人类是在大宇宙中随机产生的吗？</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20241013/2101135.md" target="_blank">【杰森视角】财政部新闻发布会通告中暗藏抱怨习近平的信号？中国财政刺激政策中有个奇妙的袖珍方案！中共在10月6日就向海外透露了想控制股市疯狂的思路？新浪证券微博上一个00后炒股的故事给了中共三个痛点！</a></li>
 <li><a href="/comments/20241013/2101125.md" target="_blank">罗世宏：一场正在发生的科技政变：科技巨头与民主危机</a></li>
 <li><a href="/comments/20241013/2101124.md" target="_blank">汪浩：赖清德的“中华民国历史三段论”</a></li>
 <li><a href="/comments/20241013/2101123.md" target="_blank">蔡德林:东南亚的汪精卫</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20241012/2100898.md" target="_blank">你就是想玩我</a></li>
 <li><a href="/comments/20241012/2100860.md" target="_blank">刘远举｜经济复苏仍需要强力政策，建议直接发钱</a></li>
 <li><a href="/comments/20241012/2100859.md" target="_blank">被封杀文：38年前，蒋经国松口“解严”，开放党禁报禁</a></li>
-<li><a href="/comments/20241012/2100858.md" target="_blank">历史中的遮蔽：你只是爱皇帝而已</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20240828/2080320.md" target="_blank">惠虎宇：与AI聊传统宗教、科学和修炼</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
-<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/aomi/life/20240330/2018911.md" target="_blank">挪威青年这样走出重度失眠和抑郁煎熬</a></li>
-<li><a href="/cbnews/20240902/2082501.md" target="_blank">中元节祭祖有没有效果呢？那边真的可以收到纸钱吗？</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/sohnews/20240908/2085761.md" target="_blank">初次见到神；看到兽的印记；目睹灾难来临时什么样的人会被留下</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20230920/1936271.md" target="_blank">防止你的孩子不成功（5） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/comments/20240825/2079044.md" target="_blank">谁是创世主</a></li>
+<li><a href="/tculture/20231119/1962827.md" target="_blank">六道轮回之地狱道</a></li>
+<li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
 
 </ul>
 </div>
