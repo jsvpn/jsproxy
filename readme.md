@@ -13,8 +13,8 @@
 <li><a href="/topimagenews/20241013/2101072.md">震惊！上海关停唯一外语频道</a></li>
 <li><a href="/ccpdope/20241013/2101231.md">中南海气氛诡异传王岐山被软禁</a></li>
 <li><a href="/baitai/20241013/2101288.md">习近平下一个接班人是他？李强频繁高调露面</a></li>
-<li><a href="/topimagenews/20241013/2101112.md">蔡英文深夜突然发声</a></li>
 <li><a href="/finance/20241013/2101073.md">故意的？中国财政部记者会出现“耳语”一幕</a></li>
+<li><a href="/topimagenews/20241013/2101112.md">蔡英文深夜突然发声</a></li>
 <li><a href="/topimagenews/20241013/2101170.md">习狼狈了!遭遇赖清德直球对决</a></li>
 <li><a href="/headline/20241013/2101245.md">中国财政部再令市场失望 周一「恐怕再迎来大时代」</a></li>
 <li><a href="/comments/20241013/2101121.md">菁英论坛：胡春华突然高调冒头 中南海或开启李强时刻</a></li>
@@ -26,8 +26,8 @@
 <li><a href="/sohnews/20241013/2101216.md">文睿：周一，要炸了</a></li>
 <li><a href="/topimagenews/20241013/2101111.md">就是不回中国！王思聪现身伦敦卖豪宅 亲舅被抓后决心移居？</a></li>
 <li><a href="/cnnews/20241013/2101213.md">10男集体乱用壮阳药 结果GG必须割掉一半</a></li>
-<li><a href="/finance/20241013/2101061.md">中国财政部1正3副部长发声 极简版要点来了</a></li>
 <li><a href="/cbnews/20241013/2101311.md">潜伏在中国高层的10位间谍，个个身份显赫</a></li>
+<li><a href="/ssgc/20241013/2101160.md">〖微博谈〗你们这样搞小动作，不能事先串通好吗？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,8 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20241014/2101381.md" target="_blank">中共最后时刻来临！财政部出新招 造百年债让百姓还</a></li>
+<li><a href="/topimagenews/20241014/2101380.md" target="_blank">真高手！中共财政部长拼命暗示…</a></li>
 <li><a href="/topimagenews/20241013/2101170.md" target="_blank">习狼狈了!遭遇赖清德直球对决</a></li>
 <li><a href="/topimagenews/20241013/2101163.md" target="_blank">陆网愤怒爆表！中共财长说漏嘴 拨给百姓的巨款遭大挪移</a></li>
 <li><a href="/topimagenews/20241013/2101113.md" target="_blank">“我爱川普”！马斯克助选打算亲自上门拉票</a></li>
@@ -89,8 +91,6 @@
 <li><a href="/topimagenews/20241012/2100726.md" target="_blank">惨遭全球抵制？中国巨头临严峻挑战 大裁员【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20241012/2100708.md" target="_blank">赖清德一举引发全球关注！中共坐不住了【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20241012/2100707.md" target="_blank">王健林不行了！习近平借此警告红二代？【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20241012/2100706.md" target="_blank">残酷真相：现在所有政策就是要消灭大家存款；先走为快，他们创纪录抛中国股票</a></li>
-<li><a href="/topimagenews/20241011/2100594.md" target="_blank">中国散户疯炒股！1天领光银行40亿存款 银行大失血</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20231214/1974098.md" target="_blank">美国众议院议长：我所坚守的保守主义，具体是些什么内容？</a></li>
-<li><a href="/sohnews/20240923/2092491.md" target="_blank">布兰登比格斯曾听到两位天使的对话，对他震动很大&#8230;&#8230;</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/comments/20190213/1080251.md" target="_blank">胡平：法轮功为何反对自杀？</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
 <li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
-<li><a href="/comments/20231220/1976789.md" target="_blank">大陆医生曝：九价HPV疫苗导致怀孕能力下降40%</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/comments/20240814/2074560.md" target="_blank">曾预言川普右耳中枪的牧师，看到美国大灾难，川普在椭圆形办公室哭泣，祈祷神修复美国。不信神的人被淘汰。比格斯川普暗杀事件</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
 <li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/comments/20240828/2080320.md" target="_blank">惠虎宇：与AI聊传统宗教、科学和修炼</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/lifebaike/20180527/948531.md" target="_blank">无神论是最大的迷信（上）：科学无法证实神不存在</a></li>
+<li><a href="/topimagenews/20180608/954788.md" target="_blank">安乐死根本安乐不了，别宣传了</a></li>
+<li><a href="/comments/20210819/1609103.md" target="_blank">浅谈中医与西医的不同之处</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/tculture/20231208/1971390.md" target="_blank">传统文化之汉字的内涵</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20240703/2057730.md" target="_blank">百年梦醒（十七）：马克思的连环计、出卖灵魂</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/cbnews/20240603/2045072.md" target="_blank">漫谈古代科举之八股文</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20231214/1974138.md" target="_blank">将共产极权类比传统专制，是在帮共匪维稳</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
 
 </ul>
 </div>
