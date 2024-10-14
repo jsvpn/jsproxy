@@ -15,17 +15,17 @@
 <li><a href="/cbnews/20241013/2101312.md">【菁英论坛】发改委暗批央行放水 习罩不住了</a></li>
 <li><a href="/yule/20241014/2101355.md">好莱坞说唱巨星涉嫌情色交易被抓 牵涉小李子卡戴珊等</a></li>
 <li><a href="/topimagenews/20241014/2101381.md">中共最后时刻来临！财政部出新招 造百年债让百姓还</a></li>
-<li><a href="/cbnews/20241013/2101275.md">成都突发火灾 强烈火光腾起形成“蘑菇云”</a></li>
 <li><a href="/topimagenews/20241014/2101496.md">南北韩战争与台海战争一起发作？中国实施军事管制后将多惨烈</a></li>
 <li><a href="/sohnews/20241014/2101495.md">全国最怕习近平出事儿的不是彭丽媛，而是王岐山？习近平中共王岐山</a></li>
 <li><a href="/sohnews/20241013/2101309.md">中共国现在各地政府都躺平？中共习近平</a></li>
-<li><a href="/topimagenews/20241014/2101476.md">【微博精粹】特斯拉又蹂躏华为了</a></li>
 <li><a href="/topimagenews/20241014/2101406.md">死给中南海看！中共恐慌大逆转 转嫁全中国人买单</a></li>
-<li><a href="/topimagenews/20241014/2101465.md">中国老板们小心！中共政府执法机关伸出“掠夺之手”</a></li>
+<li><a href="/topimagenews/20241014/2101476.md">【微博精粹】特斯拉又蹂躏华为了</a></li>
 <li><a href="/topimagenews/20241014/2101387.md">惨无人道超纳粹！亲自操刀者惊爆中共魔鬼行径</a></li>
+<li><a href="/topimagenews/20241014/2101465.md">中国老板们小心！中共政府执法机关伸出“掠夺之手”</a></li>
 <li><a href="/yule/20241014/2101354.md">陈丽华立遗嘱180亿留给迟重瑞 男方一生无子女</a></li>
 <li><a href="/ssgc/20241014/2101481.md">〖微博谈〗习近平就是假话张口就来的人</a></li>
 <li><a href="/topimagenews/20241014/2101444.md">突发！川普又逃过生死一劫…一把霰弹枪和一把上膛手枪</a></li>
+<li><a href="/topimagenews/20241014/2101498.md">史上首次5代战机被击落? 传F-16立威 俄Su-57与Su-34栽了</a></li>
 <li><a href="/worldnews/20241014/2101371.md">朝鲜：已发作战预备指示，边境部队进入射击准备</a></li>
 <li><a href="/comments/20241014/2101331.md">中国股市上涨是昙花一现吗？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20241014/2101588.md" target="_blank">神靠一个数字，精心设计了宇宙，还展现在我们身体里！维持数十亿年，物理学家至今无解。从基本粒子到宏观宇宙，若无此数，就是重写宇宙历史。｜未解之谜 扶摇</a></li>
 <li><a href="/comments/20241014/2101572.md" target="_blank">川普5亿案，可能整个翻转？！</a></li>
 <li><a href="/cbnews/20241014/2101569.md" target="_blank">“五不搞”吴邦国火化 胡锦涛“露面”</a></li>
 <li><a href="/cbnews/20241014/2101511.md" target="_blank">惊爆！习“避难地堡” 能扛住美导弹吗？最险杀手或藏中南海</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20241013/2101275.md" target="_blank">成都突发火灾 强烈火光腾起形成“蘑菇云”</a></li>
 <li><a href="/cbnews/20241013/2101274.md" target="_blank">江西发生刑事案致两人死亡 嫌疑犯畏罪自杀</a></li>
 <li><a href="/cbnews/20241013/2101207.md" target="_blank">地灯漏电 厦门12岁男孩小区玩耍触电身亡</a></li>
-<li><a href="/cbnews/20241013/2101206.md" target="_blank">34岁男被裁员 孤身走进哀牢山 断食断水两天</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20241014/2101588.md" target="_blank">神靠一个数字，精心设计了宇宙，还展现在我们身体里！维持数十亿年，物理学家至今无解。从基本粒子到宏观宇宙，若无此数，就是重写宇宙历史。｜未解之谜 扶摇</a></li>
+<li><a href="/comments/20241014/2101580.md" target="_blank">说不赢就动粗？13日军演早先美国国务卿强调😬保护台海稳定！中共以赖清德演讲为藉口进行军演</a></li>
 <li><a href="/comments/20241014/2101572.md" target="_blank">川普5亿案，可能整个翻转？！</a></li>
 <li><a href="/comments/20241014/2101567.md" target="_blank">天亮时分：王岐山的好友、亲信一一被抓？ #中共 #王岐山</a></li>
 <li><a href="/comments/20241014/2101555.md" target="_blank">【解放军发动联合利剑-2024B演习】【台湾的总统府：中国应正视中华民国台湾存在的事实】</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20241014/2101369.md" target="_blank">天亮时分：唐朝“安史之乱”的恶果，藩镇割据彻底瓦解中央权力？</a></li>
 <li><a href="/comments/20241014/2101331.md" target="_blank">中国股市上涨是昙花一现吗？</a></li>
 <li><a href="/comments/20241014/2101330.md" target="_blank">中国人普遍认为 在中国没前途</a></li>
-<li><a href="/comments/20241013/2101324.md" target="_blank">新花招？房屋体检🏘️给房子交养老金？总之就是搞个政策🤌党要你交钱🤌上海等22城市开始试行</a></li>
-<li><a href="/comments/20241013/2101323.md" target="_blank">【旧瓶装新酒？奇瑞重启西方弃置厂房在俄生产】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/comments/20240703/2057730.md" target="_blank">百年梦醒（十七）：马克思的连环计、出卖灵魂</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
 <li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
-<li><a href="/cbnews/20190211/1078733.md" target="_blank">胡平：法轮功为什么能强化忍的精神</a></li>
-<li><a href="/cbnews/20231208/1971389.md" target="_blank">话说中医之祝由科</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/tculture/20240904/2083774.md" target="_blank">“几生修得到梅花”之生命品格浅议</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20240801/2069416.md" target="_blank">无神论和有神论深度解析</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
+<li><a href="/comments/20240318/2014289.md" target="_blank">唐柏桥：民运同仁突然向法轮功开火是怎么回事？</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/tculture/20190708/1154978.md" target="_blank">揭开“神用泥土造人”的秘密</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
 <li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
 
 </ul>
 </div>
