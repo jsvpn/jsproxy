@@ -10,7 +10,6 @@
 <li><a href="/cbnews/20241014/2101569.md">“五不搞”吴邦国火化 胡锦涛“露面”</a></li>
 <li><a href="/baitai/20241014/2101595.md">中南海疑爆双重政变 王岐山突传消息</a></li>
 <li><a href="/sohnews/20241014/2101495.md">全国最怕习近平出事儿的不是彭丽媛，而是王岐山？习近平中共王岐山</a></li>
-<li><a href="/topimagenews/20241014/2101406.md">死给中南海看！中共恐慌大逆转 转嫁全中国人买单</a></li>
 <li><a href="/topimagenews/20241014/2101496.md">南北韩战争与台海战争一起发作？中国实施军事管制后将多惨烈</a></li>
 <li><a href="/topimagenews/20241014/2101476.md">【微博精粹】特斯拉又蹂躏华为了</a></li>
 <li><a href="/topimagenews/20241014/2101465.md">中国老板们小心！中共政府执法机关伸出“掠夺之手”</a></li>
@@ -18,15 +17,16 @@
 <li><a href="/baitai/20241014/2101579.md">港股跳水A股狂飙！内地香港全慌了…</a></li>
 <li><a href="/topimagenews/20241014/2101498.md">史上首次5代战机被击落? 传F-16立威 俄Su-57与Su-34栽了</a></li>
 <li><a href="/comments/20241014/2101440.md">天亮时分：疑似和团派妥协，习近平二十一大交班？网传王岐山被软禁（政论天下第1428集 20241013）天亮时分</a></li>
-<li><a href="/cbnews/20241014/2101480.md">〖红朝浮世绘〗中共和伊斯兰恐怖分子沆瀣一气</a></li>
 <li><a href="/sohnews/20241014/2101573.md">陈破空：越南知悉中南海有变！超规格接待李强，冷遇习。胡锦涛特殊现身！习近平金正恩抓狂，一个大搞围台军演，一个摆出入侵架势。直播与互动：美东时间10月14日早9点、中港台当晚9点</a></li>
-<li><a href="/baitai/20241014/2101514.md">中共称「做好战斗准备」 台湾进入备战状态</a></li>
+<li><a href="/cbnews/20241014/2101480.md">〖红朝浮世绘〗中共和伊斯兰恐怖分子沆瀣一气</a></li>
 <li><a href="/sohnews/20241014/2101528.md">国务院官僚给习挖坑搞垮股市，王岐山与习近平争当接班人内幕，中共军演挑起冲突顺势封锁台湾。《老灯开讲第695期》</a></li>
+<li><a href="/baitai/20241014/2101514.md">中共称「做好战斗准备」 台湾进入备战状态</a></li>
 <li><a href="/topimagenews/20241014/2101444.md">突发！川普又逃过生死一劫…一把霰弹枪和一把上膛手枪</a></li>
 <li><a href="/finance/20241014/2101622.md">浙江前首富，出山救女</a></li>
 <li><a href="/topimagenews/20241014/2101442.md">张学良做鬼也想不到，蒋介石的话真应验了</a></li>
-<li><a href="/topimagenews/20241014/2101407.md">朝鲜突然下令：前线准备射击</a></li>
 <li><a href="/sohnews/20241014/2101281.md">坐拥巨款和四个小老婆的军阀朱德，为什么会加入共产党？真实历史竟如此狗血！</a></li>
+<li><a href="/yule/20241015/2101729.md">49岁董卿断崖式衰老 头发稀少穿着似大妈</a></li>
+<li><a href="/topimagenews/20241015/2101707.md">习近平3大错误让产业界对中共失信心！明居正：习在怕什么</a></li>
 <li><a href="/topimagenews/20241014/2101497.md">这时从中共军委到中南海高层，或像真主党头目成斩首目标</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/sohnews/20240811/2073215.md" target="_blank">人类末日在这两个时刻已经发生！有些人感受到了、曼德拉效应【文昭思绪飞扬373期】</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20240820/2076928.md" target="_blank">惠虎宇：中华文化为什么是高级文化系统(1)</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20240820/2076958.md" target="_blank">惠虎宇：中华文化为什么是高级文化系统(3)</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
 <li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/comments/20240820/2076928.md" target="_blank">惠虎宇：中华文化为什么是高级文化系统(1)</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20190214/1080789.md" target="_blank">胡平：天安门自焚和人民圣殿教</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
 
 </ul>
 </div>
