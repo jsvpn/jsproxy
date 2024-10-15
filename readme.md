@@ -11,8 +11,8 @@
 <li><a href="/topimagenews/20241015/2101811.md">真狂！官媒专为他排满一个半版面</a></li>
 <li><a href="/topimagenews/20241015/2101803.md">混乱 中南海接班人抢破头？胡春华诡异拉习藏心机</a></li>
 <li><a href="/topimagenews/20241015/2101877.md">金三为何气到要打韩国？反朝传单曝光</a></li>
-<li><a href="/topimagenews/20241015/2101947.md">传中共派助真主党IT小组被以色列全歼</a></li>
 <li><a href="/topimagenews/20241015/2101879.md">预备习身后事？争太子大位各常委你死我活 发大梦千姿百态</a></li>
+<li><a href="/topimagenews/20241015/2101947.md">传中共派助真主党IT小组被以色列全歼</a></li>
 <li><a href="/topimagenews/20241015/2102080.md">人民币异动 或有大麻烦</a></li>
 <li><a href="/sohnews/20241015/2102082.md">习想终身制？邓早就留了一手⋯⋯｜百年真相</a></li>
 <li><a href="/cbnews/20241015/2101953.md">〖红朝浮世绘〗韩国要和朝鲜要开打 真的要打第三次世界大战了么？</a></li>
@@ -20,13 +20,13 @@
 <li><a href="/topimagenews/20241015/2101852.md">突发！中国“房东税”刚性执行 房东租客再难幸免</a></li>
 <li><a href="/comments/20241015/2102118.md">一则来自京城的流言</a></li>
 <li><a href="/cnnews/20241015/2101890.md">习出席吴邦国告别式 吴一子一女现况被曝</a></li>
-<li><a href="/topimagenews/20241015/2101854.md">王思聪的底气从来都不是王健林，而是母亲林宁</a></li>
 <li><a href="/cnnews/20241015/2102016.md">三大表现！习近平的步伐，越来越快</a></li>
+<li><a href="/topimagenews/20241015/2101854.md">王思聪的底气从来都不是王健林，而是母亲林宁</a></li>
 <li><a href="/baitai/20241015/2101956.md">男子下班收到妻子短信：家有客人，你别回来。男子越想越不对劲，回家后推开房门崩溃了</a></li>
 <li><a href="/topimagenews/20241015/2101937.md">【微博精粹】中共极权已经到了向中国人民结账的时刻</a></li>
+<li><a href="/topimagenews/20241015/2102131.md">陆疯传“大清版新闻联播”! 调侃习近平超好笑 网呼 : 就是这个味道</a></li>
 <li><a href="/topimagenews/20241015/2101829.md">习背后欲望！发动前所未有大规模动员！他们有的荒诞不经，有的令人毛骨悚然</a></li>
 <li><a href="/sohnews/20241015/2101955.md">据传，中共75周年国庆招待会上，出席招待会的习近平是替身。与习近平替身坐在一起的温家宝和李瑞环，则充当了群众演员，用来欺骗全国民众。</a></li>
-<li><a href="/topimagenews/20241015/2102131.md">陆疯传“大清版新闻联播”! 调侃习近平超好笑 网呼 : 就是这个味道</a></li>
 <li><a href="/baitai/20241015/2102068.md">胡春华任滁州市政府党组书记</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/tculture/20240916/2089420.md" target="_blank">诗人苏轼与黄庭坚的生命轮回</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/cbnews/20240715/2062387.md" target="_blank">尧帝治世之道（一）</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
+<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
 <li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
-<li><a href="/comments/20240623/2053092.md" target="_blank">章天亮：那些行于世间的觉者</a></li>
-<li><a href="/topimagenews/20240511/2035423.md" target="_blank">原北京学员回忆李洪志先生在东方健康博览会上所行的奇迹</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/comments/20240721/2065039.md" target="_blank">王建勋：川普主义是雅各宾主义的克星</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/sohnews/20240908/2085761.md" target="_blank">初次见到神；看到兽的印记；目睹灾难来临时什么样的人会被留下</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
 
 </ul>
 </div>
