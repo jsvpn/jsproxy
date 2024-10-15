@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/cbnews/20241014/2101510.md">中共新太子高光时刻？习开启接班人大选？</a></li>
 <li><a href="/cbnews/20241014/2101569.md">“五不搞”吴邦国火化 胡锦涛“露面”</a></li>
 <li><a href="/baitai/20241014/2101595.md">中南海疑爆双重政变 王岐山突传消息</a></li>
 <li><a href="/baitai/20241014/2101579.md">港股跳水A股狂飙！内地香港全慌了…</a></li>
@@ -18,16 +17,17 @@
 <li><a href="/sohnews/20241014/2101528.md">国务院官僚给习挖坑搞垮股市，王岐山与习近平争当接班人内幕，中共军演挑起冲突顺势封锁台湾。《老灯开讲第695期》</a></li>
 <li><a href="/baitai/20241014/2101514.md">中共称「做好战斗准备」 台湾进入备战状态</a></li>
 <li><a href="/topimagenews/20241015/2101707.md">习近平3大错误让产业界对中共失信心！明居正：习在怕什么</a></li>
+<li><a href="/topimagenews/20241015/2101905.md">惊爆习猛料：不断杀人 只为发动一件大事</a></li>
 <li><a href="/health/20241014/2101558.md">5 种通便的蔬菜，堪称“肠道拖把”！帮你排出隔夜便、陈年老便</a></li>
 <li><a href="/topimagenews/20241015/2101852.md">突发！中国“房东税”刚性执行 房东租客再难幸免</a></li>
-<li><a href="/topimagenews/20241015/2101854.md">王思聪的底气从来都不是王健林，而是母亲林宁</a></li>
-<li><a href="/topimagenews/20241015/2101905.md">惊爆习猛料：不断杀人 只为发动一件大事</a></li>
-<li><a href="/yule/20241015/2101730.md">周迅、陈红对他一见钟情 他却一生不婚不育</a></li>
 <li><a href="/topimagenews/20241015/2101877.md">金三为何气到要打韩国？反朝传单曝光</a></li>
+<li><a href="/topimagenews/20241015/2101854.md">王思聪的底气从来都不是王健林，而是母亲林宁</a></li>
+<li><a href="/yule/20241015/2101730.md">周迅、陈红对他一见钟情 他却一生不婚不育</a></li>
 <li><a href="/cnnews/20241015/2101805.md">不为人知！镜头下北京凌晨街头：令人潸然泪下</a></li>
-<li><a href="/topimagenews/20241015/2101752.md">毕福剑辱毛得福报？被曝老来得子后亮相书画室 脸上笑容难掩</a></li>
 <li><a href="/topimagenews/20241015/2101829.md">习背后欲望！发动前所未有大规模动员！他们有的荒诞不经，有的令人毛骨悚然</a></li>
-<li><a href="/cbnews/20241014/2101511.md">惊爆！习“避难地堡” 能扛住美导弹吗？最险杀手或藏中南海</a></li>
+<li><a href="/topimagenews/20241015/2101752.md">毕福剑辱毛得福报？被曝老来得子后亮相书画室 脸上笑容难掩</a></li>
+<li><a href="/topimagenews/20241015/2101879.md">预备习身后事？争太子大位各常委你死我活 发大梦千姿百态</a></li>
+<li><a href="/topimagenews/20241015/2101947.md">传中共派助真主党IT小组被以色列全歼</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20241015/2101989.md" target="_blank">上海爷叔？一颗老韭菜罢了</a></li>
 <li><a href="/comments/20241015/2101974.md" target="_blank">【红色黑客，灰色交易，世界头号知识产权侵权国是怎样炼成的？｜中共威胁（3）】</a></li>
 <li><a href="/comments/20241015/2101939.md" target="_blank">立峰：政治之中没有偶然：民主党推选卡马拉-逻辑何在</a></li>
 <li><a href="/comments/20241015/2101887.md" target="_blank">深涵说｜嘴上都是主义，心里全是生意</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20241014/2101636.md" target="_blank">【泽论四方】中华人民共和国没有民主就没有认受性</a></li>
 <li><a href="/comments/20241014/2101634.md" target="_blank">被纽时记者反复逼问同一问题，万斯巧妙改剧本。川普遭遇第三次暗杀，嫌疑人第二天被保释，网络一片困惑。万斯川普暗杀</a></li>
 <li><a href="/comments/20241014/2101631.md" target="_blank">周日警方逮捕刺杀川普嫌犯，是第三次刺杀吗？｜方伟时间 2024.10.14</a></li>
-<li><a href="/comments/20241014/2101604.md" target="_blank">道家搬运术遁术被科学实验证实！武大教授探索多维空间，发射探测器拍摄另外空间</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20240829/2080735.md" target="_blank">胆战心惊:塔克访谈揭露美国食品巨头，医疗体系</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/sohnews/20240923/2092494.md" target="_blank">敌基督布兰登‧比格斯第一次见到神（二）：敌基督怎样吸引人？整个世界都被迷惑！</a></li>
-<li><a href="/comments/20241009/2099477.md" target="_blank">大型系列节目：治国大道 (二) 帝道立德</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20240116/1984226.md" target="_blank">湖北老河口遇仙记</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/sohnews/20240923/2092493.md" target="_blank">布兰登‧比格斯第一次见到神（三）：他们被置入了一个芯片 瞬间仿佛灵魂出窍</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/comments/20240825/2079044.md" target="_blank">谁是创世主</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/cbnews/20240904/2083703.md" target="_blank">复眼与变态 昆虫奥秘令进化论失据</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/cbnews/20240603/2045072.md" target="_blank">漫谈古代科举之八股文</a></li>
+<li><a href="/sohnews/20240923/2092491.md" target="_blank">布兰登比格斯曾听到两位天使的对话，对他震动很大&#8230;&#8230;</a></li>
 
 </ul>
 </div>
