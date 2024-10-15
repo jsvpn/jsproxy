@@ -15,18 +15,18 @@
 <li><a href="/ssgc/20241014/2101481.md">〖微博谈〗习近平就是假话张口就来的人</a></li>
 <li><a href="/topimagenews/20241015/2101802.md">温家宝软抵抗玩失踪？习等大员齐现身 胡锦涛被露面？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20241014/2101498.md">史上首次5代战机被击落? 传F-16立威 俄Su-57与Su-34栽了</a></li>
+<li><a href="/topimagenews/20241015/2101803.md">混乱 中南海接班人抢破头？胡春华诡异拉习藏心机</a></li>
 <li><a href="/yule/20241015/2101729.md">49岁董卿断崖式衰老 头发稀少穿着似大妈</a></li>
 <li><a href="/sohnews/20241014/2101573.md">陈破空：越南知悉中南海有变！超规格接待李强，冷遇习。胡锦涛特殊现身！习近平金正恩抓狂，一个大搞围台军演，一个摆出入侵架势。直播与互动：美东时间10月14日早9点、中港台当晚9点</a></li>
 <li><a href="/cbnews/20241014/2101480.md">〖红朝浮世绘〗中共和伊斯兰恐怖分子沆瀣一气</a></li>
-<li><a href="/topimagenews/20241015/2101803.md">混乱 中南海接班人抢破头？胡春华诡异拉习藏心机</a></li>
 <li><a href="/sohnews/20241014/2101528.md">国务院官僚给习挖坑搞垮股市，王岐山与习近平争当接班人内幕，中共军演挑起冲突顺势封锁台湾。《老灯开讲第695期》</a></li>
 <li><a href="/finance/20241014/2101622.md">浙江前首富，出山救女</a></li>
 <li><a href="/baitai/20241014/2101514.md">中共称「做好战斗准备」 台湾进入备战状态</a></li>
 <li><a href="/topimagenews/20241015/2101707.md">习近平3大错误让产业界对中共失信心！明居正：习在怕什么</a></li>
+<li><a href="/topimagenews/20241015/2101811.md">真狂！官媒专为他排满一个半版面</a></li>
 <li><a href="/sohnews/20241014/2101281.md">坐拥巨款和四个小老婆的军阀朱德，为什么会加入共产党？真实历史竟如此狗血！</a></li>
 <li><a href="/health/20241014/2101558.md">5 种通便的蔬菜，堪称“肠道拖把”！帮你排出隔夜便、陈年老便</a></li>
 <li><a href="/topimagenews/20241014/2101497.md">这时从中共军委到中南海高层，或像真主党头目成斩首目标</a></li>
-<li><a href="/topimagenews/20241015/2101811.md">真狂！官媒专为他排满一个半版面</a></li>
 <li><a href="/ccpdope/20241014/2101482.md">央视前大牌沈冰披露：江从曾手中抢走宋祖英之秘辛</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20241015/2101937.md" target="_blank">【微博精粹】中共极权已经到了向中国人民结账的时刻</a></li>
 <li><a href="/topimagenews/20241015/2101905.md" target="_blank">惊爆习猛料：不断杀人 只为发动一件大事</a></li>
 <li><a href="/topimagenews/20241015/2101904.md" target="_blank">洪耀南：中国近期股市政策 是一场设计过的股市围猎</a></li>
 <li><a href="/topimagenews/20241015/2101880.md" target="_blank">荣耀？耻辱！北京给马英九“颁发奖章”</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20241014/2101647.md" target="_blank">维和部队驻地旁就是真主党地道! 以批不执行联国决议还撑起保护伞</a></li>
 <li><a href="/topimagenews/20241014/2101646.md" target="_blank">纳坦雅胡要维和部队撤离！以军坦克冲破驻地大门 古特雷斯 : 构成战争罪</a></li>
 <li><a href="/topimagenews/20241014/2101498.md" target="_blank">史上首次5代战机被击落? 传F-16立威 俄Su-57与Su-34栽了</a></li>
-<li><a href="/topimagenews/20241014/2101497.md" target="_blank">这时从中共军委到中南海高层，或像真主党头目成斩首目标</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20241015/2101939.md" target="_blank">立峰：政治之中没有偶然：民主党推选卡马拉-逻辑何在</a></li>
 <li><a href="/comments/20241015/2101887.md" target="_blank">深涵说｜嘴上都是主义，心里全是生意</a></li>
 <li><a href="/comments/20241015/2101886.md" target="_blank">讽刺与现实：当权贵与平民在法律面前的双重标准</a></li>
 <li><a href="/comments/20241015/2101885.md" target="_blank">一个贪官，轻易掏空一座城，必将载入史册</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20241014/2101631.md" target="_blank">周日警方逮捕刺杀川普嫌犯，是第三次刺杀吗？｜方伟时间 2024.10.14</a></li>
 <li><a href="/comments/20241014/2101604.md" target="_blank">道家搬运术遁术被科学实验证实！武大教授探索多维空间，发射探测器拍摄另外空间</a></li>
 <li><a href="/comments/20241014/2101588.md" target="_blank">神靠一个数字，精心设计了宇宙，还展现在我们身体里！维持数十亿年，物理学家至今无解。从基本粒子到宏观宇宙，若无此数，就是重写宇宙历史。｜未解之谜 扶摇</a></li>
-<li><a href="/comments/20241014/2101580.md" target="_blank">说不赢就动粗？13日军演早先美国国务卿强调😬保护台海稳定！中共以赖清德演讲为藉口进行军演</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/comments/20240126/1992850.md" target="_blank">为何中共国很多女性霸道强横？中共国为何阴盛阳衰？</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/tculture/20231119/1962827.md" target="_blank">六道轮回之地狱道</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/cbnews/20240603/2045072.md" target="_blank">漫谈古代科举之八股文</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/cnnews/20170717/792917.md" target="_blank">无神论是最大的迷信</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20190214/1080789.md" target="_blank">胡平：天安门自焚和人民圣殿教</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/comments/20231212/1972297.md" target="_blank">日本华人确诊晚期直肠癌，修炼法轮功恢复健康（图）</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/cbnews/20231208/1971389.md" target="_blank">话说中医之祝由科</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20231220/1976683.md" target="_blank">医山夜话：张锡纯医案解读（二）根治胃气不降之证</a></li>
+<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
+<li><a href="/comments/20240820/2076958.md" target="_blank">惠虎宇：中华文化为什么是高级文化系统(3)</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20240704/2058130.md" target="_blank">百年梦醒（十八）：共产魔教的机制、前所未有的巨大野心</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
 
 </ul>
 </div>
