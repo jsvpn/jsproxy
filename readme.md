@@ -5,9 +5,7 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/topimagenews/20241015/2101946.md">没有管好下半身的秦刚传来最新消息</a></li>
 <li><a href="/topimagenews/20241015/2102080.md">人民币异动 或有大麻烦</a></li>
-<li><a href="/topimagenews/20241015/2101947.md">传中共派助真主党IT小组被以色列全歼</a></li>
 <li><a href="/sohnews/20241015/2102082.md">习想终身制？邓早就留了一手⋯⋯｜百年真相</a></li>
 <li><a href="/cbnews/20241015/2101953.md">〖红朝浮世绘〗韩国要和朝鲜要开打 真的要打第三次世界大战了么？</a></li>
 <li><a href="/comments/20241015/2102118.md">一则来自京城的流言</a></li>
@@ -16,9 +14,9 @@
 <li><a href="/baitai/20241015/2101956.md">男子下班收到妻子短信：家有客人，你别回来。男子越想越不对劲，回家后推开房门崩溃了</a></li>
 <li><a href="/cnnews/20241015/2102016.md">三大表现！习近平的步伐，越来越快</a></li>
 <li><a href="/sohnews/20241015/2101955.md">据传，中共75周年国庆招待会上，出席招待会的习近平是替身。与习近平替身坐在一起的温家宝和李瑞环，则充当了群众演员，用来欺骗全国民众。</a></li>
+<li><a href="/topimagenews/20241016/2102309.md">习近平大受刺激！中共救市政策出台深层内幕</a></li>
 <li><a href="/topimagenews/20241015/2102167.md">北朝鲜炸铁公路 距边界仅10米！韩国军方1字评效果</a></li>
 <li><a href="/baitai/20241015/2102068.md">胡春华任滁州市政府党组书记</a></li>
-<li><a href="/topimagenews/20241016/2102309.md">习近平大受刺激！中共救市政策出台深层内幕</a></li>
 <li><a href="/topimagenews/20241015/2102166.md">韩国传单引爆战火！最美脱北者昔揭金正恩拥2千性奴遭追杀</a></li>
 <li><a href="/worldnews/20241015/2101987.md">史上首次！乌战场传来重磅消息</a></li>
 <li><a href="/topimagenews/20241015/2102132.md">突发重磅! 彭博：中国对超级富豪海外投资收益征税20%</a></li>
@@ -26,8 +24,10 @@
 <li><a href="/baitai/20241015/2101973.md">劝人买股票，“股市神棍” 上海爷叔出门被揍了</a></li>
 <li><a href="/cbnews/20241015/2101978.md">中共网信办一纸通知 又翻车了</a></li>
 <li><a href="/cbnews/20241015/2101981.md">中共军演刚开始半天就结束 微博热搜一夕之间全消失</a></li>
-<li><a href="/cbnews/20241015/2102107.md">中国仇恨教育再添一笔！ 北京男挑衅美籍北大教授被暴打 网：刚好而已</a></li>
 <li><a href="/yule/20241016/2102240.md">原来他就是“京圈烈女”白百何的二婚老公</a></li>
+<li><a href="/cbnews/20241015/2102107.md">中国仇恨教育再添一笔！ 北京男挑衅美籍北大教授被暴打 网：刚好而已</a></li>
+<li><a href="/lifebaike/20241015/2101991.md">老毛“通房大丫头”享受正部级高干的秘密</a></li>
+<li><a href="/baitai/20241015/2102046.md">地方倒逼中央？中南海气氛诡异 习近平缺席两个重要会议 李强有望成接班人？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -47,7 +47,7 @@
 <li><a href="/comments/20241016/2102290.md" target="_blank">马斯克三招，震惊世界！｜方伟时间 特别节目 2024.10.15</a></li>
 <li><a href="/cbnews/20241016/2102287.md" target="_blank">黑龙江原副市长逃亡海外 反驳中共31亿指控</a></li>
 <li><a href="/cbnews/20241016/2102286.md" target="_blank">北京放烟幕 背后偷偷勾结朝鲜…</a></li>
-<li><a href="/cbnews/20241016/2102285.md" target="_blank">鲜为人知操作！中共这张网深入基层，渗透到各个村庄和社区</a></li>
+<li><a href="/cbnews/20241016/2102285.md" target="_blank">中共五毛党网络深入基层，渗透到各个村庄和社区</a></li>
 <li><a href="/cbnews/20241016/2102284.md" target="_blank">表没了钱也没了 浙江女子网上卖名表成“网逃”</a></li>
 <li><a href="/cbnews/20241016/2102283.md" target="_blank">陕西马拉松赛男子在冲刺时被拦 引作弊嫌疑</a></li>
 <li><a href="/comments/20241016/2102273.md" target="_blank">哈里斯宣布，要为黑人男性提供更多的经济机会2024大选</a></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20241016/2102424.md" target="_blank">中共摸黑“围岛炸鱼”，台股翻红气晕小粉红？赖清德退兵锦囊妙计：循环播放一句话，习近平傻眼</a></li>
 <li><a href="/comments/20241016/2102421.md" target="_blank">马斯克的划时代创新！elonmusk</a></li>
 <li><a href="/comments/20241016/2102416.md" target="_blank">大佳说｜有些市场可以假装努力，但外汇不会陪你演戏</a></li>
 <li><a href="/comments/20241016/2102415.md" target="_blank">一个“95后研究员”拥有4个博士学位，谁的悲哀</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20241015/2102188.md" target="_blank">你知道这段话是说给谁听的吗？网友复制贴上蒋公生前名言！共党内部人人自危</a></li>
 <li><a href="/comments/20241015/2102182.md" target="_blank">时事大家谈：蔡英文访欧vs.英外相访中 两岸外交战谁占上风？</a></li>
 <li><a href="/comments/20241015/2102181.md" target="_blank">时事大家谈：围台军演＋批斗“台独顽固份子” 北京震慑了谁？蔡英文访欧vs.英外相访中 两岸外交战谁占上风？</a></li>
-<li><a href="/comments/20241015/2102130.md" target="_blank">大选前的十月“定时炸弹” 这下就来了！｜2024美国大选｜方伟时间 10.15.2024</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20190214/1080789.md" target="_blank">胡平：天安门自焚和人民圣殿教</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20240126/1992876.md" target="_blank">内幕：中国留学生里女生打男生和男生打女一样普遍</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/taiwannews/20210119/1470761.md" target="_blank">独家：震撼纪录片《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/cbnews/20240603/2045072.md" target="_blank">漫谈古代科举之八股文</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
 <li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/tculture/20231217/1975364.md" target="_blank">医山夜话：张锡纯医案解读（1）根治失眠 思路清晰</a></li>
 
 </ul>
 </div>
