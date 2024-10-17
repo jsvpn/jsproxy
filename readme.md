@@ -6,7 +6,6 @@
 <ul>
 
 <li><a href="/topimagenews/20241016/2102444.md">讽习神作疯传！上海深圳发恐怖警告 韭菜能逃就逃吧</a></li>
-<li><a href="/baitai/20241016/2102350.md">习受接班人问题困扰？传中共元老受惊吓</a></li>
 <li><a href="/topimagenews/20241016/2102389.md">中国经济传来重大利空</a></li>
 <li><a href="/topimagenews/20241016/2102435.md">习诡异接连缺席 张又侠联手温家宝等元老政变？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20241016/2102361.md">国产短剧已疯，看完脑血栓都通了</a></li>
@@ -15,19 +14,20 @@
 <li><a href="/cbnews/20241016/2102568.md">中国频发悲惨事件！ 一家四口手绑一起从22楼跳下 网 : 宛如“人间地狱”</a></li>
 <li><a href="/sohnews/20241016/2102540.md">陈破空：实锤：习军权旁落！张又侠主导全军大会，不再提两个关键句。俄防长窜访中国，习远走福建，蔡奇罕见未随行。诺贝尔经济学奖得主出炉，精准预见今日中国经济。直播与互动：美东时间10月16日早9点、中港台当晚9点</a></li>
 <li><a href="/topimagenews/20241016/2102360.md">傻眼！共军真的不行了</a></li>
+<li><a href="/ccpdope/20241017/2102695.md">习赴福建蔡奇罕见未陪同 信号强烈</a></li>
 <li><a href="/cbnews/20241016/2102464.md">〖红朝浮世绘〗朝韩为啥要打架？因为给朝鲜百姓发金家腐败真相传单了</a></li>
 <li><a href="/topimagenews/20241016/2102485.md">辽宁舰航母遭双航母夹击？歼-15与美战机缠斗! 央视曝中美对峙 惨遭网友这样酸....</a></li>
 <li><a href="/topimagenews/20241016/2102446.md">朝鲜援俄部队出现多名逃兵 俄军四处追捕</a></li>
 <li><a href="/comments/20241016/2102539.md">习的下一步棋</a></li>
-<li><a href="/ccpdope/20241017/2102695.md">习赴福建蔡奇罕见未陪同 信号强烈</a></li>
-<li><a href="/baitai/20241017/2102671.md">突然官宣离婚！这对模范夫妻的瓜也太猛了</a></li>
 <li><a href="/cbnews/20241017/2102658.md">小孩才3岁 陆24岁妈下海“1晚300”被抄哭了:生活所迫</a></li>
+<li><a href="/baitai/20241017/2102671.md">突然官宣离婚！这对模范夫妻的瓜也太猛了</a></li>
 <li><a href="/comments/20241017/2102680.md">京城流言 山雨欲来风满楼</a></li>
 <li><a href="/topimagenews/20241016/2102388.md">三部门发通知，中国万物通胀要来了</a></li>
 <li><a href="/topimagenews/20241016/2102483.md">乌军传来好消息…</a></li>
 <li><a href="/topimagenews/20241016/2102445.md">他们把钱搬走了？中国外汇存底消失22兆</a></li>
-<li><a href="/cbnews/20241016/2102443.md">江峰：张又侠已掌军权，元老安排习近平维系一尊空架以权力过渡；中俄防长密谋，俄国要兵员董军回答情况复杂；俄罗斯「老爷爷」上战场；解读：朝鲜士兵为何在俄乌前线【江峰漫谈20241015第954期】</a></li>
 <li><a href="/topimagenews/20241016/2102589.md">“邪恶轴心”名列前茅! 反人权国家排行榜出炉 中国第3 “这国”最恶劣….</a></li>
+<li><a href="/cbnews/20241016/2102443.md">江峰：张又侠已掌军权，元老安排习近平维系一尊空架以权力过渡；中俄防长密谋，俄国要兵员董军回答情况复杂；俄罗斯「老爷爷」上战场；解读：朝鲜士兵为何在俄乌前线【江峰漫谈20241015第954期】</a></li>
+<li><a href="/headline/20241016/2102482.md">习近平：中国愿意与美国做伙伴、做朋友</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,8 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20241017/2102811.md" target="_blank">先解决“沃伦大屠杀”！波兰防长：乌想加入欧盟？</a></li>
+<li><a href="/topimagenews/20241017/2102810.md" target="_blank">揭露中共党内丑闻！被“31亿”李传良公开宣布退党</a></li>
 <li><a href="/topimagenews/20241017/2102797.md" target="_blank">惊呆：没有中共 中国人该这么有钱！国际认证：全球富裕排名超厉害</a></li>
 <li><a href="/topimagenews/20241017/2102796.md" target="_blank">泽伦斯基提出胜利计划 怒揭战争变数中共犯罪首当其冲</a></li>
 <li><a href="/topimagenews/20241017/2102782.md" target="_blank">金正恩恐惧至极！金家王朝藏不住的秘密惹众怒【阿波罗网报道】</a></li>
@@ -89,8 +91,6 @@
 <li><a href="/topimagenews/20241016/2102389.md" target="_blank">中国经济传来重大利空</a></li>
 <li><a href="/topimagenews/20241016/2102388.md" target="_blank">三部门发通知，中国万物通胀要来了</a></li>
 <li><a href="/topimagenews/20241016/2102361.md" target="_blank">国产短剧已疯，看完脑血栓都通了</a></li>
-<li><a href="/topimagenews/20241016/2102360.md" target="_blank">傻眼！共军真的不行了</a></li>
-<li><a href="/topimagenews/20241016/2102359.md" target="_blank">人类航天史重大事件！中共焦虑了</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/taiwannews/20210119/1470524.md" target="_blank">纪录片《蚕食美国1》</a></li>
-<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/sohnews/20240923/2092494.md" target="_blank">敌基督布兰登‧比格斯第一次见到神（二）：敌基督怎样吸引人？整个世界都被迷惑！</a></li>
+<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20241009/2099477.md" target="_blank">大型系列节目：治国大道 (二) 帝道立德</a></li>
+<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20240820/2076940.md" target="_blank">惠虎宇：中华文化为什么是高级文化系统(2)</a></li>
+<li><a href="/topimagenews/20180608/954788.md" target="_blank">安乐死根本安乐不了，别宣传了</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
 
 </ul>
 </div>
