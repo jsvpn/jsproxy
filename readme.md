@@ -8,12 +8,12 @@
 <li><a href="/cbnews/20241016/2102568.md">中国频发悲惨事件！ 一家四口手绑一起从22楼跳下 网 : 宛如“人间地狱”</a></li>
 <li><a href="/ccpdope/20241017/2102695.md">习赴福建蔡奇罕见未陪同 信号强烈</a></li>
 <li><a href="/baitai/20241017/2102671.md">突然官宣离婚！这对模范夫妻的瓜也太猛了</a></li>
+<li><a href="/cbnews/20241017/2102658.md">小孩才3岁 陆24岁妈下海“1晚300”被抄哭了:生活所迫</a></li>
 <li><a href="/comments/20241017/2102680.md">京城流言 山雨欲来风满楼</a></li>
 <li><a href="/sohnews/20241016/2102540.md">陈破空：实锤：习军权旁落！张又侠主导全军大会，不再提两个关键句。俄防长窜访中国，习远走福建，蔡奇罕见未随行。诺贝尔经济学奖得主出炉，精准预见今日中国经济。直播与互动：美东时间10月16日早9点、中港台当晚9点</a></li>
-<li><a href="/cbnews/20241017/2102658.md">小孩才3岁 陆24岁妈下海“1晚300”被抄哭了:生活所迫</a></li>
 <li><a href="/comments/20241016/2102539.md">习的下一步棋</a></li>
-<li><a href="/topimagenews/20241017/2102745.md">习近平出现在这里 行程有特殊涵意？</a></li>
 <li><a href="/ssgc/20241016/2102616.md">广东千家企业可能迁至四川引发网民热议</a></li>
+<li><a href="/topimagenews/20241017/2102745.md">习近平出现在这里 行程有特殊涵意？</a></li>
 <li><a href="/topimagenews/20241017/2102782.md">金正恩恐惧至极！金家王朝藏不住的秘密惹众怒【阿波罗网报道】</a></li>
 <li><a href="/baitai/20241017/2102707.md">中共接连召开新闻发布会 习近平真的要「大转向」？</a></li>
 <li><a href="/topimagenews/20241017/2102838.md">习突然现身这里 行程有特殊涵意？【阿波罗网报道】</a></li>
@@ -21,11 +21,11 @@
 <li><a href="/baitai/20241017/2102756.md">习近平深陷经济危机 网路疯传王岐山遭软禁 团派获重用「废太子」胡春华复出有望？</a></li>
 <li><a href="/comments/20241017/2102791.md">文昭：习近平时代将落幕，总书记、总理接替者都有了？人民币再出问题，中国经济再出重大利空</a></li>
 <li><a href="/baitai/20241016/2102543.md">网络热传中国公民党宣言！ 民众抗争升级 公开对抗中共</a></li>
-<li><a href="/topimagenews/20241016/2102612.md">AI抢走饭碗是真的！ 9大裁员“惨”业曝光</a></li>
 <li><a href="/cnnews/20241017/2102784.md">妓院多过杂货店！百名警察扫荡美国一处 画面超惊人</a></li>
+<li><a href="/topimagenews/20241016/2102612.md">AI抢走饭碗是真的！ 9大裁员“惨”业曝光</a></li>
+<li><a href="/cbnews/20241017/2102886.md">〖红朝浮世绘〗不只是搬工厂那么简单 习总是在为打核战争做准备</a></li>
 <li><a href="/topimagenews/20241017/2102765.md">泽伦斯基公开“胜利计划” ：排第一位的是…</a></li>
 <li><a href="/finance/20241017/2102748.md">警惕：中国股市现“害怕踏空式”反弹</a></li>
-<li><a href="/cbnews/20241017/2102886.md">〖红朝浮世绘〗不只是搬工厂那么简单 习总是在为打核战争做准备</a></li>
 <li><a href="/sohnews/20241017/2102766.md">习近平栽了？！全军重大会议惊现3大异常；习反常现身东山岛释何信号？马斯克破例宾州再放大招，只因一个数据？！｜远见快评 唐靖远</a></li>
 <li><a href="/cnnews/20241017/2102751.md">巴菲特有最新动作 他正在大肆购买这家股票</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20240704/2058130.md" target="_blank">百年梦醒（十八）：共产魔教的机制、前所未有的巨大野心</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/comments/20240412/2024185.md" target="_blank">是治疗还是屠杀?化疗药品滴一滴在皮肤即灼伤，很长时间才好</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
 <li><a href="/topimagenews/20200514/1328456.md" target="_blank">穿越时空 谢田教授亲身体验人体特异功能</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/sohnews/20240923/2092492.md" target="_blank">布兰登‧比格斯第一次见到神（四）：神的眼里充满了泪水，对布兰登说：你看到中国了吗？</a></li>
-<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/tculture/20120628/34899.md" target="_blank">有神无神，只消一例便可敲定</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20231222/1977665.md" target="_blank">《内训》：传统女性的智慧宝典</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/tculture/20190708/1154978.md" target="_blank">揭开“神用泥土造人”的秘密</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/comments/20240723/2065714.md" target="_blank">台湾民视：解谜法轮功 气功或宗教？</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
+<li><a href="/tculture/20240109/1985462.md" target="_blank">推背图第四十九象解析：习党魁的下场和未来中华国体形式</a></li>
+<li><a href="/sohnews/20240923/2092493.md" target="_blank">布兰登‧比格斯第一次见到神（三）：他们被置入了一个芯片 瞬间仿佛灵魂出窍</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20231203/1969183.md" target="_blank">开盖冲马桶 ，细菌会乱飞？除非你家马桶是喷泉！</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20240703/2057730.md" target="_blank">百年梦醒（十七）：马克思的连环计、出卖灵魂</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
+<li><a href="/tculture/20231119/1962827.md" target="_blank">六道轮回之地狱道</a></li>
+<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
 
 </ul>
 </div>
