@@ -6,11 +6,10 @@
 <ul>
 
 <li><a href="/topimagenews/20241017/2102745.md">习近平出现在这里 行程有特殊涵意？</a></li>
-<li><a href="/baitai/20241017/2102707.md">中共接连召开新闻发布会 习近平真的要「大转向」？</a></li>
 <li><a href="/topimagenews/20241017/2102782.md">金正恩恐惧至极！金家王朝藏不住的秘密惹众怒【阿波罗网报道】</a></li>
 <li><a href="/yule/20241017/2102925.md">央视新闻直播出事5分钟紧急换主持人 网友炸锅</a></li>
-<li><a href="/comments/20241017/2102791.md">文昭：习近平时代将落幕，总书记、总理接替者都有了？人民币再出问题，中国经济再出重大利空</a></li>
 <li><a href="/sports/20241017/2102934.md">易建联嫖跨性别者?篮球明星被公开祼照身份证</a></li>
+<li><a href="/comments/20241017/2102791.md">文昭：习近平时代将落幕，总书记、总理接替者都有了？人民币再出问题，中国经济再出重大利空</a></li>
 <li><a href="/topimagenews/20241017/2102838.md">习突然现身这里 行程有特殊涵意？【阿波罗网报道】</a></li>
 <li><a href="/baitai/20241017/2103037.md">习再曝异常 分析：一定出了问题</a></li>
 <li><a href="/cbnews/20241017/2102886.md">〖红朝浮世绘〗不只是搬工厂那么简单 习总是在为打核战争做准备</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/topimagenews/20241017/2102941.md">视频公布！华人警察遭黑人女袭击 被迫将其击毙</a></li>
 <li><a href="/sohnews/20241017/2102766.md">习近平栽了？！全军重大会议惊现3大异常；习反常现身东山岛释何信号？马斯克破例宾州再放大招，只因一个数据？！｜远见快评 唐靖远</a></li>
 <li><a href="/topimagenews/20241017/2102797.md">惊呆：没有中共 中国人该这么有钱！国际认证：全球富裕排名超厉害</a></li>
+<li><a href="/cnnews/20241017/2102751.md">巴菲特有最新动作 他正在大肆购买这家股票</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20241018/2103189.md" target="_blank">马斯克的划时代发明会影响大选吗？</a></li>
 <li><a href="/cbnews/20241018/2103159.md" target="_blank">中共党魁权力异常 前官员爆料：李强时刻来了</a></li>
 <li><a href="/cbnews/20241018/2103158.md" target="_blank">习缺席军方重要会议 分析：军委权力结构生变</a></li>
 <li><a href="/comments/20241018/2103145.md" target="_blank">神奇美国：多数人决定，但是保护少数人权益</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20241017/2102875.md" target="_blank">广州商贩大喊“我不活了”追打城管被刑拘 惹议</a></li>
 <li><a href="/cbnews/20241017/2102861.md" target="_blank">疑火箭残骸坠落湖南 现场紧急封锁</a></li>
 <li><a href="/cbnews/20241017/2102860.md" target="_blank">媒体询问“中共军演及犯台” 贺锦丽表态了</a></li>
-<li><a href="/comments/20241017/2102843.md" target="_blank">哈里斯去福克斯做采访，结果变成这样！｜2024美国大选｜方伟时间 2024.10.16</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20241018/2103189.md" target="_blank">马斯克的划时代发明会影响大选吗？</a></li>
 <li><a href="/comments/20241018/2103145.md" target="_blank">神奇美国：多数人决定，但是保护少数人权益</a></li>
 <li><a href="/comments/20241018/2103143.md" target="_blank">【杜耀明评论】当香港「由治及兴」遇上中国经济危机，特首《施政报告》可以置诸不理？</a></li>
 <li><a href="/comments/20241018/2103135.md" target="_blank">时事大家谈：三年增发六万亿国债, 习近平为何转向大举救市?</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20241017/2102865.md" target="_blank">多地公务员欠薪，经济强省财政收支也都已失衡</a></li>
 <li><a href="/comments/20241017/2102864.md" target="_blank">鄢烈山：读饥荒年代的民间思想家冯志来《1962年的呼喊》</a></li>
 <li><a href="/comments/20241017/2102843.md" target="_blank">哈里斯去福克斯做采访，结果变成这样！｜2024美国大选｜方伟时间 2024.10.16</a></li>
-<li><a href="/comments/20241017/2102818.md" target="_blank">“硅盾2.0”？全球地缘政治角力下台湾半导体业恐无力做“朋友圈的芯片糖”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20240703/2057730.md" target="_blank">百年梦醒（十七）：马克思的连环计、出卖灵魂</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/sohnews/20240923/2092492.md" target="_blank">布兰登‧比格斯第一次见到神（四）：神的眼里充满了泪水，对布兰登说：你看到中国了吗？</a></li>
-<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20231130/1967587.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （一）</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/tculture/20240904/2083774.md" target="_blank">“几生修得到梅花”之生命品格浅议</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
+<li><a href="/bblog/20240813/2073608.md" target="_blank">惊人内幕：脑死亡不是死亡，只是深度昏迷骗你捐器官</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/tculture/20190708/1154978.md" target="_blank">揭开“神用泥土造人”的秘密</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
 
 </ul>
 </div>
