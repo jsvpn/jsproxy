@@ -18,16 +18,16 @@
 <li><a href="/cbnews/20241017/2102909.md">突发：奶茶妹妹和刘强东向公安机关报案</a></li>
 <li><a href="/sohnews/20241017/2102884.md">剥夺了习近平的政权和军权，却高调宣传习近平。是在玩肉身戏病虎的危险游戏。老虎病好了，会吃掉肉身。如果习近平病好了，会咬死了张又侠等叛徒。当局敢玩这游戏，说明，真的习近平要么病入膏肓了，要么已经死了。</a></li>
 <li><a href="/comments/20241017/2102891.md">习近平被逼走福建？张又侠借军演向赖清德递投名状？习缺席军方高级会议！“张”家军登台</a></li>
-<li><a href="/topimagenews/20241017/2102941.md">视频公布！华人警察遭黑人女袭击 被迫将其击毙</a></li>
-<li><a href="/topimagenews/20241017/2102797.md">惊呆：没有中共 中国人该这么有钱！国际认证：全球富裕排名超厉害</a></li>
-<li><a href="/sohnews/20241017/2102827.md">习近平军权没了！显然！军委只剩张又侠主持大局？给军队指示180度大转弯！《新闻联播》精心布局，仍露破绽，重要大会习被排除在外！大家都在忙，习去福建看海，蔡奇罕见未陪；对台政策也有变？｜大宇拍案惊奇</a></li>
 <li><a href="/sports/20241018/2103142.md">篮球员易建联被传嫖妓 疑似“女伴”身份曝光激似宋慧乔</a></li>
+<li><a href="/topimagenews/20241017/2102941.md">视频公布！华人警察遭黑人女袭击 被迫将其击毙</a></li>
+<li><a href="/sohnews/20241017/2102827.md">习近平军权没了！显然！军委只剩张又侠主持大局？给军队指示180度大转弯！《新闻联播》精心布局，仍露破绽，重要大会习被排除在外！大家都在忙，习去福建看海，蔡奇罕见未陪；对台政策也有变？｜大宇拍案惊奇</a></li>
+<li><a href="/topimagenews/20241017/2102797.md">惊呆：没有中共 中国人该这么有钱！国际认证：全球富裕排名超厉害</a></li>
 <li><a href="/topimagenews/20241017/2103049.md">习近平挖洞给自己跳！ 下猛药救经济、打压台湾凄惨下场曝</a></li>
 <li><a href="/topimagenews/20241017/2103051.md">恐怖！多名中国女生在德国被性侵 传嫌犯竟是中国男子</a></li>
 <li><a href="/comments/20241017/2102761.md">川普全对；蒋介石对一半；张学良全错</a></li>
+<li><a href="/cbnews/20241018/2103158.md">习缺席军方重要会议 分析：军委权力结构生变</a></li>
 <li><a href="/cnnews/20241017/2103075.md">才说坚守 3小时后就落跑! 中国维和部队急撤 为真主党建豪华地道曝光</a></li>
-<li><a href="/comments/20241017/2102790.md">哈里斯要糟？美国大选</a></li>
-<li><a href="/topimagenews/20241017/2102810.md">揭露中共党内丑闻！被“31亿”李传良公开宣布退党</a></li>
+<li><a href="/topimagenews/20241017/2103128.md">巴菲特、贝佐斯、查克柏格都在大卖股票 商学院教授说为什么</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20241018/2103244.md" target="_blank">亲眼目睹中共酷刑 中国民主党创始人之一爆料</a></li>
+<li><a href="/cbnews/20241018/2103243.md" target="_blank">开关门就“咬人” 大陆智能锁夹手事故频发</a></li>
 <li><a href="/comments/20241018/2103231.md" target="_blank">今年中秋之夜，神韵表演艺术团体给您带来韵力量和艺术结合的巅峰体验！｜方伟时间特别节目 2024.10.17</a></li>
 <li><a href="/comments/20241018/2103189.md" target="_blank">马斯克的划时代发明会影响大选吗？</a></li>
 <li><a href="/cbnews/20241018/2103159.md" target="_blank">中共党魁权力异常 前官员爆料：李强时刻来了</a></li>
@@ -58,14 +60,13 @@
 <li><a href="/cbnews/20241017/2102942.md" target="_blank">湖南中学生在校坠亡 学校未通知家长即送殡仪馆惹疑</a></li>
 <li><a href="/cbnews/20241017/2102909.md" target="_blank">突发：奶茶妹妹和刘强东向公安机关报案</a></li>
 <li><a href="/cbnews/20241017/2102886.md" target="_blank">〖红朝浮世绘〗不只是搬工厂那么简单 习总是在为打核战争做准备</a></li>
-<li><a href="/cbnews/20241017/2102875.md" target="_blank">广州商贩大喊“我不活了”追打城管被刑拘 惹议</a></li>
-<li><a href="/cbnews/20241017/2102861.md" target="_blank">疑火箭残骸坠落湖南 现场紧急封锁</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20241018/2103242.md" target="_blank">整个自由世界胜利！哈玛斯领袖命加萨 消灭邪恶重要里程碑</a></li>
 <li><a href="/topimagenews/20241018/2103223.md" target="_blank">中共重磅地产发布会 效果惊人【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20241018/2103217.md" target="_blank">向“太子”施压？习2大亲信突袭天津</a></li>
 <li><a href="/topimagenews/20241018/2103207.md" target="_blank">中国经济传来重大利空！大陆外汇存底10年消失22兆 惊曝：这群人把钱搬走了</a></li>
@@ -90,13 +91,14 @@
 <li><a href="/topimagenews/20241016/2102611.md" target="_blank">陆IBM裁员爆黑幕 26年员工举报老董“受贿泄密”</a></li>
 <li><a href="/topimagenews/20241016/2102589.md" target="_blank">“邪恶轴心”名列前茅! 反人权国家排行榜出炉 中国第3 “这国”最恶劣….</a></li>
 <li><a href="/topimagenews/20241016/2102485.md" target="_blank">辽宁舰航母遭双航母夹击？歼-15与美战机缠斗! 央视曝中美对峙 惨遭网友这样酸&#8230;.</a></li>
-<li><a href="/topimagenews/20241016/2102484.md" target="_blank">北京仓促转向让情况更糟</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20241018/2103246.md" target="_blank">重大异常！习近平在中央军委中靠边站？</a></li>
+<li><a href="/comments/20241018/2103241.md" target="_blank">天亮时分：神韵舞蹈艺术家们，就是这样过中秋之夜的！舞蹈：力量与艺术的巅峰！｜章天亮、方伟、唐靖远、薇羽、梁珍</a></li>
 <li><a href="/comments/20241018/2103231.md" target="_blank">今年中秋之夜，神韵表演艺术团体给您带来韵力量和艺术结合的巅峰体验！｜方伟时间特别节目 2024.10.17</a></li>
 <li><a href="/comments/20241018/2103196.md" target="_blank">【贪了31亿？李传良：我过着简朴的生活】</a></li>
 <li><a href="/comments/20241018/2103189.md" target="_blank">马斯克的划时代发明会影响大选吗？</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20241017/2102938.md" target="_blank">天亮时分：为啥东部企业要向中西部转移？ #中共 #习近平 #中国经济</a></li>
 <li><a href="/comments/20241017/2102915.md" target="_blank">黑人造反：奥巴马失控了</a></li>
 <li><a href="/comments/20241017/2102891.md" target="_blank">习近平被逼走福建？张又侠借军演向赖清德递投名状？习缺席军方高级会议！“张”家军登台</a></li>
-<li><a href="/comments/20241017/2102878.md" target="_blank">依赖于政府的创新，为什么不靠谱？</a></li>
-<li><a href="/comments/20241017/2102865.md" target="_blank">多地公务员欠薪，经济强省财政收支也都已失衡</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
-<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20240126/1992876.md" target="_blank">内幕：中国留学生里女生打男生和男生打女一样普遍</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20210819/1609103.md" target="_blank">浅谈中医与西医的不同之处</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20240703/2057730.md" target="_blank">百年梦醒（十七）：马克思的连环计、出卖灵魂</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/tculture/20120628/34899.md" target="_blank">有神无神，只消一例便可敲定</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20190213/1080251.md" target="_blank">胡平：法轮功为何反对自杀？</a></li>
+<li><a href="/comments/20240820/2076940.md" target="_blank">惠虎宇：中华文化为什么是高级文化系统(2)</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/tculture/20201115/1431410.md" target="_blank">读《中庸》：关键在“中和”</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
 <li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/cbnews/20190701/1151453.md" target="_blank">盘点十大邪教特征 中共条条对号入座</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
 
 </ul>
 </div>
