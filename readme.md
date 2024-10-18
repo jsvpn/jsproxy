@@ -7,27 +7,27 @@
 
 <li><a href="/topimagenews/20241018/2103217.md">向“太子”施压？习2大亲信突袭天津</a></li>
 <li><a href="/comments/20241018/2103360.md">揭开王岐山与习近平翻脸的真正原因。王岐山一句话，曝习为何要除掉他。习近平王岐山任志强</a></li>
-<li><a href="/sports/20241018/2103142.md">篮球员易建联被传嫖妓 疑似“女伴”身份曝光激似宋慧乔</a></li>
 <li><a href="/sohnews/20241018/2103250.md">朱镕基病危？子女专机返北京；王小洪重大反常，身份将有变？曾替习照顾习明泽？哈马斯遭重创 以军战果显著【新闻看点 李沐阳10.17】</a></li>
 <li><a href="/cbnews/20241018/2103158.md">习缺席军方重要会议 分析：军委权力结构生变</a></li>
-<li><a href="/cbnews/20241018/2103159.md">中共党魁权力异常 前官员爆料：李强时刻来了</a></li>
 <li><a href="/comments/20241018/2103246.md">重大异常！习近平在中央军委中靠边站？</a></li>
+<li><a href="/cbnews/20241018/2103159.md">中共党魁权力异常 前官员爆料：李强时刻来了</a></li>
 <li><a href="/topimagenews/20241018/2103207.md">中国经济传来重大利空！大陆外汇存底10年消失22兆 惊曝：这群人把钱搬走了</a></li>
-<li><a href="/topimagenews/20241018/2103293.md">颠覆！末日求生最佳大餐 中国人认为它不健康 美国人大吃</a></li>
 <li><a href="/baitai/20241018/2103491.md">习近平赴安徽考察 现罕见一幕</a></li>
+<li><a href="/topimagenews/20241018/2103293.md">颠覆！末日求生最佳大餐 中国人认为它不健康 美国人大吃</a></li>
 <li><a href="/topimagenews/20241018/2103343.md">中国女网红赴俄旅游 惨被俄军当慰安妇猥亵</a></li>
 <li><a href="/topimagenews/20241018/2103387.md">中共围台军演内幕曝光 习近平还是张又侠干了这事反而没说</a></li>
 <li><a href="/topimagenews/20241018/2103353.md">【微博精粹】第二次韩战已经打响</a></li>
 <li><a href="/topimagenews/20241018/2103223.md">中共重磅地产发布会 效果惊人【阿波罗网报道】</a></li>
 <li><a href="/worldnews/20241018/2103420.md">醉女遭捡尸性侵直播 200观众无人报警 结局悲惨</a></li>
-<li><a href="/topimagenews/20241018/2103341.md">哈马斯首领怎么死的？ 与以军偶遇 比对牙齿才确认</a></li>
 <li><a href="/topimagenews/20241018/2103354.md">习近平挖洞给自己跳！他断言凄惨下场</a></li>
-<li><a href="/headline/20241018/2103215.md">以色列军方发布辛瓦尔被击杀前短视频</a></li>
+<li><a href="/topimagenews/20241018/2103341.md">哈马斯首领怎么死的？ 与以军偶遇 比对牙齿才确认</a></li>
+<li><a href="/baitai/20241018/2103496.md">伊朗新总统公开宣布：女性不戴头巾，解除网络限制</a></li>
 <li><a href="/cbnews/20241018/2103267.md">最新事件证实 习军权旁落</a></li>
+<li><a href="/headline/20241018/2103215.md">以色列军方发布辛瓦尔被击杀前短视频</a></li>
 <li><a href="/topimagenews/20241018/2103365.md">它们就是不给力！习近平急了 福建考察2次强调【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20241018/2103292.md">准备打仗？传中国沿海企业群起迁入内陆重启三线建设</a></li>
-<li><a href="/baitai/20241018/2103496.md">伊朗新总统公开宣布：女性不戴头巾，解除网络限制</a></li>
 <li><a href="/cnnews/20241018/2103378.md">倦容满面 习近平孤身赴福建 针对性释放2大信号</a></li>
+<li><a href="/lifebaike/20241018/2103190.md">历史上三次“神秘”巧合 世界是一个轮回?</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,10 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20241019/2103644.md" target="_blank">深圳男杀日童案 日媒：嫌犯失业、认为捅了日本人会获支持</a></li>
+<li><a href="/cbnews/20241019/2103641.md" target="_blank">江峰：董军称中俄关系”极其复杂“，看来要抽身而退</a></li>
+<li><a href="/cbnews/20241019/2103640.md" target="_blank">江峰：俄罗斯兵荒找中共要炮灰</a></li>
+<li><a href="/cbnews/20241019/2103639.md" target="_blank">江峰：再看习近平 张又侠世交在中共体制下的变数</a></li>
 <li><a href="/cbnews/20241018/2103617.md" target="_blank">华尔街日报：中共动用黑客与名人 盼使台湾屈服北京</a></li>
 <li><a href="/cbnews/20241018/2103616.md" target="_blank">中国年轻人搭廉航 流行将“行李穿身上” 行李箱少了四、五斤</a></li>
 <li><a href="/comments/20241018/2103591.md" target="_blank">马斯克本周在宾州举行自己的Rally!</a></li>
@@ -56,16 +60,14 @@
 <li><a href="/comments/20241018/2103486.md" target="_blank">拜登和奥巴马，在肯尼迪遗孀葬礼上激烈对话，泄重要大选信息。哈马斯最后头目被除，中共维和部队现原形。拜登奥巴马哈里斯</a></li>
 <li><a href="/comments/20241018/2103444.md" target="_blank">大型系列节目：治国大道 (五) 何为中国</a></li>
 <li><a href="/comments/20241018/2103360.md" target="_blank">揭开王岐山与习近平翻脸的真正原因。王岐山一句话，曝习为何要除掉他。习近平王岐山任志强</a></li>
-<li><a href="/cbnews/20241018/2103359.md" target="_blank">〖红朝浮世绘〗邪恶的哈马斯已死，中共的好朋友又少了一个</a></li>
-<li><a href="/cbnews/20241018/2103345.md" target="_blank">投资超22亿元 中国著名景区3年半亏了5个亿</a></li>
-<li><a href="/cbnews/20241018/2103344.md" target="_blank">深圳女中学生遭蒙头拳打脚踢 长达40分钟</a></li>
-<li><a href="/cbnews/20241018/2103335.md" target="_blank">江峰：哈玛斯首领辛瓦尔，撞上以军枪口；内塔尼亚胡向加沙人民喊话：哈玛斯末日来临，推翻暴政；反常：60多国驻华武官参观共军发动夭折围台军演的东部战区，丢谁的脸？谁在主谋？【江峰漫谈20241017第955期】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20241019/2103643.md" target="_blank">北京男挑衅美籍北大教授遭“上勾拳”暴打一顿 陆网一片倒：活该</a></li>
+<li><a href="/topimagenews/20241019/2103642.md" target="_blank">1死8伤！汽车冲撞福建小学大门 惊悚画面曝光</a></li>
 <li><a href="/topimagenews/20241018/2103615.md" target="_blank">马克思主义学院女教师被举报师生恋、出轨10余人 照片被扒出</a></li>
 <li><a href="/topimagenews/20241018/2103556.md" target="_blank">女寺庙捐款回家遭水箱砸中 下秒奇迹发生</a></li>
 <li><a href="/topimagenews/20241018/2103555.md" target="_blank">普丁染怪病？“脸、颈发痒”狂抓画面曝光 健康状况陷疑云</a></li>
@@ -89,8 +91,6 @@
 <li><a href="/topimagenews/20241017/2103051.md" target="_blank">恐怖！多名中国女生在德国被性侵 传嫌犯竟是中国男子</a></li>
 <li><a href="/topimagenews/20241017/2103050.md" target="_blank">Meta员工滥用津贴遭开除 公司部门裁员大重整</a></li>
 <li><a href="/topimagenews/20241017/2103049.md" target="_blank">习近平挖洞给自己跳！ 下猛药救经济、打压台湾凄惨下场曝</a></li>
-<li><a href="/topimagenews/20241017/2103007.md" target="_blank">乌重创俄军近2千装甲车! 有部队兵损90% 顿巴斯“损耗战”成战局关键</a></li>
-<li><a href="/topimagenews/20241017/2102941.md" target="_blank">视频公布！华人警察遭黑人女袭击 被迫将其击毙</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20240704/2058130.md" target="_blank">百年梦醒（十八）：共产魔教的机制、前所未有的巨大野心</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/cbnews/20190211/1078733.md" target="_blank">胡平：法轮功为什么能强化忍的精神</a></li>
-<li><a href="/sohnews/20240923/2092492.md" target="_blank">布兰登‧比格斯第一次见到神（四）：神的眼里充满了泪水，对布兰登说：你看到中国了吗？</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20240418/2026391.md" target="_blank">医生劝我妻子放弃，似乎这些医生热衷让病人快点去死？</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/cbnews/20240902/2082501.md" target="_blank">中元节祭祖有没有效果呢？那边真的可以收到纸钱吗？</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
 <li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/cnnews/20150914/449521.md" target="_blank">无神论和有神论，乡下老太太驳倒三个博士</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
 
 </ul>
 </div>
