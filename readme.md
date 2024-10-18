@@ -11,23 +11,23 @@
 <li><a href="/baitai/20241017/2103037.md">习再曝异常 分析：一定出了问题</a></li>
 <li><a href="/topimagenews/20241017/2102838.md">习突然现身这里 行程有特殊涵意？【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20241017/2102951.md">习近平亲赴东部战区搬兵勤王，张又侠强令停止围台演习，中共出台的不是经济刺激政策而是去风险措施。《老灯开讲第698期》</a></li>
-<li><a href="/cbnews/20241017/2103057.md">李希王小洪突到天津现异常 或对陈敏尔不利</a></li>
 <li><a href="/lifebaike/20241017/2103000.md">发现没？聪明人发朋友圈总是“3晒3不晒”，内行：他们懂避免是非</a></li>
+<li><a href="/cbnews/20241017/2103057.md">李希王小洪突到天津现异常 或对陈敏尔不利</a></li>
 <li><a href="/sohnews/20241017/2102939.md">这么重要的会议习近平竟然都缺席，真出事了？中共习近平</a></li>
 <li><a href="/sohnews/20241017/2102884.md">剥夺了习近平的政权和军权，却高调宣传习近平。是在玩肉身戏病虎的危险游戏。老虎病好了，会吃掉肉身。如果习近平病好了，会咬死了张又侠等叛徒。当局敢玩这游戏，说明，真的习近平要么病入膏肓了，要么已经死了。</a></li>
 <li><a href="/cbnews/20241017/2102909.md">突发：奶茶妹妹和刘强东向公安机关报案</a></li>
 <li><a href="/comments/20241017/2102891.md">习近平被逼走福建？张又侠借军演向赖清德递投名状？习缺席军方高级会议！“张”家军登台</a></li>
 <li><a href="/sports/20241018/2103142.md">篮球员易建联被传嫖妓 疑似“女伴”身份曝光激似宋慧乔</a></li>
-<li><a href="/topimagenews/20241017/2102941.md">视频公布！华人警察遭黑人女袭击 被迫将其击毙</a></li>
 <li><a href="/cbnews/20241018/2103158.md">习缺席军方重要会议 分析：军委权力结构生变</a></li>
+<li><a href="/topimagenews/20241017/2102941.md">视频公布！华人警察遭黑人女袭击 被迫将其击毙</a></li>
+<li><a href="/cbnews/20241018/2103159.md">中共党魁权力异常 前官员爆料：李强时刻来了</a></li>
 <li><a href="/topimagenews/20241017/2103049.md">习近平挖洞给自己跳！ 下猛药救经济、打压台湾凄惨下场曝</a></li>
 <li><a href="/sohnews/20241017/2102827.md">习近平军权没了！显然！军委只剩张又侠主持大局？给军队指示180度大转弯！《新闻联播》精心布局，仍露破绽，重要大会习被排除在外！大家都在忙，习去福建看海，蔡奇罕见未陪；对台政策也有变？｜大宇拍案惊奇</a></li>
 <li><a href="/topimagenews/20241017/2103051.md">恐怖！多名中国女生在德国被性侵 传嫌犯竟是中国男子</a></li>
-<li><a href="/cbnews/20241018/2103159.md">中共党魁权力异常 前官员爆料：李强时刻来了</a></li>
+<li><a href="/topimagenews/20241018/2103217.md">向“太子”施压？习2大亲信突袭天津</a></li>
 <li><a href="/comments/20241017/2102761.md">川普全对；蒋介石对一半；张学良全错</a></li>
 <li><a href="/cnnews/20241017/2103075.md">才说坚守 3小时后就落跑! 中国维和部队急撤 为真主党建豪华地道曝光</a></li>
 <li><a href="/topimagenews/20241017/2103128.md">巴菲特、贝佐斯、查克柏格都在大卖股票 商学院教授说为什么</a></li>
-<li><a href="/topimagenews/20241017/2102810.md">揭露中共党内丑闻！被“31亿”李传良公开宣布退党</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20241018/2103269.md" target="_blank">中共空军底细遭揭：山寨货Pk原装货</a></li>
+<li><a href="/cbnews/20241018/2103268.md" target="_blank">台湾官员：此次中共军演构成了前所未有的威胁</a></li>
+<li><a href="/cbnews/20241018/2103267.md" target="_blank">最新事件证实 习军权旁落</a></li>
 <li><a href="/cbnews/20241018/2103244.md" target="_blank">亲眼目睹中共酷刑 中国民主党创始人之一爆料</a></li>
 <li><a href="/cbnews/20241018/2103243.md" target="_blank">开关门就“咬人” 大陆智能锁夹手事故频发</a></li>
 <li><a href="/comments/20241018/2103231.md" target="_blank">今年中秋之夜，神韵表演艺术团体给您带来韵力量和艺术结合的巅峰体验！｜方伟时间特别节目 2024.10.17</a></li>
@@ -57,9 +60,6 @@
 <li><a href="/comments/20241017/2103010.md" target="_blank">马斯克的无人出租车什么样？</a></li>
 <li><a href="/cbnews/20241017/2103008.md" target="_blank">中共国企好幸福! 吉林有人离岗16年“吃空饷”公司照交保费 合肥烟草宿舍都独栋</a></li>
 <li><a href="/comments/20241017/2102761.md" target="_blank">川普全对；蒋介石对一半；张学良全错</a></li>
-<li><a href="/cbnews/20241017/2102942.md" target="_blank">湖南中学生在校坠亡 学校未通知家长即送殡仪馆惹疑</a></li>
-<li><a href="/cbnews/20241017/2102909.md" target="_blank">突发：奶茶妹妹和刘强东向公安机关报案</a></li>
-<li><a href="/cbnews/20241017/2102886.md" target="_blank">〖红朝浮世绘〗不只是搬工厂那么简单 习总是在为打核战争做准备</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20241018/2103273.md" target="_blank">李华芳｜兴于包容、毁于榨取</a></li>
+<li><a href="/comments/20241018/2103272.md" target="_blank">莽莽｜中国Z世代审核员：生存吃饭最重要</a></li>
 <li><a href="/comments/20241018/2103246.md" target="_blank">重大异常！习近平在中央军委中靠边站？</a></li>
 <li><a href="/comments/20241018/2103241.md" target="_blank">天亮时分：神韵舞蹈艺术家们，就是这样过中秋之夜的！舞蹈：力量与艺术的巅峰！｜章天亮、方伟、唐靖远、薇羽、梁珍</a></li>
 <li><a href="/comments/20241018/2103231.md" target="_blank">今年中秋之夜，神韵表演艺术团体给您带来韵力量和艺术结合的巅峰体验！｜方伟时间特别节目 2024.10.17</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20241017/2102761.md" target="_blank">川普全对；蒋介石对一半；张学良全错</a></li>
 <li><a href="/comments/20241017/2102945.md" target="_blank">卢俊义：不知道改变就是等死──也谈台湾的处境</a></li>
 <li><a href="/comments/20241017/2102938.md" target="_blank">天亮时分：为啥东部企业要向中西部转移？ #中共 #习近平 #中国经济</a></li>
-<li><a href="/comments/20241017/2102915.md" target="_blank">黑人造反：奥巴马失控了</a></li>
-<li><a href="/comments/20241017/2102891.md" target="_blank">习近平被逼走福建？张又侠借军演向赖清德递投名状？习缺席军方高级会议！“张”家军登台</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20231202/1968526.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （二）</a></li>
-<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
-<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
-<li><a href="/tculture/20231119/1962827.md" target="_blank">六道轮回之地狱道</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20240814/2074560.md" target="_blank">曾预言川普右耳中枪的牧师，看到美国大灾难，川普在椭圆形办公室哭泣，祈祷神修复美国。不信神的人被淘汰。比格斯川普暗杀事件</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
 <li><a href="/comments/20190220/1083672.md" target="_blank">胡平：法轮功与其他一些宗教或信仰之比较</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
+<li><a href="/cnnews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
 
 </ul>
 </div>
