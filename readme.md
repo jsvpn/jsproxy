@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/comments/20241018/2103360.md">揭开王岐山与习近平翻脸的真正原因。王岐山一句话，曝习为何要除掉他。习近平王岐山任志强</a></li>
 <li><a href="/baitai/20241018/2103491.md">习近平赴安徽考察 现罕见一幕</a></li>
 <li><a href="/topimagenews/20241019/2103731.md">习要退位？突访这里 党媒纷纷转发新闻通稿</a></li>
 <li><a href="/worldnews/20241018/2103420.md">醉女遭捡尸性侵直播 200观众无人报警 结局悲惨</a></li>
 <li><a href="/topimagenews/20241018/2103387.md">中共围台军演内幕曝光 习近平还是张又侠干了这事反而没说</a></li>
 <li><a href="/baitai/20241018/2103496.md">伊朗新总统公开宣布：女性不戴头巾，解除网络限制</a></li>
-<li><a href="/topimagenews/20241018/2103365.md">它们就是不给力！习近平急了 福建考察2次强调【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20241018/2103615.md">马克思主义学院女教师被举报师生恋、出轨10余人 照片被扒出</a></li>
+<li><a href="/topimagenews/20241019/2103794.md">北京宣言毒辣!14个代表相继归西 只剩一个…</a></li>
 <li><a href="/ssgc/20241018/2103543.md">王小洪蔡奇举动异常 中共在对外释放什么</a></li>
 <li><a href="/sohnews/20241019/2103679.md">习被踢出军圈？何卫东也失势？</a></li>
-<li><a href="/topimagenews/20241019/2103643.md">北京男挑衅美籍北大教授遭“上勾拳”暴打一顿 陆网一片倒：活该</a></li>
-<li><a href="/topimagenews/20241018/2103554.md">一带一路出人命！ 传中国工程队炸死人惨遭死刑打爆头</a></li>
 <li><a href="/cnnews/20241018/2103378.md">倦容满面 习近平孤身赴福建 针对性释放2大信号</a></li>
-<li><a href="/topimagenews/20241019/2103794.md">北京宣言毒辣!14个代表相继归西 只剩一个…</a></li>
+<li><a href="/topimagenews/20241018/2103554.md">一带一路出人命！ 传中国工程队炸死人惨遭死刑打爆头</a></li>
+<li><a href="/topimagenews/20241019/2103643.md">北京男挑衅美籍北大教授遭“上勾拳”暴打一顿 陆网一片倒：活该</a></li>
 <li><a href="/worldnews/20241019/2103756.md">惊悚影片：菲律宾火锅店中国男开7枪轰毙同胞</a></li>
 <li><a href="/baitai/20241018/2103494.md">“秦刚是什么原因被免的？”</a></li>
 <li><a href="/ssgc/20241019/2103705.md">朝鲜出兵援助俄罗斯之际 习近平宣布访俄</a></li>
+<li><a href="/topimagenews/20241019/2103754.md">动荡时刻，习近平要去见普京</a></li>
 <li><a href="/sohnews/20241018/2103466.md">蔡慎坤：20241018（359）上海帮丁薛祥政治行情涨跌｜习近平对他的信任和疑心｜习近平会不会交班给他</a></li>
 <li><a href="/baitai/20241018/2103611.md">普京揪出身边最大内鬼，堂堂一国总理竟是间谍，也给中国敲响警钟</a></li>
-<li><a href="/topimagenews/20241019/2103754.md">动荡时刻，习近平要去见普京</a></li>
 <li><a href="/sohnews/20241018/2103479.md">陈破空：行程异常！铁证习近平不再掌军。政治局常委纷纷外出，蔡奇失踪。四中全会即将召开？以色列终于铲除那位最高领导人！直播与互动：美东时间10月18日早9点、中港台当晚9点</a></li>
 <li><a href="/topimagenews/20241018/2103556.md">女寺庙捐款回家遭水箱砸中 下秒奇迹发生</a></li>
+<li><a href="/baitai/20241019/2103677.md">中越战争他率连队投降越南，回国被判10年，出狱后说4字引人深思</a></li>
 <li><a href="/baitai/20241018/2103449.md">中共围台军演火箭射向自己境内 民众惊见坠毁</a></li>
+<li><a href="/topimagenews/20241019/2103642.md">1死8伤！汽车冲撞福建小学大门 惊悚画面曝光</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20240412/2024185.md" target="_blank">是治疗还是屠杀?化疗药品滴一滴在皮肤即灼伤，很长时间才好</a></li>
-<li><a href="/comments/20190213/1080251.md" target="_blank">胡平：法轮功为何反对自杀？</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
 <li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/sohnews/20240923/2092495.md" target="_blank">布兰登‧比格斯第一次见到神：有人升空 有人在追捕牧师</a></li>
-<li><a href="/lifebaike/20180527/948531.md" target="_blank">无神论是最大的迷信（上）：科学无法证实神不存在</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/sohnews/20240923/2092492.md" target="_blank">布兰登‧比格斯第一次见到神（四）：神的眼里充满了泪水，对布兰登说：你看到中国了吗？</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
+<li><a href="/comments/20190213/1080251.md" target="_blank">胡平：法轮功为何反对自杀？</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
 
 </ul>
 </div>
