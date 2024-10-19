@@ -12,21 +12,21 @@
 <li><a href="/worldnews/20241019/2103756.md">惊悚影片：菲律宾火锅店中国男开7枪轰毙同胞</a></li>
 <li><a href="/sohnews/20241019/2103679.md">习被踢出军圈？何卫东也失势？</a></li>
 <li><a href="/topimagenews/20241019/2103643.md">北京男挑衅美籍北大教授遭“上勾拳”暴打一顿 陆网一片倒：活该</a></li>
-<li><a href="/ccpdope/20241019/2103880.md">中南海诡异信号连发 习近平失势迹象逐渐清晰化</a></li>
 <li><a href="/topimagenews/20241019/2103754.md">动荡时刻，习近平要去见普京</a></li>
+<li><a href="/ccpdope/20241019/2103880.md">中南海诡异信号连发 习近平失势迹象逐渐清晰化</a></li>
 <li><a href="/topimagenews/20241019/2103810.md">惊人细节！朝鲜最精锐暴风军团参加俄乌战</a></li>
 <li><a href="/topimagenews/20241019/2103819.md">最权威资料曝光 中共骗百姓这么多年</a></li>
 <li><a href="/topimagenews/20241019/2103795.md">惨遭全球抛弃！中共傻眼 经济“病入膏肓”</a></li>
 <li><a href="/cbnews/20241019/2103813.md">〖红朝浮世绘〗世界上哈马斯最多的地方居然在中共国</a></li>
 <li><a href="/topimagenews/20241019/2103753.md">贺锦丽会惨败？川普晚宴大出风头</a></li>
-<li><a href="/topimagenews/20241019/2103771.md">都是北京的人！新名单公开 赫见侨领和核子专家</a></li>
 <li><a href="/topimagenews/20241019/2103903.md">今年万圣节，上海如临大敌</a></li>
+<li><a href="/topimagenews/20241019/2103771.md">都是北京的人！新名单公开 赫见侨领和核子专家</a></li>
 <li><a href="/yule/20241019/2103663.md">终于知道黄圣依为什么想离婚 和杨子已分居</a></li>
 <li><a href="/ssgc/20241019/2103705.md">朝鲜出兵援助俄罗斯之际 习近平宣布访俄</a></li>
 <li><a href="/baitai/20241019/2103677.md">中越战争他率连队投降越南，回国被判10年，出狱后说4字引人深思</a></li>
 <li><a href="/ccpdope/20241019/2103892.md">中国经济已走入绝路 北京失业者比比皆是</a></li>
+<li><a href="/cbnews/20241019/2103940.md">突发：中南海政局敏感时刻 习视察火箭军引揣测</a></li>
 <li><a href="/worldnews/20241019/2103758.md">哈马斯领袖最后时刻完整视频曝光！训练生抓到“大鱼”</a></li>
-<li><a href="/cbnews/20241019/2103849.md">萌生退意？习访安徽专程去这里</a></li>
 <li><a href="/topimagenews/20241019/2103809.md">习近平耍花招玩转共党？七常委诡异分头行动</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20241019/2103987.md" target="_blank">哈里斯深入敌营，结果如何？【精华版】</a></li>
+<li><a href="/comments/20241019/2103960.md" target="_blank">以色列怎么忽然厉害起来了 ？以前没能力吗？</a></li>
 <li><a href="/cbnews/20241019/2103969.md" target="_blank">台积电否认华为交易 美媒：中国早已找出多种绕过制裁方法</a></li>
 <li><a href="/cbnews/20241019/2103968.md" target="_blank">又一教师性侵学生案曝光 陕西一教师被捕</a></li>
 <li><a href="/cbnews/20241019/2103967.md" target="_blank">安徽淮南一名中学生遭5名室友掐脖致死</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20241019/2103813.md" target="_blank">〖红朝浮世绘〗世界上哈马斯最多的地方居然在中共国</a></li>
 <li><a href="/cbnews/20241019/2103778.md" target="_blank">江峰：被迫离京，习近平“维稳旅游”福建，蔡奇失去踪影，习政治规格下降；习军中酷吏被调离，军中大清洗中断；国共东山岛战役回忆，看习近平武统梦断【江峰漫谈20241018第956期】</a></li>
 <li><a href="/comments/20241019/2103775.md" target="_blank">（声音版) 川普参加筹款晚宴，历史会重演？马斯克演讲打动人心；福克斯记者对哈里斯太粗鲁吗？ ｜Podcast with Carrie</a></li>
-<li><a href="/cbnews/20241019/2103772.md" target="_blank">从石家庄起飞后客舱冒烟 深圳航空一航班急返航</a></li>
-<li><a href="/comments/20241019/2103727.md" target="_blank">加州通过法律，选举看ID违法，这位律师不服！｜方伟时间 特别节目 10.18.2024</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20241019/2103987.md" target="_blank">哈里斯深入敌营，结果如何？【精华版】</a></li>
+<li><a href="/comments/20241019/2103960.md" target="_blank">以色列怎么忽然厉害起来了 ？以前没能力吗？</a></li>
 <li><a href="/comments/20241019/2103941.md" target="_blank">【洞察国情】中共祖宗是马列，祖国是苏联——从赖清德的祖国论说起</a></li>
 <li><a href="/comments/20241019/2103938.md" target="_blank">美国给中共警告！军演毫无道理</a></li>
 <li><a href="/comments/20241019/2103934.md" target="_blank">五大转折，确定了川普大选领先地位。约翰逊列出具体原因，共和党将赢得白宫和参、众两院。川普美国大选众议院议长</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20241019/2103749.md" target="_blank">【专访林和立：习近平会打台湾吗？】</a></li>
 <li><a href="/comments/20241019/2103748.md" target="_blank">【与 #谢锋 为邻 中国冤情殃及美国居民】</a></li>
 <li><a href="/comments/20241019/2103732.md" target="_blank">慧文：福赐善良人家 祸降作恶之人</a></li>
-<li><a href="/comments/20241019/2103727.md" target="_blank">加州通过法律，选举看ID违法，这位律师不服！｜方伟时间 特别节目 10.18.2024</a></li>
-<li><a href="/comments/20241019/2103726.md" target="_blank">南加律师刘龙珠，出于义愤，参选加州49选举众议员</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20231212/1972297.md" target="_blank">日本华人确诊晚期直肠癌，修炼法轮功恢复健康（图）</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/taiwannews/20210119/1470761.md" target="_blank">独家：震撼纪录片《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/cnnews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
 <li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20240320/2015219.md" target="_blank">对法轮功的态度是鉴定人鬼的照妖镜</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/tculture/20240904/2083774.md" target="_blank">“几生修得到梅花”之生命品格浅议</a></li>
+<li><a href="/comments/20240825/2079044.md" target="_blank">谁是创世主</a></li>
+<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20240814/2074560.md" target="_blank">曾预言川普右耳中枪的牧师，看到美国大灾难，川普在椭圆形办公室哭泣，祈祷神修复美国。不信神的人被淘汰。比格斯川普暗杀事件</a></li>
+<li><a href="/comments/20190701/1151501.md" target="_blank">【特稿】中国共产党是邪教组织</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/sohnews/20240923/2092491.md" target="_blank">布兰登比格斯曾听到两位天使的对话，对他震动很大&#8230;&#8230;</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
 
 </ul>
 </div>
