@@ -13,7 +13,6 @@
 <li><a href="/topimagenews/20241019/2103810.md">惊人细节！朝鲜最精锐暴风军团参加俄乌战</a></li>
 <li><a href="/cbnews/20241019/2103813.md">〖红朝浮世绘〗世界上哈马斯最多的地方居然在中共国</a></li>
 <li><a href="/topimagenews/20241019/2103903.md">今年万圣节，上海如临大敌</a></li>
-<li><a href="/topimagenews/20241019/2103771.md">都是北京的人！新名单公开 赫见侨领和核子专家</a></li>
 <li><a href="/ccpdope/20241019/2103892.md">中国经济已走入绝路 北京失业者比比皆是</a></li>
 <li><a href="/sohnews/20241019/2103910.md">习近平视察六尺巷正式告别演出，习放弃权力转做精神领袖，朝鲜出兵乌克兰战场中共出钱。《老灯开讲第700期》</a></li>
 <li><a href="/topimagenews/20241019/2103809.md">习近平耍花招玩转共党？七常委诡异分头行动</a></li>
@@ -21,13 +20,14 @@
 <li><a href="/topimagenews/20241019/2103962.md">停火没可能了！以总理住所遭无人机攻击 伊朗扬言报复</a></li>
 <li><a href="/headline/20241019/2103930.md">习近平此时视察火箭军</a></li>
 <li><a href="/baitai/20241019/2103824.md">习放烟幕瞒外界耳目？中共高层或有人事变动</a></li>
+<li><a href="/yule/20241020/2104008.md">“忘拉窗帘”11年后，上天对董洁的“报复”，不止是离婚</a></li>
 <li><a href="/funmedia/20241019/2103882.md">沙特吹过的牛，这次要变现了</a></li>
-<li><a href="/cbnews/20241019/2103847.md">“好日子在后头”？惊爆陆医院开始打欠条 “很多人医保社保全断了”</a></li>
 <li><a href="/sohnews/20241019/2103789.md">习读诗：不见当年秦始皇！这打脸太狠！习近平游安徽桐城“六尺巷”，每一步都是羞辱！正值李克强忌日，安徽行是“被安排”变相纪念？北京大事连连，习近平和他提拔的一众高层，却四处在外，咋回事｜大宇拍案惊奇</a></li>
 <li><a href="/cbnews/20241019/2103778.md">江峰：被迫离京，习近平“维稳旅游”福建，蔡奇失去踪影，习政治规格下降；习军中酷吏被调离，军中大清洗中断；国共东山岛战役回忆，看习近平武统梦断【江峰漫谈20241018第956期】</a></li>
+<li><a href="/cbnews/20241019/2103847.md">“好日子在后头”？惊爆陆医院开始打欠条 “很多人医保社保全断了”</a></li>
 <li><a href="/baitai/20241019/2103924.md">有这4种特质的人，可深交</a></li>
-<li><a href="/yule/20241020/2104008.md">“忘拉窗帘”11年后，上天对董洁的“报复”，不止是离婚</a></li>
 <li><a href="/worldnews/20241019/2103870.md">普京这是害怕退缩了？</a></li>
+<li><a href="/sohnews/20241019/2103939.md">陈破空：信号！习近平暗示退位？现身特殊地点，对李克强之死表愧疚？或推出蔡奇顶罪。终于现身军队，张又侠陪同？何卫东仍失踪。习亲信遭批捕。直播与互动：美东时间10月19日早9点、中港台当晚9点</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,12 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20241020/2104069.md" target="_blank">胡平-《新冠肺炎浩劫：一场本来完全可以避免的大灾难》前言</a></li>
+<li><a href="/comments/20241020/2104068.md" target="_blank">王维洛-谈谈习近平主持的兰州黄河座谈会</a></li>
+<li><a href="/comments/20241020/2104067.md" target="_blank">文化纵横：西方的天要变了——略谈欧洲新右翼的兴起</a></li>
+<li><a href="/comments/20241020/2104066.md" target="_blank">蔡慎坤：非洲一些国家如南非这几十年的巨大变化</a></li>
+<li><a href="/comments/20241020/2104065.md" target="_blank">蔡慎坤：底特律如何从“美国的巴黎”到全美“最危险的城市”之一</a></li>
+<li><a href="/comments/20241020/2104064.md" target="_blank">治国大道帝道立德</a></li>
 <li><a href="/comments/20241020/2104059.md" target="_blank">前鸡西副市长李传良：31亿就是个筐！这个体制已经烂透；不给钱就抓人，腐败的人同时反腐；躺平渎职遍及官场 ｜方菲时间</a></li>
 <li><a href="/comments/20241020/2104034.md" target="_blank">政府的角色，究竟应该是什么？！</a></li>
 <li><a href="/comments/20241020/2104031.md" target="_blank">老鱼时评：哈马斯领导人之死，满满的魔幻色彩</a></li>
@@ -116,12 +122,6 @@
 <li><a href="/comments/20241019/2103821.md" target="_blank">让校领导带头吃学生食堂，真就那么难吗？</a></li>
 <li><a href="/comments/20241019/2103820.md" target="_blank">司马南在开封府直播呼唤包公，说到天子犯法与庶民同罪时被封禁</a></li>
 <li><a href="/comments/20241019/2103811.md" target="_blank">《国家为什么会失败》林明仁推荐序：大哉问，大哉答</a></li>
-<li><a href="/comments/20241019/2103799.md" target="_blank">整色整水不知所谓，李家超也成烂尾王</a></li>
-<li><a href="/comments/20241019/2103798.md" target="_blank">贺锦丽大意了，拜登的报复杀到</a></li>
-<li><a href="/comments/20241019/2103797.md" target="_blank">抗美援朝——“保”谁的家，卫哪个“国”？</a></li>
-<li><a href="/comments/20241019/2103784.md" target="_blank">治国大道：皇道无为</a></li>
-<li><a href="/comments/20241019/2103783.md" target="_blank">汤名晖: “联合利剑2024-B”朝发夕至的虚假意象</a></li>
-<li><a href="/comments/20241019/2103775.md" target="_blank">（声音版) 川普参加筹款晚宴，历史会重演？马斯克演讲打动人心；福克斯记者对哈里斯太粗鲁吗？ ｜Podcast with Carrie</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/sohnews/20240923/2092494.md" target="_blank">敌基督布兰登‧比格斯第一次见到神（二）：敌基督怎样吸引人？整个世界都被迷惑！</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/cbnews/20240902/2082501.md" target="_blank">中元节祭祖有没有效果呢？那边真的可以收到纸钱吗？</a></li>
-<li><a href="/comments/20240921/2091850.md" target="_blank">冥府阎王的阴差 吴玉华视频访谈，活人做阴差 当代真实案例</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/bblog/20240813/2073608.md" target="_blank">惊人内幕：脑死亡不是死亡，只是深度昏迷骗你捐器官</a></li>
-<li><a href="/taiwannews/20210119/1470524.md" target="_blank">纪录片《蚕食美国1》</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
-<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/tculture/20130420/118883.md" target="_blank">六位修女祷告时听到声音：去看神韵（图）</a></li>
-<li><a href="/tculture/20231208/1971390.md" target="_blank">传统文化之汉字的内涵</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20240820/2076940.md" target="_blank">惠虎宇：中华文化为什么是高级文化系统(2)</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
 
 </ul>
 </div>
