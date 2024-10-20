@@ -12,22 +12,22 @@
 <li><a href="/sohnews/20241019/2103910.md">习近平视察六尺巷正式告别演出，习放弃权力转做精神领袖，朝鲜出兵乌克兰战场中共出钱。《老灯开讲第700期》</a></li>
 <li><a href="/topimagenews/20241020/2104049.md">中国迎来“停飞潮”，埋下一个巨大隐忧</a></li>
 <li><a href="/yule/20241020/2104008.md">“忘拉窗帘”11年后，上天对董洁的“报复”，不止是离婚</a></li>
-<li><a href="/topimagenews/20241020/2104047.md">习慌忙洗地 敢让秦刚出来走2步？傅晓田恐牢底坐穿【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20241020/2104062.md">中共大招来了，你的钱已经无处可去</a></li>
+<li><a href="/topimagenews/20241020/2104047.md">习慌忙洗地 敢让秦刚出来走2步？傅晓田恐牢底坐穿【阿波罗网报道】</a></li>
 <li><a href="/headline/20241019/2103930.md">习近平此时视察火箭军</a></li>
 <li><a href="/topimagenews/20241019/2103962.md">停火没可能了！以总理住所遭无人机攻击 伊朗扬言报复</a></li>
 <li><a href="/topimagenews/20241020/2104048.md">网直呼受不了!传陆大学女老师出轨10余人</a></li>
-<li><a href="/funmedia/20241019/2103882.md">沙特吹过的牛，这次要变现了</a></li>
-<li><a href="/topimagenews/20241020/2104026.md">"已进ICU"中共无力回天！住建部长扬言…；太吓人了！这样说大实话</a></li>
 <li><a href="/topimagenews/20241020/2104111.md">中南海遥不可及高端神秘 被马斯克连人带狗撕个粉碎</a></li>
+<li><a href="/topimagenews/20241020/2104026.md">"已进ICU"中共无力回天！住建部长扬言…；太吓人了！这样说大实话</a></li>
 <li><a href="/cbnews/20241019/2103966.md">大陆失散30年双胞胎姊妹重逢 3年后却决裂</a></li>
 <li><a href="/headline/20241019/2103982.md">华日出“消失的外交部长”系列播客，揭秘秦刚神秘下台的背后</a></li>
 <li><a href="/topimagenews/20241020/2104061.md">“成千上万朝鲜兵正在前往俄路上"！CNN播放一段影片</a></li>
 <li><a href="/topimagenews/20241020/2104082.md">老王，又到了最艰难时刻</a></li>
-<li><a href="/yule/20241020/2104009.md">刘亦菲勒出的赘肉，治好了多少女人的身材焦虑？</a></li>
 <li><a href="/baitai/20241019/2103924.md">有这4种特质的人，可深交</a></li>
-<li><a href="/sohnews/20241019/2103939.md">陈破空：信号！习近平暗示退位？现身特殊地点，对李克强之死表愧疚？或推出蔡奇顶罪。终于现身军队，张又侠陪同？何卫东仍失踪。习亲信遭批捕。直播与互动：美东时间10月19日早9点、中港台当晚9点</a></li>
+<li><a href="/yule/20241020/2104009.md">刘亦菲勒出的赘肉，治好了多少女人的身材焦虑？</a></li>
 <li><a href="/topimagenews/20241020/2104080.md">开房40次！副校长与人妻开房记录被塞进绿帽夫家门</a></li>
+<li><a href="/topimagenews/20241020/2104081.md">牛马想躺平？！这下不行了</a></li>
+<li><a href="/sohnews/20241019/2103939.md">陈破空：信号！习近平暗示退位？现身特殊地点，对李克强之死表愧疚？或推出蔡奇顶罪。终于现身军队，张又侠陪同？何卫东仍失踪。习亲信遭批捕。直播与互动：美东时间10月19日早9点、中港台当晚9点</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/cnnews/20230303/1855390.md" target="_blank">将马桶盖放下冲水？你错了！</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
 <li><a href="/comments/20241009/2099477.md" target="_blank">大型系列节目：治国大道 (二) 帝道立德</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20240828/2080320.md" target="_blank">惠虎宇：与AI聊传统宗教、科学和修炼</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
-<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
 <li><a href="/comments/20210228/1495257.md" target="_blank">人百年后将去往何方?《幽冥问答录》“天机尽泄”</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20240403/2020547.md" target="_blank">纪录片：DSM诊断与统计手册-精神病学最要命的骗局</a></li>
+<li><a href="/comments/20240416/2025464.md" target="_blank">爆火视频：川普的美德</a></li>
+<li><a href="/comments/20240104/1982860.md" target="_blank">大和尚介绍他修炼法轮功 肺癌康复，可重新踢足球了</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20150430/391326.md" target="_blank">什么是“亡国”？什么是“亡天下”？ 哪个真可怕？</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
 
 </ul>
 </div>
