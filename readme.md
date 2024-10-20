@@ -11,23 +11,23 @@
 <li><a href="/ccpdope/20241019/2103892.md">中国经济已走入绝路 北京失业者比比皆是</a></li>
 <li><a href="/topimagenews/20241020/2104029.md">赌国运！中国新股民“杀疯了”，证券公司有点慌</a></li>
 <li><a href="/sohnews/20241019/2103910.md">习近平视察六尺巷正式告别演出，习放弃权力转做精神领袖，朝鲜出兵乌克兰战场中共出钱。《老灯开讲第700期》</a></li>
-<li><a href="/yule/20241020/2104008.md">“忘拉窗帘”11年后，上天对董洁的“报复”，不止是离婚</a></li>
 <li><a href="/topimagenews/20241020/2104049.md">中国迎来“停飞潮”，埋下一个巨大隐忧</a></li>
-<li><a href="/cbnews/20241019/2103849.md">萌生退意？习访安徽专程去这里</a></li>
+<li><a href="/yule/20241020/2104008.md">“忘拉窗帘”11年后，上天对董洁的“报复”，不止是离婚</a></li>
 <li><a href="/headline/20241019/2103930.md">习近平此时视察火箭军</a></li>
 <li><a href="/topimagenews/20241019/2103962.md">停火没可能了！以总理住所遭无人机攻击 伊朗扬言报复</a></li>
 <li><a href="/topimagenews/20241020/2104047.md">习慌忙洗地 敢让秦刚出来走2步？傅晓田恐牢底坐穿【阿波罗网报道】</a></li>
 <li><a href="/funmedia/20241019/2103882.md">沙特吹过的牛，这次要变现了</a></li>
-<li><a href="/topimagenews/20241020/2104026.md">"已进ICU"中共无力回天！住建部长扬言…；太吓人了！这样说大实话</a></li>
 <li><a href="/topimagenews/20241020/2104048.md">网直呼受不了!传陆大学女老师出轨10余人</a></li>
-<li><a href="/cbnews/20241019/2103847.md">“好日子在后头”？惊爆陆医院开始打欠条 “很多人医保社保全断了”</a></li>
 <li><a href="/topimagenews/20241020/2104062.md">中共大招来了，你的钱已经无处可去</a></li>
+<li><a href="/topimagenews/20241020/2104026.md">"已进ICU"中共无力回天！住建部长扬言…；太吓人了！这样说大实话</a></li>
 <li><a href="/cbnews/20241019/2103966.md">大陆失散30年双胞胎姊妹重逢 3年后却决裂</a></li>
 <li><a href="/headline/20241019/2103982.md">华日出“消失的外交部长”系列播客，揭秘秦刚神秘下台的背后</a></li>
-<li><a href="/baitai/20241019/2103924.md">有这4种特质的人，可深交</a></li>
-<li><a href="/yule/20241020/2104009.md">刘亦菲勒出的赘肉，治好了多少女人的身材焦虑？</a></li>
 <li><a href="/topimagenews/20241020/2104061.md">“成千上万朝鲜兵正在前往俄路上"！CNN播放一段影片</a></li>
+<li><a href="/yule/20241020/2104009.md">刘亦菲勒出的赘肉，治好了多少女人的身材焦虑？</a></li>
+<li><a href="/baitai/20241019/2103924.md">有这4种特质的人，可深交</a></li>
+<li><a href="/topimagenews/20241020/2104111.md">中南海遥不可及高端神秘 被马斯克连人带狗撕个粉碎</a></li>
 <li><a href="/worldnews/20241019/2103870.md">普京这是害怕退缩了？</a></li>
+<li><a href="/sohnews/20241019/2103939.md">陈破空：信号！习近平暗示退位？现身特殊地点，对李克强之死表愧疚？或推出蔡奇顶罪。终于现身军队，张又侠陪同？何卫东仍失踪。习亲信遭批捕。直播与互动：美东时间10月19日早9点、中港台当晚9点</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20241020/2104151.md" target="_blank">又是东航 空姐和乘务长互殴</a></li>
 <li><a href="/cbnews/20241020/2104149.md" target="_blank">中国博士再扩招 毕业更难了</a></li>
 <li><a href="/cbnews/20241020/2104141.md" target="_blank">俄防长访中会晤张又侠 分析：习淡出军方事务</a></li>
 <li><a href="/cbnews/20241020/2104140.md" target="_blank">解放军动作频频 美学者吁航母舰队速返西太</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20241019/2103968.md" target="_blank">又一教师性侵学生案曝光 陕西一教师被捕</a></li>
 <li><a href="/cbnews/20241019/2103967.md" target="_blank">安徽淮南一名中学生遭5名室友掐脖致死</a></li>
 <li><a href="/cbnews/20241019/2103966.md" target="_blank">大陆失散30年双胞胎姊妹重逢 3年后却决裂</a></li>
-<li><a href="/cbnews/20241019/2103965.md" target="_blank">河北教师用羽毛球拍捅学生屁股 被家长举报</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20231217/1975364.md" target="_blank">医山夜话：张锡纯医案解读（1）根治失眠 思路清晰</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/comments/20190214/1080789.md" target="_blank">胡平：天安门自焚和人民圣殿教</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20231212/1972297.md" target="_blank">日本华人确诊晚期直肠癌，修炼法轮功恢复健康（图）</a></li>
-<li><a href="/comments/20240123/1991594.md" target="_blank">美国父母其实不希望小孩直呼名字</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
+<li><a href="/sohnews/20160119/493472.md" target="_blank">无效的医疗：手术刀下的谎言和药瓶里的欺骗</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20130625/144080.md" target="_blank">权威实验证实盖盖儿冲马桶更卫生是谣传</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
 <li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/sohnews/20240908/2085761.md" target="_blank">初次见到神；看到兽的印记；目睹灾难来临时什么样的人会被留下</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/topimagenews/20200514/1328456.md" target="_blank">穿越时空 谢田教授亲身体验人体特异功能</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20230920/1936271.md" target="_blank">防止你的孩子不成功（5） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
 
 </ul>
 </div>
