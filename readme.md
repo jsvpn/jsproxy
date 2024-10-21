@@ -15,19 +15,19 @@
 <li><a href="/sohnews/20241020/2104252.md">习近平大权旁落，还是温家宝配合作秀?</a></li>
 <li><a href="/sports/20241020/2104257.md">不甩嫖娼风波 中国“蛙王”上海出战 女观众喊…</a></li>
 <li><a href="/topimagenews/20241021/2104326.md">反过来绑架银行、国家和社会 新一茬韭菜会成无敌之人？</a></li>
-<li><a href="/topimagenews/20241021/2104434.md">【微博精粹】朝鲜志愿军抗乌援俄 吃个肚歪 再拍个沙雕连</a></li>
 <li><a href="/topimagenews/20241021/2104336.md">这个中国超大城市，楼市轰油门了</a></li>
+<li><a href="/topimagenews/20241021/2104434.md">【微博精粹】朝鲜志愿军抗乌援俄 吃个肚歪 再拍个沙雕连</a></li>
 <li><a href="/comments/20241021/2104388.md">北京全城抓反贼！普京只剩两个月？金正恩给自己掘墓？三亲同运，习被逼向美国认怂？</a></li>
 <li><a href="/comments/20241021/2104441.md">军中两个关键变动 说明习近平败了</a></li>
 <li><a href="/topimagenews/20241021/2104392.md">第一批房价下跌的中国夫妻，已经离婚了</a></li>
 <li><a href="/sohnews/20241021/2104415.md">温家宝: 不施麻药，活摘器官，还拿去卖钱，这是人干的事情吗？</a></li>
 <li><a href="/topimagenews/20241021/2104325.md">亿万年不遇！人如何离开三界的地图 出现了</a></li>
+<li><a href="/cnnews/20241021/2104488.md">“你把我的身子全部得到了！”68岁大爷的黄昏恋</a></li>
 <li><a href="/cbnews/20241021/2104442.md">〖红朝浮世绘〗觉醒是大陆人新生的开始</a></li>
 <li><a href="/yule/20241020/2104274.md">六小龄童，沉冤昭雪</a></li>
 <li><a href="/cnnews/20241021/2104361.md">李嘉诚，突然批量卖出</a></li>
 <li><a href="/baitai/20241021/2104312.md">朝韩进入备战状态 金正恩动作连连 或将改变东北亚势力格局</a></li>
 <li><a href="/topimagenews/20241021/2104319.md">中国经济大动荡将至！老外都看明白了；没有中共 中国人该这么有钱！国际认证</a></li>
-<li><a href="/lifebaike/20241020/2104289.md">万历皇帝为何28年不上朝？考古学家：有这腿…换你也不上</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20241021/2104579.md" target="_blank">2024-2025年局势这么转；掌权者 会被这样的人代替！未来天翻地覆巨变！英国灵媒 不听天使警告，人三辈子才能完成的事，她硬要用一生完成！｜ 未解之谜 扶摇</a></li>
 <li><a href="/cbnews/20241021/2104554.md" target="_blank">异象 河北和辽宁同日发生海水倒灌</a></li>
 <li><a href="/cbnews/20241021/2104553.md" target="_blank">出啥大事？飞福建福州机场航班大面积备降</a></li>
 <li><a href="/comments/20241021/2104552.md" target="_blank">马斯克百万美元支票，惹恼宾州州长。大量黑人明星支持川普。麦当劳打工，川普嘲讽哈里斯。 马斯克 美国大选 | 新视野 第1567期 20241021</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20241020/2104243.md" target="_blank">为何得宾州者得天下？世界首富兼最强大脑马斯克，支持川普超凡人想像！川普马斯克美国大选</a></li>
 <li><a href="/cbnews/20241020/2104180.md" target="_blank">云南学校臭肉事件发酵 家长被威胁 校方推责</a></li>
 <li><a href="/cbnews/20241020/2104151.md" target="_blank">又是东航 空姐和乘务长互殴</a></li>
-<li><a href="/cbnews/20241020/2104149.md" target="_blank">中国博士再扩招 毕业更难了</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20241021/2104579.md" target="_blank">2024-2025年局势这么转；掌权者 会被这样的人代替！未来天翻地覆巨变！英国灵媒 不听天使警告，人三辈子才能完成的事，她硬要用一生完成！｜ 未解之谜 扶摇</a></li>
 <li><a href="/comments/20241021/2104564.md" target="_blank">为省钱住厕所😲😲黄山景区酒店 空房1700间</a></li>
 <li><a href="/comments/20241021/2104552.md" target="_blank">马斯克百万美元支票，惹恼宾州州长。大量黑人明星支持川普。麦当劳打工，川普嘲讽哈里斯。 马斯克 美国大选 | 新视野 第1567期 20241021</a></li>
 <li><a href="/comments/20241021/2104539.md" target="_blank">天亮时分：内塔尼亚胡遭遇斩首行动？ #内塔尼亚胡 #以色列 #黎巴嫩</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20241021/2104372.md" target="_blank">请杨笠代言，刘强东里外不是人？奶茶妹真惨…</a></li>
 <li><a href="/comments/20241021/2104371.md" target="_blank">朝鲜若真派兵助俄打乌克兰，图的是什么？</a></li>
 <li><a href="/comments/20241021/2104355.md" target="_blank">文昭：改写未来？美国大选「十月惊奇」又来袭!【会员样片节选】</a></li>
-<li><a href="/comments/20241021/2104347.md" target="_blank">飓风海伦造成什么后果？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20241018/2103444.md" target="_blank">大型系列节目：治国大道 (五) 何为中国</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/cbnews/20240902/2082501.md" target="_blank">中元节祭祖有没有效果呢？那边真的可以收到纸钱吗？</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/topimagenews/20240511/2035423.md" target="_blank">原北京学员回忆李洪志先生在东方健康博览会上所行的奇迹</a></li>
-<li><a href="/comments/20190219/1082706.md" target="_blank">胡平：法轮功信仰自由，江泽民精神控制</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/comments/20240825/2079044.md" target="_blank">谁是创世主</a></li>
+<li><a href="/comments/20241004/2097641.md" target="_blank">李连杰谈气功特异功能-灵魂出窍-亲身见证穿墙术</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
 <li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
+<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20231212/1972297.md" target="_blank">日本华人确诊晚期直肠癌，修炼法轮功恢复健康（图）</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/cbnews/20190211/1078733.md" target="_blank">胡平：法轮功为什么能强化忍的精神</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
 
 </ul>
 </div>
