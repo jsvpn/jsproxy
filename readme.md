@@ -12,22 +12,22 @@
 <li><a href="/cnnews/20241021/2104488.md">“你把我的身子全部得到了！”68岁大爷的黄昏恋</a></li>
 <li><a href="/topimagenews/20241021/2104447.md">以总理问：“该如何处理伊朗？” 川普回答…</a></li>
 <li><a href="/sohnews/20241021/2104489.md">财新网严重泄秘：中共高层内部已出大事，习突访火箭军张又侠赶来监控，习总大搞破坏中国经济衰退无解。《老灯开讲第702期》</a></li>
+<li><a href="/headline/20241022/2104762.md">前央视主播芮成钢到美国重出江湖 否认所有「谣言」、「绯闻」</a></li>
 <li><a href="/topimagenews/20241021/2104591.md">大官出行要回避? 福州机场多航班备降、上海虹桥乘客包起火 竟是因为它….</a></li>
 <li><a href="/comments/20241021/2104441.md">军中两个关键变动 说明习近平败了</a></li>
-<li><a href="/headline/20241022/2104762.md">前央视主播芮成钢到美国重出江湖 否认所有「谣言」、「绯闻」</a></li>
 <li><a href="/topimagenews/20241021/2104434.md">【微博精粹】朝鲜志愿军抗乌援俄 吃个肚歪 再拍个沙雕连</a></li>
 <li><a href="/topimagenews/20241021/2104588.md">我要吃饭! 广东医院罢工掀全国讨薪风暴 上海展会冷清清全无买家</a></li>
-<li><a href="/sohnews/20241021/2104415.md">温家宝: 不施麻药，活摘器官，还拿去卖钱，这是人干的事情吗？</a></li>
 <li><a href="/topimagenews/20241022/2104711.md">面临中共飞弹威胁 美重启二战太平洋基地 全面备战</a></li>
 <li><a href="/cbnews/20241021/2104442.md">〖红朝浮世绘〗觉醒是大陆人新生的开始</a></li>
 <li><a href="/yule/20241021/2104657.md">原来她就是刀郎妻子 难怪他时隔多年能一战封神</a></li>
-<li><a href="/topimagenews/20241021/2104646.md">以色列炸“真主党金库”！藏上亿美元现钞、黄金 来源曝光</a></li>
 <li><a href="/topimagenews/20241022/2104770.md">股市危急！中共证监会主席紧急喊话 听完更崩溃！【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20241021/2104646.md">以色列炸“真主党金库”！藏上亿美元现钞、黄金 来源曝光</a></li>
 <li><a href="/health/20241021/2104515.md">脑梗来临，睡觉先知！睡觉时出现这3种异常，离“脑梗”或只一步之遥</a></li>
 <li><a href="/sports/20241021/2104471.md">易建联嫖娼事发北京五星酒店？派出所：涉密</a></li>
 <li><a href="/topimagenews/20241021/2104648.md">哈玛斯领袖妻拎3.2万美元柏金包躲地道遭讽：人民缺钱买粮</a></li>
 <li><a href="/ccpdope/20241021/2104444.md">财新网大胆泄密 当今中国谁在幕后操盘？</a></li>
-<li><a href="/worldnews/20241021/2104448.md">傻眼了，哈马斯领导人藏身之处竟是他家…</a></li>
+<li><a href="/ccpdope/20241021/2104702.md">习近平不甘失权备战翻盘？</a></li>
+<li><a href="/sohnews/20241022/2104738.md">“习近平“东一榔头 西一棒”式露面 凸显中南海权力已非昨日！《今日点击》（10 21 24） 习近平</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20240815/2074891.md" target="_blank">松果体 谜一样的器官</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20240116/1984226.md" target="_blank">湖北老河口遇仙记</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/topimagenews/20180409/925880.md" target="_blank">安乐死、自杀都有罪 无法解脱痛苦，反而陷入更悲惨的境地</a></li>
-<li><a href="/sohnews/20160119/493472.md" target="_blank">无效的医疗：手术刀下的谎言和药瓶里的欺骗</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/comments/20240808/2071869.md" target="_blank">【新纪元】被误解的大脑</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/topimagenews/20240511/2035423.md" target="_blank">原北京学员回忆李洪志先生在东方健康博览会上所行的奇迹</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
+<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
 
 </ul>
 </div>
