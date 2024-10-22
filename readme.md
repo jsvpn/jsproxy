@@ -10,24 +10,24 @@
 <li><a href="/topimagenews/20241022/2104872.md">习近平上路访俄 北京突宣布实弹军演</a></li>
 <li><a href="/topimagenews/20241022/2105008.md">普大帝这下丢人丢大了</a></li>
 <li><a href="/topimagenews/20241022/2104770.md">股市危急！中共证监会主席紧急喊话 听完更崩溃！【阿波罗网报道】</a></li>
-<li><a href="/comments/20241022/2105009.md">习的退位和接班人问题</a></li>
 <li><a href="/cbnews/20241022/2104900.md">习近平玩恐惧 王岐山身世惊悚？遭爆黑料</a></li>
+<li><a href="/comments/20241022/2105009.md">习的退位和接班人问题</a></li>
 <li><a href="/ccpdope/20241022/2105006.md">网传王岐山被软禁在家</a></li>
 <li><a href="/cbnews/20241022/2104913.md">坐实车撞中南海！替罪羊拉出来了</a></li>
 <li><a href="/cbnews/20241022/2104795.md">最新动作不寻常！习在为一场大型战争做准备？</a></li>
-<li><a href="/sohnews/20241022/2104738.md">“习近平“东一榔头 西一棒”式露面 凸显中南海权力已非昨日！《今日点击》（10 21 24） 习近平</a></li>
-<li><a href="/topimagenews/20241022/2104943.md">川普胜率狂赢30个百分点 贺锦丽败选关键遭揭</a></li>
 <li><a href="/comments/20241022/2104910.md">习近平视察火箭军遭张又侠当众羞辱？习访六尺巷释放四大信息！司马南攻击习成政坛风向标？</a></li>
+<li><a href="/topimagenews/20241022/2104943.md">川普胜率狂赢30个百分点 贺锦丽败选关键遭揭</a></li>
 <li><a href="/sohnews/20241022/2104972.md">订阅20万巨献：习近平李希拿下栗战书，王岐山被查内幕，第三次世界大战中朝悄然登场。《老灯开讲第703期》</a></li>
 <li><a href="/baitai/20241022/2105003.md">萧条令人震惊 知情人曝：中国写字楼已惨不忍睹</a></li>
 <li><a href="/topimagenews/20241022/2104772.md">中国最黑暗地方!女研究生与他一样 在同一片区离奇轻生</a></li>
 <li><a href="/cbnews/20241022/2104939.md">〖红朝浮世绘〗老百姓再不花钱银行利息就变负的了</a></li>
 <li><a href="/baitai/20241022/2105026.md">习近平军权旁落？ 新华网配图、财新网标题释不寻常信号</a></li>
-<li><a href="/topimagenews/20241022/2104898.md">一个基层干部终于说了点实话</a></li>
 <li><a href="/topimagenews/20241022/2104871.md">梦碎一地！习近平遭冷水狠泼【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20241022/2104898.md">一个基层干部终于说了点实话</a></li>
 <li><a href="/cnnews/20241022/2104859.md">看破习近平？她一语惊醒梦中人</a></li>
 <li><a href="/cnnews/20241022/2104906.md">清华教授13岁女儿被公交车售票员掐死 生前哀求</a></li>
 <li><a href="/cnnews/20241022/2104950.md">这恐怕是最后的跑路机会</a></li>
+<li><a href="/topimagenews/20241022/2104820.md">郭德纲被收编了？【阿波罗网报道】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20241011/2100443.md" target="_blank">大型系列节目：治国大道 (三) 无为而治</a></li>
-<li><a href="/lifebaike/20180527/948531.md" target="_blank">无神论是最大的迷信（上）：科学无法证实神不存在</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
-<li><a href="/comments/20231130/1967587.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （一）</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/comments/20240403/2020547.md" target="_blank">纪录片：DSM诊断与统计手册-精神病学最要命的骗局</a></li>
-<li><a href="/cbnews/20190211/1078733.md" target="_blank">胡平：法轮功为什么能强化忍的精神</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
+<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20241005/2097939.md" target="_blank">大型系列节目：治国大道  (一)  皇道无为</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
 <li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/topimagenews/20180608/954788.md" target="_blank">安乐死根本安乐不了，别宣传了</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
 <li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">纪录片《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20231203/1969183.md" target="_blank">开盖冲马桶 ，细菌会乱飞？除非你家马桶是喷泉！</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20241018/2103444.md" target="_blank">大型系列节目：治国大道 (五) 何为中国</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
 
 </ul>
 </div>
