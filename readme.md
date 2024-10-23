@@ -26,8 +26,8 @@
 <li><a href="/topimagenews/20241023/2105394.md">北交所现在也太吓人了</a></li>
 <li><a href="/ccpdope/20241023/2105388.md">一张令中南海极度尴尬的照片</a></li>
 <li><a href="/topimagenews/20241023/2105282.md">首见！墙内发起“白纸”照片征集 纪念彭立发</a></li>
-<li><a href="/cbnews/20241023/2105354.md">江峰：拒绝拥抱， 普京会晤习近平态度大变；蔡奇随行不出镜 最高权力突变欲盖弥彰； 金砖峰会各怀心机【江峰漫谈20241022第958期】</a></li>
 <li><a href="/sohnews/20241023/2105502.md">陈破空：震动！习近平前脚刚走，张又侠又主持全军大会！何卫东在台下坐冷板凳。老习摸著栏杆下飞机，身体不好，偏不带上彭丽媛之谜。中国媒体罕见把习张并列。直播与互动：美东时间10月23日早9点、中港台当晚9点</a></li>
+<li><a href="/cbnews/20241023/2105354.md">江峰：拒绝拥抱， 普京会晤习近平态度大变；蔡奇随行不出镜 最高权力突变欲盖弥彰； 金砖峰会各怀心机【江峰漫谈20241022第958期】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20241024/2105746.md" target="_blank">加州新法AB1195好吓人！</a></li>
 <li><a href="/cbnews/20241024/2105691.md" target="_blank">华尔街日报：孙雯案揭中共欲通过同乡会影响美国政治</a></li>
 <li><a href="/comments/20241024/2105686.md" target="_blank">神靠一个数字，精心设计了宇宙，还展现在我们身体里！维持数十亿年，物理学家至今无解。从基本粒子到宏观宇宙，若无此数，就是重写宇宙历史。｜ 未解之谜 扶摇</a></li>
 <li><a href="/comments/20241024/2105666.md" target="_blank">加拿大！罕见“糙面云” 诡异魔幻| 未解之谜 扶摇</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20241023/2105446.md" target="_blank">没下单却被送30台冰箱 上海女士吓坏</a></li>
 <li><a href="/cbnews/20241023/2105426.md" target="_blank">女子40万存款变为零 银行流水账单透露惊人细节</a></li>
 <li><a href="/cbnews/20241023/2105425.md" target="_blank">穿囚服、戴枷锁！中国推出“流放宁古塔”旅游</a></li>
-<li><a href="/cbnews/20241023/2105407.md" target="_blank">〖红朝浮世绘〗习总这是铁心要跟俄罗斯绑在一起陪葬了</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20241024/2105746.md" target="_blank">加州新法AB1195好吓人！</a></li>
+<li><a href="/comments/20241024/2105745.md" target="_blank">【“这不是外交问题”？】</a></li>
 <li><a href="/comments/20241024/2105686.md" target="_blank">神靠一个数字，精心设计了宇宙，还展现在我们身体里！维持数十亿年，物理学家至今无解。从基本粒子到宏观宇宙，若无此数，就是重写宇宙历史。｜ 未解之谜 扶摇</a></li>
 <li><a href="/comments/20241024/2105678.md" target="_blank">时事大家谈：中俄雄心勃勃，“金砖”实力堪比七国集团？朝鲜若参战乌克兰，战争升级后果会有多严重？</a></li>
 <li><a href="/comments/20241024/2105666.md" target="_blank">加拿大！罕见“糙面云” 诡异魔幻| 未解之谜 扶摇</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20241023/2105356.md" target="_blank">李强习近平谁害怕？属狗不能当秘书？A股不许评论了！散户遭套牢；党官花钱找小姐，民众争相点赞</a></li>
 <li><a href="/comments/20241023/2105341.md" target="_blank">被封杀文：第一批房价下跌的夫妻，已经离婚了</a></li>
 <li><a href="/comments/20241023/2105340.md" target="_blank">律侠普法｜生育问题启动抽样调查：让年轻小伙敢结婚，让年轻女人敢怀孕</a></li>
-<li><a href="/comments/20241023/2105339.md" target="_blank">被封杀文：范晓｜金沙江虎跳峡水电工程四大害</a></li>
-<li><a href="/comments/20241023/2105338.md" target="_blank">世界十字路口：七大线索指向中南海“柔性兵变”！？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20241021/2104609.md" target="_blank">大型系列节目：治国大道  (六) 治国三宝</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
-<li><a href="/comments/20240721/2065039.md" target="_blank">王建勋：川普主义是雅各宾主义的克星</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20231220/1976789.md" target="_blank">大陆医生曝：九价HPV疫苗导致怀孕能力下降40%</a></li>
+<li><a href="/tculture/20240916/2089420.md" target="_blank">诗人苏轼与黄庭坚的生命轮回</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/tculture/20190708/1154978.md" target="_blank">揭开“神用泥土造人”的秘密</a></li>
+<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/tculture/20231202/1968819.md" target="_blank">六道轮回之天神道</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
 
 </ul>
 </div>
