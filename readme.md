@@ -7,8 +7,8 @@
 
 <li><a href="/cbnews/20241024/2105761.md">青岛再爆报复社会恶性事件：“共产党不让我活”</a></li>
 <li><a href="/sohnews/20241024/2105936.md">经济沙皇朱镕基去世秘而不宣，习出访刚走张又侠号令全军京郊演练，东部战区司令林向阳带兵勤王，澳洲前总理陆克文出专著评论习近平。《老灯开讲第705期》</a></li>
-<li><a href="/comments/20241024/2105809.md">向阳：习近平难道真的蠢到这样？</a></li>
 <li><a href="/cbnews/20241024/2105926.md">是谁？北京早就已经暗示了</a></li>
+<li><a href="/comments/20241024/2105809.md">向阳：习近平难道真的蠢到这样？</a></li>
 <li><a href="/cbnews/20241024/2105833.md">惊曝：中国各地正建造秘密监狱 专门关押这些人</a></li>
 <li><a href="/topimagenews/20241024/2105804.md">💥美政坛巨震！大选突现惊人震撼一幕【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20241024/2105760.md">战狼外交崩溃！习近平对外政策大变，经济困境逼宫【阿波罗网报道】</a></li>
@@ -18,16 +18,16 @@
 <li><a href="/topimagenews/20241024/2105831.md">傻眼！重磅人物公然选择“金砖” 不要“和平” ！还笑的灿烂</a></li>
 <li><a href="/cnnews/20241024/2105890.md">女子自曝做厦门文旅局干部小四 不雅视频流出</a></li>
 <li><a href="/topimagenews/20241024/2105830.md">噩耗！昔繁华富庶之地将沦落成中共大号监狱</a></li>
+<li><a href="/topimagenews/20241024/2105832.md">【微博精粹】这就是共产党的初心</a></li>
 <li><a href="/baitai/20241024/2105970.md">“彭某在厕所里自杀”，3名辅警被调查</a></li>
 <li><a href="/topimagenews/20241024/2105774.md">💥 以军飞弹摧毁大楼 记者快门连拍记录下震惊瞬间</a></li>
-<li><a href="/topimagenews/20241024/2105832.md">【微博精粹】这就是共产党的初心</a></li>
 <li><a href="/lifebaike/20241024/2105812.md">癌症之王 竟然跟一个坏习惯有关</a></li>
 <li><a href="/topimagenews/20241024/2105855.md">中共一举动恐招致“恐怖后果”</a></li>
 <li><a href="/cbnews/20241024/2105915.md">〖红朝浮世绘〗三胖子派朝鲜兵援俄会令俄乌战争升级吗？</a></li>
+<li><a href="/cbnews/20241024/2106025.md">一迹象显示 当前军方实权或已由张又侠及其派系掌控</a></li>
 <li><a href="/sohnews/20241024/2105990.md">陈破空：诡异！习批评朝鲜参战？他在俄国遭降级待遇。普京已知习权位衰落。下机步态被锁定研究。谌贻琴可能升入政治局？瞄准四中全会。青岛武汉出大事。直播与互动：美东时间10月24日早9点、中港台当晚9点</a></li>
 <li><a href="/finance/20241024/2105927.md">“顶着坐牢的风险” 中国富人们正在做这件事</a></li>
-<li><a href="/cbnews/20241024/2106025.md">一迹象显示 当前军方实权或已由张又侠及其派系掌控</a></li>
-<li><a href="/lifebaike/20241024/2105987.md">俗话：“门口四不放，放了家运丧”，别不当回事，回家看看有没有</a></li>
+<li><a href="/topimagenews/20241024/2106090.md">“共产党不让我活了”！青岛水泥车司机逆向冲撞50车伤亡惨重</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20240403/2020547.md" target="_blank">纪录片：DSM诊断与统计手册-精神病学最要命的骗局</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20190219/1082706.md" target="_blank">胡平：法轮功信仰自由，江泽民精神控制</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20240116/1984226.md" target="_blank">湖北老河口遇仙记</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
 <li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/sohnews/20240322/2015902.md" target="_blank">巴别塔预言：末日来临的情景，被误解了5000年的故事，该如何解读？【文昭思绪飞扬335期】</a></li>
-<li><a href="/comments/20240820/2076940.md" target="_blank">惠虎宇：中华文化为什么是高级文化系统(2)</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20190220/1083672.md" target="_blank">胡平：法轮功与其他一些宗教或信仰之比较</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/lifebaike/20231208/1971242.md" target="_blank">澳洲学生成绩为何节节败退？OECD研究：玩手机和网游玩傻了</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20231207/1970628.md" target="_blank">民兵对官军，希望之声打造广播界的奇蹟【方伟时间-20231206】</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20241005/2097939.md" target="_blank">大型系列节目：治国大道  (一)  皇道无为</a></li>
 
 </ul>
 </div>
