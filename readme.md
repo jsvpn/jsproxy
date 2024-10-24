@@ -5,18 +5,14 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/yule/20241024/2105657.md">太漂亮被导演收入囊中的4女星 戏没拍完就怀孕了</a></li>
 <li><a href="/cbnews/20241024/2105761.md">青岛再爆报复社会恶性事件：“共产党不让我活”</a></li>
 <li><a href="/ccpdope/20241024/2105709.md">习近平军权易手张又侠再添新证</a></li>
-<li><a href="/topimagenews/20241024/2105636.md">为何只有中国受害？渤海湾海水倒灌 网民忧恐凶兆</a></li>
 <li><a href="/sohnews/20241024/2105936.md">经济沙皇朱镕基去世秘而不宣，习出访刚走张又侠号令全军京郊演练，东部战区司令林向阳带兵勤王，澳洲前总理陆克文出专著评论习近平。《老灯开讲第705期》</a></li>
 <li><a href="/cbnews/20241024/2105926.md">是谁？北京早就已经暗示了</a></li>
 <li><a href="/comments/20241024/2105809.md">向阳：习近平难道真的蠢到这样？</a></li>
 <li><a href="/topimagenews/20241024/2105804.md">💥美政坛巨震！大选突现惊人震撼一幕【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20241024/2105833.md">惊曝：中国各地正建造秘密监狱 专门关押这些人</a></li>
-<li><a href="/topimagenews/20241024/2105638.md">“股神”支持贺锦丽或川普选总统？巴菲特表态了</a></li>
 <li><a href="/topimagenews/20241024/2105760.md">战狼外交崩溃！习近平对外政策大变，经济困境逼宫【阿波罗网报道】</a></li>
-<li><a href="/yule/20241024/2105658.md">曝刀郎云朵恩怨始末 云朵霸占歌曲版权</a></li>
 <li><a href="/cbnews/20241024/2105909.md">彭博：台积电已查清，这个客户将芯片转供华为</a></li>
 <li><a href="/sohnews/20241024/2105856.md">温家宝当年助习上位，今成头号政敌！再错失一次机会，或步李克强后尘？</a></li>
 <li><a href="/baitai/20241024/2105766.md">英媒：习近平为何突然180度大转弯？</a></li>
@@ -24,10 +20,14 @@
 <li><a href="/cnnews/20241024/2105890.md">女子自曝做厦门文旅局干部小四 不雅视频流出</a></li>
 <li><a href="/topimagenews/20241024/2105774.md">💥 以军飞弹摧毁大楼 记者快门连拍记录下震惊瞬间</a></li>
 <li><a href="/topimagenews/20241024/2105830.md">噩耗！昔繁华富庶之地将沦落成中共大号监狱</a></li>
-<li><a href="/lifebaike/20241024/2105812.md">癌症之王 竟然跟一个坏习惯有关</a></li>
 <li><a href="/baitai/20241024/2105970.md">“彭某在厕所里自杀”，3名辅警被调查</a></li>
 <li><a href="/topimagenews/20241024/2105832.md">【微博精粹】这就是共产党的初心</a></li>
+<li><a href="/lifebaike/20241024/2105812.md">癌症之王 竟然跟一个坏习惯有关</a></li>
+<li><a href="/cbnews/20241024/2105915.md">〖红朝浮世绘〗三胖子派朝鲜兵援俄会令俄乌战争升级吗？</a></li>
 <li><a href="/topimagenews/20241024/2105855.md">中共一举动恐招致“恐怖后果”</a></li>
+<li><a href="/sohnews/20241024/2105990.md">陈破空：诡异！习批评朝鲜参战？他在俄国遭降级待遇。普京已知习权位衰落。下机步态被锁定研究。谌贻琴可能升入政治局？瞄准四中全会。青岛武汉出大事。直播与互动：美东时间10月24日早9点、中港台当晚9点</a></li>
+<li><a href="/finance/20241024/2105927.md">“顶着坐牢的风险” 中国富人们正在做这件事</a></li>
+<li><a href="/lifebaike/20241024/2105987.md">俗话：“门口四不放，放了家运丧”，别不当回事，回家看看有没有</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20241025/2106160.md" target="_blank">炸裂🤯司马南单挑习近平！围观大五毛搞事</a></li>
 <li><a href="/comments/20241024/2106142.md" target="_blank">时事大家谈：南非要求台湾代表处迁址，两岸外交博弈升级？</a></li>
 <li><a href="/comments/20241024/2106141.md" target="_blank">时事大家谈：北京称台居民赴大陆“三大增长”，真有如此吸引力？南非要求台湾代表处迁址，两岸外交博弈升级？</a></li>
 <li><a href="/comments/20241024/2106092.md" target="_blank">2500万人涌出，多州打破纪录，说明什么？｜2024美国大选｜方伟时间 10.24.2024</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20241024/2105807.md" target="_blank">在这个文明转折的关键时刻，川普必须赢</a></li>
 <li><a href="/comments/20241024/2105802.md" target="_blank">文昭：中南海倾巢出动；习想成为他，行吗？两派又到命运抉择的关头</a></li>
 <li><a href="/comments/20241024/2105796.md" target="_blank">【金砖国家在金融方面要干什么？】 10月23日，中国国家主席习近平敦促 #金砖国家 在深化金融和经济合作上起到“引领作用”，表示国际金融体系改革的需求日益迫切。并为乌克兰危机指明方向。</a></li>
-<li><a href="/comments/20241024/2105746.md" target="_blank">加州新法AB1195好吓人！</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/tculture/20240904/2083774.md" target="_blank">“几生修得到梅花”之生命品格浅议</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
 <li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20241005/2097939.md" target="_blank">大型系列节目：治国大道  (一)  皇道无为</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20231203/1969183.md" target="_blank">开盖冲马桶 ，细菌会乱飞？除非你家马桶是喷泉！</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
 <li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/taiwannews/20210119/1470524.md" target="_blank">纪录片《蚕食美国1》</a></li>
-<li><a href="/comments/20240918/2089868.md" target="_blank">马云前世修道，李嘉诚前世是和尚-数字漫谈（三）</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/ccpdope/20210120/1471113.md" target="_blank">震撼纪录片《蚕食美国》全2集</a></li>
-<li><a href="/comments/20231204/1969287.md" target="_blank">承载希望的海鸥：一个20年打造的奇迹 （三）</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/comments/20240116/1984226.md" target="_blank">湖北老河口遇仙记</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
+<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
 
 </ul>
 </div>
