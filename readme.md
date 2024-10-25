@@ -20,14 +20,14 @@
 <li><a href="/baitai/20241024/2105970.md">“彭某在厕所里自杀”，3名辅警被调查</a></li>
 <li><a href="/topimagenews/20241024/2105855.md">中共一举动恐招致“恐怖后果”</a></li>
 <li><a href="/sohnews/20241024/2105990.md">陈破空：诡异！习批评朝鲜参战？他在俄国遭降级待遇。普京已知习权位衰落。下机步态被锁定研究。谌贻琴可能升入政治局？瞄准四中全会。青岛武汉出大事。直播与互动：美东时间10月24日早9点、中港台当晚9点</a></li>
-<li><a href="/cbnews/20241024/2105915.md">〖红朝浮世绘〗三胖子派朝鲜兵援俄会令俄乌战争升级吗？</a></li>
 <li><a href="/baitai/20241024/2106107.md">习近平是金砖实际指挥者？罕见对比画面爆光 习健康问题藏不住了？</a></li>
+<li><a href="/cbnews/20241024/2105915.md">〖红朝浮世绘〗三胖子派朝鲜兵援俄会令俄乌战争升级吗？</a></li>
+<li><a href="/topimagenews/20241025/2106236.md">最高层脸丢大了！习下令直接带走 超级巨骗陪习多次重大外交 打出原形</a></li>
 <li><a href="/finance/20241024/2105927.md">“顶着坐牢的风险” 中国富人们正在做这件事</a></li>
 <li><a href="/lifebaike/20241024/2105987.md">俗话：“门口四不放，放了家运丧”，别不当回事，回家看看有没有</a></li>
 <li><a href="/lifebaike/20241024/2106000.md">菜刀上的圆孔有什么作用？10人9不知 其实这是初中物理题</a></li>
 <li><a href="/topimagenews/20241024/2105924.md">热文：川普势在必赢？市场已经用脚投票</a></li>
 <li><a href="/funmedia/20241024/2105917.md">震惊：杀人鲸表演中突排大量“粪水”泼向观众</a></li>
-<li><a href="/comments/20241024/2106022.md">习近平喀山机场遭遇“刺客”？ #俄罗斯喀山机场 #习近平 访俄罗斯</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20241025/2106292.md" target="_blank">北京陷入“瘫痪与无能”境地</a></li>
+<li><a href="/cbnews/20241025/2106291.md" target="_blank">深圳小学也传“臭肉”事件 冻鸡肉过期4年</a></li>
 <li><a href="/comments/20241025/2106265.md" target="_blank">大选倒计时：摇摆州战况有多激烈？｜周子定 ｜ 方菲时间</a></li>
 <li><a href="/comments/20241025/2106255.md" target="_blank">日裔美国人为川普助选！</a></li>
 <li><a href="/cbnews/20241025/2106252.md" target="_blank">给中国共产党敲响丧钟</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20241024/2106027.md" target="_blank">六名中共火箭军高级将领接连去世显诡异</a></li>
 <li><a href="/cbnews/20241024/2106026.md" target="_blank">中共量产歼-20？分析：难以和F-35战机抗衡</a></li>
 <li><a href="/cbnews/20241024/2106025.md" target="_blank">一迹象显示 当前军方实权或已由张又侠及其派系掌控</a></li>
-<li><a href="/cbnews/20241024/2105948.md" target="_blank">中国超会钻漏洞! 大量中企在加州测试汽车自驾 美忧国安风险颁禁令</a></li>
-<li><a href="/cbnews/20241024/2105947.md" target="_blank">南航航班擦机尾事故隐瞒多日 传飞机全损报废</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20241025/2106296.md" target="_blank">凤羽财经：以色列这招太绝了…</a></li>
+<li><a href="/comments/20241025/2106295.md" target="_blank">习近平惨成边缘人！普京向金正恩借刀</a></li>
+<li><a href="/comments/20241025/2106290.md" target="_blank">习近平要收拾司马南？</a></li>
 <li><a href="/comments/20241025/2106273.md" target="_blank">金正恩人小鬼大 几大动作助选川普</a></li>
 <li><a href="/comments/20241025/2106265.md" target="_blank">大选倒计时：摇摆州战况有多激烈？｜周子定 ｜ 方菲时间</a></li>
 <li><a href="/comments/20241025/2106264.md" target="_blank">【习近平呼吁金砖集团扩招】</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20241024/2105881.md" target="_blank">反省香港民主抗争道路，为未来光复香港作准备</a></li>
 <li><a href="/comments/20241024/2105879.md" target="_blank">习近平腹背受敌：张又侠後院点火？普京报复？蔡奇金砖峰会衰成影子人？</a></li>
 <li><a href="/comments/20241024/2105868.md" target="_blank">林保华：汉奸炒股，这是什么市场经济？</a></li>
-<li><a href="/comments/20241024/2105862.md" target="_blank">马斯克出大招：每天造一个百万富翁！ 美国大选 2024总统大选</a></li>
-<li><a href="/comments/20241024/2105858.md" target="_blank">治国大道：治国三宝</a></li>
-<li><a href="/comments/20241024/2105837.md" target="_blank">世界之瞳：马斯克竟然是个段子手</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20231220/1976789.md" target="_blank">大陆医生曝：九价HPV疫苗导致怀孕能力下降40%</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/sohnews/20240923/2092491.md" target="_blank">布兰登比格斯曾听到两位天使的对话，对他震动很大&#8230;&#8230;</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/cbnews/20190701/1151453.md" target="_blank">盘点十大邪教特征 中共条条对号入座</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/tculture/20231217/1975364.md" target="_blank">医山夜话：张锡纯医案解读（1）根治失眠 思路清晰</a></li>
-<li><a href="/lifebaike/20180527/948531.md" target="_blank">无神论是最大的迷信（上）：科学无法证实神不存在</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/tculture/20220622/1748765.md" target="_blank">影响人类的两个图案——太极图和卍字符</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20241021/2104609.md" target="_blank">大型系列节目：治国大道  (六) 治国三宝</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/cbnews/20240904/2083703.md" target="_blank">复眼与变态 昆虫奥秘令进化论失据</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/sohnews/20240908/2085761.md" target="_blank">初次见到神；看到兽的印记；目睹灾难来临时什么样的人会被留下</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/sohnews/20240923/2092495.md" target="_blank">布兰登‧比格斯第一次见到神：有人升空 有人在追捕牧师</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
 
 </ul>
 </div>
