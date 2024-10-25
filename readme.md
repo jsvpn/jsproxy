@@ -7,27 +7,27 @@
 
 <li><a href="/sohnews/20241024/2105936.md">经济沙皇朱镕基去世秘而不宣，习出访刚走张又侠号令全军京郊演练，东部战区司令林向阳带兵勤王，澳洲前总理陆克文出专著评论习近平。《老灯开讲第705期》</a></li>
 <li><a href="/cbnews/20241024/2105926.md">是谁？北京早就已经暗示了</a></li>
-<li><a href="/cbnews/20241024/2105833.md">惊曝：中国各地正建造秘密监狱 专门关押这些人</a></li>
-<li><a href="/sohnews/20241024/2105856.md">温家宝当年助习上位，今成头号政敌！再错失一次机会，或步李克强后尘？</a></li>
 <li><a href="/cbnews/20241024/2105909.md">彭博：台积电已查清，这个客户将芯片转供华为</a></li>
+<li><a href="/sohnews/20241024/2105856.md">温家宝当年助习上位，今成头号政敌！再错失一次机会，或步李克强后尘？</a></li>
 <li><a href="/cnnews/20241024/2105890.md">女子自曝做厦门文旅局干部小四 不雅视频流出</a></li>
-<li><a href="/topimagenews/20241024/2105831.md">傻眼！重磅人物公然选择“金砖” 不要“和平” ！还笑的灿烂</a></li>
-<li><a href="/topimagenews/20241024/2105832.md">【微博精粹】这就是共产党的初心</a></li>
-<li><a href="/cbnews/20241024/2106094.md">公公竟用儿媳“抵债”,联合他人共同强奸18个月</a></li>
-<li><a href="/topimagenews/20241024/2105830.md">噩耗！昔繁华富庶之地将沦落成中共大号监狱</a></li>
-<li><a href="/topimagenews/20241024/2106090.md">“共产党不让我活了”！青岛水泥车司机逆向冲撞50车伤亡惨重</a></li>
 <li><a href="/cbnews/20241024/2106025.md">一迹象显示 当前军方实权或已由张又侠及其派系掌控</a></li>
+<li><a href="/cbnews/20241024/2106094.md">公公竟用儿媳“抵债”,联合他人共同强奸18个月</a></li>
+<li><a href="/topimagenews/20241024/2106090.md">“共产党不让我活了”！青岛水泥车司机逆向冲撞50车伤亡惨重</a></li>
+<li><a href="/topimagenews/20241025/2106236.md">最高层脸丢大了！习下令直接带走 超级巨骗陪习多次重大外交 打出原形</a></li>
 <li><a href="/baitai/20241024/2105970.md">“彭某在厕所里自杀”，3名辅警被调查</a></li>
 <li><a href="/topimagenews/20241024/2105855.md">中共一举动恐招致“恐怖后果”</a></li>
 <li><a href="/sohnews/20241024/2105990.md">陈破空：诡异！习批评朝鲜参战？他在俄国遭降级待遇。普京已知习权位衰落。下机步态被锁定研究。谌贻琴可能升入政治局？瞄准四中全会。青岛武汉出大事。直播与互动：美东时间10月24日早9点、中港台当晚9点</a></li>
 <li><a href="/baitai/20241024/2106107.md">习近平是金砖实际指挥者？罕见对比画面爆光 习健康问题藏不住了？</a></li>
 <li><a href="/cbnews/20241024/2105915.md">〖红朝浮世绘〗三胖子派朝鲜兵援俄会令俄乌战争升级吗？</a></li>
-<li><a href="/topimagenews/20241025/2106236.md">最高层脸丢大了！习下令直接带走 超级巨骗陪习多次重大外交 打出原形</a></li>
 <li><a href="/finance/20241024/2105927.md">“顶着坐牢的风险” 中国富人们正在做这件事</a></li>
 <li><a href="/lifebaike/20241024/2105987.md">俗话：“门口四不放，放了家运丧”，别不当回事，回家看看有没有</a></li>
 <li><a href="/lifebaike/20241024/2106000.md">菜刀上的圆孔有什么作用？10人9不知 其实这是初中物理题</a></li>
 <li><a href="/topimagenews/20241024/2105924.md">热文：川普势在必赢？市场已经用脚投票</a></li>
 <li><a href="/funmedia/20241024/2105917.md">震惊：杀人鲸表演中突排大量“粪水”泼向观众</a></li>
+<li><a href="/comments/20241024/2106022.md">习近平喀山机场遭遇“刺客”？ #俄罗斯喀山机场 #习近平 访俄罗斯</a></li>
+<li><a href="/cbnews/20241024/2106095.md">两家长班级群相识后出轨私奔生子，被判重婚罪</a></li>
+<li><a href="/topimagenews/20241024/2106145.md">比金融海啸恐怖！巴菲特指标飙到200％ 专家揭股市闪崩多少？</a></li>
+<li><a href="/cbnews/20241024/2106043.md">中国青年租房躺平 山东酒店海景房一天仅17元</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20241025/2106308.md" target="_blank">江峰：金正恩爆习近平出钱雇用朝鲜士兵援俄，北约韩国拟出兵对抗，战争升级在即【江峰漫谈20241024第959期】</a></li>
 <li><a href="/cbnews/20241025/2106292.md" target="_blank">北京陷入“瘫痪与无能”境地</a></li>
 <li><a href="/cbnews/20241025/2106291.md" target="_blank">深圳小学也传“臭肉”事件 冻鸡肉过期4年</a></li>
 <li><a href="/comments/20241025/2106265.md" target="_blank">大选倒计时：摇摆州战况有多激烈？｜周子定 ｜ 方菲时间</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20241024/2106028.md" target="_blank">为太平洋战争备战 美陆军训练“掌控黑夜”</a></li>
 <li><a href="/cbnews/20241024/2106027.md" target="_blank">六名中共火箭军高级将领接连去世显诡异</a></li>
 <li><a href="/cbnews/20241024/2106026.md" target="_blank">中共量产歼-20？分析：难以和F-35战机抗衡</a></li>
-<li><a href="/cbnews/20241024/2106025.md" target="_blank">一迹象显示 当前军方实权或已由张又侠及其派系掌控</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/tculture/20220622/1748765.md" target="_blank">影响人类的两个图案——太极图和卍字符</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20241021/2104609.md" target="_blank">大型系列节目：治国大道  (六) 治国三宝</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/cbnews/20240904/2083703.md" target="_blank">复眼与变态 昆虫奥秘令进化论失据</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/sohnews/20240908/2085761.md" target="_blank">初次见到神；看到兽的印记；目睹灾难来临时什么样的人会被留下</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/sohnews/20240923/2092495.md" target="_blank">布兰登‧比格斯第一次见到神：有人升空 有人在追捕牧师</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/cbnews/20240715/2062387.md" target="_blank">尧帝治世之道（一）</a></li>
+<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/comments/20130625/144109.md" target="_blank">马桶开盖冲水更好！你做对了吗？</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
 <li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/taiwannews/20210119/1470524.md" target="_blank">纪录片《蚕食美国1》</a></li>
+<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20231220/1976789.md" target="_blank">大陆医生曝：九价HPV疫苗导致怀孕能力下降40%</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
+<li><a href="/bblog/20240813/2073608.md" target="_blank">惊人内幕：脑死亡不是死亡，只是深度昏迷骗你捐器官</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
 
 </ul>
 </div>
